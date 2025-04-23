@@ -20,10 +20,25 @@
   */
 
   {
-    title:'',
+    title:'Kodai Diaries [Season 1] WEB-DL [Hindi + English] | All Episodes',
     im:'',
-    dl:'',
+    dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=cZqDbvJr&sn=1&es=Kodai.Diaries.S01.720p.Hindi.WEB-DL.2.0.ESub.x264-HDHub4u.Ms/Kodai.Diaries.S01E&e=6&el=.720p.Hindi.WEB-DL.2.0.ESub.x264-HDHub4u.Ms.mkv',
     link: ''
+    },
+
+  {
+    title:'Andor [Season 2] [Episode 3] WEB-DL [Hindi + English] [HEVC]',
+    im:'y0j9HbsWnkn1TlT6Y52ZrsvysgU',
+    dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Andor.S02E03.720p.10Bit.WEB-DL.Hindi.5.1-English.HEVC.x265-HDHub4u.Ms.mkv',
+    link: 'tt9253284'
+    },
+
+
+  {
+    title:'Bullet Train Explosion [2025] WEB-DL [Hindi + English] [HEVC] | Full Movie',
+    im:'iLXp24WqbbGlMOgoj7AheJgftxi',
+    dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Bullet.Train.Explosion.2025.720p.HEVC.WEB-DL.Hindi-English.ESub.x265-HDHub4u.Ms.mkv',
+    link: 'tt33452974'
     },
 
  {

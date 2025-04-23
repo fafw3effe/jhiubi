@@ -27,7 +27,7 @@
     },
 
   {
-    title:'Andor [Season 2] [Episode 3] WEB-DL [Hindi + English] [HEVC]',
+    title:'Star Wars: Andor [Season 2] [Episode 3] WEB-DL [Hindi + English] [HEVC]',
     im:'y0j9HbsWnkn1TlT6Y52ZrsvysgU',
     dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Andor.S02E03.720p.10Bit.WEB-DL.Hindi.5.1-English.HEVC.x265-HDHub4u.Ms.mkv',
     link: 'tt9253284'

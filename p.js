@@ -21,7 +21,7 @@
 
   {
     title:'Kodai Diaries [Season 1] WEB-DL [Hindi + English] | All Episodes',
-    im:'',
+    im:'sG90D0atz26PcWVFcUYSbL2mUtu',
     dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=cZqDbvJr&sn=1&es=Kodai.Diaries.S01.720p.Hindi.WEB-DL.2.0.ESub.x264-HDHub4u.Ms/Kodai.Diaries.S01E&e=6&el=.720p.Hindi.WEB-DL.2.0.ESub.x264-HDHub4u.Ms.mkv',
     link: ''
     },

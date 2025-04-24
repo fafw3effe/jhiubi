@@ -20,7 +20,22 @@ link: ''
 */
 
 {
-  title:'You [Season 5] WEB-DL [Hindi + English] | All Episodes',
+  title:'Peaky Blinders [Season 1] [Episode 2] WEB-DL [Hindi + English] [HEVC]',
+  im:'vPlsKun2WZEsqe3yZTmebxtwElW',
+  dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Peaky.Blinders.S01.E02.720p.10Bit.HEVC.BluRay.Hindi.2.0-English.2.0.ESub.x265-HDHub4u.Ms.mkv',
+  link: 'tt2442560'
+  },
+
+
+{
+  title:'Ash [2025] WEB-DL [Hindi] [HEVC] | Full Movie',
+  im:'5Oz39iyRuztiA8XqCNVDBuy2Ut3',
+  dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Ash.2025.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv',
+  link: 'tt17489650'
+  },
+
+{
+  title:'You [Season 5] WEB-DL [Hindi + English] [HEVC] | All Episodes',
   im:'vzgsobZmNxJyJ64ejTOUXvJ9UBn',
   dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=RjT9BADy&sn=6&es=YOU.S05.720p.10Bit.HEVC.WEB-DL.Hindi.5.1-English.5.1.ESub.x265-HDHub4u.Ms/You.S05E&e=10&el=..720p.10Bit.HEVC.WEB-DL.Hindi.5.1-English.5.1.ESub.x265-HDHub4u.Ms.mkv',
   link: 'tt7335184'

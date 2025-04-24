@@ -20,6 +20,13 @@
   */
 
   {
+    title:'Veera Dheera Sooran: Part 2 [2025] WEB-DL [Hindi - HQ/Studio Dub] [HEVC] | Full Movie',
+    im:'a3dBrs38ame4Wm4AG94l4RdNwBQ',
+    dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Veera.Dheera.Sooran.Part.2.2025.720p.HEVC.WEB-DL.Hindi-Tamil.ESub.x265-HDHub4u.Ms.mkv',
+    link: 'tt29606499'
+    },
+
+  {
     title:'Peaky Blinders [Season 1] [Episode 1] WEB-DL [Hindi + English] [HEVC]',
     im:'vPlsKun2WZEsqe3yZTmebxtwElW',
     dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Peaky.Blinders.S01.E01.720p.10Bit.HEVC.BluRay.Hindi.2.0-English.2.0.ESub.x265-HDHub4u.Ms.mkv',
@@ -124,13 +131,6 @@
   im:'geCRueV3ElhRTr0xtJuEWJt6dJ1',
   dl: 'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Solo%20Leveling-S02E13-720p-[HIN-ENG-JAP]-PIKAHD.COM.mkv',
   link: 'tt21209876'
-  },
-
-  {
-  title:'Veera Dheera Sooran: Part 2 [2025] WEB-DL [Hindi - HQ/Studio Dub] [HEVC] | Full Movie',
-  im:'a3dBrs38ame4Wm4AG94l4RdNwBQ',
-  dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Veera.Dheera.Sooran.2025.720p.HEVC.WEB-DL.Hindi-HQ-Studio.Dub.x265-HDHub4u.Ms.mkv',
-  link: 'tt29606499'
   },
 
   {

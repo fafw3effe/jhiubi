@@ -19,6 +19,21 @@ link: ''
 
 */
 
+
+{
+title:'Mad Square [2025] WEB-DL [Hindi] [HEVC] | Full Movie',
+im:'lpDIBzzkyFoDqWTh46OqUEuGVxS',
+dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Mad.Square.2025.720p.HEVC.WEB-DL.Hindi.5.1-Telugu.ESub.x265-HDHub4u.Ms.mkv',
+link: 'tt32327574'
+},
+
+{
+title:'Absolution [2024] WEB-DL [Hindi] [HEVC] | Full Movie',
+im:'gt70JOD9xsPlpJnuBJAWdOT4yRg',
+dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Absolution.2024.720p.10Bit.BluRay.Hindi.2.0-English.HEVC.x265-HDHub4u.Ms.mkv',
+link: 'tt8337290'
+},
+
 {
   title:'Peaky Blinders [Season 1] [Episode 2] WEB-DL [Hindi + English] [HEVC]',
   im:'vPlsKun2WZEsqe3yZTmebxtwElW',

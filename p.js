@@ -20,6 +20,14 @@ link: ''
 */
 
 {
+  title:'Peaky Blinders [Season 1] [Episode 3] WEB-DL [Hindi + English] [HEVC]',
+  im:'vPlsKun2WZEsqe3yZTmebxtwElW',
+  dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Peaky.Blinders.S01.E03.720p.10Bit.HEVC.BluRay.Hindi.2.0-English.2.0.ESub.x265-HDHub4u.Ms.mkv',
+  link: 'tt2442560'
+  },
+
+
+{
 title:'Valerian and the City of a Thousand Planets [2017] WEB-DL [Hindi] [HEVC] | Full Movie',
 im:'vlc95gl3PtrjxSEuM8RhTtSm2xU',
 dl:'https://pub-4f43d576c6ca4f9998fe276426dc5a19.r2.dev/Valerian.and.the.City.of.a.Thousand.Planets.2017.720p.10bit.BluRay.HIN-ENG.x265.ESub.Vegamovies.To.mkv',

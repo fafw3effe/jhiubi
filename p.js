@@ -19,6 +19,47 @@ link: ''
 
 */
 
+{
+title:'Weak Hero [Season 2] WEB-DL [Hindi + English] | All Episodes',
+im:'aW7mGixv2dZdQtbve4deYyfewHH',
+dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=ZVJGh1Po&sn=2&es=Weak.Hero.S02.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms/Weak.Hero.S02E&e=6&el=.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv',
+link: 'tt20234568'
+},
+
+{
+title:'Ayyana Mane [Season 1] WEB-DL [Hindi + English] | All Episodes',
+im:'ktGeo5XTYoR0jxnIFjcdzlxW1Ol',
+dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=7RoQv45n&sn=1&es=Ayyana.Mane.S01.720p.WEB-DL.Hindi.5.1-Kannada.5.1.ESub.x264-HDHub4u.Ms/Ayyana.Mane.S01E&e=6&el=.720p.WEB-DL.Hindi.5.1-Kannada.5.1.ESub.x264-HDHub4u.Ms.mkv',
+link: 'tt36507686'
+},
+
+{
+title:'Ground Zero [2025] HQ-V2 HDTC [Hindi] [HEVC] | Full Movie',
+im:'dZILOHlX1LfboYsaeDMdMwdF5nN',
+dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Ground-Zero.2025.720p.HEVC.HDTC.Hindi-ORG.x265-HDHub4u.Ms.mkv',
+link: 'tt28377588'
+},
+
+{
+title:'Jewel Thief - The Heist Begins [2025] WEB-DL [Hindi] [HEVC] | Full Movie',
+im:'eujLbO0kf1eqWC8XpHUJdtAVW2J',
+dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Jewel.Thief.The.Heist.Begins.2025.720p.10Bit.Hindi.WEB-DL.5.1.HEVC.x265-HDHub4u.Ms.mkv',
+link: 'tt27843798'
+},
+
+{
+title:'Havoc [2025] WEB-DL [Hindi + English] [HEVC] | Full Movie',
+im:'r46leE6PSzLR3pnVzaxx5Q30yUF',
+dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Havoc.2025.720p.10Bit.WEB-DL.Hindi.5.1-English.HEVC.x265-HDHub4u.Ms.mkv',
+link: 'tt14123284'
+},
+
+{
+title:'Ash [2025] WEB-DL [Hindi + English] [HEVC] | Full Movie',
+im:'5Oz39iyRuztiA8XqCNVDBuy2Ut3',
+dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Ash.2025.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv',
+link: 'tt17489650'
+},  
 
 {
 title:'Mad Square [2025] WEB-DL [Hindi] [HEVC] | Full Movie',

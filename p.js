@@ -20,6 +20,27 @@ link: ''
 */
 
 {
+title:'Valerian and the City of a Thousand Planets [2017] WEB-DL [Hindi] [HEVC] | Full Movie',
+im:'vlc95gl3PtrjxSEuM8RhTtSm2xU',
+dl:'https://pub-4f43d576c6ca4f9998fe276426dc5a19.r2.dev/Valerian.and.the.City.of.a.Thousand.Planets.2017.720p.10bit.BluRay.HIN-ENG.x265.ESub.Vegamovies.To.mkv',
+link: 'tt2239822'
+},
+
+{
+title:'Wednesday [Season 1] WEB-DL [Hindi + English] [HEVC] | All Episodes',
+im:'9PFonBhy4cQy7Jz20NpMygczOkv',
+dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=VaGLPVSE&sn=1&es=Wednesday.S01.720p.10Bit.WEB-DL.Hindi.5.1-English.HEVC.x265-HDHub4u.Tv/Wednesday.S01.E&e=8&el=.720p.10Bit.WEB-DL.Hindi.5.1-English.HEVC.x265-HDHub4u.Tv.mkv',
+link: 'tt13443470'
+},
+
+{
+title:'Jamtara - Sabka Number Ayega [Season 2] WEB-DL [Hindi] | All Episodes',
+im:'ewCGnOz5VBhT8CD8NTSvo9OLybW',
+dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=oDM9dDB1&sn=2&es=Jamtara.-.Sabka.Number.Ayega.S02.720p.WEB-DL.AAC.5.1.ESub.x264-HDHub4u.TV/Jamtara.-.Sabka.Number.Ayega.S02E&e=8&el=.720p.WEB-DL.AAC.5.1.ESub.x264-HDHub4u.TV.mkv',
+link: 'tt11150912'
+},
+
+{
 title:'Weak Hero [Season 2] WEB-DL [Hindi + English] | All Episodes',
 im:'aW7mGixv2dZdQtbve4deYyfewHH',
 dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=ZVJGh1Po&sn=2&es=Weak.Hero.S02.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms/Weak.Hero.S02E&e=6&el=.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv',

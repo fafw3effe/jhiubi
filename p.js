@@ -1511,7 +1511,7 @@ function displayMovies() {
     thumbnailLink.rel = 'nofollow';
 
     const thumbnail = document.createElement('img');
-    thumbnail.src = 'https://media.themoviedb.org/t/p/w188_and_h282_bestv2/' + movie.im + '.jpg';
+    thumbnail.src = 'https://image.tmdb.org/t/p/original/' + movie.im + '.jpg';
     thumbnail.className = 'movie-thumbnail';
     thumbnail.alt = movie.title;
 

@@ -1,11 +1,10 @@
-
 window.onload = function() {
   const urlParams = new URLSearchParams(window.location.search);
   const searchQuery = urlParams.get('s') || '';
   const pageParam = urlParams.get('p') || 1;
   document.getElementById('search').value = searchQuery;
   currentPage = parseInt(pageParam);
-  displayMovies();
+  loadMoviesForPage(currentPage);
 };
 
 const movies = [
@@ -21,11 +20,11 @@ link: ''
 */
 
 {
-title:'Peaky Blinders [Season 1] [Episode 3] WEB-DL [Hindi + English] [HEVC]',
-im:'vPlsKun2WZEsqe3yZTmebxtwElW',
-dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Peaky.Blinders.S01.E03.720p.10Bit.HEVC.BluRay.Hindi.2.0-English.2.0.ESub.x265-HDHub4u.Ms.mkv',
-link: 'tt2442560'
-},
+  title:'Peaky Blinders [Season 1] [Episode 3] WEB-DL [Hindi + English] [HEVC]',
+  im:'vPlsKun2WZEsqe3yZTmebxtwElW',
+  dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Peaky.Blinders.S01.E03.720p.10Bit.HEVC.BluRay.Hindi.2.0-English.2.0.ESub.x265-HDHub4u.Ms.mkv',
+  link: 'tt2442560'
+  },
 
 
 {
@@ -106,26 +105,26 @@ link: 'tt8337290'
 },
 
 {
-title:'Peaky Blinders [Season 1] [Episode 2] WEB-DL [Hindi + English] [HEVC]',
-im:'vPlsKun2WZEsqe3yZTmebxtwElW',
-dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Peaky.Blinders.S01.E02.720p.10Bit.HEVC.BluRay.Hindi.2.0-English.2.0.ESub.x265-HDHub4u.Ms.mkv',
-link: 'tt2442560'
-},
+  title:'Peaky Blinders [Season 1] [Episode 2] WEB-DL [Hindi + English] [HEVC]',
+  im:'vPlsKun2WZEsqe3yZTmebxtwElW',
+  dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Peaky.Blinders.S01.E02.720p.10Bit.HEVC.BluRay.Hindi.2.0-English.2.0.ESub.x265-HDHub4u.Ms.mkv',
+  link: 'tt2442560'
+  },
 
 
 {
-title:'Ash [2025] WEB-DL [Hindi] [HEVC] | Full Movie',
-im:'5Oz39iyRuztiA8XqCNVDBuy2Ut3',
-dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Ash.2025.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv',
-link: 'tt17489650'
-},
+  title:'Ash [2025] WEB-DL [Hindi] [HEVC] | Full Movie',
+  im:'5Oz39iyRuztiA8XqCNVDBuy2Ut3',
+  dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Ash.2025.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv',
+  link: 'tt17489650'
+  },
 
 {
-title:'You [Season 5] WEB-DL [Hindi + English] [HEVC] | All Episodes',
-im:'vzgsobZmNxJyJ64ejTOUXvJ9UBn',
-dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=RjT9BADy&sn=6&es=YOU.S05.720p.10Bit.HEVC.WEB-DL.Hindi.5.1-English.5.1.ESub.x265-HDHub4u.Ms/You.S05E&e=10&el=..720p.10Bit.HEVC.WEB-DL.Hindi.5.1-English.5.1.ESub.x265-HDHub4u.Ms.mkv',
-link: 'tt7335184'
-},
+  title:'You [Season 5] WEB-DL [Hindi + English] [HEVC] | All Episodes',
+  im:'vzgsobZmNxJyJ64ejTOUXvJ9UBn',
+  dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=RjT9BADy&sn=6&es=YOU.S05.720p.10Bit.HEVC.WEB-DL.Hindi.5.1-English.5.1.ESub.x265-HDHub4u.Ms/You.S05E&e=10&el=..720p.10Bit.HEVC.WEB-DL.Hindi.5.1-English.5.1.ESub.x265-HDHub4u.Ms.mkv',
+  link: 'tt7335184'
+  },
 
 {
 title:'Samajavaragamana [2025] WEB-DL [Hindi] [HEVC] | Full Movie',
@@ -984,100 +983,100 @@ link: 'tt1104001'
 title:'Bhoothakaalam (2022) [Hindi - HQ/Studio Dub] WEB-DL [HEVC] | Full Movie [Without-ADs]',
 im:'8yF6A2dwzgHaR3XnO6jdhTsJ9Jp',
 dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Bhoothakaalam.2022.720p.HEVC.WEB-DL.Hindi-HQ.Studio.Dub.x265-HDHub4u.Ms.mkv',
-link: 'tt15560626'
+    link: 'tt15560626'
 
 },
 {
 title:'Good Bad Ugly (2025) PRE-HD [Tamil DD2.0] [HEVC] | Full Movie',
 im:'8DbYYluzdiGDAZzsaP7DWGbwfLd',
 dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Good.Bad.Ugly.2025.720p.HEVC.PRE-HD.Tamil.x265-HDHub4u.Ms.mkv',
-link: 'tt27540217'
+    link: 'tt27540217'
 
 },
 {
 title:'Robinhood (2025) PRE-HD Dual Audio [Hindi (LQ Dub) - Telugu 2.0] | Full Movie',
 im:'zeH5oAM1A3zgXbvQ3L9GiDs3ldQ',
 dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Robinhood.2025.PRE-HD.Hindi.LQ.Dub.+.Telugu.720p.x264.AVC.2.0.Vegamovies.is.mkv',
-link: 'tt27171077'
+    link: 'tt27171077'
 },
 
 
-{
-title: 'Test (2025) WEB-DL [Hindi (DD5.1) & Tamil] [HEVC] | Full Movie',
-im:'8jZaBr3dTIW8N4D6F4Cprssfm7V',
-dl: 'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/TEST.2025.720p.HEVC.WEB-DL.Hindi.2.0-Tamil.2.0.ESub.x265-HDHub4u.Ms.mkv', 
-link: 'tt27477888'
-},
+  {
+    title: 'Test (2025) WEB-DL [Hindi (DD5.1) & Tamil] [HEVC] | Full Movie',
+    im:'8jZaBr3dTIW8N4D6F4Cprssfm7V',
+    dl: 'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/TEST.2025.720p.HEVC.WEB-DL.Hindi.2.0-Tamil.2.0.ESub.x265-HDHub4u.Ms.mkv', 
+    link: 'tt27477888'
+  },
+  
+  {
+    title: 'Jaat (2025) V2-HDTC [Hindi ORG-2.0] [HEVC] | Full Movie',
+    im:'guTflsCTgLNqTbpHTi9gJANk1Rf',
+    dl: 'https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Jaat.2025.720p.HEVC.Hindi.HDTC.2.0.HC.ESub.x265.HDHub4u.Ms.mkv', 
+    link: 'tt32223398'
+  },
 
-{
-title: 'Jaat (2025) V2-HDTC [Hindi ORG-2.0] [HEVC] | Full Movie',
-im:'guTflsCTgLNqTbpHTi9gJANk1Rf',
-dl: 'https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Jaat.2025.720p.HEVC.Hindi.HDTC.2.0.HC.ESub.x265.HDHub4u.Ms.mkv', 
-link: 'tt32223398'
-},
-
-{
+  {
 title: 'Squid Game [Season 1-2] WEB-DL [Hindi (ORG 5.1) & English] [HEVC] | [ALL Episodes] | NetFlix Series',
 im:'caq0z9C2vvKdDhGe1EX6nerswV5',
 dl: 'https://sdfefed.blogspot.com/2025/04/sddfsdfs.html',
 link: 'tt10919420'
-},
-
-{ title: 'Pintu Ki Pappi (2025) WEB-DL [Hindi DD2.0] | Full Movie', im:'aruhGpOwJ5ncEqpZwwqUbP0jWwJ', dl: 'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Pintu.Ki.Pappi.2025.1080p.HEVC.WEB-DL.Hindi.2.0.HC-ESub.x264-HDHub4u.Ms.mkv' , link: 'tt35162972' },  
-
-{ title: 'Superboys of Malegaon (2025) WEB-DL [Hindi DD5.1] [HEVC] | Full Movie', im: 'kH8vwnusn83pfHX8tgIIEPbaPd5', dl: 'https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Superboys.of.Malegaon.2025.720p.HEVC.Hindi.WEB.DL.HC.Sub.x265.HDHub4US.com.mkv' , link: 'tt28007064' },
-
-
-{ title: 'G20 (2025) WEB-DL [Hindi (DD5.1) & English] | Full Movie', im:'tSee9gbGLfqwvjoWoCQgRZ4Sfky', dl: 'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/G20.2025.WEB-DL.720p.x264.HiN.ENG.DD+5.1.192Kbps.ESub.Vegamovies.is.mkv' , link: 'tt23476986' },
-    
-{ title: 'Karma (Season 1) WEB-DL [Hindi (DD5.1) & English] NetFlix Series | ALL Episodes', im:'2G99FfWYCAdsmAIZO8zGFjcDidY', dl: 'https://qwrqwrqwr.rf.gd/a/a.php?d10=6U9HaVwhcK' , link: 'tt29921070' },
-
-{ title: 'The Gardener (Season 1) WEB-DL [Hindi (DD 5.1) & English] | NetFlix Series', im:'l2Fy8vvr27vbYJOPe49EfVd5Qli', dl: 'https://qwrqwrqwr.rf.gd/a/a.php?d10=Xx4hmDIJqs' , link: 'tt30494784' },
-
-{ title: 'The Legend of Hanuman (Season 6) WEB-DL [Hindi DD5.1] | ALL Episodes [JioHotStar Series]', im:'kqA6PqHflS1JNI8kRVXczSLywYx', dl: 'https://qwrqwrqwr.rf.gd/a/a.php?d10=Eoj1z8CcNK' , link: 'tt13854248' },
-
-{ title: 'Novocaine (2025) WEB-DL [Hindi (DD5.1) & English] [HEVC] | Full Movie', im:'6GbUXZ1gvGrZlZFDjG9SunxFlSl', dl: 'https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Novocaine.2025.720p.10bit.WEB.DL.Hindi.5.1.English.5.1.ESub.x265.HDHub4u.Ms.mkv' , link: 'tt29603959' },
-
-{ title: 'Avengers: Endgame (2019) [Hindi-English] | Full Movie', im:'ulzhLuWrPK07P1YkdWQLZnQh1JL', dl: 'https://pub-745ce71e61f84b518ab187ebacfe4d6a.r2.dev/Avengers.Endgame.2019.720p.BrRip.Hin-Eng.x265.Vegamovies.NL.mkv', link: 'tt4154796' },
-
-{ title: 'Avengers: Infinity War (2018) [Hindi-English] | Full Movie',im:'7WsyChQLEftFiDOVTGkv3hFpyyt', dl: 'https://pixeldrain.net/api/file/jXMf8Qmf?download', link: 'tt4154756' },
-
-{ title: 'Spider-Man: No Way Home (2021) BluRay [Hindi (ORG 5.1) & English] [HEVC] | Full Movie',im:'1g0dhYtq4irTY1GPXvft6k4YLjm', dl: 'https://pixeldrain.net/api/file/ngYtRmFq?download', link: 'tt10872600' },
-
-{ title: 'Guardians of the Galaxy (2014) IMAX [Hindi-English] | Full Movie', im:'jPrJPZKJVhvyJ4DmUTrDgmFN0yG', dl: 'https://pixeldrain.net/api/file/JCBCdL6f?download', link: 'tt2015381' },
-
-{ title: 'Iron Man (2008) BluRay [Hindi (ORG 5.1) & English] [HEVC] | Full Movie',im:'78lPtwv72eTNqFW9COBYI0dWDJa', dl: 'https://pixeldrain.net/api/file/SSYC88zs?download', link: 'tt0371746' },
-
-{ title: 'Captain America: The Winter Soldier (2014) [Hindi-English] | Full Movie', im:'tVFRpFw3xTedgPGqxW0AOI8Qhh0', dl: 'https://pixeldrain.net/api/file/LprmzF1H?download', link: 'tt1843866' },
-
-{ title: 'Black Panther (2018) iMAX BluRay [Hindi (ORG 5.1) & English] [HEVC] | Full Movie',im:'uxzzxijgPIY7slzFvMotPv8wjKA', dl: 'https://pixeldrain.net/api/file/v24zCqcg?download', link: 'tt1825683' },
-
-{ title: 'Thor: Ragnarok (2017) BluRay [Hindi-English] | Full Movie',im:'rzRwTcFvttcN1ZpX2xv4j3tSdJu', dl: 'https://pixeldrain.net/api/file/rEgX6zf8?download', link: 'tt3501632' },
-
-{ title: 'Doctor Strange (2016) [Hindi-English] | Full Movie',im:'uGBVj3bEbCoZbDjjl9wTxcygko1', dl: 'https://pixeldrain.net/api/file/zr6QWVmq?download', link: 'tt1211837' },
-
-{ title: 'Captain America: Civil War (2016) [Hindi-English] | Full Movie',im:'rAGiXaUfPzY7CDEyNKUofk3Kw2e', dl: 'https://pixeldrain.net/api/file/brH7uRP6?download', link: 'tt3498820' },
-
-{ title: 'K.G.F: Chapter 2 (2022) Hindi (ORG 5.1) WEB-DL [ESubs] | Full Movie', im:'4wobXQ8VLfCHvgbevNMy8Rxvo41', dl: 'https://pixeldrain.net/api/file/jjhr9BUC?download' , link: 'tt10698680' },
-
-{ title: 'K.G.F: Chapter 1 (2018) Hindi DD5.1 WEB-DL [x264/HEVC] ESubs HD | Full Movie',im:'ltHlJwvxKv7d0ooCiKSAvfwV9tX', dl: 'https://pixeldrain.net/api/file/QMeTp816?download' , link: 'tt7838252' },
-
-{ title: 'V (2020) WEB-DL [Hindi (ORG DD5.1) & Telugu DD5.1] [HEVC] HD | Full Movie',im:'iBVcwOVZNGNCNlOLFmcYJW83tTu', dl: 'https://pixeldrain.net/api/file/k41xtym6?download' , link: 'tt11385128' },
-
-{ title: 'Bahubali 2: The Conclusion (2017) BluRay [Hindi DD5.1] [x264/10Bit-HEVC] | Full Movie',im:'xQ22LOWSkClP3maYhR9nZH0dnWM', dl: 'https://pixeldrain.net/api/file/8NYKf3fH?download' , link: 'tt4849438' },
-
-{ title: 'Bahubali: The Beginning (2015) BluRay [Hindi DD5.1] [x264/10Bit-HEVC] | Full Movie',im:'9BAjt8nSSms62uOVYn1t3C3dVto', dl: 'https://pixeldrain.net/api/file/ETa7hVcM?download' , link: 'tt2631186' },
-
-{ title: 'C.I.D (Season 2) WEB-DL [Hindi DD2.0] [HEVC] | [SonyLiv Series] [Episode-33]',im:'60ZxbAMk6QO8jMD0p8WrGHVCbyK', dl: 'https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/CID.S02E33.720p.HEVC.Hindi.WEB.DL.2.0.AAC.x265.HDHub4u.Ms.mkv' , link: 'tt0401916' },
+  },
   
+{ title: 'Pintu Ki Pappi (2025) WEB-DL [Hindi DD2.0] | Full Movie', im:'aruhGpOwJ5ncEqpZwwqUbP0jWwJ', dl: 'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Pintu.Ki.Pappi.2025.1080p.HEVC.WEB-DL.Hindi.2.0.HC-ESub.x264-HDHub4u.Ms.mkv' , link: 'tt35162972' },  
+  
+{ title: 'Superboys of Malegaon (2025) WEB-DL [Hindi DD5.1] [HEVC] | Full Movie', im: 'kH8vwnusn83pfHX8tgIIEPbaPd5', dl: 'https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Superboys.of.Malegaon.2025.720p.HEVC.Hindi.WEB.DL.HC.Sub.x265.HDHub4US.com.mkv' , link: 'tt28007064' },
+  
+  
+{ title: 'G20 (2025) WEB-DL [Hindi (DD5.1) & English] | Full Movie', im:'tSee9gbGLfqwvjoWoCQgRZ4Sfky', dl: 'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/G20.2025.WEB-DL.720p.x264.HiN.ENG.DD+5.1.192Kbps.ESub.Vegamovies.is.mkv' , link: 'tt23476986' },
+          
+{ title: 'Karma (Season 1) WEB-DL [Hindi (DD5.1) & English] NetFlix Series | ALL Episodes', im:'2G99FfWYCAdsmAIZO8zGFjcDidY', dl: 'https://qwrqwrqwr.rf.gd/a/a.php?d10=6U9HaVwhcK' , link: 'tt29921070' },
+  
+{ title: 'The Gardener (Season 1) WEB-DL [Hindi (DD 5.1) & English] | NetFlix Series', im:'l2Fy8vvr27vbYJOPe49EfVd5Qli', dl: 'https://qwrqwrqwr.rf.gd/a/a.php?d10=Xx4hmDIJqs' , link: 'tt30494784' },
+  
+{ title: 'The Legend of Hanuman (Season 6) WEB-DL [Hindi DD5.1] | ALL Episodes [JioHotStar Series]', im:'kqA6PqHflS1JNI8kRVXczSLywYx', dl: 'https://qwrqwrqwr.rf.gd/a/a.php?d10=Eoj1z8CcNK' , link: 'tt13854248' },
+  
+{ title: 'Novocaine (2025) WEB-DL [Hindi (DD5.1) & English] [HEVC] | Full Movie', im:'6GbUXZ1gvGrZlZFDjG9SunxFlSl', dl: 'https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Novocaine.2025.720p.10bit.WEB.DL.Hindi.5.1.English.5.1.ESub.x265.HDHub4u.Ms.mkv' , link: 'tt29603959' },
+  
+{ title: 'Avengers: Endgame (2019) [Hindi-English] | Full Movie', im:'ulzhLuWrPK07P1YkdWQLZnQh1JL', dl: 'https://pub-745ce71e61f84b518ab187ebacfe4d6a.r2.dev/Avengers.Endgame.2019.720p.BrRip.Hin-Eng.x265.Vegamovies.NL.mkv', link: 'tt4154796' },
+  
+{ title: 'Avengers: Infinity War (2018) [Hindi-English] | Full Movie',im:'7WsyChQLEftFiDOVTGkv3hFpyyt', dl: 'https://pixeldrain.net/api/file/jXMf8Qmf?download', link: 'tt4154756' },
+  
+{ title: 'Spider-Man: No Way Home (2021) BluRay [Hindi (ORG 5.1) & English] [HEVC] | Full Movie',im:'1g0dhYtq4irTY1GPXvft6k4YLjm', dl: 'https://pixeldrain.net/api/file/ngYtRmFq?download', link: 'tt10872600' },
+  
+{ title: 'Guardians of the Galaxy (2014) IMAX [Hindi-English] | Full Movie', im:'jPrJPZKJVhvyJ4DmUTrDgmFN0yG', dl: 'https://pixeldrain.net/api/file/JCBCdL6f?download', link: 'tt2015381' },
+  
+{ title: 'Iron Man (2008) BluRay [Hindi (ORG 5.1) & English] [HEVC] | Full Movie',im:'78lPtwv72eTNqFW9COBYI0dWDJa', dl: 'https://pixeldrain.net/api/file/SSYC88zs?download', link: 'tt0371746' },
+  
+{ title: 'Captain America: The Winter Soldier (2014) [Hindi-English] | Full Movie', im:'tVFRpFw3xTedgPGqxW0AOI8Qhh0', dl: 'https://pixeldrain.net/api/file/LprmzF1H?download', link: 'tt1843866' },
+  
+{ title: 'Black Panther (2018) iMAX BluRay [Hindi (ORG 5.1) & English] [HEVC] | Full Movie',im:'uxzzxijgPIY7slzFvMotPv8wjKA', dl: 'https://pixeldrain.net/api/file/v24zCqcg?download', link: 'tt1825683' },
+  
+{ title: 'Thor: Ragnarok (2017) BluRay [Hindi-English] | Full Movie',im:'rzRwTcFvttcN1ZpX2xv4j3tSdJu', dl: 'https://pixeldrain.net/api/file/rEgX6zf8?download', link: 'tt3501632' },
+  
+{ title: 'Doctor Strange (2016) [Hindi-English] | Full Movie',im:'uGBVj3bEbCoZbDjjl9wTxcygko1', dl: 'https://pixeldrain.net/api/file/zr6QWVmq?download', link: 'tt1211837' },
+  
+{ title: 'Captain America: Civil War (2016) [Hindi-English] | Full Movie',im:'rAGiXaUfPzY7CDEyNKUofk3Kw2e', dl: 'https://pixeldrain.net/api/file/brH7uRP6?download', link: 'tt3498820' },
+  
+{ title: 'K.G.F: Chapter 2 (2022) Hindi (ORG 5.1) WEB-DL [ESubs] | Full Movie', im:'4wobXQ8VLfCHvgbevNMy8Rxvo41', dl: 'https://pixeldrain.net/api/file/jjhr9BUC?download' , link: 'tt10698680' },
+  
+{ title: 'K.G.F: Chapter 1 (2018) Hindi DD5.1 WEB-DL [x264/HEVC] ESubs HD | Full Movie',im:'ltHlJwvxKv7d0ooCiKSAvfwV9tX', dl: 'https://pixeldrain.net/api/file/QMeTp816?download' , link: 'tt7838252' },
+  
+{ title: 'V (2020) WEB-DL [Hindi (ORG DD5.1) & Telugu DD5.1] [HEVC] HD | Full Movie',im:'iBVcwOVZNGNCNlOLFmcYJW83tTu', dl: 'https://pixeldrain.net/api/file/k41xtym6?download' , link: 'tt11385128' },
+  
+{ title: 'Bahubali 2: The Conclusion (2017) BluRay [Hindi DD5.1] [x264/10Bit-HEVC] | Full Movie',im:'xQ22LOWSkClP3maYhR9nZH0dnWM', dl: 'https://pixeldrain.net/api/file/8NYKf3fH?download' , link: 'tt4849438' },
+  
+{ title: 'Bahubali: The Beginning (2015) BluRay [Hindi DD5.1] [x264/10Bit-HEVC] | Full Movie',im:'9BAjt8nSSms62uOVYn1t3C3dVto', dl: 'https://pixeldrain.net/api/file/ETa7hVcM?download' , link: 'tt2631186' },
+  
+{ title: 'C.I.D (Season 2) WEB-DL [Hindi DD2.0] [HEVC] | [SonyLiv Series] [Episode-33]',im:'60ZxbAMk6QO8jMD0p8WrGHVCbyK', dl: 'https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/CID.S02E33.720p.HEVC.Hindi.WEB.DL.2.0.AAC.x265.HDHub4u.Ms.mkv' , link: 'tt0401916' },
+        
 { title: 'Emmanuelle (2024) BluRay [Hindi (DD2.0) & English] [HEVC] | Full Movie',im:'s9gmKus9YPTDzdMKZQJYPh0VoGk', dl: 'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Emmanuelle.2024.720p.10Bit.BluRay.Hindi.2.0-English.HEVC.x265-HDHub4u.Ms.mkv' , link: 'tt20247888' },
 
 { title: 'Court - State Vs. A Nobody (2025) WEB-DL [Hindi (DD5.1) & Telugu] [HEVC] | Full Movie',im:'4pEX67LJd7ZIqYWtksBtOgQEGcQ', dl: 'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Court.State.vs.A.Nobody.2025.720p.HEVC.WEB-DL.Hindi-Telugu.ESub.x265-HDHub4u.Ms.mkv' , link: 'tt33307144' },  
-
+  
 { title: 'Sweetheart! (2025) WEB-DL [Hindi (DD5.1) & Tamil] [HEVC] | Full Movie',im:'sqjWneziflHuKeupBmNJStgTcJQ', dl: 'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Sweetheart.2025.720p.HEVC.WEB-DL.Hindi.5.1-Tamil.ESub.x265-HDHub4u.Ms.mkv' , link: 'tt33051459' },  
 
 { title: 'A Minecraft Movie (2025) HDTC [English (ORG-2.0)] [x264] | Full Movie',im:'tldIoZNsAkEkppQwXGuw3aWVWyL', dl: 'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/A.Minecraft.Movie.2025.English.720p.HDTC.DD.2.0.x264.Hdhub4u.mkv', link: 'tt3566834' },
-
+  
 { "title": "Chhaava (2025) WEB-DL [Hindi DD5.1] | Full Movie [Netflix]", im:'7AeohlqamcLL1diMusV28eTngvg', "dl": "https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Chhaava.2025.DS4K.720p.HEVC.Hindi.WEB.DL.ESub.x265.HDHub4u.Ms.mkv", "link": "tt27922706" },
 
 {
@@ -1482,14 +1481,12 @@ link: 'tt0431619'
 const itemsPerPage = 15;
 let currentPage = 1;
 
-function sanitize(str) {
-  return str.toLowerCase().replace(/[{}\-\.\(\)\s\|:]/g, '');
-}
-
-function displayMovies() {
+// Function to load movies for the current page
+function loadMoviesForPage(page) {
   const rawQuery = document.getElementById('search').value;
   const searchQuery = sanitize(rawQuery);
 
+  // Filter movies based on the search query
   const filteredMovies = movies.filter(movie =>
     sanitize(movie.title).includes(searchQuery) ||
     sanitize(movie.link).includes(searchQuery)
@@ -1498,60 +1495,53 @@ function displayMovies() {
   const list = document.getElementById('movieList');
   list.innerHTML = '';
 
-  const start = (currentPage - 1) * itemsPerPage;
+  // Determine the start and end index for the current page
+  const start = (page - 1) * itemsPerPage;
   const paginatedMovies = filteredMovies.slice(start, start + itemsPerPage);
 
+  // Create the list items for the current page
   paginatedMovies.forEach(movie => {
-    const card = document.createElement('div');
-    card.className = 'movie-card';
+    const li = document.createElement('li');
+    const titleContainer = document.createElement('div');
+    titleContainer.style.display = 'flex';
+    titleContainer.style.alignItems = 'center';
+    titleContainer.style.gap = '10px';
 
-    const thumbnailLink = document.createElement('a');
-    thumbnailLink.href = 'https://dereferer.me/?' + movie.dl;
-    thumbnailLink.target = '_blank';
-    thumbnailLink.rel = 'nofollow';
+    const imageLink = document.createElement('a');
+    imageLink.target = '_blank';
+    imageLink.rel = 'nofollow';
 
     const thumbnail = document.createElement('img');
     thumbnail.src = 'https://media.themoviedb.org/t/p/w188_and_h282_bestv2/' + movie.im + '.jpg';
-    thumbnail.className = 'movie-thumbnail';
-    thumbnail.alt = movie.title;
+    thumbnail.className = 'Thumbnail';
+    thumbnail.style.width = '40px';
+    thumbnail.style.height = '60px';
+    thumbnail.style.borderRadius = '4px';
 
-    thumbnailLink.appendChild(thumbnail);
-
-    const infoDiv = document.createElement('div');
-    infoDiv.className = 'movie-info';
+    imageLink.appendChild(thumbnail);
 
     const titleLink = document.createElement('a');
     titleLink.href = 'https://dereferer.me/?' + movie.dl;
-    titleLink.className = 'movie-title';
     titleLink.target = '_blank';
     titleLink.rel = 'nofollow';
+    titleLink.className = 'movie-title';
     titleLink.textContent = movie.title;
 
-    const actionsDiv = document.createElement('div');
-    actionsDiv.className = 'movie-actions';
+    titleContainer.appendChild(imageLink);
+    titleContainer.appendChild(titleLink);
 
-    const downloadBtn = document.createElement('a');
-    downloadBtn.href = 'https://dereferer.me/?' + movie.dl;
-    downloadBtn.className = 'download-btn';
-    downloadBtn.target = '_blank';
-    downloadBtn.rel = 'nofollow';
-    downloadBtn.textContent = 'Download';
+    const imdbBox = document.createElement('div');
+    imdbBox.className = 'imdb-box';
+    const imdbAnchor = document.createElement('a');
+    imdbAnchor.href = 'https://www.imdb.com/title/' + movie.link;
+    imdbAnchor.target = '_blank';
+    imdbAnchor.rel = 'nofollow';
+    imdbAnchor.textContent = 'Info';
+    imdbBox.appendChild(imdbAnchor);
 
-    const infoBtn = document.createElement('a');
-    infoBtn.href = 'https://www.imdb.com/title/' + movie.link;
-    infoBtn.className = 'info-btn';
-    infoBtn.target = '_blank';
-    infoBtn.rel = 'nofollow';
-    infoBtn.textContent = 'Info';
-
-
-
-    infoDiv.appendChild(titleLink);
-
-
-    card.appendChild(thumbnailLink);
-
-    list.appendChild(card);
+    li.appendChild(titleContainer);
+    li.appendChild(imdbBox);
+    list.appendChild(li);
   });
 
   const totalPages = Math.ceil(filteredMovies.length / itemsPerPage);
@@ -1563,14 +1553,14 @@ document.getElementById('search').addEventListener('input', () => {
   const newUrl = window.location.pathname + '?s=' + encodeURIComponent(searchQuery) + '&p=1';
   window.history.pushState({ path: newUrl }, '', newUrl);
   currentPage = 1;
-  displayMovies();
+  loadMoviesForPage(currentPage);
 });
 
 function prevPage() {
   if (currentPage > 1) {
     currentPage--;
     updatePageInUrl();
-    displayMovies();
+    loadMoviesForPage(currentPage);
   }
 }
 
@@ -1587,7 +1577,7 @@ function nextPage() {
   if (currentPage < totalPages) {
     currentPage++;
     updatePageInUrl();
-    displayMovies();
+    loadMoviesForPage(currentPage);
   }
 }
 
@@ -1596,6 +1586,10 @@ function updatePageInUrl() {
   const searchQuery = encodeURIComponent(rawQuery);
   const newUrl = window.location.pathname + '?s=' + searchQuery + '&p=' + currentPage;
   window.history.pushState({ path: newUrl }, '', newUrl);
+}
+
+function sanitize(str) {
+  return str.toLowerCase().replace(/[{}\-\.\(\)\s\|:]/g, '');
 }
 
 function goHome() {

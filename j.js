@@ -20,6 +20,20 @@ link: ''
 */
 
 {
+title:'Spark: L.I.F.E. [2023] UNCUT WEB-DL [Hindi + Telugu] | Full Movie',
+im:'zEvcGq7AsCJ7oCXVvtATTweE05o',
+dl:'https://pixeldrain.net/api/file/b1JdQvVA?download',
+link: 'tt28526239'
+},
+
+{
+title:'Ne Zha 2 [2025] CAMRIP [Hindi] | Full Movie',
+im:'5lUmWTGkEcYnXujixXn31o9q2T0',
+dl:'https://pixeldrain.net/api/file/uTVDZmt3?download',
+link: 'tt34956443'
+},
+
+{
   title:'Peaky Blinders [Season 1] [Episode 3] WEB-DL [Hindi + English] [HEVC]',
   im:'vPlsKun2WZEsqe3yZTmebxtwElW',
   dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Peaky.Blinders.S01.E03.720p.10Bit.HEVC.BluRay.Hindi.2.0-English.2.0.ESub.x265-HDHub4u.Ms.mkv',
@@ -109,14 +123,6 @@ link: 'tt8337290'
   im:'vPlsKun2WZEsqe3yZTmebxtwElW',
   dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Peaky.Blinders.S01.E02.720p.10Bit.HEVC.BluRay.Hindi.2.0-English.2.0.ESub.x265-HDHub4u.Ms.mkv',
   link: 'tt2442560'
-  },
-
-
-{
-  title:'Ash [2025] WEB-DL [Hindi] [HEVC] | Full Movie',
-  im:'5Oz39iyRuztiA8XqCNVDBuy2Ut3',
-  dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Ash.2025.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv',
-  link: 'tt17489650'
   },
 
 {

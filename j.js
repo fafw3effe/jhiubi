@@ -1517,7 +1517,7 @@ link: 'tt0431619'
         // Clear any existing video player
         videoPlayer.innerHTML = '';
         
-        if (!hideMedia && movie.dl && !movie.dl.includes('rf.gd') && !movie.dl.includes('?')) {
+        if (!hideMedia && movie.dl) {
           try {
             videoPlayer.innerHTML = `
               <video controls preload="metadata"

@@ -20,11 +20,11 @@ link: ''
 */
 
 {
-  title:'Peaky Blinders [Season 1] [Episode 4] WEB-DL [Hindi + English]',
-  im:'ktATJ6sEfEqu6HfGpE9FD7WIjvq',
-  dl:'https://pixeldrain.net/api/file/pompH96N?download',
-  link: 'tt2442560'
-  },
+title:'Peaky Blinders [Season 1] [Episode 4] WEB-DL [Hindi + English]',
+im:'ktATJ6sEfEqu6HfGpE9FD7WIjvq',
+dl:'https://pixeldrain.net/api/file/pompH96N?download',
+link: 'tt2442560'
+},
 
 {
 title:'The Last of Us [Season 2] [Episode 3] WEB-DL [Hindi + English] | HBO Series',

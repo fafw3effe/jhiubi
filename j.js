@@ -20,6 +20,13 @@ link: ''
 */
 
 {
+title:'The Last of Us [Season 2] [Episode 3] WEB-DL [Hindi + English] | HBO Series',
+im:'yYxtVmduEAJWPyckZv4rqqinvoe',
+dl:'https://pixeldrain.net/api/file/QVEgnjqW?download',
+link: 'tt3581920'
+},
+
+{
 title:'Spark: L.I.F.E. [2023] UNCUT WEB-DL [Hindi + Telugu] | Full Movie',
 im:'zEvcGq7AsCJ7oCXVvtATTweE05o',
 dl:'https://pixeldrain.net/api/file/b1JdQvVA?download',

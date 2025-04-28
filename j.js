@@ -34,6 +34,62 @@ link: 'tt3581920'
 },
 
 {
+title:'I Saw the TV Glow [2025] BluRay [Hindi + English] | Full Movie',
+im:'ZZWbZCHeTpa330gSpX2vkp3YqV',
+dl:'https://pixeldrain.net/api/file/BmFDMeiz?download',
+link: 'tt15574270'
+},
+
+{
+title:'Suits LA [Season 1] [Episode 10] WEB-DL [Hindi + English]',
+im:'3hYiNPkcLoI3QWDokOHQJIfn55O',
+dl:'https://pixeldrain.net/api/file/xqSReDbN?download',
+link: 'tt31122751'
+},
+
+{
+title:'The Divorce Insurance [Season 1] [Episode 7] WEB-DL [Hindi + English] | [Amazon Prime Video]',
+im:'6HAbRWYkX3bouEeHA4bjsUxznKC',
+dl:'https://pixeldrain.net/api/file/71PZKvdj?download',
+link: 'tt35839843'
+},
+
+{
+title:'Tuk Tuk [2025] BluRay [Hindi + Telugu] | Full Movie',
+im:'AsUsLOZBMpb6zqofvt7yxcbJVEJ',
+dl:'https://pixeldrain.net/api/file/r1yDgyHr?download',
+link: 'tt33088937'
+},
+
+{
+title:'Live [2023] WEB-DL [Hindi + Malayalam] | Full Movie',
+im:'lqkSwvAEiLj4nf8cDkkVptXTMIV',
+dl:'https://pixeldrain.net/api/file/wqAgR36C?download',
+link: 'tt23903828'
+},
+
+{
+title:'Thudarum [2025] HQ-V2 HDTC [Malayalam] | Full Movie',
+im:'uOTDBabtxHA6szYKQNQe9Y7rFlv',
+dl:'https://pixeldrain.net/api/file/VF7QbbaP?download',
+link: 'tt31969600'
+},
+
+{
+title:'CiD [Season 2] [Episode 38] WEB-DL [Hindi]',
+im:'60ZxbAMk6QO8jMD0p8WrGHVCbyK',
+dl:'https://pixeldrain.net/api/file/cadQFjh6?download',
+link: 'tt0401916F'
+},
+
+{
+title:'Paappan [2022] UNCUT WEB-DL [Hindi + Malayalam] | Full Movie',
+im:'iaMF7onRosmkF6b9jaENzIZfauM',
+dl:'https://pixeldrain.net/api/file/PP41vRtD?download',
+link: 'tt14056670'
+},
+
+{
 title:'Spark: L.I.F.E. [2023] UNCUT WEB-DL [Hindi + Telugu] | Full Movie',
 im:'zEvcGq7AsCJ7oCXVvtATTweE05o',
 dl:'https://pixeldrain.net/api/file/b1JdQvVA?download',

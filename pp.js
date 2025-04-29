@@ -1,4 +1,4 @@
-const itemsPerPage = 12;
+  const itemsPerPage = 12;
   let currentPage = 1;
   let currentSearch = '';
   

@@ -10,7 +10,6 @@ const movies = [
   {
   title:'JoJos Bizarre Adventure [Season 1] [Episode 18] WEB-DL [Hindi + English + Japanese] [HEVC]',
   im:'co0K9FS9rQPxPoKADs4nuGckk3A',
-  bgi:'b6r9HMojy7NxOwFsLwLzrsIYsxu',
   dl:'https://pixeldrain.net/api/file/3oEKYoKU?download',
   link: 'tt2359704'
   }];

@@ -1,4 +1,4 @@
-{
+export const movies = [ {
     title:'Drop [2025] WEB-DL [Hindi + English] | Full Movie',
     im:'dS2S5lpfgRIRQOb7LDCjNsQqKjp',
     dl:'https://pixeldrain.net/api/file/Cg5iHFCg?download',
@@ -1544,4 +1544,4 @@
     im: '1RU7eOgierTfTiNNQUmd1h5iKFU',
     dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=tRfnAJnSAqDUJhj76',
     link: 'tt0431619'
-  }
+  } ];

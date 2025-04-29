@@ -12,6 +12,22 @@ link: ''
 
 */
 
+
+
+{
+title:'Peaky Blinders [Season 1] [Episode 5] WEB-DL [Hindi + English]',
+im:'vPlsKun2WZEsqe3yZTmebxtwElW',
+dl:'https://pixeldrain.net/api/file/M6boShov?download',
+link: 'tt2442560'
+},
+
+{
+title:'Last Night of Amore [2023] BluRay [Hindi + Italian] | Full Movie',
+im:'dBp0REsZkZ1HK1PycwlLdBtYdsd',
+dl:'https://pixeldrain.net/api/file/3L2BxdDD?download',
+link: 'tt20465746'
+},
+
 {
 title:'Gangs of Wasseypur - Part 2 [2012] BluRay [Hindi] | Full Movie',
 im:'4CVPyT10Cvw9BCgWNKXiRcXntuc',

@@ -1,5 +1,10 @@
 // app.js
 // Movies data will be imported from movies-data.js
+// At the beginning of app.js
+if (typeof movies === 'undefined') {
+  console.error('Movies data not loaded!');
+  // You might want to show an error to the user or retry loading
+}
 
 const itemsPerPage = 12;
 let currentPage = 1;

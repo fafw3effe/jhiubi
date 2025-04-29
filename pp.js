@@ -116,7 +116,7 @@ const movies = [
           thumbnailContainer.className = 'movie-thumbnail-container';
           
           const thumbnail = document.createElement('img');
-          thumbnail.src = 'https://media.themoviedb.org/t/p/w188_and_h282_bestv2/' + movie.im + '.jpg';
+          thumbnail.src = 'https://image.tmdb.org/t/p/w342/' + movie.im + '.jpg';
           thumbnail.className = 'movie-thumbnail';
           thumbnail.alt = movie.title;
           thumbnail.loading = 'lazy'; // Add lazy loading
@@ -200,7 +200,7 @@ const movies = [
       const modalImage = movie.bgi || movie.im;
       
       modalPoster.style.display = 'block';
-      modalPoster.src = 'https://media.themoviedb.org/t/p/w500_and_h282_face/' + modalImage + '.jpg';
+      modalPoster.src = 'https://image.tmdb.org/t/p/w342/' + modalImage + '.jpg';
       modalPoster.alt = movie.title;
       
       videoPlayer.innerHTML = '';
@@ -209,7 +209,7 @@ const movies = [
           try {
               videoPlayer.innerHTML = `
               <video controls preload="metadata"
-                  poster="https://media.themoviedb.org/t/p/w500_and_h282_face/${modalImage}.jpg"
+                  poster="https://image.tmdb.org/t/p/w342/${modalImage}.jpg"
                   style="width:100%;height:100%;object-fit:contain;background:#000;">
                   <source src="${movie.dl}" type="video/mp4">
                   Your browser doesn't support HTML5 video.

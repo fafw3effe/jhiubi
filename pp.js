@@ -1,12 +1,14 @@
-  const itemsPerPage = 12;
-  let currentPage = 1;
-  let currentSearch = '';
-  
-  // Helper function to clean search strings
-  function cleanSearchString(str) {
-      return str.toLowerCase().replace(/[{}\-\.\(\)\s\|:\[\]]/g, '');
-  }
-  
+// app.js
+// Movies data will be imported from movies-data.js
+
+const itemsPerPage = 12;
+let currentPage = 1;
+let currentSearch = '';
+
+// Helper function to clean search strings
+function cleanSearchString(str) {
+    return str.toLowerCase().replace(/[{}\-\.\(\)\s\|:\[\]]/g, '');
+}
   // Parse URL parameters
   function getUrlParams() {
       const params = new URLSearchParams(window.location.search);

@@ -184,7 +184,7 @@ function openModal(movie) {
                      movie.title.toLowerCase().includes('all episodes');
     
     modalPoster.style.display = 'block';
-    modalPoster.src = 'https://media.themoviedb.org/t/p/w500_and_h282_face/' + movie.im + '.jpg';
+    modalPoster.src = 'https://image.tmdb.org/t/p/w342/' + movie.im + '.jpg';
     modalPoster.alt = movie.title;
     
     videoPlayer.innerHTML = '';
@@ -193,7 +193,7 @@ function openModal(movie) {
         try {
             videoPlayer.innerHTML = `
             <video controls preload="metadata"
-                poster="https://media.themoviedb.org/t/p/w500_and_h282_face/${movie.im}.jpg"
+                poster="https://image.tmdb.org/t/p/w342/${movie.im}.jpg"
                 style="width:100%;height:100%;object-fit:contain;background:#000;">
                 <source src="${movie.dl}" type="video/mp4">
                 Your browser doesn't support HTML5 video.

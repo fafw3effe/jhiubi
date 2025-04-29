@@ -1559,7 +1559,7 @@
                     link: 'tt0431619'
                   } ];
           
-                const itemsPerPage = 14;
+                const itemsPerPage = 16;
                 let currentPage = 1;
                 let currentSearch = '';
           

@@ -34,6 +34,13 @@ link: 'tt3581920'
 },
 
 {
+title:'Akaal: The Unconquered [2025] HDRip [Hindi] | Full Movie',
+im:'pzf5rPLoE5DdYkcZlvYbrH554rE',
+dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Akaal.The.Unconquered.2025.Hindi.HDRip.720p.x264.AVC.HE-AAC.2.0.Vegamovies.is.mkv',
+link: 'tt35402446'
+},
+
+{
 title:'I Saw the TV Glow [2025] BluRay [Hindi + English] | Full Movie',
 im:'ZZWbZCHeTpa330gSpX2vkp3YqV',
 dl:'https://pixeldrain.net/api/file/BmFDMeiz?download',

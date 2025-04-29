@@ -22,6 +22,13 @@ link: 'tt2442560'
 },
 
 {
+title:'JoJos Bizarre Adventure [Season 1] [Episode 18] WEB-DL [Hindi + English + Japanese]',
+im:'co0K9FS9rQPxPoKADs4nuGckk3A',
+dl:'https://pixeldrain.net/api/file/3oEKYoKU?download',
+link: 'tt2359704'
+},
+
+{
 title:'Last Night of Amore [2023] BluRay [Hindi + Italian] | Full Movie',
 im:'dBp0REsZkZ1HK1PycwlLdBtYdsd',
 dl:'https://pixeldrain.net/api/file/3L2BxdDD?download',

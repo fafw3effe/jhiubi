@@ -1,20 +1,4 @@
-const movies = [ 
-  {
-  title:'Peaky Blinders [Season 1] [Episode 5] WEB-DL [Hindi + English]',
-  im:'vPlsKun2WZEsqe3yZTmebxtwElW',
-  bgi:'b6r9HMojy7NxOwFsLwLzrsIYsxu',
-  dl:'https://pixeldrain.net/api/file/M6boShov?download',
-  link: 'tt2442560'
-  },
-  
-  {
-  title:'JoJos Bizarre Adventure [Season 1] [Episode 18] WEB-DL [Hindi + English + Japanese] [HEVC]',
-  im:'co0K9FS9rQPxPoKADs4nuGckk3A',
-  dl:'https://pixeldrain.net/api/file/3oEKYoKU?download',
-  link: 'tt2359704'
-  }];
-  
-  const itemsPerPage = 12;
+const itemsPerPage = 12;
   let currentPage = 1;
   let currentSearch = '';
   

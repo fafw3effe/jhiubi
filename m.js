@@ -17,6 +17,7 @@ link: ''
 {
 title:'Peaky Blinders [Season 1] [Episode 5] WEB-DL [Hindi + English]',
 im:'vPlsKun2WZEsqe3yZTmebxtwElW',
+bgi:'11HGUikej3bARNmp44vEnkBel5K';
 dl:'https://pixeldrain.net/api/file/M6boShov?download',
 link: 'tt2442560'
 },
@@ -24,6 +25,7 @@ link: 'tt2442560'
 {
 title:'JoJos Bizarre Adventure [Season 1] [Episode 18] WEB-DL [Hindi + English + Japanese]',
 im:'co0K9FS9rQPxPoKADs4nuGckk3A',
+bgi:'jiNmwMUqX0AKaP20tyQ626E4dMK';
 dl:'https://pixeldrain.net/api/file/3oEKYoKU?download',
 link: 'tt2359704'
 },
@@ -31,6 +33,7 @@ link: 'tt2359704'
 {
 title:'Last Night of Amore [2023] BluRay [Hindi + Italian] | Full Movie',
 im:'dBp0REsZkZ1HK1PycwlLdBtYdsd',
+bgi:'oZKQWDz6wP1bLZgPKwpcloU34sx';
 dl:'https://pixeldrain.net/api/file/3L2BxdDD?download',
 link: 'tt20465746'
 },
@@ -38,6 +41,7 @@ link: 'tt20465746'
 {
 title:'Gangs of Wasseypur - Part 2 [2012] BluRay [Hindi] | Full Movie',
 im:'4CVPyT10Cvw9BCgWNKXiRcXntuc',
+bgi:'j1tqstmfOZWcaTsItedx18ebMlp';
 dl:'https://pixeldrain.net/api/file/UBrqfJiV?download',
 link: 'tt32406320'
 },
@@ -45,6 +49,7 @@ link: 'tt32406320'
 {
 title:'Gangs of Wasseypur - Part 1 [2012] BluRay [Hindi] | Full Movie',
 im:'xAy208Znkingmfnb5ZbULwLyIwW',
+bgi:'1CAyD1mFJvCgsbOKyYTP8hIBqGe';
 dl:'https://pixeldrain.net/api/file/jgp5arXM?download',
 link: 'tt1954470'
 },
@@ -52,6 +57,7 @@ link: 'tt1954470'
 {
 title:'Drop [2025] WEB-DL [Hindi + English] | Full Movie',
 im:'dS2S5lpfgRIRQOb7LDCjNsQqKjp',
+bgi:'mi4DqTItM0jRHziKzdTmXZVcG4C';
 dl:'https://pixeldrain.net/api/file/Cg5iHFCg?download',
 link: 'tt32149847'
 },
@@ -59,6 +65,7 @@ link: 'tt32149847'
 {
 title:'Peaky Blinders [Season 1] [Episode 4] WEB-DL [Hindi + English]',
 im:'vPlsKun2WZEsqe3yZTmebxtwElW',
+bgi:'ktATJ6sEfEqu6HfGpE9FD7WIjvq';
 dl:'https://pixeldrain.net/api/file/pompH96N?download',
 link: 'tt2442560'
 },
@@ -66,20 +73,23 @@ link: 'tt2442560'
 {
 title:'The Last of Us [Season 2] [Episode 3] WEB-DL [Hindi + English] | HBO Series',
 im:'dmo6TYuuJgaYinXBPjrgG9mB5od',
+bgi:'yYxtVmduEAJWPyckZv4rqqinvoe';
 dl:'https://pixeldrain.net/api/file/QVEgnjqW?download',
 link: 'tt3581920'
 },
 
 {
-title:'Akaal: The Unconquered [2025] HDRip [Hindi] [HEVC] | Full Movie',
-im:'pzf5rPLoE5DdYkcZlvYbrH554rE',
-dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Akaal.The.Unconquered.2025.Hindi.HDRip.720p.x264.AVC.HE-AAC.2.0.Vegamovies.is.mkv',
-link: 'tt35402446'
+title:'Thudarum [2025] HQ-V2 HDTC [Malayalam] | Full Movie',
+im:'uOTDBabtxHA6szYKQNQe9Y7rFlv',
+bgi:'q6tHgBlYpesjUL9NumNoGpePaGT';
+dl:'https://pixeldrain.net/api/file/VF7QbbaP?download',
+link: 'tt31969600'
 },
 
 {
 title:'I Saw the TV Glow [2025] BluRay [Hindi + English] | Full Movie',
 im:'ZZWbZCHeTpa330gSpX2vkp3YqV',
+bgi:'bnIzcaSVPub9sAieMiOJErxopzV';
 dl:'https://pixeldrain.net/api/file/BmFDMeiz?download',
 link: 'tt15574270'
 },
@@ -87,6 +97,7 @@ link: 'tt15574270'
 {
 title:'Suits LA [Season 1] [Episode 10] WEB-DL [Hindi + English]',
 im:'3hYiNPkcLoI3QWDokOHQJIfn55O',
+bgi:'ezQtyu9WD2MBW96awZqOY3pktX1';
 dl:'https://pixeldrain.net/api/file/xqSReDbN?download',
 link: 'tt31122751'
 },
@@ -94,6 +105,7 @@ link: 'tt31122751'
 {
 title:'The Divorce Insurance [Season 1] [Episode 7] WEB-DL [Hindi + English] | [Amazon Prime Video]',
 im:'6HAbRWYkX3bouEeHA4bjsUxznKC',
+bgi:'pYP1O7uwIsavdC3GgEtVuPo9ul9';
 dl:'https://pixeldrain.net/api/file/71PZKvdj?download',
 link: 'tt35839843'
 },
@@ -101,6 +113,7 @@ link: 'tt35839843'
 {
 title:'Tuk Tuk [2025] BluRay [Hindi + Telugu] | Full Movie',
 im:'AsUsLOZBMpb6zqofvt7yxcbJVEJ',
+bgi:'ebH3EsvMF06KSjlKxZcCvGydvBH';
 dl:'https://pixeldrain.net/api/file/r1yDgyHr?download',
 link: 'tt33088937'
 },
@@ -113,10 +126,11 @@ link: 'tt23903828'
 },
 
 {
-title:'Thudarum [2025] HQ-V2 HDTC [Malayalam] | Full Movie',
-im:'uOTDBabtxHA6szYKQNQe9Y7rFlv',
-dl:'https://pixeldrain.net/api/file/VF7QbbaP?download',
-link: 'tt31969600'
+title:'Akaal: The Unconquered [2025] HDRip [Hindi] [HEVC] | Full Movie',
+im:'pzf5rPLoE5DdYkcZlvYbrH554rE',
+bgi:'';
+dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Akaal.The.Unconquered.2025.Hindi.HDRip.720p.x264.AVC.HE-AAC.2.0.Vegamovies.is.mkv',
+link: 'tt35402446'
 },
 
 {

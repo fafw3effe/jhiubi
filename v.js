@@ -1,0 +1,15 @@
+const urlParams = new URLSearchParams(window.location.search);
+const l4 = urlParams.get('d4') ? encodeURIComponent(urlParams.get('d4')) : null;
+
+if (l4) {
+    fetch(`https://photos.app.goo.gl/${l4}`)
+        .then(response => response.text())
+        .then(data => {
+            const matches = data.match(/https:\/\/video(.*?)"/);
+            if (matches && matches[1]) {
+                const l = 'https://video' + decodeURIComponent(matches[1]);
+                window.location.href = `https://dereferer.me/?${l}`;
+            }
+        })
+        .catch(error => console.error('Error:', error));
+}

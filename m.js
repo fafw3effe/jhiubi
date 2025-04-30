@@ -14,6 +14,14 @@ link: ''
 */
 
 {
+title:'Peaky Blinders [Season 1] [Episode 6] WEB-DL [Hindi + English]',
+im:'vPlsKun2WZEsqe3yZTmebxtwElW',
+bgi:'4p4MIZG60gGHChGtTDQMO8Afb9R',
+dl:'https://pixeldrain.net/api/file/Xjd3986v?download',
+link: 'tt2442560'
+},
+
+{
 title:'Good Bad Ugly [2025] WEB-DL [Hindi + Tamil] | Full Movie',
 im:'8DbYYluzdiGDAZzsaP7DWGbwfLd',
 bgi:'5CtvMLmCdksbYqqQd812WYML2wJ',

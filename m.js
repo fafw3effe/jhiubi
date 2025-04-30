@@ -14,6 +14,22 @@ link: ''
 */
 
 {
+title:'Good Bad Ugly [2025] WEB-DL [Hindi + Tamil] | Full Movie',
+im:'8DbYYluzdiGDAZzsaP7DWGbwfLd',
+bgi:'5CtvMLmCdksbYqqQd812WYML2wJ',
+dl:'https://pixeldrain.net/api/file/gFSFRfDy?download',
+link: 'tt27540217'
+},
+
+{
+title: 'Jaat [2025] WEB-DL [Hindi] | Full Movie',
+im:'guTflsCTgLNqTbpHTi9gJANk1Rf',
+bgi:'d49Rz7BDj8LmRMQI03mKBTwIpfr',
+dl: 'https://pixeldrain.net/api/file/sJunpwbg?download', 
+link: 'tt32223398'
+},
+
+{
 title:'Star Wars: Andor [Season 2] [Episode 6] WEB-DL [Hindi + English]',
 im:'y0j9HbsWnkn1TlT6Y52ZrsvysgU',
 bgi:'sPnH7hxLR0oisYKI1tQZ0Bcefgj',
@@ -1143,13 +1159,7 @@ dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Bhoothakaalam.2022.720p.
 link: 'tt15560626'
 
 },
-{
-title:'Good Bad Ugly (2025) PRE-HD [Tamil DD2.0] [HEVC] | Full Movie',
-im:'8DbYYluzdiGDAZzsaP7DWGbwfLd',
-dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Good.Bad.Ugly.2025.720p.HEVC.PRE-HD.Tamil.x265-HDHub4u.Ms.mkv',
-link: 'tt27540217'
 
-},
 {
 title:'Robinhood (2025) PRE-HD Dual Audio [Hindi (LQ Dub) - Telugu 2.0] | Full Movie',
 im:'zeH5oAM1A3zgXbvQ3L9GiDs3ldQ',
@@ -1163,13 +1173,6 @@ title: 'Test (2025) WEB-DL [Hindi (DD5.1) & Tamil] [HEVC] | Full Movie',
 im:'8jZaBr3dTIW8N4D6F4Cprssfm7V',
 dl: 'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/TEST.2025.720p.HEVC.WEB-DL.Hindi.2.0-Tamil.2.0.ESub.x265-HDHub4u.Ms.mkv', 
 link: 'tt27477888'
-},
-
-{
-title: 'Jaat (2025) V2-HDTC [Hindi ORG-2.0] [HEVC] | Full Movie',
-im:'guTflsCTgLNqTbpHTi9gJANk1Rf',
-dl: 'https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Jaat.2025.720p.HEVC.Hindi.HDTC.2.0.HC.ESub.x265.HDHub4u.Ms.mkv', 
-link: 'tt32223398'
 },
 
 {

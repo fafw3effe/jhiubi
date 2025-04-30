@@ -22,6 +22,22 @@ link: 'tt27540217'
 },
 
 {
+title:'The Monkey [2025] WEB-DL [Hindi + English] | Full Movie',
+im:'2nZE6f86GiJRGUGmIsBdVZVr5fx',
+bgi:'270hd3fc6mlfr7rRAr5CROaJ43h',
+dl:'https://pixeldrain.net/api/file/4YPbStUW?download',
+link: 'tt27714946'
+},
+
+{
+title:'Heretic [2024] WEB-DL [Hindi + English] | Full Movie',
+im:'fr96XzlzsONrQrGfdLMiwtQjott',
+bgi:'9ibmEMcrOhsiVA9V358WQJSNk84',
+dl:'https://pixeldrain.net/api/file/WxydiNSW?download',
+link: 'tt28015403'
+},
+
+{
 title: 'Jaat [2025] WEB-DL [Hindi] | Full Movie',
 im:'guTflsCTgLNqTbpHTi9gJANk1Rf',
 bgi:'d49Rz7BDj8LmRMQI03mKBTwIpfr',

@@ -193,7 +193,7 @@
           try {
               videoPlayer.innerHTML = `
               <video controls preload="metadata"
-                  poster="https://image.tmdb.org/t/p/w342/${modalImage}.jpg"
+                  poster="https://image.tmdb.org/t/p/w533_and_h300_bestv2/${modalImage}.jpg"
                   style="width:100%;height:100%;object-fit:contain;background:#000;">
                   <source src="${movie.dl}" type="video/mp4">
                   Your browser doesn't support HTML5 video.

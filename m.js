@@ -6,13 +6,36 @@ const movies = [
 {
 title:'',
 im:'',
+bgi:'',
 dl:'',
 link: ''
 },
 
 */
 
+{
+title:'Star Wars: Andor [Season 2] [Episode 6] WEB-DL [Hindi + English]',
+im:'y0j9HbsWnkn1TlT6Y52ZrsvysgU',
+bgi:'sPnH7hxLR0oisYKI1tQZ0Bcefgj',
+dl:'https://pixeldrain.net/api/file/R57sQUSH?download',
+link: 'tt9253284'
+},
 
+{
+title:'Aghathiyaa [2025] WEB-DL [Hindi + Tamil] | Full Movie',
+im:'gCXjEAJRaZZi5bMowWJQxK0827c',
+bgi:'rBEZqpJpESse8GJUM5mxEiXJL0t',
+dl:'https://pixeldrain.net/api/file/Hux1Ue7X?download',
+link: 'tt27217053'
+},
+
+{
+title:'Kooman [2022] UNCUT WEB-DL [Hindi + Malayalam] | Full Movie',
+im:'nhKiu5zi5rUjPwzEQCaLKfbDHrL',
+bgi:'gbubOZbNg0L5VAYKnaAZVWxFqu7',
+dl:'https://pixeldrain.net/api/file/fwKxTTRy?download',
+link: 'tt17632818'
+},
 
 {
 title:'Peaky Blinders [Season 1] [Episode 5] WEB-DL [Hindi + English]',

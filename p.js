@@ -27,56 +27,58 @@ function updateUrlParams() {
 }
 
 // Initialize the page
-window.onload = function() {
+$(document).ready(function() {
     const { search, page } = getUrlParams();
     currentSearch = cleanSearchString(search);
     currentPage = page;
     
     if (search) {
-        document.getElementById('searchInput').value = search;
-        toggleSearch(false); // Show search bar if there's a search query
+        $('#searchInput').val(search);
+        toggleSearch(false);
     }
     
     displayMovies();
     updatePagination();
-};
-
-// Toggle search bar (modified to accept show/hide parameter)
-function toggleSearch(show = null) {
-    const headerContent = document.querySelector('.header-content');
-    const searchBar = document.querySelector('.search-bar');
     
-    if (show === false || (show === null && searchBar.style.display === 'flex')) {
-        // Hide search bar
-        searchBar.style.display = 'none';
-        headerContent.style.display = 'flex';
+    // Check if JW Player loaded correctly
+    if (typeof jwplayer === 'undefined') {
+        console.error('JW Player failed to load');
+        Swal.fire('Error', 'Video player failed to load. Please refresh the page.', 'error');
+    }
+});
+
+// Toggle search bar
+function toggleSearch(show = null) {
+    const headerContent = $('.header-content');
+    const searchBar = $('.search-bar');
+    
+    if (show === false || (show === null && searchBar.css('display') === 'flex')) {
+        searchBar.hide();
+        headerContent.show();
         currentSearch = '';
-        document.getElementById('searchInput').value = '';
+        $('#searchInput').val('');
         updateUrlParams();
         displayMovies();
     } else {
-        // Show search bar
-        headerContent.style.display = 'none';
-        searchBar.style.display = 'flex';
-        document.getElementById('searchInput').focus();
+        headerContent.hide();
+        searchBar.show();
+        $('#searchInput').trigger('focus');
     }
 }
 
 // Search functionality
-document.getElementById('searchInput').addEventListener('input', function() {
-    currentSearch = cleanSearchString(this.value);
+$('#searchInput').on('input', function() {
+    currentSearch = cleanSearchString($(this).val());
     currentPage = 1;
     updateUrlParams();
     displayMovies();
     updatePagination();
 });
 
-// Movie display function (optimized to only work with current page)
+// Movie display function
 function displayMovies() {
-    const list = document.getElementById('movieList');
-    list.innerHTML = '';
+    const $list = $('#movieList').empty();
 
-    // Get filtered movies for current page only
     const filteredMovies = movies.filter(movie => 
         cleanSearchString(movie.title).includes(currentSearch) || 
         cleanSearchString(movie.link).includes(currentSearch)
@@ -86,40 +88,24 @@ function displayMovies() {
     );
 
     if (filteredMovies.length === 0) {
-        list.innerHTML = '<p style="grid-column: 1 / -1; text-align: center;">No movies found</p>';
+        $list.append('<p style="grid-column: 1 / -1; text-align: center;">No movies found</p>');
         return;
     }
 
     filteredMovies.forEach(movie => {
-        const card = document.createElement('div');
-        card.className = 'movie-card';
-        card.onclick = function() {
-            openModal(movie);
-        };
-
-        const thumbnailContainer = document.createElement('div');
-        thumbnailContainer.className = 'movie-thumbnail-container';
-        
-        const thumbnail = document.createElement('img');
-        thumbnail.src = 'https://image.tmdb.org/t/p/w342/' + movie.im + '.jpg';
-        thumbnail.className = 'movie-thumbnail';
-        thumbnail.alt = movie.title;
-        thumbnail.loading = 'lazy'; // Add lazy loading
-        
-        thumbnailContainer.appendChild(thumbnail);
-
-        const infoDiv = document.createElement('div');
-        infoDiv.className = 'movie-info';
-
-        const title = document.createElement('div');
-        title.className = 'movie-title';
-        title.textContent = movie.title;
-
-        infoDiv.appendChild(title);
-        card.appendChild(thumbnailContainer);
-        card.appendChild(infoDiv);
-
-        list.appendChild(card);
+        $list.append(`
+            <div class="movie-card" onclick="openModal(${JSON.stringify(movie).replace(/"/g, '&quot;')})">
+                <div class="movie-thumbnail-container">
+                    <img src="https://image.tmdb.org/t/p/w342/${movie.im}.jpg" 
+                         class="movie-thumbnail" 
+                         alt="${movie.title}" 
+                         loading="lazy">
+                </div>
+                <div class="movie-info">
+                    <div class="movie-title">${movie.title}</div>
+                </div>
+            </div>
+        `);
     });
 
     updatePagination();
@@ -160,93 +146,87 @@ function updatePagination() {
     const totalPages = Math.ceil(filteredMovies.length / itemsPerPage);
     const pageInfo = `Page ${currentPage} of ${totalPages}`;
     
-    document.getElementById('pageInfoTop').textContent = pageInfo;
-    document.getElementById('pageInfoBottom').textContent = pageInfo;
-    
-    document.getElementById('prevBtnTop').disabled = currentPage === 1;
-    document.getElementById('prevBtnBottom').disabled = currentPage === 1;
-    document.getElementById('nextBtnTop').disabled = currentPage === totalPages || totalPages === 0;
-    document.getElementById('nextBtnBottom').disabled = currentPage === totalPages || totalPages === 0;
+    $('.page-info').text(pageInfo);
+    $('.prev-btn').prop('disabled', currentPage === 1);
+    $('.next-btn').prop('disabled', currentPage === totalPages || totalPages === 0);
 }
 
-// Modal functions with JW Player
+// JW Player Modal Functions
 function openModal(movie) {
-    const modal = document.getElementById('movieModal');
-    const modalPoster = document.getElementById('modalPoster');
-    const videoContainer = document.getElementById('videoContainer');
-    const modalTitle = document.getElementById('modalTitle');
-    const modalDownload = document.getElementById('modalDownload');
-    const modalInfo = document.getElementById('modalInfo');
-    
     const hideMedia = movie.title.toLowerCase().includes('hevc') || 
                      movie.title.toLowerCase().includes('all episodes');
     
-    // Use bgi if available, otherwise fall back to im
     const modalImage = movie.bgi || movie.im;
     
-    modalPoster.style.display = 'block';
-    modalPoster.innerHTML = `<img src="https://image.tmdb.org/t/p/w500_and_h282_face/${modalImage}.jpg" alt="${movie.title}">`;
+    $('#modalPoster').html(`<img src="https://image.tmdb.org/t/p/w500/${modalImage}.jpg" alt="${movie.title}">`).show();
     
-    // Clear previous JW Player instance
+    // Destroy previous player instance
     if (jwPlayerInstance) {
         jwPlayerInstance.remove();
         jwPlayerInstance = null;
     }
     
-    videoContainer.innerHTML = ''; // Clear previous content
+    $('#videoContainer').empty();
     
     if (!hideMedia && movie.dl) {
         try {
-            // Setup JW Player
-            videoContainer.innerHTML = '<div id="jwplayer-container"></div>';
+            $('#videoContainer').html('<div id="jwplayer-container"></div>');
             
             jwPlayerInstance = jwplayer("jwplayer-container").setup({
                 file: movie.dl,
-                image: `https://image.tmdb.org/t/p/w533_and_h300_bestv2/${modalImage}.jpg`,
+                image: `https://image.tmdb.org/t/p/w780/${modalImage}.jpg`,
                 width: '100%',
+                height: '100%',
                 aspectratio: '16:9',
                 autostart: false,
                 controls: true,
                 displaytitle: false,
                 stretching: 'uniform',
-                primary: 'html5'
+                primary: 'html5',
+                playbackRateControls: true,
+                abouttext: 'Video Player',
+                aboutlink: 'https://example.com'
             });
             
-            modalPoster.style.display = 'none';
+            jwPlayerInstance.on('error', function(e) {
+                console.error('JW Player Error:', e);
+                Swal.fire('Playback Error', 'Could not load the video. Please try another movie.', 'error');
+                $('#modalPoster').show();
+            });
+            
+            jwPlayerInstance.on('ready', function() {
+                $('#modalPoster').hide();
+            });
+            
         } catch(e) {
-            console.error('Error creating JW Player:', e);
-            modalPoster.style.display = 'block';
+            console.error('JW Player Init Error:', e);
+            Swal.fire('Player Error', 'Failed to initialize video player.', 'error');
+            $('#modalPoster').show();
         }
-    } else {
-        modalPoster.style.display = 'block';
     }
     
-    modalTitle.textContent = movie.title;
-    modalDownload.href = 'https://dereferer.me/?' + movie.dl;
-    modalInfo.href = 'https://www.imdb.com/title/' + movie.link;
-    modal.style.display = 'block';
-    document.body.style.overflow = 'hidden';
+    $('#modalTitle').text(movie.title);
+    $('#modalDownload').attr('href', 'https://dereferer.me/?' + encodeURIComponent(movie.dl));
+    $('#modalInfo').attr('href', 'https://www.imdb.com/title/' + movie.link);
+    $('#movieModal').show();
+    $('body').css('overflow', 'hidden');
 }
 
 function closeModal() {
-    const modal = document.getElementById('movieModal');
-    
-    // Remove JW Player instance when closing modal
     if (jwPlayerInstance) {
         jwPlayerInstance.remove();
         jwPlayerInstance = null;
     }
-    
-    modal.style.display = 'none';
-    document.body.style.overflow = 'auto';
+    $('#movieModal').hide();
+    $('body').css('overflow', 'auto');
 }
 
-window.onclick = function(event) {
-    const modal = document.getElementById('movieModal');
-    if (event.target == modal) {
+// Close modal when clicking outside
+$(document).on('click', '#movieModal', function(e) {
+    if (e.target === this) {
         closeModal();
     }
-}
+});
 
 function goHome() {
     window.location.href = '/';

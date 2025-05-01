@@ -189,15 +189,9 @@ function openModal(movie) {
     
     videoPlayer.innerHTML = '';
     
-    if (!hideMedia && !movie.dl) {
+    if (!hideMedia && movie.dl) {
         try {
-            videoPlayer.innerHTML = `
-            <video controls preload="metadata"
-                poster="https://image.tmdb.org/t/p/w533_and_h300_bestv2/${modalImage}.jpg"
-                style="width:100%;height:100%;object-fit:contain;background:#000;">
-                <source src="${movie.dl}" type="video/mp4">
-                Your browser doesn't support HTML5 video.
-            </video>`;
+            videoPlayer.innerHTML = `<iframe width="100%" height="100%" src="https://bdhduebd.blogspot.com/?v=${movie.dl}&i=https://image.tmdb.org/t/p/w533_and_h300_bestv2/${modalImage}.jpg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`;
             modalPoster.style.display = 'none';
         } catch(e) {
             console.error('Error creating video player:', e);

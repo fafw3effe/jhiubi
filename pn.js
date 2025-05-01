@@ -195,7 +195,7 @@ function openModal(movie) {
     const modalDownload = document.getElementById('modalDownload');
     const modalInfo = document.getElementById('modalInfo');
     
-    const hideMedia = movie.title.toLowerCase().includes('hevc') || 
+    const hideMedia = movie.title.toLowerCase().includes('heevvc') || 
                      movie.title.toLowerCase().includes('all episodes');
     
     // Use bgi if available, otherwise fall back to im

@@ -30,8 +30,8 @@ link: 'tt23804696'
 },
 
 {
-title:'Thunderbolts [2025] HDCAM [Hindi] | Full Movie',
-im:'hqcexYHbiTBfDIdDWxrxPtVndBX',
+title:'Thunderbolts* [2025] HDCAM [Hindi] | Full Movie',
+im:'1top0ND4DFGNvCdl0TwPl7Tv7sB',
 bgi:'3Ym8diDGcHqtsTSo53xwiWJk38U',
 dl:'https://pixeldrain.net/api/file/drAXR6Uy?download',
 link: 'tt20969586'

@@ -279,6 +279,7 @@ link: 'tt35402446'
 {
 title:'CiD [Season 2] [Episode 38] WEB-DL [Hindi]',
 im:'60ZxbAMk6QO8jMD0p8WrGHVCbyK',
+bgi:'aqyxAXhx6yTdKOlCRiiKM5TsXpp',
 dl:'https://pixeldrain.net/api/file/cadQFjh6?download',
 link: 'tt0401916F'
 },

@@ -1352,30 +1352,35 @@ im: 'qnngKqAcqfH2pBxDoKu5lxzSbTo',
 dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=4a7Y48J1KwDseGk17',
 link: 'tt0286716'
 },
+
 {
 title: 'The Incredible Hulk (2008) BluRay [Hindi-English] | Full Movie',
 im: 'gKzYx79y0AQTL4UAk1cBQJ3nvrm',
 dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=YHqtBPm6aBN6Mvxz6',
 link: 'tt0800080'
 },
+
 {
 title: 'Iron Man 2 (2010) BluRay [Hindi-English] | Full Movie',
 im: '6WBeq4fCfn7AN0o21W9qNcRF2l9',
 dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=WHr5G4pWrXsS6fWq8',
 link: 'tt1228705'
 },
+
 {
 title: 'Thor (2011) BluRay [Hindi-English] | Full Movie',
 im: 'prSfAi1xGrhLQNxVSUFh61xQ4Qy',
 dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=QsmrTwFFmBj7SwGAA',
 link: 'tt0800369'
 },
+
 {
 title: 'Captain America: The First Avenger (2011) BluRay [Hindi-English] | Full Movie',
 im: 'vSNxAJTlD0r02V9sPYpOjqDZXUK',
 dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=a849fbPETpMEH7En7',
 link: 'tt0458339'
 },
+
 {
 title: 'The Avengers (2012) BluRay [Hindi-English] | Full Movie',
 im: 'RYMX2wcKCBAr24UyPD7xwmjaTn',
@@ -1389,24 +1394,28 @@ link: 'tt0848228'
 "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=H7p8drnWTaWxus7t9",
 "link": "tt1300854"
 },
+
 {
 "title": "Thor: The Dark World (2013) BluRay [Hindi-English] | Full Movie",
 "im": "wD6g4EcmR6R3VNbuBmNOVq2qWrM",
 "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=m8j5Qb61sxnnyZYw8",
 "link": "tt1981115"
 },
+
 {
 "title": "Captain America: The Winter Soldier (2014) BluRay [Hindi-English] | Full Movie",
 "im": "tVFRpFw3xTedgPGqxW0AOI8Qhh0",
 "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=Hawha6Ucwr8Hys4u8",
 "link": "tt1843866"
 },
+
 {
 "title": "Avengers: Age of Ultron (2015) BluRay [Hindi-English] | Full Movie",
 "im": "4ssDuvEDkSArWEdyBl2X5EHvYKU",
 "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=RrQk6NB1HKcjUHtN7",
 "link": "tt2395427"
 },
+
 {
 "title": "Ant-Man (2015) BluRay [Hindi-English] | Full Movie",
 "im": "rQRnQfUl3kfp78nCWq8Ks04vnq1",
@@ -1420,24 +1429,28 @@ link: 'tt0848228'
 "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=YwogYX5CULZS4nJ69",
 "link": "tt3896198"
 },
+
 {
 "title": "Spider-Man: Homecoming [2017] BluRay [Hindi + English] | Full Movie",
 "im": "/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
 "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=FMppXWWVStDpQkux9",
 "link": "tt2250912"
 },
+
 {
 "title": "Ant-Man and the Wasp (2018) BluRay [Hindi-English] | Full Movie",
 "im": "/eivQmS3wqzqnQWILHLc4FsEfcXP.jpg",
 "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=ccQ912v5Yn55yhAT8",
 "link": "tt5095030"
 },
+
 {
 "title": "Captain Marvel (2019) BluRay [Hindi-English] | Full Movie",
 "im": "/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
 "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=e8BER3nMziuAjD2Y9",
 "link": "tt4154664"
 },
+
 {
 "title": "Spider-Man: Far from Home (2019) BluRay [Hindi-English] | Full Movie",
 "im": "/rjbNpRMoVvqHmhmksbokcyCr7wn.jpg",
@@ -1452,36 +1465,42 @@ link: 'tt0848228'
 "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=xtf9DpVu1keEG8vn9",
 "link": "tt3480822"
 },
+
 {
 "title": "Shang-Chi and the Legend of the Ten Rings (2021) BluRay [Hindi-English] | Full Movie",
 "im": "d08HqqeBQSwN8i8MEvpsZ8Cb438",
 "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=xtf9DpVu1keEG8vn9",
 "link": "tt9376612"
 },
+
 {
 "title": "Eternals (2021) BluRay [Hindi-English] | Full Movie",
 "im": "lFByFSLV5WDJEv3KabbdAF959F2",
 "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=LHBWnUyKdNDx5xBQA",
 "link": "tt9032400"
 },
+
 {
 "title": "Doctor Strange in the Multiverse of Madness (2022) BluRay [Hindi-English] | Full Movie",
 "im": "ddJcSKbcp4rKZTmuyWaMhuwcfMz",
 "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=https://photos.app.goo.gl/4JKtuhfv475uCxWA9",
 "link": "tt9419884"
 },
+
 {
 "title": "Ant-Man and the Wasp: Quantumania (2023) BluRay [Hindi-English] | Full Movie",
 "im": "qnqGbB22YJ7dSs4o6M7exTpNxPz",
 "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=2URs1ggPsdad8uyy9",
 "link": "tt10954600"
 },
+
 {
 "title": "Guardians of the Galaxy Volume 3 (2023) BluRay [Hindi-English] | Full Movie",
 "im": "r2J02Z2OpNTctfOSN1Ydgii51I3",
 "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=YFyjMY7L1guamLgw8",
 "link": "tt6791350"
 },
+
 {
 "title": "The Marvels (2023) BluRay [Hindi-English] | Full Movie",
 "im": "9GBhzXMFjgcZ3FdR9w3bUMMTps5",
@@ -1495,126 +1514,147 @@ im: 'gh4cZbhZxyTbgxQPxD0dOudNPTn',
 dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=ee65y1T9vbTit1rC9',
 link: 'tt0145487'
 },
+
 {
 title: 'Spider-Man 2 (2004) BluRay [Hindi-English] | Full Movie',
 im: 'aGuvNAaaZuWXYQQ6N2v7DeuP6mB',
 dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=jwM85n6d8p8kcnuu6',
 link: 'tt0316654'
 },
+
 {
 title: 'Spider-Man 3 (2007) BluRay [Hindi-English] | Full Movie',
 im: 'qFmwhVUoUSXjkKRmca5yGDEXBIj',
 dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=Po5fP2HKyvk66Trm8',
 link: 'tt0413300'
 },
+
 {
 title: 'The Amazing Spider-Man (2012) BluRay [Hindi-English] | Full Movie',
 im: 'jexoNYnPd6vVrmygwF6QZmWPFdu',
 dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=fmHnCBttUdMVeFZE9',
 link: 'tt0948470'
 },
+
 {
 title: 'The Amazing Spider-Man 2 (2014) BluRay [Hindi-English] | Full Movie',
 im: 'dGjoPttcbKR5VWg1jQuNFB247KL',
 dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=mgJ2wVdbCjvJ8MJW8',
 link: 'tt1872181'
 },
+
 {
 title: 'Venom (2018) BluRay [Hindi-English] | Full Movie',
 im: '2uNW4WbgBXL25BAbXGLnLqX71Sw',
 dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=C4f6wKbigDfJYGhB8',
 link: 'tt1270797'
 },
+
 {
 title: 'Spider-Man: Into the Spider-Verse (2018) BluRay [Hindi-English] | Full Movie',
 im: 'iiZZdoQBEYBv6id8su7ImL0oCbD',
 dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=LAuM8ZXw3mAH2LTz6',
 link: 'tt4633694'
 },
+
 {
 title: 'Venom: Let There Be Carnage (2021) BluRay [Hindi-English] | Full Movie',
 im: 'pzKsRuKLFmYrW5Q0q8E8G78Tcgo',
 dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=mrop2M3vAdzSygk46',
 link: 'tt7097896'
 },
+
 {
 title: 'Spider-Man: Across the Spider-Verse (2023) BluRay [Hindi-English] | Full Movie',
 im: '8Vt6mWEReuy4Of61Lnj5Xj704m8',
 dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=M77or2T2DzRUSUof6',
 link: 'tt9362722'
 },
+
 {
 title: 'Venom: The Last Dance (2024) WEB-DL [Hindi (ORG 5.1) & English] [HEVC] | Full Movie',
 im: 'vGXptEdgZIhPg3cGlc7e8sNPC2e',
 dl: 'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Venom.The.Last.Dance.2024.720p.10Bit.WEB-DL.Hindi.5.1-English.HEVC.x265-HDHub4u.Tv.mkv',
 link: 'tt16366836'
 },
+
 {
 title: 'X-Men 1 - (2000) BluRay [Hindi-English] | Full Movie',
 im: 'bRDAc4GogyS9ci3ow7UnInOcriN',
 dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=4UqkNmWzDS3rq1LJ9',
 link: 'tt0120903'
 },
+
 {
 title: 'X-Men 2 X2 - (2003) BluRay [Hindi-English] | Full Movie',
 im: 'rtrd4qieMAhoUshu83Vi1GazM1O',
 dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=E8WSrbGeAg5d5XBf6',
 link: 'tt0199738'
 },
+
 {
 title: 'X-Men 3: The Last Stand (2006) BluRay [Hindi-English] | Full Movie',
 im: 'a2xicU8DpKtRizOHjQLC1JyCSRS',
 dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=WRrrA53roQyEvKDe9',
 link: 'tt0376994'
 },
+
 {
 title: 'X-Men 4 Origins: Wolverine (2009) BluRay [Hindi-English] | Full Movie',
 im: 'yj8LbTju1p7CUJg7US2unSBk33s',
 dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=ZAaBVwwLsF1JE19L6',
 link: 'tt0458525'
 },
+
 {
 title: 'X-Men 5: First Class (2011) BluRay [Hindi-English] | Full Movie',
 im: 'hNEokmUke0dazoBhttFN0o3L7Xv',
 dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=mcfV8Q7BwdnQKeFF8',
 link: 'tt1270798'
 },
+
 {
 title: 'The Wolverine (2013) BluRay [Hindi-English] | Full Movie',
 im: '8lzmovtARDXnE7kTDOum02i6fXv',
 dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=XgqLbrYW2kQHJgfz7',
 link: 'tt1430132'
 },
+
 {
 title: 'X-Men: Days of Future Past (2014) BluRay [Hindi-English] | Full Movie',
 im: 'tYfijzolzgoMOtegh1Y7j2Enorg',
 dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=233ms2aAosaJpWZ69',
 link: 'tt1877832'
 },
+
 {
 title: 'Deadpool (2016) BluRay [Hindi-English] | Full Movie',
 im: '3E53WEZJqP6aM84D8CckXx4pIHw',
 dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=9vXjZPbeHhj2mPjTA',
 link: 'tt1431045'
 },
+
 {
 title: 'X-Men: Apocalypse (2016) BluRay [Hindi-English] | Full Movie',
 im: 'ikA8UhYdTGpqbatFa93nIf6noSr',
 dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=z12yKTGsdq7DHgkK6',
 link: 'tt3438826'
 },
+
 {
 title: 'Logan (2017) BluRay [Hindi-English] | Full Movie',
 im: 'fnbjcRDYn6YviCcePDnGdyAkYsB',
 dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=iuD8GEtRVZBz2rGc8',
 link: 'tt3315342'
 },
+
 {
 title: 'Deadpool 2 (2018) BluRay [Hindi-English] | Full Movie',
 im: 'to0spRl1CMDvyUbOnbb4fTk3VAd',
 dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=crni6yr2SEaxZ65a9',
 link: 'tt5463162'
 },
+
 {
 title: 'X-Men: Dark Phoenix (2019) BluRay [Hindi-English] | Full Movie',
 im: 'kZv92eTc0Gg3mKxqjjDAM73z9cy',
@@ -1628,18 +1668,21 @@ im: 'uLOmOF5IzWoyrgIF5MfUnh5pa1X',
 dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=CJLyq2U3aTztajhs8',
 link: 'tt0119654'
 },
+
 {
 title: 'Men in Black 2 - II (2002) BluRay [Hindi-English] | Full Movie',
 im: 'enA22EPyzc2WQ1VVyY7zxresQQr',
 dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=seYdkyG21UX7ZnAMA',
 link: 'tt0120912'
 },
+
 {
 title: 'Men in Black 3 (2012) BluRay [Hindi-English] | Full Movie',
 im: '90DdoEStzeObs96fsYf4GG544iN',
 dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=9JCq3pFz9jZeVqm88',
 link: 'tt1409024'
 },
+
 {
 title: 'Men in Black 4: International (2019) BluRay [Hindi-English] | Full Movie',
 im: 'dPrUPFcgLfNbmDL8V69vcrTyEfb',
@@ -1653,90 +1696,105 @@ im: 'r1yAzVQNbCbPTbB3GZFour9Qr0t',
 dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=uVFzgQFR1hXEQr9F8',
 link: 'tt9389998'
 },
+
 {
 title: 'Ala Vaikunthapurramuloo - Vaikuntapuram (2020) WEB-DL [Hindi] | Full Movie',
 im: '2rzORJaegE2bbKNVkQXbZCeV0BP',
 dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=huHzBuJMB5ryzHQi9',
 link: 'tt9776894'
 },
+
 {
 title: 'Surya The Soldier - Naa Peru Surya, Naa Illu India (2018) WEB-DL [Hindi] | Full Movie',
 im: 'fHQAy0hHANT8BIRrLAQCfmLwIN4',
 dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=BXiYSQ1PV4h31rTM7',
 link: 'tt7794524'
 },
+
 {
 title: 'DJ - Duvvada Jagannadham (2017) WEB-DL [Hindi] | Full Movie',
 im: '71aRdJ1BVKXiwaERnD2UWL3J5AR',
 dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=RaUHJ4PHMX4qB6BY7',
 link: 'tt6734984'
 },
+
 {
 title: 'Sarrainodu (2016) WEB-DL [Hindi] | Full Movie',
 im: 'olXLUc36dmYFdZrU7UkC3DeADfv',
 dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=YDhNo1xK8CzDTUmw6',
 link: 'tt5457772'
 },
+
 {
 title: 'Son of Satyamurthy (2015) WEB-DL [Hindi] | Full Movie',
 im: 'oQq3FMD952F8Rnu619O2boTK1Do',
 dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=iv7TL87bUcYUUMPa7',
 link: 'tt4596814'
 },
+
 {
 title: 'Rudhramadevi (2015) WEB-DL [Hindi] | Full Movie',
 im: 'i3gFyjzp5qTiFCwxCr1n59Ak6dA',
 dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=kFe2capTmEudsD1dA',
 link: 'tt2807410'
 },
+
 {
 title: 'Main Hoon Lucky The Racer - Race Gurram (2014) WEB-DL [Hindi] | Full Movie',
 im: '4ojbzpHL0wmlnrmlLQGLds6Hwvu',
 dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=FCNee1xo7fXF54ww5',
 link: 'tt3142764'
 },
+
 {
 title: 'Dangerous Khiladi 2 - Iddarammayilatho (2013) WEB-DL [Hindi] | Full Movie',
 im: 'bsh8YdNxq66oH0MvJFd7hjlq6Fq',
 dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=Nk9po3sh32VG2to37',
 link: 'tt2714622'
 },
+
 {
 title: 'Dangerous Khiladi - Julayi (2012) WEB-DL [Hindi] | Full Movie',
 im: 'tIUBifudyRCKhF1utslaDoDRteW',
 dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=yZytzQrjHKTG4eKcA',
 link: 'tt2330927'
 },
+
 {
 title: 'Antim Faisla - Vedam (2010) WEB-DL [Hindi] | Full Movie',
 im: 'fwozjObCQSZsGdUw0dJXJSdEocj',
 dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=TRmGoh6X9yE5knMc9',
 link: 'tt1649431'
 },
+
 {
 title: 'Ek Aur Rakshak - Varudu (2010) WEB-DL [Hindi] | Full Movie',
 im: 'b9vJOQal3MfSVdoIoo9hcpsF23P',
 dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=vSzh1wizyjoKV3ao8',
 link: 'tt1582637'
 },
+
 {
 title: 'Arya 2 Ek Deewana (2009) WEB-DL [Hindi] | Full Movie',
 im: 'kjbbx8kV6pNhNXX9aRsVDwyEJbm',
 dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=nKpcEeoZ3waVPUvb7',
 link: 'tt1526323'
 },
+
 {
 title: 'Veertaa The Power - Parugu (2008) WEB-DL [Hindi] | Full Movie',
 im: '3RYvVIZyNfYI6DRdljL42hA8zMr',
 dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=LwTFKRjEYbvtrQoB8',
 link: 'tt1198349'
 },
+
 {
 title: 'Dum - Happy (2006) WEB-DL [Hindi] | Full Movie',
 im: 'nPITY2XjohAubgnY9Ihq4k5DfjH',
 dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=rtv65pSY3G872ocG7',
 link: 'tt0491775'
 },
+
 {
 title: 'Arya Ki Prem Pratigya (2004) WEB-DL [Hindi] | Full Movie',
 im: '1RU7eOgierTfTiNNQUmd1h5iKFU',

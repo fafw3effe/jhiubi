@@ -39,7 +39,7 @@ link: 'tt20969586'
 
 {
 title:'The Bhootnii [2025] HQ PRE-HD [Hindi] | Full Movie',
-im:'l92cbxp7GIOQnKjMsSd2HLm10rE',
+im:'6dT1KCa4wzkFYidXRVEg4OwntmP',
 bgi:'foCFZLADroNnhn07aFRoijUKpC1',
 dl:'https://pixeldrain.net/api/file/y4fRSCP7?download',
 link: 'tt27162102'

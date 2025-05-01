@@ -14,6 +14,38 @@ link: ''
 */
 
 {
+title:'Peaky Blinders [Season 2] [Episode 1] WEB-DL [Hindi + English]',
+im:'m4JPtC3gWUsq0GlfNK3SdgkL9XG',
+bgi:'2JxCri29xSPtPdrrZBWtbehhClL',
+dl:'https://pixeldrain.net/api/file/RUMpVy7v?download',
+link: 'tt2442560'
+},
+
+{
+title:'HIT: The Third Case [2025] HQ PRE-HD [Hindi + Telugu] | Full Movie',
+im:'wT9tGyFol4RBwkjESXUWeBdnLJn',
+bgi:'xzpXvyetmrdR3NSRN9uy0xO3lR1',
+dl:'https://pixeldrain.net/api/file/9ruFwKGJ?download',
+link: 'tt23804696'
+},
+
+{
+title:'Thunderbolts [2025] HDCAM [Hindi] | Full Movie',
+im:'hqcexYHbiTBfDIdDWxrxPtVndBX',
+bgi:'3Ym8diDGcHqtsTSo53xwiWJk38U',
+dl:'https://pixeldrain.net/api/file/drAXR6Uy?download',
+link: 'tt20969586'
+},
+
+{
+title:'The Bhootnii [2025] HQ PRE-HD [Hindi] | Full Movie',
+im:'l92cbxp7GIOQnKjMsSd2HLm10rE',
+bgi:'foCFZLADroNnhn07aFRoijUKpC1',
+dl:'https://pixeldrain.net/api/file/y4fRSCP7?download',
+link: 'tt27162102'
+},
+
+{
 title:'Raid 2 [2025] HQ PRE-HD [Hindi] | Full Movie',
 im:'562SAxZP1sLuYqDDTuODu3hdGyx',
 bgi:'uKhBujLqYCcfU1kaxXHNCEyZnT',
@@ -1301,7 +1333,7 @@ link: 'tt10919420'
 
 { title: 'C.I.D (Season 2) WEB-DL [Hindi DD2.0] [HEVC] | [SonyLiv Series] [Episode-33]',im:'60ZxbAMk6QO8jMD0p8WrGHVCbyK', dl: 'https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/CID.S02E33.720p.HEVC.Hindi.WEB.DL.2.0.AAC.x265.HDHub4u.Ms.mkv' , link: 'tt0401916' },
 
-{ title: 'Emmanuelle (2024) BluRay [Hindi (DD2.0) & English] [HEVC] | Full Movie',im:'s9gmKus9YPTDzdMKZQJYPh0VoGk', dl: 'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Emmanuelle.2024.720p.10Bit.BluRay.Hindi.2.0-English.HEVC.x265-HDHub4u.Ms.mkv' , link: 'tt20247888' },
+{ title: 'Emmanuelle [2024] BluRay [Hindi + English] [HEVC] | Full Movie',im:'s9gmKus9YPTDzdMKZQJYPh0VoGk', dl: 'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Emmanuelle.2024.720p.10Bit.BluRay.Hindi.2.0-English.HEVC.x265-HDHub4u.Ms.mkv' , link: 'tt20247888' },
 
 { title: 'Court - State Vs. A Nobody (2025) WEB-DL [Hindi (DD5.1) & Telugu] [HEVC] | Full Movie',im:'4pEX67LJd7ZIqYWtksBtOgQEGcQ', dl: 'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Court.State.vs.A.Nobody.2025.720p.HEVC.WEB-DL.Hindi-Telugu.ESub.x265-HDHub4u.Ms.mkv' , link: 'tt33307144' },
 

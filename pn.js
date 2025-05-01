@@ -191,7 +191,7 @@ function openModal(movie) {
     
     if (!hideMedia && movie.dl) {
         try {
-            videoPlayer.innerHTML = `<iframe width="100%" height="100%" src="https://bdhduebd.blogspot.com/?v=${movie.dl}&i=https://image.tmdb.org/t/p/w533_and_h300_bestv2/${modalImage}.jpg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`;
+            videoPlayer.innerHTML = `<iframe width="100%" height="100%" src="https://bdhduebd.blogspot.com/?v=${movie.dl}&i=https://image.tmdb.org/t/p/w533_and_h300_bestv2/${modalImage}.jpg" allowfullscreen></iframe>`;
             modalPoster.style.display = 'none';
         } catch(e) {
             console.error('Error creating video player:', e);

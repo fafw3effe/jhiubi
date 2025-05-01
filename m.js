@@ -1344,7 +1344,7 @@ link: 'tt10919420'
 
 { title: 'A Minecraft Movie (2025) HDTC [English (ORG-2.0)] [x264] | Full Movie',im:'tldIoZNsAkEkppQwXGuw3aWVWyL', dl: 'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/A.Minecraft.Movie.2025.English.720p.HDTC.DD.2.0.x264.Hdhub4u.mkv', link: 'tt3566834' },
 
-{ 'title:'Chhaava (2025) WEB-DL [Hindi DD5.1] | Full Movie [Netflix]', im:'7AeohlqamcLL1diMusV28eTngvg', 'dl:'https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Chhaava.2025.DS4K.720p.HEVC.Hindi.WEB.DL.ESub.x265.HDHub4u.Ms.mkv', 'link:'tt27922706' },
+{ title:'Chhaava (2025) WEB-DL [Hindi DD5.1] | Full Movie [Netflix]', im:'7AeohlqamcLL1diMusV28eTngvg', dl:'https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Chhaava.2025.DS4K.720p.HEVC.Hindi.WEB.DL.ESub.x265.HDHub4u.Ms.mkv', link:'tt27922706' },
 
 {
 title: 'Hulk (2003) BluRay [Hindi-English] | Full Movie',
@@ -1447,7 +1447,7 @@ link:'tt5095030'
 {
 title:'Captain Marvel (2019) BluRay [Hindi-English] | Full Movie',
 im:'/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg',
-dl'http://qwrqwrqwr.rf.gd/a/a.php?d4=e8BER3nMziuAjD2Y9',
+dl:'http://qwrqwrqwr.rf.gd/a/a.php?d4=e8BER3nMziuAjD2Y9',
 link:'tt4154664'
 },
 

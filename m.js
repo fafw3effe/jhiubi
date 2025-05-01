@@ -14,6 +14,22 @@ link: ''
 */
 
 {
+title:'Bromance [2025] WEB-DL [Hindi + Malayalam] | Full Movie',
+im:'2xzgtY0d7xbqeTWdF3tDgd5WeVM',
+bgi:'kTx0OshQyYMMJ8EtWwV9DDKNf0R',
+dl:'https://pixeldrain.net/api/file/ryiPBkWQ?download',
+link: 'tt32135710'
+},
+
+{
+title:'The Eternaut [Season 1] WEB-DL [Hindi + English] | All Episodes',
+im:'ucI5KroZLP0KyJqQnAdOpzhVvBs',
+bgi:'vxZWeJbTpjysZo5agCnmQCCCsxt',
+dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=B3bv5MAQ&sn=1&es=The.Eternaut.S01.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms/The.Eternaut.S01E&e=6&el=.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv',
+link: 'tt27740241'
+},
+
+{
 title:'Peaky Blinders [Season 1] [Episode 6] WEB-DL [Hindi + English]',
 im:'vPlsKun2WZEsqe3yZTmebxtwElW',
 bgi:'4p4MIZG60gGHChGtTDQMO8Afb9R',

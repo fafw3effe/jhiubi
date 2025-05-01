@@ -1,26 +1,24 @@
 const itemsPerPage = 12;
 let currentPage = 1;
 let currentSearch = '';
-let searchTimeout = null;
 
 // Helper function to clean search strings
 function cleanSearchString(str) {
-    if (!str) return '';
-    return str.toLowerCase().replace(/[^\w\s]/g, '');
+    return str.toLowerCase().replace(/[{}\-\.\(\)\s\|:\[\]]/g, '');
 }
 
 // Parse URL parameters
 function getUrlParams() {
     const params = new URLSearchParams(window.location.search);
-    const search = params.get('s') ? decodeURIComponent(params.get('s')) : '';
-    const page = Math.max(1, parseInt(params.get('p')) || 1);
+    const search = params.get('s') || '';
+    const page = parseInt(params.get('p')) || 1;
     return { search, page };
 }
 
 // Update URL parameters
 function updateUrlParams() {
     const params = new URLSearchParams();
-    if (currentSearch) params.set('s', encodeURIComponent(currentSearch));
+    if (currentSearch) params.set('s', currentSearch);
     if (currentPage > 1) params.set('p', currentPage);
     
     const newUrl = window.location.pathname + (params.toString() ? `?${params.toString()}` : '');
@@ -28,82 +26,77 @@ function updateUrlParams() {
 }
 
 // Initialize the page
-window.onload = function() {
+function initializePage() {
     const { search, page } = getUrlParams();
     currentSearch = cleanSearchString(search);
     currentPage = page;
     
     if (search) {
         document.getElementById('searchInput').value = search;
-        toggleSearch(false);
+        toggleSearch(false); // Show search bar if there's a search query
     }
     
     displayMovies();
     updatePagination();
-};
+}
 
-// Toggle search bar
+// Toggle search bar (modified to accept show/hide parameter)
 function toggleSearch(show = null) {
     const headerContent = document.querySelector('.header-content');
     const searchBar = document.querySelector('.search-bar');
     
     if (show === false || (show === null && searchBar.style.display === 'flex')) {
+        // Hide search bar
         searchBar.style.display = 'none';
         headerContent.style.display = 'flex';
         currentSearch = '';
         document.getElementById('searchInput').value = '';
-        currentPage = 1;
+        currentPage = 1; // Reset to first page when clearing search
         updateUrlParams();
         displayMovies();
     } else {
+        // Show search bar
         headerContent.style.display = 'none';
         searchBar.style.display = 'flex';
         document.getElementById('searchInput').focus();
     }
 }
 
-// Search functionality with debounce
-document.getElementById('searchInput').addEventListener('input', function() {
-    clearTimeout(searchTimeout);
-    searchTimeout = setTimeout(() => {
-        currentSearch = cleanSearchString(this.value);
-        currentPage = 1;
-        updateUrlParams();
-        displayMovies();
-        updatePagination();
-    }, 300);
-});
-
-// Movie display function
+// Movie display function (optimized to only work with current page)
 function displayMovies() {
     const list = document.getElementById('movieList');
+    if (!list) {
+        console.error('movieList element not found');
+        return;
+    }
+    
     list.innerHTML = '';
 
-    const filteredMovies = movies.filter(movie => {
-        const cleanTitle = cleanSearchString(movie.title);
-        const cleanLink = cleanSearchString(movie.link);
-        return cleanTitle.includes(currentSearch) || cleanLink.includes(currentSearch);
-    });
-
-    const totalPages = Math.max(1, Math.ceil(filteredMovies.length / itemsPerPage));
-    currentPage = Math.min(currentPage, totalPages);
-
-    const pageMovies = filteredMovies.slice(
-        (currentPage - 1) * itemsPerPage,
-        currentPage * itemsPerPage
+    // Get filtered movies
+    const filteredMovies = movies.filter(movie => 
+        !currentSearch || 
+        cleanSearchString(movie.title).includes(currentSearch) || 
+        cleanSearchString(movie.link).includes(currentSearch)
     );
 
-    if (pageMovies.length === 0) {
+    // Calculate pagination
+    const startIndex = (currentPage - 1) * itemsPerPage;
+    const paginatedMovies = filteredMovies.slice(startIndex, startIndex + itemsPerPage);
+
+    if (paginatedMovies.length === 0) {
         list.innerHTML = '<p style="grid-column: 1 / -1; text-align: center;">No movies found</p>';
         return;
     }
 
+    // Create document fragment for better performance
     const fragment = document.createDocumentFragment();
-    
-    pageMovies.forEach(movie => {
+
+    paginatedMovies.forEach(movie => {
         const card = document.createElement('div');
         card.className = 'movie-card';
-        card.onclick = () => openModal(movie);
+        card.onclick = function() {
+            openModal(movie);
+        };
 
         const thumbnailContainer = document.createElement('div');
         thumbnailContainer.className = 'movie-thumbnail-container';
@@ -113,8 +106,8 @@ function displayMovies() {
         thumbnail.className = 'movie-thumbnail';
         thumbnail.alt = movie.title;
         thumbnail.loading = 'lazy';
-        thumbnail.onerror = () => {
-            thumbnail.src = 'placeholder.jpg'; // Fallback image
+        thumbnail.onerror = function() {
+            this.src = 'placeholder.jpg'; // Fallback image
         };
         
         thumbnailContainer.appendChild(thumbnail);
@@ -149,11 +142,12 @@ function prevPage() {
 
 function nextPage() {
     const filteredMovies = movies.filter(movie => 
+        !currentSearch || 
         cleanSearchString(movie.title).includes(currentSearch) || 
         cleanSearchString(movie.link).includes(currentSearch)
     );
     
-    const totalPages = Math.max(1, Math.ceil(filteredMovies.length / itemsPerPage));
+    const totalPages = Math.ceil(filteredMovies.length / itemsPerPage);
     
     if (currentPage < totalPages) {
         currentPage++;
@@ -165,37 +159,49 @@ function nextPage() {
 
 function updatePagination() {
     const filteredMovies = movies.filter(movie => 
+        !currentSearch || 
         cleanSearchString(movie.title).includes(currentSearch) || 
         cleanSearchString(movie.link).includes(currentSearch)
     );
     
-    const totalPages = Math.max(1, Math.ceil(filteredMovies.length / itemsPerPage));
-    currentPage = Math.min(currentPage, totalPages);
-    
+    const totalPages = Math.ceil(filteredMovies.length / itemsPerPage);
     const pageInfo = `Page ${currentPage} of ${totalPages}`;
     
-    document.getElementById('pageInfoTop').textContent = pageInfo;
-    document.getElementById('pageInfoBottom').textContent = pageInfo;
+    // Safely update page info elements
+    const pageInfoTop = document.getElementById('pageInfoTop');
+    const pageInfoBottom = document.getElementById('pageInfoBottom');
+    if (pageInfoTop) pageInfoTop.textContent = pageInfo;
+    if (pageInfoBottom) pageInfoBottom.textContent = pageInfo;
     
-    const disablePrev = currentPage === 1;
-    const disableNext = currentPage === totalPages || totalPages === 0;
+    // Safely update button states
+    const prevBtnTop = document.getElementById('prevBtnTop');
+    const prevBtnBottom = document.getElementById('prevBtnBottom');
+    const nextBtnTop = document.getElementById('nextBtnTop');
+    const nextBtnBottom = document.getElementById('nextBtnBottom');
     
-    document.getElementById('prevBtnTop').disabled = disablePrev;
-    document.getElementById('prevBtnBottom').disabled = disablePrev;
-    document.getElementById('nextBtnTop').disabled = disableNext;
-    document.getElementById('nextBtnBottom').disabled = disableNext;
+    if (prevBtnTop) prevBtnTop.disabled = currentPage === 1;
+    if (prevBtnBottom) prevBtnBottom.disabled = currentPage === 1;
+    if (nextBtnTop) nextBtnTop.disabled = currentPage === totalPages || totalPages === 0;
+    if (nextBtnBottom) nextBtnBottom.disabled = currentPage === totalPages || totalPages === 0;
 }
 
 // Modal functions
 function openModal(movie) {
     const modal = document.getElementById('movieModal');
+    if (!modal) return;
+    
     const modalPoster = document.getElementById('modalPoster');
     const videoPlayer = document.getElementById('videoPlayer');
     const modalTitle = document.getElementById('modalTitle');
     const modalDownload = document.getElementById('modalDownload');
     const modalInfo = document.getElementById('modalInfo');
     
-    const hideMedia = movie.title.toLowerCase().includes('heevc') || 
+    if (!modalPoster || !videoPlayer || !modalTitle || !modalDownload || !modalInfo) {
+        console.error('Missing modal elements');
+        return;
+    }
+
+    const hideMedia = movie.title.toLowerCase().includes('hevc') || 
                      movie.title.toLowerCase().includes('all episodes');
     
     // Use bgi if available, otherwise fall back to im
@@ -204,27 +210,73 @@ function openModal(movie) {
     modalPoster.style.display = 'block';
     modalPoster.src = 'https://image.tmdb.org/t/p/w500_and_h282_face/' + (modalImage || '') + '.jpg';
     modalPoster.alt = movie.title;
-    modalPoster.onerror = () => {
-        modalPoster.src = 'placeholder.jpg';
+    modalPoster.onerror = function() {
+        this.src = 'placeholder.jpg'; // Fallback image
     };
     
     videoPlayer.innerHTML = '';
     
     if (!hideMedia && movie.dl) {
         try {
-            const videoUrl = `https://bdhduebd.blogspot.com/?v=${movie.dl}&i=https://image.tmdb.org/t/p/w533_and_h300_bestv2/${modalImage}.jpg`;
-            videoPlayer.innerHTML = `<iframe width="100%" height="100%" src="${videoUrl}" allowfullscreen></iframe>`;
+            videoPlayer.innerHTML = `
+                <script type="text/javascript" src="https://ssl.p.jwpcdn.com/player/v/8.8.6/jwplayer.js"></script>
+                <script type="text/javascript">jwplayer.key="64HPbvSQorQcd52B8XFuhMtEoitbvY/EXJmMBfKcXZQU2Rnn";</script>
+                <style type="text/css" media="screen">
+                    html,#apicodes-player{width:100%!important;height:100%!important;overflow:hidden;background-color:#000}
+                </style>
+                <div id="apicodes-player"></div>
+                <script>
+                    var player = jwplayer("apicodes-player");
+                    player.setup({
+                        sources: [{"label":"HD","type":"video/mp4","file":"${movie.dl}"}],
+                        cast: {},
+                        aspectratio: "16:9",
+                        startparam: "start",
+                        primary: "html5",
+                        autostart: false,
+                        preload: "auto",
+                        image: "${modalImage}",
+                        captions: {
+                            color: "#f3f368",
+                            fontSize: 16,
+                            backgroundOpacity: 0,
+                            fontfamily: "Helvetica",
+                            edgeStyle: "raised"
+                        }
+                    });
+
+                    player.on("setupError", function() {
+                        console.error("Player setup error");
+                    });
+
+                    player.on("error", function(){
+                        console.error("Player error");
+                    });
+                </script>`;
             modalPoster.style.display = 'none';
         } catch(e) {
             console.error('Error creating video player:', e);
             modalPoster.style.display = 'block';
         }
+    } else {
+        modalPoster.style.display = 'block';
     }
     
     modalTitle.textContent = movie.title;
-    modalDownload.href = movie.dl ? 'https://dereferer.me/?' + encodeURIComponent(movie.dl) : '#';
-    modalDownload.style.display = movie.dl ? 'block' : 'none';
-    modalInfo.href = 'https://www.imdb.com/title/' + (movie.link || '');
+    if (movie.dl) {
+        modalDownload.href = 'https://dereferer.me/?' + movie.dl;
+        modalDownload.style.display = 'inline-block';
+    } else {
+        modalDownload.style.display = 'none';
+    }
+    
+    if (movie.link) {
+        modalInfo.href = 'https://www.imdb.com/title/' + movie.link;
+        modalInfo.style.display = 'inline-block';
+    } else {
+        modalInfo.style.display = 'none';
+    }
+    
     modal.style.display = 'block';
     document.body.style.overflow = 'hidden';
 }
@@ -233,31 +285,40 @@ function closeModal() {
     const modal = document.getElementById('movieModal');
     const videoPlayer = document.getElementById('videoPlayer');
     
-    // Pause any playing video
-    const iframe = videoPlayer.querySelector('iframe');
-    if (iframe) {
-        iframe.src = '';
+    if (videoPlayer) {
+        videoPlayer.innerHTML = '';
     }
     
-    videoPlayer.innerHTML = '';
-    modal.style.display = 'none';
-    document.body.style.overflow = 'auto';
-}
-
-window.onclick = function(event) {
-    const modal = document.getElementById('movieModal');
-    if (event.target === modal) {
-        closeModal();
+    if (modal) {
+        modal.style.display = 'none';
+        document.body.style.overflow = 'auto';
     }
 }
 
-function goHome() {
-    window.location.href = '/';
+// Event listeners
+function setupEventListeners() {
+    // Search input
+    const searchInput = document.getElementById('searchInput');
+    if (searchInput) {
+        searchInput.addEventListener('input', function() {
+            currentSearch = cleanSearchString(this.value);
+            currentPage = 1;
+            updateUrlParams();
+            displayMovies();
+        });
+    }
+    
+    // Window click for modal
+    window.addEventListener('click', function(event) {
+        const modal = document.getElementById('movieModal');
+        if (event.target === modal) {
+            closeModal();
+        }
+    });
+    
+    // Window load
+    window.addEventListener('load', initializePage);
 }
 
-// Close modal with Escape key
-document.addEventListener('keydown', function(event) {
-    if (event.key === 'Escape') {
-        closeModal();
-    }
-});
+// Initialize the application
+setupEventListeners();

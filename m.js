@@ -1014,9 +1014,9 @@ link: 'tt4052886'
 },
 
 {
-title:'Money Heist (Season 5 Vol 2) WEB-DL [Hindi(5.1DD) + English] | [All Episodes]',
+title:'Money Heist [Season 5 - Vol 2] WEB-DL [Hindi + English] | All Episodes',
 im:'yfYu1UoxsYlRgnkPTIJBt9SjYAL',
-dl:'https://vcloud.lol/kzufpnpzagzzfkl',
+dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=Q41GLaFP&sn=5 - Vol 2&es=Money.Heist.S05.E&e=6&lp=5&el=.720p.WEB-DL.Hindi.5.1-English.ESub.x264-Vegamovies.NL.mkv',
 link: 'tt6468322'
 },
 

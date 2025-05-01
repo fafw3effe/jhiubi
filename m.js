@@ -14,6 +14,38 @@ link: ''
 */
 
 {
+title:'Raid 2 [2025] HQ PRE-HD [Hindi] | Full Movie',
+im:'562SAxZP1sLuYqDDTuODu3hdGyx',
+bgi:'uKhBujLqYCcfU1kaxXHNCEyZnT',
+dl:'https://pixeldrain.net/api/file/w6RvXQwQ?download',
+link: 'tt28089700'
+},
+
+{
+title:'Another Simple Favor [2025] WEB-DL [Hindi + English] | Full Movie',
+im:'zboCGZ4aIqPMd7VFI4HWnmc7KYJ',
+bgi:'q81xMwM28e1f81NUx5dU7kpAWgs',
+dl:'https://pixeldrain.net/api/file/vXumdhH4?download',
+link: 'tt20214908'
+},
+
+{
+title:'Costao [2025] WEB-DL [Hindi] | Full Movie',
+im:'5Ott6Xp2rxVGMMtVpeMRh62FuPV',
+bgi:'14QSPSgPwimDX67BBy8r7qQ0j8y',
+dl:'https://pixeldrain.net/api/file/XFb3mreo?download',
+link: 'tt13261550'
+},
+
+{
+title:'Ali [2001] BluRay [English] | Full Movie',
+im:'hBE9VTgwmHbIBkJ0uxrnmqJOpkm',
+bgi:'9hSuFFBJFYrVhiIu7X16M7C48dK',
+dl:'https://pixeldrain.net/api/file/ZGJAiiA5?download',
+link: 'tt0248667'
+},
+
+{
 title:'Bromance [2025] WEB-DL [Hindi + Malayalam] | Full Movie',
 im:'2xzgtY0d7xbqeTWdF3tDgd5WeVM',
 bgi:'kTx0OshQyYMMJ8EtWwV9DDKNf0R',
@@ -1038,14 +1070,14 @@ link: 'tt2560140'
 },
 
 {
-title:'Breaking Bad (Season 5) BluRay [Hindi (ORG DD2.0) & English 5.1] [x264/10Bit-HEVC] | TVSeries [ALL Episodes]',
+title:'Breaking Bad [Season 5] BluRay [Hindi + English] [HEVC] | ALL Episodes',
 im:'r3z70vunihrAkjILQKWHX0G2xzO',
-dl:'https://vcloud.lol/h5ffw0uo8q28w8x',
+dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=Rg3X1eWL&sn=5&es=Breaking.Bad.S05E&e=16&el=.720p.BluRay.HIN-ENG.x264.ESub-Vegamovies.To.mkv',
 link: 'tt0903747'
 },
 
 {
-title:'Dil Bechara (2020) [Hindi DD5.1] WEB-DL [HEVC] | Full Movie',
+title:'Dil Bechara [2020] WEB-DL [Hindi] [HEVC] | Full Movie',
 im:'lMFjMrc8Bn0CQhtJDORfspXrWrK',
 dl:'https://pixeldrain.net/api/file/1TQKFAVC?download',
 link: 'tt8110330'
@@ -1257,15 +1289,15 @@ link: 'tt10919420'
 
 { title: 'Captain America: Civil War (2016) [Hindi-English] | Full Movie',im:'rAGiXaUfPzY7CDEyNKUofk3Kw2e', dl: 'https://pixeldrain.net/api/file/brH7uRP6?download', link: 'tt3498820' },
 
-{ title: 'K.G.F: Chapter 2 (2022) Hindi (ORG 5.1) WEB-DL [ESubs] | Full Movie', im:'4wobXQ8VLfCHvgbevNMy8Rxvo41', dl: 'https://pixeldrain.net/api/file/jjhr9BUC?download' , link: 'tt10698680' },
+{ title: 'K.G.F: Chapter 2 [2022] WEB-DL [Hindi] | Full Movie', im:'4wobXQ8VLfCHvgbevNMy8Rxvo41', dl: 'https://pixeldrain.net/api/file/jjhr9BUC?download' , link: 'tt10698680' },
 
-{ title: 'K.G.F: Chapter 1 (2018) Hindi DD5.1 WEB-DL [x264/HEVC] ESubs HD | Full Movie',im:'ltHlJwvxKv7d0ooCiKSAvfwV9tX', dl: 'https://pixeldrain.net/api/file/QMeTp816?download' , link: 'tt7838252' },
+{ title: 'K.G.F: Chapter 1 [2018] WEB-DL [Hindi] [HEVC] | Full Movie',im:'ltHlJwvxKv7d0ooCiKSAvfwV9tX', dl: 'https://pixeldrain.net/api/file/QMeTp816?download' , link: 'tt7838252' },
 
 { title: 'V (2020) WEB-DL [Hindi (ORG DD5.1) & Telugu DD5.1] [HEVC] HD | Full Movie',im:'iBVcwOVZNGNCNlOLFmcYJW83tTu', dl: 'https://pixeldrain.net/api/file/k41xtym6?download' , link: 'tt11385128' },
 
 { title: 'Bahubali 2: The Conclusion (2017) BluRay [Hindi DD5.1] [x264/10Bit-HEVC] | Full Movie',im:'xQ22LOWSkClP3maYhR9nZH0dnWM', dl: 'https://pixeldrain.net/api/file/8NYKf3fH?download' , link: 'tt4849438' },
 
-{ title: 'Bahubali: The Beginning (2015) BluRay [Hindi DD5.1] [x264/10Bit-HEVC] | Full Movie',im:'9BAjt8nSSms62uOVYn1t3C3dVto', dl: 'https://pixeldrain.net/api/file/ETa7hVcM?download' , link: 'tt2631186' },
+{ title: 'Bahubali: The Beginning [2015] BluRay [Hindi] [HEVC] | Full Movie',im:'9BAjt8nSSms62uOVYn1t3C3dVto', dl: 'https://pixeldrain.net/api/file/ETa7hVcM?download' , link: 'tt2631186' },
 
 { title: 'C.I.D (Season 2) WEB-DL [Hindi DD2.0] [HEVC] | [SonyLiv Series] [Episode-33]',im:'60ZxbAMk6QO8jMD0p8WrGHVCbyK', dl: 'https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/CID.S02E33.720p.HEVC.Hindi.WEB.DL.2.0.AAC.x265.HDHub4u.Ms.mkv' , link: 'tt0401916' },
 
@@ -1354,7 +1386,7 @@ link: 'tt0848228'
 "link": "tt3896198"
 },
 {
-"title": "Spider-Man: Homecoming (2017) BluRay [Hindi-English] | Full Movie",
+"title": "Spider-Man: Homecoming [2017] BluRay [Hindi + English] | Full Movie",
 "im": "/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
 "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=FMppXWWVStDpQkux9",
 "link": "tt2250912"

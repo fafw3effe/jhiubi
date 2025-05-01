@@ -219,11 +219,6 @@ function openModal(movie) {
     if (!hideMedia && movie.dl) {
         try {
             videoPlayer.innerHTML = `
-                <script type="text/javascript" src="https://ssl.p.jwpcdn.com/player/v/8.8.6/jwplayer.js"></script>
-                <script type="text/javascript">jwplayer.key="64HPbvSQorQcd52B8XFuhMtEoitbvY/EXJmMBfKcXZQU2Rnn";</script>
-                <style type="text/css" media="screen">
-                    html,#apicodes-player{width:100%!important;height:100%!important;overflow:hidden;background-color:#000}
-                </style>
                 <div id="apicodes-player"></div>
                 <script>
                     var player = jwplayer("apicodes-player");

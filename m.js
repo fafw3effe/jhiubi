@@ -287,6 +287,7 @@ link: 'tt0401916F'
 {
 title:'Paappan [2022] UNCUT WEB-DL [Hindi + Malayalam] | Full Movie',
 im:'iaMF7onRosmkF6b9jaENzIZfauM',
+bgi:'tIo3de0eHGDZkITmqkp1uiC7SR5',
 dl:'https://pixeldrain.net/api/file/PP41vRtD?download',
 link: 'tt14056670'
 },
@@ -294,6 +295,7 @@ link: 'tt14056670'
 {
 title:'Spark: L.I.F.E. [2023] UNCUT WEB-DL [Hindi + Telugu] | Full Movie',
 im:'zEvcGq7AsCJ7oCXVvtATTweE05o',
+bgi:'7NkvagehAMj3Bip5hCBlFUmQHNs',
 dl:'https://pixeldrain.net/api/file/b1JdQvVA?download',
 link: 'tt28526239'
 },
@@ -301,6 +303,7 @@ link: 'tt28526239'
 {
 title:'Ne Zha 2 [2025] CAMRIP [Hindi] | Full Movie',
 im:'5lUmWTGkEcYnXujixXn31o9q2T0',
+bgi:'rGHNPAdxdQ6UlZ6nltvux6INjJX',
 dl:'https://pixeldrain.net/api/file/uTVDZmt3?download',
 link: 'tt34956443'
 },
@@ -311,7 +314,6 @@ im:'vPlsKun2WZEsqe3yZTmebxtwElW',
 dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Peaky.Blinders.S01.E03.720p.10Bit.HEVC.BluRay.Hindi.2.0-English.2.0.ESub.x265-HDHub4u.Ms.mkv',
 link: 'tt2442560'
 },
-
 
 {
 title:'Valerian and the City of a Thousand Planets [2017] WEB-DL [Hindi] [HEVC] | Full Movie',

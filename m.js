@@ -1344,7 +1344,7 @@ link: 'tt10919420'
 
 { title: 'A Minecraft Movie (2025) HDTC [English (ORG-2.0)] [x264] | Full Movie',im:'tldIoZNsAkEkppQwXGuw3aWVWyL', dl: 'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/A.Minecraft.Movie.2025.English.720p.HDTC.DD.2.0.x264.Hdhub4u.mkv', link: 'tt3566834' },
 
-{ "title": "Chhaava (2025) WEB-DL [Hindi DD5.1] | Full Movie [Netflix]", im:'7AeohlqamcLL1diMusV28eTngvg', "dl": "https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Chhaava.2025.DS4K.720p.HEVC.Hindi.WEB.DL.ESub.x265.HDHub4u.Ms.mkv", "link": "tt27922706" },
+{ 'title:'Chhaava (2025) WEB-DL [Hindi DD5.1] | Full Movie [Netflix]', im:'7AeohlqamcLL1diMusV28eTngvg', 'dl:'https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Chhaava.2025.DS4K.720p.HEVC.Hindi.WEB.DL.ESub.x265.HDHub4u.Ms.mkv', 'link:'tt27922706' },
 
 {
 title: 'Hulk (2003) BluRay [Hindi-English] | Full Movie',
@@ -1389,123 +1389,123 @@ link: 'tt0848228'
 },
 
 {
-"title": "Iron Man 3 (2013) BluRay [Hindi-English] | Full Movie",
-"im": "1Ilv6ryHUv6rt9zIsbSEJUmmbEi",
-"dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=H7p8drnWTaWxus7t9",
-"link": "tt1300854"
+title:'Iron Man 3 (2013) BluRay [Hindi-English] | Full Movie',
+im:'1Ilv6ryHUv6rt9zIsbSEJUmmbEi',
+dl:'http://qwrqwrqwr.rf.gd/a/a.php?d4=H7p8drnWTaWxus7t9',
+link:'tt1300854'
 },
 
 {
-"title": "Thor: The Dark World (2013) BluRay [Hindi-English] | Full Movie",
-"im": "wD6g4EcmR6R3VNbuBmNOVq2qWrM",
-"dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=m8j5Qb61sxnnyZYw8",
-"link": "tt1981115"
+title:'Thor: The Dark World (2013) BluRay [Hindi-English] | Full Movie',
+im:'wD6g4EcmR6R3VNbuBmNOVq2qWrM',
+dl:'http://qwrqwrqwr.rf.gd/a/a.php?d4=m8j5Qb61sxnnyZYw8',
+link:'tt1981115'
 },
 
 {
-"title": "Captain America: The Winter Soldier (2014) BluRay [Hindi-English] | Full Movie",
-"im": "tVFRpFw3xTedgPGqxW0AOI8Qhh0",
-"dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=Hawha6Ucwr8Hys4u8",
-"link": "tt1843866"
+title:'Captain America: The Winter Soldier (2014) BluRay [Hindi-English] | Full Movie',
+im:'tVFRpFw3xTedgPGqxW0AOI8Qhh0',
+dl:'http://qwrqwrqwr.rf.gd/a/a.php?d4=Hawha6Ucwr8Hys4u8',
+link:'tt1843866'
 },
 
 {
-"title": "Avengers: Age of Ultron (2015) BluRay [Hindi-English] | Full Movie",
-"im": "4ssDuvEDkSArWEdyBl2X5EHvYKU",
-"dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=RrQk6NB1HKcjUHtN7",
-"link": "tt2395427"
+title:'Avengers: Age of Ultron (2015) BluRay [Hindi-English] | Full Movie',
+im:'4ssDuvEDkSArWEdyBl2X5EHvYKU',
+dl:'http://qwrqwrqwr.rf.gd/a/a.php?d4=RrQk6NB1HKcjUHtN7',
+link:'tt2395427'
 },
 
 {
-"title": "Ant-Man (2015) BluRay [Hindi-English] | Full Movie",
-"im": "rQRnQfUl3kfp78nCWq8Ks04vnq1",
-"dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=fPP51JomH1U62oc98",
-"link": "tt0478970"
+title:'Ant-Man (2015) BluRay [Hindi-English] | Full Movie',
+im:'rQRnQfUl3kfp78nCWq8Ks04vnq1',
+dl:'http://qwrqwrqwr.rf.gd/a/a.php?d4=fPP51JomH1U62oc98',
+link:'tt0478970'
 },
 
 {
-"title": "Guardians of the Galaxy Vol. 2 (2017) BluRay [Hindi-English] | Full Movie",
-"im": "/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
-"dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=YwogYX5CULZS4nJ69",
-"link": "tt3896198"
+title:'Guardians of the Galaxy Vol. 2 (2017) BluRay [Hindi-English] | Full Movie',
+im:'/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg',
+dl:'http://qwrqwrqwr.rf.gd/a/a.php?d4=YwogYX5CULZS4nJ69',
+link:'tt3896198'
 },
 
 {
-"title": "Spider-Man: Homecoming [2017] BluRay [Hindi + English] | Full Movie",
-"im": "/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
-"dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=FMppXWWVStDpQkux9",
-"link": "tt2250912"
+title:'Spider-Man: Homecoming [2017] BluRay [Hindi + English] | Full Movie',
+im:'/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg',
+dl:'http://qwrqwrqwr.rf.gd/a/a.php?d4=FMppXWWVStDpQkux9',
+link:'tt2250912'
 },
 
 {
-"title": "Ant-Man and the Wasp (2018) BluRay [Hindi-English] | Full Movie",
-"im": "/eivQmS3wqzqnQWILHLc4FsEfcXP.jpg",
-"dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=ccQ912v5Yn55yhAT8",
-"link": "tt5095030"
+title:'Ant-Man and the Wasp (2018) BluRay [Hindi-English] | Full Movie',
+im:'/eivQmS3wqzqnQWILHLc4FsEfcXP.jpg',
+dl:'http://qwrqwrqwr.rf.gd/a/a.php?d4=ccQ912v5Yn55yhAT8',
+link:'tt5095030'
 },
 
 {
-"title": "Captain Marvel (2019) BluRay [Hindi-English] | Full Movie",
-"im": "/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
-"dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=e8BER3nMziuAjD2Y9",
-"link": "tt4154664"
+title:'Captain Marvel (2019) BluRay [Hindi-English] | Full Movie',
+im:'/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg',
+dl'http://qwrqwrqwr.rf.gd/a/a.php?d4=e8BER3nMziuAjD2Y9',
+link:'tt4154664'
 },
 
 {
-"title": "Spider-Man: Far from Home (2019) BluRay [Hindi-English] | Full Movie",
-"im": "/rjbNpRMoVvqHmhmksbokcyCr7wn.jpg",
-"dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=mcuFcB4cfmMg3JsL7",
-"link": "tt6320628"
+title:'Spider-Man: Far from Home (2019) BluRay [Hindi-English] | Full Movie',
+im:'/rjbNpRMoVvqHmhmksbokcyCr7wn.jpg',
+dl:'http://qwrqwrqwr.rf.gd/a/a.php?d4=mcuFcB4cfmMg3JsL7',
+link:'tt6320628'
 },
 
 
 {
-"title": "Black Widow (2021) BluRay [Hindi-English] | Full Movie",
-"im": "kwB7d51AIcyzPOBOHLCEZJkmPhQ",
-"dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=xtf9DpVu1keEG8vn9",
-"link": "tt3480822"
+title:'Black Widow (2021) BluRay [Hindi-English] | Full Movie',
+im:'kwB7d51AIcyzPOBOHLCEZJkmPhQ',
+dl:'http://qwrqwrqwr.rf.gd/a/a.php?d4=xtf9DpVu1keEG8vn9',
+link:'tt3480822'
 },
 
 {
-"title": "Shang-Chi and the Legend of the Ten Rings (2021) BluRay [Hindi-English] | Full Movie",
-"im": "d08HqqeBQSwN8i8MEvpsZ8Cb438",
-"dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=xtf9DpVu1keEG8vn9",
-"link": "tt9376612"
+title:'Shang-Chi and the Legend of the Ten Rings (2021) BluRay [Hindi-English] | Full Movie',
+im:'d08HqqeBQSwN8i8MEvpsZ8Cb438',
+dl:'http://qwrqwrqwr.rf.gd/a/a.php?d4=xtf9DpVu1keEG8vn9',
+link:'tt9376612'
 },
 
 {
-"title": "Eternals (2021) BluRay [Hindi-English] | Full Movie",
-"im": "lFByFSLV5WDJEv3KabbdAF959F2",
-"dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=LHBWnUyKdNDx5xBQA",
-"link": "tt9032400"
+title:'Eternals (2021) BluRay [Hindi-English] | Full Movie',
+im:'lFByFSLV5WDJEv3KabbdAF959F2',
+dl:'http://qwrqwrqwr.rf.gd/a/a.php?d4=LHBWnUyKdNDx5xBQA',
+link:'tt9032400'
 },
 
 {
-"title": "Doctor Strange in the Multiverse of Madness (2022) BluRay [Hindi-English] | Full Movie",
-"im": "ddJcSKbcp4rKZTmuyWaMhuwcfMz",
-"dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=https://photos.app.goo.gl/4JKtuhfv475uCxWA9",
-"link": "tt9419884"
+title:'Doctor Strange in the Multiverse of Madness (2022) BluRay [Hindi-English] | Full Movie',
+im:'ddJcSKbcp4rKZTmuyWaMhuwcfMz',
+dl:'http://qwrqwrqwr.rf.gd/a/a.php?d4=https://photos.app.goo.gl/4JKtuhfv475uCxWA9',
+link:'tt9419884'
 },
 
 {
-"title": "Ant-Man and the Wasp: Quantumania (2023) BluRay [Hindi-English] | Full Movie",
-"im": "qnqGbB22YJ7dSs4o6M7exTpNxPz",
-"dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=2URs1ggPsdad8uyy9",
-"link": "tt10954600"
+title:'Ant-Man and the Wasp: Quantumania (2023) BluRay [Hindi-English] | Full Movie',
+im:'qnqGbB22YJ7dSs4o6M7exTpNxPz',
+dl:'http://qwrqwrqwr.rf.gd/a/a.php?d4=2URs1ggPsdad8uyy9',
+link:'tt10954600'
 },
 
 {
-"title": "Guardians of the Galaxy Volume 3 (2023) BluRay [Hindi-English] | Full Movie",
-"im": "r2J02Z2OpNTctfOSN1Ydgii51I3",
-"dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=YFyjMY7L1guamLgw8",
-"link": "tt6791350"
+title:'Guardians of the Galaxy Volume 3 (2023) BluRay [Hindi-English] | Full Movie',
+im:'r2J02Z2OpNTctfOSN1Ydgii51I3',
+dl:'http://qwrqwrqwr.rf.gd/a/a.php?d4=YFyjMY7L1guamLgw8',
+link:'tt6791350'
 },
 
 {
-"title": "The Marvels (2023) BluRay [Hindi-English] | Full Movie",
-"im": "9GBhzXMFjgcZ3FdR9w3bUMMTps5",
-"dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=WxkZBRW2dogSpDou6",
-"link": "tt10601950"
+title:'The Marvels (2023) BluRay [Hindi-English] | Full Movie',
+im:'9GBhzXMFjgcZ3FdR9w3bUMMTps5',
+dl:'http://qwrqwrqwr.rf.gd/a/a.php?d4=WxkZBRW2dogSpDou6',
+link:'tt10601950'
 },
 
 {

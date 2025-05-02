@@ -31,8 +31,8 @@ link: 'tt30050756'
 
 {
 title:'Kull - The Legacy of the Raisingghs [Season 1] WEB-DL [Hindi] | All Episodes',
-im:'',
-bgi:'',
+im:'fQSsgKQgGmE0dHZCXCmK3rlFBJ5',
+bgi:'zhvttpkuxfycC7Mt1vIzYzXWycs',
 dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=KP14zq2B&sn=1&es=Kull.The.Legacy.of.the.Raisingghs.S01.720p.Hindi.WEB-DL.5.1.ESub.x264-HDHub4u.Ms/Kull.The.Legacy.of.the.Raisingghs.S01E&e=8&el=.720p.Hindi.WEB-DL.5.1.ESub.x264-HDHub4u.Ms.mkv',
 link: 'tt32235809'
 },

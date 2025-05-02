@@ -22,6 +22,46 @@ link: 'tt31945132'
 },
 
 {
+title:'Season of Love - AKA Ask Mevsimi [2025] WEB-DL [Hindi + Turkish] | Full Movie',
+im:'mYus8GNVi8BYIubE5bsPkrz6u13',
+bgi:'oOQYW70LdBNSNPmfnLVDgGBYazK',
+dl:'https://pixeldrain.net/api/file/2DyNogqH?download',
+link: 'tt30050756'
+},
+
+{
+title:'Kull - The Legacy of the Raisingghs [Season 1] WEB-DL [Hindi] | All Episodes',
+im:'',
+bgi:'',
+dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=KP14zq2B&sn=1&es=Kull.The.Legacy.of.the.Raisingghs.S01.720p.Hindi.WEB-DL.5.1.ESub.x264-HDHub4u.Ms/Kull.The.Legacy.of.the.Raisingghs.S01E&e=8&el=.720p.Hindi.WEB-DL.5.1.ESub.x264-HDHub4u.Ms.mkv',
+link: 'tt32235809'
+},
+
+{
+title:'Black, White & Gray - Love Kills [Season 1] WEB-DL [Hindi] | All Episodes',
+im:'wEWjbuCIg2wYddOr3CJ2rX1qWV8',
+bgi:'8XhUj3YEycKMcWhgRKYGALCpCZc',
+dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=xnHc81w5&sn=1&es=Black.White.and.Gray.Love.Kills.S01.720p.Hindi.WEB-DL.5.1.ESub.x264-HDHub4u.Ms/Black.White.and.Gray.Love.Kills.S01E&e=6&el=.720p.Hindi.WEB-DL.5.1.ESub.x264-HDHub4u.Ms.mkv',
+link: 'tt35822727'
+},
+
+{
+title:'Valiant One [2025] WEB-DL [Hindi + English] | Full Movie',
+im:'sT8Z14RDCAd6szzxzWFAU4xcMwg',
+bgi:'oaM39dDJu82Doc0iCYZRyTJNgHS',
+dl:'https://pixeldrain.net/api/file/qDrHoNDP?download',
+link: 'tt21442114'
+},
+
+{
+title:'The Bayou [2025] WEB-DL [Hindi + English] | Full Movie',
+im:'sf6j1SbgDf7VTjL1MRq5MAQSOyE',
+bgi:'6Hqq2MUt2vQyzKgUbpNQkPBmFwz',
+dl:'https://pixeldrain.net/api/file/h6oUwcgX?download',
+link: 'tt29343289'
+},
+
+{
 title:'Peaky Blinders [Season 2] [Episode 1] WEB-DL [Hindi + English]',
 im:'m4JPtC3gWUsq0GlfNK3SdgkL9XG',
 bgi:'2JxCri29xSPtPdrrZBWtbehhClL',

@@ -14,6 +14,14 @@ link: ''
 */
 
 {
+title:'Peaky Blinders [Season 2] [Episode 2] WEB-DL [Hindi + English]',
+im:'m4JPtC3gWUsq0GlfNK3SdgkL9XG',
+bgi:'yQUuWCeTkuhZrXEKcEtMWisoCwO',
+dl:'https://pixeldrain.net/api/file/QkeMSRdR?download',
+link: 'tt2442560'
+},
+
+{
 title:'Dragon [2025] WEB-DL [Hindi + Tamil] | Full Movie',
 im:'3BR3YTR04dO9ztCx8LZx2C2eu4G',
 bgi:'8bhvwNGOzUHUbtZ52NEseQnWtEH',

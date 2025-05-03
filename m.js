@@ -38,6 +38,38 @@ link: 'tt31945132'
 },
 
 {
+title:'HIT: The Third Case [2025] HQ PRE-HD [Hindi + Telugu] | Full Movie',
+im:'wT9tGyFol4RBwkjESXUWeBdnLJn',
+bgi:'xzpXvyetmrdR3NSRN9uy0xO3lR1',
+dl:'https://pixeldrain.net/api/file/9ruFwKGJ?download',
+link: 'tt23804696'
+},
+
+{
+title:'Thunderbolts* [2025] HDCAM [Hindi] | Full Movie',
+im:'1top0ND4DFGNvCdl0TwPl7Tv7sB',
+bgi:'3Ym8diDGcHqtsTSo53xwiWJk38U',
+dl:'https://pixeldrain.net/api/file/drAXR6Uy?download',
+link: 'tt20969586'
+},
+
+{
+title:'The Bhootnii [2025] HQ PRE-HD [Hindi] | Full Movie',
+im:'6dT1KCa4wzkFYidXRVEg4OwntmP',
+bgi:'foCFZLADroNnhn07aFRoijUKpC1',
+dl:'https://pixeldrain.net/api/file/y4fRSCP7?download',
+link: 'tt27162102'
+},
+
+{
+title:'Raid 2 [2025] HQ PRE-HD [Hindi] | Full Movie',
+im:'562SAxZP1sLuYqDDTuODu3hdGyx',
+bgi:'uKhBujLqYCcfU1kaxXHNCEyZnT',
+dl:'https://pixeldrain.net/api/file/w6RvXQwQ?download',
+link: 'tt28089700'
+},
+
+{
 title:'Season of Love - AKA Ask Mevsimi [2025] WEB-DL [Hindi + Turkish] | Full Movie',
 im:'mYus8GNVi8BYIubE5bsPkrz6u13',
 bgi:'oOQYW70LdBNSNPmfnLVDgGBYazK',
@@ -83,38 +115,6 @@ im:'m4JPtC3gWUsq0GlfNK3SdgkL9XG',
 bgi:'2JxCri29xSPtPdrrZBWtbehhClL',
 dl:'https://pixeldrain.net/api/file/RUMpVy7v?download',
 link: 'tt2442560'
-},
-
-{
-title:'HIT: The Third Case [2025] HQ PRE-HD [Hindi + Telugu] | Full Movie',
-im:'wT9tGyFol4RBwkjESXUWeBdnLJn',
-bgi:'xzpXvyetmrdR3NSRN9uy0xO3lR1',
-dl:'https://pixeldrain.net/api/file/9ruFwKGJ?download',
-link: 'tt23804696'
-},
-
-{
-title:'Thunderbolts* [2025] HDCAM [Hindi] | Full Movie',
-im:'1top0ND4DFGNvCdl0TwPl7Tv7sB',
-bgi:'3Ym8diDGcHqtsTSo53xwiWJk38U',
-dl:'https://pixeldrain.net/api/file/drAXR6Uy?download',
-link: 'tt20969586'
-},
-
-{
-title:'The Bhootnii [2025] HQ PRE-HD [Hindi] | Full Movie',
-im:'6dT1KCa4wzkFYidXRVEg4OwntmP',
-bgi:'foCFZLADroNnhn07aFRoijUKpC1',
-dl:'https://pixeldrain.net/api/file/y4fRSCP7?download',
-link: 'tt27162102'
-},
-
-{
-title:'Raid 2 [2025] HQ PRE-HD [Hindi] | Full Movie',
-im:'562SAxZP1sLuYqDDTuODu3hdGyx',
-bgi:'uKhBujLqYCcfU1kaxXHNCEyZnT',
-dl:'https://pixeldrain.net/api/file/w6RvXQwQ?download',
-link: 'tt28089700'
 },
 
 {

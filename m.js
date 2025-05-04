@@ -77,6 +77,31 @@ link: 'tt1821694'
 },
 
 {
+title:'Stand By Me Doraemon 2 [2020] BluRay [Hindi + English] | Full Movie',
+im:'vBv8iOFPLnXmtELUjcFc7OKHsR4',
+bgi:'iMGd5FPajzsoEyD142pQr5wh9eS',
+dl:'https://pixeldrain.net/api/file/kL88hgaF?download',
+link: 'tt13428402'
+},
+
+{
+title:'Pokemon Detective Pikachu [2020] BluRay [Hindi + English] | Full Movie',
+im:'uhWvnFgg3BNlcUz0Re1HfQqIcCD',
+bgi:'99fKFSYYKadyJ8axbhuXDy4zpfO',
+dl:'https://pixeldrain.net/api/file/bbd4v5hQ?download',
+link: 'tt5884052'
+},
+
+{
+title:'Shinchan Kaanta Lagaa [2015] BluRay [Hindi + English] | Full Movie',
+im:'rdIhlmuqFZ8gQtBbGQcCkLJ7jmB',
+bgi:'cnNo0K43K3wiEqMqJuHei3fsUhk',
+dl:'https://pixeldrain.net/api/file/KRKSZVXF?download',
+link: 'tt4691348'
+},
+
+
+{
 title:'The Bhootnii [2025] HQ PRE-HD [Hindi] | Full Movie',
 im:'6dT1KCa4wzkFYidXRVEg4OwntmP',
 bgi:'foCFZLADroNnhn07aFRoijUKpC1',

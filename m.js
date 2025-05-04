@@ -54,6 +54,21 @@ link: 'tt20969586'
 },
 
 {
+title:'Batman: The Dark Knight [2008] BluRay [Hindi + English] | Full Movie',
+im:'qJ2tW6WMUDux911r6m7haRef0WH',
+bgi:'qg9NQ0Zkdfz9XWHtJ1X1GtKqqe9',
+dl:'https://pixeldrain.net/api/file/yDww3rJv?download',
+link: 'tt0468569'
+},
+
+{
+title:'Game of Thrones [Season 1] BluRay [Hindi + English] | All Episodes',
+im:'259Q5FuaD3TNB7DGauTaJVRC8XV',
+dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=oVpZbzpG&sn=1&es=Game.Of.Thrones.S01E&e=10&el=.720p.x264.Bluray.Hindi.English.Esubs.Vegamovies.To.mkv',
+link: 'tt0944947'
+},
+
+{
 title:'The Bhootnii [2025] HQ PRE-HD [Hindi] | Full Movie',
 im:'6dT1KCa4wzkFYidXRVEg4OwntmP',
 bgi:'foCFZLADroNnhn07aFRoijUKpC1',

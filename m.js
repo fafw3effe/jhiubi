@@ -77,7 +77,7 @@ link: 'tt1821694'
 },
 
 {
-title:'Stand By Me Doraemon 2 [2020] BluRay [Hindi + English] | Full Movie',
+title:'Stand By Me Doraemon 2 [2020] BluRay [Hindi] | Full Movie',
 im:'vBv8iOFPLnXmtELUjcFc7OKHsR4',
 bgi:'iMGd5FPajzsoEyD142pQr5wh9eS',
 dl:'https://pixeldrain.net/api/file/kL88hgaF?download',
@@ -93,7 +93,7 @@ link: 'tt5884052'
 },
 
 {
-title:'Shinchan Kaanta Lagaa [2015] BluRay [Hindi + English] | Full Movie',
+title:'Shinchan Kaanta Lagaa [2015] BluRay [Hindi] | Full Movie',
 im:'rdIhlmuqFZ8gQtBbGQcCkLJ7jmB',
 bgi:'cnNo0K43K3wiEqMqJuHei3fsUhk',
 dl:'https://pixeldrain.net/api/file/KRKSZVXF?download',

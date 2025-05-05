@@ -1079,7 +1079,7 @@ const movies = [
             "description": "A skilled cleaner is tasked with cleaning up the aftermath of a brutal crime, only to discover that the case is connected to his own dark past.",
             "type": "movie",
             "quality": "webdl"
-        }
+        },
         {
             "title": "WWE WrestleMania 41: Sunday [2025] WEB-DL [Hindi + English] | Full Event",
             "im": "ngRfoPVEEI36COa5TVf1vrv57Ia",

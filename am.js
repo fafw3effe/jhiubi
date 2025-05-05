@@ -2500,13 +2500,6 @@ const movies = [
     },
     
     {
-    title: 'Ala Vaikunthapurramuloo - Vaikuntapuram (2020) WEB-DL [Hindi] | Full Movie',
-    im: '2rzORJaegE2bbKNVkQXbZCeV0BP',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=huHzBuJMB5ryzHQi9',
-    link: 'tt9776894'
-    },
-    
-    {
     title: 'Surya The Soldier - Naa Peru Surya, Naa Illu India (2018) WEB-DL [Hindi] | Full Movie',
     im: 'fHQAy0hHANT8BIRrLAQCfmLwIN4',
     dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=BXiYSQ1PV4h31rTM7',

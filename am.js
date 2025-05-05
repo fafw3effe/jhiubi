@@ -21,7 +21,7 @@ const movies = [
     */
 
     
-{
+    {
     "title": "Ala Vaikunthapurramuloo [2020] WEB-DL [Hindi + Telugu] | Full Movie",
     "im": "2rzORJaegE2bbKNVkQXbZCeV0BP",
     "bgi": "7m8pL1cNz1okhxOltBDNG4XTxdx",

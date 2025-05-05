@@ -1080,63 +1080,110 @@ const movies = [
             "type": "movie",
             "quality": "webdl"
         }
-    
-    
-    {
-    title:'WWE WrestleMania 41: Sunday [2025] WEB-DL [Hindi + English] | Full Event',
-    im:'ngRfoPVEEI36COa5TVf1vrv57Ia',
-    dl:'https://pub-e70d344c885b4dc8b57686064a1a5f68.r2.dev/WWE.Wrestlemania.41.Sunday.2025.720p.WEB-DL.HINDI.ENGLISH.AAC2.0.Esubs.H.264-HDHub4u.Ms.mkv',
-    link: 'tt32283598'
-    },
-    
-    {
-    title:'WWE WrestleMania 41: Saturday [2025] WEB-DL [Hindi + English] | Full Event',
-    im:'jzPK38qZBUxbsegnF5MlqLdaEFq',
-    dl:'https://pub-f2eef84a5a02484ebe1c5a3453522556.r2.dev/WWE.Wrestlemania.41.Saturday.2025.720p.WEB-DL.HINDI.AAC2.0.Esubs.H.264-HDHub4u.Ms.mkv',
-    link: 'tt32283598'
-    },
-    
-    {
-    title:'Panchayat [Season 2] WEB-DL [Hindi] [HEVC] | All Episodes',
-    im:'7boJeO6mV4Q69Tjx14CylvqkXZP',
-    dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=k2RTtZQD&sn=2&es=Panchayat.S02.720p.HEVC.Hindi.WEB-DL.5.1.ESub.x265-HDHub4u.Tv/Panchayat.S02.E&e=8&el=.720p.HEVC.Hindi.WEB-DL.5.1.ESub.x265-HDHub4u.Tv.mkv',
-    link: 'tt12004706'
-    },
-    
-    {
-    title:'Panchayat [Season 1] WEB-DL [Hindi] [HEVC] | All Episodes',
-    im:'sx3MJ4ATkSoCyqayqco0O6wUqQ2',
-    dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=5KqiFtHE&sn=1&es=Panchayat.S01.720p.HEVC.Hindi.WEB-DL.5.1.ESub.x265-HDHub4u.Tv/Panchayat.S01.E&e=8&el=.720p.HEVC.Hindi.WEB-DL.5.1.ESub.x265-HDHub4u.Tv.mkv',
-    link: 'tt12004706'
-    },
-    
-    {
-    title:'Suits LA [Season 1] [Episode 9] WEB-DL [Hindi + English]',
-    im:'3hYiNPkcLoI3QWDokOHQJIfn55O',
-    dl:'https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Suits.L.A.S01E09.720p.WEB.DL.Hindi.2.0.English.5.1.ESub.x264.HDHub4u.Ms.mkv',
-    link: 'tt31122751'
-    },
-    
-    {
-    title:'The Last of Us [Season 2] [Episode 2] WEB-DL [Hindi + English] [HEVC] | HBO Series',
-    im:'dmo6TYuuJgaYinXBPjrgG9mB5od',
-    dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/The.Last.of.Us.S02E02.720p.10Bit.WEB-DL.Hindi.2.0-English.HEVC.x265-HDHub4u.Ms.mkv',
-    link: 'tt3581920'
-    },
-    
-    {
-    title:'Disco Raja [2020] WEB-DL UNCUT [Hindi - HQ/Studio Dub] [HEVC] | Full Movie',
-    im:'cT0BUuzJJ9jvQD79Po7v7vGjdQH',
-    dl:'http://qwrqwrqwr.rf.gd/a/a.php?d10=xVNITBPR6g',
-    link: 'tt9664732'
-    },
-    
-    {
-    title: 'Solo Leveling [Season 2] [Episode 13] WEB-DL [Hindi + English + Japanese] [HEVC]',
-    im:'geCRueV3ElhRTr0xtJuEWJt6dJ1',
-    dl: 'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Solo%20Leveling-S02E13-720p-[HIN-ENG-JAP]-PIKAHD.COM.mkv',
-    link: 'tt21209876'
-    },
+        {
+            "title": "WWE WrestleMania 41: Sunday [2025] WEB-DL [Hindi + English] | Full Event",
+            "im": "ngRfoPVEEI36COa5TVf1vrv57Ia",
+            "dl": "https://pub-e70d344c885b4dc8b57686064a1a5f68.r2.dev/WWE.Wrestlemania.41.Sunday.2025.720p.WEB-DL.HINDI.ENGLISH.AAC2.0.Esubs.H.264-HDHub4u.Ms.mkv",
+            "link": "tt32283598",
+            "year": "2025",
+            "duration": "5 hours",
+            "rating": "8.5",
+            "genre": "Sports, Entertainment",
+            "description": "The biggest event in wrestling history, featuring high-profile matches between top WWE stars. Sunday night brings thrilling showdowns and electrifying moments.",
+            "type": "event",
+            "quality": "webdl"
+        },
+        {
+            "title": "WWE WrestleMania 41: Saturday [2025] WEB-DL [Hindi + English] | Full Event",
+            "im": "jzPK38qZBUxbsegnF5MlqLdaEFq",
+            "dl": "https://pub-f2eef84a5a02484ebe1c5a3453522556.r2.dev/WWE.Wrestlemania.41.Saturday.2025.720p.WEB-DL.HINDI.AAC2.0.Esubs.H.264-HDHub4u.Ms.mkv",
+            "link": "tt32283598",
+            "year": "2025",
+            "duration": "5 hours",
+            "rating": "8.5",
+            "genre": "Sports, Entertainment",
+            "description": "The Saturday portion of WWE WrestleMania 41 featuring the kickoff matches and exhilarating moments. The energy builds for the main event on Sunday.",
+            "type": "event",
+            "quality": "webdl"
+        },
+        {
+            "title": "Panchayat [Season 2] WEB-DL [Hindi] [HEVC] | All Episodes",
+            "im": "7boJeO6mV4Q69Tjx14CylvqkXZP",
+            "dl": "http://qwrqwrqwr.rf.gd/a/a.php?pd=k2RTtZQD&sn=2&es=Panchayat.S02.720p.HEVC.Hindi.WEB-DL.5.1.ESub.x265-HDHub4u.Tv/Panchayat.S02.E&e=8&el=.720p.HEVC.Hindi.WEB-DL.5.1.ESub.x265-HDHub4u.Tv.mkv",
+            "link": "tt12004706",
+            "year": "2025",
+            "duration": "30 min per episode",
+            "rating": "8.5",
+            "genre": "Comedy, Drama",
+            "description": "The second season of Panchayat continues the hilarious and heartwarming journey of Abhishek as he navigates life in a rural village. His journey with quirky village personalities continues.",
+            "type": "series",
+            "quality": "webdl hevc"
+        },
+        {
+            "title": "Panchayat [Season 1] WEB-DL [Hindi] [HEVC] | All Episodes",
+            "im": "sx3MJ4ATkSoCyqayqco0O6wUqQ2",
+            "dl": "http://qwrqwrqwr.rf.gd/a/a.php?pd=5KqiFtHE&sn=1&es=Panchayat.S01.720p.HEVC.Hindi.WEB-DL.5.1.ESub.x265-HDHub4u.Tv/Panchayat.S01.E&e=8&el=.720p.HEVC.Hindi.WEB-DL.5.1.ESub.x265-HDHub4u.Tv.mkv",
+            "link": "tt12004706",
+            "year": "2025",
+            "duration": "30 min per episode",
+            "rating": "8.5",
+            "genre": "Comedy, Drama",
+            "description": "The first season of Panchayat follows Abhishek, an urban graduate, as he adjusts to his new role in a rural village. A comedy-drama about relationships, humor, and life lessons.",
+            "type": "series",
+            "quality": "webdl hevc"
+        },
+        {
+            "title": "Suits LA [Season 1] [Episode 9] WEB-DL [Hindi + English]",
+            "im": "3hYiNPkcLoI3QWDokOHQJIfn55O",
+            "dl": "https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Suits.L.A.S01E09.720p.WEB.DL.Hindi.2.0.English.5.1.ESub.x264.HDHub4u.Ms.mkv",
+            "link": "tt31122751",
+            "year": "2025",
+            "duration": "45 min",
+            "rating": "8.1",
+            "genre": "Drama, Legal",
+            "description": "The 9th episode of Suits LA season 1 showcases intense legal battles and personal conflicts as the legal team tries to navigate through high-stakes cases and their complicated relationships.",
+            "type": "series",
+            "quality": "webdl"
+        },
+        {
+            "title": "The Last of Us [Season 2] [Episode 2] WEB-DL [Hindi + English] [HEVC] | HBO Series",
+            "im": "dmo6TYuuJgaYinXBPjrgG9mB5od",
+            "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/The.Last.of.Us.S02E02.720p.10Bit.WEB-DL.Hindi.2.0-English.HEVC.x265-HDHub4u.Ms.mkv",
+            "link": "tt3581920",
+            "year": "2025",
+            "duration": "60 min",
+            "rating": "9.2",
+            "genre": "Action, Drama, Adventure",
+            "description": "The second episode of The Last of Us season 2 dives deeper into the complex relationships between the survivors as they face an increasingly dangerous world filled with infected and hostile humans.",
+            "type": "series",
+            "quality": "webdl hevc"
+        },
+        {
+            "title": "Disco Raja [2020] WEB-DL UNCUT [Hindi - HQ/Studio Dub] [HEVC] | Full Movie",
+            "im": "cT0BUuzJJ9jvQD79Po7v7vGjdQH",
+            "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d10=xVNITBPR6g",
+            "link": "tt9664732",
+            "year": "2020",
+            "duration": "130 min",
+            "rating": "6.9",
+            "genre": "Action, Sci-Fi, Thriller",
+            "description": "In this high-octane action film, Disco Raja must fight against powerful enemies after he is revived in a new body, with high-tech enhancements and a mission to uncover the truth behind his death.",
+            "type": "movie",
+            "quality": "webdl uncut"
+        },
+        {
+            "title": "Solo Leveling [Season 2] [Episode 13] WEB-DL [Hindi + English + Japanese] [HEVC]",
+            "im": "geCRueV3ElhRTr0xtJuEWJt6dJ1",
+            "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Solo%20Leveling-S02E13-720p-[HIN-ENG-JAP]-PIKAHD.COM.mkv",
+            "link": "tt21209876",
+            "year": "2025",
+            "duration": "25 min",
+            "rating": "8.6",
+            "genre": "Action, Fantasy, Adventure",
+            "description": "The latest episode of Solo Leveling features intense battles, as the protagonist continues to face powerful enemies in the dungeon. The stakes get higher as new alliances and rivalries emerge.",
+            "type": "series",
+            "quality": "webdl hevc"
+        },
     
     {
     title:'Kesari Chapter 2: The Untold Story of Jallianwala Bagh [2025] HQ-HDTC [Hindi-LiNE] [HEVC] | Full Movie',

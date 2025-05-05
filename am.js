@@ -14,7 +14,7 @@ const movies = [
             "genre": "",
             "description": "",
             "type": "movie",
-            "quality": "webdl",
+            "quality": "web-dl",
             "cast": "Vicky Kaushal, Radhika Apte, Kumud Mishra"
     },
     
@@ -32,7 +32,7 @@ const movies = [
     "genre": "Adventure,Drama,",
     "description": "The story of an Indian boy named Pi, a zookeeper's son who finds himself in the company of a hyena, zebra, orangutan, and a Bengal tiger after a shipwreck sets them adrift in the Pacific Ocean.",
     "type": "movie",
-    "quality": "webdl",
+    "quality": "web-dl",
     "cast": "Suraj Sharma,Irrfan Khan,Ayush Tandon,Gautam Belur,Adil Hussain"
 },
 {
@@ -46,7 +46,7 @@ const movies = [
     "genre": "Comedy,Drama,",
     "description": "When his wife makes a vow to abort their baby due to his alcoholism, Gannu, the biggest loafer of Jagodhar sets out on a protest to ban alcohol in his town all the while grappling with his own drinking habits!",
     "type": "movie",
-    "quality": "webdl",
+    "quality": "web-dl",
     "cast": "Jitendra Kumar,Shriya Pilgaonkar,Annu Kapoor,Shrikant Verma,Jagdish Rajpurohit"
 },
 {
@@ -60,7 +60,7 @@ const movies = [
     "genre": "Action,Thriller,",
     "description": "Jamuna, a cab driver, finds herself in trouble when three contract killers get in for a ride. Can she save herself from this horrific situation?",
     "type": "movie",
-    "quality": "webdl",
+    "quality": "web-dl",
     "cast": "Aishwarya Rajesh,Aadukalam Naren,Thangapandiyan,Sriranjini,Kavitha Bharathi"
 },
 {
@@ -74,7 +74,7 @@ const movies = [
     "genre": "Drama,Comedy,",
     "description": "No Ki-jun, an employee at an insurance company, decides to develop a divorce insurance policy after personally experiencing three divorces that impacted his life and finances. Despite potential biases, he believes divorce is an unforeseen disaster and establishes a team for divorce insurance.",
     "type": "series",
-    "quality": "webdl",
+    "quality": "web-dl",
     "cast": "Lee Dong-wook,Lee Kwang-soo,Lee Ju-bin,Lee Da-hee,Kim Won-hae"
 },
 {
@@ -88,7 +88,7 @@ const movies = [
     "genre": "Drama,",
     "description": "Ted Black, a former federal prosecutor from New York, has reinvented himself representing the most powerful clients in Los Angeles. But his firm is at a crisis point, and in order to survive, he must embrace a role he held in contempt his entire career.",
     "type": "series",
-    "quality": "webdl",
+    "quality": "web-dl",
     "cast": "Stephen Amell,Lex Scott Davis,Josh McDermitt,Bryan Greenberg,Maggie Grace"
 },
 {
@@ -102,7 +102,7 @@ const movies = [
     "genre": "Action,Crime,Thriller,",
     "description": "An NYPD hostage negotiator teams up with a federal agent to rescue dozens of tourists held hostage during a 10-hour seige at the U.S. Federal Reserve.",
     "type": "movie",
-    "quality": "webdl",
+    "quality": "web-dl",
     "cast": "Aml Ameen,Rhea Seehorn,Roxanne McKee,Tanya van Graan,Jessica Sutton"
 },
 {
@@ -130,7 +130,7 @@ const movies = [
     "genre": "Action,Comedy,Drama,",
     "description": "Fate plays a vital role in connecting the life of Bantu, a son who seeks validation from his cold-hearted father with the life of Raj, whose millionaire father wishes that he was more assertive.",
     "type": "movie",
-    "quality": "webdl",
+    "quality": "web-dl",
     "cast": "Allu Arjun, Pooja Hegde, Tabu"
     },
     {
@@ -145,7 +145,7 @@ const movies = [
         "genre": "Action, Adventure, Drama",
         "description": "The Last of Us follows Joel and Ellie as they navigate a post-apocalyptic world. In Season 2, the journey becomes even more perilous as the two continue to face new threats and uncover shocking truths.",
         "type": "series",
-        "quality": "webdl",
+        "quality": "web-dl",
         "cast": "Pedro Pascal, Bella Ramsey, Murray Bartlett, Con O'Neill, Ian Alexander, Jeffrey Pierce, Dustin Ingram"
     },    
     {
@@ -160,7 +160,7 @@ const movies = [
         "genre": "Animation, Adventure, Family",
         "description": "Doraemon and Nobita embark on a thrilling adventure in the sky as they discover a new world of floating islands and secrets that could change everything.",
         "type": "movie",
-        "quality": "bluRay",
+        "quality": "blu-Ray",
         "cast": "Wasabi Mizuta, Megumi Ohara, Yumi Kakazu, Satoshi Tsumabuki"
     },
     {
@@ -175,7 +175,7 @@ const movies = [
         "genre": "Sci-Fi, Thriller",
         "description": "Set on Mars, this thrilling sci-fi film follows a group of explorers who uncover dark secrets that could lead to the destruction of humanity.",
         "type": "movie",
-        "quality": "bluRay",
+        "quality": "blu-Ray",
         "cast": "Giovanni Ribisi, Kelsey Grammer, Keira Knightley"
     },
     {
@@ -190,7 +190,7 @@ const movies = [
         "genre": "Crime, Drama",
         "description": "A notorious gang in 1919 Birmingham, England, is led by the fierce Tommy Shelby, a crime boss set on moving up in the world no matter the cost.",
         "type": "series",
-        "quality": "webdl",
+        "quality": "web-dl",
         "cast": "Cillian Murphy, Sam Neill, Helen McCrory"
     },
     {
@@ -205,7 +205,7 @@ const movies = [
         "genre": "Action, Fantasy, Drama",
         "description": "In a battle between humans and dragons, a young warrior must fight to save her homeland from a devastating war that could destroy everything she holds dear.",
         "type": "movie",
-        "quality": "webdl",
+        "quality": "web-dl",
         "cast": "Nivetha Thomas, Sree Vishnu, Sampath Raj"
     },
     {
@@ -220,7 +220,7 @@ const movies = [
         "genre": "Sci-Fi, Thriller",
         "description": "In a futuristic world, a detective investigates a mysterious crime that leads him to a time-bending conspiracy threatening the fabric of reality.",
         "type": "movie",
-        "quality": "CAM",
+        "quality": "HD-CAM",
         "cast": "Anushka Sharma, Vijay Sethupathi, Gautham Menon"
     },
     {
@@ -250,7 +250,7 @@ const movies = [
         "genre": "Action, Adventure, Superhero",
         "description": "The Thunderbolts, a team of anti-heroes, are tasked with saving the world from a new and dangerous threat. Will they be able to overcome their own demons to succeed?",
         "type": "movie",
-        "quality": "hdcam",
+        "quality": "hd-cam",
         "cast": "Florence Pugh, Sebastian Stan, Wyatt Russell, David Harbour"
     },
         {
@@ -280,7 +280,7 @@ const movies = [
             "genre": "Action, Adventure, Drama",
             "description": "In the land of Westeros, noble families vie for control of the Iron Throne. Power, betrayal, and war are at the heart of this epic fantasy drama series.",
             "type": "series",
-            "quality": "bluRay",
+            "quality": "blu-Ray",
             "cast": "Emilia Clarke, Kit Harington, Lena Headey, Peter Dinklage"
         },
         {
@@ -295,7 +295,7 @@ const movies = [
             "genre": "Action, Comedy, Crime",
             "description": "The ex-CIA operatives are back for another mission, this time facing a new threat. With explosive action and humor, they must team up once again to stop a global disaster.",
             "type": "movie",
-            "quality": "bluRay",
+            "quality": "blu-Ray",
             "cast": "Bruce Willis, Helen Mirren, John Malkovich, Mary-Louise Parker"
         },
         {
@@ -310,7 +310,7 @@ const movies = [
             "genre": "Animation, Family",
             "description": "Doraemon and Nobita go on a new adventure that explores the importance of friendship and family. With the help of futuristic gadgets, they discover how to solve life's challenges.",
             "type": "movie",
-            "quality": "bluRay",
+            "quality": "blu-Ray",
             "cast": "Wasabi Mizuta, Megumi Ohara, Yumi Kakazu"
         },
         {
@@ -325,7 +325,7 @@ const movies = [
             "genre": "Adventure, Comedy, Family",
             "description": "Detective Pikachu teams up with a young man to uncover the mystery behind his father's disappearance, with humor and adventure in a world full of Pokémon.",
             "type": "movie",
-            "quality": "bluRay",
+            "quality": "blu-Ray",
             "cast": "Ryan Reynolds, Justice Smith, Kathryn Newton, Bill Nighy"
         },
         {
@@ -340,7 +340,7 @@ const movies = [
             "genre": "Animation, Comedy, Family",
             "description": "Shinchan and his mischievous ways lead to hilarious adventures. In this animated movie, his antics bring laughs and chaos in his usual style.",
             "type": "movie",
-            "quality": "bluRay",
+            "quality": "blu-Ray",
             "cast": "Akio Otsuka, Kiyomi Asai, Satomi Kōrogi"
         },
         {
@@ -355,7 +355,7 @@ const movies = [
             "genre": "Action, Adventure, Animation",
             "description": "Ben Tennyson and his team of alien heroes must stop an alien villain from unleashing chaos. With action-packed moments and alien transformations, this movie is a must-watch for fans.",
             "type": "movie",
-            "quality": "bluRay",
+            "quality": "blu-Ray",
             "cast": "Yuri Lowenthal, Dee Bradley Baker, Meagan Moore, Barry Dennen"
         },
         {
@@ -370,7 +370,7 @@ const movies = [
             "genre": "Horror, Mystery",
             "description": "A young woman uncovers the dark secrets of an abandoned house, leading to terrifying encounters with the supernatural forces haunting it.",
             "type": "movie",
-            "quality": "hq pre-hd",
+            "quality": "pre-hd",
             "cast": "Priya Anand, Rahul Ravindran, Kishore"
         },
         {
@@ -385,7 +385,7 @@ const movies = [
             "genre": "Action, Crime, Thriller",
             "description": "A top police officer seeks revenge against the criminals responsible for his brother's murder, delving deeper into a world of corruption and crime.",
             "type": "movie",
-            "quality": "hq pre-hd",
+            "quality": "pre-hd",
             "cast": "Ajay Devgn, Sidharth Malhotra, Ronit Roy, Manoj Bajpayee"
         },
         {
@@ -400,7 +400,7 @@ const movies = [
             "genre": "Romance, Drama",
             "description": "Two souls from different cultures are brought together by fate, embarking on a journey of love, self-discovery, and emotional growth in this heartfelt romance.",
             "type": "movie",
-            "quality": "webdl",
+            "quality": "web-dl",
             "cast": "Elçin Sangu, Baran Akbulut, Mert Fırat"
         },
         {
@@ -415,7 +415,7 @@ const movies = [
             "genre": "Fantasy, Adventure",
             "description": "The legacy of the Raisingghs unfolds as the hero navigates the treacherous world of magic, betrayal, and hidden secrets, setting the stage for an epic adventure.",
             "type": "series",
-            "quality": "webdl",
+            "quality": "web-dl",
             "cast": "Rajkummar Rao, Shweta Tripathi, Gajraj Rao"
         },
         {
@@ -430,7 +430,7 @@ const movies = [
             "genre": "Thriller, Drama",
             "description": "In a world of black and white, a group of individuals discover that love and revenge are intertwined in ways they never imagined. A psychological drama filled with suspense.",
             "type": "series",
-            "quality": "webdl",
+            "quality": "web-dl",
             "cast": "Anushka Sharma, Richa Chadha, Shashank Arora"
         },
         {
@@ -445,7 +445,7 @@ const movies = [
             "genre": "Action, Drama",
             "description": "A former soldier is thrust into a high-stakes mission that challenges both his physical and mental strength, fighting for justice in a dangerous world.",
             "type": "movie",
-            "quality": "webdl",
+            "quality": "web-dl",
             "cast": "Vicky Kaushal, Radhika Apte, Kumud Mishra"
         }, 
     
@@ -461,7 +461,7 @@ const movies = [
         "genre": "Horror, Thriller",
         "description": "A group of friends gets trapped in a swampy bayou where the land harbors dark, supernatural secrets. They must fight for their lives and uncover the horrifying truth.",
         "type": "movie",
-        "quality": "webdl"
+        "quality": "web-dl"
     },
     {
         "title": "Peaky Blinders [Season 2] [Episode 1] WEB-DL [Hindi + English]",
@@ -475,7 +475,7 @@ const movies = [
         "genre": "Crime, Drama",
         "description": "Tommy Shelby faces new challenges as he tries to expand the Peaky Blinders' influence. Family, power, and betrayal continue to dominate the streets of Birmingham.",
         "type": "series",
-        "quality": "webdl"
+        "quality": "web-dl"
     },
     {
         "title": "Another Simple Favor [2025] WEB-DL [Hindi + English] | Full Movie",
@@ -489,7 +489,7 @@ const movies = [
         "genre": "Mystery, Thriller",
         "description": "A woman investigates the disappearance of her best friend, only to uncover a deeper conspiracy that threatens her own life.",
         "type": "movie",
-        "quality": "webdl"
+        "quality": "web-dl"
     },
     {
         "title": "Costao [2025] WEB-DL [Hindi] | Full Movie",
@@ -503,7 +503,7 @@ const movies = [
         "genre": "Drama, Mystery",
         "description": "A struggling artist seeks solace in a remote coastal town, but soon realizes that the town holds dark secrets that change his life forever.",
         "type": "movie",
-        "quality": "webdl"
+        "quality": "web-dl"
     },
     {
         "title": "Ali [2001] BluRay [English] | Full Movie",
@@ -517,7 +517,7 @@ const movies = [
         "genre": "Biography, Drama, Sport",
         "description": "The life of boxing legend Muhammad Ali, focusing on his rise to fame, his personal battles, and his controversial political stance.",
         "type": "movie",
-        "quality": "bluRay"
+        "quality": "blu-Ray"
     },
     {
         "title": "Bromance [2025] WEB-DL [Hindi + Malayalam] | Full Movie",
@@ -531,7 +531,7 @@ const movies = [
         "genre": "Comedy, Drama",
         "description": "Two childhood friends reunite after many years and embark on a journey of self-discovery, leading to both comic and emotional moments.",
         "type": "movie",
-        "quality": "webdl"
+        "quality": "web-dl"
     },
     {
         "title": "The Eternaut [Season 1] WEB-DL [Hindi + English] | All Episodes",
@@ -545,7 +545,7 @@ const movies = [
         "genre": "Sci-Fi, Drama",
         "description": "A post-apocalyptic world where humanity's survival depends on a mysterious snowfall. A group of survivors must fight to uncover the truth about the eerie snowstorm.",
         "type": "series",
-        "quality": "webdl"
+        "quality": "web-dl"
     },
     {
         "title": "Peaky Blinders [Season 1] [Episode 6] WEB-DL [Hindi + English]",
@@ -559,7 +559,7 @@ const movies = [
         "genre": "Crime, Drama",
         "description": "Tommy Shelby confronts rivals and personal struggles as he strengthens his criminal empire in this intense episode of Peaky Blinders.",
         "type": "series",
-        "quality": "webdl"
+        "quality": "web-dl"
     },
     {
             "title": "Good Bad Ugly [2025] WEB-DL [Hindi + Tamil] | Full Movie",
@@ -573,7 +573,7 @@ const movies = [
             "genre": "Action, Drama, Western",
             "description": "A lone gunslinger must navigate a brutal world full of criminals, lawmen, and betrayal as he seeks justice in the Wild West.",
             "type": "movie",
-            "quality": "webdl"
+            "quality": "web-dl"
         },
         {
             "title": "The Monkey [2025] WEB-DL [Hindi + English] | Full Movie",
@@ -587,7 +587,7 @@ const movies = [
             "genre": "Adventure, Comedy, Family",
             "description": "A young boy befriends a magical monkey who can speak and transform, leading to a series of whimsical adventures.",
             "type": "movie",
-            "quality": "webdl"
+            "quality": "web-dl"
         },
         {
             "title": "Heretic [2024] WEB-DL [Hindi + English] | Full Movie",
@@ -601,7 +601,7 @@ const movies = [
             "genre": "Horror, Thriller",
             "description": "A group of adventurers explore an abandoned church in the deep woods, only to find that it holds a terrifying secret that forces them to fight for their lives.",
             "type": "movie",
-            "quality": "webdl"
+            "quality": "web-dl"
         },
         {
             "title": "Jaat [2025] WEB-DL [Hindi] | Full Movie",
@@ -615,7 +615,7 @@ const movies = [
             "genre": "Action, Drama",
             "description": "A powerful tale of a young man’s journey through family, honor, and vengeance as he rises to become a formidable force in the world of criminal enterprises.",
             "type": "movie",
-            "quality": "webdl"
+            "quality": "web-dl"
         },
         {
             "title": "Star Wars: Andor [Season 2] [Episode 6] WEB-DL [Hindi + English]",
@@ -629,7 +629,7 @@ const movies = [
             "genre": "Action, Adventure, Sci-Fi",
             "description": "In this gripping episode, Cassian Andor faces mounting pressures from both the Empire and the Rebellion, making difficult choices that could change the course of the galaxy.",
             "type": "series",
-            "quality": "webdl"
+            "quality": "web-dl"
         },
         {
             "title": "Aghathiyaa [2025] WEB-DL [Hindi + Tamil] | Full Movie",
@@ -643,7 +643,7 @@ const movies = [
             "genre": "Drama, Thriller",
             "description": "A young man struggles with his personal demons and societal expectations, ultimately embarking on a path of self-discovery that leads him to a dramatic life-changing decision.",
             "type": "movie",
-            "quality": "webdl"
+            "quality": "web-dl"
         },
         {
             "title": "Kooman [2022] UNCUT WEB-DL [Hindi + Malayalam] | Full Movie",
@@ -671,7 +671,7 @@ const movies = [
             "genre": "Crime, Drama",
             "description": "The Shelby family faces new rivalries and challenges as they strive to dominate the streets of Birmingham, with Tommy Shelby navigating dangerous territory.",
             "type": "series",
-            "quality": "webdl"
+            "quality": "web-dl"
         },
         {
             "title": "JoJos Bizarre Adventure [Season 1] [Episode 18] WEB-DL [Hindi + English + Japanese]",
@@ -685,7 +685,7 @@ const movies = [
             "genre": "Action, Adventure, Animation",
             "description": "The battle intensifies as JoJo and his companions face increasingly powerful foes. Each episode reveals new twists and unexpected turns in the adventure.",
             "type": "series",
-            "quality": "webdl"
+            "quality": "web-dl"
         },
         {
             "title": "Last Night of Amore [2023] BluRay [Hindi + Italian] | Full Movie",
@@ -699,7 +699,7 @@ const movies = [
             "genre": "Romance, Drama",
             "description": "Two strangers from different worlds share a night of unexpected love and connection, exploring the complexities of relationships and human emotions.",
             "type": "movie",
-            "quality": "bluRay"
+            "quality": "blu-Ray"
         },
         {
             "title": "Gangs of Wasseypur - Part 2 [2012] BluRay [Hindi] | Full Movie",
@@ -713,7 +713,7 @@ const movies = [
             "genre": "Action, Crime, Drama",
             "description": "The intense continuation of the epic saga of power, revenge, and conflict between the two rival families in the violent world of Wasseypur.",
             "type": "movie",
-            "quality": "bluRay"
+            "quality": "blu-Ray"
         },
         {
             "title": "Gangs of Wasseypur - Part 1 [2012] BluRay [Hindi] | Full Movie",
@@ -727,7 +727,7 @@ const movies = [
             "genre": "Action, Crime, Drama",
             "description": "The epic saga continues as the conflict between the Wasseypur gangs escalates into a bloody and intense war, filled with betrayal, revenge, and political intrigue.",
             "type": "movie",
-            "quality": "bluRay"
+            "quality": "blu-Ray"
         },
         {
             "title": "Drop [2025] WEB-DL [Hindi + English] | Full Movie",
@@ -741,7 +741,7 @@ const movies = [
             "genre": "Thriller, Drama",
             "description": "A suspense-filled thriller where the main character is caught in a deadly conspiracy after accidentally uncovering dark secrets that powerful people want to keep hidden.",
             "type": "movie",
-            "quality": "webdl"
+            "quality": "web-dl"
         },
         {
             "title": "Peaky Blinders [Season 1] [Episode 4] WEB-DL [Hindi + English]",
@@ -755,7 +755,7 @@ const movies = [
             "genre": "Crime, Drama",
             "description": "Tommy Shelby navigates the criminal underworld, expanding the Peaky Blinders' influence while facing rising challenges from rival factions and personal enemies.",
             "type": "series",
-            "quality": "webdl"
+            "quality": "web-dl"
         },
         {
             "title": "The Last of Us [Season 2] [Episode 3] WEB-DL [Hindi + English] | HBO Series",
@@ -769,7 +769,7 @@ const movies = [
             "genre": "Action, Adventure, Drama",
             "description": "In the third episode of Season 2, Ellie and Joel face terrifying new threats while dealing with the emotional weight of their journey in a post-apocalyptic world.",
             "type": "series",
-            "quality": "webdl"
+            "quality": "web-dl"
         },
         {
             "title": "Thudarum [2025] HQ-V2 HDTC [Malayalam] | Full Movie",
@@ -797,7 +797,7 @@ const movies = [
             "genre": "Horror, Mystery, Thriller",
             "description": "A chilling psychological horror where a group of people find themselves haunted by the strange and eerie TV shows that seem to affect their reality in disturbing ways.",
             "type": "movie",
-            "quality": "bluRay"
+            "quality": "blu-Ray"
         },
         {
             "title": "Suits LA [Season 1] [Episode 10] WEB-DL [Hindi + English]",
@@ -811,7 +811,7 @@ const movies = [
             "genre": "Drama, Legal",
             "description": "In the season finale, the legal team faces their biggest challenge yet, with high stakes and personal conflicts as they navigate their careers and relationships.",
             "type": "series",
-            "quality": "webdl"
+            "quality": "web-dl"
         },
         {
             "title": "The Divorce Insurance [Season 1] [Episode 7] WEB-DL [Hindi + English] | [Amazon Prime Video]",
@@ -825,7 +825,7 @@ const movies = [
             "genre": "Comedy, Drama",
             "description": "The characters' personal lives take a dramatic turn as they tackle unexpected challenges, uncovering deeper emotional layers in their relationships.",
             "type": "series",
-            "quality": "webdl"
+            "quality": "web-dl"
         },
         {
             "title": "Tuk Tuk [2025] BluRay [Hindi + Telugu] | Full Movie",
@@ -839,7 +839,7 @@ const movies = [
             "genre": "Comedy, Family",
             "description": "A lighthearted family comedy about a young boy's misadventures and the hilarious situations that arise as he tries to navigate through life with his quirky family.",
             "type": "movie",
-            "quality": "bluRay"
+            "quality": "blu-Ray"
         },
         {
             "title": "Live [2023] WEB-DL [Hindi + Malayalam] | Full Movie",
@@ -852,7 +852,7 @@ const movies = [
             "genre": "Drama, Thriller",
             "description": "A man embarks on a perilous journey to track down a long-lost loved one, uncovering deep secrets along the way. His journey becomes a battle against time and destiny.",
             "type": "movie",
-            "quality": "webdl"
+            "quality": "web-dl"
         },
         {
             "title": "Akaal: The Unconquered [2025] HDRip [Hindi] [HEVC] | Full Movie",
@@ -880,7 +880,7 @@ const movies = [
             "genre": "Crime, Mystery",
             "description": "The team at CID continues to unravel intricate mysteries, solving crimes that seem unsolvable. This episode delves into the psyche of a criminal mastermind.",
             "type": "series",
-            "quality": "webdl"
+            "quality": "web-dl"
         },
         {
             "title": "Paappan [2022] UNCUT WEB-DL [Hindi + Malayalam] | Full Movie",
@@ -974,7 +974,7 @@ const movies = [
             "genre": "Crime, Drama, Thriller",
             "description": "The con artists from Jamtara are back with new tricks and challenges. As the stakes get higher, the battle between law enforcement and scammers intensifies.",
             "type": "series",
-            "quality": "webdl"
+            "quality": "web-dl"
         },
         {
             "title": "Weak Hero [Season 2] WEB-DL [Hindi + English] | All Episodes",
@@ -987,7 +987,7 @@ const movies = [
             "genre": "Action, Drama, Thriller",
             "description": "In the second season, the protagonist, once perceived as weak, faces increasing challenges as he fights against bullies and corrupt systems, developing into a stronger individual.",
             "type": "series",
-            "quality": "webdl"
+            "quality": "web-dl"
         },
         {
             "title": "Ayyana Mane [Season 1] WEB-DL [Hindi + English] | All Episodes",
@@ -1000,7 +1000,7 @@ const movies = [
             "genre": "Drama, Family",
             "description": "The life of a young girl, Ayyana, who struggles with societal norms, family pressure, and her dreams, unfolds in a gripping story of resilience and hope.",
             "type": "series",
-            "quality": "webdl"
+            "quality": "web-dl"
         },
         {
             "title": "Ground Zero [2025] HQ-V2 HDTC [Hindi] [HEVC] | Full Movie",
@@ -1156,7 +1156,7 @@ const movies = [
             "genre": "Drama, Adventure",
             "description": "A heartfelt drama that follows a group of friends exploring the mountains of Kodai, where they learn valuable life lessons, face challenges, and uncover hidden secrets in the serene yet adventurous landscapes.",
             "type": "series",
-            "quality": "webdl"
+            "quality": "web-dl"
         },
         {
             "title": "Star Wars: Andor [Season 2] [Episode 3] WEB-DL [Hindi + English] [HEVC]",
@@ -1208,7 +1208,7 @@ const movies = [
             "genre": "Action, Animation, Drama",
             "description": "The additional episodes of Attack on Titan expand the lore, providing fans with deeper insights into the world of Titans, their origins, and the battles that shape the future of humanity.",
             "type": "series",
-            "quality": "webdl"
+            "quality": "web-dl"
         },
         {
             "title": "The Cleaner [2022] WEB-DL [Hindi + Thai] | Full Movie",
@@ -1221,7 +1221,7 @@ const movies = [
             "genre": "Action, Crime, Thriller",
             "description": "A skilled cleaner is tasked with cleaning up the aftermath of a brutal crime, only to discover that the case is connected to his own dark past.",
             "type": "movie",
-            "quality": "webdl"
+            "quality": "web-dl"
         },
         {
             "title": "WWE WrestleMania 41: Sunday [2025] WEB-DL [Hindi + English] | Full Event",
@@ -1234,7 +1234,7 @@ const movies = [
             "genre": "Sports, Entertainment",
             "description": "The biggest event in wrestling history, featuring high-profile matches between top WWE stars. Sunday night brings thrilling showdowns and electrifying moments.",
             "type": "event",
-            "quality": "webdl"
+            "quality": "web-dl"
         },
         {
             "title": "WWE WrestleMania 41: Saturday [2025] WEB-DL [Hindi + English] | Full Event",
@@ -1247,7 +1247,7 @@ const movies = [
             "genre": "Sports, Entertainment",
             "description": "The Saturday portion of WWE WrestleMania 41 featuring the kickoff matches and exhilarating moments. The energy builds for the main event on Sunday.",
             "type": "event",
-            "quality": "webdl"
+            "quality": "web-dl"
         },
         {
             "title": "Panchayat [Season 2] WEB-DL [Hindi] [HEVC] | All Episodes",
@@ -1286,7 +1286,7 @@ const movies = [
             "genre": "Drama, Legal",
             "description": "The 9th episode of Suits LA season 1 showcases intense legal battles and personal conflicts as the legal team tries to navigate through high-stakes cases and their complicated relationships.",
             "type": "series",
-            "quality": "webdl"
+            "quality": "web-dl"
         },
         {
             "title": "The Last of Us [Season 2] [Episode 2] WEB-DL [Hindi + English] [HEVC] | HBO Series",
@@ -1390,7 +1390,7 @@ const movies = [
             "genre": "Action, Crime, Thriller",
             "description": "A high-stakes thriller about a tech expert who gets kidnapped and forced into hacking a high-security system, while trying to outsmart his captors and escape.",
             "type": "movie",
-            "quality": "webdl"
+            "quality": "web-dl"
         },
         {
             "title": "The Lion King [1994] Blu-Ray [Hindi + English] | Full Movie",
@@ -1403,7 +1403,7 @@ const movies = [
             "genre": "Animation, Adventure, Drama",
             "description": "The animated classic about Simba, a young lion prince who overcomes adversity to take his rightful place as king of the Pride Lands, filled with lessons on responsibility and courage.",
             "type": "movie",
-            "quality": "bluRay"
+            "quality": "blu-Ray"
         },
         {
             "title": "The Twilight Saga: Breaking Dawn - Part 2 [2012] Blu-Ray [Hindi + English] | Full Movie",
@@ -1416,7 +1416,7 @@ const movies = [
             "genre": "Adventure, Drama, Fantasy",
             "description": "The final chapter in the Twilight saga, where Bella, Edward, and Jacob face the aftermath of Bella’s transformation and prepare for the ultimate confrontation with the Volturi.",
             "type": "movie",
-            "quality": "bluRay"
+            "quality": "blu-Ray"
         },
         {
             "title": "Shrek 2 [2004] Blu-Ray [Hindi + English] | Full Movie",
@@ -1429,7 +1429,7 @@ const movies = [
             "genre": "Animation, Adventure, Comedy",
             "description": "Shrek and Fiona go on an adventurous journey to meet Fiona’s parents, leading to comical and heartfelt moments in this animated sequel filled with laughter and lessons about family and acceptance.",
             "type": "movie",
-            "quality": "bluRay"
+            "quality": "blu-Ray"
         },
         {
             "title": "Mission: Impossible - Fallout [2018] Blu-Ray [Hindi + English] | Full Movie",
@@ -1442,7 +1442,7 @@ const movies = [
             "genre": "Action, Adventure, Thriller",
             "description": "Ethan Hunt faces the most dangerous mission of his career when he must retrieve stolen plutonium and prevent a catastrophic disaster, while confronting his own past.",
             "type": "movie",
-            "quality": "bluRay"
+            "quality": "blu-Ray"
         },
         {
             "title": "Pirates of the Caribbean: Dead Man's Chest [2006] Blu-Ray [Hindi + English] | Full Movie",
@@ -1455,7 +1455,7 @@ const movies = [
             "genre": "Action, Adventure, Fantasy",
             "description": "Captain Jack Sparrow returns as he embarks on a quest to find the Dead Man's Chest, a mission that pits him against new enemies and tests his wits and courage.",
             "type": "movie",
-            "quality": "bluRay"
+            "quality": "blu-Ray"
         },
         {
             "title": "Transformers 3: Dark of the Moon [2011] Blu-Ray [Hindi + English] | Full Movie",
@@ -1468,7 +1468,7 @@ const movies = [
             "genre": "Action, Adventure, Sci-Fi",
             "description": "The Autobots discover a Cybertronian spacecraft on Earth's moon and race against the Decepticons to reach it and learn its secrets, leading to a battle for Earth's survival.",
             "type": "movie",
-            "quality": "bluRay"
+            "quality": "blu-Ray"
         },
         {
             "title": "Despicable Me 4 [2024] WEB-DL [Hindi + English] | Full Movie",
@@ -1481,7 +1481,7 @@ const movies = [
             "genre": "Animation, Adventure, Comedy",
             "description": "Gru and his mischievous Minions are back in this hilarious adventure where they face new challenges, embark on wild escapades, and learn valuable lessons about family and friendship.",
             "type": "movie",
-            "quality": "webdl"
+            "quality": "web-dl"
         },
         {
             "title": "The Hobbit: The Battle of the Five Armies [2014] Blu-Ray [Hindi + English] | Full Movie",
@@ -1494,7 +1494,7 @@ const movies = [
             "genre": "Action, Adventure, Fantasy",
             "description": "The final battle for Middle-Earth begins as Thorin Oakenshield and his companions face the massive armies of orcs and goblins, while Bilbo Baggins must overcome his fears to protect his friends.",
             "type": "movie",
-            "quality": "bluRay"
+            "quality": "blu-Ray"
         },
         {
             "title": "The Lord of the Rings: The Return of the King [2003] EXTENDED Blu-Ray [Hindi + English] [HEVC] | Full Movie",
@@ -1662,7 +1662,7 @@ const movies = [
         "genre": "Comedy, Drama",
         "description": "The story of three friends who overcome obstacles and break societal norms while navigating their way through college life.",
         "type": "movie",
-        "quality": "bluRay",
+        "quality": "blu-Ray",
         "cast": "Aamir Khan, R. Madhavan, Sharman Joshi"
     },
     {
@@ -1676,7 +1676,7 @@ const movies = [
         "genre": "Comedy, Drama, Sci-Fi",
         "description": "An alien named PK comes to Earth and experiences human culture, leading to a satirical journey into religious beliefs and societal norms.",
         "type": "movie",
-        "quality": "bluRay",
+        "quality": "blu-Ray",
         "cast": "Aamir Khan, Anushka Sharma, Sushant Singh Rajput"
     },
     {
@@ -1690,7 +1690,7 @@ const movies = [
         "genre": "Comedy, Drama",
         "description": "A father and son’s contrasting life choices lead them on a path of self-discovery, bringing laughter and emotions into play.",
         "type": "movie",
-        "quality": "webdl",
+        "quality": "web-dl",
         "cast": "Rajiv Thakur, Ashwini Kalsekar"
     },
     {
@@ -1733,7 +1733,7 @@ const movies = [
         "description": "A businessman who is a self-made millionaire faces the challenges and trials of building a legacy while juggling with personal and professional relationships.",
         "cast": "Mahesh Babu, Kajal Aggarwal, Nassar",
         "type": "movie",
-        "quality": "bluRay"
+        "quality": "blu-Ray"
     },
     {
         "title": "1: Nenokkadine [2014] HD-RIP [Hindi] | Full Movie",
@@ -1761,7 +1761,7 @@ const movies = [
         "description": "A successful businessman returns to his village to fulfill a promise and helps the people there by fighting for their rights.",
         "cast": "Mahesh Babu, Pooja Hegde, Allari Naresh",
         "type": "movie",
-        "quality": "webdl"
+        "quality": "web-dl"
     },
     {
         "title": "Guntur Kaaram [2024] WEB-DL [Hindi + Telugu] [HEVC] | Full Movie",
@@ -1775,7 +1775,7 @@ const movies = [
         "description": "A thrilling action-packed movie about a man who seeks revenge for the murder of his family, fighting against a criminal empire.",
         "cast": "Mahesh Babu, Pooja Hegde, Sree Vishnu",
         "type": "movie",
-        "quality": "webdl"
+        "quality": "web-dl"
     },    
     {
     title:'The Diplomat [2025] WEB-RIP [Hindi] | Full Movie',
@@ -1865,7 +1865,7 @@ const movies = [
         "genre": "Action, Adventure, Fantasy",
         "description": "Jake Sully and Neytiri's peaceful life is disrupted when a new threat emerges. The couple must now explore the oceans and navigate new challenges on the planet Pandora.",
         "type": "movie",
-        "quality": "bluRay",
+        "quality": "blu-Ray",
         "cast": "Sam Worthington, Zoe Saldana, Sigourney Weaver"
     },
     {
@@ -1879,7 +1879,7 @@ const movies = [
         "genre": "Action, Adventure, Science Fiction",
         "description": "On the lush alien world of Pandora, paraplegic marine Jake Sully is recruited to join a project that enables humans to communicate with the planet's indigenous species through bio-engineered avatars.",
         "type": "movie",
-        "quality": "bluRay",
+        "quality": "blu-Ray",
         "cast": "Sam Worthington, Zoe Saldana, Sigourney Weaver"
     },
     
@@ -1922,7 +1922,7 @@ const movies = [
         "description": "A man embarks on a journey to change his fate and overcome obstacles, finding unexpected alliances and confrontations along the way.",
         "cast": "Nani, Rashmika Mandanna, Rajendra Prasad",
         "type": "movie",
-        "quality": "webdl"
+        "quality": "web-dl"
     },
     {
         "title": "Happy New Year [2014] WEB-DL [Hindi] | Full Movie",
@@ -1936,7 +1936,7 @@ const movies = [
         "description": "A team of misfits tries to pull off a major heist during a prestigious event in Dubai, facing multiple challenges along the way.",
         "cast": "Shah Rukh Khan, Deepika Padukone, Abhishek Bachchan",
         "type": "movie",
-        "quality": "webdl"
+        "quality": "web-dl"
     },
     {
         "title": "Hey Sinamika [2022] WEB-DL [Hindi] | Full Movie",
@@ -1950,7 +1950,7 @@ const movies = [
         "description": "A woman is stuck in an unfulfilling relationship and embarks on a journey of self-discovery and love.",
         "cast": "Dulquer Salmaan, Aditi Rao Hydari, Kajal Aggarwal",
         "type": "movie",
-        "quality": "webdl"
+        "quality": "web-dl"
     },
     {
         "title": "Dilwale [2015] WEB-DL [Hindi] | Full Movie",
@@ -1964,7 +1964,7 @@ const movies = [
         "description": "Two lovers from different backgrounds must overcome the obstacles from their past to find happiness together.",
         "cast": "Shah Rukh Khan, Kajol, Varun Dhawan",
         "type": "movie",
-        "quality": "webdl"
+        "quality": "web-dl"
     },
     {
         "title": "Mirzapur [Season 3] [All Episodes] WEB-DL [Hindi] [HEVC] | Full Series",
@@ -1978,7 +1978,7 @@ const movies = [
         "description": "Set in the lawless city of Mirzapur, this gripping series follows the rise of the criminal empire and the power struggles between rival gangs.",
         "cast": "Pankaj Tripathi, Ali Fazal, Vikrant Massey",
         "type": "series",
-        "quality": "webdl"
+        "quality": "web-dl"
     },
     
     {
@@ -1993,7 +1993,7 @@ const movies = [
         "genre": "Animation, Drama, Romance",
         "description": "A Silent Voice tells the story of a young boy who bullies a deaf girl in elementary school, only to later seek redemption years later. It's a heart-wrenching tale about forgiveness, guilt, and the power of human connection.",
         "type": "movie",
-        "quality": "webdl"
+        "quality": "web-dl"
     },
     {
         "title": "Your Name [2016] WEB-DL [Hindi + English] | Full Movie",
@@ -2007,7 +2007,7 @@ const movies = [
         "genre": "Animation, Drama, Fantasy",
         "description": "Two teenagers from different parts of Japan find themselves mysteriously swapping bodies. As they navigate each other's lives, they form a deep connection that transcends time and space. A visually stunning and emotionally powerful film.",
         "type": "movie",
-        "quality": "webdl"
+        "quality": "web-dl"
     },
     
     {
@@ -2112,7 +2112,7 @@ const movies = [
         "genre": "Crime, Drama, Thriller",
         "description": "Walter White, a high school chemistry teacher turned methamphetamine manufacturer, faces the consequences of his criminal actions in the final season of the critically acclaimed series.",
         "type": "series",
-        "quality": "bluRay",
+        "quality": "blu-Ray",
         "cast": "Bryan Cranston, Aaron Paul, Anna Gunn"
     },    
     
@@ -2305,7 +2305,7 @@ const movies = [
         "genre": "Comedy, Drama",
         "description": "A young man struggles to win the heart of the girl of his dreams, but his journey is full of hilarious twists and turns.",
         "type": "movie",
-        "quality": "webdl",
+        "quality": "web-dl",
         "cast": "Shubham Gaur, Ananya Chauhan, Sudhir Kumar"
     },
     {
@@ -2319,7 +2319,7 @@ const movies = [
         "genre": "Action, Comedy, Drama",
         "description": "A quirky group of individuals in Malegaon must come together to save their town from an impending disaster. Expect lots of laughs and action.",
         "type": "movie",
-        "quality": "webdl",
+        "quality": "web-dl",
         "cast": "Ravi Kishan, Pankaj Tripathi, Shubhi Joshi"
     },
     {
@@ -2333,7 +2333,7 @@ const movies = [
         "genre": "Action, Thriller",
         "description": "A global action thriller revolving around the high-stakes events of the G20 summit. Secrets, lies, and espionage threaten to break out in a whirlwind of international drama.",
         "type": "movie",
-        "quality": "webdl",
+        "quality": "web-dl",
         "cast": "John Boyega, Priyanka Chopra, Daniel Craig"
     },
     {
@@ -2347,7 +2347,7 @@ const movies = [
         "genre": "Drama, Mystery",
         "description": "A mysterious series that revolves around the lives of a few interconnected characters whose pasts begin to collide in unexpected ways, bringing to light hidden secrets and buried emotions.",
         "type": "series",
-        "quality": "webdl",
+        "quality": "web-dl",
         "cast": "Nawazuddin Siddiqui, Radhika Apte, Pankaj Tripathi"
     },
     {
@@ -2361,7 +2361,7 @@ const movies = [
         "genre": "Drama, Thriller",
         "description": "In a beautiful garden lies a dark secret. This series explores the mysterious events surrounding a seemingly peaceful gardener with a shadowy past.",
         "type": "series",
-        "quality": "webdl",
+        "quality": "web-dl",
         "cast": "Vikrant Massey, Shraddha Kapoor, Rajkummar Rao"
     },
     {
@@ -2375,7 +2375,7 @@ const movies = [
         "genre": "Animation, Action, Adventure",
         "description": "The epic story of Lord Hanuman continues in this thrilling sixth season, where he faces greater challenges and battles dark forces that threaten to engulf the world.",
         "type": "series",
-        "quality": "webdl",
+        "quality": "web-dl",
         "cast": "Sharad Kelkar, Sunil Grover, Ashwin Mushran"
     },
     {
@@ -2389,7 +2389,7 @@ const movies = [
         "genre": "Thriller, Mystery",
         "description": "A dentist's life takes a dark turn when his personal and professional lives collide after a troubled patient enters his office, setting off a chain of disturbing events.",
         "type": "movie",
-        "quality": "webdl",
+        "quality": "web-dl",
         "cast": "Johnny Depp, Laura Dern, Aaron Eckhart"
     },
     {
@@ -2403,7 +2403,7 @@ const movies = [
         "genre": "Action, Adventure, Drama",
         "description": "The Avengers assemble one final time to take on Thanos, in an effort to undo the devastation caused by his snap and restore balance to the universe.",
         "type": "movie",
-        "quality": "bluRay",
+        "quality": "blu-Ray",
         "cast": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Scarlett Johansson"
     },
     {
@@ -2417,7 +2417,7 @@ const movies = [
         "genre": "Action, Adventure, Sci-Fi",
         "description": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
         "type": "movie",
-        "quality": "bluRay",
+        "quality": "blu-Ray",
         "cast": "Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans"
     },
     {
@@ -2431,7 +2431,7 @@ const movies = [
         "genre": "Action, Adventure, Sci-Fi",
         "description": "With Spider-Man's identity now revealed, Peter seeks help from Doctor Strange to make it so that no one remembers he is Spider-Man, but the spell goes awry, opening the multiverse and bringing dangerous villains from other realities.",
         "type": "movie",
-        "quality": "bluRay",
+        "quality": "blu-Ray",
         "cast": "Tom Holland, Zendaya, Benedict Cumberbatch, Jacob Batalon"
     },
     {
@@ -2445,7 +2445,7 @@ const movies = [
         "genre": "Action, Adventure, Comedy",
         "description": "A group of intergalactic criminals must pull together to stop a fanatical warrior who plans to purge the universe.",
         "type": "movie",
-        "quality": "bluRay",
+        "quality": "blu-Ray",
         "cast": "Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel"
     },
     {
@@ -2459,7 +2459,7 @@ const movies = [
         "genre": "Action, Adventure, Sci-Fi",
         "description": "After being held captive in an Afghan cave, billionaire industrialist Tony Stark creates a unique weaponized suit of armor to fight evil.",
         "type": "movie",
-        "quality": "bluRay",
+        "quality": "blu-Ray",
         "cast": "Robert Downey Jr., Gwyneth Paltrow, Jeff Bridges, Jon Favreau"
     },
     {
@@ -2473,7 +2473,7 @@ const movies = [
         "genre": "Action, Adventure, Sci-Fi",
         "description": "Steve Rogers struggles to embrace his role in the modern world and battles a new threat from the Soviet agent known as the Winter Soldier.",
         "type": "movie",
-        "quality": "bluRay",
+        "quality": "blu-Ray",
         "cast": "Chris Evans, Scarlett Johansson, Sebastian Stan, Anthony Mackie"
     },
     {
@@ -2487,7 +2487,7 @@ const movies = [
         "genre": "Action, Adventure, Sci-Fi",
         "description": "T'Challa, the King of Wakanda, rises to the throne in the isolated, technologically advanced African nation. But his leadership is tested when an old foe reappears and threatens the fate of Wakanda.",
         "type": "movie",
-        "quality": "bluRay",
+        "quality": "blu-Ray",
         "cast": "Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o, Danai Gurira"
     },
     {
@@ -2501,7 +2501,7 @@ const movies = [
         "genre": "Action, Adventure, Comedy",
         "description": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to prevent Ragnarok, the destruction of his world.",
         "type": "movie",
-        "quality": "bluRay",
+        "quality": "blu-Ray",
         "cast": "Chris Hemsworth, Tom Hiddleston, Cate Blanchett, Idris Elba"
     },
     {
@@ -2515,7 +2515,7 @@ const movies = [
         "genre": "Action, Adventure, Fantasy",
         "description": "Dr. Stephen Strange, a brilliant neurosurgeon, discovers the hidden world of magic and alternate dimensions after a car accident ruins his hands.",
         "type": "movie",
-        "quality": "bluRay",
+        "quality": "blu-Ray",
         "cast": "Benedict Cumberbatch, Chiwetel Ejiofor, Rachel McAdams, Mads Mikkelsen"
     },
         {
@@ -2529,7 +2529,7 @@ const movies = [
         "genre": "Action, Adventure, Sci-Fi",
         "description": "Captain America and Iron Man find themselves on opposite sides of a conflict when political interference puts them at odds over the registration of super-powered individuals.",
         "type": "movie",
-        "quality": "bluRay",
+        "quality": "blu-Ray",
         "cast": "Chris Evans, Robert Downey Jr., Scarlett Johansson, Sebastian Stan"
     },
     {
@@ -2543,7 +2543,7 @@ const movies = [
         "genre": "Action, Drama, Thriller",
         "description": "Rocky is on a mission to overthrow the regime of ruthless gold mafia leader Adheera, but faces a deadly new enemy that will challenge his reign in Kolar Gold Fields.",
         "type": "movie",
-        "quality": "webdl",
+        "quality": "web-dl",
         "cast": "Yash, Sanjay Dutt, Raveena Tondon, Prakash Raj"
     },
     {
@@ -2557,7 +2557,7 @@ const movies = [
         "genre": "Action, Drama, Thriller",
         "description": "A young man rises through the ranks of the Kolar Gold Fields, facing dangerous adversaries and making ruthless enemies in his fight for power.",
         "type": "movie",
-        "quality": "webdl",
+        "quality": "web-dl",
         "cast": "Yash, Srinidhi Shetty, Anant Nag, Achyuth Kumar"
     },
     {
@@ -2571,7 +2571,7 @@ const movies = [
         "genre": "Action, Thriller, Crime",
         "description": "An intense cat-and-mouse chase between a cop and a vigilante serial killer who is targeting corrupt individuals.",
         "type": "movie",
-        "quality": "webdl",
+        "quality": "web-dl",
         "cast": "Nani, Sudheer Babu, Aditi Rao Hydari, Jagapathi Babu"
     },
     {
@@ -2585,7 +2585,7 @@ const movies = [
         "genre": "Action, Adventure, Drama",
         "description": "In the second part of this epic saga, Bahubali seeks revenge and uncovers the truth about his father's death and the kingdom's future.",
         "type": "movie",
-        "quality": "bluRay",
+        "quality": "blu-Ray",
         "cast": "Prabhas, Rana Daggubati, Anushka Shetty, Tamannaah Bhatia"
     },
     {
@@ -2599,7 +2599,7 @@ const movies = [
         "genre": "Action, Adventure, Drama",
         "description": "The first part of the saga chronicles the rise of Bahubali, a legendary warrior who fights to reclaim his rightful throne.",
         "type": "movie",
-        "quality": "bluRay",
+        "quality": "blu-Ray",
         "cast": "Prabhas, Rana Daggubati, Anushka Shetty, Tamannaah Bhatia"
     },
     {
@@ -2613,7 +2613,7 @@ const movies = [
         "genre": "Crime, Drama, Mystery",
         "description": "The C.I.D team solves criminal cases and fights for justice in each gripping episode, highlighting their skills and challenges.",
         "type": "series",
-        "quality": "webdl",
+        "quality": "web-dl",
         "cast": "Shivaji Satam, Aditya Srivastava, Daya, Ansha Sayed"
     },
     {
@@ -2627,7 +2627,7 @@ const movies = [
         "genre": "Drama, Romance",
         "description": "A passionate romance unfolds as the protagonist embarks on a journey of self-discovery and desire, leading to emotional revelations.",
         "type": "movie",
-        "quality": "bluRay",
+        "quality": "blu-Ray",
         "cast": "Sylvia Kristel, Alain Cuny, Dorothée Jemma"
     },
     {
@@ -2641,7 +2641,7 @@ const movies = [
         "genre": "Drama",
         "description": "A courtroom drama that examines the conflict between the state and an ordinary individual caught in a legal battle, showcasing the complexities of justice in the modern world.",
         "type": "movie",
-        "quality": "webdl",
+        "quality": "web-dl",
         "cast": "Rajeev Khandelwal, Suman Kumar, Arvind Pandey"
     },
     {
@@ -2655,7 +2655,7 @@ const movies = [
         "genre": "Romance, Drama",
         "description": "Two individuals from different cultural backgrounds fall in love, but their relationship is challenged by societal expectations, family pressures, and their personal dilemmas.",
         "type": "movie",
-        "quality": "webdl",
+        "quality": "web-dl",
         "cast": "Siddharth, Ananya Panday, Vijay Sethupathi"
     },
     {
@@ -2683,7 +2683,7 @@ const movies = [
         "genre": "Action, Drama, Thriller",
         "description": "In a world full of vengeance and betrayal, a skilled warrior seeks justice for the loss of his loved ones, challenging powerful enemies in his path.",
         "type": "movie",
-        "quality": "webdl",
+        "quality": "web-dl",
         "cast": "Raghubir Yadav, Manoj Bajpayee, Anil Kapoor"
     },
     
@@ -2782,7 +2782,7 @@ const movies = [
     "genre": "Action, Adventure, Sci-Fi",
     "description": "Peter Parker balances his life as a high school student and as Spider-Man while facing the dangerous villain Vulture. His journey to becoming a true hero is tested as he confronts his greatest challenge yet.",
     "type": "movie",
-    "quality": "bluRay",
+    "quality": "blu-Ray",
     "cast": "Tom Holland, Michael Keaton, Robert Downey Jr."
 },
     
@@ -2811,7 +2811,7 @@ const movies = [
     "genre": "Action, Adventure, Sci-Fi",
     "description": "Peter Parker goes on a school trip to Europe, but his vacation takes a turn when a new threat emerges in the form of the villain Mysterio. Peter must step up to save the world and come to terms with his role as Spider-Man.",
     "type": "movie",
-    "quality": "bluRay",
+    "quality": "blu-Ray",
     "cast": "Tom Holland, Jake Gyllenhaal, Zendaya"
 },
     
@@ -2875,7 +2875,7 @@ const movies = [
         "genre": "Action, Adventure, Sci-Fi",
         "description": "Peter Parker gains superpowers and becomes Spider-Man to battle the villainous Green Goblin. As a hero, he faces challenges that put his loved ones at risk.",
         "type": "movie",
-        "quality": "bluRay",
+        "quality": "blu-Ray",
         "cast": "Tobey Maguire, Kirsten Dunst, Willem Dafoe"
     },
     {
@@ -2889,7 +2889,7 @@ const movies = [
         "genre": "Action, Adventure, Sci-Fi",
         "description": "Peter Parker struggles to balance his life as Spider-Man and his personal relationships. Meanwhile, a new villain, Doctor Octopus, threatens the city.",
         "type": "movie",
-        "quality": "bluRay",
+        "quality": "blu-Ray",
         "cast": "Tobey Maguire, Kirsten Dunst, Alfred Molina"
     },
     {
@@ -2903,7 +2903,7 @@ const movies = [
         "genre": "Action, Adventure, Sci-Fi",
         "description": "Spider-Man faces a new threat from the Sandman and Venom while dealing with the emergence of a dark side in his personality. His personal life is in turmoil.",
         "type": "movie",
-        "quality": "bluRay",
+        "quality": "blu-Ray",
         "cast": "Tobey Maguire, Kirsten Dunst, James Franco, Topher Grace"
     },
     {
@@ -2917,7 +2917,7 @@ const movies = [
         "genre": "Action, Adventure, Sci-Fi",
         "description": "Peter Parker becomes Spider-Man after the discovery of his father's research. He faces the villainous Lizard while uncovering secrets about his own family.",
         "type": "movie",
-        "quality": "bluRay",
+        "quality": "blu-Ray",
         "cast": "Andrew Garfield, Emma Stone, Rhys Ifans"
     },
     {
@@ -2931,7 +2931,7 @@ const movies = [
         "genre": "Action, Adventure, Sci-Fi",
         "description": "Peter Parker faces a new threat in the form of Electro while dealing with his relationship with Gwen Stacy and the mysterious past of his parents.",
         "type": "movie",
-        "quality": "bluRay",
+        "quality": "blu-Ray",
         "cast": "Andrew Garfield, Emma Stone, Jamie Foxx"
     },
     {
@@ -2945,7 +2945,7 @@ const movies = [
         "genre": "Action, Adventure, Sci-Fi",
         "description": "Journalist Eddie Brock becomes the host of an alien symbiote, gaining extraordinary powers. However, he struggles to control the powerful entity within him.",
         "type": "movie",
-        "quality": "bluRay",
+        "quality": "blu-Ray",
         "cast": "Tom Hardy, Michelle Williams, Riz Ahmed"
     },
     {
@@ -2959,7 +2959,7 @@ const movies = [
         "genre": "Animation, Action, Adventure",
         "description": "Teenager Miles Morales discovers his powers and teams up with other Spider-People from different dimensions to stop a threat that could destroy all realities.",
         "type": "movie",
-        "quality": "bluRay",
+        "quality": "blu-Ray",
         "cast": "Shameik Moore, Jake Johnson, Hailee Steinfeld"
     },
     {
@@ -2973,7 +2973,7 @@ const movies = [
         "genre": "Action, Sci-Fi, Horror",
         "description": "Eddie Brock faces the terrifying Carnage after the escape of Cletus Kasady, a serial killer who merges with an alien symbiote to become a new deadly villain.",
         "type": "movie",
-        "quality": "bluRay",
+        "quality": "blu-Ray",
         "cast": "Tom Hardy, Woody Harrelson, Michelle Williams"
     },
     {
@@ -2987,7 +2987,7 @@ const movies = [
         "genre": "Animation, Action, Adventure",
         "description": "Miles Morales continues his journey as Spider-Man, joining forces with other Spider-People from different dimensions to stop a new threat that could destroy the multiverse.",
         "type": "movie",
-        "quality": "bluRay",
+        "quality": "blu-Ray",
         "cast": "Shameik Moore, Hailee Steinfeld, Jake Johnson"
     },
     {
@@ -3001,7 +3001,7 @@ const movies = [
         "genre": "Action, Adventure, Sci-Fi",
         "description": "Venom faces a new dangerous adversary who pushes him to the limits. Eddie Brock and the symbiote must fight to save the world from a destructive force unlike anything they’ve ever encountered.",
         "type": "movie",
-        "quality": "webdl",
+        "quality": "web-dl",
         "cast": "Tom Hardy, Michelle Williams, Woody Harrelson"
     },
     
@@ -3065,7 +3065,7 @@ const movies = [
     "genre": "Action, Comedy, Sci-Fi",
     "description": "Wade Wilson, a former special forces operative, turns into the mercenary Deadpool after being subjected to an experimental treatment that gives him accelerated healing powers. He seeks revenge against the man who nearly destroyed his life.",
     "type": "movie",
-    "quality": "bluRay",
+    "quality": "blu-Ray",
     "cast": "Ryan Reynolds, Morena Baccarin, T.J. Miller"
 },
     
@@ -3094,7 +3094,7 @@ const movies = [
     "genre": "Action, Adventure, Comedy",
     "description": "Deadpool forms the X-Force team to protect a young mutant from the powerful Cable. Together, they must take on a new set of dangerous foes and navigate complex challenges in this action-packed sequel.",
     "type": "movie",
-    "quality": "bluRay",
+    "quality": "blu-Ray",
     "cast": "Ryan Reynolds, Josh Brolin, Morena Baccarin"
 },
 
@@ -3117,7 +3117,7 @@ const movies = [
         "genre": "Action, Adventure, Comedy",
         "description": "A secret organization known as the Men in Black (MIB) controls extraterrestrial activity on Earth. Agent J recruits a new partner, Agent K, to protect the world from an alien threat.",
         "type": "movie",
-        "quality": "bluRay",
+        "quality": "blu-Ray",
         "cast": "Will Smith, Tommy Lee Jones, Linda Fiorentino"
     },
     {
@@ -3131,7 +3131,7 @@ const movies = [
         "genre": "Action, Adventure, Comedy",
         "description": "Agent J must recruit his old partner, Agent K, who has had his memory erased, to stop a new alien threat and save the world once again.",
         "type": "movie",
-        "quality": "bluRay",
+        "quality": "blu-Ray",
         "cast": "Will Smith, Tommy Lee Jones, Lara Flynn Boyle"
     },
     {
@@ -3145,7 +3145,7 @@ const movies = [
         "genre": "Action, Adventure, Comedy",
         "description": "Agent J travels back in time to 1969 to save his partner, Agent K, from being killed by an alien criminal. Along the way, he must team up with a younger version of Agent K.",
         "type": "movie",
-        "quality": "bluRay",
+        "quality": "blu-Ray",
         "cast": "Will Smith, Tommy Lee Jones, Josh Brolin"
     },
     {
@@ -3159,7 +3159,7 @@ const movies = [
         "genre": "Action, Adventure, Comedy",
         "description": "The Men in Black have expanded to a global level. New recruit Agent M joins Agent H in London to uncover an alien conspiracy that could threaten the planet.",
         "type": "movie",
-        "quality": "bluRay",
+        "quality": "blu-Ray",
         "cast": "Chris Hemsworth, Tessa Thompson, Liam Neeson"
     },
     
@@ -3174,7 +3174,7 @@ const movies = [
     "genre": "Action, Drama, Thriller",
     "description": "Pushpa, a laborer working in the red sandalwood smuggling business, rises through the ranks to become a powerful figure. The film follows his journey and the conflict with the police and rival smugglers.",
     "type": "movie",
-    "quality": "webdl",
+    "quality": "web-dl",
     "cast": "Allu Arjun, Fahadh Faasil, Rashmika Mandanna"
 },
 
@@ -3197,7 +3197,7 @@ const movies = [
     "genre": "Action, Comedy, Drama",
     "description": "Duvvada Jagannadham, a simple Brahmin boy, leads a double life as DJ, a stylish and fearless vigilante. He fights against the corrupt elements of society, even while managing his family and cultural obligations.",
     "type": "movie",
-    "quality": "webdl",
+    "quality": "web-dl",
     "cast": "Allu Arjun, Pooja Hegde, Rao Ramesh"
 },
 
@@ -3234,7 +3234,7 @@ const movies = [
     "genre": "Action, Comedy, Drama",
     "description": "Lucky, a man with an adventurous spirit, and his brother are caught in a race with powerful enemies. He must use his wit and courage to overcome challenges and protect his loved ones in this action-packed journey.",
     "type": "movie",
-    "quality": "webdl",
+    "quality": "web-dl",
     "cast": "Allu Arjun, Shruti Haasan, Ravi Kishan"
 },
     

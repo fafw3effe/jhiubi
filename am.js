@@ -116,7 +116,7 @@ const movies = [
     "genre": "Horror,Mystery,Thriller,",
     "description": "Set in a village named Rudravanam in 1990's, Surya along with his mother, visit there after a long time. Suddenly a series of mysterious deaths occur due to an unknown person's occult practice and whole village is scared. Will Surya find the person causing the deaths and save the village?",
     "type": "movie",
-    "quality": "UNCUT WEB-DL",
+    "quality": "WEB-DL",
     "cast": "Sai Durgha Tej,Samyuktha,Brahmaji,Rajiv Kanakala,Ravi Krishna"
 },
     {
@@ -220,7 +220,7 @@ const movies = [
         "genre": "Sci-Fi, Thriller",
         "description": "In a futuristic world, a detective investigates a mysterious crime that leads him to a time-bending conspiracy threatening the fabric of reality.",
         "type": "movie",
-        "quality": "hdcam",
+        "quality": "CAM",
         "cast": "Anushka Sharma, Vijay Sethupathi, Gautham Menon"
     },
     {
@@ -235,7 +235,7 @@ const movies = [
         "genre": "Crime, Mystery, Thriller",
         "description": "A hard-hitting investigator is pulled into a case that not only challenges his limits but also uncovers a deep conspiracy in the criminal world.",
         "type": "movie",
-        "quality": "hq pre-hd",
+        "quality": "pre-hd",
         "cast": "Rajeev Khandelwal, Nivetha Pethuraj, Sandeep Goyat"
     },
     {
@@ -250,7 +250,7 @@ const movies = [
         "genre": "Action, Adventure, Superhero",
         "description": "The Thunderbolts, a team of anti-heroes, are tasked with saving the world from a new and dangerous threat. Will they be able to overcome their own demons to succeed?",
         "type": "movie",
-        "quality": "hdcam",
+        "quality": "cam",
         "cast": "Florence Pugh, Sebastian Stan, Wyatt Russell, David Harbour"
     },
         {
@@ -265,7 +265,7 @@ const movies = [
             "genre": "Action, Crime, Drama",
             "description": "Batman faces off against the Joker, a criminal mastermind intent on causing chaos and destroying Gotham City. With a moral dilemma at every turn, the fate of Gotham lies in Batman's hands.",
             "type": "movie",
-            "quality": "bluRay",
+            "quality": "blu-Ray",
             "cast": "Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine"
         },
         {

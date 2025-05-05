@@ -163,7 +163,7 @@ function displayMovies() {
         const sticker = document.createElement('div');
         if (movie.type === 'series') {
             const seasonMatch = movie.title.match(/\[Season (\d+)\]/);
-            const seasonText = seasonMatch ? `S${seasonMatch[1]}` : 'S1';
+            const seasonText = seasonMatch ? `Season ${seasonMatch[1]}` : 'Season 1';
             sticker.className = 'sticker season-sticker';
             sticker.textContent = seasonText;
         } else {

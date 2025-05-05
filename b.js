@@ -145,7 +145,7 @@ function displayMovies() {
             case 'webdl':
                 qualityClass = 'quality-webdl';
                 break;
-            case 'cam':
+            case 'hdcam':
                 qualityClass = 'quality-cam';
                 break;
             case 'blu-ray'||'bluray':

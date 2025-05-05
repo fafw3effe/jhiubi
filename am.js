@@ -4,14 +4,37 @@ const movies = [
     /*
     
     {
-    title:'',
-    im:'',
-    bgi:'',
-    dl:'',
-    link: ''
+            "title": " [2025] WEB-DL [Hindi + English] | Full Movie",
+            "im": "",
+            "bgi": "",
+            "dl": "https://pixeldrain.net/api/file/?download",
+            "year": "",
+            "duration": " min",
+            "rating": "",
+            "genre": "",
+            "description": "",
+            "type": "movie",
+            "quality": "webdl",
+            "cast": "Vicky Kaushal, Radhika Apte, Kumud Mishra"
     },
     
     */
+
+    
+{
+    "title": "Ala Vaikunthapurramuloo [2020] WEB-DL [Hindi + Telugu] | Full Movie",
+    "im": "2rzORJaegE2bbKNVkQXbZCeV0BP",
+    "bgi": "7m8pL1cNz1okhxOltBDNG4XTxdx",
+    "dl": "https://pixeldrain.net/api/file/?download",
+    "year": "2020",
+    "duration": "2h 45m",
+    "rating": "6.7",
+    "genre": "Action,Comedy,Drama,",
+    "description": "Fate plays a vital role in connecting the life of Bantu, a son who seeks validation from his cold-hearted father with the life of Raj, whose millionaire father wishes that he was more assertive.",
+    "type": "movie",
+    "quality": "webdl",
+    "cast": "Allu Arjun, Pooja Hegde, Tabu"
+    },
     {
         "title": "The Last of Us [Season 2] [Episode 4] WEB-DL [Hindi + English] | HBO Series",
         "im": "dmo6TYuuJgaYinXBPjrgG9mB5od",

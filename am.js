@@ -20,7 +20,35 @@ const movies = [
     
     */
 
-    
+    {
+        "title": "Peaky Blinders [Season 2] [Episode 3] WEB-DL [Hindi + English]",
+        "im": "m4JPtC3gWUsq0GlfNK3SdgkL9XG",
+        "bgi": "4aSJfYZlhbNB15GurAQZNsyDADI",
+        "dl": "https://pub-ed0ca22af5c04301b7abe9dac4aaf9bc.r2.dev/Peaky.Blinders.S02.E03.720p.BluRay.Hindi.2.0-English.2.0.ESub.x264-HDHub4u.Ms.mkv",
+        "link": "tt2442560",
+        "year": "2014",
+        "duration": "58 min",
+        "rating": "8.8",
+        "genre": "Crime, Drama",
+        "description": "A notorious gang in 1919 Birmingham, England, is led by the fierce Tommy Shelby, a crime boss set on moving up in the world no matter the cost.",
+        "type": "series",
+        "quality": "web-dl",
+        "cast": "Cillian Murphy, Sam Neill, Helen McCrory"
+    },
+    {
+        "title": "Peaky Blinders [Season 1] WEB-DL [Hindi + English] | All Episodes",
+        "im": "vUUqzWa2LnHIVqkaKVlVGkVcZIW",
+        "bgi": "6SdXIdltOU6pFqv0aZuSWcrGWej",
+        "dl": "https://pixeldrain.net/api/file/j47zx3gG?download",
+        "year": "2013",
+        "duration": "",
+        "rating": "8.5",
+        "genre": "Drama,Crime,",
+        "description": "A gangster family epic set in 1919 Birmingham, England and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby, who means to move up in the world.",
+        "type": "series",
+        "quality": "webdl",
+        "cast": "Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
+    },   
 {
     "title": "Life of Pi [2012] WEB-DL [Hindi + English] | Full Movie",
     "im": "iLgRu4hhSr6V1uManX6ukDriiSc",

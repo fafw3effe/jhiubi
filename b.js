@@ -143,19 +143,29 @@ function displayMovies() {
         
         switch (qualityText.toLowerCase()) {
             case 'webdl':
+                qualityClass = 'quality-webdl';
+                break;
                     case 'web-dl':
                 qualityClass = 'quality-webdl';
                 break;
             case 'hdcam':
+                qualityClass = 'quality-cam';
+                break;
                 case 'cam':
+                    qualityClass = 'quality-cam';
+                    break;
                     case 'hd-cam':
                 qualityClass = 'quality-cam';
                 break;
             case 'blu-ray':
+                qualityClass = 'quality-bluray';
+                break;
             case 'bluray':
                 qualityClass = 'quality-bluray';
                 break;
             case 'pre-hd':
+                    qualityClass = 'quality-prehd';
+                    break;
                 case 'prehd':
                 qualityClass = 'quality-prehd';
                 break;

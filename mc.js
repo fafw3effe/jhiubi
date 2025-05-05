@@ -976,92 +976,110 @@ const movies = [
             "type": "movie",
             "quality": "webdl hevc"
         },
-    
-    {
-    title:'Veera Dheera Sooran: Part 2 [2025] WEB-DL [Hindi + Tamil] [HEVC] | Full Movie',
-    im:'a3dBrs38ame4Wm4AG94l4RdNwBQ',
-    dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Veera.Dheera.Sooran.Part.2.2025.720p.HEVC.WEB-DL.Hindi-Tamil.ESub.x265-HDHub4u.Ms.mkv',
-    link: 'tt29606499'
-    },
-    
-    {
-    title:'Peaky Blinders [Season 1] [Episode 1] WEB-DL [Hindi + English] [HEVC]',
-    im:'vPlsKun2WZEsqe3yZTmebxtwElW',
-    dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Peaky.Blinders.S01.E01.720p.10Bit.HEVC.BluRay.Hindi.2.0-English.2.0.ESub.x265-HDHub4u.Ms.mkv',
-    link: 'tt2442560'
-    },
-    
-    {
-    title:'Kodai Diaries [Season 1] WEB-DL [Hindi + English] | All Episodes',
-    im:'sG90D0atz26PcWVFcUYSbL2mUtu',
-    dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=cZqDbvJr&sn=1&es=Kodai.Diaries.S01.720p.Hindi.WEB-DL.2.0.ESub.x264-HDHub4u.Ms/Kodai.Diaries.S01E&e=6&el=.720p.Hindi.WEB-DL.2.0.ESub.x264-HDHub4u.Ms.mkv',
-    link: ''
-    },
-    
-    {
-    title:'Star Wars: Andor [Season 2] [Episode 3] WEB-DL [Hindi + English] [HEVC]',
-    im:'y0j9HbsWnkn1TlT6Y52ZrsvysgU',
-    dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Andor.S02E03.720p.10Bit.WEB-DL.Hindi.5.1-English.HEVC.x265-HDHub4u.Ms.mkv',
-    link: 'tt9253284'
-    },
-    
-    
-    {
-    title:'Bullet Train Explosion [2025] WEB-DL [Hindi + English] [HEVC] | Full Movie',
-    im:'iLXp24WqbbGlMOgoj7AheJgftxi',
-    dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Bullet.Train.Explosion.2025.720p.HEVC.WEB-DL.Hindi-English.ESub.x265-HDHub4u.Ms.mkv',
-    link: 'tt33452974'
-    },
-    
-    {
-    title:'Counterattack [2022] WEB-DL [Hindi + English] [HEVC] | Full Movie',
-    im:'38I76hGcFY6xB47pjm7pZwkfuAF',
-    dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Counterattack.2025.720p.10Bit.WEB-DL.Hindi.5.1-English.HEVC.x265-HDHub4u.Ms.mkv',
-    link: 'tt23648788'
-    },
-    
-    {
-    title:'Attack on Titan OAD [Season 1] WEB-DL [Hindi + English] | All Episodes',
-    im:'no3dkH44ywREi0la8tw4TnA1GxN',
-    dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=u4m9KEYS&sn=1&es=Attack.on.Titan.OAD.S01E&e=8&el=.720p.HIN-JAP.x265.ESub-PikaHD.com.mkv',
-    link: 'tt7950670'
-    },
-    
-    {
-    title:'The Cleaner [2022] WEB-DL [Hindi + Thai] | Full Movie',
-    im:'s2JYyjCqcD5SlNoMCWgYpCzRKZn',
-    dl:'https://pixeldrain.net/api/file/ByXp8TKP?download',
-    link: 'tt21223328'
-    },
-    
-    
-    {
-    title:'WWE WrestleMania 41: Sunday [2025] WEB-DL [Hindi + English] | Full Event',
-    im:'ngRfoPVEEI36COa5TVf1vrv57Ia',
-    dl:'https://pub-e70d344c885b4dc8b57686064a1a5f68.r2.dev/WWE.Wrestlemania.41.Sunday.2025.720p.WEB-DL.HINDI.ENGLISH.AAC2.0.Esubs.H.264-HDHub4u.Ms.mkv',
-    link: 'tt32283598'
-    },
-    
-    {
-    title:'WWE WrestleMania 41: Saturday [2025] WEB-DL [Hindi + English] | Full Event',
-    im:'jzPK38qZBUxbsegnF5MlqLdaEFq',
-    dl:'https://pub-f2eef84a5a02484ebe1c5a3453522556.r2.dev/WWE.Wrestlemania.41.Saturday.2025.720p.WEB-DL.HINDI.AAC2.0.Esubs.H.264-HDHub4u.Ms.mkv',
-    link: 'tt32283598'
-    },
-    
-    {
-    title:'Panchayat [Season 2] WEB-DL [Hindi] [HEVC] | All Episodes',
-    im:'7boJeO6mV4Q69Tjx14CylvqkXZP',
-    dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=k2RTtZQD&sn=2&es=Panchayat.S02.720p.HEVC.Hindi.WEB-DL.5.1.ESub.x265-HDHub4u.Tv/Panchayat.S02.E&e=8&el=.720p.HEVC.Hindi.WEB-DL.5.1.ESub.x265-HDHub4u.Tv.mkv',
-    link: 'tt12004706'
-    },
-    
-    {
-    title:'Panchayat [Season 1] WEB-DL [Hindi] [HEVC] | All Episodes',
-    im:'sx3MJ4ATkSoCyqayqco0O6wUqQ2',
-    dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=5KqiFtHE&sn=1&es=Panchayat.S01.720p.HEVC.Hindi.WEB-DL.5.1.ESub.x265-HDHub4u.Tv/Panchayat.S01.E&e=8&el=.720p.HEVC.Hindi.WEB-DL.5.1.ESub.x265-HDHub4u.Tv.mkv',
-    link: 'tt12004706'
-    },
+        {
+            "title": "Veera Dheera Sooran: Part 2 [2025] WEB-DL [Hindi + Tamil] [HEVC] | Full Movie",
+            "im": "a3dBrs38ame4Wm4AG94l4RdNwBQ",
+            "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Veera.Dheera.Sooran.Part.2.2025.720p.HEVC.WEB-DL.Hindi-Tamil.ESub.x265-HDHub4u.Ms.mkv",
+            "link": "tt29606499",
+            "year": "2025",
+            "duration": "130 min",
+            "rating": "7.2",
+            "genre": "Action, Drama, Adventure",
+            "description": "The saga continues as Veera Dheera Sooran embarks on a final battle against enemies who are determined to seize his kingdom. Filled with thrilling action, this movie concludes an epic story of bravery and sacrifice.",
+            "type": "movie",
+            "quality": "webdl hevc"
+        },
+        {
+            "title": "Peaky Blinders [Season 1] [Episode 1] WEB-DL [Hindi + English] [HEVC]",
+            "im": "vPlsKun2WZEsqe3yZTmebxtwElW",
+            "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Peaky.Blinders.S01.E01.720p.10Bit.HEVC.BluRay.Hindi.2.0-English.2.0.ESub.x265-HDHub4u.Ms.mkv",
+            "link": "tt2442560",
+            "year": "2013",
+            "duration": "58 min",
+            "rating": "8.8",
+            "genre": "Crime, Drama",
+            "description": "In the first episode of this gripping series, Tommy Shelby leads the Peaky Blinders gang, navigating the dangerous world of post-WWI Birmingham while dealing with power struggles, loyalty, and betrayal.",
+            "type": "series",
+            "quality": "webdl hevc"
+        },
+        {
+            "title": "Kodai Diaries [Season 1] WEB-DL [Hindi + English] | All Episodes",
+            "im": "sG90D0atz26PcWVFcUYSbL2mUtu",
+            "dl": "http://qwrqwrqwr.rf.gd/a/a.php?pd=cZqDbvJr&sn=1&es=Kodai.Diaries.S01.720p.Hindi.WEB-DL.2.0.ESub.x264-HDHub4u.Ms/Kodai.Diaries.S01E&e=6&el=.720p.Hindi.WEB-DL.2.0.ESub.x264-HDHub4u.Ms.mkv",
+            "link": "",
+            "year": "2025",
+            "duration": "40 min per episode",
+            "rating": "7.0",
+            "genre": "Drama, Adventure",
+            "description": "A heartfelt drama that follows a group of friends exploring the mountains of Kodai, where they learn valuable life lessons, face challenges, and uncover hidden secrets in the serene yet adventurous landscapes.",
+            "type": "series",
+            "quality": "webdl"
+        },
+        {
+            "title": "Star Wars: Andor [Season 2] [Episode 3] WEB-DL [Hindi + English] [HEVC]",
+            "im": "y0j9HbsWnkn1TlT6Y52ZrsvysgU",
+            "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Andor.S02E03.720p.10Bit.WEB-DL.Hindi.5.1-English.HEVC.x265-HDHub4u.Ms.mkv",
+            "link": "tt9253284",
+            "year": "2025",
+            "duration": "55 min",
+            "rating": "9.0",
+            "genre": "Action, Adventure, Sci-Fi",
+            "description": "Cassian Andor faces new dangers as he becomes deeply involved in the Rebellion's struggle against the Empire. The third episode further develops the complex relationships and challenges that will shape the Rebellion.",
+            "type": "series",
+            "quality": "webdl hevc"
+        },
+        {
+            "title": "Bullet Train Explosion [2025] WEB-DL [Hindi + English] [HEVC] | Full Movie",
+            "im": "iLXp24WqbbGlMOgoj7AheJgftxi",
+            "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Bullet.Train.Explosion.2025.720p.HEVC.WEB-DL.Hindi-English.ESub.x265-HDHub4u.Ms.mkv",
+            "link": "tt33452974",
+            "year": "2025",
+            "duration": "120 min",
+            "rating": "6.8",
+            "genre": "Action, Thriller",
+            "description": "A fast-paced action movie where a group of passengers on a high-speed bullet train must survive when terrorists take control of the train, leading to a high-stakes battle for survival.",
+            "type": "movie",
+            "quality": "webdl hevc"
+        },
+        {
+            "title": "Counterattack [2022] WEB-DL [Hindi + English] [HEVC] | Full Movie",
+            "im": "38I76hGcFY6xB47pjm7pZwkfuAF",
+            "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Counterattack.2025.720p.10Bit.WEB-DL.Hindi.5.1-English.HEVC.x265-HDHub4u.Ms.mkv",
+            "link": "tt23648788",
+            "year": "2022",
+            "duration": "110 min",
+            "rating": "7.3",
+            "genre": "Action, Crime, Thriller",
+            "description": "A tactical thriller about an ex-soldier who gets drawn into a dangerous game of espionage and conspiracy when his life is put on the line by shadowy forces.",
+            "type": "movie",
+            "quality": "webdl hevc"
+        },
+        {
+            "title": "Attack on Titan OAD [Season 1] WEB-DL [Hindi + English] | All Episodes",
+            "im": "no3dkH44ywREi0la8tw4TnA1GxN",
+            "dl": "http://qwrqwrqwr.rf.gd/a/a.php?pd=u4m9KEYS&sn=1&es=Attack.on.Titan.OAD.S01E&e=8&el=.720p.HIN-JAP.x265.ESub-PikaHD.com.mkv",
+            "link": "tt7950670",
+            "year": "2025",
+            "duration": "20 min per episode",
+            "rating": "8.6",
+            "genre": "Action, Animation, Drama",
+            "description": "The additional episodes of Attack on Titan expand the lore, providing fans with deeper insights into the world of Titans, their origins, and the battles that shape the future of humanity.",
+            "type": "series",
+            "quality": "webdl"
+        },
+        {
+            "title": "The Cleaner [2022] WEB-DL [Hindi + Thai] | Full Movie",
+            "im": "s2JYyjCqcD5SlNoMCWgYpCzRKZn",
+            "dl": "https://pixeldrain.net/api/file/ByXp8TKP?download",
+            "link": "tt21223328",
+            "year": "2022",
+            "duration": "90 min",
+            "rating": "6.9",
+            "genre": "Action, Crime, Thriller",
+            "description": "A skilled cleaner is tasked with cleaning up the aftermath of a brutal crime, only to discover that the case is connected to his own dark past.",
+            "type": "movie",
+            "quality": "webdl"
+        },
     
     {
     title:'Suits LA [Season 1] [Episode 9] WEB-DL [Hindi + English]',

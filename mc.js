@@ -179,8 +179,6 @@ const movies = [
         "type": "movie",
         "quality": "bluRay"
     },
-    
-    
     {
         "title": "Pokemon Detective Pikachu [2020] BluRay [Hindi + English] | Full Movie",
         "im": "uhWvnFgg3BNlcUz0Re1HfQqIcCD",
@@ -420,7 +418,6 @@ const movies = [
         "type": "series",
         "quality": "webdl"
     },
-    
     {
             "title": "Good Bad Ugly [2025] WEB-DL [Hindi + Tamil] | Full Movie",
             "im": "8DbYYluzdiGDAZzsaP7DWGbwfLd",
@@ -449,7 +446,6 @@ const movies = [
             "type": "movie",
             "quality": "webdl"
         },
-    
         {
             "title": "Heretic [2024] WEB-DL [Hindi + English] | Full Movie",
             "im": "fr96XzlzsONrQrGfdLMiwtQjott",

@@ -143,6 +143,7 @@ function displayMovies() {
         
         switch (qualityText.toLowerCase()) {
             case 'webdl':
+                    case 'web-dl':
                 qualityClass = 'quality-webdl';
                 break;
             case 'hdcam':

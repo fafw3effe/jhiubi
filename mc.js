@@ -572,78 +572,132 @@ const movies = [
             "type": "movie",
             "quality": "bluRay"
         },
-    
-    {
-    title:'Gangs of Wasseypur - Part 1 [2012] BluRay [Hindi] | Full Movie',
-    im:'xAy208Znkingmfnb5ZbULwLyIwW',
-    bgi:'1CAyD1mFJvCgsbOKyYTP8hIBqGe',
-    dl:'https://pixeldrain.net/api/file/jgp5arXM?download',
-    link: 'tt1954470'
-    },
-    
-    {
-    title:'Drop [2025] WEB-DL [Hindi + English] | Full Movie',
-    im:'dS2S5lpfgRIRQOb7LDCjNsQqKjp',
-    bgi:'mi4DqTItM0jRHziKzdTmXZVcG4C',
-    dl:'https://pixeldrain.net/api/file/Cg5iHFCg?download',
-    link: 'tt32149847'
-    },
-    
-    {
-    title:'Peaky Blinders [Season 1] [Episode 4] WEB-DL [Hindi + English]',
-    im:'vPlsKun2WZEsqe3yZTmebxtwElW',
-    bgi:'ktATJ6sEfEqu6HfGpE9FD7WIjvq',
-    dl:'https://pixeldrain.net/api/file/pompH96N?download',
-    link: 'tt2442560'
-    },
-    
-    {
-    title:'The Last of Us [Season 2] [Episode 3] WEB-DL [Hindi + English] | HBO Series',
-    im:'dmo6TYuuJgaYinXBPjrgG9mB5od',
-    bgi:'yYxtVmduEAJWPyckZv4rqqinvoe',
-    dl:'https://pixeldrain.net/api/file/QVEgnjqW?download',
-    link: 'tt3581920'
-    },
-    
-    {
-    title:'Thudarum [2025] HQ-V2 HDTC [Malayalam] | Full Movie',
-    im:'uOTDBabtxHA6szYKQNQe9Y7rFlv',
-    bgi:'q6tHgBlYpesjUL9NumNoGpePaGT',
-    dl:'https://pixeldrain.net/api/file/VF7QbbaP?download',
-    link: 'tt31969600'
-    },
-    
-    {
-    title:'I Saw the TV Glow [2025] BluRay [Hindi + English] | Full Movie',
-    im:'ZZWbZCHeTpa330gSpX2vkp3YqV',
-    bgi:'bnIzcaSVPub9sAieMiOJErxopzV',
-    dl:'https://pixeldrain.net/api/file/BmFDMeiz?download',
-    link: 'tt15574270'
-    },
-    
-    {
-    title:'Suits LA [Season 1] [Episode 10] WEB-DL [Hindi + English]',
-    im:'3hYiNPkcLoI3QWDokOHQJIfn55O',
-    bgi:'ezQtyu9WD2MBW96awZqOY3pktX1',
-    dl:'https://pixeldrain.net/api/file/xqSReDbN?download',
-    link: 'tt31122751'
-    },
-    
-    {
-    title:'The Divorce Insurance [Season 1] [Episode 7] WEB-DL [Hindi + English] | [Amazon Prime Video]',
-    im:'6HAbRWYkX3bouEeHA4bjsUxznKC',
-    bgi:'pYP1O7uwIsavdC3GgEtVuPo9ul9',
-    dl:'https://pixeldrain.net/api/file/71PZKvdj?download',
-    link: 'tt35839843'
-    },
-    
-    {
-    title:'Tuk Tuk [2025] BluRay [Hindi + Telugu] | Full Movie',
-    im:'AsUsLOZBMpb6zqofvt7yxcbJVEJ',
-    bgi:'ebH3EsvMF06KSjlKxZcCvGydvBH',
-    dl:'https://pixeldrain.net/api/file/r1yDgyHr?download',
-    link: 'tt33088937'
-    },
+        {
+            "title": "Gangs of Wasseypur - Part 1 [2012] BluRay [Hindi] | Full Movie",
+            "im": "xAy208Znkingmfnb5ZbULwLyIwW",
+            "bgi": "1CAyD1mFJvCgsbOKyYTP8hIBqGe",
+            "dl": "https://pixeldrain.net/api/file/jgp5arXM?download",
+            "link": "tt1954470",
+            "year": "2012",
+            "duration": "159 min",
+            "rating": "8.2",
+            "genre": "Action, Crime, Drama",
+            "description": "The epic saga continues as the conflict between the Wasseypur gangs escalates into a bloody and intense war, filled with betrayal, revenge, and political intrigue.",
+            "type": "movie",
+            "quality": "bluRay"
+        },
+        {
+            "title": "Drop [2025] WEB-DL [Hindi + English] | Full Movie",
+            "im": "dS2S5lpfgRIRQOb7LDCjNsQqKjp",
+            "bgi": "mi4DqTItM0jRHziKzdTmXZVcG4C",
+            "dl": "https://pixeldrain.net/api/file/Cg5iHFCg?download",
+            "link": "tt32149847",
+            "year": "2025",
+            "duration": "115 min",
+            "rating": "6.7",
+            "genre": "Thriller, Drama",
+            "description": "A suspense-filled thriller where the main character is caught in a deadly conspiracy after accidentally uncovering dark secrets that powerful people want to keep hidden.",
+            "type": "movie",
+            "quality": "webdl"
+        },
+        {
+            "title": "Peaky Blinders [Season 1] [Episode 4] WEB-DL [Hindi + English]",
+            "im": "vPlsKun2WZEsqe3yZTmebxtwElW",
+            "bgi": "ktATJ6sEfEqu6HfGpE9FD7WIjvq",
+            "dl": "https://pixeldrain.net/api/file/pompH96N?download",
+            "link": "tt2442560",
+            "year": "2013",
+            "duration": "58 min",
+            "rating": "8.8",
+            "genre": "Crime, Drama",
+            "description": "Tommy Shelby navigates the criminal underworld, expanding the Peaky Blinders' influence while facing rising challenges from rival factions and personal enemies.",
+            "type": "series",
+            "quality": "webdl"
+        },
+        {
+            "title": "The Last of Us [Season 2] [Episode 3] WEB-DL [Hindi + English] | HBO Series",
+            "im": "dmo6TYuuJgaYinXBPjrgG9mB5od",
+            "bgi": "yYxtVmduEAJWPyckZv4rqqinvoe",
+            "dl": "https://pixeldrain.net/api/file/QVEgnjqW?download",
+            "link": "tt3581920",
+            "year": "2025",
+            "duration": "60 min",
+            "rating": "9.3",
+            "genre": "Action, Adventure, Drama",
+            "description": "In the third episode of Season 2, Ellie and Joel face terrifying new threats while dealing with the emotional weight of their journey in a post-apocalyptic world.",
+            "type": "series",
+            "quality": "webdl"
+        },
+        {
+            "title": "Thudarum [2025] HQ-V2 HDTC [Malayalam] | Full Movie",
+            "im": "uOTDBabtxHA6szYKQNQe9Y7rFlv",
+            "bgi": "q6tHgBlYpesjUL9NumNoGpePaGT",
+            "dl": "https://pixeldrain.net/api/file/VF7QbbaP?download",
+            "link": "tt31969600",
+            "year": "2025",
+            "duration": "120 min",
+            "rating": "6.9",
+            "genre": "Action, Drama",
+            "description": "In a thrilling tale of revenge and justice, a young man seeks to avenge the wrongs done to his family, while facing ruthless adversaries in his path.",
+            "type": "movie",
+            "quality": "hq-v2 hdtc"
+        },
+        {
+            "title": "I Saw the TV Glow [2025] BluRay [Hindi + English] | Full Movie",
+            "im": "ZZWbZCHeTpa330gSpX2vkp3YqV",
+            "bgi": "bnIzcaSVPub9sAieMiOJErxopzV",
+            "dl": "https://pixeldrain.net/api/file/BmFDMeiz?download",
+            "link": "tt15574270",
+            "year": "2025",
+            "duration": "95 min",
+            "rating": "7.4",
+            "genre": "Horror, Mystery, Thriller",
+            "description": "A chilling psychological horror where a group of people find themselves haunted by the strange and eerie TV shows that seem to affect their reality in disturbing ways.",
+            "type": "movie",
+            "quality": "bluRay"
+        },
+        {
+            "title": "Suits LA [Season 1] [Episode 10] WEB-DL [Hindi + English]",
+            "im": "3hYiNPkcLoI3QWDokOHQJIfn55O",
+            "bgi": "ezQtyu9WD2MBW96awZqOY3pktX1",
+            "dl": "https://pixeldrain.net/api/file/xqSReDbN?download",
+            "link": "tt31122751",
+            "year": "2025",
+            "duration": "50 min",
+            "rating": "8.2",
+            "genre": "Drama, Legal",
+            "description": "In the season finale, the legal team faces their biggest challenge yet, with high stakes and personal conflicts as they navigate their careers and relationships.",
+            "type": "series",
+            "quality": "webdl"
+        },
+        {
+            "title": "The Divorce Insurance [Season 1] [Episode 7] WEB-DL [Hindi + English] | [Amazon Prime Video]",
+            "im": "6HAbRWYkX3bouEeHA4bjsUxznKC",
+            "bgi": "pYP1O7uwIsavdC3GgEtVuPo9ul9",
+            "dl": "https://pixeldrain.net/api/file/71PZKvdj?download",
+            "link": "tt35839843",
+            "year": "2025",
+            "duration": "45 min",
+            "rating": "7.6",
+            "genre": "Comedy, Drama",
+            "description": "The characters' personal lives take a dramatic turn as they tackle unexpected challenges, uncovering deeper emotional layers in their relationships.",
+            "type": "series",
+            "quality": "webdl"
+        },
+        {
+            "title": "Tuk Tuk [2025] BluRay [Hindi + Telugu] | Full Movie",
+            "im": "AsUsLOZBMpb6zqofvt7yxcbJVEJ",
+            "bgi": "ebH3EsvMF06KSjlKxZcCvGydvBH",
+            "dl": "https://pixeldrain.net/api/file/r1yDgyHr?download",
+            "link": "tt33088937",
+            "year": "2025",
+            "duration": "105 min",
+            "rating": "7.0",
+            "genre": "Comedy, Family",
+            "description": "A lighthearted family comedy about a young boy's misadventures and the hilarious situations that arise as he tries to navigate through life with his quirky family.",
+            "type": "movie",
+            "quality": "bluRay"
+        },
     
     {
     title:'Live [2023] WEB-DL [Hindi + Malayalam] | Full Movie',

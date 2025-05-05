@@ -2412,22 +2412,118 @@ const movies = [
         "quality": "bluRay",
         "cast": "Benedict Cumberbatch, Chiwetel Ejiofor, Rachel McAdams, Mads Mikkelsen"
     },
-    { title: 'Captain America: Civil War (2016) [Hindi-English] | Full Movie',im:'rAGiXaUfPzY7CDEyNKUofk3Kw2e', dl: 'https://pixeldrain.net/api/file/brH7uRP6?download', link: 'tt3498820' },
-    
-    { title: 'K.G.F: Chapter 2 [2022] WEB-DL [Hindi] | Full Movie', im:'4wobXQ8VLfCHvgbevNMy8Rxvo41', dl: 'https://pixeldrain.net/api/file/jjhr9BUC?download' , link: 'tt10698680' },
-    
-    { title: 'K.G.F: Chapter 1 [2018] WEB-DL [Hindi] [HEVC] | Full Movie',im:'ltHlJwvxKv7d0ooCiKSAvfwV9tX', dl: 'https://pixeldrain.net/api/file/QMeTp816?download' , link: 'tt7838252' },
-    
-    { title: 'V (2020) WEB-DL [Hindi (ORG DD5.1) & Telugu DD5.1] [HEVC] HD | Full Movie',im:'iBVcwOVZNGNCNlOLFmcYJW83tTu', dl: 'https://pixeldrain.net/api/file/k41xtym6?download' , link: 'tt11385128' },
-    
-    { title: 'Bahubali 2: The Conclusion (2017) BluRay [Hindi DD5.1] [x264/10Bit-HEVC] | Full Movie',im:'xQ22LOWSkClP3maYhR9nZH0dnWM', dl: 'https://pixeldrain.net/api/file/8NYKf3fH?download' , link: 'tt4849438' },
-    
-    { title: 'Bahubali: The Beginning [2015] BluRay [Hindi] [HEVC] | Full Movie',im:'9BAjt8nSSms62uOVYn1t3C3dVto', dl: 'https://pixeldrain.net/api/file/ETa7hVcM?download' , link: 'tt2631186' },
-    
-    { title: 'C.I.D (Season 2) WEB-DL [Hindi DD2.0] [HEVC] | [SonyLiv Series] [Episode-33]',im:'60ZxbAMk6QO8jMD0p8WrGHVCbyK', dl: 'https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/CID.S02E33.720p.HEVC.Hindi.WEB.DL.2.0.AAC.x265.HDHub4u.Ms.mkv' , link: 'tt0401916' },
-    
-    { title: 'Emmanuelle [2024] BluRay [Hindi + English] [HEVC] | Full Movie',im:'s9gmKus9YPTDzdMKZQJYPh0VoGk', dl: 'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Emmanuelle.2024.720p.10Bit.BluRay.Hindi.2.0-English.HEVC.x265-HDHub4u.Ms.mkv' , link: 'tt20247888' },
-    
+        {
+        "title": "Captain America: Civil War (2016) [Hindi-English] | Full Movie",
+        "im": "rAGiXaUfPzY7CDEyNKUofk3Kw2e",
+        "dl": "https://pixeldrain.net/api/file/brH7uRP6?download",
+        "link": "tt3498820",
+        "year": "2016",
+        "duration": "147 min",
+        "rating": "7.8",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "Captain America and Iron Man find themselves on opposite sides of a conflict when political interference puts them at odds over the registration of super-powered individuals.",
+        "type": "movie",
+        "quality": "bluRay",
+        "cast": "Chris Evans, Robert Downey Jr., Scarlett Johansson, Sebastian Stan"
+    },
+    {
+        "title": "K.G.F: Chapter 2 [2022] WEB-DL [Hindi] | Full Movie",
+        "im": "4wobXQ8VLfCHvgbevNMy8Rxvo41",
+        "dl": "https://pixeldrain.net/api/file/jjhr9BUC?download",
+        "link": "tt10698680",
+        "year": "2022",
+        "duration": "168 min",
+        "rating": "8.4",
+        "genre": "Action, Drama, Thriller",
+        "description": "Rocky is on a mission to overthrow the regime of ruthless gold mafia leader Adheera, but faces a deadly new enemy that will challenge his reign in Kolar Gold Fields.",
+        "type": "movie",
+        "quality": "webdl",
+        "cast": "Yash, Sanjay Dutt, Raveena Tondon, Prakash Raj"
+    },
+    {
+        "title": "K.G.F: Chapter 1 [2018] WEB-DL [Hindi] [HEVC] | Full Movie",
+        "im": "ltHlJwvxKv7d0ooCiKSAvfwV9tX",
+        "dl": "https://pixeldrain.net/api/file/QMeTp816?download",
+        "link": "tt7838252",
+        "year": "2018",
+        "duration": "155 min",
+        "rating": "8.2",
+        "genre": "Action, Drama, Thriller",
+        "description": "A young man rises through the ranks of the Kolar Gold Fields, facing dangerous adversaries and making ruthless enemies in his fight for power.",
+        "type": "movie",
+        "quality": "webdl",
+        "cast": "Yash, Srinidhi Shetty, Anant Nag, Achyuth Kumar"
+    },
+    {
+        "title": "V (2020) WEB-DL [Hindi (ORG DD5.1) & Telugu DD5.1] [HEVC] HD | Full Movie",
+        "im": "iBVcwOVZNGNCNlOLFmcYJW83tTu",
+        "dl": "https://pixeldrain.net/api/file/k41xtym6?download",
+        "link": "tt11385128",
+        "year": "2020",
+        "duration": "143 min",
+        "rating": "6.9",
+        "genre": "Action, Thriller, Crime",
+        "description": "An intense cat-and-mouse chase between a cop and a vigilante serial killer who is targeting corrupt individuals.",
+        "type": "movie",
+        "quality": "webdl",
+        "cast": "Nani, Sudheer Babu, Aditi Rao Hydari, Jagapathi Babu"
+    },
+    {
+        "title": "Bahubali 2: The Conclusion (2017) BluRay [Hindi DD5.1] [x264/10Bit-HEVC] | Full Movie",
+        "im": "xQ22LOWSkClP3maYhR9nZH0dnWM",
+        "dl": "https://pixeldrain.net/api/file/8NYKf3fH?download",
+        "link": "tt4849438",
+        "year": "2017",
+        "duration": "171 min",
+        "rating": "8.2",
+        "genre": "Action, Adventure, Drama",
+        "description": "In the second part of this epic saga, Bahubali seeks revenge and uncovers the truth about his father's death and the kingdom's future.",
+        "type": "movie",
+        "quality": "bluRay",
+        "cast": "Prabhas, Rana Daggubati, Anushka Shetty, Tamannaah Bhatia"
+    },
+    {
+        "title": "Bahubali: The Beginning [2015] BluRay [Hindi] [HEVC] | Full Movie",
+        "im": "9BAjt8nSSms62uOVYn1t3C3dVto",
+        "dl": "https://pixeldrain.net/api/file/ETa7hVcM?download",
+        "link": "tt2631186",
+        "year": "2015",
+        "duration": "159 min",
+        "rating": "8.0",
+        "genre": "Action, Adventure, Drama",
+        "description": "The first part of the saga chronicles the rise of Bahubali, a legendary warrior who fights to reclaim his rightful throne.",
+        "type": "movie",
+        "quality": "bluRay",
+        "cast": "Prabhas, Rana Daggubati, Anushka Shetty, Tamannaah Bhatia"
+    },
+    {
+        "title": "C.I.D (Season 2) WEB-DL [Hindi DD2.0] [HEVC] | [SonyLiv Series] [Episode-33]",
+        "im": "60ZxbAMk6QO8jMD0p8WrGHVCbyK",
+        "dl": "https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/CID.S02E33.720p.HEVC.Hindi.WEB.DL.2.0.AAC.x265.HDHub4u.Ms.mkv",
+        "link": "tt0401916",
+        "year": "2020",
+        "duration": "50 min",
+        "rating": "8.0",
+        "genre": "Crime, Drama, Mystery",
+        "description": "The C.I.D team solves criminal cases and fights for justice in each gripping episode, highlighting their skills and challenges.",
+        "type": "series",
+        "quality": "webdl",
+        "cast": "Shivaji Satam, Aditya Srivastava, Daya, Ansha Sayed"
+    },
+    {
+        "title": "Emmanuelle [2024] BluRay [Hindi + English] [HEVC] | Full Movie",
+        "im": "s9gmKus9YPTDzdMKZQJYPh0VoGk",
+        "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Emmanuelle.2024.720p.10Bit.BluRay.Hindi.2.0-English.HEVC.x265-HDHub4u.Ms.mkv",
+        "link": "tt20247888",
+        "year": "2024",
+        "duration": "110 min",
+        "rating": "6.5",
+        "genre": "Drama, Romance",
+        "description": "A passionate romance unfolds as the protagonist embarks on a journey of self-discovery and desire, leading to emotional revelations.",
+        "type": "movie",
+        "quality": "bluRay",
+        "cast": "Sylvia Kristel, Alain Cuny, Dorothée Jemma"
+    },
     { title: 'Court - State Vs. A Nobody (2025) WEB-DL [Hindi (DD5.1) & Telugu] [HEVC] | Full Movie',im:'4pEX67LJd7ZIqYWtksBtOgQEGcQ', dl: 'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Court.State.vs.A.Nobody.2025.720p.HEVC.WEB-DL.Hindi-Telugu.ESub.x265-HDHub4u.Ms.mkv' , link: 'tt33307144' },
     
     { title: 'Sweetheart! (2025) WEB-DL [Hindi (DD5.1) & Tamil] [HEVC] | Full Movie',im:'sqjWneziflHuKeupBmNJStgTcJQ', dl: 'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Sweetheart.2025.720p.HEVC.WEB-DL.Hindi.5.1-Tamil.ESub.x265-HDHub4u.Ms.mkv' , link: 'tt33051459' },

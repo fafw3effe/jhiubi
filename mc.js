@@ -1184,105 +1184,188 @@ const movies = [
             "type": "series",
             "quality": "webdl hevc"
         },
-    
-    {
-    title:'Kesari Chapter 2: The Untold Story of Jallianwala Bagh [2025] HQ-HDTC [Hindi-LiNE] [HEVC] | Full Movie',
-    im:'jgGSqe1YgSot6Y1zDVTVkbsZ46z',
-    dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Kesari-Chapter-2.2025.720p.HEVC.HDTC.Hindi-Line.HC-ESub.x265-HDHub4u.Ms.mkv',
-    link: 'tt3562110'
-    },
-    
-    {
-    title:'Kesari [2019] WEB-DL [Hindi] [HEVC] | Full Movie',
-    im:'ctjT1pMNAGD9ou0kuhz806tf7kX',
-    dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Kesari.2019.720p.10Bit.BluRay.Hindi.2.0.HEVC.x265-HDHub4u.Ms.mkv',
-    link: 'tt6264938'
-    },
-    
-    
-    {
-    title:'Sikandar [2025] WEB-DL [Hindi] [HEVC] | Full Movie',
-    im:'41s42CRXafa3OuRGvCtfYPEBmse',
-    dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Sikandar.2025.720p.HEVC.Hindi.DS4K.WEB-DL.HC-ESub.x265-HDHub4u.Ms.mkv',
-    link: 'tt31712434'
-    },
-    
-    {
-    title:'Logout [2025] WEB-DL [Hindi] [HEVC] | Full Movie',
-    im:'2Z8sd660MRnSKN60EpKYpLQvdLV',
-    dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Logout.2025.720p.HEVC.Hindi.WEB-DL.5.1.ESub.x265-HDHub4u.Ms.mkv',
-    link: 'tt27721892'
-    },
-    
-    {
-    title:'iHostage [2025] WEB-DL [Hindi + English] | Full Movie',
-    im:'h87bgIhs4keL005Ch5aeKhnaAIL',
-    dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/iHostage.2025.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv',
-    link: 'tt31181421'
-    },
-    
-    {
-    title:'The Lion King [1994] Blu-Ray [Hindi + English] | Full Movie',
-    im:'sKCr78MXSLixwmZ8DyJLrpMsd15',
-    dl:'https://pub-70279e580f3742208cef0a4a382e6318.r2.dev/The.Lion.King.1994.720p.HindiEnglish.[Vegamovies.NL].mkv',
-    link: 'tt0110357'
-    },
-    
-    {
-    title:'The Twilight Saga: Breaking Dawn - Part 2 [2012] Blu-Ray [Hindi + English] | Full Movie',
-    im:'7IGdPaKujv0BjI0Zd0m0a4CzEjJ',
-    dl:'https://pub-56459ca234e34b598d0440d1c764d942.r2.dev/Twilight.Breaking.Dawn.Part2.2012.720p.Dual.Audio.Hin-Eng.[Vegamovies.NL].mkv',
-    link: 'tt1673434'
-    },
-    
-    {
-    title:'Shrek 2 [2004] Blu-Ray [Hindi + English] | Full Movie',
-    im:'2yYP0PQjG8zVqturh1BAqu2Tixl',
-    dl:'https://pub-be1ceb9f72804dad809dfe89e9f02f4d.r2.dev/Shrek.2.2004.720p.Dual.Audio.Hin-Eng.Vegamovies.to.mkv',
-    link: 'tt0298148'
-    },
-    
-    {
-    title:'Mission: Impossible - Fallout [2018] Blu-Ray [Hindi + English] | Full Movie',
-    im:'AkJQpZp9WoNdj7pLYSj1L0RcMMN',
-    dl:'https://pixeldra.in/api/file/CyKpoFxS/info/zip/MI.6.Fallout.(2018).720p.Bluray.(Hin-Eng).Vegamovie.NL.mkv',
-    link: 'tt4912910'
-    },
-    
-    {
-    title:'Pirates of the Caribbean: Dead Mans Chest [2006] Blu-Ray [Hindi + English] | Full Movie',
-    im:'lAhcKRt0ggTFkeFL95jrGQYaRXs',
-    dl:'https://pub-daa17c72a73245618ba0f7e56be7e9d6.r2.dev/Pirates.of.the.Caribbean.2006.Dead.Man.Chest.720p.Hindi.English.Vegamovies.NL.mkv',
-    link: 'tt0383574'
-    },
-    
-    {
-    title:'Transformers 3: Dark of the Moon [2011] Blu-Ray [Hindi + English] | Full Movie',
-    im:'28YlCLrFhONteYSs9hKjD1Km0Cj',
-    dl:'https://pub-551c8cc624b84e299e089878f55ec2c6.r2.dev/Transformers%20Dark%20of%20the%20Moon%202011%20Dual%20Audio%20Hindi-English%20720p%20BluRay%201.3GB%20ESub%20[Vegamovies.NL].mkv',
-    link: 'tt1399103'
-    },
-    
-    {
-    title:'Despicable Me 4 [2024] WEB-DL [Hindi + English] | Full Movie',
-    im:'wWba3TaojhK7NdycRhoQpsG0FaH',
-    dl:'https://pub-8a88776bc0824abca371fead62c3fbd2.r2.dev/Despicable.Me.4.2024.720p.x264.AMZN.Hindi.English.Esubs.MoviesMod.band.mkv',
-    link: 'tt7510222'
-    },
-    
-    {
-    title:'The Hobbit: The Battle of the Five Armies [2014] Blu-Ray [Hindi + English] | Full Movie',
-    im:'xT98tLqatZPQApyRmlPL12LtiWp',
-    dl:'https://pub-e316b66701dc4d2ebe99358c64f6be6a.r2.dev/The.Hobbit.3.2014.720p.Dual.Audio.Hin.Eng.Vegamovies.NL.mkv',
-    link: 'tt2310332'
-    },
-    
-    {
-    title:'The Lord of the Rings: The Return of the King [2003] EXTENDED Blu-Ray [Hindi + English] [HEVC] | Full Movie',
-    im:'rCzpDGLbOoPwLjy3OAm5NUPOTrC',
-    dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/The.Lord.of.the.Rings.The.Return.of.the.King.2003.Extended.Cut.720p.10Bit.BluRay.Hindi.2.0-English.HEVC.x265-HDHub4u.Tv.mkv',
-    link: 'tt0167260'
-    },
+        {
+            "title": "Kesari Chapter 2: The Untold Story of Jallianwala Bagh [2025] HQ-HDTC [Hindi-LiNE] [HEVC] | Full Movie",
+            "im": "jgGSqe1YgSot6Y1zDVTVkbsZ46z",
+            "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Kesari-Chapter-2.2025.720p.HEVC.HDTC.Hindi-Line.HC-ESub.x265-HDHub4u.Ms.mkv",
+            "link": "tt3562110",
+            "year": "2025",
+            "duration": "125 min",
+            "rating": "7.7",
+            "genre": "History, Drama, War",
+            "description": "The untold story of the Jallianwala Bagh massacre, and the subsequent impact on India's fight for independence. The untold sacrifices of the unsung heroes of this event unfold.",
+            "type": "movie",
+            "quality": "hq-hdtc hevc"
+        },
+        {
+            "title": "Kesari [2019] WEB-DL [Hindi] [HEVC] | Full Movie",
+            "im": "ctjT1pMNAGD9ou0kuhz806tf7kX",
+            "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Kesari.2019.720p.10Bit.BluRay.Hindi.2.0.HEVC.x265-HDHub4u.Ms.mkv",
+            "link": "tt6264938",
+            "year": "2019",
+            "duration": "140 min",
+            "rating": "7.7",
+            "genre": "Action, Drama, History",
+            "description": "The story of Havildar Ishar Singh who leads 21 Sikh soldiers against 10,000 Afghan invaders in the Battle of Saragarhi. A tale of bravery, honor, and patriotism.",
+            "type": "movie",
+            "quality": "webdl hevc"
+        },
+        {
+            "title": "Sikandar [2025] WEB-DL [Hindi] [HEVC] | Full Movie",
+            "im": "41s42CRXafa3OuRGvCtfYPEBmse",
+            "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Sikandar.2025.720p.HEVC.Hindi.DS4K.WEB-DL.HC-ESub.x265-HDHub4u.Ms.mkv",
+            "link": "tt31712434",
+            "year": "2025",
+            "duration": "135 min",
+            "rating": "6.8",
+            "genre": "Action, Drama",
+            "description": "A gripping action-packed drama where Sikandar, a man torn between loyalty and revenge, embarks on a dangerous journey to reclaim his honor and face his inner demons.",
+            "type": "movie",
+            "quality": "webdl hevc"
+        },
+        {
+            "title": "Logout [2025] WEB-DL [Hindi] [HEVC] | Full Movie",
+            "im": "2Z8sd660MRnSKN60EpKYpLQvdLV",
+            "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Logout.2025.720p.HEVC.Hindi.WEB-DL.5.1.ESub.x265-HDHub4u.Ms.mkv",
+            "link": "tt27721892",
+            "year": "2025",
+            "duration": "110 min",
+            "rating": "7.4",
+            "genre": "Thriller, Drama",
+            "description": "A suspense thriller that follows a group of friends trapped in a virtual world after a cyber-attack. They must work together to escape before time runs out.",
+            "type": "movie",
+            "quality": "webdl hevc"
+        },
+        {
+            "title": "iHostage [2025] WEB-DL [Hindi + English] | Full Movie",
+            "im": "h87bgIhs4keL005Ch5aeKhnaAIL",
+            "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/iHostage.2025.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "link": "tt31181421",
+            "year": "2025",
+            "duration": "120 min",
+            "rating": "7.5",
+            "genre": "Action, Crime, Thriller",
+            "description": "A high-stakes thriller about a tech expert who gets kidnapped and forced into hacking a high-security system, while trying to outsmart his captors and escape.",
+            "type": "movie",
+            "quality": "webdl"
+        },
+        {
+            "title": "The Lion King [1994] Blu-Ray [Hindi + English] | Full Movie",
+            "im": "sKCr78MXSLixwmZ8DyJLrpMsd15",
+            "dl": "https://pub-70279e580f3742208cef0a4a382e6318.r2.dev/The.Lion.King.1994.720p.HindiEnglish.[Vegamovies.NL].mkv",
+            "link": "tt0110357",
+            "year": "1994",
+            "duration": "88 min",
+            "rating": "8.5",
+            "genre": "Animation, Adventure, Drama",
+            "description": "The animated classic about Simba, a young lion prince who overcomes adversity to take his rightful place as king of the Pride Lands, filled with lessons on responsibility and courage.",
+            "type": "movie",
+            "quality": "bluRay"
+        },
+        {
+            "title": "The Twilight Saga: Breaking Dawn - Part 2 [2012] Blu-Ray [Hindi + English] | Full Movie",
+            "im": "7IGdPaKujv0BjI0Zd0m0a4CzEjJ",
+            "dl": "https://pub-56459ca234e34b598d0440d1c764d942.r2.dev/Twilight.Breaking.Dawn.Part2.2012.720p.Dual.Audio.Hin-Eng.[Vegamovies.NL].mkv",
+            "link": "tt1673434",
+            "year": "2012",
+            "duration": "115 min",
+            "rating": "5.5",
+            "genre": "Adventure, Drama, Fantasy",
+            "description": "The final chapter in the Twilight saga, where Bella, Edward, and Jacob face the aftermath of Bella’s transformation and prepare for the ultimate confrontation with the Volturi.",
+            "type": "movie",
+            "quality": "bluRay"
+        },
+        {
+            "title": "Shrek 2 [2004] Blu-Ray [Hindi + English] | Full Movie",
+            "im": "2yYP0PQjG8zVqturh1BAqu2Tixl",
+            "dl": "https://pub-be1ceb9f72804dad809dfe89e9f02f4d.r2.dev/Shrek.2.2004.720p.Dual.Audio.Hin-Eng.Vegamovies.to.mkv",
+            "link": "tt0298148",
+            "year": "2004",
+            "duration": "93 min",
+            "rating": "7.2",
+            "genre": "Animation, Adventure, Comedy",
+            "description": "Shrek and Fiona go on an adventurous journey to meet Fiona’s parents, leading to comical and heartfelt moments in this animated sequel filled with laughter and lessons about family and acceptance.",
+            "type": "movie",
+            "quality": "bluRay"
+        },
+        {
+            "title": "Mission: Impossible - Fallout [2018] Blu-Ray [Hindi + English] | Full Movie",
+            "im": "AkJQpZp9WoNdj7pLYSj1L0RcMMN",
+            "dl": "https://pixeldra.in/api/file/CyKpoFxS/info/zip/MI.6.Fallout.(2018).720p.Bluray.(Hin-Eng).Vegamovie.NL.mkv",
+            "link": "tt4912910",
+            "year": "2018",
+            "duration": "147 min",
+            "rating": "7.7",
+            "genre": "Action, Adventure, Thriller",
+            "description": "Ethan Hunt faces the most dangerous mission of his career when he must retrieve stolen plutonium and prevent a catastrophic disaster, while confronting his own past.",
+            "type": "movie",
+            "quality": "bluRay"
+        },
+        {
+            "title": "Pirates of the Caribbean: Dead Man's Chest [2006] Blu-Ray [Hindi + English] | Full Movie",
+            "im": "lAhcKRt0ggTFkeFL95jrGQYaRXs",
+            "dl": "https://pub-daa17c72a73245618ba0f7e56be7e9d6.r2.dev/Pirates.of.the.Caribbean.2006.Dead.Man.Chest.720p.Hindi.English.Vegamovies.NL.mkv",
+            "link": "tt0383574",
+            "year": "2006",
+            "duration": "151 min",
+            "rating": "7.3",
+            "genre": "Action, Adventure, Fantasy",
+            "description": "Captain Jack Sparrow returns as he embarks on a quest to find the Dead Man's Chest, a mission that pits him against new enemies and tests his wits and courage.",
+            "type": "movie",
+            "quality": "bluRay"
+        },
+        {
+            "title": "Transformers 3: Dark of the Moon [2011] Blu-Ray [Hindi + English] | Full Movie",
+            "im": "28YlCLrFhONteYSs9hKjD1Km0Cj",
+            "dl": "https://pub-551c8cc624b84e299e089878f55ec2c6.r2.dev/Transformers%20Dark%20of%20the%20Moon%202011%20Dual%20Audio%20Hindi-English%20720p%20BluRay%201.3GB%20ESub%20[Vegamovies.NL].mkv",
+            "link": "tt1399103",
+            "year": "2011",
+            "duration": "154 min",
+            "rating": "6.2",
+            "genre": "Action, Adventure, Sci-Fi",
+            "description": "The Autobots discover a Cybertronian spacecraft on Earth's moon and race against the Decepticons to reach it and learn its secrets, leading to a battle for Earth's survival.",
+            "type": "movie",
+            "quality": "bluRay"
+        },
+        {
+            "title": "Despicable Me 4 [2024] WEB-DL [Hindi + English] | Full Movie",
+            "im": "wWba3TaojhK7NdycRhoQpsG0FaH",
+            "dl": "https://pub-8a88776bc0824abca371fead62c3fbd2.r2.dev/Despicable.Me.4.2024.720p.x264.AMZN.Hindi.English.Esubs.MoviesMod.band.mkv",
+            "link": "tt7510222",
+            "year": "2024",
+            "duration": "105 min",
+            "rating": "7.1",
+            "genre": "Animation, Adventure, Comedy",
+            "description": "Gru and his mischievous Minions are back in this hilarious adventure where they face new challenges, embark on wild escapades, and learn valuable lessons about family and friendship.",
+            "type": "movie",
+            "quality": "webdl"
+        },
+        {
+            "title": "The Hobbit: The Battle of the Five Armies [2014] Blu-Ray [Hindi + English] | Full Movie",
+            "im": "xT98tLqatZPQApyRmlPL12LtiWp",
+            "dl": "https://pub-e316b66701dc4d2ebe99358c64f6be6a.r2.dev/The.Hobbit.3.2014.720p.Dual.Audio.Hin.Eng.Vegamovies.NL.mkv",
+            "link": "tt2310332",
+            "year": "2014",
+            "duration": "144 min",
+            "rating": "7.4",
+            "genre": "Action, Adventure, Fantasy",
+            "description": "The final battle for Middle-Earth begins as Thorin Oakenshield and his companions face the massive armies of orcs and goblins, while Bilbo Baggins must overcome his fears to protect his friends.",
+            "type": "movie",
+            "quality": "bluRay"
+        },
+        {
+            "title": "The Lord of the Rings: The Return of the King [2003] EXTENDED Blu-Ray [Hindi + English] [HEVC] | Full Movie",
+            "im": "rCzpDGLbOoPwLjy3OAm5NUPOTrC",
+            "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/The.Lord.of.the.Rings.The.Return.of.the.King.2003.Extended.Cut.720p.10Bit.BluRay.Hindi.2.0-English.HEVC.x265-HDHub4u.Tv.mkv",
+            "link": "tt0167260",
+            "year": "2003",
+            "duration": "263 min",
+            "rating": "8.9",
+            "genre": "Action, Adventure, Drama",
+            "description": "The epic conclusion to the Lord of the Rings trilogy, where Frodo and Sam continue their perilous journey to destroy the One Ring, while Aragorn leads the fight to reclaim Middle-Earth.",
+            "type": "movie",
+            "quality": "bluRay hevc"
+        },
     
     {
     title:'Jurassic Park [1993] WEB-DL [Hindi + English] [HEVC] | Full Movie',

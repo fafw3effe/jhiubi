@@ -21,8 +21,34 @@ const movies = [
     */
 
     
-
-
+{
+    "title": "Life of Pi [2012] WEB-DL [Hindi + English] | Full Movie",
+    "im": "iLgRu4hhSr6V1uManX6ukDriiSc",
+    "bgi": "7H01zprUY67n7bdcFg6VMvrkNjs",
+    "dl": "",
+    "year": "2012",
+    "duration": "2h 7m",
+    "rating": "7.4",
+    "genre": "Adventure,Drama,",
+    "description": "The story of an Indian boy named Pi, a zookeeper's son who finds himself in the company of a hyena, zebra, orangutan, and a Bengal tiger after a shipwreck sets them adrift in the Pacific Ocean.",
+    "type": "movie",
+    "quality": "webdl",
+    "cast": "Suraj Sharma,Irrfan Khan,Ayush Tandon,Gautam Belur,Adil Hussain"
+},
+{
+    "title": "Dry Day [2023] WEB-DL [Hindi + English] | Full Movie",
+    "im": "lse7qPwWpYi0bdjmjrXfam7KpXg",
+    "bgi": "oweut3EYuRba00Xv0o0G6JUrLua",
+    "dl": "https://pixeldrain.net/api/file/GvaJqjHk?download",
+    "year": "2023",
+    "duration": "2h 8m",
+    "rating": "7.5",
+    "genre": "Comedy,Drama,",
+    "description": "When his wife makes a vow to abort their baby due to his alcoholism, Gannu, the biggest loafer of Jagodhar sets out on a protest to ban alcohol in his town all the while grappling with his own drinking habits!",
+    "type": "movie",
+    "quality": "webdl",
+    "cast": "Jitendra Kumar,Shriya Pilgaonkar,Annu Kapoor,Shrikant Verma,Jagdish Rajpurohit"
+},
 {
     "title": "Driver Jamuna [2022] UNCUT WEB-DL [Hindi + English] | Full Movie",
     "im": "cev24xOOl5BFPgKOZCCREkTVW8w",
@@ -38,7 +64,7 @@ const movies = [
     "cast": "Aishwarya Rajesh,Aadukalam Naren,Thangapandiyan,Sriranjini,Kavitha Bharathi"
 },
 {
-    "title": "The Divorce Insurance [Season 1] [Episode 11] WEB-DL [Hindi + English] | Full Movie",
+    "title": "The Divorce Insurance [Season 1] [Episode 11] WEB-DL [Hindi + English]",
     "im": "6HAbRWYkX3bouEeHA4bjsUxznKC",
     "bgi": "tSeyn9VqrAKuMytgDCXY9iMGXa8",
     "dl": "https://pixeldrain.net/api/file/oNiH6fZ4?download",
@@ -52,7 +78,7 @@ const movies = [
     "cast": "Lee Dong-wook,Lee Kwang-soo,Lee Ju-bin,Lee Da-hee,Kim Won-hae"
 },
 {
-    "title": "Suits LA [Season 1] [Episode 11] WEB-DL [Hindi + English] | Full Movie",
+    "title": "Suits LA [Season 1] [Episode 11] WEB-DL [Hindi + English]",
     "im": "3hYiNPkcLoI3QWDokOHQJIfn55O",
     "bgi": "ljAdFwDLQLlOBIwheKmAdcUS0HM",
     "dl": "https://pixeldrain.net/api/file/WQniLexs?download",
@@ -79,7 +105,6 @@ const movies = [
     "quality": "webdl",
     "cast": "Aml Ameen,Rhea Seehorn,Roxanne McKee,Tanya van Graan,Jessica Sutton"
 },
-
 {
     "title": "Virupaksha [2023] UNCUT WEB-DL [Hindi + Telugu] | Full Movie",
     "im": "fqMn4h9ctOyumII2nXDnm5mRTxQ",

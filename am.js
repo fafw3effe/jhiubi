@@ -7,7 +7,7 @@ const movies = [
             "title": " [2025] WEB-DL [Hindi + English] | Full Movie",
             "im": "",
             "bgi": "",
-            "dl": "https://pixeldrain.net/api/file/?download",
+            "dl": "",
             "year": "",
             "duration": " min",
             "rating": "",

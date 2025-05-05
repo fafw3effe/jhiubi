@@ -1651,28 +1651,48 @@ const movies = [
     dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Loveyapa.2025.720p.HEVC.Hindi.DS4K.WEB-DL.5.1.ESub.x265-HDHub4u.Ms.mkv',
     link: 'tt25504468'
     },
-    
     {
-    title:'3 Idiots [2009] Blu-Ray [Hindi] | Full Movie',
-    im:'66A9MqXOyVFCssoloscw79z8Tew',
-    dl:'https://pub-2aac36ca20d3490fa7cd93f6963776f2.r2.dev/3%20Idiots%202009%20BluRay%20720p%20Hindi%20AAC%205.1%20x264%20ESub%20-%20Vegamovies.NL.mkv',
-    link: 'tt1187043'
+        "title": "3 Idiots [2009] Blu-Ray [Hindi] | Full Movie",
+        "im": "66A9MqXOyVFCssoloscw79z8Tew",
+        "dl": "https://pub-2aac36ca20d3490fa7cd93f6963776f2.r2.dev/3%20Idiots%202009%20BluRay%20720p%20Hindi%20AAC%205.1%20x264%20ESub%20-%20Vegamovies.NL.mkv",
+        "link": "tt1187043",
+        "year": "2009",
+        "duration": "170 min",
+        "rating": "8.4",
+        "genre": "Comedy, Drama",
+        "description": "The story of three friends who overcome obstacles and break societal norms while navigating their way through college life.",
+        "type": "movie",
+        "quality": "bluRay",
+        "cast": "Aamir Khan, R. Madhavan, Sharman Joshi"
     },
-    
     {
-    title:'PK [2014] Blu-Ray [Hindi] | Full Movie',
-    im:'z2x2Y4tncefsIU7h82gmUM5vnBJ',
-    dl:'https://pub-aeb628fbc81d4859bbcbf808ac040ff4.r2.dev/PK%202014%20BluRay%20720p%20Hindi%20AAC%205.1%20x264%20ESub%20-%20Vegamovies.NL.mkv',
-    link: 'tt2338151'
+        "title": "PK [2014] Blu-Ray [Hindi] | Full Movie",
+        "im": "z2x2Y4tncefsIU7h82gmUM5vnBJ",
+        "dl": "https://pub-aeb628fbc81d4859bbcbf808ac040ff4.r2.dev/PK%202014%20BluRay%20720p%20Hindi%20AAC%205.1%20x264%20ESub%20-%20Vegamovies.NL.mkv",
+        "link": "tt2338151",
+        "year": "2014",
+        "duration": "153 min",
+        "rating": "8.1",
+        "genre": "Comedy, Drama, Sci-Fi",
+        "description": "An alien named PK comes to Earth and experiences human culture, leading to a satirical journey into religious beliefs and societal norms.",
+        "type": "movie",
+        "quality": "bluRay",
+        "cast": "Aamir Khan, Anushka Sharma, Sushant Singh Rajput"
     },
-    
     {
-    title:'FCUK: Father Chitti Umaa Kaarthik [2021] WEB-DL [Hindi + Telugu] [HEVC] | Full Movie',
-    im:'bFKvPXGMf8PxB8Bl3mvY0fPfqFx',
-    dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/FCUK.2021.720p.HEVC.WEB.DL.Hindi.2.0.Telugu.x265.Vegamovies.is.mkv',
-    link: 'tt13912646'
+        "title": "FCUK: Father Chitti Umaa Kaarthik [2021] WEB-DL [Hindi + Telugu] [HEVC] | Full Movie",
+        "im": "bFKvPXGMf8PxB8Bl3mvY0fPfqFx",
+        "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/FCUK.2021.720p.HEVC.WEB.DL.Hindi.2.0.Telugu.x265.Vegamovies.is.mkv",
+        "link": "tt13912646",
+        "year": "2021",
+        "duration": "120 min",
+        "rating": "6.2",
+        "genre": "Comedy, Drama",
+        "description": "A father and son’s contrasting life choices lead them on a path of self-discovery, bringing laughter and emotions into play.",
+        "type": "movie",
+        "quality": "webdl",
+        "cast": "Rajiv Thakur, Ashwini Kalsekar"
     },
-    
     {
     title:'Devara: Part 1 [2024] WEB-DL [Hindi] [HEVC] | Full Movie',
     im:'hdpYUidbB83AfemP369W7guOIlr',

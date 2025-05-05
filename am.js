@@ -1722,33 +1722,61 @@ const movies = [
     },
     
     {
-    title:'No. 1 Businessman [2014] Blu-Ray [Hindi] [UNCUT] | Full Movie',
-    im:'hKdshCzKkT2WNEMQCdxUNtK2M4H',
-    dl:'https://pixeldrain.net/api/file/r7dAi33d?download',
-    link: 'tt2071613'
+        "title": "No. 1 Businessman [2014] Blu-Ray [Hindi] [UNCUT] | Full Movie",
+        "im": "hKdshCzKkT2WNEMQCdxUNtK2M4H",
+        "dl": "https://pixeldrain.net/api/file/r7dAi33d?download",
+        "link": "tt2071613",
+        "year": "2014",
+        "duration": "150 min",
+        "rating": "6.7",
+        "genre": "Action, Drama",
+        "description": "A businessman who is a self-made millionaire faces the challenges and trials of building a legacy while juggling with personal and professional relationships.",
+        "cast": "Mahesh Babu, Kajal Aggarwal, Nassar",
+        "type": "movie",
+        "quality": "bluRay"
     },
-    
     {
-    title:'1: Nenokkadine [2014] HD-RIP [Hindi] | Full Movie',
-    im:'3sNBTnCjPQpbgkPvRDfDQe4ybwo',
-    dl:'https://pixeldrain.net/api/file/pQzQv5Sz?download',
-    link: 'tt2375559'
+        "title": "1: Nenokkadine [2014] HD-RIP [Hindi] | Full Movie",
+        "im": "3sNBTnCjPQpbgkPvRDfDQe4ybwo",
+        "dl": "https://pixeldrain.net/api/file/pQzQv5Sz?download",
+        "link": "tt2375559",
+        "year": "2014",
+        "duration": "160 min",
+        "rating": "7.6",
+        "genre": "Action, Thriller",
+        "description": "A rock star who suffers from amnesia embarks on a quest to uncover the mystery behind his past and the people who try to kill him.",
+        "cast": "Mahesh Babu, Kriti Sanon, Nassar",
+        "type": "movie",
+        "quality": "hdRip"
     },
-    
     {
-    title:'Maharshi [2019] WEB-DL [Hindi + Telugu] [HEVC] | Full Movie',
-    im:'maoChdAwkJLvOy4yyGgYgcCJePi',
-    dl:'https://pub-90c967a2e50940b3bd2ce7b78c38a8ee.r2.dev/Maharshi.2019.UNCUT.720p.HEVC.Web-Dl.HIN.TEL.x265.AAC.ESubs.Vegamovies.to.mkv',
-    link: 'tt8333978'
+        "title": "Maharshi [2019] WEB-DL [Hindi + Telugu] [HEVC] | Full Movie",
+        "im": "maoChdAwkJLvOy4yyGgYgcCJePi",
+        "dl": "https://pub-90c967a2e50940b3bd2ce7b78c38a8ee.r2.dev/Maharshi.2019.UNCUT.720p.HEVC.Web-Dl.HIN.TEL.x265.AAC.ESubs.Vegamovies.to.mkv",
+        "link": "tt8333978",
+        "year": "2019",
+        "duration": "170 min",
+        "rating": "7.7",
+        "genre": "Drama, Family",
+        "description": "A successful businessman returns to his village to fulfill a promise and helps the people there by fighting for their rights.",
+        "cast": "Mahesh Babu, Pooja Hegde, Allari Naresh",
+        "type": "movie",
+        "quality": "webdl"
     },
-    
     {
-    title:'Guntur Kaaram [2024] WEB-DL [Hindi + Telugu] [HEVC] | Full Movie',
-    im:'4WvxzCSHmjbxqc3wethZoBZ5hmA',
-    dl:'https://pub-1879fb6b72894c989342dcdcb43b6f5d.r2.dev/Guntur.Kaaram.2024.Hindi.+.Telugu.Dual.Audio.UnCut.Movie.WEB.DL.720p.x265.HEVC.ESub.Vegamovies.To.mkv.mkv',
-    link: 'tt14564000'
-    },
-    
+        "title": "Guntur Kaaram [2024] WEB-DL [Hindi + Telugu] [HEVC] | Full Movie",
+        "im": "4WvxzCSHmjbxqc3wethZoBZ5hmA",
+        "dl": "https://pub-1879fb6b72894c989342dcdcb43b6f5d.r2.dev/Guntur.Kaaram.2024.Hindi.+.Telugu.Dual.Audio.UnCut.Movie.WEB.DL.720p.x265.HEVC.ESub.Vegamovies.To.mkv.mkv",
+        "link": "tt14564000",
+        "year": "2024",
+        "duration": "150 min",
+        "rating": "N/A",
+        "genre": "Action, Drama",
+        "description": "A thrilling action-packed movie about a man who seeks revenge for the murder of his family, fighting against a criminal empire.",
+        "cast": "Mahesh Babu, Pooja Hegde, Sree Vishnu",
+        "type": "movie",
+        "quality": "webdl"
+    },    
     {
     title:'The Diplomat [2025] WEB-RIP [Hindi] | Full Movie',
     im:'uwl9Y4px8TTIQK4N19k6gnW1RnX',

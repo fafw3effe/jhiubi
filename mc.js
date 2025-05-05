@@ -846,76 +846,136 @@ const movies = [
             "type": "series",
             "quality": "webdl"
         },
-    
-    {
-    title:'Ayyana Mane [Season 1] WEB-DL [Hindi + English] | All Episodes',
-    im:'ktGeo5XTYoR0jxnIFjcdzlxW1Ol',
-    dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=7RoQv45n&sn=1&es=Ayyana.Mane.S01.720p.WEB-DL.Hindi.5.1-Kannada.5.1.ESub.x264-HDHub4u.Ms/Ayyana.Mane.S01E&e=6&el=.720p.WEB-DL.Hindi.5.1-Kannada.5.1.ESub.x264-HDHub4u.Ms.mkv',
-    link: 'tt36507686'
-    },
-    
-    {
-    title:'Ground Zero [2025] HQ-V2 HDTC [Hindi] [HEVC] | Full Movie',
-    im:'dZILOHlX1LfboYsaeDMdMwdF5nN',
-    dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Ground-Zero.2025.720p.HEVC.HDTC.Hindi-ORG.x265-HDHub4u.Ms.mkv',
-    link: 'tt28377588'
-    },
-    
-    {
-    title:'Jewel Thief - The Heist Begins [2025] WEB-DL [Hindi] [HEVC] | Full Movie',
-    im:'eujLbO0kf1eqWC8XpHUJdtAVW2J',
-    dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Jewel.Thief.The.Heist.Begins.2025.720p.10Bit.Hindi.WEB-DL.5.1.HEVC.x265-HDHub4u.Ms.mkv',
-    link: 'tt27843798'
-    },
-    
-    {
-    title:'Havoc [2025] WEB-DL [Hindi + English] [HEVC] | Full Movie',
-    im:'r46leE6PSzLR3pnVzaxx5Q30yUF',
-    dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Havoc.2025.720p.10Bit.WEB-DL.Hindi.5.1-English.HEVC.x265-HDHub4u.Ms.mkv',
-    link: 'tt14123284'
-    },
-    
-    {
-    title:'Ash [2025] WEB-DL [Hindi + English] [HEVC] | Full Movie',
-    im:'5Oz39iyRuztiA8XqCNVDBuy2Ut3',
-    dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Ash.2025.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv',
-    link: 'tt17489650'
-    },
-    
-    {
-    title:'Mad Square [2025] WEB-DL [Hindi] [HEVC] | Full Movie',
-    im:'lpDIBzzkyFoDqWTh46OqUEuGVxS',
-    dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Mad.Square.2025.720p.HEVC.WEB-DL.Hindi.5.1-Telugu.ESub.x265-HDHub4u.Ms.mkv',
-    link: 'tt32327574'
-    },
-    
-    {
-    title:'Absolution [2024] WEB-DL [Hindi] [HEVC] | Full Movie',
-    im:'gt70JOD9xsPlpJnuBJAWdOT4yRg',
-    dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Absolution.2024.720p.10Bit.BluRay.Hindi.2.0-English.HEVC.x265-HDHub4u.Ms.mkv',
-    link: 'tt8337290'
-    },
-    
-    {
-    title:'Peaky Blinders [Season 1] [Episode 2] WEB-DL [Hindi + English] [HEVC]',
-    im:'vPlsKun2WZEsqe3yZTmebxtwElW',
-    dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Peaky.Blinders.S01.E02.720p.10Bit.HEVC.BluRay.Hindi.2.0-English.2.0.ESub.x265-HDHub4u.Ms.mkv',
-    link: 'tt2442560'
-    },
-    
-    {
-    title:'You [Season 5] WEB-DL [Hindi + English] [HEVC] | All Episodes',
-    im:'vzgsobZmNxJyJ64ejTOUXvJ9UBn',
-    dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=RjT9BADy&sn=6&es=YOU.S05.720p.10Bit.HEVC.WEB-DL.Hindi.5.1-English.5.1.ESub.x265-HDHub4u.Ms/You.S05E&e=10&el=..720p.10Bit.HEVC.WEB-DL.Hindi.5.1-English.5.1.ESub.x265-HDHub4u.Ms.mkv',
-    link: 'tt7335184'
-    },
-    
-    {
-    title:'Samajavaragamana [2025] WEB-DL [Hindi] [HEVC] | Full Movie',
-    im:'fuyNHfcDJVwLfhgjHYmXlQZyK93',
-    dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Samajavaragamana.2023.720p.HEVC.Hindi.WEB-DL.ESub.x265-HDHub4u.Ms.mkv',
-    link: 'tt26699538'
-    },
+        {
+            "title": "Ayyana Mane [Season 1] WEB-DL [Hindi + English] | All Episodes",
+            "im": "ktGeo5XTYoR0jxnIFjcdzlxW1Ol",
+            "dl": "http://qwrqwrqwr.rf.gd/a/a.php?pd=7RoQv45n&sn=1&es=Ayyana.Mane.S01.720p.WEB-DL.Hindi.5.1-Kannada.5.1.ESub.x264-HDHub4u.Ms/Ayyana.Mane.S01E&e=6&el=.720p.WEB-DL.Hindi.5.1-Kannada.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "link": "tt36507686",
+            "year": "2025",
+            "duration": "45 min per episode",
+            "rating": "7.4",
+            "genre": "Drama, Family",
+            "description": "The life of a young girl, Ayyana, who struggles with societal norms, family pressure, and her dreams, unfolds in a gripping story of resilience and hope.",
+            "type": "series",
+            "quality": "webdl"
+        },
+        {
+            "title": "Ground Zero [2025] HQ-V2 HDTC [Hindi] [HEVC] | Full Movie",
+            "im": "dZILOHlX1LfboYsaeDMdMwdF5nN",
+            "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Ground-Zero.2025.720p.HEVC.HDTC.Hindi-ORG.x265-HDHub4u.Ms.mkv",
+            "link": "tt28377588",
+            "year": "2025",
+            "duration": "115 min",
+            "rating": "6.9",
+            "genre": "Action, Thriller",
+            "description": "A team of elite soldiers is sent to the epicenter of a catastrophic event. What starts as a mission to secure a location turns into a fight for survival.",
+            "type": "movie",
+            "quality": "hq-v2 hdtc"
+        },
+        {
+            "title": "Jewel Thief - The Heist Begins [2025] WEB-DL [Hindi] [HEVC] | Full Movie",
+            "im": "eujLbO0kf1eqWC8XpHUJdtAVW2J",
+            "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Jewel.Thief.The.Heist.Begins.2025.720p.10Bit.Hindi.WEB-DL.5.1.HEVC.x265-HDHub4u.Ms.mkv",
+            "link": "tt27843798",
+            "year": "2025",
+            "duration": "120 min",
+            "rating": "7.5",
+            "genre": "Crime, Thriller",
+            "description": "A skilled jewel thief begins his heist journey, evading authorities and facing deadly challenges. Tensions rise as he attempts to pull off the perfect crime.",
+            "type": "movie",
+            "quality": "webdl hevc"
+        },
+        {
+            "title": "Havoc [2025] WEB-DL [Hindi + English] [HEVC] | Full Movie",
+            "im": "r46leE6PSzLR3pnVzaxx5Q30yUF",
+            "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Havoc.2025.720p.10Bit.WEB-DL.Hindi.5.1-English.HEVC.x265-HDHub4u.Ms.mkv",
+            "link": "tt14123284",
+            "year": "2025",
+            "duration": "130 min",
+            "rating": "7.6",
+            "genre": "Action, Drama, Thriller",
+            "description": "A former special forces operative seeks revenge on those who destroyed his life, finding himself caught in a web of corruption and violent confrontations.",
+            "type": "movie",
+            "quality": "webdl hevc"
+        },
+        {
+            "title": "Ash [2025] WEB-DL [Hindi + English] [HEVC] | Full Movie",
+            "im": "5Oz39iyRuztiA8XqCNVDBuy2Ut3",
+            "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Ash.2025.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "link": "tt17489650",
+            "year": "2025",
+            "duration": "115 min",
+            "rating": "7.3",
+            "genre": "Drama, Action",
+            "description": "A fiery drama about Ash, a man whose past catches up with him as he embarks on a mission to rectify the mistakes of his earlier life.",
+            "type": "movie",
+            "quality": "webdl hevc"
+        },
+        {
+            "title": "Mad Square [2025] WEB-DL [Hindi] [HEVC] | Full Movie",
+            "im": "lpDIBzzkyFoDqWTh46OqUEuGVxS",
+            "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Mad.Square.2025.720p.HEVC.WEB-DL.Hindi.5.1-Telugu.ESub.x265-HDHub4u.Ms.mkv",
+            "link": "tt32327574",
+            "year": "2025",
+            "duration": "110 min",
+            "rating": "6.8",
+            "genre": "Action, Mystery, Drama",
+            "description": "In a world of corruption and conspiracy, a man must navigate through a series of challenges that test his sanity and determination.",
+            "type": "movie",
+            "quality": "webdl hevc"
+        },
+        {
+            "title": "Absolution [2024] WEB-DL [Hindi] [HEVC] | Full Movie",
+            "im": "gt70JOD9xsPlpJnuBJAWdOT4yRg",
+            "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Absolution.2024.720p.10Bit.BluRay.Hindi.2.0-English.HEVC.x265-HDHub4u.Ms.mkv",
+            "link": "tt8337290",
+            "year": "2024",
+            "duration": "125 min",
+            "rating": "7.4",
+            "genre": "Action, Thriller",
+            "description": "A retired assassin must face his past when his former enemies come after him. With his life on the line, he must navigate treacherous alliances and deadly encounters.",
+            "type": "movie",
+            "quality": "webdl hevc"
+        },
+        {
+            "title": "Peaky Blinders [Season 1] [Episode 2] WEB-DL [Hindi + English] [HEVC]",
+            "im": "vPlsKun2WZEsqe3yZTmebxtwElW",
+            "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Peaky.Blinders.S01.E02.720p.10Bit.HEVC.BluRay.Hindi.2.0-English.2.0.ESub.x265-HDHub4u.Ms.mkv",
+            "link": "tt2442560",
+            "year": "2013",
+            "duration": "58 min",
+            "rating": "8.8",
+            "genre": "Crime, Drama",
+            "description": "Tommy Shelby faces new challenges and expands the Peaky Blinders' empire. Rivals are closing in, and he must use all his cunning to stay ahead.",
+            "type": "series",
+            "quality": "webdl hevc"
+        },
+        {
+            "title": "You [Season 5] WEB-DL [Hindi + English] [HEVC] | All Episodes",
+            "im": "vzgsobZmNxJyJ64ejTOUXvJ9UBn",
+            "dl": "http://qwrqwrqwr.rf.gd/a/a.php?pd=RjT9BADy&sn=6&es=YOU.S05.720p.10Bit.HEVC.WEB-DL.Hindi.5.1-English.5.1.ESub.x265-HDHub4u.Ms/You.S05E&e=10&el=..720p.10Bit.HEVC.WEB-DL.Hindi.5.1-English.5.1.ESub.x265-HDHub4u.Ms.mkv",
+            "link": "tt7335184",
+            "year": "2025",
+            "duration": "45 min per episode",
+            "rating": "8.5",
+            "genre": "Drama, Thriller, Crime",
+            "description": "In the fifth season, Joe Goldberg grapples with his obsession with love and control, facing darker consequences as he delves deeper into dangerous relationships.",
+            "type": "series",
+            "quality": "webdl hevc"
+        },
+        {
+            "title": "Samajavaragamana [2025] WEB-DL [Hindi] [HEVC] | Full Movie",
+            "im": "fuyNHfcDJVwLfhgjHYmXlQZyK93",
+            "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Samajavaragamana.2023.720p.HEVC.Hindi.WEB-DL.ESub.x265-HDHub4u.Ms.mkv",
+            "link": "tt26699538",
+            "year": "2025",
+            "duration": "110 min",
+            "rating": "7.1",
+            "genre": "Romance, Comedy, Drama",
+            "description": "A heartfelt story about a man who struggles to balance his career and family life while navigating the trials of love and personal growth.",
+            "type": "movie",
+            "quality": "webdl hevc"
+        },
     
     {
     title:'Veera Dheera Sooran: Part 2 [2025] WEB-DL [Hindi + Tamil] [HEVC] | Full Movie',

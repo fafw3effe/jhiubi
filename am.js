@@ -36,7 +36,7 @@ const movies = [
         "cast": "Cillian Murphy, Sam Neill, Helen McCrory"
     },
     {
-        "title": "Peaky Blinders [Season 1] WEB-DL [Hindi + English] | All Episodes",
+        "title": "Peaky Blinders [Season 1] WEB-DL [Hindi + English] | Full Series",
         "im": "vUUqzWa2LnHIVqkaKVlVGkVcZIW",
         "bgi": "6SdXIdltOU6pFqv0aZuSWcrGWej",
         "dl": "https://pixeldrain.net/api/file/j47zx3gG?download",

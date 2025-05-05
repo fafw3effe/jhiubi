@@ -148,10 +148,10 @@ function displayMovies() {
             case 'cam':
                 qualityClass = 'quality-cam';
                 break;
-            case 'bluray':
+            case 'blu-ray'||'bluray':
                 qualityClass = 'quality-bluray';
                 break;
-            case 'prehd':
+            case 'pre-hd':
                 qualityClass = 'quality-prehd';
                 break;
             case 'hd':

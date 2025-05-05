@@ -21,6 +21,79 @@ const movies = [
     */
 
     
+
+
+{
+    "title": "Driver Jamuna [2022] UNCUT WEB-DL [Hindi + English] | Full Movie",
+    "im": "cev24xOOl5BFPgKOZCCREkTVW8w",
+    "bgi": "sakfYi9HqLeLkDYggOtMuayqmlQ",
+    "dl": "https://pixeldrain.net/api/file/qvuzrDDY?download",
+    "year": "2022",
+    "duration": "1h 44m",
+    "rating": "5.5",
+    "genre": "Action,Thriller,",
+    "description": "Jamuna, a cab driver, finds herself in trouble when three contract killers get in for a ride. Can she save herself from this horrific situation?",
+    "type": "movie",
+    "quality": "webdl",
+    "cast": "Aishwarya Rajesh,Aadukalam Naren,Thangapandiyan,Sriranjini,Kavitha Bharathi"
+},
+{
+    "title": "The Divorce Insurance [Season 1] [Episode 11] WEB-DL [Hindi + English] | Full Movie",
+    "im": "6HAbRWYkX3bouEeHA4bjsUxznKC",
+    "bgi": "tSeyn9VqrAKuMytgDCXY9iMGXa8",
+    "dl": "https://pixeldrain.net/api/file/oNiH6fZ4?download",
+    "year": "2025",
+    "duration": "1h",
+    "rating": "6.9",
+    "genre": "Drama,Comedy,",
+    "description": "No Ki-jun, an employee at an insurance company, decides to develop a divorce insurance policy after personally experiencing three divorces that impacted his life and finances. Despite potential biases, he believes divorce is an unforeseen disaster and establishes a team for divorce insurance.",
+    "type": "series",
+    "quality": "webdl",
+    "cast": "Lee Dong-wook,Lee Kwang-soo,Lee Ju-bin,Lee Da-hee,Kim Won-hae"
+},
+{
+    "title": "Suits LA [Season 1] [Episode 11] WEB-DL [Hindi + English] | Full Movie",
+    "im": "3hYiNPkcLoI3QWDokOHQJIfn55O",
+    "bgi": "ljAdFwDLQLlOBIwheKmAdcUS0HM",
+    "dl": "https://pixeldrain.net/api/file/WQniLexs?download",
+    "year": "2025",
+    "duration": "1h",
+    "rating": "7.7",
+    "genre": "Drama,",
+    "description": "Ted Black, a former federal prosecutor from New York, has reinvented himself representing the most powerful clients in Los Angeles. But his firm is at a crisis point, and in order to survive, he must embrace a role he held in contempt his entire career.",
+    "type": "series",
+    "quality": "webdl",
+    "cast": "Stephen Amell,Lex Scott Davis,Josh McDermitt,Bryan Greenberg,Maggie Grace"
+},
+{
+    "title": "Inside Man: Most Wanted [2019] WEB-DL [Hindi + English] | Full Movie",
+    "im": "zcDZisqVQK9akfKgyrB9HYzYuVh",
+    "bgi": "OvMX5sgJ0vLmKQbIiS5yy7jn5H",
+    "dl": "https://pixeldrain.net/api/file/VZJUtCYF?download",
+    "year": "2019",
+    "duration": "1h 46m",
+    "rating": "6.5",
+    "genre": "Action,Crime,Thriller,",
+    "description": "An NYPD hostage negotiator teams up with a federal agent to rescue dozens of tourists held hostage during a 10-hour seige at the U.S. Federal Reserve.",
+    "type": "movie",
+    "quality": "webdl",
+    "cast": "Aml Ameen,Rhea Seehorn,Roxanne McKee,Tanya van Graan,Jessica Sutton"
+},
+
+{
+    "title": "Virupaksha [2023] UNCUT WEB-DL [Hindi + Telugu] | Full Movie",
+    "im": "fqMn4h9ctOyumII2nXDnm5mRTxQ",
+    "bgi": "xfm3oNEyguquFMW3Yq4UNgnoVRL",
+    "dl": "https://pixeldrain.net/api/file/qwqRc5EY?download",
+    "year": "2023",
+    "duration": "2h 26m",
+    "rating": "7.1",
+    "genre": "Horror,Mystery,Thriller,",
+    "description": "Set in a village named Rudravanam in 1990's, Surya along with his mother, visit there after a long time. Suddenly a series of mysterious deaths occur due to an unknown person's occult practice and whole village is scared. Will Surya find the person causing the deaths and save the village?",
+    "type": "movie",
+    "quality": "UNCUT WEB-DL",
+    "cast": "Sai Durgha Tej,Samyuktha,Brahmaji,Rajiv Kanakala,Ravi Krishna"
+},
     {
     "title": "Ala Vaikunthapurramuloo [2020] WEB-DL [Hindi + Telugu] | Full Movie",
     "im": "2rzORJaegE2bbKNVkQXbZCeV0BP",

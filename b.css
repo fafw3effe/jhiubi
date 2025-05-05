@@ -216,27 +216,27 @@
   .season-sticker {
     bottom: 10px;
     right: 10px;
-    background-color: #6f42c1;
+    background-color: #000000;
   }
   
   .quality-webdl {
-    background-color: #28a745;
+    background-color: #0074f8;
   }
   
   .quality-hd {
-    background-color: #17a2b8;
+    background-color: #0074f8;
   }
   
   .quality-cam {
-    background-color: #6c757d;
+    background-color: #ff0000;
   }
   
   .quality-bluray {
-    background-color: #6f42c1;
+    background-color: #4604df;
   }
   
   .quality-prehd {
-    background-color: #fd7e14;
+    background-color: #ff0000;
   }
   
   /* Pagination Styles */

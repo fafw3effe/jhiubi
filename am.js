@@ -25,7 +25,7 @@ const movies = [
     "title": "Ala Vaikunthapurramuloo [2020] WEB-DL [Hindi + Telugu] | Full Movie",
     "im": "2rzORJaegE2bbKNVkQXbZCeV0BP",
     "bgi": "7m8pL1cNz1okhxOltBDNG4XTxdx",
-    "dl": "https://pixeldrain.net/api/file/?download",
+    "dl": "https://pixeldrain.net/api/file/oTkDyzWn?download",
     "year": "2020",
     "duration": "2h 45m",
     "rating": "6.7",

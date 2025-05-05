@@ -1741,17 +1741,32 @@ const movies = [
     },
     
     {
-    title:'A Silent Voice [2016] WEB-DL [Hindi + English] | Full Movie',
-    im:'6L78T9PrdShYeKR43GlFNfQuVXP',
-    dl:'https://pub-d2dc967acaf7453fbec776b6815a163e.r2.dev/A.Silent.Voice.720p.Hindi.Vegamovies.NL.mkv',
-    link: 'tt5323662'
+        "title": "A Silent Voice [2016] WEB-DL [Hindi + English] | Full Movie",
+        "im": "6L78T9PrdShYeKR43GlFNfQuVXP",
+        "bgi": "eEog93Ca6E0siobDyNcplwc5ooR",
+        "dl": "https://pub-d2dc967acaf7453fbec776b6815a163e.r2.dev/A.Silent.Voice.720p.Hindi.Vegamovies.NL.mkv",
+        "link": "tt5323662",
+        "year": "2016",
+        "duration": "129 min",
+        "rating": "8.1",
+        "genre": "Animation, Drama, Romance",
+        "description": "A Silent Voice tells the story of a young boy who bullies a deaf girl in elementary school, only to later seek redemption years later. It's a heart-wrenching tale about forgiveness, guilt, and the power of human connection.",
+        "type": "movie",
+        "quality": "webdl"
     },
-    
     {
-    title:'Your Name [2016] WEB-DL [Hindi + English] | Full Movie',
-    im:'8GJsy7w7frGquw1cy9jasOGNNI1',
-    dl:'https://pub-41866632e0b243d88ba545e419553c39.r2.dev/Your.Name.2016.1.8GB.1080p.Dual.Audio.Hin-Eng.Vegamovies.NL.mkv',
-    link: 'tt5311514'
+        "title": "Your Name [2016] WEB-DL [Hindi + English] | Full Movie",
+        "im": "8GJsy7w7frGquw1cy9jasOGNNI1",
+        "bgi": "3apl9DaqJk72GHQ5jZqf0Ee56T7",
+        "dl": "https://pub-41866632e0b243d88ba545e419553c39.r2.dev/Your.Name.2016.1.8GB.1080p.Dual.Audio.Hin-Eng.Vegamovies.NL.mkv",
+        "link": "tt5311514",
+        "year": "2016",
+        "duration": "106 min",
+        "rating": "8.4",
+        "genre": "Animation, Drama, Fantasy",
+        "description": "Two teenagers from different parts of Japan find themselves mysteriously swapping bodies. As they navigate each other's lives, they form a deep connection that transcends time and space. A visually stunning and emotionally powerful film.",
+        "type": "movie",
+        "quality": "webdl"
     },
     
     {

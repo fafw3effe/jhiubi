@@ -54,6 +54,7 @@ document.getElementById('searchInput').addEventListener('input', function() {
     updateUrl(searchTerm, currentPage);
     displayMovies();
     updatePagination();
+    window.scrollTo({top: 0, behavior: 'smooth'});
 });
 
 // Display movies with quality badges

@@ -1910,40 +1910,75 @@ const movies = [
     dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Shangri.La.Frontier.S02E23.720p.[HIN.ENG.JAP].Vegamovies.is.mkv',
     link: 'tt28776190'
     },
-    
     {
-    title:'Lucky Baskhar [2024] WEB-DL [Hindi + Telugu] | Full Movie',
-    im:'a47JQFl9L7VDa79tEvnTOJe0rPa',
-    dl:'https://pub-cc98aef3a18a46c1a1d41eb308d48df9.r2.dev/Lucky.Baskhar.2024.Hindi.+.Telugu.Dual.Audio.UnCut.South.Movie.720p.10Bit.ESub.x265.Vegamovies.is.mkv',
-    link: 'tt27540542'
+        "title": "Lucky Baskhar [2024] WEB-DL [Hindi + Telugu] | Full Movie",
+        "im": "a47JQFl9L7VDa79tEvnTOJe0rPa",
+        "dl": "https://pub-cc98aef3a18a46c1a1d41eb308d48df9.r2.dev/Lucky.Baskhar.2024.Hindi.+.Telugu.Dual.Audio.UnCut.South.Movie.720p.10Bit.ESub.x265.Vegamovies.is.mkv",
+        "link": "tt27540542",
+        "year": "2024",
+        "duration": "140 min",
+        "rating": "N/A",
+        "genre": "Action, Drama",
+        "description": "A man embarks on a journey to change his fate and overcome obstacles, finding unexpected alliances and confrontations along the way.",
+        "cast": "Nani, Rashmika Mandanna, Rajendra Prasad",
+        "type": "movie",
+        "quality": "webdl"
     },
-    
     {
-    title:'Happy New Year [2014] WEB-DL [Hindi] | Full Movie',
-    im:'2t47Xm1YkYaICKybxbpa55KJvQr',
-    dl:'https://pub-310225cc8f904dddbb030f585feeda7e.r2.dev/Happy.New.Year.1080p.Hindi-Vegamovies.NL.mkv',
-    link: 'tt2461132'
+        "title": "Happy New Year [2014] WEB-DL [Hindi] | Full Movie",
+        "im": "2t47Xm1YkYaICKybxbpa55KJvQr",
+        "dl": "https://pub-310225cc8f904dddbb030f585feeda7e.r2.dev/Happy.New.Year.1080p.Hindi-Vegamovies.NL.mkv",
+        "link": "tt2461132",
+        "year": "2014",
+        "duration": "155 min",
+        "rating": "6.3",
+        "genre": "Action, Comedy, Drama",
+        "description": "A team of misfits tries to pull off a major heist during a prestigious event in Dubai, facing multiple challenges along the way.",
+        "cast": "Shah Rukh Khan, Deepika Padukone, Abhishek Bachchan",
+        "type": "movie",
+        "quality": "webdl"
     },
-    
     {
-    title:'Hey Sinamika [2022] WEB-DL [Hindi] | Full Movie',
-    im:'3t6kgGJqsSMtKitIXXBPgWSqeCf',
-    dl:'https://pub-3e694446a4d94c3da563d782d9883d56.r2.dev/Hey%20Sinamika%202022%20720p%20HEVC%20UnCut%20HDRip%20Dual%20x265%20ESub%20-%20Vegamovies.NL.mkv',
-    link: 'tt11953194'
+        "title": "Hey Sinamika [2022] WEB-DL [Hindi] | Full Movie",
+        "im": "3t6kgGJqsSMtKitIXXBPgWSqeCf",
+        "dl": "https://pub-3e694446a4d94c3da563d782d9883d56.r2.dev/Hey%20Sinamika%202022%20720p%20HEVC%20UnCut%20HDRip%20Dual%20x265%20ESub%20-%20Vegamovies.NL.mkv",
+        "link": "tt11953194",
+        "year": "2022",
+        "duration": "140 min",
+        "rating": "6.0",
+        "genre": "Romance, Comedy, Drama",
+        "description": "A woman is stuck in an unfulfilling relationship and embarks on a journey of self-discovery and love.",
+        "cast": "Dulquer Salmaan, Aditi Rao Hydari, Kajal Aggarwal",
+        "type": "movie",
+        "quality": "webdl"
     },
-    
     {
-    title:'Dilwale [2015] WEB-DL [Hindi] | Full Movie',
-    im:'pYgPu6hhOr61knwbestTx4vSdMb',
-    dl:'https://pub-a23ae5fc51264f6e953bb011d845c65a.r2.dev/Dilwale%202015%20BluRay%20720p%20Hindi%20AAC%205.1%20x264%20ESub%20-%20Vegamovies.NL.mkv',
-    link: 'tt4535650'
+        "title": "Dilwale [2015] WEB-DL [Hindi] | Full Movie",
+        "im": "pYgPu6hhOr61knwbestTx4vSdMb",
+        "dl": "https://pub-a23ae5fc51264f6e953bb011d845c65a.r2.dev/Dilwale%202015%20BluRay%20720p%20Hindi%20AAC%205.1%20x264%20ESub%20-%20Vegamovies.NL.mkv",
+        "link": "tt4535650",
+        "year": "2015",
+        "duration": "158 min",
+        "rating": "6.3",
+        "genre": "Action, Romance, Comedy",
+        "description": "Two lovers from different backgrounds must overcome the obstacles from their past to find happiness together.",
+        "cast": "Shah Rukh Khan, Kajol, Varun Dhawan",
+        "type": "movie",
+        "quality": "webdl"
     },
-    
     {
-    title:'Mirzapur [Season 3] [All Episodes] WEB-DL [Hindi] [HEVC] | Full Series',
-    im:'7CFdq8M9ZuP1QRLaBG2ExdcrCBs',
-    dl:'https://vcloud.lol/waug3iovaa1wma1',
-    link: 'tt6473300'
+        "title": "Mirzapur [Season 3] [All Episodes] WEB-DL [Hindi] [HEVC] | Full Series",
+        "im": "7CFdq8M9ZuP1QRLaBG2ExdcrCBs",
+        "dl": "https://vcloud.lol/waug3iovaa1wma1",
+        "link": "tt6473300",
+        "year": "2025",
+        "duration": "60 min per episode",
+        "rating": "8.4",
+        "genre": "Crime, Thriller, Drama",
+        "description": "Set in the lawless city of Mirzapur, this gripping series follows the rise of the criminal empire and the power struggles between rival gangs.",
+        "cast": "Pankaj Tripathi, Ali Fazal, Vikrant Massey",
+        "type": "series",
+        "quality": "webdl"
     },
     
     {

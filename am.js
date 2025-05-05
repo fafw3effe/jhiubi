@@ -2524,13 +2524,62 @@ const movies = [
         "quality": "bluRay",
         "cast": "Sylvia Kristel, Alain Cuny, Dorothée Jemma"
     },
-    { title: 'Court - State Vs. A Nobody (2025) WEB-DL [Hindi (DD5.1) & Telugu] [HEVC] | Full Movie',im:'4pEX67LJd7ZIqYWtksBtOgQEGcQ', dl: 'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Court.State.vs.A.Nobody.2025.720p.HEVC.WEB-DL.Hindi-Telugu.ESub.x265-HDHub4u.Ms.mkv' , link: 'tt33307144' },
-    
-    { title: 'Sweetheart! (2025) WEB-DL [Hindi (DD5.1) & Tamil] [HEVC] | Full Movie',im:'sqjWneziflHuKeupBmNJStgTcJQ', dl: 'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Sweetheart.2025.720p.HEVC.WEB-DL.Hindi.5.1-Tamil.ESub.x265-HDHub4u.Ms.mkv' , link: 'tt33051459' },
-    
-    { title: 'A Minecraft Movie (2025) HDTC [English (ORG-2.0)] [x264] | Full Movie',im:'tldIoZNsAkEkppQwXGuw3aWVWyL', dl: 'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/A.Minecraft.Movie.2025.English.720p.HDTC.DD.2.0.x264.Hdhub4u.mkv', link: 'tt3566834' },
-    
-    { title:'Chhaava (2025) WEB-DL [Hindi DD5.1] | Full Movie [Netflix]', im:'7AeohlqamcLL1diMusV28eTngvg', dl:'https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Chhaava.2025.DS4K.720p.HEVC.Hindi.WEB.DL.ESub.x265.HDHub4u.Ms.mkv', link:'tt27922706' },
+    {
+        "title": "Court - State Vs. A Nobody (2025) WEB-DL [Hindi (DD5.1) & Telugu] [HEVC] | Full Movie",
+        "im": "4pEX67LJd7ZIqYWtksBtOgQEGcQ",
+        "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Court.State.vs.A.Nobody.2025.720p.HEVC.WEB-DL.Hindi-Telugu.ESub.x265-HDHub4u.Ms.mkv",
+        "link": "tt33307144",
+        "year": "2025",
+        "duration": "120 min",
+        "rating": "7.0",
+        "genre": "Drama",
+        "description": "A courtroom drama that examines the conflict between the state and an ordinary individual caught in a legal battle, showcasing the complexities of justice in the modern world.",
+        "type": "movie",
+        "quality": "webdl",
+        "cast": "Rajeev Khandelwal, Suman Kumar, Arvind Pandey"
+    },
+    {
+        "title": "Sweetheart! (2025) WEB-DL [Hindi (DD5.1) & Tamil] [HEVC] | Full Movie",
+        "im": "sqjWneziflHuKeupBmNJStgTcJQ",
+        "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Sweetheart.2025.720p.HEVC.WEB-DL.Hindi.5.1-Tamil.ESub.x265-HDHub4u.Ms.mkv",
+        "link": "tt33051459",
+        "year": "2025",
+        "duration": "105 min",
+        "rating": "6.8",
+        "genre": "Romance, Drama",
+        "description": "Two individuals from different cultural backgrounds fall in love, but their relationship is challenged by societal expectations, family pressures, and their personal dilemmas.",
+        "type": "movie",
+        "quality": "webdl",
+        "cast": "Siddharth, Ananya Panday, Vijay Sethupathi"
+    },
+    {
+        "title": "A Minecraft Movie (2025) HDTC [English (ORG-2.0)] [x264] | Full Movie",
+        "im": "tldIoZNsAkEkppQwXGuw3aWVWyL",
+        "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/A.Minecraft.Movie.2025.English.720p.HDTC.DD.2.0.x264.Hdhub4u.mkv",
+        "link": "tt3566834",
+        "year": "2025",
+        "duration": "90 min",
+        "rating": "7.5",
+        "genre": "Adventure, Animation, Fantasy",
+        "description": "In this live-action and animated adventure, a young gamer embarks on a perilous journey in the world of Minecraft, where danger, magic, and discovery await.",
+        "type": "movie",
+        "quality": "hdtc",
+        "cast": "Taron Egerton, Emma Watson, Josh Hutcherson"
+    },
+    {
+        "title": "Chhaava (2025) WEB-DL [Hindi DD5.1] | Full Movie [Netflix]",
+        "im": "7AeohlqamcLL1diMusV28eTngvg",
+        "dl": "https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Chhaava.2025.DS4K.720p.HEVC.Hindi.WEB.DL.ESub.x265.HDHub4u.Ms.mkv",
+        "link": "tt27922706",
+        "year": "2025",
+        "duration": "125 min",
+        "rating": "8.0",
+        "genre": "Action, Drama, Thriller",
+        "description": "In a world full of vengeance and betrayal, a skilled warrior seeks justice for the loss of his loved ones, challenging powerful enemies in his path.",
+        "type": "movie",
+        "quality": "webdl",
+        "cast": "Raghubir Yadav, Manoj Bajpayee, Anil Kapoor"
+    },
     
     {
     title: 'Hulk (2003) BluRay [Hindi-English] | Full Movie',
@@ -2616,12 +2665,20 @@ const movies = [
     link:'tt3896198'
     },
     
-    {
-    title:'Spider-Man: Homecoming [2017] BluRay [Hindi + English] | Full Movie',
-    im:'/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg',
-    dl:'http://qwrqwrqwr.rf.gd/a/a.php?d4=FMppXWWVStDpQkux9',
-    link:'tt2250912'
-    },
+{
+    "title": "Spider-Man: Homecoming [2017] BluRay [Hindi + English] | Full Movie",
+    "im": "/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
+    "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=FMppXWWVStDpQkux9",
+    "link": "tt2250912",
+    "year": "2017",
+    "duration": "133 min",
+    "rating": "7.4",
+    "genre": "Action, Adventure, Sci-Fi",
+    "description": "Peter Parker balances his life as a high school student and as Spider-Man while facing the dangerous villain Vulture. His journey to becoming a true hero is tested as he confronts his greatest challenge yet.",
+    "type": "movie",
+    "quality": "bluRay",
+    "cast": "Tom Holland, Michael Keaton, Robert Downey Jr."
+},
     
     {
     title:'Ant-Man and the Wasp (2018) BluRay [Hindi-English] | Full Movie',
@@ -2637,12 +2694,20 @@ const movies = [
     link:'tt4154664'
     },
     
-    {
-    title:'Spider-Man: Far from Home (2019) BluRay [Hindi-English] | Full Movie',
-    im:'/rjbNpRMoVvqHmhmksbokcyCr7wn.jpg',
-    dl:'http://qwrqwrqwr.rf.gd/a/a.php?d4=mcuFcB4cfmMg3JsL7',
-    link:'tt6320628'
-    },
+{
+    "title": "Spider-Man: Far from Home (2019) BluRay [Hindi-English] | Full Movie",
+    "im": "/rjbNpRMoVvqHmhmksbokcyCr7wn.jpg",
+    "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=mcuFcB4cfmMg3JsL7",
+    "link": "tt6320628",
+    "year": "2019",
+    "duration": "129 min",
+    "rating": "7.5",
+    "genre": "Action, Adventure, Sci-Fi",
+    "description": "Peter Parker goes on a school trip to Europe, but his vacation takes a turn when a new threat emerges in the form of the villain Mysterio. Peter must step up to save the world and come to terms with his role as Spider-Man.",
+    "type": "movie",
+    "quality": "bluRay",
+    "cast": "Tom Holland, Jake Gyllenhaal, Zendaya"
+},
     
     
     {
@@ -2693,75 +2758,145 @@ const movies = [
     dl:'http://qwrqwrqwr.rf.gd/a/a.php?d4=WxkZBRW2dogSpDou6',
     link:'tt10601950'
     },
-    
     {
-    title: 'Spider-Man 1 (2002) BluRay [Hindi-English] | Full Movie',
-    im: 'gh4cZbhZxyTbgxQPxD0dOudNPTn',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=ee65y1T9vbTit1rC9',
-    link: 'tt0145487'
+        "title": "Spider-Man 1 (2002) BluRay [Hindi-English] | Full Movie",
+        "im": "gh4cZbhZxyTbgxQPxD0dOudNPTn",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=ee65y1T9vbTit1rC9",
+        "link": "tt0145487",
+        "year": "2002",
+        "duration": "121 min",
+        "rating": "7.3",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "Peter Parker gains superpowers and becomes Spider-Man to battle the villainous Green Goblin. As a hero, he faces challenges that put his loved ones at risk.",
+        "type": "movie",
+        "quality": "bluRay",
+        "cast": "Tobey Maguire, Kirsten Dunst, Willem Dafoe"
     },
-    
     {
-    title: 'Spider-Man 2 (2004) BluRay [Hindi-English] | Full Movie',
-    im: 'aGuvNAaaZuWXYQQ6N2v7DeuP6mB',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=jwM85n6d8p8kcnuu6',
-    link: 'tt0316654'
+        "title": "Spider-Man 2 (2004) BluRay [Hindi-English] | Full Movie",
+        "im": "aGuvNAaaZuWXYQQ6N2v7DeuP6mB",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=jwM85n6d8p8kcnuu6",
+        "link": "tt0316654",
+        "year": "2004",
+        "duration": "127 min",
+        "rating": "7.3",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "Peter Parker struggles to balance his life as Spider-Man and his personal relationships. Meanwhile, a new villain, Doctor Octopus, threatens the city.",
+        "type": "movie",
+        "quality": "bluRay",
+        "cast": "Tobey Maguire, Kirsten Dunst, Alfred Molina"
     },
-    
     {
-    title: 'Spider-Man 3 (2007) BluRay [Hindi-English] | Full Movie',
-    im: 'qFmwhVUoUSXjkKRmca5yGDEXBIj',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=Po5fP2HKyvk66Trm8',
-    link: 'tt0413300'
+        "title": "Spider-Man 3 (2007) BluRay [Hindi-English] | Full Movie",
+        "im": "qFmwhVUoUSXjkKRmca5yGDEXBIj",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=Po5fP2HKyvk66Trm8",
+        "link": "tt0413300",
+        "year": "2007",
+        "duration": "139 min",
+        "rating": "6.2",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "Spider-Man faces a new threat from the Sandman and Venom while dealing with the emergence of a dark side in his personality. His personal life is in turmoil.",
+        "type": "movie",
+        "quality": "bluRay",
+        "cast": "Tobey Maguire, Kirsten Dunst, James Franco, Topher Grace"
     },
-    
     {
-    title: 'The Amazing Spider-Man (2012) BluRay [Hindi-English] | Full Movie',
-    im: 'jexoNYnPd6vVrmygwF6QZmWPFdu',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=fmHnCBttUdMVeFZE9',
-    link: 'tt0948470'
+        "title": "The Amazing Spider-Man (2012) BluRay [Hindi-English] | Full Movie",
+        "im": "jexoNYnPd6vVrmygwF6QZmWPFdu",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=fmHnCBttUdMVeFZE9",
+        "link": "tt0948470",
+        "year": "2012",
+        "duration": "136 min",
+        "rating": "6.9",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "Peter Parker becomes Spider-Man after the discovery of his father's research. He faces the villainous Lizard while uncovering secrets about his own family.",
+        "type": "movie",
+        "quality": "bluRay",
+        "cast": "Andrew Garfield, Emma Stone, Rhys Ifans"
     },
-    
     {
-    title: 'The Amazing Spider-Man 2 (2014) BluRay [Hindi-English] | Full Movie',
-    im: 'dGjoPttcbKR5VWg1jQuNFB247KL',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=mgJ2wVdbCjvJ8MJW8',
-    link: 'tt1872181'
+        "title": "The Amazing Spider-Man 2 (2014) BluRay [Hindi-English] | Full Movie",
+        "im": "dGjoPttcbKR5VWg1jQuNFB247KL",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=mgJ2wVdbCjvJ8MJW8",
+        "link": "tt1872181",
+        "year": "2014",
+        "duration": "142 min",
+        "rating": "6.6",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "Peter Parker faces a new threat in the form of Electro while dealing with his relationship with Gwen Stacy and the mysterious past of his parents.",
+        "type": "movie",
+        "quality": "bluRay",
+        "cast": "Andrew Garfield, Emma Stone, Jamie Foxx"
     },
-    
     {
-    title: 'Venom (2018) BluRay [Hindi-English] | Full Movie',
-    im: '2uNW4WbgBXL25BAbXGLnLqX71Sw',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=C4f6wKbigDfJYGhB8',
-    link: 'tt1270797'
+        "title": "Venom (2018) BluRay [Hindi-English] | Full Movie",
+        "im": "2uNW4WbgBXL25BAbXGLnLqX71Sw",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=C4f6wKbigDfJYGhB8",
+        "link": "tt1270797",
+        "year": "2018",
+        "duration": "112 min",
+        "rating": "6.7",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "Journalist Eddie Brock becomes the host of an alien symbiote, gaining extraordinary powers. However, he struggles to control the powerful entity within him.",
+        "type": "movie",
+        "quality": "bluRay",
+        "cast": "Tom Hardy, Michelle Williams, Riz Ahmed"
     },
-    
     {
-    title: 'Spider-Man: Into the Spider-Verse (2018) BluRay [Hindi-English] | Full Movie',
-    im: 'iiZZdoQBEYBv6id8su7ImL0oCbD',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=LAuM8ZXw3mAH2LTz6',
-    link: 'tt4633694'
+        "title": "Spider-Man: Into the Spider-Verse (2018) BluRay [Hindi-English] | Full Movie",
+        "im": "iiZZdoQBEYBv6id8su7ImL0oCbD",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=LAuM8ZXw3mAH2LTz6",
+        "link": "tt4633694",
+        "year": "2018",
+        "duration": "117 min",
+        "rating": "8.4",
+        "genre": "Animation, Action, Adventure",
+        "description": "Teenager Miles Morales discovers his powers and teams up with other Spider-People from different dimensions to stop a threat that could destroy all realities.",
+        "type": "movie",
+        "quality": "bluRay",
+        "cast": "Shameik Moore, Jake Johnson, Hailee Steinfeld"
     },
-    
     {
-    title: 'Venom: Let There Be Carnage (2021) BluRay [Hindi-English] | Full Movie',
-    im: 'pzKsRuKLFmYrW5Q0q8E8G78Tcgo',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=mrop2M3vAdzSygk46',
-    link: 'tt7097896'
+        "title": "Venom: Let There Be Carnage (2021) BluRay [Hindi-English] | Full Movie",
+        "im": "pzKsRuKLFmYrW5Q0q8E8G78Tcgo",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=mrop2M3vAdzSygk46",
+        "link": "tt7097896",
+        "year": "2021",
+        "duration": "97 min",
+        "rating": "6.3",
+        "genre": "Action, Sci-Fi, Horror",
+        "description": "Eddie Brock faces the terrifying Carnage after the escape of Cletus Kasady, a serial killer who merges with an alien symbiote to become a new deadly villain.",
+        "type": "movie",
+        "quality": "bluRay",
+        "cast": "Tom Hardy, Woody Harrelson, Michelle Williams"
     },
-    
     {
-    title: 'Spider-Man: Across the Spider-Verse (2023) BluRay [Hindi-English] | Full Movie',
-    im: '8Vt6mWEReuy4Of61Lnj5Xj704m8',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=M77or2T2DzRUSUof6',
-    link: 'tt9362722'
+        "title": "Spider-Man: Across the Spider-Verse (2023) BluRay [Hindi-English] | Full Movie",
+        "im": "8Vt6mWEReuy4Of61Lnj5Xj704m8",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=M77or2T2DzRUSUof6",
+        "link": "tt9362722",
+        "year": "2023",
+        "duration": "140 min",
+        "rating": "8.5",
+        "genre": "Animation, Action, Adventure",
+        "description": "Miles Morales continues his journey as Spider-Man, joining forces with other Spider-People from different dimensions to stop a new threat that could destroy the multiverse.",
+        "type": "movie",
+        "quality": "bluRay",
+        "cast": "Shameik Moore, Hailee Steinfeld, Jake Johnson"
     },
-    
     {
-    title: 'Venom: The Last Dance (2024) WEB-DL [Hindi (ORG 5.1) & English] [HEVC] | Full Movie',
-    im: 'vGXptEdgZIhPg3cGlc7e8sNPC2e',
-    dl: 'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Venom.The.Last.Dance.2024.720p.10Bit.WEB-DL.Hindi.5.1-English.HEVC.x265-HDHub4u.Tv.mkv',
-    link: 'tt16366836'
+        "title": "Venom: The Last Dance (2024) WEB-DL [Hindi (ORG 5.1) & English] [HEVC] | Full Movie",
+        "im": "vGXptEdgZIhPg3cGlc7e8sNPC2e",
+        "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Venom.The.Last.Dance.2024.720p.10Bit.WEB-DL.Hindi.5.1-English.HEVC.x265-HDHub4u.Tv.mkv",
+        "link": "tt16366836",
+        "year": "2024",
+        "duration": "105 min",
+        "rating": "6.8",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "Venom faces a new dangerous adversary who pushes him to the limits. Eddie Brock and the symbiote must fight to save the world from a destructive force unlike anything they’ve ever encountered.",
+        "type": "movie",
+        "quality": "webdl",
+        "cast": "Tom Hardy, Michelle Williams, Woody Harrelson"
     },
     
     {
@@ -2813,12 +2948,20 @@ const movies = [
     link: 'tt1877832'
     },
     
-    {
-    title: 'Deadpool (2016) BluRay [Hindi-English] | Full Movie',
-    im: '3E53WEZJqP6aM84D8CckXx4pIHw',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=9vXjZPbeHhj2mPjTA',
-    link: 'tt1431045'
-    },
+{
+    "title": "Deadpool (2016) BluRay [Hindi-English] | Full Movie",
+    "im": "3E53WEZJqP6aM84D8CckXx4pIHw",
+    "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=9vXjZPbeHhj2mPjTA",
+    "link": "tt1431045",
+    "year": "2016",
+    "duration": "108 min",
+    "rating": "8.0",
+    "genre": "Action, Comedy, Sci-Fi",
+    "description": "Wade Wilson, a former special forces operative, turns into the mercenary Deadpool after being subjected to an experimental treatment that gives him accelerated healing powers. He seeks revenge against the man who nearly destroyed his life.",
+    "type": "movie",
+    "quality": "bluRay",
+    "cast": "Ryan Reynolds, Morena Baccarin, T.J. Miller"
+},
     
     {
     title: 'X-Men: Apocalypse (2016) BluRay [Hindi-English] | Full Movie',
@@ -2834,12 +2977,21 @@ const movies = [
     link: 'tt3315342'
     },
     
-    {
-    title: 'Deadpool 2 (2018) BluRay [Hindi-English] | Full Movie',
-    im: 'to0spRl1CMDvyUbOnbb4fTk3VAd',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=crni6yr2SEaxZ65a9',
-    link: 'tt5463162'
-    },
+{
+    "title": "Deadpool 2 (2018) BluRay [Hindi-English] | Full Movie",
+    "im": "to0spRl1CMDvyUbOnbb4fTk3VAd",
+    "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=crni6yr2SEaxZ65a9",
+    "link": "tt5463162",
+    "year": "2018",
+    "duration": "119 min",
+    "rating": "7.7",
+    "genre": "Action, Adventure, Comedy",
+    "description": "Deadpool forms the X-Force team to protect a young mutant from the powerful Cable. Together, they must take on a new set of dangerous foes and navigate complex challenges in this action-packed sequel.",
+    "type": "movie",
+    "quality": "bluRay",
+    "cast": "Ryan Reynolds, Josh Brolin, Morena Baccarin"
+},
+
     
     {
     title: 'X-Men: Dark Phoenix (2019) BluRay [Hindi-English] | Full Movie',
@@ -2849,39 +3001,77 @@ const movies = [
     },
     
     {
-    title: 'Men in Black 1 (1997) BluRay [Hindi-English] | Full Movie',
-    im: 'uLOmOF5IzWoyrgIF5MfUnh5pa1X',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=CJLyq2U3aTztajhs8',
-    link: 'tt0119654'
+        "title": "Men in Black 1 (1997) BluRay [Hindi-English] | Full Movie",
+        "im": "uLOmOF5IzWoyrgIF5MfUnh5pa1X",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=CJLyq2U3aTztajhs8",
+        "link": "tt0119654",
+        "year": "1997",
+        "duration": "98 min",
+        "rating": "7.3",
+        "genre": "Action, Adventure, Comedy",
+        "description": "A secret organization known as the Men in Black (MIB) controls extraterrestrial activity on Earth. Agent J recruits a new partner, Agent K, to protect the world from an alien threat.",
+        "type": "movie",
+        "quality": "bluRay",
+        "cast": "Will Smith, Tommy Lee Jones, Linda Fiorentino"
+    },
+    {
+        "title": "Men in Black 2 - II (2002) BluRay [Hindi-English] | Full Movie",
+        "im": "enA22EPyzc2WQ1VVyY7zxresQQr",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=seYdkyG21UX7ZnAMA",
+        "link": "tt0120912",
+        "year": "2002",
+        "duration": "88 min",
+        "rating": "6.2",
+        "genre": "Action, Adventure, Comedy",
+        "description": "Agent J must recruit his old partner, Agent K, who has had his memory erased, to stop a new alien threat and save the world once again.",
+        "type": "movie",
+        "quality": "bluRay",
+        "cast": "Will Smith, Tommy Lee Jones, Lara Flynn Boyle"
+    },
+    {
+        "title": "Men in Black 3 (2012) BluRay [Hindi-English] | Full Movie",
+        "im": "90DdoEStzeObs96fsYf4GG544iN",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=9JCq3pFz9jZeVqm88",
+        "link": "tt1409024",
+        "year": "2012",
+        "duration": "106 min",
+        "rating": "6.8",
+        "genre": "Action, Adventure, Comedy",
+        "description": "Agent J travels back in time to 1969 to save his partner, Agent K, from being killed by an alien criminal. Along the way, he must team up with a younger version of Agent K.",
+        "type": "movie",
+        "quality": "bluRay",
+        "cast": "Will Smith, Tommy Lee Jones, Josh Brolin"
+    },
+    {
+        "title": "Men in Black 4: International (2019) BluRay [Hindi-English] | Full Movie",
+        "im": "dPrUPFcgLfNbmDL8V69vcrTyEfb",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=R3QpHiySnMakcLJMA",
+        "link": "tt2283336",
+        "year": "2019",
+        "duration": "114 min",
+        "rating": "6.7",
+        "genre": "Action, Adventure, Comedy",
+        "description": "The Men in Black have expanded to a global level. New recruit Agent M joins Agent H in London to uncover an alien conspiracy that could threaten the planet.",
+        "type": "movie",
+        "quality": "bluRay",
+        "cast": "Chris Hemsworth, Tessa Thompson, Liam Neeson"
     },
     
-    {
-    title: 'Men in Black 2 - II (2002) BluRay [Hindi-English] | Full Movie',
-    im: 'enA22EPyzc2WQ1VVyY7zxresQQr',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=seYdkyG21UX7ZnAMA',
-    link: 'tt0120912'
-    },
-    
-    {
-    title: 'Men in Black 3 (2012) BluRay [Hindi-English] | Full Movie',
-    im: '90DdoEStzeObs96fsYf4GG544iN',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=9JCq3pFz9jZeVqm88',
-    link: 'tt1409024'
-    },
-    
-    {
-    title: 'Men in Black 4: International (2019) BluRay [Hindi-English] | Full Movie',
-    im: 'dPrUPFcgLfNbmDL8V69vcrTyEfb',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=R3QpHiySnMakcLJMA',
-    link: 'tt2283336'
-    },
-    
-    {
-    title: 'Pushpa The Rise Part 1 (2021) WEB-DL [Hindi] | Full Movie',
-    im: 'r1yAzVQNbCbPTbB3GZFour9Qr0t',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=uVFzgQFR1hXEQr9F8',
-    link: 'tt9389998'
-    },
+{
+    "title": "Pushpa The Rise Part 1 (2021) WEB-DL [Hindi] | Full Movie",
+    "im": "r1yAzVQNbCbPTbB3GZFour9Qr0t",
+    "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=uVFzgQFR1hXEQr9F8",
+    "link": "tt9389998",
+    "year": "2021",
+    "duration": "179 min",
+    "rating": "7.6",
+    "genre": "Action, Drama, Thriller",
+    "description": "Pushpa, a laborer working in the red sandalwood smuggling business, rises through the ranks to become a powerful figure. The film follows his journey and the conflict with the police and rival smugglers.",
+    "type": "movie",
+    "quality": "webdl",
+    "cast": "Allu Arjun, Fahadh Faasil, Rashmika Mandanna"
+},
+
     
     {
     title: 'Surya The Soldier - Naa Peru Surya, Naa Illu India (2018) WEB-DL [Hindi] | Full Movie',
@@ -2890,12 +3080,21 @@ const movies = [
     link: 'tt7794524'
     },
     
-    {
-    title: 'DJ - Duvvada Jagannadham (2017) WEB-DL [Hindi] | Full Movie',
-    im: '71aRdJ1BVKXiwaERnD2UWL3J5AR',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=RaUHJ4PHMX4qB6BY7',
-    link: 'tt6734984'
-    },
+{
+    "title": "DJ - Duvvada Jagannadham (2017) WEB-DL [Hindi] | Full Movie",
+    "im": "71aRdJ1BVKXiwaERnD2UWL3J5AR",
+    "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=RaUHJ4PHMX4qB6BY7",
+    "link": "tt6734984",
+    "year": "2017",
+    "duration": "146 min",
+    "rating": "7.2",
+    "genre": "Action, Comedy, Drama",
+    "description": "Duvvada Jagannadham, a simple Brahmin boy, leads a double life as DJ, a stylish and fearless vigilante. He fights against the corrupt elements of society, even while managing his family and cultural obligations.",
+    "type": "movie",
+    "quality": "webdl",
+    "cast": "Allu Arjun, Pooja Hegde, Rao Ramesh"
+},
+
     
     {
     title: 'Sarrainodu (2016) WEB-DL [Hindi] | Full Movie',
@@ -2918,12 +3117,20 @@ const movies = [
     link: 'tt2807410'
     },
     
-    {
-    title: 'Main Hoon Lucky The Racer - Race Gurram (2014) WEB-DL [Hindi] | Full Movie',
-    im: '4ojbzpHL0wmlnrmlLQGLds6Hwvu',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=FCNee1xo7fXF54ww5',
-    link: 'tt3142764'
-    },
+{
+    "title": "Main Hoon Lucky The Racer - Race Gurram (2014) WEB-DL [Hindi] | Full Movie",
+    "im": "4ojbzpHL0wmlnrmlLQGLds6Hwvu",
+    "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=FCNee1xo7fXF54ww5",
+    "link": "tt3142764",
+    "year": "2014",
+    "duration": "152 min",
+    "rating": "7.1",
+    "genre": "Action, Comedy, Drama",
+    "description": "Lucky, a man with an adventurous spirit, and his brother are caught in a race with powerful enemies. He must use his wit and courage to overcome challenges and protect his loved ones in this action-packed journey.",
+    "type": "movie",
+    "quality": "webdl",
+    "cast": "Allu Arjun, Shruti Haasan, Ravi Kishan"
+},
     
     {
     title: 'Dangerous Khiladi 2 - Iddarammayilatho (2013) WEB-DL [Hindi] | Full Movie',

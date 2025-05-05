@@ -125,10 +125,10 @@ function displayMovies() {
         let ratingColor = '#6c757d'; // Default for N/A
         if (movie.rating && !isNaN(parseFloat(movie.rating))) {
             const rating = parseFloat(movie.rating);
-            if (rating >= 7) {
+            if (rating >= 8.5) {
                 ratingColor = '#28a745'; // Green for high ratings (8.5–10)
-            } else if (rating >= 6) {
-                ratingColor = '#f39c12'; // Yellow for medium-high (7–8.4)
+            } else if (rating >= 7) {
+                ratingColor = '#0000FF'; // Yellow for medium-high (7–8.4)
             } else if (rating >= 5) {
                 ratingColor = '#fd7e14'; // Orange for medium (5–6.9)
             } else {

@@ -14,6 +14,30 @@ link: ''
 */
 
 {
+title:'The Last of Us [Season 2] [Episode 4] WEB-DL [Hindi + English] | HBO Series',
+im:'dmo6TYuuJgaYinXBPjrgG9mB5od',
+bgi:'hI5PALWKjn9DeyQkAiObJwzSeOz',
+dl:'https://pixeldrain.net/api/file/r7SyvyhS?download',
+link: 'tt3581920'
+},
+
+{
+title:'Doraemon the Movie: Nobitas Sky Utopia [2023] BluRay [Hindi + English] | Full Movie',
+im:'uux6M8z3hxLDkq8LXSzq8528mrq',
+bgi:'zq4HFBohIe424AI55Z8CZBbgJUZ',
+dl:'https://pub-ed0ca22af5c04301b7abe9dac4aaf9bc.r2.dev/Doraemon.Nobitas.Sky.Utopia.2023.720p.BluRay.Hindi.Japanese.ESubs-Vegamovies.is.mkv',
+link: 'tt21223380'
+},
+
+{
+title:'Mars Express [2023] BluRay [Hindi + English] | Full Movie',
+im:'g8rUn0khoYB3G4gPPGTF1Xv9Olu',
+bgi:'hFh3BpBQSZfYImHLdjBMCAwJ6I',
+dl:'https://pixeldrain.net/api/file/ryKtBQU1?download',
+link: 'tt26915336'
+},
+
+{
 title:'Peaky Blinders [Season 2] [Episode 2] WEB-DL [Hindi + English]',
 im:'m4JPtC3gWUsq0GlfNK3SdgkL9XG',
 bgi:'yQUuWCeTkuhZrXEKcEtMWisoCwO',

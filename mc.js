@@ -1079,7 +1079,36 @@ const movies = [
             "description": "A skilled cleaner is tasked with cleaning up the aftermath of a brutal crime, only to discover that the case is connected to his own dark past.",
             "type": "movie",
             "quality": "webdl"
-        },
+        }
+    
+    
+    {
+    title:'WWE WrestleMania 41: Sunday [2025] WEB-DL [Hindi + English] | Full Event',
+    im:'ngRfoPVEEI36COa5TVf1vrv57Ia',
+    dl:'https://pub-e70d344c885b4dc8b57686064a1a5f68.r2.dev/WWE.Wrestlemania.41.Sunday.2025.720p.WEB-DL.HINDI.ENGLISH.AAC2.0.Esubs.H.264-HDHub4u.Ms.mkv',
+    link: 'tt32283598'
+    },
+    
+    {
+    title:'WWE WrestleMania 41: Saturday [2025] WEB-DL [Hindi + English] | Full Event',
+    im:'jzPK38qZBUxbsegnF5MlqLdaEFq',
+    dl:'https://pub-f2eef84a5a02484ebe1c5a3453522556.r2.dev/WWE.Wrestlemania.41.Saturday.2025.720p.WEB-DL.HINDI.AAC2.0.Esubs.H.264-HDHub4u.Ms.mkv',
+    link: 'tt32283598'
+    },
+    
+    {
+    title:'Panchayat [Season 2] WEB-DL [Hindi] [HEVC] | All Episodes',
+    im:'7boJeO6mV4Q69Tjx14CylvqkXZP',
+    dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=k2RTtZQD&sn=2&es=Panchayat.S02.720p.HEVC.Hindi.WEB-DL.5.1.ESub.x265-HDHub4u.Tv/Panchayat.S02.E&e=8&el=.720p.HEVC.Hindi.WEB-DL.5.1.ESub.x265-HDHub4u.Tv.mkv',
+    link: 'tt12004706'
+    },
+    
+    {
+    title:'Panchayat [Season 1] WEB-DL [Hindi] [HEVC] | All Episodes',
+    im:'sx3MJ4ATkSoCyqayqco0O6wUqQ2',
+    dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=5KqiFtHE&sn=1&es=Panchayat.S01.720p.HEVC.Hindi.WEB-DL.5.1.ESub.x265-HDHub4u.Tv/Panchayat.S01.E&e=8&el=.720p.HEVC.Hindi.WEB-DL.5.1.ESub.x265-HDHub4u.Tv.mkv',
+    link: 'tt12004706'
+    },
     
     {
     title:'Suits LA [Season 1] [Episode 9] WEB-DL [Hindi + English]',

@@ -1807,17 +1807,32 @@ const movies = [
     },
     
     {
-    title:'Avatar 2: The Way of Water [2022] [IMAX] Blu-Ray [Hindi + English] | Full Movie',
-    im:'t6HIqrRAclMCA60NsSmeqe9RmNV',
-    dl:'https://pub-0a3c165498564f0f826acf53d542d75b.r2.dev/Avatar%20The%20Way%20of%20Water%202022%20BluRay%20720p%20x265%20HEVC%2010bit%20Hindi%20English%20AAC%205.1%20ESub%20-%20Vegamovies.to.mkv',
-    link: 'tt1630029'
+        "title": "Avatar 2: The Way of Water [2022] [IMAX] Blu-Ray [Hindi + English] | Full Movie",
+        "im": "t6HIqrRAclMCA60NsSmeqe9RmNV",
+        "dl": "https://pub-0a3c165498564f0f826acf53d542d75b.r2.dev/Avatar%20The%20Way%20of%20Water%202022%20BluRay%20720p%20x265%20HEVC%2010bit%20Hindi%20English%20AAC%205.1%20ESub%20-%20Vegamovies.to.mkv",
+        "link": "tt1630029",
+        "year": "2022",
+        "duration": "192 min",
+        "rating": "7.8",
+        "genre": "Action, Adventure, Fantasy",
+        "description": "Jake Sully and Neytiri's peaceful life is disrupted when a new threat emerges. The couple must now explore the oceans and navigate new challenges on the planet Pandora.",
+        "type": "movie",
+        "quality": "bluRay",
+        "cast": "Sam Worthington, Zoe Saldana, Sigourney Weaver"
     },
-    
     {
-    title:'Avatar [2009] [EXTENDED IMAX] [Hindi + English] | Full Movie',
-    im:'kyeqWdyUXW608qlYkRqosgbbJyK',
-    dl:'https://pub-71c4b16b588e47ad8b5e22e5b69dbf96.r2.dev/Avatar%202009%20BluRay%20EXTENDED%20720p%20x265%2010bit%20Hindi%20English%20AAC%205.1%20ESub%20-%20Vegamovies.to.mkv',
-    link: 'tt0499549'
+        "title": "Avatar [2009] [EXTENDED IMAX] [Hindi + English] | Full Movie",
+        "im": "kyeqWdyUXW608qlYkRqosgbbJyK",
+        "dl": "https://pub-71c4b16b588e47ad8b5e22e5b69dbf96.r2.dev/Avatar%202009%20BluRay%20EXTENDED%20720p%20x265%2010bit%20Hindi%20English%20AAC%205.1%20ESub%20-%20Vegamovies.to.mkv",
+        "link": "tt0499549",
+        "year": "2009",
+        "duration": "162 min",
+        "rating": "8.0",
+        "genre": "Action, Adventure, Science Fiction",
+        "description": "On the lush alien world of Pandora, paraplegic marine Jake Sully is recruited to join a project that enables humans to communicate with the planet's indigenous species through bio-engineered avatars.",
+        "type": "movie",
+        "quality": "bluRay",
+        "cast": "Sam Worthington, Zoe Saldana, Sigourney Weaver"
     },
     
     {
@@ -2004,11 +2019,19 @@ const movies = [
     },
     
     {
-    title:'Breaking Bad [Season 5] BluRay [Hindi + English] [HEVC] | ALL Episodes',
-    im:'r3z70vunihrAkjILQKWHX0G2xzO',
-    dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=Rg3X1eWL&sn=5&es=Breaking.Bad.S05E&e=16&el=.720p.BluRay.HIN-ENG.x264.ESub-Vegamovies.To.mkv',
-    link: 'tt0903747'
-    },
+        "title": "Breaking Bad [Season 5] BluRay [Hindi + English] [HEVC] | ALL Episodes",
+        "im": "r3z70vunihrAkjILQKWHX0G2xzO",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?pd=Rg3X1eWL&sn=5&es=Breaking.Bad.S05E&e=16&el=.720p.BluRay.HIN-ENG.x264.ESub-Vegamovies.To.mkv",
+        "link": "tt0903747",
+        "year": "2012",
+        "duration": "47 min per episode",
+        "rating": "9.5",
+        "genre": "Crime, Drama, Thriller",
+        "description": "Walter White, a high school chemistry teacher turned methamphetamine manufacturer, faces the consequences of his criminal actions in the final season of the critically acclaimed series.",
+        "type": "series",
+        "quality": "bluRay",
+        "cast": "Bryan Cranston, Aaron Paul, Anna Gunn"
+    },    
     
     {
     title:'Dil Bechara [2020] WEB-DL [Hindi] [HEVC] | Full Movie',

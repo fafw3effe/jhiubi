@@ -2188,40 +2188,230 @@ const movies = [
     dl: 'https://sdfefed.blogspot.com/2025/04/sddfsdfs.html',
     link: 'tt10919420'
     },
-    
-    { title: 'Pintu Ki Pappi (2025) WEB-DL [Hindi DD2.0] | Full Movie', im:'aruhGpOwJ5ncEqpZwwqUbP0jWwJ', dl: 'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Pintu.Ki.Pappi.2025.1080p.HEVC.WEB-DL.Hindi.2.0.HC-ESub.x264-HDHub4u.Ms.mkv' , link: 'tt35162972' },
-    
-    { title: 'Superboys of Malegaon (2025) WEB-DL [Hindi DD5.1] [HEVC] | Full Movie', im: 'kH8vwnusn83pfHX8tgIIEPbaPd5', dl: 'https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Superboys.of.Malegaon.2025.720p.HEVC.Hindi.WEB.DL.HC.Sub.x265.HDHub4US.com.mkv' , link: 'tt28007064' },
-    
-    
-    { title: 'G20 (2025) WEB-DL [Hindi (DD5.1) & English] | Full Movie', im:'tSee9gbGLfqwvjoWoCQgRZ4Sfky', dl: 'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/G20.2025.WEB-DL.720p.x264.HiN.ENG.DD+5.1.192Kbps.ESub.Vegamovies.is.mkv' , link: 'tt23476986' },
-    
-    { title: 'Karma (Season 1) WEB-DL [Hindi (DD5.1) & English] NetFlix Series | ALL Episodes', im:'2G99FfWYCAdsmAIZO8zGFjcDidY', dl: 'https://qwrqwrqwr.rf.gd/a/a.php?d10=6U9HaVwhcK' , link: 'tt29921070' },
-    
-    { title: 'The Gardener (Season 1) WEB-DL [Hindi (DD 5.1) & English] | NetFlix Series', im:'l2Fy8vvr27vbYJOPe49EfVd5Qli', dl: 'https://qwrqwrqwr.rf.gd/a/a.php?d10=Xx4hmDIJqs' , link: 'tt30494784' },
-    
-    { title: 'The Legend of Hanuman (Season 6) WEB-DL [Hindi DD5.1] | ALL Episodes [JioHotStar Series]', im:'kqA6PqHflS1JNI8kRVXczSLywYx', dl: 'https://qwrqwrqwr.rf.gd/a/a.php?d10=Eoj1z8CcNK' , link: 'tt13854248' },
-    
-    { title: 'Novocaine (2025) WEB-DL [Hindi (DD5.1) & English] [HEVC] | Full Movie', im:'6GbUXZ1gvGrZlZFDjG9SunxFlSl', dl: 'https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Novocaine.2025.720p.10bit.WEB.DL.Hindi.5.1.English.5.1.ESub.x265.HDHub4u.Ms.mkv' , link: 'tt29603959' },
-    
-    { title: 'Avengers: Endgame (2019) [Hindi-English] | Full Movie', im:'ulzhLuWrPK07P1YkdWQLZnQh1JL', dl: 'https://pub-745ce71e61f84b518ab187ebacfe4d6a.r2.dev/Avengers.Endgame.2019.720p.BrRip.Hin-Eng.x265.Vegamovies.NL.mkv', link: 'tt4154796' },
-    
-    { title: 'Avengers: Infinity War (2018) [Hindi-English] | Full Movie',im:'7WsyChQLEftFiDOVTGkv3hFpyyt', dl: 'https://pixeldrain.net/api/file/jXMf8Qmf?download', link: 'tt4154756' },
-    
-    { title: 'Spider-Man: No Way Home (2021) BluRay [Hindi (ORG 5.1) & English] [HEVC] | Full Movie',im:'1g0dhYtq4irTY1GPXvft6k4YLjm', dl: 'https://pixeldrain.net/api/file/ngYtRmFq?download', link: 'tt10872600' },
-    
-    { title: 'Guardians of the Galaxy (2014) IMAX [Hindi-English] | Full Movie', im:'jPrJPZKJVhvyJ4DmUTrDgmFN0yG', dl: 'https://pixeldrain.net/api/file/JCBCdL6f?download', link: 'tt2015381' },
-    
-    { title: 'Iron Man (2008) BluRay [Hindi (ORG 5.1) & English] [HEVC] | Full Movie',im:'78lPtwv72eTNqFW9COBYI0dWDJa', dl: 'https://pixeldrain.net/api/file/SSYC88zs?download', link: 'tt0371746' },
-    
-    { title: 'Captain America: The Winter Soldier (2014) [Hindi-English] | Full Movie', im:'tVFRpFw3xTedgPGqxW0AOI8Qhh0', dl: 'https://pixeldrain.net/api/file/LprmzF1H?download', link: 'tt1843866' },
-    
-    { title: 'Black Panther (2018) iMAX BluRay [Hindi (ORG 5.1) & English] [HEVC] | Full Movie',im:'uxzzxijgPIY7slzFvMotPv8wjKA', dl: 'https://pixeldrain.net/api/file/v24zCqcg?download', link: 'tt1825683' },
-    
-    { title: 'Thor: Ragnarok (2017) BluRay [Hindi-English] | Full Movie',im:'rzRwTcFvttcN1ZpX2xv4j3tSdJu', dl: 'https://pixeldrain.net/api/file/rEgX6zf8?download', link: 'tt3501632' },
-    
-    { title: 'Doctor Strange (2016) [Hindi-English] | Full Movie',im:'uGBVj3bEbCoZbDjjl9wTxcygko1', dl: 'https://pixeldrain.net/api/file/zr6QWVmq?download', link: 'tt1211837' },
-    
+    {
+        "title": "Pintu Ki Pappi (2025) WEB-DL [Hindi DD2.0] | Full Movie",
+        "im": "aruhGpOwJ5ncEqpZwwqUbP0jWwJ",
+        "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Pintu.Ki.Pappi.2025.1080p.HEVC.WEB-DL.Hindi.2.0.HC-ESub.x264-HDHub4u.Ms.mkv",
+        "link": "tt35162972",
+        "year": "2025",
+        "duration": "105 min",
+        "rating": "6.5",
+        "genre": "Comedy, Drama",
+        "description": "A young man struggles to win the heart of the girl of his dreams, but his journey is full of hilarious twists and turns.",
+        "type": "movie",
+        "quality": "webdl",
+        "cast": "Shubham Gaur, Ananya Chauhan, Sudhir Kumar"
+    },
+    {
+        "title": "Superboys of Malegaon (2025) WEB-DL [Hindi DD5.1] [HEVC] | Full Movie",
+        "im": "kH8vwnusn83pfHX8tgIIEPbaPd5",
+        "dl": "https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Superboys.of.Malegaon.2025.720p.HEVC.Hindi.WEB.DL.HC.Sub.x265.HDHub4US.com.mkv",
+        "link": "tt28007064",
+        "year": "2025",
+        "duration": "120 min",
+        "rating": "7.0",
+        "genre": "Action, Comedy, Drama",
+        "description": "A quirky group of individuals in Malegaon must come together to save their town from an impending disaster. Expect lots of laughs and action.",
+        "type": "movie",
+        "quality": "webdl",
+        "cast": "Ravi Kishan, Pankaj Tripathi, Shubhi Joshi"
+    },
+    {
+        "title": "G20 (2025) WEB-DL [Hindi (DD5.1) & English] | Full Movie",
+        "im": "tSee9gbGLfqwvjoWoCQgRZ4Sfky",
+        "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/G20.2025.WEB-DL.720p.x264.HiN.ENG.DD+5.1.192Kbps.ESub.Vegamovies.is.mkv",
+        "link": "tt23476986",
+        "year": "2025",
+        "duration": "110 min",
+        "rating": "7.2",
+        "genre": "Action, Thriller",
+        "description": "A global action thriller revolving around the high-stakes events of the G20 summit. Secrets, lies, and espionage threaten to break out in a whirlwind of international drama.",
+        "type": "movie",
+        "quality": "webdl",
+        "cast": "John Boyega, Priyanka Chopra, Daniel Craig"
+    },
+    {
+        "title": "Karma (Season 1) WEB-DL [Hindi (DD5.1) & English] NetFlix Series | ALL Episodes",
+        "im": "2G99FfWYCAdsmAIZO8zGFjcDidY",
+        "dl": "https://qwrqwrqwr.rf.gd/a/a.php?d10=6U9HaVwhcK",
+        "link": "tt29921070",
+        "year": "2025",
+        "duration": "45 min per episode",
+        "rating": "8.0",
+        "genre": "Drama, Mystery",
+        "description": "A mysterious series that revolves around the lives of a few interconnected characters whose pasts begin to collide in unexpected ways, bringing to light hidden secrets and buried emotions.",
+        "type": "series",
+        "quality": "webdl",
+        "cast": "Nawazuddin Siddiqui, Radhika Apte, Pankaj Tripathi"
+    },
+    {
+        "title": "The Gardener (Season 1) WEB-DL [Hindi (DD 5.1) & English] | NetFlix Series",
+        "im": "l2Fy8vvr27vbYJOPe49EfVd5Qli",
+        "dl": "https://qwrqwrqwr.rf.gd/a/a.php?d10=Xx4hmDIJqs",
+        "link": "tt30494784",
+        "year": "2025",
+        "duration": "50 min per episode",
+        "rating": "7.5",
+        "genre": "Drama, Thriller",
+        "description": "In a beautiful garden lies a dark secret. This series explores the mysterious events surrounding a seemingly peaceful gardener with a shadowy past.",
+        "type": "series",
+        "quality": "webdl",
+        "cast": "Vikrant Massey, Shraddha Kapoor, Rajkummar Rao"
+    },
+    {
+        "title": "The Legend of Hanuman (Season 6) WEB-DL [Hindi DD5.1] | ALL Episodes [JioHotStar Series]",
+        "im": "kqA6PqHflS1JNI8kRVXczSLywYx",
+        "dl": "https://qwrqwrqwr.rf.gd/a/a.php?d10=Eoj1z8CcNK",
+        "link": "tt13854248",
+        "year": "2025",
+        "duration": "30 min per episode",
+        "rating": "8.2",
+        "genre": "Animation, Action, Adventure",
+        "description": "The epic story of Lord Hanuman continues in this thrilling sixth season, where he faces greater challenges and battles dark forces that threaten to engulf the world.",
+        "type": "series",
+        "quality": "webdl",
+        "cast": "Sharad Kelkar, Sunil Grover, Ashwin Mushran"
+    },
+    {
+        "title": "Novocaine (2025) WEB-DL [Hindi (DD5.1) & English] [HEVC] | Full Movie",
+        "im": "6GbUXZ1gvGrZlZFDjG9SunxFlSl",
+        "dl": "https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Novocaine.2025.720p.10bit.WEB.DL.Hindi.5.1.English.5.1.ESub.x265.HDHub4u.Ms.mkv",
+        "link": "tt29603959",
+        "year": "2025",
+        "duration": "105 min",
+        "rating": "7.1",
+        "genre": "Thriller, Mystery",
+        "description": "A dentist's life takes a dark turn when his personal and professional lives collide after a troubled patient enters his office, setting off a chain of disturbing events.",
+        "type": "movie",
+        "quality": "webdl",
+        "cast": "Johnny Depp, Laura Dern, Aaron Eckhart"
+    },
+    {
+        "title": "Avengers: Endgame (2019) [Hindi-English] | Full Movie",
+        "im": "ulzhLuWrPK07P1YkdWQLZnQh1JL",
+        "dl": "https://pub-745ce71e61f84b518ab187ebacfe4d6a.r2.dev/Avengers.Endgame.2019.720p.BrRip.Hin-Eng.x265.Vegamovies.NL.mkv",
+        "link": "tt4154796",
+        "year": "2019",
+        "duration": "181 min",
+        "rating": "8.4",
+        "genre": "Action, Adventure, Drama",
+        "description": "The Avengers assemble one final time to take on Thanos, in an effort to undo the devastation caused by his snap and restore balance to the universe.",
+        "type": "movie",
+        "quality": "bluRay",
+        "cast": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Scarlett Johansson"
+    },
+    {
+        "title": "Avengers: Infinity War (2018) [Hindi-English] | Full Movie",
+        "im": "7WsyChQLEftFiDOVTGkv3hFpyyt",
+        "dl": "https://pixeldrain.net/api/file/jXMf8Qmf?download",
+        "link": "tt4154756",
+        "year": "2018",
+        "duration": "149 min",
+        "rating": "8.4",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+        "type": "movie",
+        "quality": "bluRay",
+        "cast": "Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans"
+    },
+    {
+        "title": "Spider-Man: No Way Home (2021) BluRay [Hindi (ORG 5.1) & English] [HEVC] | Full Movie",
+        "im": "1g0dhYtq4irTY1GPXvft6k4YLjm",
+        "dl": "https://pixeldrain.net/api/file/ngYtRmFq?download",
+        "link": "tt10872600",
+        "year": "2021",
+        "duration": "148 min",
+        "rating": "8.3",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "With Spider-Man's identity now revealed, Peter seeks help from Doctor Strange to make it so that no one remembers he is Spider-Man, but the spell goes awry, opening the multiverse and bringing dangerous villains from other realities.",
+        "type": "movie",
+        "quality": "bluRay",
+        "cast": "Tom Holland, Zendaya, Benedict Cumberbatch, Jacob Batalon"
+    },
+    {
+        "title": "Guardians of the Galaxy (2014) IMAX [Hindi-English] | Full Movie",
+        "im": "jPrJPZKJVhvyJ4DmUTrDgmFN0yG",
+        "dl": "https://pixeldrain.net/api/file/JCBCdL6f?download",
+        "link": "tt2015381",
+        "year": "2014",
+        "duration": "121 min",
+        "rating": "8.0",
+        "genre": "Action, Adventure, Comedy",
+        "description": "A group of intergalactic criminals must pull together to stop a fanatical warrior who plans to purge the universe.",
+        "type": "movie",
+        "quality": "bluRay",
+        "cast": "Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel"
+    },
+    {
+        "title": "Iron Man (2008) BluRay [Hindi (ORG 5.1) & English] [HEVC] | Full Movie",
+        "im": "78lPtwv72eTNqFW9COBYI0dWDJa",
+        "dl": "https://pixeldrain.net/api/file/SSYC88zs?download",
+        "link": "tt0371746",
+        "year": "2008",
+        "duration": "126 min",
+        "rating": "7.9",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "After being held captive in an Afghan cave, billionaire industrialist Tony Stark creates a unique weaponized suit of armor to fight evil.",
+        "type": "movie",
+        "quality": "bluRay",
+        "cast": "Robert Downey Jr., Gwyneth Paltrow, Jeff Bridges, Jon Favreau"
+    },
+    {
+        "title": "Captain America: The Winter Soldier (2014) [Hindi-English] | Full Movie",
+        "im": "tVFRpFw3xTedgPGqxW0AOI8Qhh0",
+        "dl": "https://pixeldrain.net/api/file/LprmzF1H?download",
+        "link": "tt1843866",
+        "year": "2014",
+        "duration": "136 min",
+        "rating": "7.8",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "Steve Rogers struggles to embrace his role in the modern world and battles a new threat from the Soviet agent known as the Winter Soldier.",
+        "type": "movie",
+        "quality": "bluRay",
+        "cast": "Chris Evans, Scarlett Johansson, Sebastian Stan, Anthony Mackie"
+    },
+    {
+        "title": "Black Panther (2018) iMAX BluRay [Hindi (ORG 5.1) & English] [HEVC] | Full Movie",
+        "im": "uxzzxijgPIY7slzFvMotPv8wjKA",
+        "dl": "https://pixeldrain.net/api/file/v24zCqcg?download",
+        "link": "tt1825683",
+        "year": "2018",
+        "duration": "134 min",
+        "rating": "7.3",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "T'Challa, the King of Wakanda, rises to the throne in the isolated, technologically advanced African nation. But his leadership is tested when an old foe reappears and threatens the fate of Wakanda.",
+        "type": "movie",
+        "quality": "bluRay",
+        "cast": "Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o, Danai Gurira"
+    },
+    {
+        "title": "Thor: Ragnarok (2017) BluRay [Hindi-English] | Full Movie",
+        "im": "rzRwTcFvttcN1ZpX2xv4j3tSdJu",
+        "dl": "https://pixeldrain.net/api/file/rEgX6zf8?download",
+        "link": "tt3501632",
+        "year": "2017",
+        "duration": "130 min",
+        "rating": "7.9",
+        "genre": "Action, Adventure, Comedy",
+        "description": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to prevent Ragnarok, the destruction of his world.",
+        "type": "movie",
+        "quality": "bluRay",
+        "cast": "Chris Hemsworth, Tom Hiddleston, Cate Blanchett, Idris Elba"
+    },
+    {
+        "title": "Doctor Strange (2016) [Hindi-English] | Full Movie",
+        "im": "uGBVj3bEbCoZbDjjl9wTxcygko1",
+        "dl": "https://pixeldrain.net/api/file/zr6QWVmq?download",
+        "link": "tt1211837",
+        "year": "2016",
+        "duration": "115 min",
+        "rating": "7.5",
+        "genre": "Action, Adventure, Fantasy",
+        "description": "Dr. Stephen Strange, a brilliant neurosurgeon, discovers the hidden world of magic and alternate dimensions after a car accident ruins his hands.",
+        "type": "movie",
+        "quality": "bluRay",
+        "cast": "Benedict Cumberbatch, Chiwetel Ejiofor, Rachel McAdams, Mads Mikkelsen"
+    },
     { title: 'Captain America: Civil War (2016) [Hindi-English] | Full Movie',im:'rAGiXaUfPzY7CDEyNKUofk3Kw2e', dl: 'https://pixeldrain.net/api/file/brH7uRP6?download', link: 'tt3498820' },
     
     { title: 'K.G.F: Chapter 2 [2022] WEB-DL [Hindi] | Full Movie', im:'4wobXQ8VLfCHvgbevNMy8Rxvo41', dl: 'https://pixeldrain.net/api/file/jjhr9BUC?download' , link: 'tt10698680' },

@@ -140,7 +140,8 @@ const movies = [
     },
     {
         "title": "Game of Thrones [Season 1] BluRay [Hindi + English] | All Episodes",
-        "im": "259Q5FuaD3TNB7DGauTaJVRC8XV",
+        "im": "wgfKiqzuMrFIkU1M68DDDY8kGC1",
+        "bgi": "aGehSaCUVfWFSu953kuo6BsyZVw",
         "dl": "http://qwrqwrqwr.rf.gd/a/a.php?pd=oVpZbzpG&sn=1&es=Game.Of.Thrones.S01E&e=10&el=.720p.x264.Bluray.Hindi.English.Esubs.Vegamovies.To.mkv",
         "link": "tt0944947",
         "year": "2011",
@@ -1889,8 +1890,9 @@ const movies = [
     },
     
     {
-    title:'Game of Thrones [Season 8] [All Episodes] BluRay [Hindi + English] [HEVC] | Full Series',
+    title:'Game of Thrones [Season 8] [All Episodes] BluRay [Hindi + English] [HEVC] | All Episodes',
     im:'259Q5FuaD3TNB7DGauTaJVRC8XV',
+    "bgi": "aGehSaCUVfWFSu953kuo6BsyZVw",
     dl:'https://hubcloud.bz/drive/hf_7dvp1xqf_f17',
     link: 'tt0944947'
     },

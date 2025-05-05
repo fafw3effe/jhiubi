@@ -698,88 +698,154 @@ const movies = [
             "type": "movie",
             "quality": "bluRay"
         },
-    
-    {
-    title:'Live [2023] WEB-DL [Hindi + Malayalam] | Full Movie',
-    im:'lqkSwvAEiLj4nf8cDkkVptXTMIV',
-    dl:'https://pixeldrain.net/api/file/wqAgR36C?download',
-    link: 'tt23903828'
-    },
-    
-    {
-    title:'Akaal: The Unconquered [2025] HDRip [Hindi] [HEVC] | Full Movie',
-    im:'pzf5rPLoE5DdYkcZlvYbrH554rE',
-    bgi:'',
-    dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Akaal.The.Unconquered.2025.Hindi.HDRip.720p.x264.AVC.HE-AAC.2.0.Vegamovies.is.mkv',
-    link: 'tt35402446'
-    },
-    
-    {
-    title:'CiD [Season 2] [Episode 38] WEB-DL [Hindi]',
-    im:'60ZxbAMk6QO8jMD0p8WrGHVCbyK',
-    bgi:'aqyxAXhx6yTdKOlCRiiKM5TsXpp',
-    dl:'https://pixeldrain.net/api/file/cadQFjh6?download',
-    link: 'tt0401916F'
-    },
-    
-    {
-    title:'Paappan [2022] UNCUT WEB-DL [Hindi + Malayalam] | Full Movie',
-    im:'iaMF7onRosmkF6b9jaENzIZfauM',
-    bgi:'tIo3de0eHGDZkITmqkp1uiC7SR5',
-    dl:'https://pixeldrain.net/api/file/PP41vRtD?download',
-    link: 'tt14056670'
-    },
-    
-    {
-    title:'Spark: L.I.F.E. [2023] UNCUT WEB-DL [Hindi + Telugu] | Full Movie',
-    im:'zEvcGq7AsCJ7oCXVvtATTweE05o',
-    bgi:'7NkvagehAMj3Bip5hCBlFUmQHNs',
-    dl:'https://pixeldrain.net/api/file/b1JdQvVA?download',
-    link: 'tt28526239'
-    },
-    
-    {
-    title:'Ne Zha 2 [2025] CAMRIP [Hindi] | Full Movie',
-    im:'5lUmWTGkEcYnXujixXn31o9q2T0',
-    bgi:'rGHNPAdxdQ6UlZ6nltvux6INjJX',
-    dl:'https://pixeldrain.net/api/file/uTVDZmt3?download',
-    link: 'tt34956443'
-    },
-    
-    {
-    title:'Peaky Blinders [Season 1] [Episode 3] WEB-DL [Hindi + English] [HEVC]',
-    im:'vPlsKun2WZEsqe3yZTmebxtwElW',
-    dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Peaky.Blinders.S01.E03.720p.10Bit.HEVC.BluRay.Hindi.2.0-English.2.0.ESub.x265-HDHub4u.Ms.mkv',
-    link: 'tt2442560'
-    },
-    
-    {
-    title:'Valerian and the City of a Thousand Planets [2017] WEB-DL [Hindi] [HEVC] | Full Movie',
-    im:'vlc95gl3PtrjxSEuM8RhTtSm2xU',
-    dl:'https://pub-4f43d576c6ca4f9998fe276426dc5a19.r2.dev/Valerian.and.the.City.of.a.Thousand.Planets.2017.720p.10bit.BluRay.HIN-ENG.x265.ESub.Vegamovies.To.mkv',
-    link: 'tt2239822'
-    },
-    
-    {
-    title:'Wednesday [Season 1] WEB-DL [Hindi + English] [HEVC] | All Episodes',
-    im:'9PFonBhy4cQy7Jz20NpMygczOkv',
-    dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=VaGLPVSE&sn=1&es=Wednesday.S01.720p.10Bit.WEB-DL.Hindi.5.1-English.HEVC.x265-HDHub4u.Tv/Wednesday.S01.E&e=8&el=.720p.10Bit.WEB-DL.Hindi.5.1-English.HEVC.x265-HDHub4u.Tv.mkv',
-    link: 'tt13443470'
-    },
-    
-    {
-    title:'Jamtara - Sabka Number Ayega [Season 2] WEB-DL [Hindi] | All Episodes',
-    im:'ewCGnOz5VBhT8CD8NTSvo9OLybW',
-    dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=oDM9dDB1&sn=2&es=Jamtara.-.Sabka.Number.Ayega.S02.720p.WEB-DL.AAC.5.1.ESub.x264-HDHub4u.TV/Jamtara.-.Sabka.Number.Ayega.S02E&e=8&el=.720p.WEB-DL.AAC.5.1.ESub.x264-HDHub4u.TV.mkv',
-    link: 'tt11150912'
-    },
-    
-    {
-    title:'Weak Hero [Season 2] WEB-DL [Hindi + English] | All Episodes',
-    im:'aW7mGixv2dZdQtbve4deYyfewHH',
-    dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=ZVJGh1Po&sn=2&es=Weak.Hero.S02.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms/Weak.Hero.S02E&e=6&el=.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv',
-    link: 'tt20234568'
-    },
+        {
+            "title": "Live [2023] WEB-DL [Hindi + Malayalam] | Full Movie",
+            "im": "lqkSwvAEiLj4nf8cDkkVptXTMIV",
+            "dl": "https://pixeldrain.net/api/file/wqAgR36C?download",
+            "link": "tt23903828",
+            "year": "2023",
+            "duration": "110 min",
+            "rating": "6.5",
+            "genre": "Drama, Thriller",
+            "description": "A man embarks on a perilous journey to track down a long-lost loved one, uncovering deep secrets along the way. His journey becomes a battle against time and destiny.",
+            "type": "movie",
+            "quality": "webdl"
+        },
+        {
+            "title": "Akaal: The Unconquered [2025] HDRip [Hindi] [HEVC] | Full Movie",
+            "im": "pzf5rPLoE5DdYkcZlvYbrH554rE",
+            "bgi": "",
+            "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Akaal.The.Unconquered.2025.Hindi.HDRip.720p.x264.AVC.HE-AAC.2.0.Vegamovies.is.mkv",
+            "link": "tt35402446",
+            "year": "2025",
+            "duration": "135 min",
+            "rating": "7.1",
+            "genre": "Action, Drama, History",
+            "description": "Set in a turbulent time, a legendary warrior defies overwhelming odds to fight for justice and honor. His journey embodies the spirit of resilience against an oppressive empire.",
+            "type": "movie",
+            "quality": "hdrip hevc"
+        },
+        {
+            "title": "CiD [Season 2] [Episode 38] WEB-DL [Hindi]",
+            "im": "60ZxbAMk6QO8jMD0p8WrGHVCbyK",
+            "bgi": "aqyxAXhx6yTdKOlCRiiKM5TsXpp",
+            "dl": "https://pixeldrain.net/api/file/cadQFjh6?download",
+            "link": "tt0401916F",
+            "year": "2025",
+            "duration": "45 min",
+            "rating": "8.0",
+            "genre": "Crime, Mystery",
+            "description": "The team at CID continues to unravel intricate mysteries, solving crimes that seem unsolvable. This episode delves into the psyche of a criminal mastermind.",
+            "type": "series",
+            "quality": "webdl"
+        },
+        {
+            "title": "Paappan [2022] UNCUT WEB-DL [Hindi + Malayalam] | Full Movie",
+            "im": "iaMF7onRosmkF6b9jaENzIZfauM",
+            "bgi": "tIo3de0eHGDZkITmqkp1uiC7SR5",
+            "dl": "https://pixeldrain.net/api/file/PP41vRtD?download",
+            "link": "tt14056670",
+            "year": "2022",
+            "duration": "140 min",
+            "rating": "7.6",
+            "genre": "Crime, Thriller, Drama",
+            "description": "A retired police officer is drawn into an unsolved case that is tied to his own past. As he dives deeper into the investigation, he faces dangerous foes and haunting memories.",
+            "type": "movie",
+            "quality": "uncut webdl"
+        },
+        {
+            "title": "Spark: L.I.F.E. [2023] UNCUT WEB-DL [Hindi + Telugu] | Full Movie",
+            "im": "zEvcGq7AsCJ7oCXVvtATTweE05o",
+            "bgi": "7NkvagehAMj3Bip5hCBlFUmQHNs",
+            "dl": "https://pixeldrain.net/api/file/b1JdQvVA?download",
+            "link": "tt28526239",
+            "year": "2023",
+            "duration": "125 min",
+            "rating": "7.0",
+            "genre": "Drama, Sci-Fi",
+            "description": "A young scientist grapples with his groundbreaking discoveries, balancing between scientific ambition and personal sacrifices. His innovations spark both hope and controversy.",
+            "type": "movie",
+            "quality": "uncut webdl"
+        },
+        {
+            "title": "Ne Zha 2 [2025] CAMRIP [Hindi] | Full Movie",
+            "im": "5lUmWTGkEcYnXujixXn31o9q2T0",
+            "bgi": "rGHNPAdxdQ6UlZ6nltvux6INjJX",
+            "dl": "https://pixeldrain.net/api/file/uTVDZmt3?download",
+            "link": "tt34956443",
+            "year": "2025",
+            "duration": "105 min",
+            "rating": "7.3",
+            "genre": "Action, Animation, Fantasy",
+            "description": "In this highly anticipated sequel, Ne Zha faces new challenges as he strives to protect his world from ancient forces threatening to destroy everything.",
+            "type": "movie",
+            "quality": "camrip"
+        },
+        {
+            "title": "Peaky Blinders [Season 1] [Episode 3] WEB-DL [Hindi + English] [HEVC]",
+            "im": "vPlsKun2WZEsqe3yZTmebxtwElW",
+            "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Peaky.Blinders.S01.E03.720p.10Bit.HEVC.BluRay.Hindi.2.0-English.2.0.ESub.x265-HDHub4u.Ms.mkv",
+            "link": "tt2442560",
+            "year": "2013",
+            "duration": "58 min",
+            "rating": "8.8",
+            "genre": "Crime, Drama",
+            "description": "Tommy Shelby continues to expand his criminal empire while facing new threats from rival gangs and the law. The episode is packed with tension, power struggles, and strategic decisions.",
+            "type": "series",
+            "quality": "webdl hevc"
+        },
+        {
+            "title": "Valerian and the City of a Thousand Planets [2017] WEB-DL [Hindi] [HEVC] | Full Movie",
+            "im": "vlc95gl3PtrjxSEuM8RhTtSm2xU",
+            "dl": "https://pub-4f43d576c6ca4f9998fe276426dc5a19.r2.dev/Valerian.and.the.City.of.a.Thousand.Planets.2017.720p.10bit.BluRay.HIN-ENG.x265.ESub.Vegamovies.To.mkv",
+            "link": "tt2239822",
+            "year": "2017",
+            "duration": "136 min",
+            "rating": "6.5",
+            "genre": "Action, Adventure, Sci-Fi",
+            "description": "Valerian and his partner Laureline must navigate through a vast city in space, facing danger and uncovering a conspiracy that threatens the entire galaxy.",
+            "type": "movie",
+            "quality": "webdl hevc"
+        },
+        {
+            "title": "Wednesday [Season 1] WEB-DL [Hindi + English] [HEVC] | All Episodes",
+            "im": "9PFonBhy4cQy7Jz20NpMygczOkv",
+            "dl": "http://qwrqwrqwr.rf.gd/a/a.php?pd=VaGLPVSE&sn=1&es=Wednesday.S01.720p.10Bit.WEB-DL.Hindi.5.1-English.HEVC.x265-HDHub4u.Tv/Wednesday.S01.E&e=8&el=.720p.10Bit.WEB-DL.Hindi.5.1-English.HEVC.x265-HDHub4u.Tv.mkv",
+            "link": "tt13443470",
+            "year": "2022",
+            "duration": "45 min per episode",
+            "rating": "8.0",
+            "genre": "Comedy, Horror, Mystery",
+            "description": "Wednesday Addams navigates the complexities of adolescence while solving supernatural mysteries at Nevermore Academy, balancing humor, horror, and mystery.",
+            "type": "series",
+            "quality": "webdl hevc"
+        },
+        {
+            "title": "Jamtara - Sabka Number Ayega [Season 2] WEB-DL [Hindi] | All Episodes",
+            "im": "ewCGnOz5VBhT8CD8NTSvo9OLybW",
+            "dl": "http://qwrqwrqwr.rf.gd/a/a.php?pd=oDM9dDB1&sn=2&es=Jamtara.-.Sabka.Number.Ayega.S02.720p.WEB-DL.AAC.5.1.ESub.x264-HDHub4u.TV/Jamtara.-.Sabka.Number.Ayega.S02E&e=8&el=.720p.WEB-DL.AAC.5.1.ESub.x264-HDHub4u.TV.mkv",
+            "link": "tt11150912",
+            "year": "2022",
+            "duration": "40 min per episode",
+            "rating": "7.8",
+            "genre": "Crime, Drama, Thriller",
+            "description": "The con artists from Jamtara are back with new tricks and challenges. As the stakes get higher, the battle between law enforcement and scammers intensifies.",
+            "type": "series",
+            "quality": "webdl"
+        },
+        {
+            "title": "Weak Hero [Season 2] WEB-DL [Hindi + English] | All Episodes",
+            "im": "aW7mGixv2dZdQtbve4deYyfewHH",
+            "dl": "http://qwrqwrqwr.rf.gd/a/a.php?pd=ZVJGh1Po&sn=2&es=Weak.Hero.S02.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms/Weak.Hero.S02E&e=6&el=.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "link": "tt20234568",
+            "year": "2025",
+            "duration": "50 min per episode",
+            "rating": "7.9",
+            "genre": "Action, Drama, Thriller",
+            "description": "In the second season, the protagonist, once perceived as weak, faces increasing challenges as he fights against bullies and corrupt systems, developing into a stronger individual.",
+            "type": "series",
+            "quality": "webdl"
+        },
     
     {
     title:'Ayyana Mane [Season 1] WEB-DL [Hindi + English] | All Episodes',

@@ -250,7 +250,7 @@ const movies = [
         "genre": "Action, Adventure, Superhero",
         "description": "The Thunderbolts, a team of anti-heroes, are tasked with saving the world from a new and dangerous threat. Will they be able to overcome their own demons to succeed?",
         "type": "movie",
-        "quality": "cam",
+        "quality": "hdcam",
         "cast": "Florence Pugh, Sebastian Stan, Wyatt Russell, David Harbour"
     },
         {

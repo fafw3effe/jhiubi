@@ -222,7 +222,7 @@ function openModal(movie) {
     
     // Check if the title contains "All Episode" or "HEVC" (case-insensitive)
     const titleLower = movie.title.toLowerCase();
-    const hideVideoPlayer = titleLower.includes('all episode') || titleLower.includes('hevc');
+    const hideVideoPlayer = titleLower.includes('all episodes') || titleLower.includes('hevc');
     
     if (movie.dl && !hideVideoPlayer) {
         try {

@@ -4,14 +4,345 @@ const movies = [
     /*
     
     {
-    title:'',
-    im:'',
-    bgi:'',
-    dl:'',
-    link: ''
+            "title": " [2025] WEB-DL [Hindi + English] | Full Movie",
+            "im": "",
+            "bgi": "",
+            "dl": "",
+            "year": "",
+            "duration": " min",
+            "rating": "",
+            "genre": "",
+            "description": "",
+            "type": "movie",
+            "quality": "web-dl",
+            "cast": "Vicky Kaushal, Radhika Apte, Kumud Mishra"
     },
     
     */
+{
+    "title": "The Divorce Insurance [Season 1] [Episode 12] WEB-DL [Hindi + English]",
+    "im": "6HAbRWYkX3bouEeHA4bjsUxznKC",
+    "bgi": "tSeyn9VqrAKuMytgDCXY9iMGXa8",
+    "dl": "https://pixeldrain.net/api/file/RLrusXpC?download",
+    "year": "2025",
+    "duration": "1h",
+    "rating": "8.2",
+    "genre": "Drama,Comedy,",
+    "description": "No Ki-jun, an employee at an insurance company, decides to develop a divorce insurance policy after personally experiencing three divorces that impacted his life and finances. Despite potential biases, he believes divorce is an unforeseen disaster and establishes a team for divorce insurance.",
+    "type": "series",
+    "quality": "web-dl",
+    "cast": "Lee Dong-wook,Lee Kwang-soo,Lee Ju-bin,Lee Da-hee,Kim Won-hae"
+},
+    {
+        "title": "Thunderbolts* [2025] PRE-HD [Hindi] | Full Movie",
+        "im": "1top0ND4DFGNvCdl0TwPl7Tv7sB",
+        "bgi": "3Ym8diDGcHqtsTSo53xwiWJk38U",
+        "dl": "https://pixeldrain.net/api/file/eCwrCqf2?download",
+        "link": "tt20969586",
+        "year": "2025",
+        "duration": "105 min",
+        "rating": "7.3",
+        "genre": "Action, Adventure, Superhero",
+        "description": "The Thunderbolts, a team of anti-heroes, are tasked with saving the world from a new and dangerous threat. Will they be able to overcome their own demons to succeed?",
+        "type": "movie",
+        "quality": "pre-hd",
+        "cast": "Florence Pugh, Sebastian Stan, Wyatt Russell, David Harbour"
+    },
+    {
+        "title": "Peaky Blinders [Season 2] [Episode 3] WEB-DL [Hindi + English]",
+        "im": "m4JPtC3gWUsq0GlfNK3SdgkL9XG",
+        "bgi": "4aSJfYZlhbNB15GurAQZNsyDADI",
+        "dl": "https://pixeldrain.net/api/file/839RBbDJ?download",
+        "link": "tt2442560",
+        "year": "2014",
+        "duration": "58 min",
+        "rating": "8.8",
+        "genre": "Crime, Drama",
+        "description": "A notorious gang in 1919 Birmingham, England, is led by the fierce Tommy Shelby, a crime boss set on moving up in the world no matter the cost.",
+        "type": "series",
+        "quality": "web-dl",
+        "cast": "Cillian Murphy, Sam Neill, Helen McCrory"
+    },
+    {
+        "title": "Peaky Blinders [Season 1] WEB-DL [Hindi + English] | Full Series",
+        "im": "vUUqzWa2LnHIVqkaKVlVGkVcZIW",
+        "bgi": "6SdXIdltOU6pFqv0aZuSWcrGWej",
+        "dl": "https://pixeldrain.net/api/file/j47zx3gG?download",
+        "year": "2013",
+        "duration": "5h 43m",
+        "rating": "8.5",
+        "genre": "Drama,Crime,",
+        "description": "A gangster family epic set in 1919 Birmingham, England and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby, who means to move up in the world.",
+        "type": "series",
+        "quality": "webdl",
+        "cast": "Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
+    },
+{
+    "title": "Aladdin [2019] WEB-DL [Hindi + English] | Full Movie",
+    "im": "ykUEbfpkf8d0w49pHh0AD2KrT52",
+    "bgi": "rVqY0Bo4Npf6EIONUROxjYAJfmD",
+    "dl": "https://pixeldrain.net/api/file/neR7x7p5?download",
+    "year": "2019",
+    "duration": "2h 7m",
+    "rating": "7.1",
+    "genre": "Adventure,Fantasy,Romance,Family,",
+    "description": "A kindhearted street urchin named Aladdin embarks on a magical adventure after finding a lamp that releases a wisecracking genie while a power-hungry Grand Vizier vies for the same lamp that has the power to make their deepest wishes come true.",
+    "type": "movie",
+    "quality": "web-dl",
+    "cast": "Will Smith,Mena Massoud,Naomi Scott,Marwan Kenzari,Navid Negahban"
+},
+{
+    "title": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan [2006] WEB-DL [English] | Full Movie",
+    "im": "kfkyALfD4G1mlBJI1lOt2QCra4i",
+    "bgi": "kt0Ku4cTQUZe4KyZiWC6HsWCbcS",
+    "dl": "https://pixeldrain.net/api/file/q8ALz5uL?download",
+    "year": "2006",
+    "duration": "1h 24m",
+    "rating": "6.8",
+    "genre": "Comedy,",
+    "description": "Kazakh journalist Borat Sagdiyev travels to America to make a documentary. As he zigzags across the nation, Borat meets real people in real situations with hysterical consequences. His backwards behavior generates strong reactions around him exposing prejudices and hypocrisies in American culture.",
+    "type": "movie",
+    "quality": "web-dl",
+    "cast": "Sacha Baron Cohen,Ken Davitian,Luenell,Pamela Anderson,Bob Barr"
+},
+{
+    "title": "Hitch [2005] WEB-DL [Hindi + English] | Full Movie",
+    "im": "x3W9H3nhGQbWSlyI8Amp2F6Z6cz",
+    "bgi": "fmDYTtZZQHLBAvvqgdXItqMXBNG",
+    "dl": "https://pixeldrain.net/api/file/jnWjbodt?download",
+    "year": "2005",
+    "duration": "1h 58m",
+    "rating": "6.6",
+    "genre": "Comedy,Drama,Romance,",
+    "description": "Dating coach Alex 'Hitch' Hitchens mentors a bumbling client, Albert, who hopes to win the heart of the glamorous Allegra Cole. While Albert makes progress, Hitch faces his own romantic setbacks when proven techniques fail to work on Sara Melas, a tabloid reporter digging for dirt on Allegra Cole's love life. When Sara discovers Hitch's connection to Albert – now Allegra's boyfriend – it threatens to destroy both relationships.",
+    "type": "movie",
+    "quality": "web-dl",
+    "cast": "Will Smith,Eva Mendes,Kevin James,Amber Valletta,Julie Ann Emery"
+},
+{
+    "title": "Hancock [2008] WEB-DL [Hindi + English] | Full Movie",
+    "im": "7DyuV2G0hLEqHeueDfOqhZ2DVut",
+    "bgi": "qndvrOXGyoOxkhc12SqfLi9Hr31",
+    "dl": "https://pixeldrain.net/api/file/LTL6WYag?download",
+    "year": "2008",
+    "duration": "1h 32m",
+    "rating": "6.3",
+    "genre": "Fantasy,Action,",
+    "description": "Hancock is a down-and-out superhero who's forced to employ a PR expert to help repair his image when the public grows weary of all the damage he's inflicted during his lifesaving heroics. The agent's idea of imprisoning the antihero to make the world miss him proves successful, but will Hancock stick to his new sense of purpose or slip back into old habits?",
+    "type": "movie",
+    "quality": "web-dl",
+    "cast": "Will Smith,Charlize Theron,Jason Bateman,Jae Head,Eddie Marsan"
+},
+{
+    "title": "Godzilla vs. Kong [2021] WEB-DL [Hindi + English] | Full Movie",
+    "im": "pgqgaUx1cJb5oZQQ5v0tNARCeBp",
+    "bgi": "inJjDhCjfhh3RtrJWBmmDqeuSYC",
+    "dl": "https://pixeldrain.net/api/file/e3K2PtNE?download",
+    "year": "2021",
+    "duration": "1h 54m",
+    "rating": "7.6",
+    "genre": "Action,Science Fiction,Adventure,",
+    "description": "In a time when monsters walk the Earth, humanity’s fight for its future sets Godzilla and Kong on a collision course that will see the two most powerful forces of nature on the planet collide in a spectacular battle for the ages.",
+    "type": "movie",
+    "quality": "web-dl",
+    "cast": "Alexander Skarsgård,Rebecca Hall,Kaylee Hottle,Brian Tyree Henry,Millie Bobby Brown"
+},
+{
+    "title": "12th Fail [2023] WEB-DL [Hindi] | Full Movie",
+    "im": "eebUPRI4Z5e1Z7Hev4JZAwMIFkX",
+    "bgi": "6RV2o8PBCEyw9ylOWViV1CtULIF",
+    "dl": "https://pixeldrain.net/api/file/sq1eYcsU?download",
+    "year": "2023",
+    "duration": "2h 26m",
+    "rating": "8.0",
+    "genre": "Drama,",
+    "description": "Based on the true story of IPS officer Manoj Kumar Sharma, 12th Fail sheds limelight on fearlessly embracing the idea of restarting the academic journey despite the setbacks and challenges and reclaiming one's destiny at a place where millions of students attempt the world's toughest competitive exam: UPSC.",
+    "type": "movie",
+    "quality": "web-dl",
+    "cast": "Vikrant Massey,Medha Shankr,Anant Joshi,Anshumaan Pushkar,Priyanshu Chatterjee"
+},
+{
+    "title": "Pokemon: The First Movie [1998] WEB-DL [Hindi + English] | Full Movie",
+    "im": "xPW3AeK3iQi1Zd9dCbdNLijE48o",
+    "bgi": "eA0qc5ihjSKG05tdJO4QPgYPAwY",
+    "dl": "https://pixeldrain.net/api/file/GAx92hvD?download",
+    "year": "1998",
+    "duration": "1h 25m",
+    "rating": "6.9",
+    "genre": "Animation,Family,Adventure,Fantasy,Action,",
+    "description": "Determined to prove its superiority, a bio-engineered Pokémon called Mewtwo lures Ash, Pikachu and others into a Pokemon match like none before.",
+    "type": "movie",
+    "quality": "web-dl",
+    "cast": "Rica Matsumoto,Ikue Otani,Mayumi Izuka,Satomi Korogi,Yuji Ueda"
+},
+{
+    "title": "Final Destination 5 [2011] WEB-DL [Hindi + English] | Full Movie",
+    "im": "Akx1Po4ZLetOWfYJhQf75tbhTtK",
+    "bgi": "zhFOEVvwyJjGsAqf31FF3H9OXlH",
+    "dl": "https://pixeldrain.net/api/file/wszcBzMH?download",
+    "year": "2011",
+    "duration": "1h 31m",
+    "rating": "6.1",
+    "genre": "Horror,Mystery,",
+    "description": "Death is just as omnipresent as ever, and is unleashed after one man’s premonition saves a group of coworkers from a terrifying suspension bridge collapse. But this group of unsuspecting souls was never supposed to survive, and, in a terrifying race against time, the ill-fated group frantically tries to discover a way to escape Death’s sinister agenda.",
+    "type": "movie",
+    "quality": "web-dl",
+    "cast": "Nicholas D&#39;Agosto,Emma Bell,Miles Fisher,Courtney B. Vance,David Koechner"
+},
+{
+    "title": "The Next 365 Days [2022] WEB-DL [Hindi + English] | Full Movie",
+    "im": "5r9RI0IqztfZJ4C4uSdyoiFYvOB",
+    "bgi": "6cpRpfD3isvluFwXDGSiDVyibPJ",
+    "dl": "https://pixeldrain.net/api/file/yGpjYgpW?download",
+    "year": "2022",
+    "duration": "1h 52m",
+    "rating": "6.4",
+    "genre": "Romance,Drama,",
+    "description": "Laura and Massimo's relationship hangs in the balance as they try to overcome trust issues while a tenacious Nacho works to push them apart.",
+    "type": "movie",
+    "quality": "web-dl",
+    "cast": "Anna-Maria Sieklucka,Michele Morrone,Simone Susinna,Magdalena Lamparska,Otar Saralidze"
+},    
+{
+    "title": "365 Days: This Day [2022] WEB-DL [Hindi + English] | Full Movie",
+    "im": "iLmG3HCXVyqXYbFvUO1rfOeGa3Z",
+    "bgi": "y73agOAJDvO48WbvuRt4rZrcFw3",
+    "dl": "https://pixeldrain.net/api/file/HyaiZpri?download",
+    "year": "2022",
+    "duration": "1h 51m",
+    "rating": "5.9",
+    "genre": "Romance,Drama,",
+    "description": "Laura and Massimo are back and hotter than ever. But the reunited couple's new beginning is complicated by Massimo’s family ties and a mysterious man who enters Laura’s life to win her heart and trust, at any cost.",
+    "type": "movie",
+    "quality": "web-dl",
+    "cast": "Anna-Maria Sieklucka,Michele Morrone,Simone Susinna,Magdalena Lamparska,Otar Saralidze"
+},
+    {
+        "title": "365 Days [2020] WEB-DL [Hindi + English] | Full Movie",
+        "im": "6KwrHucIE3CvNT7kTm2MAlZ4fYF",
+        "bgi": "27nn2YJBwY7a1etZ0AiIcOrIgu3",
+        "dl": "https://pixeldrain.net/api/file/KEhNREYB?download",
+        "year": "2020",
+        "duration": "1h 56m",
+        "rating": "7.0",
+        "genre": "Romance,Drama,",
+        "description": "A woman falls victim to a dominant mafia boss, who imprisons her and gives her one year to fall in love with him.",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "Anna-Maria Sieklucka,Michele Morrone,Bronisław Wrocławski,Otar Saralidze,Magdalena Lamparska"
+    },   
+{
+    "title": "Life of Pi [2012] WEB-DL [Hindi + English] | Full Movie",
+    "im": "iLgRu4hhSr6V1uManX6ukDriiSc",
+    "bgi": "7H01zprUY67n7bdcFg6VMvrkNjs",
+    "dl": "https://pixeldrain.net/api/file/pU34aeYk?download",
+    "year": "2012",
+    "duration": "2h 7m",
+    "rating": "7.4",
+    "genre": "Adventure,Drama,",
+    "description": "The story of an Indian boy named Pi, a zookeeper's son who finds himself in the company of a hyena, zebra, orangutan, and a Bengal tiger after a shipwreck sets them adrift in the Pacific Ocean.",
+    "type": "movie",
+    "quality": "web-dl",
+    "cast": "Suraj Sharma,Irrfan Khan,Ayush Tandon,Gautam Belur,Adil Hussain"
+},
+{
+    "title": "Dry Day [2023] WEB-DL [Hindi] | Full Movie",
+    "im": "lse7qPwWpYi0bdjmjrXfam7KpXg",
+    "bgi": "oweut3EYuRba00Xv0o0G6JUrLua",
+    "dl": "https://pixeldrain.net/api/file/GvaJqjHk?download",
+    "year": "2023",
+    "duration": "2h 8m",
+    "rating": "7.5",
+    "genre": "Comedy,Drama,",
+    "description": "When his wife makes a vow to abort their baby due to his alcoholism, Gannu, the biggest loafer of Jagodhar sets out on a protest to ban alcohol in his town all the while grappling with his own drinking habits!",
+    "type": "movie",
+    "quality": "web-dl",
+    "cast": "Jitendra Kumar,Shriya Pilgaonkar,Annu Kapoor,Shrikant Verma,Jagdish Rajpurohit"
+},
+{
+    "title": "Driver Jamuna [2022] UNCUT WEB-DL [Hindi] | Full Movie",
+    "im": "cev24xOOl5BFPgKOZCCREkTVW8w",
+    "bgi": "sakfYi9HqLeLkDYggOtMuayqmlQ",
+    "dl": "https://pixeldrain.net/api/file/qvuzrDDY?download",
+    "year": "2022",
+    "duration": "1h 44m",
+    "rating": "5.5",
+    "genre": "Action,Thriller,",
+    "description": "Jamuna, a cab driver, finds herself in trouble when three contract killers get in for a ride. Can she save herself from this horrific situation?",
+    "type": "movie",
+    "quality": "web-dl",
+    "cast": "Aishwarya Rajesh,Aadukalam Naren,Thangapandiyan,Sriranjini,Kavitha Bharathi"
+},
+{
+    "title": "The Divorce Insurance [Season 1] [Episode 11] WEB-DL [Hindi + English]",
+    "im": "6HAbRWYkX3bouEeHA4bjsUxznKC",
+    "bgi": "tSeyn9VqrAKuMytgDCXY9iMGXa8",
+    "dl": "https://pixeldrain.net/api/file/oNiH6fZ4?download",
+    "year": "2025",
+    "duration": "1h",
+    "rating": "6.9",
+    "genre": "Drama,Comedy,",
+    "description": "No Ki-jun, an employee at an insurance company, decides to develop a divorce insurance policy after personally experiencing three divorces that impacted his life and finances. Despite potential biases, he believes divorce is an unforeseen disaster and establishes a team for divorce insurance.",
+    "type": "series",
+    "quality": "web-dl",
+    "cast": "Lee Dong-wook,Lee Kwang-soo,Lee Ju-bin,Lee Da-hee,Kim Won-hae"
+},
+{
+    "title": "Suits LA [Season 1] [Episode 11] WEB-DL [Hindi + English]",
+    "im": "3hYiNPkcLoI3QWDokOHQJIfn55O",
+    "bgi": "ljAdFwDLQLlOBIwheKmAdcUS0HM",
+    "dl": "https://pixeldrain.net/api/file/WQniLexs?download",
+    "year": "2025",
+    "duration": "1h",
+    "rating": "7.7",
+    "genre": "Drama,",
+    "description": "Ted Black, a former federal prosecutor from New York, has reinvented himself representing the most powerful clients in Los Angeles. But his firm is at a crisis point, and in order to survive, he must embrace a role he held in contempt his entire career.",
+    "type": "series",
+    "quality": "web-dl",
+    "cast": "Stephen Amell,Lex Scott Davis,Josh McDermitt,Bryan Greenberg,Maggie Grace"
+},
+{
+    "title": "Inside Man: Most Wanted [2019] WEB-DL [Hindi + English] | Full Movie",
+    "im": "zcDZisqVQK9akfKgyrB9HYzYuVh",
+    "bgi": "OvMX5sgJ0vLmKQbIiS5yy7jn5H",
+    "dl": "https://pixeldrain.net/api/file/VZJUtCYF?download",
+    "year": "2019",
+    "duration": "1h 46m",
+    "rating": "6.5",
+    "genre": "Action,Crime,Thriller,",
+    "description": "An NYPD hostage negotiator teams up with a federal agent to rescue dozens of tourists held hostage during a 10-hour seige at the U.S. Federal Reserve.",
+    "type": "movie",
+    "quality": "web-dl",
+    "cast": "Aml Ameen,Rhea Seehorn,Roxanne McKee,Tanya van Graan,Jessica Sutton"
+},
+{
+    "title": "Virupaksha [2023] UNCUT WEB-DL [Hindi + Telugu] | Full Movie",
+    "im": "fqMn4h9ctOyumII2nXDnm5mRTxQ",
+    "bgi": "xfm3oNEyguquFMW3Yq4UNgnoVRL",
+    "dl": "https://pixeldrain.net/api/file/qwqRc5EY?download",
+    "year": "2023",
+    "duration": "2h 26m",
+    "rating": "7.1",
+    "genre": "Horror,Mystery,Thriller,",
+    "description": "Set in a village named Rudravanam in 1990's, Surya along with his mother, visit there after a long time. Suddenly a series of mysterious deaths occur due to an unknown person's occult practice and whole village is scared. Will Surya find the person causing the deaths and save the village?",
+    "type": "movie",
+    "quality": "WEB-DL",
+    "cast": "Sai Durgha Tej,Samyuktha,Brahmaji,Rajiv Kanakala,Ravi Krishna"
+},
+    {
+    "title": "Ala Vaikunthapurramuloo [2020] WEB-DL [Hindi + Telugu] | Full Movie",
+    "im": "2rzORJaegE2bbKNVkQXbZCeV0BP",
+    "bgi": "7m8pL1cNz1okhxOltBDNG4XTxdx",
+    "dl": "https://pixeldrain.net/api/file/oTkDyzWn?download",
+    "year": "2020",
+    "duration": "2h 45m",
+    "rating": "6.7",
+    "genre": "Action,Comedy,Drama,",
+    "description": "Fate plays a vital role in connecting the life of Bantu, a son who seeks validation from his cold-hearted father with the life of Raj, whose millionaire father wishes that he was more assertive.",
+    "type": "movie",
+    "quality": "web-dl",
+    "cast": "Allu Arjun, Pooja Hegde, Tabu"
+    },
     {
         "title": "The Last of Us [Season 2] [Episode 4] WEB-DL [Hindi + English] | HBO Series",
         "im": "dmo6TYuuJgaYinXBPjrgG9mB5od",
@@ -24,10 +355,11 @@ const movies = [
         "genre": "Action, Adventure, Drama",
         "description": "The Last of Us follows Joel and Ellie as they navigate a post-apocalyptic world. In Season 2, the journey becomes even more perilous as the two continue to face new threats and uncover shocking truths.",
         "type": "series",
-        "quality": "webdl"
-    },
+        "quality": "web-dl",
+        "cast": "Pedro Pascal, Bella Ramsey, Murray Bartlett, Con O'Neill, Ian Alexander, Jeffrey Pierce, Dustin Ingram"
+    },    
     {
-        "title": "Doraemon the Movie: Nobitas Sky Utopia [2023] BluRay [Hindi + English] | Full Movie",
+        "title": "Doraemon the Movie: Nobita's Sky Utopia [2023] BluRay [Hindi + English] | Full Movie",
         "im": "uux6M8z3hxLDkq8LXSzq8528mrq",
         "bgi": "zq4HFBohIe424AI55Z8CZBbgJUZ",
         "dl": "https://pub-ed0ca22af5c04301b7abe9dac4aaf9bc.r2.dev/Doraemon.Nobitas.Sky.Utopia.2023.720p.BluRay.Hindi.Japanese.ESubs-Vegamovies.is.mkv",
@@ -38,7 +370,8 @@ const movies = [
         "genre": "Animation, Adventure, Family",
         "description": "Doraemon and Nobita embark on a thrilling adventure in the sky as they discover a new world of floating islands and secrets that could change everything.",
         "type": "movie",
-        "quality": "bluRay"
+        "quality": "blu-Ray",
+        "cast": "Wasabi Mizuta, Megumi Ohara, Yumi Kakazu, Satoshi Tsumabuki"
     },
     {
         "title": "Mars Express [2023] BluRay [Hindi + English] | Full Movie",
@@ -52,7 +385,8 @@ const movies = [
         "genre": "Sci-Fi, Thriller",
         "description": "Set on Mars, this thrilling sci-fi film follows a group of explorers who uncover dark secrets that could lead to the destruction of humanity.",
         "type": "movie",
-        "quality": "bluRay"
+        "quality": "blu-Ray",
+        "cast": "Giovanni Ribisi, Kelsey Grammer, Keira Knightley"
     },
     {
         "title": "Peaky Blinders [Season 2] [Episode 2] WEB-DL [Hindi + English]",
@@ -66,7 +400,8 @@ const movies = [
         "genre": "Crime, Drama",
         "description": "A notorious gang in 1919 Birmingham, England, is led by the fierce Tommy Shelby, a crime boss set on moving up in the world no matter the cost.",
         "type": "series",
-        "quality": "webdl"
+        "quality": "web-dl",
+        "cast": "Cillian Murphy, Sam Neill, Helen McCrory"
     },
     {
         "title": "Dragon [2025] WEB-DL [Hindi + Tamil] | Full Movie",
@@ -80,7 +415,8 @@ const movies = [
         "genre": "Action, Fantasy, Drama",
         "description": "In a battle between humans and dragons, a young warrior must fight to save her homeland from a devastating war that could destroy everything she holds dear.",
         "type": "movie",
-        "quality": "webdl"
+        "quality": "web-dl",
+        "cast": "Nivetha Thomas, Sree Vishnu, Sampath Raj"
     },
     {
         "title": "Retro [2025] HDCAM [Hindi] | Full Movie",
@@ -94,7 +430,8 @@ const movies = [
         "genre": "Sci-Fi, Thriller",
         "description": "In a futuristic world, a detective investigates a mysterious crime that leads him to a time-bending conspiracy threatening the fabric of reality.",
         "type": "movie",
-        "quality": "hdcam"
+        "quality": "HD-CAM",
+        "cast": "Anushka Sharma, Vijay Sethupathi, Gautham Menon"
     },
     {
         "title": "HIT: The Third Case [2025] HQ PRE-HD [Hindi + Telugu] | Full Movie",
@@ -108,204 +445,204 @@ const movies = [
         "genre": "Crime, Mystery, Thriller",
         "description": "A hard-hitting investigator is pulled into a case that not only challenges his limits but also uncovers a deep conspiracy in the criminal world.",
         "type": "movie",
-        "quality": "hq pre-hd"
+        "quality": "pre-hd",
+        "cast": "Rajeev Khandelwal, Nivetha Pethuraj, Sandeep Goyat"
     },
-    {
-        "title": "Thunderbolts* [2025] HDCAM [Hindi] | Full Movie",
-        "im": "1top0ND4DFGNvCdl0TwPl7Tv7sB",
-        "bgi": "3Ym8diDGcHqtsTSo53xwiWJk38U",
-        "dl": "https://pixeldrain.net/api/file/drAXR6Uy?download",
-        "link": "tt20969586",
-        "year": "2025",
-        "duration": "105 min",
-        "rating": "7.3",
-        "genre": "Action, Adventure, Superhero",
-        "description": "The Thunderbolts, a team of anti-heroes, are tasked with saving the world from a new and dangerous threat. Will they be able to overcome their own demons to succeed?",
-        "type": "movie",
-        "quality": "hdcam"
-    },
-    {
-        "title": "Batman: The Dark Knight [2008] BluRay [Hindi + English] | Full Movie",
-        "im": "qJ2tW6WMUDux911r6m7haRef0WH",
-        "bgi": "qg9NQ0Zkdfz9XWHtJ1X1GtKqqe9",
-        "dl": "https://pixeldrain.net/api/file/yDww3rJv?download",
-        "link": "tt0468569",
-        "year": "2008",
-        "duration": "152 min",
-        "rating": "9.0",
-        "genre": "Action, Crime, Drama",
-        "description": "Batman faces off against the Joker, a criminal mastermind intent on causing chaos and destroying Gotham City. With a moral dilemma at every turn, the fate of Gotham lies in Batman's hands.",
-        "type": "movie",
-        "quality": "bluRay"
-    },
-    {
-        "title": "Game of Thrones [Season 1] BluRay [Hindi + English] | All Episodes",
-        "im": "wgfKiqzuMrFIkU1M68DDDY8kGC1",
-        "bgi": "aGehSaCUVfWFSu953kuo6BsyZVw",
-        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?pd=oVpZbzpG&sn=1&es=Game.Of.Thrones.S01E&e=10&el=.720p.x264.Bluray.Hindi.English.Esubs.Vegamovies.To.mkv",
-        "link": "tt0944947",
-        "year": "2011",
-        "duration": "60 min per episode",
-        "rating": "9.3",
-        "genre": "Action, Adventure, Drama",
-        "description": "In the land of Westeros, noble families vie for control of the Iron Throne. Power, betrayal, and war are at the heart of this epic fantasy drama series.",
-        "type": "series",
-        "quality": "bluRay"
-    },
-    {
-        "title": "RED 2 [2013] BluRay [Hindi + English] | Full Movie",
-        "im": "tbksijr6g340yFWRgI4JfwrtM9h",
-        "bgi": "kjNCChDXQplTK6uTBmxJi3PdrhT",
-        "dl": "https://pixeldrain.net/api/file/4PDwEUPR?download",
-        "link": "tt1821694",
-        "year": "2013",
-        "duration": "116 min",
-        "rating": "6.7",
-        "genre": "Action, Comedy, Crime",
-        "description": "The ex-CIA operatives are back for another mission, this time facing a new threat. With explosive action and humor, they must team up once again to stop a global disaster.",
-        "type": "movie",
-        "quality": "bluRay"
-    },
-    {
-        "title": "Stand By Me Doraemon 2 [2020] BluRay [Hindi] | Full Movie",
-        "im": "vBv8iOFPLnXmtELUjcFc7OKHsR4",
-        "bgi": "iMGd5FPajzsoEyD142pQr5wh9eS",
-        "dl": "https://pixeldrain.net/api/file/kL88hgaF?download",
-        "link": "tt13428402",
-        "year": "2020",
-        "duration": "95 min",
-        "rating": "7.8",
-        "genre": "Animation, Family",
-        "description": "Doraemon and Nobita go on a new adventure that explores the importance of friendship and family. With the help of futuristic gadgets, they discover how to solve life's challenges.",
-        "type": "movie",
-        "quality": "bluRay"
-    },
-    {
-        "title": "Pokemon Detective Pikachu [2020] BluRay [Hindi + English] | Full Movie",
-        "im": "uhWvnFgg3BNlcUz0Re1HfQqIcCD",
-        "bgi": "99fKFSYYKadyJ8axbhuXDy4zpfO",
-        "dl": "https://pixeldrain.net/api/file/bbd4v5hQ?download",
-        "link": "tt5884052",
-        "year": "2020",
-        "duration": "104 min",
-        "rating": "6.9",
-        "genre": "Adventure, Comedy, Family",
-        "description": "Detective Pikachu teams up with a young man to uncover the mystery behind his father's disappearance, with humor and adventure in a world full of Pokémon.",
-        "type": "movie",
-        "quality": "bluRay"
-    },
-    {
-        "title": "Shinchan Kaanta Lagaa [2015] BluRay [Hindi] | Full Movie",
-        "im": "rdIhlmuqFZ8gQtBbGQcCkLJ7jmB",
-        "bgi": "cnNo0K43K3wiEqMqJuHei3fsUhk",
-        "dl": "https://pixeldrain.net/api/file/KRKSZVXF?download",
-        "link": "tt4691348",
-        "year": "2015",
-        "duration": "90 min",
-        "rating": "5.4",
-        "genre": "Animation, Comedy, Family",
-        "description": "Shinchan and his mischievous ways lead to hilarious adventures. In this animated movie, his antics bring laughs and chaos in his usual style.",
-        "type": "movie",
-        "quality": "bluRay"
-    },
-    {
-        "title": "Ben 10: Alien Swarm [2009] BluRay [Hindi + English] | Full Movie",
-        "im": "wROzAzrcSsRTu1fQQu2QdaUER2X",
-        "bgi": "le4ro3QONV0NSlRSYg3Lx4lqc6w",
-        "dl": "https://pixeldrain.net/api/file/VkPQRQt2?download",
-        "link": "tt1327701",
-        "year": "2009",
-        "duration": "68 min",
-        "rating": "6.0",
-        "genre": "Action, Adventure, Animation",
-        "description": "Ben Tennyson and his team of alien heroes must stop an alien villain from unleashing chaos. With action-packed moments and alien transformations, this movie is a must-watch for fans.",
-        "type": "movie",
-        "quality": "bluRay"
-    },
-    {
-        "title": "The Bhootnii [2025] HQ PRE-HD [Hindi] | Full Movie",
-        "im": "6dT1KCa4wzkFYidXRVEg4OwntmP",
-        "bgi": "foCFZLADroNnhn07aFRoijUKpC1",
-        "dl": "https://pixeldrain.net/api/file/y4fRSCP7?download",
-        "link": "tt27162102",
-        "year": "2025",
-        "duration": "95 min",
-        "rating": "5.7",
-        "genre": "Horror, Mystery",
-        "description": "A young woman uncovers the dark secrets of an abandoned house, leading to terrifying encounters with the supernatural forces haunting it.",
-        "type": "movie",
-        "quality": "hq pre-hd"
-    },
-    {
-        "title": "Raid 2 [2025] HQ PRE-HD [Hindi] | Full Movie",
-        "im": "562SAxZP1sLuYqDDTuODu3hdGyx",
-        "bgi": "uKhBujLqYCcfU1kaxXHNCEyZnT",
-        "dl": "https://pixeldrain.net/api/file/w6RvXQwQ?download",
-        "link": "tt28089700",
-        "year": "2025",
-        "duration": "140 min",
-        "rating": "7.4",
-        "genre": "Action, Crime, Thriller",
-        "description": "A top police officer seeks revenge against the criminals responsible for his brother's murder, delving deeper into a world of corruption and crime.",
-        "type": "movie",
-        "quality": "hq pre-hd"
-    },
-    {
-        "title": "Season of Love - AKA Ask Mevsimi [2025] WEB-DL [Hindi + Turkish] | Full Movie",
-        "im": "mYus8GNVi8BYIubE5bsPkrz6u13",
-        "bgi": "oOQYW70LdBNSNPmfnLVDgGBYazK",
-        "dl": "https://pixeldrain.net/api/file/2DyNogqH?download",
-        "link": "tt30050756",
-        "year": "2025",
-        "duration": "105 min",
-        "rating": "7.1",
-        "genre": "Romance, Drama",
-        "description": "Two souls from different cultures are brought together by fate, embarking on a journey of love, self-discovery, and emotional growth in this heartfelt romance.",
-        "type": "movie",
-        "quality": "webdl"
-    },
-    {
-        "title": "Kull - The Legacy of the Raisingghs [Season 1] WEB-DL [Hindi] | All Episodes",
-        "im": "fQSsgKQgGmE0dHZCXCmK3rlFBJ5",
-        "bgi": "zhvttpkuxfycC7Mt1vIzYzXWycs",
-        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?pd=KP14zq2B&sn=1&es=Kull.The.Legacy.of.the.Raisingghs.S01.720p.Hindi.WEB-DL.5.1.ESub.x264-HDHub4u.Ms/Kull.The.Legacy.of.the.Raisingghs.S01E&e=8&el=.720p.Hindi.WEB-DL.5.1.ESub.x264-HDHub4u.Ms.mkv",
-        "link": "tt32235809",
-        "year": "2025",
-        "duration": "50 min per episode",
-        "rating": "6.6",
-        "genre": "Fantasy, Adventure",
-        "description": "The legacy of the Raisingghs unfolds as the hero navigates the treacherous world of magic, betrayal, and hidden secrets, setting the stage for an epic adventure.",
-        "type": "series",
-        "quality": "webdl"
-    },
-    {
-        "title": "Black, White & Gray - Love Kills [Season 1] WEB-DL [Hindi] | All Episodes",
-        "im": "wEWjbuCIg2wYddOr3CJ2rX1qWV8",
-        "bgi": "8XhUj3YEycKMcWhgRKYGALCpCZc",
-        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?pd=xnHc81w5&sn=1&es=Black.White.and.Gray.Love.Kills.S01.720p.Hindi.WEB-DL.5.1.ESub.x264-HDHub4u.Ms/Black.White.and.Gray.Love.Kills.S01E&e=6&el=.720p.Hindi.WEB-DL.5.1.ESub.x264-HDHub4u.Ms.mkv",
-        "link": "tt35822727",
-        "year": "2025",
-        "duration": "45 min per episode",
-        "rating": "7.0",
-        "genre": "Thriller, Drama",
-        "description": "In a world of black and white, a group of individuals discover that love and revenge are intertwined in ways they never imagined. A psychological drama filled with suspense.",
-        "type": "series",
-        "quality": "webdl"
-    },
-    {
-        "title": "Valiant One [2025] WEB-DL [Hindi + English] | Full Movie",
-        "im": "sT8Z14RDCAd6szzxzWFAU4xcMwg",
-        "bgi": "oaM39dDJu82Doc0iCYZRyTJNgHS",
-        "dl": "https://pixeldrain.net/api/file/qDrHoNDP?download",
-        "link": "tt21442114",
-        "year": "2025",
-        "duration": "105 min",
-        "rating": "7.2",
-        "genre": "Action, Drama",
-        "description": "A former soldier is thrust into a high-stakes mission that challenges both his physical and mental strength, fighting for justice in a dangerous world.",
-        "type": "movie",
-        "quality": "webdl"
-    },
+        {
+            "title": "Batman: The Dark Knight [2008] BluRay [Hindi + English] | Full Movie",
+            "im": "qJ2tW6WMUDux911r6m7haRef0WH",
+            "bgi": "qg9NQ0Zkdfz9XWHtJ1X1GtKqqe9",
+            "dl": "https://pixeldrain.net/api/file/yDww3rJv?download",
+            "link": "tt0468569",
+            "year": "2008",
+            "duration": "152 min",
+            "rating": "9.0",
+            "genre": "Action, Crime, Drama",
+            "description": "Batman faces off against the Joker, a criminal mastermind intent on causing chaos and destroying Gotham City. With a moral dilemma at every turn, the fate of Gotham lies in Batman's hands.",
+            "type": "movie",
+            "quality": "blu-Ray",
+            "cast": "Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine"
+        },
+        {
+            "title": "Game of Thrones [Season 1] BluRay [Hindi + English] | All Episodes",
+            "im": "wgfKiqzuMrFIkU1M68DDDY8kGC1",
+            "bgi": "aGehSaCUVfWFSu953kuo6BsyZVw",
+            "dl": "http://qwrqwrqwr.rf.gd/a/a.php?pd=oVpZbzpG&sn=1&es=Game.Of.Thrones.S01E&e=10&el=.720p.x264.Bluray.Hindi.English.Esubs.Vegamovies.To.mkv",
+            "link": "tt0944947",
+            "year": "2011",
+            "duration": "60 min per episode",
+            "rating": "9.3",
+            "genre": "Action, Adventure, Drama",
+            "description": "In the land of Westeros, noble families vie for control of the Iron Throne. Power, betrayal, and war are at the heart of this epic fantasy drama series.",
+            "type": "series",
+            "quality": "blu-Ray",
+            "cast": "Emilia Clarke, Kit Harington, Lena Headey, Peter Dinklage"
+        },
+        {
+            "title": "RED 2 [2013] BluRay [Hindi + English] | Full Movie",
+            "im": "tbksijr6g340yFWRgI4JfwrtM9h",
+            "bgi": "kjNCChDXQplTK6uTBmxJi3PdrhT",
+            "dl": "https://pixeldrain.net/api/file/4PDwEUPR?download",
+            "link": "tt1821694",
+            "year": "2013",
+            "duration": "116 min",
+            "rating": "6.7",
+            "genre": "Action, Comedy, Crime",
+            "description": "The ex-CIA operatives are back for another mission, this time facing a new threat. With explosive action and humor, they must team up once again to stop a global disaster.",
+            "type": "movie",
+            "quality": "blu-Ray",
+            "cast": "Bruce Willis, Helen Mirren, John Malkovich, Mary-Louise Parker"
+        },
+        {
+            "title": "Stand By Me Doraemon 2 [2020] BluRay [Hindi] | Full Movie",
+            "im": "vBv8iOFPLnXmtELUjcFc7OKHsR4",
+            "bgi": "iMGd5FPajzsoEyD142pQr5wh9eS",
+            "dl": "https://pixeldrain.net/api/file/kL88hgaF?download",
+            "link": "tt13428402",
+            "year": "2020",
+            "duration": "95 min",
+            "rating": "7.8",
+            "genre": "Animation, Family",
+            "description": "Doraemon and Nobita go on a new adventure that explores the importance of friendship and family. With the help of futuristic gadgets, they discover how to solve life's challenges.",
+            "type": "movie",
+            "quality": "blu-Ray",
+            "cast": "Wasabi Mizuta, Megumi Ohara, Yumi Kakazu"
+        },
+        {
+            "title": "Pokemon Detective Pikachu [2020] BluRay [Hindi + English] | Full Movie",
+            "im": "uhWvnFgg3BNlcUz0Re1HfQqIcCD",
+            "bgi": "99fKFSYYKadyJ8axbhuXDy4zpfO",
+            "dl": "https://pixeldrain.net/api/file/bbd4v5hQ?download",
+            "link": "tt5884052",
+            "year": "2020",
+            "duration": "104 min",
+            "rating": "6.9",
+            "genre": "Adventure, Comedy, Family",
+            "description": "Detective Pikachu teams up with a young man to uncover the mystery behind his father's disappearance, with humor and adventure in a world full of Pokémon.",
+            "type": "movie",
+            "quality": "blu-Ray",
+            "cast": "Ryan Reynolds, Justice Smith, Kathryn Newton, Bill Nighy"
+        },
+        {
+            "title": "Shinchan Kaanta Lagaa [2015] BluRay [Hindi] | Full Movie",
+            "im": "rdIhlmuqFZ8gQtBbGQcCkLJ7jmB",
+            "bgi": "cnNo0K43K3wiEqMqJuHei3fsUhk",
+            "dl": "https://pixeldrain.net/api/file/KRKSZVXF?download",
+            "link": "tt4691348",
+            "year": "2015",
+            "duration": "90 min",
+            "rating": "5.4",
+            "genre": "Animation, Comedy, Family",
+            "description": "Shinchan and his mischievous ways lead to hilarious adventures. In this animated movie, his antics bring laughs and chaos in his usual style.",
+            "type": "movie",
+            "quality": "blu-Ray",
+            "cast": "Akio Otsuka, Kiyomi Asai, Satomi Kōrogi"
+        },
+        {
+            "title": "Ben 10: Alien Swarm [2009] BluRay [Hindi + English] | Full Movie",
+            "im": "wROzAzrcSsRTu1fQQu2QdaUER2X",
+            "bgi": "le4ro3QONV0NSlRSYg3Lx4lqc6w",
+            "dl": "https://pixeldrain.net/api/file/VkPQRQt2?download",
+            "link": "tt1327701",
+            "year": "2009",
+            "duration": "68 min",
+            "rating": "6.0",
+            "genre": "Action, Adventure, Animation",
+            "description": "Ben Tennyson and his team of alien heroes must stop an alien villain from unleashing chaos. With action-packed moments and alien transformations, this movie is a must-watch for fans.",
+            "type": "movie",
+            "quality": "blu-Ray",
+            "cast": "Yuri Lowenthal, Dee Bradley Baker, Meagan Moore, Barry Dennen"
+        },
+        {
+            "title": "The Bhootnii [2025] HQ PRE-HD [Hindi] | Full Movie",
+            "im": "6dT1KCa4wzkFYidXRVEg4OwntmP",
+            "bgi": "foCFZLADroNnhn07aFRoijUKpC1",
+            "dl": "https://pixeldrain.net/api/file/y4fRSCP7?download",
+            "link": "tt27162102",
+            "year": "2025",
+            "duration": "95 min",
+            "rating": "5.7",
+            "genre": "Horror, Mystery",
+            "description": "A young woman uncovers the dark secrets of an abandoned house, leading to terrifying encounters with the supernatural forces haunting it.",
+            "type": "movie",
+            "quality": "pre-hd",
+            "cast": "Priya Anand, Rahul Ravindran, Kishore"
+        },
+        {
+            "title": "Raid 2 [2025] HQ PRE-HD [Hindi] | Full Movie",
+            "im": "562SAxZP1sLuYqDDTuODu3hdGyx",
+            "bgi": "uKhBujLqYCcfU1kaxXHNCEyZnT",
+            "dl": "https://pixeldrain.net/api/file/w6RvXQwQ?download",
+            "link": "tt28089700",
+            "year": "2025",
+            "duration": "140 min",
+            "rating": "7.4",
+            "genre": "Action, Crime, Thriller",
+            "description": "A top police officer seeks revenge against the criminals responsible for his brother's murder, delving deeper into a world of corruption and crime.",
+            "type": "movie",
+            "quality": "pre-hd",
+            "cast": "Ajay Devgn, Sidharth Malhotra, Ronit Roy, Manoj Bajpayee"
+        },
+        {
+            "title": "Season of Love - AKA Ask Mevsimi [2025] WEB-DL [Hindi + Turkish] | Full Movie",
+            "im": "mYus8GNVi8BYIubE5bsPkrz6u13",
+            "bgi": "oOQYW70LdBNSNPmfnLVDgGBYazK",
+            "dl": "https://pixeldrain.net/api/file/2DyNogqH?download",
+            "link": "tt30050756",
+            "year": "2025",
+            "duration": "105 min",
+            "rating": "7.1",
+            "genre": "Romance, Drama",
+            "description": "Two souls from different cultures are brought together by fate, embarking on a journey of love, self-discovery, and emotional growth in this heartfelt romance.",
+            "type": "movie",
+            "quality": "web-dl",
+            "cast": "Elçin Sangu, Baran Akbulut, Mert Fırat"
+        },
+        {
+            "title": "Kull - The Legacy of the Raisingghs [Season 1] WEB-DL [Hindi] | All Episodes",
+            "im": "fQSsgKQgGmE0dHZCXCmK3rlFBJ5",
+            "bgi": "zhvttpkuxfycC7Mt1vIzYzXWycs",
+            "dl": "http://qwrqwrqwr.rf.gd/a/a.php?pd=KP14zq2B&sn=1&es=Kull.The.Legacy.of.the.Raisingghs.S01.720p.Hindi.WEB-DL.5.1.ESub.x264-HDHub4u.Ms/Kull.The.Legacy.of.the.Raisingghs.S01E&e=8&el=.720p.Hindi.WEB-DL.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "link": "tt32235809",
+            "year": "2025",
+            "duration": "50 min per episode",
+            "rating": "6.6",
+            "genre": "Fantasy, Adventure",
+            "description": "The legacy of the Raisingghs unfolds as the hero navigates the treacherous world of magic, betrayal, and hidden secrets, setting the stage for an epic adventure.",
+            "type": "series",
+            "quality": "web-dl",
+            "cast": "Rajkummar Rao, Shweta Tripathi, Gajraj Rao"
+        },
+        {
+            "title": "Black, White & Gray - Love Kills [Season 1] WEB-DL [Hindi] | All Episodes",
+            "im": "wEWjbuCIg2wYddOr3CJ2rX1qWV8",
+            "bgi": "8XhUj3YEycKMcWhgRKYGALCpCZc",
+            "dl": "http://qwrqwrqwr.rf.gd/a/a.php?pd=xnHc81w5&sn=1&es=Black.White.and.Gray.Love.Kills.S01.720p.Hindi.WEB-DL.5.1.ESub.x264-HDHub4u.Ms/Black.White.and.Gray.Love.Kills.S01E&e=6&el=.720p.Hindi.WEB-DL.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "link": "tt35822727",
+            "year": "2025",
+            "duration": "45 min per episode",
+            "rating": "7.0",
+            "genre": "Thriller, Drama",
+            "description": "In a world of black and white, a group of individuals discover that love and revenge are intertwined in ways they never imagined. A psychological drama filled with suspense.",
+            "type": "series",
+            "quality": "web-dl",
+            "cast": "Anushka Sharma, Richa Chadha, Shashank Arora"
+        },
+        {
+            "title": "Valiant One [2025] WEB-DL [Hindi + English] | Full Movie",
+            "im": "sT8Z14RDCAd6szzxzWFAU4xcMwg",
+            "bgi": "oaM39dDJu82Doc0iCYZRyTJNgHS",
+            "dl": "https://pixeldrain.net/api/file/qDrHoNDP?download",
+            "link": "tt21442114",
+            "year": "2025",
+            "duration": "105 min",
+            "rating": "7.2",
+            "genre": "Action, Drama",
+            "description": "A former soldier is thrust into a high-stakes mission that challenges both his physical and mental strength, fighting for justice in a dangerous world.",
+            "type": "movie",
+            "quality": "web-dl",
+            "cast": "Vicky Kaushal, Radhika Apte, Kumud Mishra"
+        }, 
     
     {
         "title": "The Bayou [2025] WEB-DL [Hindi + English] | Full Movie",
@@ -319,7 +656,7 @@ const movies = [
         "genre": "Horror, Thriller",
         "description": "A group of friends gets trapped in a swampy bayou where the land harbors dark, supernatural secrets. They must fight for their lives and uncover the horrifying truth.",
         "type": "movie",
-        "quality": "webdl"
+        "quality": "web-dl"
     },
     {
         "title": "Peaky Blinders [Season 2] [Episode 1] WEB-DL [Hindi + English]",
@@ -333,7 +670,7 @@ const movies = [
         "genre": "Crime, Drama",
         "description": "Tommy Shelby faces new challenges as he tries to expand the Peaky Blinders' influence. Family, power, and betrayal continue to dominate the streets of Birmingham.",
         "type": "series",
-        "quality": "webdl"
+        "quality": "web-dl"
     },
     {
         "title": "Another Simple Favor [2025] WEB-DL [Hindi + English] | Full Movie",
@@ -347,7 +684,7 @@ const movies = [
         "genre": "Mystery, Thriller",
         "description": "A woman investigates the disappearance of her best friend, only to uncover a deeper conspiracy that threatens her own life.",
         "type": "movie",
-        "quality": "webdl"
+        "quality": "web-dl"
     },
     {
         "title": "Costao [2025] WEB-DL [Hindi] | Full Movie",
@@ -361,7 +698,7 @@ const movies = [
         "genre": "Drama, Mystery",
         "description": "A struggling artist seeks solace in a remote coastal town, but soon realizes that the town holds dark secrets that change his life forever.",
         "type": "movie",
-        "quality": "webdl"
+        "quality": "web-dl"
     },
     {
         "title": "Ali [2001] BluRay [English] | Full Movie",
@@ -375,7 +712,7 @@ const movies = [
         "genre": "Biography, Drama, Sport",
         "description": "The life of boxing legend Muhammad Ali, focusing on his rise to fame, his personal battles, and his controversial political stance.",
         "type": "movie",
-        "quality": "bluRay"
+        "quality": "blu-Ray"
     },
     {
         "title": "Bromance [2025] WEB-DL [Hindi + Malayalam] | Full Movie",
@@ -389,7 +726,7 @@ const movies = [
         "genre": "Comedy, Drama",
         "description": "Two childhood friends reunite after many years and embark on a journey of self-discovery, leading to both comic and emotional moments.",
         "type": "movie",
-        "quality": "webdl"
+        "quality": "web-dl"
     },
     {
         "title": "The Eternaut [Season 1] WEB-DL [Hindi + English] | All Episodes",
@@ -403,7 +740,7 @@ const movies = [
         "genre": "Sci-Fi, Drama",
         "description": "A post-apocalyptic world where humanity's survival depends on a mysterious snowfall. A group of survivors must fight to uncover the truth about the eerie snowstorm.",
         "type": "series",
-        "quality": "webdl"
+        "quality": "web-dl"
     },
     {
         "title": "Peaky Blinders [Season 1] [Episode 6] WEB-DL [Hindi + English]",
@@ -417,7 +754,7 @@ const movies = [
         "genre": "Crime, Drama",
         "description": "Tommy Shelby confronts rivals and personal struggles as he strengthens his criminal empire in this intense episode of Peaky Blinders.",
         "type": "series",
-        "quality": "webdl"
+        "quality": "web-dl"
     },
     {
             "title": "Good Bad Ugly [2025] WEB-DL [Hindi + Tamil] | Full Movie",
@@ -431,7 +768,7 @@ const movies = [
             "genre": "Action, Drama, Western",
             "description": "A lone gunslinger must navigate a brutal world full of criminals, lawmen, and betrayal as he seeks justice in the Wild West.",
             "type": "movie",
-            "quality": "webdl"
+            "quality": "web-dl"
         },
         {
             "title": "The Monkey [2025] WEB-DL [Hindi + English] | Full Movie",
@@ -445,7 +782,7 @@ const movies = [
             "genre": "Adventure, Comedy, Family",
             "description": "A young boy befriends a magical monkey who can speak and transform, leading to a series of whimsical adventures.",
             "type": "movie",
-            "quality": "webdl"
+            "quality": "web-dl"
         },
         {
             "title": "Heretic [2024] WEB-DL [Hindi + English] | Full Movie",
@@ -459,7 +796,7 @@ const movies = [
             "genre": "Horror, Thriller",
             "description": "A group of adventurers explore an abandoned church in the deep woods, only to find that it holds a terrifying secret that forces them to fight for their lives.",
             "type": "movie",
-            "quality": "webdl"
+            "quality": "web-dl"
         },
         {
             "title": "Jaat [2025] WEB-DL [Hindi] | Full Movie",
@@ -473,7 +810,7 @@ const movies = [
             "genre": "Action, Drama",
             "description": "A powerful tale of a young man’s journey through family, honor, and vengeance as he rises to become a formidable force in the world of criminal enterprises.",
             "type": "movie",
-            "quality": "webdl"
+            "quality": "web-dl"
         },
         {
             "title": "Star Wars: Andor [Season 2] [Episode 6] WEB-DL [Hindi + English]",
@@ -487,7 +824,7 @@ const movies = [
             "genre": "Action, Adventure, Sci-Fi",
             "description": "In this gripping episode, Cassian Andor faces mounting pressures from both the Empire and the Rebellion, making difficult choices that could change the course of the galaxy.",
             "type": "series",
-            "quality": "webdl"
+            "quality": "web-dl"
         },
         {
             "title": "Aghathiyaa [2025] WEB-DL [Hindi + Tamil] | Full Movie",
@@ -501,7 +838,7 @@ const movies = [
             "genre": "Drama, Thriller",
             "description": "A young man struggles with his personal demons and societal expectations, ultimately embarking on a path of self-discovery that leads him to a dramatic life-changing decision.",
             "type": "movie",
-            "quality": "webdl"
+            "quality": "web-dl"
         },
         {
             "title": "Kooman [2022] UNCUT WEB-DL [Hindi + Malayalam] | Full Movie",
@@ -529,7 +866,7 @@ const movies = [
             "genre": "Crime, Drama",
             "description": "The Shelby family faces new rivalries and challenges as they strive to dominate the streets of Birmingham, with Tommy Shelby navigating dangerous territory.",
             "type": "series",
-            "quality": "webdl"
+            "quality": "web-dl"
         },
         {
             "title": "JoJos Bizarre Adventure [Season 1] [Episode 18] WEB-DL [Hindi + English + Japanese]",
@@ -543,7 +880,7 @@ const movies = [
             "genre": "Action, Adventure, Animation",
             "description": "The battle intensifies as JoJo and his companions face increasingly powerful foes. Each episode reveals new twists and unexpected turns in the adventure.",
             "type": "series",
-            "quality": "webdl"
+            "quality": "web-dl"
         },
         {
             "title": "Last Night of Amore [2023] BluRay [Hindi + Italian] | Full Movie",
@@ -557,7 +894,7 @@ const movies = [
             "genre": "Romance, Drama",
             "description": "Two strangers from different worlds share a night of unexpected love and connection, exploring the complexities of relationships and human emotions.",
             "type": "movie",
-            "quality": "bluRay"
+            "quality": "blu-Ray"
         },
         {
             "title": "Gangs of Wasseypur - Part 2 [2012] BluRay [Hindi] | Full Movie",
@@ -571,7 +908,7 @@ const movies = [
             "genre": "Action, Crime, Drama",
             "description": "The intense continuation of the epic saga of power, revenge, and conflict between the two rival families in the violent world of Wasseypur.",
             "type": "movie",
-            "quality": "bluRay"
+            "quality": "blu-Ray"
         },
         {
             "title": "Gangs of Wasseypur - Part 1 [2012] BluRay [Hindi] | Full Movie",
@@ -585,7 +922,7 @@ const movies = [
             "genre": "Action, Crime, Drama",
             "description": "The epic saga continues as the conflict between the Wasseypur gangs escalates into a bloody and intense war, filled with betrayal, revenge, and political intrigue.",
             "type": "movie",
-            "quality": "bluRay"
+            "quality": "blu-Ray"
         },
         {
             "title": "Drop [2025] WEB-DL [Hindi + English] | Full Movie",
@@ -599,7 +936,7 @@ const movies = [
             "genre": "Thriller, Drama",
             "description": "A suspense-filled thriller where the main character is caught in a deadly conspiracy after accidentally uncovering dark secrets that powerful people want to keep hidden.",
             "type": "movie",
-            "quality": "webdl"
+            "quality": "web-dl"
         },
         {
             "title": "Peaky Blinders [Season 1] [Episode 4] WEB-DL [Hindi + English]",
@@ -613,7 +950,7 @@ const movies = [
             "genre": "Crime, Drama",
             "description": "Tommy Shelby navigates the criminal underworld, expanding the Peaky Blinders' influence while facing rising challenges from rival factions and personal enemies.",
             "type": "series",
-            "quality": "webdl"
+            "quality": "web-dl"
         },
         {
             "title": "The Last of Us [Season 2] [Episode 3] WEB-DL [Hindi + English] | HBO Series",
@@ -627,7 +964,7 @@ const movies = [
             "genre": "Action, Adventure, Drama",
             "description": "In the third episode of Season 2, Ellie and Joel face terrifying new threats while dealing with the emotional weight of their journey in a post-apocalyptic world.",
             "type": "series",
-            "quality": "webdl"
+            "quality": "web-dl"
         },
         {
             "title": "Thudarum [2025] HQ-V2 HDTC [Malayalam] | Full Movie",
@@ -655,7 +992,7 @@ const movies = [
             "genre": "Horror, Mystery, Thriller",
             "description": "A chilling psychological horror where a group of people find themselves haunted by the strange and eerie TV shows that seem to affect their reality in disturbing ways.",
             "type": "movie",
-            "quality": "bluRay"
+            "quality": "blu-Ray"
         },
         {
             "title": "Suits LA [Season 1] [Episode 10] WEB-DL [Hindi + English]",
@@ -669,7 +1006,7 @@ const movies = [
             "genre": "Drama, Legal",
             "description": "In the season finale, the legal team faces their biggest challenge yet, with high stakes and personal conflicts as they navigate their careers and relationships.",
             "type": "series",
-            "quality": "webdl"
+            "quality": "web-dl"
         },
         {
             "title": "The Divorce Insurance [Season 1] [Episode 7] WEB-DL [Hindi + English] | [Amazon Prime Video]",
@@ -683,7 +1020,7 @@ const movies = [
             "genre": "Comedy, Drama",
             "description": "The characters' personal lives take a dramatic turn as they tackle unexpected challenges, uncovering deeper emotional layers in their relationships.",
             "type": "series",
-            "quality": "webdl"
+            "quality": "web-dl"
         },
         {
             "title": "Tuk Tuk [2025] BluRay [Hindi + Telugu] | Full Movie",
@@ -697,7 +1034,7 @@ const movies = [
             "genre": "Comedy, Family",
             "description": "A lighthearted family comedy about a young boy's misadventures and the hilarious situations that arise as he tries to navigate through life with his quirky family.",
             "type": "movie",
-            "quality": "bluRay"
+            "quality": "blu-Ray"
         },
         {
             "title": "Live [2023] WEB-DL [Hindi + Malayalam] | Full Movie",
@@ -710,7 +1047,7 @@ const movies = [
             "genre": "Drama, Thriller",
             "description": "A man embarks on a perilous journey to track down a long-lost loved one, uncovering deep secrets along the way. His journey becomes a battle against time and destiny.",
             "type": "movie",
-            "quality": "webdl"
+            "quality": "web-dl"
         },
         {
             "title": "Akaal: The Unconquered [2025] HDRip [Hindi] [HEVC] | Full Movie",
@@ -738,7 +1075,7 @@ const movies = [
             "genre": "Crime, Mystery",
             "description": "The team at CID continues to unravel intricate mysteries, solving crimes that seem unsolvable. This episode delves into the psyche of a criminal mastermind.",
             "type": "series",
-            "quality": "webdl"
+            "quality": "web-dl"
         },
         {
             "title": "Paappan [2022] UNCUT WEB-DL [Hindi + Malayalam] | Full Movie",
@@ -832,7 +1169,7 @@ const movies = [
             "genre": "Crime, Drama, Thriller",
             "description": "The con artists from Jamtara are back with new tricks and challenges. As the stakes get higher, the battle between law enforcement and scammers intensifies.",
             "type": "series",
-            "quality": "webdl"
+            "quality": "web-dl"
         },
         {
             "title": "Weak Hero [Season 2] WEB-DL [Hindi + English] | All Episodes",
@@ -845,7 +1182,7 @@ const movies = [
             "genre": "Action, Drama, Thriller",
             "description": "In the second season, the protagonist, once perceived as weak, faces increasing challenges as he fights against bullies and corrupt systems, developing into a stronger individual.",
             "type": "series",
-            "quality": "webdl"
+            "quality": "web-dl"
         },
         {
             "title": "Ayyana Mane [Season 1] WEB-DL [Hindi + English] | All Episodes",
@@ -858,7 +1195,7 @@ const movies = [
             "genre": "Drama, Family",
             "description": "The life of a young girl, Ayyana, who struggles with societal norms, family pressure, and her dreams, unfolds in a gripping story of resilience and hope.",
             "type": "series",
-            "quality": "webdl"
+            "quality": "web-dl"
         },
         {
             "title": "Ground Zero [2025] HQ-V2 HDTC [Hindi] [HEVC] | Full Movie",
@@ -1014,7 +1351,7 @@ const movies = [
             "genre": "Drama, Adventure",
             "description": "A heartfelt drama that follows a group of friends exploring the mountains of Kodai, where they learn valuable life lessons, face challenges, and uncover hidden secrets in the serene yet adventurous landscapes.",
             "type": "series",
-            "quality": "webdl"
+            "quality": "web-dl"
         },
         {
             "title": "Star Wars: Andor [Season 2] [Episode 3] WEB-DL [Hindi + English] [HEVC]",
@@ -1066,7 +1403,7 @@ const movies = [
             "genre": "Action, Animation, Drama",
             "description": "The additional episodes of Attack on Titan expand the lore, providing fans with deeper insights into the world of Titans, their origins, and the battles that shape the future of humanity.",
             "type": "series",
-            "quality": "webdl"
+            "quality": "web-dl"
         },
         {
             "title": "The Cleaner [2022] WEB-DL [Hindi + Thai] | Full Movie",
@@ -1079,7 +1416,7 @@ const movies = [
             "genre": "Action, Crime, Thriller",
             "description": "A skilled cleaner is tasked with cleaning up the aftermath of a brutal crime, only to discover that the case is connected to his own dark past.",
             "type": "movie",
-            "quality": "webdl"
+            "quality": "web-dl"
         },
         {
             "title": "WWE WrestleMania 41: Sunday [2025] WEB-DL [Hindi + English] | Full Event",
@@ -1092,7 +1429,7 @@ const movies = [
             "genre": "Sports, Entertainment",
             "description": "The biggest event in wrestling history, featuring high-profile matches between top WWE stars. Sunday night brings thrilling showdowns and electrifying moments.",
             "type": "event",
-            "quality": "webdl"
+            "quality": "web-dl"
         },
         {
             "title": "WWE WrestleMania 41: Saturday [2025] WEB-DL [Hindi + English] | Full Event",
@@ -1105,7 +1442,7 @@ const movies = [
             "genre": "Sports, Entertainment",
             "description": "The Saturday portion of WWE WrestleMania 41 featuring the kickoff matches and exhilarating moments. The energy builds for the main event on Sunday.",
             "type": "event",
-            "quality": "webdl"
+            "quality": "web-dl"
         },
         {
             "title": "Panchayat [Season 2] WEB-DL [Hindi] [HEVC] | All Episodes",
@@ -1144,7 +1481,7 @@ const movies = [
             "genre": "Drama, Legal",
             "description": "The 9th episode of Suits LA season 1 showcases intense legal battles and personal conflicts as the legal team tries to navigate through high-stakes cases and their complicated relationships.",
             "type": "series",
-            "quality": "webdl"
+            "quality": "web-dl"
         },
         {
             "title": "The Last of Us [Season 2] [Episode 2] WEB-DL [Hindi + English] [HEVC] | HBO Series",
@@ -1248,7 +1585,7 @@ const movies = [
             "genre": "Action, Crime, Thriller",
             "description": "A high-stakes thriller about a tech expert who gets kidnapped and forced into hacking a high-security system, while trying to outsmart his captors and escape.",
             "type": "movie",
-            "quality": "webdl"
+            "quality": "web-dl"
         },
         {
             "title": "The Lion King [1994] Blu-Ray [Hindi + English] | Full Movie",
@@ -1261,7 +1598,7 @@ const movies = [
             "genre": "Animation, Adventure, Drama",
             "description": "The animated classic about Simba, a young lion prince who overcomes adversity to take his rightful place as king of the Pride Lands, filled with lessons on responsibility and courage.",
             "type": "movie",
-            "quality": "bluRay"
+            "quality": "blu-Ray"
         },
         {
             "title": "The Twilight Saga: Breaking Dawn - Part 2 [2012] Blu-Ray [Hindi + English] | Full Movie",
@@ -1274,7 +1611,7 @@ const movies = [
             "genre": "Adventure, Drama, Fantasy",
             "description": "The final chapter in the Twilight saga, where Bella, Edward, and Jacob face the aftermath of Bella’s transformation and prepare for the ultimate confrontation with the Volturi.",
             "type": "movie",
-            "quality": "bluRay"
+            "quality": "blu-Ray"
         },
         {
             "title": "Shrek 2 [2004] Blu-Ray [Hindi + English] | Full Movie",
@@ -1287,7 +1624,7 @@ const movies = [
             "genre": "Animation, Adventure, Comedy",
             "description": "Shrek and Fiona go on an adventurous journey to meet Fiona’s parents, leading to comical and heartfelt moments in this animated sequel filled with laughter and lessons about family and acceptance.",
             "type": "movie",
-            "quality": "bluRay"
+            "quality": "blu-Ray"
         },
         {
             "title": "Mission: Impossible - Fallout [2018] Blu-Ray [Hindi + English] | Full Movie",
@@ -1300,7 +1637,7 @@ const movies = [
             "genre": "Action, Adventure, Thriller",
             "description": "Ethan Hunt faces the most dangerous mission of his career when he must retrieve stolen plutonium and prevent a catastrophic disaster, while confronting his own past.",
             "type": "movie",
-            "quality": "bluRay"
+            "quality": "blu-Ray"
         },
         {
             "title": "Pirates of the Caribbean: Dead Man's Chest [2006] Blu-Ray [Hindi + English] | Full Movie",
@@ -1313,7 +1650,7 @@ const movies = [
             "genre": "Action, Adventure, Fantasy",
             "description": "Captain Jack Sparrow returns as he embarks on a quest to find the Dead Man's Chest, a mission that pits him against new enemies and tests his wits and courage.",
             "type": "movie",
-            "quality": "bluRay"
+            "quality": "blu-Ray"
         },
         {
             "title": "Transformers 3: Dark of the Moon [2011] Blu-Ray [Hindi + English] | Full Movie",
@@ -1326,7 +1663,7 @@ const movies = [
             "genre": "Action, Adventure, Sci-Fi",
             "description": "The Autobots discover a Cybertronian spacecraft on Earth's moon and race against the Decepticons to reach it and learn its secrets, leading to a battle for Earth's survival.",
             "type": "movie",
-            "quality": "bluRay"
+            "quality": "blu-Ray"
         },
         {
             "title": "Despicable Me 4 [2024] WEB-DL [Hindi + English] | Full Movie",
@@ -1339,7 +1676,7 @@ const movies = [
             "genre": "Animation, Adventure, Comedy",
             "description": "Gru and his mischievous Minions are back in this hilarious adventure where they face new challenges, embark on wild escapades, and learn valuable lessons about family and friendship.",
             "type": "movie",
-            "quality": "webdl"
+            "quality": "web-dl"
         },
         {
             "title": "The Hobbit: The Battle of the Five Armies [2014] Blu-Ray [Hindi + English] | Full Movie",
@@ -1352,7 +1689,7 @@ const movies = [
             "genre": "Action, Adventure, Fantasy",
             "description": "The final battle for Middle-Earth begins as Thorin Oakenshield and his companions face the massive armies of orcs and goblins, while Bilbo Baggins must overcome his fears to protect his friends.",
             "type": "movie",
-            "quality": "bluRay"
+            "quality": "blu-Ray"
         },
         {
             "title": "The Lord of the Rings: The Return of the King [2003] EXTENDED Blu-Ray [Hindi + English] [HEVC] | Full Movie",
@@ -1509,28 +1846,48 @@ const movies = [
     dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Loveyapa.2025.720p.HEVC.Hindi.DS4K.WEB-DL.5.1.ESub.x265-HDHub4u.Ms.mkv',
     link: 'tt25504468'
     },
-    
     {
-    title:'3 Idiots [2009] Blu-Ray [Hindi] | Full Movie',
-    im:'66A9MqXOyVFCssoloscw79z8Tew',
-    dl:'https://pub-2aac36ca20d3490fa7cd93f6963776f2.r2.dev/3%20Idiots%202009%20BluRay%20720p%20Hindi%20AAC%205.1%20x264%20ESub%20-%20Vegamovies.NL.mkv',
-    link: 'tt1187043'
+        "title": "3 Idiots [2009] Blu-Ray [Hindi] | Full Movie",
+        "im": "66A9MqXOyVFCssoloscw79z8Tew",
+        "dl": "https://pub-2aac36ca20d3490fa7cd93f6963776f2.r2.dev/3%20Idiots%202009%20BluRay%20720p%20Hindi%20AAC%205.1%20x264%20ESub%20-%20Vegamovies.NL.mkv",
+        "link": "tt1187043",
+        "year": "2009",
+        "duration": "170 min",
+        "rating": "8.4",
+        "genre": "Comedy, Drama",
+        "description": "The story of three friends who overcome obstacles and break societal norms while navigating their way through college life.",
+        "type": "movie",
+        "quality": "blu-Ray",
+        "cast": "Aamir Khan, R. Madhavan, Sharman Joshi"
     },
-    
     {
-    title:'PK [2014] Blu-Ray [Hindi] | Full Movie',
-    im:'z2x2Y4tncefsIU7h82gmUM5vnBJ',
-    dl:'https://pub-aeb628fbc81d4859bbcbf808ac040ff4.r2.dev/PK%202014%20BluRay%20720p%20Hindi%20AAC%205.1%20x264%20ESub%20-%20Vegamovies.NL.mkv',
-    link: 'tt2338151'
+        "title": "PK [2014] Blu-Ray [Hindi] | Full Movie",
+        "im": "z2x2Y4tncefsIU7h82gmUM5vnBJ",
+        "dl": "https://pub-aeb628fbc81d4859bbcbf808ac040ff4.r2.dev/PK%202014%20BluRay%20720p%20Hindi%20AAC%205.1%20x264%20ESub%20-%20Vegamovies.NL.mkv",
+        "link": "tt2338151",
+        "year": "2014",
+        "duration": "153 min",
+        "rating": "8.1",
+        "genre": "Comedy, Drama, Sci-Fi",
+        "description": "An alien named PK comes to Earth and experiences human culture, leading to a satirical journey into religious beliefs and societal norms.",
+        "type": "movie",
+        "quality": "blu-Ray",
+        "cast": "Aamir Khan, Anushka Sharma, Sushant Singh Rajput"
     },
-    
     {
-    title:'FCUK: Father Chitti Umaa Kaarthik [2021] WEB-DL [Hindi + Telugu] [HEVC] | Full Movie',
-    im:'bFKvPXGMf8PxB8Bl3mvY0fPfqFx',
-    dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/FCUK.2021.720p.HEVC.WEB.DL.Hindi.2.0.Telugu.x265.Vegamovies.is.mkv',
-    link: 'tt13912646'
+        "title": "FCUK: Father Chitti Umaa Kaarthik [2021] WEB-DL [Hindi + Telugu] [HEVC] | Full Movie",
+        "im": "bFKvPXGMf8PxB8Bl3mvY0fPfqFx",
+        "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/FCUK.2021.720p.HEVC.WEB.DL.Hindi.2.0.Telugu.x265.Vegamovies.is.mkv",
+        "link": "tt13912646",
+        "year": "2021",
+        "duration": "120 min",
+        "rating": "6.2",
+        "genre": "Comedy, Drama",
+        "description": "A father and son’s contrasting life choices lead them on a path of self-discovery, bringing laughter and emotions into play.",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "Rajiv Thakur, Ashwini Kalsekar"
     },
-    
     {
     title:'Devara: Part 1 [2024] WEB-DL [Hindi] [HEVC] | Full Movie',
     im:'hdpYUidbB83AfemP369W7guOIlr',
@@ -1560,33 +1917,61 @@ const movies = [
     },
     
     {
-    title:'No. 1 Businessman [2014] Blu-Ray [Hindi] [UNCUT] | Full Movie',
-    im:'hKdshCzKkT2WNEMQCdxUNtK2M4H',
-    dl:'https://pixeldrain.net/api/file/r7dAi33d?download',
-    link: 'tt2071613'
+        "title": "No. 1 Businessman [2014] Blu-Ray [Hindi] [UNCUT] | Full Movie",
+        "im": "hKdshCzKkT2WNEMQCdxUNtK2M4H",
+        "dl": "https://pixeldrain.net/api/file/r7dAi33d?download",
+        "link": "tt2071613",
+        "year": "2014",
+        "duration": "150 min",
+        "rating": "6.7",
+        "genre": "Action, Drama",
+        "description": "A businessman who is a self-made millionaire faces the challenges and trials of building a legacy while juggling with personal and professional relationships.",
+        "cast": "Mahesh Babu, Kajal Aggarwal, Nassar",
+        "type": "movie",
+        "quality": "blu-Ray"
     },
-    
     {
-    title:'1: Nenokkadine [2014] HD-RIP [Hindi] | Full Movie',
-    im:'3sNBTnCjPQpbgkPvRDfDQe4ybwo',
-    dl:'https://pixeldrain.net/api/file/pQzQv5Sz?download',
-    link: 'tt2375559'
+        "title": "1: Nenokkadine [2014] HD-RIP [Hindi] | Full Movie",
+        "im": "3sNBTnCjPQpbgkPvRDfDQe4ybwo",
+        "dl": "https://pixeldrain.net/api/file/pQzQv5Sz?download",
+        "link": "tt2375559",
+        "year": "2014",
+        "duration": "160 min",
+        "rating": "7.6",
+        "genre": "Action, Thriller",
+        "description": "A rock star who suffers from amnesia embarks on a quest to uncover the mystery behind his past and the people who try to kill him.",
+        "cast": "Mahesh Babu, Kriti Sanon, Nassar",
+        "type": "movie",
+        "quality": "hdRip"
     },
-    
     {
-    title:'Maharshi [2019] WEB-DL [Hindi + Telugu] [HEVC] | Full Movie',
-    im:'maoChdAwkJLvOy4yyGgYgcCJePi',
-    dl:'https://pub-90c967a2e50940b3bd2ce7b78c38a8ee.r2.dev/Maharshi.2019.UNCUT.720p.HEVC.Web-Dl.HIN.TEL.x265.AAC.ESubs.Vegamovies.to.mkv',
-    link: 'tt8333978'
+        "title": "Maharshi [2019] WEB-DL [Hindi + Telugu] [HEVC] | Full Movie",
+        "im": "maoChdAwkJLvOy4yyGgYgcCJePi",
+        "dl": "https://pub-90c967a2e50940b3bd2ce7b78c38a8ee.r2.dev/Maharshi.2019.UNCUT.720p.HEVC.Web-Dl.HIN.TEL.x265.AAC.ESubs.Vegamovies.to.mkv",
+        "link": "tt8333978",
+        "year": "2019",
+        "duration": "170 min",
+        "rating": "7.7",
+        "genre": "Drama, Family",
+        "description": "A successful businessman returns to his village to fulfill a promise and helps the people there by fighting for their rights.",
+        "cast": "Mahesh Babu, Pooja Hegde, Allari Naresh",
+        "type": "movie",
+        "quality": "web-dl"
     },
-    
     {
-    title:'Guntur Kaaram [2024] WEB-DL [Hindi + Telugu] [HEVC] | Full Movie',
-    im:'4WvxzCSHmjbxqc3wethZoBZ5hmA',
-    dl:'https://pub-1879fb6b72894c989342dcdcb43b6f5d.r2.dev/Guntur.Kaaram.2024.Hindi.+.Telugu.Dual.Audio.UnCut.Movie.WEB.DL.720p.x265.HEVC.ESub.Vegamovies.To.mkv.mkv',
-    link: 'tt14564000'
-    },
-    
+        "title": "Guntur Kaaram [2024] WEB-DL [Hindi + Telugu] [HEVC] | Full Movie",
+        "im": "4WvxzCSHmjbxqc3wethZoBZ5hmA",
+        "dl": "https://pub-1879fb6b72894c989342dcdcb43b6f5d.r2.dev/Guntur.Kaaram.2024.Hindi.+.Telugu.Dual.Audio.UnCut.Movie.WEB.DL.720p.x265.HEVC.ESub.Vegamovies.To.mkv.mkv",
+        "link": "tt14564000",
+        "year": "2024",
+        "duration": "150 min",
+        "rating": "N/A",
+        "genre": "Action, Drama",
+        "description": "A thrilling action-packed movie about a man who seeks revenge for the murder of his family, fighting against a criminal empire.",
+        "cast": "Mahesh Babu, Pooja Hegde, Sree Vishnu",
+        "type": "movie",
+        "quality": "web-dl"
+    },    
     {
     title:'The Diplomat [2025] WEB-RIP [Hindi] | Full Movie',
     im:'uwl9Y4px8TTIQK4N19k6gnW1RnX',
@@ -1665,17 +2050,32 @@ const movies = [
     },
     
     {
-    title:'Avatar 2: The Way of Water [2022] [IMAX] Blu-Ray [Hindi + English] | Full Movie',
-    im:'t6HIqrRAclMCA60NsSmeqe9RmNV',
-    dl:'https://pub-0a3c165498564f0f826acf53d542d75b.r2.dev/Avatar%20The%20Way%20of%20Water%202022%20BluRay%20720p%20x265%20HEVC%2010bit%20Hindi%20English%20AAC%205.1%20ESub%20-%20Vegamovies.to.mkv',
-    link: 'tt1630029'
+        "title": "Avatar 2: The Way of Water [2022] [IMAX] Blu-Ray [Hindi + English] | Full Movie",
+        "im": "t6HIqrRAclMCA60NsSmeqe9RmNV",
+        "dl": "https://pub-0a3c165498564f0f826acf53d542d75b.r2.dev/Avatar%20The%20Way%20of%20Water%202022%20BluRay%20720p%20x265%20HEVC%2010bit%20Hindi%20English%20AAC%205.1%20ESub%20-%20Vegamovies.to.mkv",
+        "link": "tt1630029",
+        "year": "2022",
+        "duration": "192 min",
+        "rating": "7.8",
+        "genre": "Action, Adventure, Fantasy",
+        "description": "Jake Sully and Neytiri's peaceful life is disrupted when a new threat emerges. The couple must now explore the oceans and navigate new challenges on the planet Pandora.",
+        "type": "movie",
+        "quality": "blu-Ray",
+        "cast": "Sam Worthington, Zoe Saldana, Sigourney Weaver"
     },
-    
     {
-    title:'Avatar [2009] [EXTENDED IMAX] [Hindi + English] | Full Movie',
-    im:'kyeqWdyUXW608qlYkRqosgbbJyK',
-    dl:'https://pub-71c4b16b588e47ad8b5e22e5b69dbf96.r2.dev/Avatar%202009%20BluRay%20EXTENDED%20720p%20x265%2010bit%20Hindi%20English%20AAC%205.1%20ESub%20-%20Vegamovies.to.mkv',
-    link: 'tt0499549'
+        "title": "Avatar [2009] [EXTENDED IMAX] [Hindi + English] | Full Movie",
+        "im": "kyeqWdyUXW608qlYkRqosgbbJyK",
+        "dl": "https://pub-71c4b16b588e47ad8b5e22e5b69dbf96.r2.dev/Avatar%202009%20BluRay%20EXTENDED%20720p%20x265%2010bit%20Hindi%20English%20AAC%205.1%20ESub%20-%20Vegamovies.to.mkv",
+        "link": "tt0499549",
+        "year": "2009",
+        "duration": "162 min",
+        "rating": "8.0",
+        "genre": "Action, Adventure, Science Fiction",
+        "description": "On the lush alien world of Pandora, paraplegic marine Jake Sully is recruited to join a project that enables humans to communicate with the planet's indigenous species through bio-engineered avatars.",
+        "type": "movie",
+        "quality": "blu-Ray",
+        "cast": "Sam Worthington, Zoe Saldana, Sigourney Weaver"
     },
     
     {
@@ -1705,40 +2105,75 @@ const movies = [
     dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Shangri.La.Frontier.S02E23.720p.[HIN.ENG.JAP].Vegamovies.is.mkv',
     link: 'tt28776190'
     },
-    
     {
-    title:'Lucky Baskhar [2024] WEB-DL [Hindi + Telugu] | Full Movie',
-    im:'a47JQFl9L7VDa79tEvnTOJe0rPa',
-    dl:'https://pub-cc98aef3a18a46c1a1d41eb308d48df9.r2.dev/Lucky.Baskhar.2024.Hindi.+.Telugu.Dual.Audio.UnCut.South.Movie.720p.10Bit.ESub.x265.Vegamovies.is.mkv',
-    link: 'tt27540542'
+        "title": "Lucky Baskhar [2024] WEB-DL [Hindi + Telugu] | Full Movie",
+        "im": "a47JQFl9L7VDa79tEvnTOJe0rPa",
+        "dl": "https://pub-cc98aef3a18a46c1a1d41eb308d48df9.r2.dev/Lucky.Baskhar.2024.Hindi.+.Telugu.Dual.Audio.UnCut.South.Movie.720p.10Bit.ESub.x265.Vegamovies.is.mkv",
+        "link": "tt27540542",
+        "year": "2024",
+        "duration": "140 min",
+        "rating": "N/A",
+        "genre": "Action, Drama",
+        "description": "A man embarks on a journey to change his fate and overcome obstacles, finding unexpected alliances and confrontations along the way.",
+        "cast": "Nani, Rashmika Mandanna, Rajendra Prasad",
+        "type": "movie",
+        "quality": "web-dl"
     },
-    
     {
-    title:'Happy New Year [2014] WEB-DL [Hindi] | Full Movie',
-    im:'2t47Xm1YkYaICKybxbpa55KJvQr',
-    dl:'https://pub-310225cc8f904dddbb030f585feeda7e.r2.dev/Happy.New.Year.1080p.Hindi-Vegamovies.NL.mkv',
-    link: 'tt2461132'
+        "title": "Happy New Year [2014] WEB-DL [Hindi] | Full Movie",
+        "im": "2t47Xm1YkYaICKybxbpa55KJvQr",
+        "dl": "https://pub-310225cc8f904dddbb030f585feeda7e.r2.dev/Happy.New.Year.1080p.Hindi-Vegamovies.NL.mkv",
+        "link": "tt2461132",
+        "year": "2014",
+        "duration": "155 min",
+        "rating": "6.3",
+        "genre": "Action, Comedy, Drama",
+        "description": "A team of misfits tries to pull off a major heist during a prestigious event in Dubai, facing multiple challenges along the way.",
+        "cast": "Shah Rukh Khan, Deepika Padukone, Abhishek Bachchan",
+        "type": "movie",
+        "quality": "web-dl"
     },
-    
     {
-    title:'Hey Sinamika [2022] WEB-DL [Hindi] | Full Movie',
-    im:'3t6kgGJqsSMtKitIXXBPgWSqeCf',
-    dl:'https://pub-3e694446a4d94c3da563d782d9883d56.r2.dev/Hey%20Sinamika%202022%20720p%20HEVC%20UnCut%20HDRip%20Dual%20x265%20ESub%20-%20Vegamovies.NL.mkv',
-    link: 'tt11953194'
+        "title": "Hey Sinamika [2022] WEB-DL [Hindi] | Full Movie",
+        "im": "3t6kgGJqsSMtKitIXXBPgWSqeCf",
+        "dl": "https://pub-3e694446a4d94c3da563d782d9883d56.r2.dev/Hey%20Sinamika%202022%20720p%20HEVC%20UnCut%20HDRip%20Dual%20x265%20ESub%20-%20Vegamovies.NL.mkv",
+        "link": "tt11953194",
+        "year": "2022",
+        "duration": "140 min",
+        "rating": "6.0",
+        "genre": "Romance, Comedy, Drama",
+        "description": "A woman is stuck in an unfulfilling relationship and embarks on a journey of self-discovery and love.",
+        "cast": "Dulquer Salmaan, Aditi Rao Hydari, Kajal Aggarwal",
+        "type": "movie",
+        "quality": "web-dl"
     },
-    
     {
-    title:'Dilwale [2015] WEB-DL [Hindi] | Full Movie',
-    im:'pYgPu6hhOr61knwbestTx4vSdMb',
-    dl:'https://pub-a23ae5fc51264f6e953bb011d845c65a.r2.dev/Dilwale%202015%20BluRay%20720p%20Hindi%20AAC%205.1%20x264%20ESub%20-%20Vegamovies.NL.mkv',
-    link: 'tt4535650'
+        "title": "Dilwale [2015] WEB-DL [Hindi] | Full Movie",
+        "im": "pYgPu6hhOr61knwbestTx4vSdMb",
+        "dl": "https://pub-a23ae5fc51264f6e953bb011d845c65a.r2.dev/Dilwale%202015%20BluRay%20720p%20Hindi%20AAC%205.1%20x264%20ESub%20-%20Vegamovies.NL.mkv",
+        "link": "tt4535650",
+        "year": "2015",
+        "duration": "158 min",
+        "rating": "6.3",
+        "genre": "Action, Romance, Comedy",
+        "description": "Two lovers from different backgrounds must overcome the obstacles from their past to find happiness together.",
+        "cast": "Shah Rukh Khan, Kajol, Varun Dhawan",
+        "type": "movie",
+        "quality": "web-dl"
     },
-    
     {
-    title:'Mirzapur [Season 3] [All Episodes] WEB-DL [Hindi] [HEVC] | Full Series',
-    im:'7CFdq8M9ZuP1QRLaBG2ExdcrCBs',
-    dl:'https://vcloud.lol/waug3iovaa1wma1',
-    link: 'tt6473300'
+        "title": "Mirzapur [Season 3] [All Episodes] WEB-DL [Hindi] [HEVC] | Full Series",
+        "im": "7CFdq8M9ZuP1QRLaBG2ExdcrCBs",
+        "dl": "https://vcloud.lol/waug3iovaa1wma1",
+        "link": "tt6473300",
+        "year": "2025",
+        "duration": "60 min per episode",
+        "rating": "8.4",
+        "genre": "Crime, Thriller, Drama",
+        "description": "Set in the lawless city of Mirzapur, this gripping series follows the rise of the criminal empire and the power struggles between rival gangs.",
+        "cast": "Pankaj Tripathi, Ali Fazal, Vikrant Massey",
+        "type": "series",
+        "quality": "web-dl"
     },
     
     {
@@ -1753,7 +2188,7 @@ const movies = [
         "genre": "Animation, Drama, Romance",
         "description": "A Silent Voice tells the story of a young boy who bullies a deaf girl in elementary school, only to later seek redemption years later. It's a heart-wrenching tale about forgiveness, guilt, and the power of human connection.",
         "type": "movie",
-        "quality": "webdl"
+        "quality": "web-dl"
     },
     {
         "title": "Your Name [2016] WEB-DL [Hindi + English] | Full Movie",
@@ -1767,7 +2202,7 @@ const movies = [
         "genre": "Animation, Drama, Fantasy",
         "description": "Two teenagers from different parts of Japan find themselves mysteriously swapping bodies. As they navigate each other's lives, they form a deep connection that transcends time and space. A visually stunning and emotionally powerful film.",
         "type": "movie",
-        "quality": "webdl"
+        "quality": "web-dl"
     },
     
     {
@@ -1862,11 +2297,19 @@ const movies = [
     },
     
     {
-    title:'Breaking Bad [Season 5] BluRay [Hindi + English] [HEVC] | ALL Episodes',
-    im:'r3z70vunihrAkjILQKWHX0G2xzO',
-    dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=Rg3X1eWL&sn=5&es=Breaking.Bad.S05E&e=16&el=.720p.BluRay.HIN-ENG.x264.ESub-Vegamovies.To.mkv',
-    link: 'tt0903747'
-    },
+        "title": "Breaking Bad [Season 5] BluRay [Hindi + English] [HEVC] | ALL Episodes",
+        "im": "r3z70vunihrAkjILQKWHX0G2xzO",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?pd=Rg3X1eWL&sn=5&es=Breaking.Bad.S05E&e=16&el=.720p.BluRay.HIN-ENG.x264.ESub-Vegamovies.To.mkv",
+        "link": "tt0903747",
+        "year": "2012",
+        "duration": "47 min per episode",
+        "rating": "9.5",
+        "genre": "Crime, Drama, Thriller",
+        "description": "Walter White, a high school chemistry teacher turned methamphetamine manufacturer, faces the consequences of his criminal actions in the final season of the critically acclaimed series.",
+        "type": "series",
+        "quality": "blu-Ray",
+        "cast": "Bryan Cranston, Aaron Paul, Anna Gunn"
+    },    
     
     {
     title:'Dil Bechara [2020] WEB-DL [Hindi] [HEVC] | Full Movie',
@@ -2046,63 +2489,398 @@ const movies = [
     dl: 'https://sdfefed.blogspot.com/2025/04/sddfsdfs.html',
     link: 'tt10919420'
     },
-    
-    { title: 'Pintu Ki Pappi (2025) WEB-DL [Hindi DD2.0] | Full Movie', im:'aruhGpOwJ5ncEqpZwwqUbP0jWwJ', dl: 'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Pintu.Ki.Pappi.2025.1080p.HEVC.WEB-DL.Hindi.2.0.HC-ESub.x264-HDHub4u.Ms.mkv' , link: 'tt35162972' },
-    
-    { title: 'Superboys of Malegaon (2025) WEB-DL [Hindi DD5.1] [HEVC] | Full Movie', im: 'kH8vwnusn83pfHX8tgIIEPbaPd5', dl: 'https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Superboys.of.Malegaon.2025.720p.HEVC.Hindi.WEB.DL.HC.Sub.x265.HDHub4US.com.mkv' , link: 'tt28007064' },
-    
-    
-    { title: 'G20 (2025) WEB-DL [Hindi (DD5.1) & English] | Full Movie', im:'tSee9gbGLfqwvjoWoCQgRZ4Sfky', dl: 'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/G20.2025.WEB-DL.720p.x264.HiN.ENG.DD+5.1.192Kbps.ESub.Vegamovies.is.mkv' , link: 'tt23476986' },
-    
-    { title: 'Karma (Season 1) WEB-DL [Hindi (DD5.1) & English] NetFlix Series | ALL Episodes', im:'2G99FfWYCAdsmAIZO8zGFjcDidY', dl: 'https://qwrqwrqwr.rf.gd/a/a.php?d10=6U9HaVwhcK' , link: 'tt29921070' },
-    
-    { title: 'The Gardener (Season 1) WEB-DL [Hindi (DD 5.1) & English] | NetFlix Series', im:'l2Fy8vvr27vbYJOPe49EfVd5Qli', dl: 'https://qwrqwrqwr.rf.gd/a/a.php?d10=Xx4hmDIJqs' , link: 'tt30494784' },
-    
-    { title: 'The Legend of Hanuman (Season 6) WEB-DL [Hindi DD5.1] | ALL Episodes [JioHotStar Series]', im:'kqA6PqHflS1JNI8kRVXczSLywYx', dl: 'https://qwrqwrqwr.rf.gd/a/a.php?d10=Eoj1z8CcNK' , link: 'tt13854248' },
-    
-    { title: 'Novocaine (2025) WEB-DL [Hindi (DD5.1) & English] [HEVC] | Full Movie', im:'6GbUXZ1gvGrZlZFDjG9SunxFlSl', dl: 'https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Novocaine.2025.720p.10bit.WEB.DL.Hindi.5.1.English.5.1.ESub.x265.HDHub4u.Ms.mkv' , link: 'tt29603959' },
-    
-    { title: 'Avengers: Endgame (2019) [Hindi-English] | Full Movie', im:'ulzhLuWrPK07P1YkdWQLZnQh1JL', dl: 'https://pub-745ce71e61f84b518ab187ebacfe4d6a.r2.dev/Avengers.Endgame.2019.720p.BrRip.Hin-Eng.x265.Vegamovies.NL.mkv', link: 'tt4154796' },
-    
-    { title: 'Avengers: Infinity War (2018) [Hindi-English] | Full Movie',im:'7WsyChQLEftFiDOVTGkv3hFpyyt', dl: 'https://pixeldrain.net/api/file/jXMf8Qmf?download', link: 'tt4154756' },
-    
-    { title: 'Spider-Man: No Way Home (2021) BluRay [Hindi (ORG 5.1) & English] [HEVC] | Full Movie',im:'1g0dhYtq4irTY1GPXvft6k4YLjm', dl: 'https://pixeldrain.net/api/file/ngYtRmFq?download', link: 'tt10872600' },
-    
-    { title: 'Guardians of the Galaxy (2014) IMAX [Hindi-English] | Full Movie', im:'jPrJPZKJVhvyJ4DmUTrDgmFN0yG', dl: 'https://pixeldrain.net/api/file/JCBCdL6f?download', link: 'tt2015381' },
-    
-    { title: 'Iron Man (2008) BluRay [Hindi (ORG 5.1) & English] [HEVC] | Full Movie',im:'78lPtwv72eTNqFW9COBYI0dWDJa', dl: 'https://pixeldrain.net/api/file/SSYC88zs?download', link: 'tt0371746' },
-    
-    { title: 'Captain America: The Winter Soldier (2014) [Hindi-English] | Full Movie', im:'tVFRpFw3xTedgPGqxW0AOI8Qhh0', dl: 'https://pixeldrain.net/api/file/LprmzF1H?download', link: 'tt1843866' },
-    
-    { title: 'Black Panther (2018) iMAX BluRay [Hindi (ORG 5.1) & English] [HEVC] | Full Movie',im:'uxzzxijgPIY7slzFvMotPv8wjKA', dl: 'https://pixeldrain.net/api/file/v24zCqcg?download', link: 'tt1825683' },
-    
-    { title: 'Thor: Ragnarok (2017) BluRay [Hindi-English] | Full Movie',im:'rzRwTcFvttcN1ZpX2xv4j3tSdJu', dl: 'https://pixeldrain.net/api/file/rEgX6zf8?download', link: 'tt3501632' },
-    
-    { title: 'Doctor Strange (2016) [Hindi-English] | Full Movie',im:'uGBVj3bEbCoZbDjjl9wTxcygko1', dl: 'https://pixeldrain.net/api/file/zr6QWVmq?download', link: 'tt1211837' },
-    
-    { title: 'Captain America: Civil War (2016) [Hindi-English] | Full Movie',im:'rAGiXaUfPzY7CDEyNKUofk3Kw2e', dl: 'https://pixeldrain.net/api/file/brH7uRP6?download', link: 'tt3498820' },
-    
-    { title: 'K.G.F: Chapter 2 [2022] WEB-DL [Hindi] | Full Movie', im:'4wobXQ8VLfCHvgbevNMy8Rxvo41', dl: 'https://pixeldrain.net/api/file/jjhr9BUC?download' , link: 'tt10698680' },
-    
-    { title: 'K.G.F: Chapter 1 [2018] WEB-DL [Hindi] [HEVC] | Full Movie',im:'ltHlJwvxKv7d0ooCiKSAvfwV9tX', dl: 'https://pixeldrain.net/api/file/QMeTp816?download' , link: 'tt7838252' },
-    
-    { title: 'V (2020) WEB-DL [Hindi (ORG DD5.1) & Telugu DD5.1] [HEVC] HD | Full Movie',im:'iBVcwOVZNGNCNlOLFmcYJW83tTu', dl: 'https://pixeldrain.net/api/file/k41xtym6?download' , link: 'tt11385128' },
-    
-    { title: 'Bahubali 2: The Conclusion (2017) BluRay [Hindi DD5.1] [x264/10Bit-HEVC] | Full Movie',im:'xQ22LOWSkClP3maYhR9nZH0dnWM', dl: 'https://pixeldrain.net/api/file/8NYKf3fH?download' , link: 'tt4849438' },
-    
-    { title: 'Bahubali: The Beginning [2015] BluRay [Hindi] [HEVC] | Full Movie',im:'9BAjt8nSSms62uOVYn1t3C3dVto', dl: 'https://pixeldrain.net/api/file/ETa7hVcM?download' , link: 'tt2631186' },
-    
-    { title: 'C.I.D (Season 2) WEB-DL [Hindi DD2.0] [HEVC] | [SonyLiv Series] [Episode-33]',im:'60ZxbAMk6QO8jMD0p8WrGHVCbyK', dl: 'https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/CID.S02E33.720p.HEVC.Hindi.WEB.DL.2.0.AAC.x265.HDHub4u.Ms.mkv' , link: 'tt0401916' },
-    
-    { title: 'Emmanuelle [2024] BluRay [Hindi + English] [HEVC] | Full Movie',im:'s9gmKus9YPTDzdMKZQJYPh0VoGk', dl: 'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Emmanuelle.2024.720p.10Bit.BluRay.Hindi.2.0-English.HEVC.x265-HDHub4u.Ms.mkv' , link: 'tt20247888' },
-    
-    { title: 'Court - State Vs. A Nobody (2025) WEB-DL [Hindi (DD5.1) & Telugu] [HEVC] | Full Movie',im:'4pEX67LJd7ZIqYWtksBtOgQEGcQ', dl: 'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Court.State.vs.A.Nobody.2025.720p.HEVC.WEB-DL.Hindi-Telugu.ESub.x265-HDHub4u.Ms.mkv' , link: 'tt33307144' },
-    
-    { title: 'Sweetheart! (2025) WEB-DL [Hindi (DD5.1) & Tamil] [HEVC] | Full Movie',im:'sqjWneziflHuKeupBmNJStgTcJQ', dl: 'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Sweetheart.2025.720p.HEVC.WEB-DL.Hindi.5.1-Tamil.ESub.x265-HDHub4u.Ms.mkv' , link: 'tt33051459' },
-    
-    { title: 'A Minecraft Movie (2025) HDTC [English (ORG-2.0)] [x264] | Full Movie',im:'tldIoZNsAkEkppQwXGuw3aWVWyL', dl: 'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/A.Minecraft.Movie.2025.English.720p.HDTC.DD.2.0.x264.Hdhub4u.mkv', link: 'tt3566834' },
-    
-    { title:'Chhaava (2025) WEB-DL [Hindi DD5.1] | Full Movie [Netflix]', im:'7AeohlqamcLL1diMusV28eTngvg', dl:'https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Chhaava.2025.DS4K.720p.HEVC.Hindi.WEB.DL.ESub.x265.HDHub4u.Ms.mkv', link:'tt27922706' },
+    {
+        "title": "Pintu Ki Pappi (2025) WEB-DL [Hindi DD2.0] | Full Movie",
+        "im": "aruhGpOwJ5ncEqpZwwqUbP0jWwJ",
+        "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Pintu.Ki.Pappi.2025.1080p.HEVC.WEB-DL.Hindi.2.0.HC-ESub.x264-HDHub4u.Ms.mkv",
+        "link": "tt35162972",
+        "year": "2025",
+        "duration": "105 min",
+        "rating": "6.5",
+        "genre": "Comedy, Drama",
+        "description": "A young man struggles to win the heart of the girl of his dreams, but his journey is full of hilarious twists and turns.",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "Shubham Gaur, Ananya Chauhan, Sudhir Kumar"
+    },
+    {
+        "title": "Superboys of Malegaon (2025) WEB-DL [Hindi DD5.1] [HEVC] | Full Movie",
+        "im": "kH8vwnusn83pfHX8tgIIEPbaPd5",
+        "dl": "https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Superboys.of.Malegaon.2025.720p.HEVC.Hindi.WEB.DL.HC.Sub.x265.HDHub4US.com.mkv",
+        "link": "tt28007064",
+        "year": "2025",
+        "duration": "120 min",
+        "rating": "7.0",
+        "genre": "Action, Comedy, Drama",
+        "description": "A quirky group of individuals in Malegaon must come together to save their town from an impending disaster. Expect lots of laughs and action.",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "Ravi Kishan, Pankaj Tripathi, Shubhi Joshi"
+    },
+    {
+        "title": "G20 (2025) WEB-DL [Hindi (DD5.1) & English] | Full Movie",
+        "im": "tSee9gbGLfqwvjoWoCQgRZ4Sfky",
+        "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/G20.2025.WEB-DL.720p.x264.HiN.ENG.DD+5.1.192Kbps.ESub.Vegamovies.is.mkv",
+        "link": "tt23476986",
+        "year": "2025",
+        "duration": "110 min",
+        "rating": "7.2",
+        "genre": "Action, Thriller",
+        "description": "A global action thriller revolving around the high-stakes events of the G20 summit. Secrets, lies, and espionage threaten to break out in a whirlwind of international drama.",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "John Boyega, Priyanka Chopra, Daniel Craig"
+    },
+    {
+        "title": "Karma (Season 1) WEB-DL [Hindi (DD5.1) & English] NetFlix Series | ALL Episodes",
+        "im": "2G99FfWYCAdsmAIZO8zGFjcDidY",
+        "dl": "https://qwrqwrqwr.rf.gd/a/a.php?d10=6U9HaVwhcK",
+        "link": "tt29921070",
+        "year": "2025",
+        "duration": "45 min per episode",
+        "rating": "8.0",
+        "genre": "Drama, Mystery",
+        "description": "A mysterious series that revolves around the lives of a few interconnected characters whose pasts begin to collide in unexpected ways, bringing to light hidden secrets and buried emotions.",
+        "type": "series",
+        "quality": "web-dl",
+        "cast": "Nawazuddin Siddiqui, Radhika Apte, Pankaj Tripathi"
+    },
+    {
+        "title": "The Gardener (Season 1) WEB-DL [Hindi (DD 5.1) & English] | NetFlix Series",
+        "im": "l2Fy8vvr27vbYJOPe49EfVd5Qli",
+        "dl": "https://qwrqwrqwr.rf.gd/a/a.php?d10=Xx4hmDIJqs",
+        "link": "tt30494784",
+        "year": "2025",
+        "duration": "50 min per episode",
+        "rating": "7.5",
+        "genre": "Drama, Thriller",
+        "description": "In a beautiful garden lies a dark secret. This series explores the mysterious events surrounding a seemingly peaceful gardener with a shadowy past.",
+        "type": "series",
+        "quality": "web-dl",
+        "cast": "Vikrant Massey, Shraddha Kapoor, Rajkummar Rao"
+    },
+    {
+        "title": "The Legend of Hanuman (Season 6) WEB-DL [Hindi DD5.1] | ALL Episodes [JioHotStar Series]",
+        "im": "kqA6PqHflS1JNI8kRVXczSLywYx",
+        "dl": "https://qwrqwrqwr.rf.gd/a/a.php?d10=Eoj1z8CcNK",
+        "link": "tt13854248",
+        "year": "2025",
+        "duration": "30 min per episode",
+        "rating": "8.2",
+        "genre": "Animation, Action, Adventure",
+        "description": "The epic story of Lord Hanuman continues in this thrilling sixth season, where he faces greater challenges and battles dark forces that threaten to engulf the world.",
+        "type": "series",
+        "quality": "web-dl",
+        "cast": "Sharad Kelkar, Sunil Grover, Ashwin Mushran"
+    },
+    {
+        "title": "Novocaine (2025) WEB-DL [Hindi (DD5.1) & English] [HEVC] | Full Movie",
+        "im": "6GbUXZ1gvGrZlZFDjG9SunxFlSl",
+        "dl": "https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Novocaine.2025.720p.10bit.WEB.DL.Hindi.5.1.English.5.1.ESub.x265.HDHub4u.Ms.mkv",
+        "link": "tt29603959",
+        "year": "2025",
+        "duration": "105 min",
+        "rating": "7.1",
+        "genre": "Thriller, Mystery",
+        "description": "A dentist's life takes a dark turn when his personal and professional lives collide after a troubled patient enters his office, setting off a chain of disturbing events.",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "Johnny Depp, Laura Dern, Aaron Eckhart"
+    },
+    {
+        "title": "Avengers: Endgame (2019) [Hindi-English] | Full Movie",
+        "im": "ulzhLuWrPK07P1YkdWQLZnQh1JL",
+        "dl": "https://pub-745ce71e61f84b518ab187ebacfe4d6a.r2.dev/Avengers.Endgame.2019.720p.BrRip.Hin-Eng.x265.Vegamovies.NL.mkv",
+        "link": "tt4154796",
+        "year": "2019",
+        "duration": "181 min",
+        "rating": "8.4",
+        "genre": "Action, Adventure, Drama",
+        "description": "The Avengers assemble one final time to take on Thanos, in an effort to undo the devastation caused by his snap and restore balance to the universe.",
+        "type": "movie",
+        "quality": "blu-Ray",
+        "cast": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Scarlett Johansson"
+    },
+    {
+        "title": "Avengers: Infinity War (2018) [Hindi-English] | Full Movie",
+        "im": "7WsyChQLEftFiDOVTGkv3hFpyyt",
+        "dl": "https://pixeldrain.net/api/file/jXMf8Qmf?download",
+        "link": "tt4154756",
+        "year": "2018",
+        "duration": "149 min",
+        "rating": "8.4",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+        "type": "movie",
+        "quality": "blu-Ray",
+        "cast": "Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans"
+    },
+    {
+        "title": "Spider-Man: No Way Home (2021) BluRay [Hindi (ORG 5.1) & English] [HEVC] | Full Movie",
+        "im": "1g0dhYtq4irTY1GPXvft6k4YLjm",
+        "dl": "https://pixeldrain.net/api/file/ngYtRmFq?download",
+        "link": "tt10872600",
+        "year": "2021",
+        "duration": "148 min",
+        "rating": "8.3",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "With Spider-Man's identity now revealed, Peter seeks help from Doctor Strange to make it so that no one remembers he is Spider-Man, but the spell goes awry, opening the multiverse and bringing dangerous villains from other realities.",
+        "type": "movie",
+        "quality": "blu-Ray",
+        "cast": "Tom Holland, Zendaya, Benedict Cumberbatch, Jacob Batalon"
+    },
+    {
+        "title": "Guardians of the Galaxy (2014) IMAX [Hindi-English] | Full Movie",
+        "im": "jPrJPZKJVhvyJ4DmUTrDgmFN0yG",
+        "dl": "https://pixeldrain.net/api/file/JCBCdL6f?download",
+        "link": "tt2015381",
+        "year": "2014",
+        "duration": "121 min",
+        "rating": "8.0",
+        "genre": "Action, Adventure, Comedy",
+        "description": "A group of intergalactic criminals must pull together to stop a fanatical warrior who plans to purge the universe.",
+        "type": "movie",
+        "quality": "blu-Ray",
+        "cast": "Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel"
+    },
+    {
+        "title": "Iron Man (2008) BluRay [Hindi (ORG 5.1) & English] [HEVC] | Full Movie",
+        "im": "78lPtwv72eTNqFW9COBYI0dWDJa",
+        "dl": "https://pixeldrain.net/api/file/SSYC88zs?download",
+        "link": "tt0371746",
+        "year": "2008",
+        "duration": "126 min",
+        "rating": "7.9",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "After being held captive in an Afghan cave, billionaire industrialist Tony Stark creates a unique weaponized suit of armor to fight evil.",
+        "type": "movie",
+        "quality": "blu-Ray",
+        "cast": "Robert Downey Jr., Gwyneth Paltrow, Jeff Bridges, Jon Favreau"
+    },
+    {
+        "title": "Captain America: The Winter Soldier (2014) [Hindi-English] | Full Movie",
+        "im": "tVFRpFw3xTedgPGqxW0AOI8Qhh0",
+        "dl": "https://pixeldrain.net/api/file/LprmzF1H?download",
+        "link": "tt1843866",
+        "year": "2014",
+        "duration": "136 min",
+        "rating": "7.8",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "Steve Rogers struggles to embrace his role in the modern world and battles a new threat from the Soviet agent known as the Winter Soldier.",
+        "type": "movie",
+        "quality": "blu-Ray",
+        "cast": "Chris Evans, Scarlett Johansson, Sebastian Stan, Anthony Mackie"
+    },
+    {
+        "title": "Black Panther (2018) iMAX BluRay [Hindi (ORG 5.1) & English] [HEVC] | Full Movie",
+        "im": "uxzzxijgPIY7slzFvMotPv8wjKA",
+        "dl": "https://pixeldrain.net/api/file/v24zCqcg?download",
+        "link": "tt1825683",
+        "year": "2018",
+        "duration": "134 min",
+        "rating": "7.3",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "T'Challa, the King of Wakanda, rises to the throne in the isolated, technologically advanced African nation. But his leadership is tested when an old foe reappears and threatens the fate of Wakanda.",
+        "type": "movie",
+        "quality": "blu-Ray",
+        "cast": "Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o, Danai Gurira"
+    },
+    {
+        "title": "Thor: Ragnarok (2017) BluRay [Hindi-English] | Full Movie",
+        "im": "rzRwTcFvttcN1ZpX2xv4j3tSdJu",
+        "dl": "https://pixeldrain.net/api/file/rEgX6zf8?download",
+        "link": "tt3501632",
+        "year": "2017",
+        "duration": "130 min",
+        "rating": "7.9",
+        "genre": "Action, Adventure, Comedy",
+        "description": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to prevent Ragnarok, the destruction of his world.",
+        "type": "movie",
+        "quality": "blu-Ray",
+        "cast": "Chris Hemsworth, Tom Hiddleston, Cate Blanchett, Idris Elba"
+    },
+    {
+        "title": "Doctor Strange (2016) [Hindi-English] | Full Movie",
+        "im": "uGBVj3bEbCoZbDjjl9wTxcygko1",
+        "dl": "https://pixeldrain.net/api/file/zr6QWVmq?download",
+        "link": "tt1211837",
+        "year": "2016",
+        "duration": "115 min",
+        "rating": "7.5",
+        "genre": "Action, Adventure, Fantasy",
+        "description": "Dr. Stephen Strange, a brilliant neurosurgeon, discovers the hidden world of magic and alternate dimensions after a car accident ruins his hands.",
+        "type": "movie",
+        "quality": "blu-Ray",
+        "cast": "Benedict Cumberbatch, Chiwetel Ejiofor, Rachel McAdams, Mads Mikkelsen"
+    },
+        {
+        "title": "Captain America: Civil War (2016) [Hindi-English] | Full Movie",
+        "im": "rAGiXaUfPzY7CDEyNKUofk3Kw2e",
+        "dl": "https://pixeldrain.net/api/file/brH7uRP6?download",
+        "link": "tt3498820",
+        "year": "2016",
+        "duration": "147 min",
+        "rating": "7.8",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "Captain America and Iron Man find themselves on opposite sides of a conflict when political interference puts them at odds over the registration of super-powered individuals.",
+        "type": "movie",
+        "quality": "blu-Ray",
+        "cast": "Chris Evans, Robert Downey Jr., Scarlett Johansson, Sebastian Stan"
+    },
+    {
+        "title": "K.G.F: Chapter 2 [2022] WEB-DL [Hindi] | Full Movie",
+        "im": "4wobXQ8VLfCHvgbevNMy8Rxvo41",
+        "dl": "https://pixeldrain.net/api/file/jjhr9BUC?download",
+        "link": "tt10698680",
+        "year": "2022",
+        "duration": "168 min",
+        "rating": "8.4",
+        "genre": "Action, Drama, Thriller",
+        "description": "Rocky is on a mission to overthrow the regime of ruthless gold mafia leader Adheera, but faces a deadly new enemy that will challenge his reign in Kolar Gold Fields.",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "Yash, Sanjay Dutt, Raveena Tondon, Prakash Raj"
+    },
+    {
+        "title": "K.G.F: Chapter 1 [2018] WEB-DL [Hindi] [HEVC] | Full Movie",
+        "im": "ltHlJwvxKv7d0ooCiKSAvfwV9tX",
+        "dl": "https://pixeldrain.net/api/file/QMeTp816?download",
+        "link": "tt7838252",
+        "year": "2018",
+        "duration": "155 min",
+        "rating": "8.2",
+        "genre": "Action, Drama, Thriller",
+        "description": "A young man rises through the ranks of the Kolar Gold Fields, facing dangerous adversaries and making ruthless enemies in his fight for power.",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "Yash, Srinidhi Shetty, Anant Nag, Achyuth Kumar"
+    },
+    {
+        "title": "V (2020) WEB-DL [Hindi (ORG DD5.1) & Telugu DD5.1] [HEVC] HD | Full Movie",
+        "im": "iBVcwOVZNGNCNlOLFmcYJW83tTu",
+        "dl": "https://pixeldrain.net/api/file/k41xtym6?download",
+        "link": "tt11385128",
+        "year": "2020",
+        "duration": "143 min",
+        "rating": "6.9",
+        "genre": "Action, Thriller, Crime",
+        "description": "An intense cat-and-mouse chase between a cop and a vigilante serial killer who is targeting corrupt individuals.",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "Nani, Sudheer Babu, Aditi Rao Hydari, Jagapathi Babu"
+    },
+    {
+        "title": "Bahubali 2: The Conclusion (2017) BluRay [Hindi DD5.1] [x264/10Bit-HEVC] | Full Movie",
+        "im": "xQ22LOWSkClP3maYhR9nZH0dnWM",
+        "dl": "https://pixeldrain.net/api/file/8NYKf3fH?download",
+        "link": "tt4849438",
+        "year": "2017",
+        "duration": "171 min",
+        "rating": "8.2",
+        "genre": "Action, Adventure, Drama",
+        "description": "In the second part of this epic saga, Bahubali seeks revenge and uncovers the truth about his father's death and the kingdom's future.",
+        "type": "movie",
+        "quality": "blu-Ray",
+        "cast": "Prabhas, Rana Daggubati, Anushka Shetty, Tamannaah Bhatia"
+    },
+    {
+        "title": "Bahubali: The Beginning [2015] BluRay [Hindi] [HEVC] | Full Movie",
+        "im": "9BAjt8nSSms62uOVYn1t3C3dVto",
+        "dl": "https://pixeldrain.net/api/file/ETa7hVcM?download",
+        "link": "tt2631186",
+        "year": "2015",
+        "duration": "159 min",
+        "rating": "8.0",
+        "genre": "Action, Adventure, Drama",
+        "description": "The first part of the saga chronicles the rise of Bahubali, a legendary warrior who fights to reclaim his rightful throne.",
+        "type": "movie",
+        "quality": "blu-Ray",
+        "cast": "Prabhas, Rana Daggubati, Anushka Shetty, Tamannaah Bhatia"
+    },
+    {
+        "title": "C.I.D (Season 2) WEB-DL [Hindi DD2.0] [HEVC] | [SonyLiv Series] [Episode-33]",
+        "im": "60ZxbAMk6QO8jMD0p8WrGHVCbyK",
+        "dl": "https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/CID.S02E33.720p.HEVC.Hindi.WEB.DL.2.0.AAC.x265.HDHub4u.Ms.mkv",
+        "link": "tt0401916",
+        "year": "2020",
+        "duration": "50 min",
+        "rating": "8.0",
+        "genre": "Crime, Drama, Mystery",
+        "description": "The C.I.D team solves criminal cases and fights for justice in each gripping episode, highlighting their skills and challenges.",
+        "type": "series",
+        "quality": "web-dl",
+        "cast": "Shivaji Satam, Aditya Srivastava, Daya, Ansha Sayed"
+    },
+    {
+        "title": "Emmanuelle [2024] BluRay [Hindi + English] [HEVC] | Full Movie",
+        "im": "s9gmKus9YPTDzdMKZQJYPh0VoGk",
+        "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Emmanuelle.2024.720p.10Bit.BluRay.Hindi.2.0-English.HEVC.x265-HDHub4u.Ms.mkv",
+        "link": "tt20247888",
+        "year": "2024",
+        "duration": "110 min",
+        "rating": "6.5",
+        "genre": "Drama, Romance",
+        "description": "A passionate romance unfolds as the protagonist embarks on a journey of self-discovery and desire, leading to emotional revelations.",
+        "type": "movie",
+        "quality": "blu-Ray",
+        "cast": "Sylvia Kristel, Alain Cuny, Dorothée Jemma"
+    },
+    {
+        "title": "Court - State Vs. A Nobody (2025) WEB-DL [Hindi (DD5.1) & Telugu] [HEVC] | Full Movie",
+        "im": "4pEX67LJd7ZIqYWtksBtOgQEGcQ",
+        "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Court.State.vs.A.Nobody.2025.720p.HEVC.WEB-DL.Hindi-Telugu.ESub.x265-HDHub4u.Ms.mkv",
+        "link": "tt33307144",
+        "year": "2025",
+        "duration": "120 min",
+        "rating": "7.0",
+        "genre": "Drama",
+        "description": "A courtroom drama that examines the conflict between the state and an ordinary individual caught in a legal battle, showcasing the complexities of justice in the modern world.",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "Rajeev Khandelwal, Suman Kumar, Arvind Pandey"
+    },
+    {
+        "title": "Sweetheart! (2025) WEB-DL [Hindi (DD5.1) & Tamil] [HEVC] | Full Movie",
+        "im": "sqjWneziflHuKeupBmNJStgTcJQ",
+        "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Sweetheart.2025.720p.HEVC.WEB-DL.Hindi.5.1-Tamil.ESub.x265-HDHub4u.Ms.mkv",
+        "link": "tt33051459",
+        "year": "2025",
+        "duration": "105 min",
+        "rating": "6.8",
+        "genre": "Romance, Drama",
+        "description": "Two individuals from different cultural backgrounds fall in love, but their relationship is challenged by societal expectations, family pressures, and their personal dilemmas.",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "Siddharth, Ananya Panday, Vijay Sethupathi"
+    },
+    {
+        "title": "A Minecraft Movie (2025) HDTC [English (ORG-2.0)] [x264] | Full Movie",
+        "im": "tldIoZNsAkEkppQwXGuw3aWVWyL",
+        "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/A.Minecraft.Movie.2025.English.720p.HDTC.DD.2.0.x264.Hdhub4u.mkv",
+        "link": "tt3566834",
+        "year": "2025",
+        "duration": "90 min",
+        "rating": "7.5",
+        "genre": "Adventure, Animation, Fantasy",
+        "description": "In this live-action and animated adventure, a young gamer embarks on a perilous journey in the world of Minecraft, where danger, magic, and discovery await.",
+        "type": "movie",
+        "quality": "hdtc",
+        "cast": "Taron Egerton, Emma Watson, Josh Hutcherson"
+    },
+    {
+        "title": "Chhaava (2025) WEB-DL [Hindi DD5.1] | Full Movie [Netflix]",
+        "im": "7AeohlqamcLL1diMusV28eTngvg",
+        "dl": "https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Chhaava.2025.DS4K.720p.HEVC.Hindi.WEB.DL.ESub.x265.HDHub4u.Ms.mkv",
+        "link": "tt27922706",
+        "year": "2025",
+        "duration": "125 min",
+        "rating": "8.0",
+        "genre": "Action, Drama, Thriller",
+        "description": "In a world full of vengeance and betrayal, a skilled warrior seeks justice for the loss of his loved ones, challenging powerful enemies in his path.",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "Raghubir Yadav, Manoj Bajpayee, Anil Kapoor"
+    },
     
     {
     title: 'Hulk (2003) BluRay [Hindi-English] | Full Movie',
@@ -2188,12 +2966,20 @@ const movies = [
     link:'tt3896198'
     },
     
-    {
-    title:'Spider-Man: Homecoming [2017] BluRay [Hindi + English] | Full Movie',
-    im:'/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg',
-    dl:'http://qwrqwrqwr.rf.gd/a/a.php?d4=FMppXWWVStDpQkux9',
-    link:'tt2250912'
-    },
+{
+    "title": "Spider-Man: Homecoming [2017] BluRay [Hindi + English] | Full Movie",
+    "im": "/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
+    "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=FMppXWWVStDpQkux9",
+    "link": "tt2250912",
+    "year": "2017",
+    "duration": "133 min",
+    "rating": "7.4",
+    "genre": "Action, Adventure, Sci-Fi",
+    "description": "Peter Parker balances his life as a high school student and as Spider-Man while facing the dangerous villain Vulture. His journey to becoming a true hero is tested as he confronts his greatest challenge yet.",
+    "type": "movie",
+    "quality": "blu-Ray",
+    "cast": "Tom Holland, Michael Keaton, Robert Downey Jr."
+},
     
     {
     title:'Ant-Man and the Wasp (2018) BluRay [Hindi-English] | Full Movie',
@@ -2209,12 +2995,20 @@ const movies = [
     link:'tt4154664'
     },
     
-    {
-    title:'Spider-Man: Far from Home (2019) BluRay [Hindi-English] | Full Movie',
-    im:'/rjbNpRMoVvqHmhmksbokcyCr7wn.jpg',
-    dl:'http://qwrqwrqwr.rf.gd/a/a.php?d4=mcuFcB4cfmMg3JsL7',
-    link:'tt6320628'
-    },
+{
+    "title": "Spider-Man: Far from Home (2019) BluRay [Hindi-English] | Full Movie",
+    "im": "/rjbNpRMoVvqHmhmksbokcyCr7wn.jpg",
+    "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=mcuFcB4cfmMg3JsL7",
+    "link": "tt6320628",
+    "year": "2019",
+    "duration": "129 min",
+    "rating": "7.5",
+    "genre": "Action, Adventure, Sci-Fi",
+    "description": "Peter Parker goes on a school trip to Europe, but his vacation takes a turn when a new threat emerges in the form of the villain Mysterio. Peter must step up to save the world and come to terms with his role as Spider-Man.",
+    "type": "movie",
+    "quality": "blu-Ray",
+    "cast": "Tom Holland, Jake Gyllenhaal, Zendaya"
+},
     
     
     {
@@ -2265,75 +3059,145 @@ const movies = [
     dl:'http://qwrqwrqwr.rf.gd/a/a.php?d4=WxkZBRW2dogSpDou6',
     link:'tt10601950'
     },
-    
     {
-    title: 'Spider-Man 1 (2002) BluRay [Hindi-English] | Full Movie',
-    im: 'gh4cZbhZxyTbgxQPxD0dOudNPTn',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=ee65y1T9vbTit1rC9',
-    link: 'tt0145487'
+        "title": "Spider-Man 1 (2002) BluRay [Hindi-English] | Full Movie",
+        "im": "gh4cZbhZxyTbgxQPxD0dOudNPTn",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=ee65y1T9vbTit1rC9",
+        "link": "tt0145487",
+        "year": "2002",
+        "duration": "121 min",
+        "rating": "7.3",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "Peter Parker gains superpowers and becomes Spider-Man to battle the villainous Green Goblin. As a hero, he faces challenges that put his loved ones at risk.",
+        "type": "movie",
+        "quality": "blu-Ray",
+        "cast": "Tobey Maguire, Kirsten Dunst, Willem Dafoe"
     },
-    
     {
-    title: 'Spider-Man 2 (2004) BluRay [Hindi-English] | Full Movie',
-    im: 'aGuvNAaaZuWXYQQ6N2v7DeuP6mB',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=jwM85n6d8p8kcnuu6',
-    link: 'tt0316654'
+        "title": "Spider-Man 2 (2004) BluRay [Hindi-English] | Full Movie",
+        "im": "aGuvNAaaZuWXYQQ6N2v7DeuP6mB",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=jwM85n6d8p8kcnuu6",
+        "link": "tt0316654",
+        "year": "2004",
+        "duration": "127 min",
+        "rating": "7.3",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "Peter Parker struggles to balance his life as Spider-Man and his personal relationships. Meanwhile, a new villain, Doctor Octopus, threatens the city.",
+        "type": "movie",
+        "quality": "blu-Ray",
+        "cast": "Tobey Maguire, Kirsten Dunst, Alfred Molina"
     },
-    
     {
-    title: 'Spider-Man 3 (2007) BluRay [Hindi-English] | Full Movie',
-    im: 'qFmwhVUoUSXjkKRmca5yGDEXBIj',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=Po5fP2HKyvk66Trm8',
-    link: 'tt0413300'
+        "title": "Spider-Man 3 (2007) BluRay [Hindi-English] | Full Movie",
+        "im": "qFmwhVUoUSXjkKRmca5yGDEXBIj",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=Po5fP2HKyvk66Trm8",
+        "link": "tt0413300",
+        "year": "2007",
+        "duration": "139 min",
+        "rating": "6.2",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "Spider-Man faces a new threat from the Sandman and Venom while dealing with the emergence of a dark side in his personality. His personal life is in turmoil.",
+        "type": "movie",
+        "quality": "blu-Ray",
+        "cast": "Tobey Maguire, Kirsten Dunst, James Franco, Topher Grace"
     },
-    
     {
-    title: 'The Amazing Spider-Man (2012) BluRay [Hindi-English] | Full Movie',
-    im: 'jexoNYnPd6vVrmygwF6QZmWPFdu',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=fmHnCBttUdMVeFZE9',
-    link: 'tt0948470'
+        "title": "The Amazing Spider-Man (2012) BluRay [Hindi-English] | Full Movie",
+        "im": "jexoNYnPd6vVrmygwF6QZmWPFdu",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=fmHnCBttUdMVeFZE9",
+        "link": "tt0948470",
+        "year": "2012",
+        "duration": "136 min",
+        "rating": "6.9",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "Peter Parker becomes Spider-Man after the discovery of his father's research. He faces the villainous Lizard while uncovering secrets about his own family.",
+        "type": "movie",
+        "quality": "blu-Ray",
+        "cast": "Andrew Garfield, Emma Stone, Rhys Ifans"
     },
-    
     {
-    title: 'The Amazing Spider-Man 2 (2014) BluRay [Hindi-English] | Full Movie',
-    im: 'dGjoPttcbKR5VWg1jQuNFB247KL',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=mgJ2wVdbCjvJ8MJW8',
-    link: 'tt1872181'
+        "title": "The Amazing Spider-Man 2 (2014) BluRay [Hindi-English] | Full Movie",
+        "im": "dGjoPttcbKR5VWg1jQuNFB247KL",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=mgJ2wVdbCjvJ8MJW8",
+        "link": "tt1872181",
+        "year": "2014",
+        "duration": "142 min",
+        "rating": "6.6",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "Peter Parker faces a new threat in the form of Electro while dealing with his relationship with Gwen Stacy and the mysterious past of his parents.",
+        "type": "movie",
+        "quality": "blu-Ray",
+        "cast": "Andrew Garfield, Emma Stone, Jamie Foxx"
     },
-    
     {
-    title: 'Venom (2018) BluRay [Hindi-English] | Full Movie',
-    im: '2uNW4WbgBXL25BAbXGLnLqX71Sw',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=C4f6wKbigDfJYGhB8',
-    link: 'tt1270797'
+        "title": "Venom (2018) BluRay [Hindi-English] | Full Movie",
+        "im": "2uNW4WbgBXL25BAbXGLnLqX71Sw",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=C4f6wKbigDfJYGhB8",
+        "link": "tt1270797",
+        "year": "2018",
+        "duration": "112 min",
+        "rating": "6.7",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "Journalist Eddie Brock becomes the host of an alien symbiote, gaining extraordinary powers. However, he struggles to control the powerful entity within him.",
+        "type": "movie",
+        "quality": "blu-Ray",
+        "cast": "Tom Hardy, Michelle Williams, Riz Ahmed"
     },
-    
     {
-    title: 'Spider-Man: Into the Spider-Verse (2018) BluRay [Hindi-English] | Full Movie',
-    im: 'iiZZdoQBEYBv6id8su7ImL0oCbD',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=LAuM8ZXw3mAH2LTz6',
-    link: 'tt4633694'
+        "title": "Spider-Man: Into the Spider-Verse (2018) BluRay [Hindi-English] | Full Movie",
+        "im": "iiZZdoQBEYBv6id8su7ImL0oCbD",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=LAuM8ZXw3mAH2LTz6",
+        "link": "tt4633694",
+        "year": "2018",
+        "duration": "117 min",
+        "rating": "8.4",
+        "genre": "Animation, Action, Adventure",
+        "description": "Teenager Miles Morales discovers his powers and teams up with other Spider-People from different dimensions to stop a threat that could destroy all realities.",
+        "type": "movie",
+        "quality": "blu-Ray",
+        "cast": "Shameik Moore, Jake Johnson, Hailee Steinfeld"
     },
-    
     {
-    title: 'Venom: Let There Be Carnage (2021) BluRay [Hindi-English] | Full Movie',
-    im: 'pzKsRuKLFmYrW5Q0q8E8G78Tcgo',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=mrop2M3vAdzSygk46',
-    link: 'tt7097896'
+        "title": "Venom: Let There Be Carnage (2021) BluRay [Hindi-English] | Full Movie",
+        "im": "pzKsRuKLFmYrW5Q0q8E8G78Tcgo",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=mrop2M3vAdzSygk46",
+        "link": "tt7097896",
+        "year": "2021",
+        "duration": "97 min",
+        "rating": "6.3",
+        "genre": "Action, Sci-Fi, Horror",
+        "description": "Eddie Brock faces the terrifying Carnage after the escape of Cletus Kasady, a serial killer who merges with an alien symbiote to become a new deadly villain.",
+        "type": "movie",
+        "quality": "blu-Ray",
+        "cast": "Tom Hardy, Woody Harrelson, Michelle Williams"
     },
-    
     {
-    title: 'Spider-Man: Across the Spider-Verse (2023) BluRay [Hindi-English] | Full Movie',
-    im: '8Vt6mWEReuy4Of61Lnj5Xj704m8',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=M77or2T2DzRUSUof6',
-    link: 'tt9362722'
+        "title": "Spider-Man: Across the Spider-Verse (2023) BluRay [Hindi-English] | Full Movie",
+        "im": "8Vt6mWEReuy4Of61Lnj5Xj704m8",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=M77or2T2DzRUSUof6",
+        "link": "tt9362722",
+        "year": "2023",
+        "duration": "140 min",
+        "rating": "8.5",
+        "genre": "Animation, Action, Adventure",
+        "description": "Miles Morales continues his journey as Spider-Man, joining forces with other Spider-People from different dimensions to stop a new threat that could destroy the multiverse.",
+        "type": "movie",
+        "quality": "blu-Ray",
+        "cast": "Shameik Moore, Hailee Steinfeld, Jake Johnson"
     },
-    
     {
-    title: 'Venom: The Last Dance (2024) WEB-DL [Hindi (ORG 5.1) & English] [HEVC] | Full Movie',
-    im: 'vGXptEdgZIhPg3cGlc7e8sNPC2e',
-    dl: 'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Venom.The.Last.Dance.2024.720p.10Bit.WEB-DL.Hindi.5.1-English.HEVC.x265-HDHub4u.Tv.mkv',
-    link: 'tt16366836'
+        "title": "Venom: The Last Dance (2024) WEB-DL [Hindi (ORG 5.1) & English] [HEVC] | Full Movie",
+        "im": "vGXptEdgZIhPg3cGlc7e8sNPC2e",
+        "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Venom.The.Last.Dance.2024.720p.10Bit.WEB-DL.Hindi.5.1-English.HEVC.x265-HDHub4u.Tv.mkv",
+        "link": "tt16366836",
+        "year": "2024",
+        "duration": "105 min",
+        "rating": "6.8",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "Venom faces a new dangerous adversary who pushes him to the limits. Eddie Brock and the symbiote must fight to save the world from a destructive force unlike anything they’ve ever encountered.",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "Tom Hardy, Michelle Williams, Woody Harrelson"
     },
     
     {
@@ -2385,12 +3249,20 @@ const movies = [
     link: 'tt1877832'
     },
     
-    {
-    title: 'Deadpool (2016) BluRay [Hindi-English] | Full Movie',
-    im: '3E53WEZJqP6aM84D8CckXx4pIHw',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=9vXjZPbeHhj2mPjTA',
-    link: 'tt1431045'
-    },
+{
+    "title": "Deadpool (2016) BluRay [Hindi-English] | Full Movie",
+    "im": "3E53WEZJqP6aM84D8CckXx4pIHw",
+    "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=9vXjZPbeHhj2mPjTA",
+    "link": "tt1431045",
+    "year": "2016",
+    "duration": "108 min",
+    "rating": "8.0",
+    "genre": "Action, Comedy, Sci-Fi",
+    "description": "Wade Wilson, a former special forces operative, turns into the mercenary Deadpool after being subjected to an experimental treatment that gives him accelerated healing powers. He seeks revenge against the man who nearly destroyed his life.",
+    "type": "movie",
+    "quality": "blu-Ray",
+    "cast": "Ryan Reynolds, Morena Baccarin, T.J. Miller"
+},
     
     {
     title: 'X-Men: Apocalypse (2016) BluRay [Hindi-English] | Full Movie',
@@ -2406,12 +3278,21 @@ const movies = [
     link: 'tt3315342'
     },
     
-    {
-    title: 'Deadpool 2 (2018) BluRay [Hindi-English] | Full Movie',
-    im: 'to0spRl1CMDvyUbOnbb4fTk3VAd',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=crni6yr2SEaxZ65a9',
-    link: 'tt5463162'
-    },
+{
+    "title": "Deadpool 2 (2018) BluRay [Hindi-English] | Full Movie",
+    "im": "to0spRl1CMDvyUbOnbb4fTk3VAd",
+    "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=crni6yr2SEaxZ65a9",
+    "link": "tt5463162",
+    "year": "2018",
+    "duration": "119 min",
+    "rating": "7.7",
+    "genre": "Action, Adventure, Comedy",
+    "description": "Deadpool forms the X-Force team to protect a young mutant from the powerful Cable. Together, they must take on a new set of dangerous foes and navigate complex challenges in this action-packed sequel.",
+    "type": "movie",
+    "quality": "blu-Ray",
+    "cast": "Ryan Reynolds, Josh Brolin, Morena Baccarin"
+},
+
     
     {
     title: 'X-Men: Dark Phoenix (2019) BluRay [Hindi-English] | Full Movie',
@@ -2421,142 +3302,270 @@ const movies = [
     },
     
     {
-    title: 'Men in Black 1 (1997) BluRay [Hindi-English] | Full Movie',
-    im: 'uLOmOF5IzWoyrgIF5MfUnh5pa1X',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=CJLyq2U3aTztajhs8',
-    link: 'tt0119654'
+        "title": "Men in Black 1 (1997) BluRay [Hindi-English] | Full Movie",
+        "im": "uLOmOF5IzWoyrgIF5MfUnh5pa1X",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=CJLyq2U3aTztajhs8",
+        "link": "tt0119654",
+        "year": "1997",
+        "duration": "98 min",
+        "rating": "7.3",
+        "genre": "Action, Adventure, Comedy",
+        "description": "A secret organization known as the Men in Black (MIB) controls extraterrestrial activity on Earth. Agent J recruits a new partner, Agent K, to protect the world from an alien threat.",
+        "type": "movie",
+        "quality": "blu-Ray",
+        "cast": "Will Smith, Tommy Lee Jones, Linda Fiorentino"
+    },
+    {
+        "title": "Men in Black 2 - II (2002) BluRay [Hindi-English] | Full Movie",
+        "im": "enA22EPyzc2WQ1VVyY7zxresQQr",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=seYdkyG21UX7ZnAMA",
+        "link": "tt0120912",
+        "year": "2002",
+        "duration": "88 min",
+        "rating": "6.2",
+        "genre": "Action, Adventure, Comedy",
+        "description": "Agent J must recruit his old partner, Agent K, who has had his memory erased, to stop a new alien threat and save the world once again.",
+        "type": "movie",
+        "quality": "blu-Ray",
+        "cast": "Will Smith, Tommy Lee Jones, Lara Flynn Boyle"
+    },
+    {
+        "title": "Men in Black 3 (2012) BluRay [Hindi-English] | Full Movie",
+        "im": "90DdoEStzeObs96fsYf4GG544iN",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=9JCq3pFz9jZeVqm88",
+        "link": "tt1409024",
+        "year": "2012",
+        "duration": "106 min",
+        "rating": "6.8",
+        "genre": "Action, Adventure, Comedy",
+        "description": "Agent J travels back in time to 1969 to save his partner, Agent K, from being killed by an alien criminal. Along the way, he must team up with a younger version of Agent K.",
+        "type": "movie",
+        "quality": "blu-Ray",
+        "cast": "Will Smith, Tommy Lee Jones, Josh Brolin"
+    },
+    {
+        "title": "Men in Black 4: International (2019) BluRay [Hindi-English] | Full Movie",
+        "im": "dPrUPFcgLfNbmDL8V69vcrTyEfb",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=R3QpHiySnMakcLJMA",
+        "link": "tt2283336",
+        "year": "2019",
+        "duration": "114 min",
+        "rating": "6.7",
+        "genre": "Action, Adventure, Comedy",
+        "description": "The Men in Black have expanded to a global level. New recruit Agent M joins Agent H in London to uncover an alien conspiracy that could threaten the planet.",
+        "type": "movie",
+        "quality": "blu-Ray",
+        "cast": "Chris Hemsworth, Tessa Thompson, Liam Neeson"
     },
     
+{
+    "title": "Pushpa The Rise Part 1 (2021) WEB-DL [Hindi] | Full Movie",
+    "im": "r1yAzVQNbCbPTbB3GZFour9Qr0t",
+    "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=uVFzgQFR1hXEQr9F8",
+    "link": "tt9389998",
+    "year": "2021",
+    "duration": "179 min",
+    "rating": "7.6",
+    "genre": "Action, Drama, Thriller",
+    "description": "Pushpa, a laborer working in the red sandalwood smuggling business, rises through the ranks to become a powerful figure. The film follows his journey and the conflict with the police and rival smugglers.",
+    "type": "movie",
+    "quality": "web-dl",
+    "cast": "Allu Arjun, Fahadh Faasil, Rashmika Mandanna"
+},
+{
+    "title": "Surya The Soldier - Naa Peru Surya, Naa Illu India [2018] WEB-DL [Hindi] | Full Movie",
+    "im": "fHQAy0hHANT8BIRrLAQCfmLwIN4",
+    "bgi": "u567OriY6egxby83lviCRR3eCzX",
+    "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=BXiYSQ1PV4h31rTM7",
+    "year": "2018",
+    "duration": "2h 48m",
+    "rating": "6.2",
+    "genre": "Action",
+    "description": "Despite having serious anger management issues, Surya, an Indian Army officer is a brilliant officer but when anger takes control of him he is impossible to subdue. In spite of this issue, he achieves his goal of serving the country by overcoming the hurdles.",
+    "type": "movie",
+    "quality": "web-dl",
+    "cast": "Allu Arjun,Arjun Sarja,Nadhiya,Anu Emmanuel,R. Sarathkumar"
+},  
+{
+    "title": "DJ - Duvvada Jagannadham (2017) WEB-DL [Hindi] | Full Movie",
+    "im": "71aRdJ1BVKXiwaERnD2UWL3J5AR",
+    "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=RaUHJ4PHMX4qB6BY7",
+    "link": "tt6734984",
+    "year": "2017",
+    "duration": "146 min",
+    "rating": "7.2",
+    "genre": "Action, Comedy, Drama",
+    "description": "Duvvada Jagannadham, a simple Brahmin boy, leads a double life as DJ, a stylish and fearless vigilante. He fights against the corrupt elements of society, even while managing his family and cultural obligations.",
+    "type": "movie",
+    "quality": "web-dl",
+    "cast": "Allu Arjun, Pooja Hegde, Rao Ramesh"
+},   
+{
+    "title": "Sarrainodu [2016] WEB-DL [Hindi] | Full Movie",
+    "im": "olXLUc36dmYFdZrU7UkC3DeADfv",
+    "bgi": "bBn8pi9uq4fZkJxbMdlEefFgoZj",
+    "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=YDhNo1xK8CzDTUmw6",
+    "year": "2016",
+    "duration": "2h 41m",
+    "rating": "6.4",
+    "genre": "Action,Drama",
+    "description": "Only one man can stop a villain who, backed by his father, brutally murders anyone who gets in the way of his unscrupulous real estate deals.",
+    "type": "movie",
+    "quality": "web-dl",
+    "cast": "Allu Arjun,Rakul Preet Singh,Aadhi Pinisetty,Catherine Tresa,Srikanth"
+},
+{
+    "title": "Son of Satyamurthy [2015] WEB-DL [Hindi] | Full Movie",
+    "im": "oQq3FMD952F8Rnu619O2boTK1Do",
+    "bgi": "rcbrye7AK0xXJd8QnzYzRB5ByiS",
+    "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=iv7TL87bUcYUUMPa7",
+    "year": "2015",
+    "duration": "2h 42m",
+    "rating": "6.8",
+    "genre": "Drama,Action",
+    "description": "The son of a rich businessman struggles to save his father's wealth after his demise. However, he faces many challenges when he becomes the sole breadwinner of his family.",
+    "type": "movie",
+    "quality": "web-dl",
+    "cast": "Allu Arjun,Upendra,Rajendra Prasad,Prakash Raj,Samantha Ruth Prabhu"
+},
+{
+    "title": "Rudhramadevi [2015] WEB-DL [Hindi] | Full Movie",
+    "im": "i3gFyjzp5qTiFCwxCr1n59Ak6dA",
+    "bgi": "b3wa6Tw3cQax9SdCJa3lPriKnGR",
+    "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=kFe2capTmEudsD1dA",
+    "year": "2015",
+    "duration": "2h 45m",
+    "rating": "5.4",
+    "genre": "History,Action,Drama",
+    "description": "Rudraba, daughter of Ganapatideva, the emperor of the Kakatiya dynasty, was officially designated a son through the ancient Putrika ceremony and given the name Rudradeva so that she could succeed her father after his death. Despite opposition, she became of the most prominent rulers of the Kakatiya dynasty and one of the few ruling queens in Indian history.",
+    "type": "movie",
+    "quality": "web-dl",
+    "cast": "Anushka Shetty,Rana Daggubati,Allu Arjun,Nithya Menen,Catherine Tresa"
+}, 
+{
+    "title": "Main Hoon Lucky The Racer - Race Gurram (2014) WEB-DL [Hindi] | Full Movie",
+    "im": "4ojbzpHL0wmlnrmlLQGLds6Hwvu",
+    "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=FCNee1xo7fXF54ww5",
+    "link": "tt3142764",
+    "year": "2014",
+    "duration": "152 min",
+    "rating": "7.1",
+    "genre": "Action, Comedy, Drama",
+    "description": "Lucky, a man with an adventurous spirit, and his brother are caught in a race with powerful enemies. He must use his wit and courage to overcome challenges and protect his loved ones in this action-packed journey.",
+    "type": "movie",
+    "quality": "web-dl",
+    "cast": "Allu Arjun, Shruti Haasan, Ravi Kishan"
+},
+{
+    "title": "Dangerous Khiladi 2 - Iddarammayilatho [2013] WEB-DL [Hindi] | Full Movie",
+    "im": "bsh8YdNxq66oH0MvJFd7hjlq6Fq",
+    "bgi": "jqB9jaE6TMY57ytJN8BTuoPKZm6",
+    "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=Nk9po3sh32VG2to37",
+    "year": "2013",
+    "duration": "2h 18m",
+    "rating": "5.7",
+    "genre": "Action,Romance",
+    "description": "A young woman becomes embroiled in a financial and political conspiracy while studying in Spain, as she meets a young musician with a somewhat dark past unfolded through the pages of his lover's diary.",
+    "type": "movie",
+    "quality": "web-dl",
+    "cast": "Allu Arjun,Amala Paul,Catherine Tresa,Brahmanandam,Tanikella Bharani"
+},
+{
+    "title": "Dangerous Khiladi - Julayi [2012] WEB-DL [Hindi] | Full Movie",
+    "im": "tIUBifudyRCKhF1utslaDoDRteW",
+    "bgi": "pOgMpSV1zu062aRzxErHchcqb4a",
+    "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=yZytzQrjHKTG4eKcA",
+    "year": "2012",
+    "duration": "2h 40m",
+    "rating": "6.4",
+    "genre": "Action,Comedy,Crime",
+    "description": "An intelligent young man and a timid cop team up to catch a criminal who wants revenge after a foiled bank robbery.",
+    "type": "movie",
+    "quality": "web-dl",
+    "cast": "Allu Arjun,Sonu Sood,Rajendra Prasad,Ileana D&#39;Cruz,Tanikella Bharani"
+},
+{
+    "title": "Antim Faisla - Vedam [2010] WEB-DL [Hindi] | Full Movie",
+    "im": "fwozjObCQSZsGdUw0dJXJSdEocj",
+    "bgi": "vFAmcANdub9TGiZehHtVQwINiFi",
+    "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=TRmGoh6X9yE5knMc9",
+    "year": "2010",
+    "duration": "2h 21m",
+    "rating": "7.3",
+    "genre": "Drama,Action",
+    "description": "Five people from varied strata of society \u2013 a slum dweller who works as a cable operator, a runaway prostitute, a desperate woman drowning in debt, a rising musician, and a grief-stricken Muslim man \u2013 end up together in the same hospital, at a time when it is attacked by terrorists.",
+    "type": "movie",
+    "quality": "web-dl",
+    "cast": "Nagayya,Manchu Manoj,Allu Arjun,Anushka Shetty,Manoj Bajpayee"
+},
+{
+    "title": "Ek Aur Rakshak - Varudu [2010] WEB-DL [Hindi] | Full Movie",
+    "im": "b9vJOQal3MfSVdoIoo9hcpsF23P",
+    "bgi": "",
+    "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=vSzh1wizyjoKV3ao8",
+    "year": "2010",
+    "duration": "2h 27m",
+    "rating": "3.6",
+    "genre": "Action",
+    "description": "A soon to-be married bride is abducted by a man who is obsessed with her.",
+    "type": "movie",
+    "quality": "web-dl",
+    "cast": "Allu Arjun,Arya,Bhanu Sri Mehra,Suhasini Maniratnam,Sayaji Shinde"
+},
+{
+    "title": "Arya 2 Ek Deewana [2009] WEB-DL [Hindi] | Full Movie",
+    "im": "kjbbx8kV6pNhNXX9aRsVDwyEJbm",
+    "bgi": "zqrIgwPXi4qg2sJPEB0vvGtgCiz",
+    "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=nKpcEeoZ3waVPUvb7",
+    "year": "2009",
+    "duration": "2h 35m",
+    "rating": "6.8",
+    "genre": "Action,Comedy,Romance",
+    "description": "Two young boys staying together at an orphanage become friends. One of them is adopted by a wealthy family and grows up to become the owner of a software company. He provides employment for his friend, but when they both fall in love with the same young woman, conflict emerges.",
+    "type": "movie",
+    "quality": "web-dl",
+    "cast": "Allu Arjun,Navdeep,Kajal Agarwal,Brahmanandam,Mukesh Rishi"
+},  
     {
-    title: 'Men in Black 2 - II (2002) BluRay [Hindi-English] | Full Movie',
-    im: 'enA22EPyzc2WQ1VVyY7zxresQQr',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=seYdkyG21UX7ZnAMA',
-    link: 'tt0120912'
+        "title": "Veertaa The Power - Parugu [2008] WEB-DL [Hindi] | Full Movie",
+        "im": "3RYvVIZyNfYI6DRdljL42hA8zMr",
+        "bgi": "dmiw9YQFvWQp1FYvpQXXDq0UWVS",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=LwTFKRjEYbvtrQoB8",
+        "year": "2008",
+        "duration": "2h 53m",
+        "rating": "5.7",
+        "genre": "Action,Romance",
+        "description": "A group of friends are forcibly transported to a village and kept imprisoned, as the village head, who believes that they have helped in his daughter's elopement with her lover.",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "Allu Arjun,Prakash Raj,Sheela Kaur,Sunil Varma,Saptagiri"
     },
-    
     {
-    title: 'Men in Black 3 (2012) BluRay [Hindi-English] | Full Movie',
-    im: '90DdoEStzeObs96fsYf4GG544iN',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=9JCq3pFz9jZeVqm88',
-    link: 'tt1409024'
+        "title": "Dum - Happy [2006] WEB-DL [Hindi] | Full Movie",
+        "im": "nPITY2XjohAubgnY9Ihq4k5DfjH",
+        "bgi": "kBWuCHxg0SfSX2YY7bTGrOdszwu",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=rtv65pSY3G872ocG7",
+        "year": "2006",
+        "duration": "2h 32m",
+        "rating": "6.4",
+        "genre": "Drama,Romance",
+        "description": "A politician refrains his daughter from finishing college as it would affect his politics. He decides to get her married to a police officer of the same caste, but things don't go as planned.",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "Allu Arjun,Genelia D&#39;Souza,Manoj Bajpayee,Brahmanandam,Kishore"
     },
-    
     {
-    title: 'Men in Black 4: International (2019) BluRay [Hindi-English] | Full Movie',
-    im: 'dPrUPFcgLfNbmDL8V69vcrTyEfb',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=R3QpHiySnMakcLJMA',
-    link: 'tt2283336'
-    },
-    
-    {
-    title: 'Pushpa The Rise Part 1 (2021) WEB-DL [Hindi] | Full Movie',
-    im: 'r1yAzVQNbCbPTbB3GZFour9Qr0t',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=uVFzgQFR1hXEQr9F8',
-    link: 'tt9389998'
-    },
-    
-    {
-    title: 'Ala Vaikunthapurramuloo - Vaikuntapuram (2020) WEB-DL [Hindi] | Full Movie',
-    im: '2rzORJaegE2bbKNVkQXbZCeV0BP',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=huHzBuJMB5ryzHQi9',
-    link: 'tt9776894'
-    },
-    
-    {
-    title: 'Surya The Soldier - Naa Peru Surya, Naa Illu India (2018) WEB-DL [Hindi] | Full Movie',
-    im: 'fHQAy0hHANT8BIRrLAQCfmLwIN4',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=BXiYSQ1PV4h31rTM7',
-    link: 'tt7794524'
-    },
-    
-    {
-    title: 'DJ - Duvvada Jagannadham (2017) WEB-DL [Hindi] | Full Movie',
-    im: '71aRdJ1BVKXiwaERnD2UWL3J5AR',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=RaUHJ4PHMX4qB6BY7',
-    link: 'tt6734984'
-    },
-    
-    {
-    title: 'Sarrainodu (2016) WEB-DL [Hindi] | Full Movie',
-    im: 'olXLUc36dmYFdZrU7UkC3DeADfv',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=YDhNo1xK8CzDTUmw6',
-    link: 'tt5457772'
-    },
-    
-    {
-    title: 'Son of Satyamurthy (2015) WEB-DL [Hindi] | Full Movie',
-    im: 'oQq3FMD952F8Rnu619O2boTK1Do',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=iv7TL87bUcYUUMPa7',
-    link: 'tt4596814'
-    },
-    
-    {
-    title: 'Rudhramadevi (2015) WEB-DL [Hindi] | Full Movie',
-    im: 'i3gFyjzp5qTiFCwxCr1n59Ak6dA',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=kFe2capTmEudsD1dA',
-    link: 'tt2807410'
-    },
-    
-    {
-    title: 'Main Hoon Lucky The Racer - Race Gurram (2014) WEB-DL [Hindi] | Full Movie',
-    im: '4ojbzpHL0wmlnrmlLQGLds6Hwvu',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=FCNee1xo7fXF54ww5',
-    link: 'tt3142764'
-    },
-    
-    {
-    title: 'Dangerous Khiladi 2 - Iddarammayilatho (2013) WEB-DL [Hindi] | Full Movie',
-    im: 'bsh8YdNxq66oH0MvJFd7hjlq6Fq',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=Nk9po3sh32VG2to37',
-    link: 'tt2714622'
-    },
-    
-    {
-    title: 'Dangerous Khiladi - Julayi (2012) WEB-DL [Hindi] | Full Movie',
-    im: 'tIUBifudyRCKhF1utslaDoDRteW',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=yZytzQrjHKTG4eKcA',
-    link: 'tt2330927'
-    },
-    
-    {
-    title: 'Antim Faisla - Vedam (2010) WEB-DL [Hindi] | Full Movie',
-    im: 'fwozjObCQSZsGdUw0dJXJSdEocj',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=TRmGoh6X9yE5knMc9',
-    link: 'tt1649431'
-    },
-    
-    {
-    title: 'Ek Aur Rakshak - Varudu (2010) WEB-DL [Hindi] | Full Movie',
-    im: 'b9vJOQal3MfSVdoIoo9hcpsF23P',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=vSzh1wizyjoKV3ao8',
-    link: 'tt1582637'
-    },
-    
-    {
-    title: 'Arya 2 Ek Deewana (2009) WEB-DL [Hindi] | Full Movie',
-    im: 'kjbbx8kV6pNhNXX9aRsVDwyEJbm',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=nKpcEeoZ3waVPUvb7',
-    link: 'tt1526323'
-    },
-    
-    {
-    title: 'Veertaa The Power - Parugu (2008) WEB-DL [Hindi] | Full Movie',
-    im: '3RYvVIZyNfYI6DRdljL42hA8zMr',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=LwTFKRjEYbvtrQoB8',
-    link: 'tt1198349'
-    },
-    
-    {
-    title: 'Dum - Happy (2006) WEB-DL [Hindi] | Full Movie',
-    im: 'nPITY2XjohAubgnY9Ihq4k5DfjH',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=rtv65pSY3G872ocG7',
-    link: 'tt0491775'
-    },
-    
-    {
-    title: 'Arya Ki Prem Pratigya (2004) WEB-DL [Hindi] | Full Movie',
-    im: '1RU7eOgierTfTiNNQUmd1h5iKFU',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=tRfnAJnSAqDUJhj76',
-    link: 'tt0431619'
+        "title": "Arya Ki Prem Pratigya [2004] WEB-DL [Hindi] | Full Movie",
+        "im": "1RU7eOgierTfTiNNQUmd1h5iKFU",
+        "bgi": "peYtrlq7SgZdp3wp5CFHL8y7J56",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=tRfnAJnSAqDUJhj76",
+        "year": "2004",
+        "duration": "2h 31m",
+        "rating": "6.5",
+        "genre": "Drama,Romance,Action",
+        "description": "Aarya is a happy-go-lucky young man who goes to college. When he falls in love with Geetha at first sight, he proposes to her - in front of her boyfriend Ajay, who recently also proposed to her. She bluntly refuses, but ...",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "Allu Arjun,Anuradha Mehta,Siva Balaji,Subbaraju,Sunil Varma"
     }
     ];

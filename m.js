@@ -2895,38 +2895,3 @@
     'dl'=> 'http://qwrqwrqwr.rf.gd/a/a.php?d4=84Q9jx7ZaWeW4nfH8',
     'link'=> 'tt6565702'
     ],
-    
-    [
-        "title": "Men in Black 1 (1997) BluRay [Hindi-English] | Full Movie",
-        "im": "uLOmOF5IzWoyrgIF5MfUnh5pa1X",
-        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=CJLyq2U3aTztajhs8",
-        "link": "tt0119654",
-        "year": "1997",
-        "duration": "98 min",
-        "rating": "7.3",
-        "genre": "Action, Adventure, Comedy",
-        "description": "A secret organization known as the Men in Black (MIB) controls extraterrestrial activity on Earth. Agent J recruits a new partner, Agent K, to protect the world from an alien threat.",
-        "type": "movie",
-        "quality": "blu-Ray",
-        "cast": "Will Smith, Tommy Lee Jones, Linda Fiorentino"
-    ],
-    [
-        "title": "Men in Black 2 - II (2002) BluRay [Hindi-English] | Full Movie",
-        "im": "enA22EPyzc2WQ1VVyY7zxresQQr",
-        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=seYdkyG21UX7ZnAMA",
-        "link": "tt0120912",
-        "year": "2002",
-        "duration": "88 min",
-        "rating": "6.2",
-        "genre": "Action, Adventure, Comedy",
-        "description": "Agent J must recruit his old partner, Agent K, who has had his memory erased, to stop a new alien threat and save the world once again.",
-        "type": "movie",
-        "quality": "blu-Ray",
-        "cast": "Will Smith, Tommy Lee Jones, Lara Flynn Boyle"
-    ],
-
-    
-
-
-    
-

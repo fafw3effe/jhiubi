@@ -3292,15 +3292,20 @@ const movies = [
     "quality": "blu-Ray",
     "cast": "Ryan Reynolds, Josh Brolin, Morena Baccarin"
 },
-
-    
-    {
-    title: 'X-Men: Dark Phoenix (2019) BluRay [Hindi-English] | Full Movie',
-    im: 'kZv92eTc0Gg3mKxqjjDAM73z9cy',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=84Q9jx7ZaWeW4nfH8',
-    link: 'tt6565702'
-    },
-    
+{
+    "title": "X-Men: Dark Phoenix [2019] BluRay [Hindi-English] | Full Movie",
+    "im": "kZv92eTc0Gg3mKxqjjDAM73z9cy",
+    "bgi": "cjRUhKyt2Jo3V1KNzc5tpPNfccG",
+    "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=84Q9jx7ZaWeW4nfH8",
+    "year": "2019",
+    "duration": "1h 54m",
+    "rating": "6.0",
+    "genre": "Science Fiction,Action,Adventure",
+    "description": "The X-Men face their most formidable and powerful foe when one of their own, Jean Grey, starts to spiral out of control. During a rescue mission in outer space, Jean is nearly killed when she's hit by a mysterious cosmic force. Once she returns home, this force not only makes her infinitely more powerful, but far more unstable. The X-Men must now band together to save her soul and battle aliens that want to use Grey's new abilities to rule the galaxy.",
+    "type": "movie",
+    "quality": "bluray",
+    "cast": "Sophie Turner,James McAvoy,Nicholas Hoult,Tye Sheridan,Michael Fassbender"
+},  
     {
         "title": "Men in Black 1 (1997) BluRay [Hindi-English] | Full Movie",
         "im": "uLOmOF5IzWoyrgIF5MfUnh5pa1X",

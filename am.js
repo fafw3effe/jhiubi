@@ -19,6 +19,20 @@ const movies = [
     },
     
     */
+{
+    "title": "The Divorce Insurance [Season 1] [Episode 12] WEB-DL [Hindi + English]",
+    "im": "6HAbRWYkX3bouEeHA4bjsUxznKC",
+    "bgi": "tSeyn9VqrAKuMytgDCXY9iMGXa8",
+    "dl": "https://pixeldrain.net/api/file/RLrusXpC?download",
+    "year": "2025",
+    "duration": "1h",
+    "rating": "8.2",
+    "genre": "Drama,Comedy,",
+    "description": "No Ki-jun, an employee at an insurance company, decides to develop a divorce insurance policy after personally experiencing three divorces that impacted his life and finances. Despite potential biases, he believes divorce is an unforeseen disaster and establishes a team for divorce insurance.",
+    "type": "series",
+    "quality": "web-dl",
+    "cast": "Lee Dong-wook,Lee Kwang-soo,Lee Ju-bin,Lee Da-hee,Kim Won-hae"
+},
     {
         "title": "Thunderbolts* [2025] PRE-HD [Hindi] | Full Movie",
         "im": "1top0ND4DFGNvCdl0TwPl7Tv7sB",

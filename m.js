@@ -2924,67 +2924,6 @@
         "quality": "blu-Ray",
         "cast": "Will Smith, Tommy Lee Jones, Lara Flynn Boyle"
     ],
-    [
-        "title": "Men in Black 3 (2012) BluRay [Hindi-English] | Full Movie",
-        "im": "90DdoEStzeObs96fsYf4GG544iN",
-        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=9JCq3pFz9jZeVqm88",
-        "link": "tt1409024",
-        "year": "2012",
-        "duration": "106 min",
-        "rating": "6.8",
-        "genre": "Action, Adventure, Comedy",
-        "description": "Agent J travels back in time to 1969 to save his partner, Agent K, from being killed by an alien criminal. Along the way, he must team up with a younger version of Agent K.",
-        "type": "movie",
-        "quality": "blu-Ray",
-        "cast": "Will Smith, Tommy Lee Jones, Josh Brolin"
-    ],
-    [
-        "title": "Men in Black 4: International (2019) BluRay [Hindi-English] | Full Movie",
-        "im": "dPrUPFcgLfNbmDL8V69vcrTyEfb",
-        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=R3QpHiySnMakcLJMA",
-        "link": "tt2283336",
-        "year": "2019",
-        "duration": "114 min",
-        "rating": "6.7",
-        "genre": "Action, Adventure, Comedy",
-        "description": "The Men in Black have expanded to a global level. New recruit Agent M joins Agent H in London to uncover an alien conspiracy that could threaten the planet.",
-        "type": "movie",
-        "quality": "blu-Ray",
-        "cast": "Chris Hemsworth, Tessa Thompson, Liam Neeson"
-    ],
-    
-[
-    "title": "Pushpa The Rise Part 1 (2021) WEB-DL [Hindi] | Full Movie",
-    "im": "r1yAzVQNbCbPTbB3GZFour9Qr0t",
-    "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=uVFzgQFR1hXEQr9F8",
-    "link": "tt9389998",
-    "year": "2021",
-    "duration": "179 min",
-    "rating": "7.6",
-    "genre": "Action, Drama, Thriller",
-    "description": "Pushpa, a laborer working in the red sandalwood smuggling business, rises through the ranks to become a powerful figure. The film follows his journey and the conflict with the police and rival smugglers.",
-    "type": "movie",
-    "quality": "web-dl",
-    "cast": "Allu Arjun, Fahadh Faasil, Rashmika Mandanna"
-],
-
-    
-
-    
-[
-    "title": "DJ - Duvvada Jagannadham (2017) WEB-DL [Hindi] | Full Movie",
-    "im": "71aRdJ1BVKXiwaERnD2UWL3J5AR",
-    "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=RaUHJ4PHMX4qB6BY7",
-    "link": "tt6734984",
-    "year": "2017",
-    "duration": "146 min",
-    "rating": "7.2",
-    "genre": "Action, Comedy, Drama",
-    "description": "Duvvada Jagannadham, a simple Brahmin boy, leads a double life as DJ, a stylish and fearless vigilante. He fights against the corrupt elements of society, even while managing his family and cultural obligations.",
-    "type": "movie",
-    "quality": "web-dl",
-    "cast": "Allu Arjun, Pooja Hegde, Rao Ramesh"
-],
 
     
 

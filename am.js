@@ -62,6 +62,48 @@ const movies = [
         "type": "series",
         "quality": "webdl",
         "cast": "Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
+    },
+{
+    "title": "The Next 365 Days [2022] WEB-DL [Hindi + English] | Full Movie",
+    "im": "5r9RI0IqztfZJ4C4uSdyoiFYvOB",
+    "bgi": "6cpRpfD3isvluFwXDGSiDVyibPJ",
+    "dl": "https://pixeldrain.net/api/file/yGpjYgpW?download",
+    "year": "2022",
+    "duration": "1h 52m",
+    "rating": "6.4",
+    "genre": "Romance,Drama,",
+    "description": "Laura and Massimo's relationship hangs in the balance as they try to overcome trust issues while a tenacious Nacho works to push them apart.",
+    "type": "movie",
+    "quality": "web-dl",
+    "cast": "Anna-Maria Sieklucka,Michele Morrone,Simone Susinna,Magdalena Lamparska,Otar Saralidze"
+},    
+{
+    "title": "365 Days: This Day [2022] WEB-DL [Hindi + English] | Full Movie",
+    "im": "iLmG3HCXVyqXYbFvUO1rfOeGa3Z",
+    "bgi": "y73agOAJDvO48WbvuRt4rZrcFw3",
+    "dl": "https://pixeldrain.net/api/file/HyaiZpri?download",
+    "year": "2022",
+    "duration": "1h 51m",
+    "rating": "5.9",
+    "genre": "Romance,Drama,",
+    "description": "Laura and Massimo are back and hotter than ever. But the reunited couple's new beginning is complicated by Massimo’s family ties and a mysterious man who enters Laura’s life to win her heart and trust, at any cost.",
+    "type": "movie",
+    "quality": "web-dl",
+    "cast": "Anna-Maria Sieklucka,Michele Morrone,Simone Susinna,Magdalena Lamparska,Otar Saralidze"
+},
+    {
+        "title": "365 Days [2020] WEB-DL [Hindi + English] | Full Movie",
+        "im": "6KwrHucIE3CvNT7kTm2MAlZ4fYF",
+        "bgi": "27nn2YJBwY7a1etZ0AiIcOrIgu3",
+        "dl": "https://pixeldrain.net/api/file/KEhNREYB?download",
+        "year": "2020",
+        "duration": "1h 56m",
+        "rating": "7.0",
+        "genre": "Romance,Drama,",
+        "description": "A woman falls victim to a dominant mafia boss, who imprisons her and gives her one year to fall in love with him.",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "Anna-Maria Sieklucka,Michele Morrone,Bronisław Wrocławski,Otar Saralidze,Magdalena Lamparska"
     },   
 {
     "title": "Life of Pi [2012] WEB-DL [Hindi + English] | Full Movie",

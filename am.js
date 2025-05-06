@@ -3469,23 +3469,48 @@ const movies = [
     },
     
     {
-    title: 'Veertaa The Power - Parugu (2008) WEB-DL [Hindi] | Full Movie',
-    im: '3RYvVIZyNfYI6DRdljL42hA8zMr',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=LwTFKRjEYbvtrQoB8',
-    link: 'tt1198349'
+        "title": "Veertaa The Power - Parugu [2008] WEB-DL [Hindi] | Full Movie",
+        "im": "3RYvVIZyNfYI6DRdljL42hA8zMr",
+        "bgi": "dmiw9YQFvWQp1FYvpQXXDq0UWVS",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=LwTFKRjEYbvtrQoB8",
+        "year": "2008",
+        "duration": "2h 53m",
+        "rating": "5.7",
+        "genre": "Action,Romance",
+        "description": "A group of friends are forcibly transported to a village and kept imprisoned, as the village head, who believes that they have helped in his daughter's elopement with her lover.",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "Allu Arjun,Prakash Raj,Sheela Kaur,Sunil Varma,Saptagiri",
+        "release_date": "May 1, 2008"
     },
-    
     {
-    title: 'Dum - Happy (2006) WEB-DL [Hindi] | Full Movie',
-    im: 'nPITY2XjohAubgnY9Ihq4k5DfjH',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=rtv65pSY3G872ocG7',
-    link: 'tt0491775'
+        "title": "Dum - Happy [2006] WEB-DL [Hindi] | Full Movie",
+        "im": "nPITY2XjohAubgnY9Ihq4k5DfjH",
+        "bgi": "kBWuCHxg0SfSX2YY7bTGrOdszwu",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=rtv65pSY3G872ocG7",
+        "year": "2006",
+        "duration": "2h 32m",
+        "rating": "6.4",
+        "genre": "Drama,Romance",
+        "description": "A politician refrains his daughter from finishing college as it would affect his politics. He decides to get her married to a police officer of the same caste, but things don't go as planned.",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "Allu Arjun,Genelia D&#39;Souza,Manoj Bajpayee,Brahmanandam,Kishore",
+        "release_date": "January 27, 2006"
     },
-    
     {
-    title: 'Arya Ki Prem Pratigya (2004) WEB-DL [Hindi] | Full Movie',
-    im: '1RU7eOgierTfTiNNQUmd1h5iKFU',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=tRfnAJnSAqDUJhj76',
-    link: 'tt0431619'
+        "title": "Arya Ki Prem Pratigya [2004] WEB-DL [Hindi] | Full Movie",
+        "im": "1RU7eOgierTfTiNNQUmd1h5iKFU",
+        "bgi": "peYtrlq7SgZdp3wp5CFHL8y7J56",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=tRfnAJnSAqDUJhj76",
+        "year": "2004",
+        "duration": "2h 31m",
+        "rating": "6.5",
+        "genre": "Drama,Romance,Action",
+        "description": "Aarya is a happy-go-lucky young man who goes to college. When he falls in love with Geetha at first sight, he proposes to her - in front of her boyfriend Ajay, who recently also proposed to her. She bluntly refuses, but ...",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "Allu Arjun,Anuradha Mehta,Siva Balaji,Subbaraju,Sunil Varma",
+        "release_date": "May 7, 2004"
     }
     ];

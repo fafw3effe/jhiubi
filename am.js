@@ -3372,15 +3372,20 @@ const movies = [
     "quality": "web-dl",
     "cast": "Allu Arjun, Fahadh Faasil, Rashmika Mandanna"
 },
-
-    
-    {
-    title: 'Surya The Soldier - Naa Peru Surya, Naa Illu India (2018) WEB-DL [Hindi] | Full Movie',
-    im: 'fHQAy0hHANT8BIRrLAQCfmLwIN4',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=BXiYSQ1PV4h31rTM7',
-    link: 'tt7794524'
-    },
-    
+{
+    "title": "Surya The Soldier - Naa Peru Surya, Naa Illu India [2018] WEB-DL [Hindi] | Full Movie",
+    "im": "fHQAy0hHANT8BIRrLAQCfmLwIN4",
+    "bgi": "u567OriY6egxby83lviCRR3eCzX",
+    "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=BXiYSQ1PV4h31rTM7",
+    "year": "2018",
+    "duration": "2h 48m",
+    "rating": "6.2",
+    "genre": "Action",
+    "description": "Despite having serious anger management issues, Surya, an Indian Army officer is a brilliant officer but when anger takes control of him he is impossible to subdue. In spite of this issue, he achieves his goal of serving the country by overcoming the hurdles.",
+    "type": "movie",
+    "quality": "web-dl",
+    "cast": "Allu Arjun,Arjun Sarja,Nadhiya,Anu Emmanuel,R. Sarathkumar"
+},  
 {
     "title": "DJ - Duvvada Jagannadham (2017) WEB-DL [Hindi] | Full Movie",
     "im": "71aRdJ1BVKXiwaERnD2UWL3J5AR",
@@ -3394,30 +3399,49 @@ const movies = [
     "type": "movie",
     "quality": "web-dl",
     "cast": "Allu Arjun, Pooja Hegde, Rao Ramesh"
+},   
+{
+    "title": "Sarrainodu [2016] WEB-DL [Hindi] | Full Movie",
+    "im": "olXLUc36dmYFdZrU7UkC3DeADfv",
+    "bgi": "bBn8pi9uq4fZkJxbMdlEefFgoZj",
+    "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=YDhNo1xK8CzDTUmw6",
+    "year": "2016",
+    "duration": "2h 41m",
+    "rating": "6.4",
+    "genre": "Action,Drama",
+    "description": "Only one man can stop a villain who, backed by his father, brutally murders anyone who gets in the way of his unscrupulous real estate deals.",
+    "type": "movie",
+    "quality": "web-dl",
+    "cast": "Allu Arjun,Rakul Preet Singh,Aadhi Pinisetty,Catherine Tresa,Srikanth"
 },
-
-    
-    {
-    title: 'Sarrainodu (2016) WEB-DL [Hindi] | Full Movie',
-    im: 'olXLUc36dmYFdZrU7UkC3DeADfv',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=YDhNo1xK8CzDTUmw6',
-    link: 'tt5457772'
-    },
-    
-    {
-    title: 'Son of Satyamurthy (2015) WEB-DL [Hindi] | Full Movie',
-    im: 'oQq3FMD952F8Rnu619O2boTK1Do',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=iv7TL87bUcYUUMPa7',
-    link: 'tt4596814'
-    },
-    
-    {
-    title: 'Rudhramadevi (2015) WEB-DL [Hindi] | Full Movie',
-    im: 'i3gFyjzp5qTiFCwxCr1n59Ak6dA',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=kFe2capTmEudsD1dA',
-    link: 'tt2807410'
-    },
-    
+{
+    "title": "Son of Satyamurthy [2015] WEB-DL [Hindi] | Full Movie",
+    "im": "oQq3FMD952F8Rnu619O2boTK1Do",
+    "bgi": "rcbrye7AK0xXJd8QnzYzRB5ByiS",
+    "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=iv7TL87bUcYUUMPa7",
+    "year": "2015",
+    "duration": "2h 42m",
+    "rating": "6.8",
+    "genre": "Drama,Action",
+    "description": "The son of a rich businessman struggles to save his father's wealth after his demise. However, he faces many challenges when he becomes the sole breadwinner of his family.",
+    "type": "movie",
+    "quality": "web-dl",
+    "cast": "Allu Arjun,Upendra,Rajendra Prasad,Prakash Raj,Samantha Ruth Prabhu"
+},
+{
+    "title": "Rudhramadevi [2015] WEB-DL [Hindi] | Full Movie",
+    "im": "i3gFyjzp5qTiFCwxCr1n59Ak6dA",
+    "bgi": "b3wa6Tw3cQax9SdCJa3lPriKnGR",
+    "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=kFe2capTmEudsD1dA",
+    "year": "2015",
+    "duration": "2h 45m",
+    "rating": "5.4",
+    "genre": "History,Action,Drama",
+    "description": "Rudraba, daughter of Ganapatideva, the emperor of the Kakatiya dynasty, was officially designated a son through the ancient Putrika ceremony and given the name Rudradeva so that she could succeed her father after his death. Despite opposition, she became of the most prominent rulers of the Kakatiya dynasty and one of the few ruling queens in Indian history.",
+    "type": "movie",
+    "quality": "web-dl",
+    "cast": "Anushka Shetty,Rana Daggubati,Allu Arjun,Nithya Menen,Catherine Tresa"
+}, 
 {
     "title": "Main Hoon Lucky The Racer - Race Gurram (2014) WEB-DL [Hindi] | Full Movie",
     "im": "4ojbzpHL0wmlnrmlLQGLds6Hwvu",

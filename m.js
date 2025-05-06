@@ -2969,12 +2969,7 @@
 ],
 
     
-    [
-    'title'=> 'Surya The Soldier - Naa Peru Surya, Naa Illu India (2018) WEB-DL [Hindi] | Full Movie',
-    'im'=> 'fHQAy0hHANT8BIRrLAQCfmLwIN4',
-    'dl'=> 'http://qwrqwrqwr.rf.gd/a/a.php?d4=BXiYSQ1PV4h31rTM7',
-    'link'=> 'tt7794524'
-    ],
+
     
 [
     "title": "DJ - Duvvada Jagannadham (2017) WEB-DL [Hindi] | Full Movie",
@@ -2992,73 +2987,7 @@
 ],
 
     
-    [
-    'title'=> 'Sarrainodu (2016) WEB-DL [Hindi] | Full Movie',
-    'im'=> 'olXLUc36dmYFdZrU7UkC3DeADfv',
-    'dl'=> 'http://qwrqwrqwr.rf.gd/a/a.php?d4=YDhNo1xK8CzDTUmw6',
-    'link'=> 'tt5457772'
-    ],
+
+
     
-    [
-    'title'=> 'Son of Satyamurthy (2015) WEB-DL [Hindi] | Full Movie',
-    'im'=> 'oQq3FMD952F8Rnu619O2boTK1Do',
-    'dl'=> 'http://qwrqwrqwr.rf.gd/a/a.php?d4=iv7TL87bUcYUUMPa7',
-    'link'=> 'tt4596814'
-    ],
-    
-    [
-    'title'=> 'Rudhramadevi (2015) WEB-DL [Hindi] | Full Movie',
-    'im'=> 'i3gFyjzp5qTiFCwxCr1n59Ak6dA',
-    'dl'=> 'http://qwrqwrqwr.rf.gd/a/a.php?d4=kFe2capTmEudsD1dA',
-    'link'=> 'tt2807410'
-    ],
-    
-[
-    "title": "Main Hoon Lucky The Racer - Race Gurram (2014) WEB-DL [Hindi] | Full Movie",
-    "im": "4ojbzpHL0wmlnrmlLQGLds6Hwvu",
-    "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=FCNee1xo7fXF54ww5",
-    "link": "tt3142764",
-    "year": "2014",
-    "duration": "152 min",
-    "rating": "7.1",
-    "genre": "Action, Comedy, Drama",
-    "description": "Lucky, a man with an adventurous spirit, and his brother are caught in a race with powerful enemies. He must use his wit and courage to overcome challenges and protect his loved ones in this action-packed journey.",
-    "type": "movie",
-    "quality": "web-dl",
-    "cast": "Allu Arjun, Shruti Haasan, Ravi Kishan"
-],
-    
-    [
-    'title'=> 'Dangerous Khiladi 2 - Iddarammayilatho (2013) WEB-DL [Hindi] | Full Movie',
-    'im'=> 'bsh8YdNxq66oH0MvJFd7hjlq6Fq',
-    'dl'=> 'http://qwrqwrqwr.rf.gd/a/a.php?d4=Nk9po3sh32VG2to37',
-    'link'=> 'tt2714622'
-    ],
-    
-    [
-    'title'=> 'Dangerous Khiladi - Julayi (2012) WEB-DL [Hindi] | Full Movie',
-    'im'=> 'tIUBifudyRCKhF1utslaDoDRteW',
-    'dl'=> 'http://qwrqwrqwr.rf.gd/a/a.php?d4=yZytzQrjHKTG4eKcA',
-    'link'=> 'tt2330927'
-    ],
-    
-    [
-    'title'=> 'Antim Faisla - Vedam (2010) WEB-DL [Hindi] | Full Movie',
-    'im'=> 'fwozjObCQSZsGdUw0dJXJSdEocj',
-    'dl'=> 'http://qwrqwrqwr.rf.gd/a/a.php?d4=TRmGoh6X9yE5knMc9',
-    'link'=> 'tt1649431'
-    ],
-    
-    [
-    'title'=> 'Ek Aur Rakshak - Varudu (2010) WEB-DL [Hindi] | Full Movie',
-    'im'=> 'b9vJOQal3MfSVdoIoo9hcpsF23P',
-    'dl'=> 'http://qwrqwrqwr.rf.gd/a/a.php?d4=vSzh1wizyjoKV3ao8',
-    'link'=> 'tt1582637'
-    ],
-    
-    [
-    'title'=> 'Arya 2 Ek Deewana (2009) WEB-DL [Hindi] | Full Movie',
-    'im'=> 'kjbbx8kV6pNhNXX9aRsVDwyEJbm',
-    'dl'=> 'http://qwrqwrqwr.rf.gd/a/a.php?d4=nKpcEeoZ3waVPUvb7',
-    'link'=> 'tt1526323'
-    ]
+

@@ -120,6 +120,34 @@ const movies = [
     "cast": "Will Smith,Charlize Theron,Jason Bateman,Jae Head,Eddie Marsan"
 },
 {
+    "title": "Godzilla vs. Kong [2021] WEB-DL [Hindi + English] | Full Movie",
+    "im": "pgqgaUx1cJb5oZQQ5v0tNARCeBp",
+    "bgi": "inJjDhCjfhh3RtrJWBmmDqeuSYC",
+    "dl": "https://pixeldrain.net/api/file/e3K2PtNE?download",
+    "year": "2021",
+    "duration": "1h 54m",
+    "rating": "7.6",
+    "genre": "Action,Science Fiction,Adventure,",
+    "description": "In a time when monsters walk the Earth, humanity’s fight for its future sets Godzilla and Kong on a collision course that will see the two most powerful forces of nature on the planet collide in a spectacular battle for the ages.",
+    "type": "movie",
+    "quality": "web-dl",
+    "cast": "Alexander Skarsgård,Rebecca Hall,Kaylee Hottle,Brian Tyree Henry,Millie Bobby Brown"
+},
+{
+    "title": "12th Fail [2023] WEB-DL [Hindi + English] | Full Movie",
+    "im": "eebUPRI4Z5e1Z7Hev4JZAwMIFkX",
+    "bgi": "6RV2o8PBCEyw9ylOWViV1CtULIF",
+    "dl": "https://pixeldrain.net/api/file/sq1eYcsU?download",
+    "year": "2023",
+    "duration": "2h 26m",
+    "rating": "8.0",
+    "genre": "Drama,",
+    "description": "Based on the true story of IPS officer Manoj Kumar Sharma, 12th Fail sheds limelight on fearlessly embracing the idea of restarting the academic journey despite the setbacks and challenges and reclaiming one's destiny at a place where millions of students attempt the world's toughest competitive exam: UPSC.",
+    "type": "movie",
+    "quality": "web-dl",
+    "cast": "Vikrant Massey,Medha Shankr,Anant Joshi,Anshumaan Pushkar,Priyanshu Chatterjee"
+},
+{
     "title": "The Next 365 Days [2022] WEB-DL [Hindi + English] | Full Movie",
     "im": "5r9RI0IqztfZJ4C4uSdyoiFYvOB",
     "bgi": "6cpRpfD3isvluFwXDGSiDVyibPJ",

@@ -78,7 +78,7 @@ const movies = [
     "cast": "Will Smith,Mena Massoud,Naomi Scott,Marwan Kenzari,Navid Negahban"
 },
 {
-    "title": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan [2006] WEB-DL [Hindi + English] | Full Movie",
+    "title": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan [2006] WEB-DL [English] | Full Movie",
     "im": "kfkyALfD4G1mlBJI1lOt2QCra4i",
     "bgi": "kt0Ku4cTQUZe4KyZiWC6HsWCbcS",
     "dl": "https://pixeldrain.net/api/file/q8ALz5uL?download",
@@ -92,7 +92,7 @@ const movies = [
     "cast": "Sacha Baron Cohen,Ken Davitian,Luenell,Pamela Anderson,Bob Barr"
 },
 {
-    "title": "Hitch [2005] WEB-DL [English] | Full Movie",
+    "title": "Hitch [2005] WEB-DL [Hindi + English] | Full Movie",
     "im": "x3W9H3nhGQbWSlyI8Amp2F6Z6cz",
     "bgi": "fmDYTtZZQHLBAvvqgdXItqMXBNG",
     "dl": "https://pixeldrain.net/api/file/jnWjbodt?download",

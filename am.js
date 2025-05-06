@@ -19,7 +19,21 @@ const movies = [
     },
     
     */
-
+    {
+        "title": "Thunderbolts* [2025] PRE-HD [Hindi] | Full Movie",
+        "im": "1top0ND4DFGNvCdl0TwPl7Tv7sB",
+        "bgi": "3Ym8diDGcHqtsTSo53xwiWJk38U",
+        "dl": "https://pixeldrain.net/api/file/eCwrCqf2?download",
+        "link": "tt20969586",
+        "year": "2025",
+        "duration": "105 min",
+        "rating": "7.3",
+        "genre": "Action, Adventure, Superhero",
+        "description": "The Thunderbolts, a team of anti-heroes, are tasked with saving the world from a new and dangerous threat. Will they be able to overcome their own demons to succeed?",
+        "type": "movie",
+        "quality": "pre-hd",
+        "cast": "Florence Pugh, Sebastian Stan, Wyatt Russell, David Harbour"
+    },
     {
         "title": "Peaky Blinders [Season 2] [Episode 3] WEB-DL [Hindi + English]",
         "im": "m4JPtC3gWUsq0GlfNK3SdgkL9XG",
@@ -265,21 +279,6 @@ const movies = [
         "type": "movie",
         "quality": "pre-hd",
         "cast": "Rajeev Khandelwal, Nivetha Pethuraj, Sandeep Goyat"
-    },
-    {
-        "title": "Thunderbolts* [2025] HDCAM [Hindi] | Full Movie",
-        "im": "1top0ND4DFGNvCdl0TwPl7Tv7sB",
-        "bgi": "3Ym8diDGcHqtsTSo53xwiWJk38U",
-        "dl": "https://pixeldrain.net/api/file/drAXR6Uy?download",
-        "link": "tt20969586",
-        "year": "2025",
-        "duration": "105 min",
-        "rating": "7.3",
-        "genre": "Action, Adventure, Superhero",
-        "description": "The Thunderbolts, a team of anti-heroes, are tasked with saving the world from a new and dangerous threat. Will they be able to overcome their own demons to succeed?",
-        "type": "movie",
-        "quality": "hd-cam",
-        "cast": "Florence Pugh, Sebastian Stan, Wyatt Russell, David Harbour"
     },
         {
             "title": "Batman: The Dark Knight [2008] BluRay [Hindi + English] | Full Movie",

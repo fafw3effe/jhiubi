@@ -92,7 +92,7 @@ const movies = [
     "cast": "Sacha Baron Cohen,Ken Davitian,Luenell,Pamela Anderson,Bob Barr"
 },
 {
-    "title": "Hitch [2005] WEB-DL [Hindi + English] | Full Movie",
+    "title": "Hitch [2005] WEB-DL [English] | Full Movie",
     "im": "x3W9H3nhGQbWSlyI8Amp2F6Z6cz",
     "bgi": "fmDYTtZZQHLBAvvqgdXItqMXBNG",
     "dl": "https://pixeldrain.net/api/file/jnWjbodt?download",
@@ -134,7 +134,7 @@ const movies = [
     "cast": "Alexander Skarsgård,Rebecca Hall,Kaylee Hottle,Brian Tyree Henry,Millie Bobby Brown"
 },
 {
-    "title": "12th Fail [2023] WEB-DL [Hindi + English] | Full Movie",
+    "title": "12th Fail [2023] WEB-DL [Hindi] | Full Movie",
     "im": "eebUPRI4Z5e1Z7Hev4JZAwMIFkX",
     "bgi": "6RV2o8PBCEyw9ylOWViV1CtULIF",
     "dl": "https://pixeldrain.net/api/file/sq1eYcsU?download",
@@ -232,7 +232,7 @@ const movies = [
     "cast": "Suraj Sharma,Irrfan Khan,Ayush Tandon,Gautam Belur,Adil Hussain"
 },
 {
-    "title": "Dry Day [2023] WEB-DL [Hindi + English] | Full Movie",
+    "title": "Dry Day [2023] WEB-DL [Hindi] | Full Movie",
     "im": "lse7qPwWpYi0bdjmjrXfam7KpXg",
     "bgi": "oweut3EYuRba00Xv0o0G6JUrLua",
     "dl": "https://pixeldrain.net/api/file/GvaJqjHk?download",
@@ -246,7 +246,7 @@ const movies = [
     "cast": "Jitendra Kumar,Shriya Pilgaonkar,Annu Kapoor,Shrikant Verma,Jagdish Rajpurohit"
 },
 {
-    "title": "Driver Jamuna [2022] UNCUT WEB-DL [Hindi + English] | Full Movie",
+    "title": "Driver Jamuna [2022] UNCUT WEB-DL [Hindi] | Full Movie",
     "im": "cev24xOOl5BFPgKOZCCREkTVW8w",
     "bgi": "sakfYi9HqLeLkDYggOtMuayqmlQ",
     "dl": "https://pixeldrain.net/api/file/qvuzrDDY?download",

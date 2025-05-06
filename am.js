@@ -3480,8 +3480,7 @@ const movies = [
         "description": "A group of friends are forcibly transported to a village and kept imprisoned, as the village head, who believes that they have helped in his daughter's elopement with her lover.",
         "type": "movie",
         "quality": "web-dl",
-        "cast": "Allu Arjun,Prakash Raj,Sheela Kaur,Sunil Varma,Saptagiri",
-        "release_date": "May 1, 2008"
+        "cast": "Allu Arjun,Prakash Raj,Sheela Kaur,Sunil Varma,Saptagiri"
     },
     {
         "title": "Dum - Happy [2006] WEB-DL [Hindi] | Full Movie",
@@ -3495,8 +3494,7 @@ const movies = [
         "description": "A politician refrains his daughter from finishing college as it would affect his politics. He decides to get her married to a police officer of the same caste, but things don't go as planned.",
         "type": "movie",
         "quality": "web-dl",
-        "cast": "Allu Arjun,Genelia D&#39;Souza,Manoj Bajpayee,Brahmanandam,Kishore",
-        "release_date": "January 27, 2006"
+        "cast": "Allu Arjun,Genelia D&#39;Souza,Manoj Bajpayee,Brahmanandam,Kishore"
     },
     {
         "title": "Arya Ki Prem Pratigya [2004] WEB-DL [Hindi] | Full Movie",
@@ -3510,7 +3508,6 @@ const movies = [
         "description": "Aarya is a happy-go-lucky young man who goes to college. When he falls in love with Geetha at first sight, he proposes to her - in front of her boyfriend Ajay, who recently also proposed to her. She bluntly refuses, but ...",
         "type": "movie",
         "quality": "web-dl",
-        "cast": "Allu Arjun,Anuradha Mehta,Siva Balaji,Subbaraju,Sunil Varma",
-        "release_date": "May 7, 2004"
+        "cast": "Allu Arjun,Anuradha Mehta,Siva Balaji,Subbaraju,Sunil Varma"
     }
     ];

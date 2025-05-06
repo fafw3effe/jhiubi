@@ -38,7 +38,7 @@ const movies = [
         "title": "Peaky Blinders [Season 2] [Episode 3] WEB-DL [Hindi + English]",
         "im": "m4JPtC3gWUsq0GlfNK3SdgkL9XG",
         "bgi": "4aSJfYZlhbNB15GurAQZNsyDADI",
-        "dl": "https://pub-ed0ca22af5c04301b7abe9dac4aaf9bc.r2.dev/Peaky.Blinders.S02.E03.720p.BluRay.Hindi.2.0-English.2.0.ESub.x264-HDHub4u.Ms.mkv",
+        "dl": "https://pixeldrain.net/api/file/839RBbDJ?download",
         "link": "tt2442560",
         "year": "2014",
         "duration": "58 min",
@@ -146,6 +146,34 @@ const movies = [
     "type": "movie",
     "quality": "web-dl",
     "cast": "Vikrant Massey,Medha Shankr,Anant Joshi,Anshumaan Pushkar,Priyanshu Chatterjee"
+},
+{
+    "title": "Pokemon: The First Movie [1998] WEB-DL [Hindi + English] | Full Movie",
+    "im": "xPW3AeK3iQi1Zd9dCbdNLijE48o",
+    "bgi": "eA0qc5ihjSKG05tdJO4QPgYPAwY",
+    "dl": "https://pixeldrain.net/api/file/GAx92hvD?download",
+    "year": "1998",
+    "duration": "1h 25m",
+    "rating": "6.9",
+    "genre": "Animation,Family,Adventure,Fantasy,Action,",
+    "description": "Determined to prove its superiority, a bio-engineered Pokémon called Mewtwo lures Ash, Pikachu and others into a Pokemon match like none before.",
+    "type": "movie",
+    "quality": "web-dl",
+    "cast": "Rica Matsumoto,Ikue Otani,Mayumi Izuka,Satomi Korogi,Yuji Ueda"
+},
+{
+    "title": "Final Destination 5 [2011] WEB-DL [Hindi + English] | Full Movie",
+    "im": "Akx1Po4ZLetOWfYJhQf75tbhTtK",
+    "bgi": "zhFOEVvwyJjGsAqf31FF3H9OXlH",
+    "dl": "https://pixeldrain.net/api/file/wszcBzMH?download",
+    "year": "2011",
+    "duration": "1h 31m",
+    "rating": "6.1",
+    "genre": "Horror,Mystery,",
+    "description": "Death is just as omnipresent as ever, and is unleashed after one man’s premonition saves a group of coworkers from a terrifying suspension bridge collapse. But this group of unsuspecting souls was never supposed to survive, and, in a terrifying race against time, the ill-fated group frantically tries to discover a way to escape Death’s sinister agenda.",
+    "type": "movie",
+    "quality": "web-dl",
+    "cast": "Nicholas D&#39;Agosto,Emma Bell,Miles Fisher,Courtney B. Vance,David Koechner"
 },
 {
     "title": "The Next 365 Days [2022] WEB-DL [Hindi + English] | Full Movie",

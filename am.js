@@ -3432,42 +3432,76 @@ const movies = [
     "quality": "web-dl",
     "cast": "Allu Arjun, Shruti Haasan, Ravi Kishan"
 },
-    
-    {
-    title: 'Dangerous Khiladi 2 - Iddarammayilatho (2013) WEB-DL [Hindi] | Full Movie',
-    im: 'bsh8YdNxq66oH0MvJFd7hjlq6Fq',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=Nk9po3sh32VG2to37',
-    link: 'tt2714622'
-    },
-    
-    {
-    title: 'Dangerous Khiladi - Julayi (2012) WEB-DL [Hindi] | Full Movie',
-    im: 'tIUBifudyRCKhF1utslaDoDRteW',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=yZytzQrjHKTG4eKcA',
-    link: 'tt2330927'
-    },
-    
-    {
-    title: 'Antim Faisla - Vedam (2010) WEB-DL [Hindi] | Full Movie',
-    im: 'fwozjObCQSZsGdUw0dJXJSdEocj',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=TRmGoh6X9yE5knMc9',
-    link: 'tt1649431'
-    },
-    
-    {
-    title: 'Ek Aur Rakshak - Varudu (2010) WEB-DL [Hindi] | Full Movie',
-    im: 'b9vJOQal3MfSVdoIoo9hcpsF23P',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=vSzh1wizyjoKV3ao8',
-    link: 'tt1582637'
-    },
-    
-    {
-    title: 'Arya 2 Ek Deewana (2009) WEB-DL [Hindi] | Full Movie',
-    im: 'kjbbx8kV6pNhNXX9aRsVDwyEJbm',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=nKpcEeoZ3waVPUvb7',
-    link: 'tt1526323'
-    },
-    
+{
+    "title": "Dangerous Khiladi 2 - Iddarammayilatho [2013] WEB-DL [Hindi] | Full Movie",
+    "im": "bsh8YdNxq66oH0MvJFd7hjlq6Fq",
+    "bgi": "jqB9jaE6TMY57ytJN8BTuoPKZm6",
+    "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=Nk9po3sh32VG2to37",
+    "year": "2013",
+    "duration": "2h 18m",
+    "rating": "5.7",
+    "genre": "Action,Romance",
+    "description": "A young woman becomes embroiled in a financial and political conspiracy while studying in Spain, as she meets a young musician with a somewhat dark past unfolded through the pages of his lover's diary.",
+    "type": "movie",
+    "quality": "web-dl",
+    "cast": "Allu Arjun,Amala Paul,Catherine Tresa,Brahmanandam,Tanikella Bharani"
+},
+{
+    "title": "Dangerous Khiladi - Julayi [2012] WEB-DL [Hindi] | Full Movie",
+    "im": "tIUBifudyRCKhF1utslaDoDRteW",
+    "bgi": "pOgMpSV1zu062aRzxErHchcqb4a",
+    "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=yZytzQrjHKTG4eKcA",
+    "year": "2012",
+    "duration": "2h 40m",
+    "rating": "6.4",
+    "genre": "Action,Comedy,Crime",
+    "description": "An intelligent young man and a timid cop team up to catch a criminal who wants revenge after a foiled bank robbery.",
+    "type": "movie",
+    "quality": "web-dl",
+    "cast": "Allu Arjun,Sonu Sood,Rajendra Prasad,Ileana D&#39;Cruz,Tanikella Bharani"
+},
+{
+    "title": "Antim Faisla - Vedam [2010] WEB-DL [Hindi] | Full Movie",
+    "im": "fwozjObCQSZsGdUw0dJXJSdEocj",
+    "bgi": "vFAmcANdub9TGiZehHtVQwINiFi",
+    "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=TRmGoh6X9yE5knMc9",
+    "year": "2010",
+    "duration": "2h 21m",
+    "rating": "7.3",
+    "genre": "Drama,Action",
+    "description": "Five people from varied strata of society \u2013 a slum dweller who works as a cable operator, a runaway prostitute, a desperate woman drowning in debt, a rising musician, and a grief-stricken Muslim man \u2013 end up together in the same hospital, at a time when it is attacked by terrorists.",
+    "type": "movie",
+    "quality": "web-dl",
+    "cast": "Nagayya,Manchu Manoj,Allu Arjun,Anushka Shetty,Manoj Bajpayee"
+},
+{
+    "title": "Ek Aur Rakshak - Varudu [2010] WEB-DL [Hindi] | Full Movie",
+    "im": "b9vJOQal3MfSVdoIoo9hcpsF23P",
+    "bgi": "",
+    "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=vSzh1wizyjoKV3ao8",
+    "year": "2010",
+    "duration": "2h 27m",
+    "rating": "3.6",
+    "genre": "Action",
+    "description": "A soon to-be married bride is abducted by a man who is obsessed with her.",
+    "type": "movie",
+    "quality": "web-dl",
+    "cast": "Allu Arjun,Arya,Bhanu Sri Mehra,Suhasini Maniratnam,Sayaji Shinde"
+},
+{
+    "title": "Arya 2 Ek Deewana [2009] WEB-DL [Hindi] | Full Movie",
+    "im": "kjbbx8kV6pNhNXX9aRsVDwyEJbm",
+    "bgi": "zqrIgwPXi4qg2sJPEB0vvGtgCiz",
+    "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=nKpcEeoZ3waVPUvb7",
+    "year": "2009",
+    "duration": "2h 35m",
+    "rating": "6.8",
+    "genre": "Action,Comedy,Romance",
+    "description": "Two young boys staying together at an orphanage become friends. One of them is adopted by a wealthy family and grows up to become the owner of a software company. He provides employment for his friend, but when they both fall in love with the same young woman, conflict emerges.",
+    "type": "movie",
+    "quality": "web-dl",
+    "cast": "Allu Arjun,Navdeep,Kajal Agarwal,Brahmanandam,Mukesh Rishi"
+},  
     {
         "title": "Veertaa The Power - Parugu [2008] WEB-DL [Hindi] | Full Movie",
         "im": "3RYvVIZyNfYI6DRdljL42hA8zMr",

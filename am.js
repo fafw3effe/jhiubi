@@ -3293,19 +3293,33 @@ const movies = [
     "quality": "blu-Ray",
     "cast": "Ryan Reynolds, Morena Baccarin, T.J. Miller"
 },
-    
     {
-    title: 'X-Men: Apocalypse (2016) BluRay [Hindi-English] | Full Movie',
-    im: 'ikA8UhYdTGpqbatFa93nIf6noSr',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=z12yKTGsdq7DHgkK6',
-    link: 'tt3438826'
-    },
-    
+        "title": "X-Men: Apocalypse [2016] BluRay [Hindi-English] | Full Movie",
+        "im": "ikA8UhYdTGpqbatFa93nIf6noSr",
+        "bgi": "2ex2beZ4ssMeOduLD0ILzXKCiep",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=z12yKTGsdq7DHgkK6",
+        "year": "2016",
+        "duration": "2h 24m",
+        "rating": "6.5",
+        "genre": "Action,Adventure,Science Fiction,Fantasy",
+        "description": "After the re-emergence of the world's first mutant, world-destroyer Apocalypse, the X-Men must unite to defeat his extinction level plan.",
+        "type": "movie",
+        "quality": "bluray",
+        "cast": "James McAvoy,Michael Fassbender,Jennifer Lawrence,Nicholas Hoult,Oscar Isaac"
+    }    
     {
-    title: 'Logan (2017) BluRay [Hindi-English] | Full Movie',
-    im: 'fnbjcRDYn6YviCcePDnGdyAkYsB',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=iuD8GEtRVZBz2rGc8',
-    link: 'tt3315342'
+        "title": "Logan [2017] BluRay [Hindi-English] | Full Movie",
+        "im": "fnbjcRDYn6YviCcePDnGdyAkYsB",
+        "bgi": "9X7YweCJw3q8Mcf6GadxReFEksM",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=iuD8GEtRVZBz2rGc8",
+        "year": "2017",
+        "duration": "2h 17m",
+        "rating": "7.8",
+        "genre": "Action,Drama,Science Fiction",
+        "description": "In the near future, a weary Logan cares for an ailing Professor X in a hideout on the Mexican border. But Logan's attempts to hide from the world and his legacy are upended when a young mutant arrives, pursued by dark forces.",
+        "type": "movie",
+        "quality": "bluray",
+        "cast": "Hugh Jackman,Dafne Keen,Patrick Stewart,Elizabeth Rodriguez,Boyd Holbrook"
     },
     
 {

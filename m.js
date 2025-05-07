@@ -2866,32 +2866,3 @@
     'link'=> 'tt3438826'
     ],
     
-    [
-    'title'=> 'Logan (2017) BluRay [Hindi-English] | Full Movie',
-    'im'=> 'fnbjcRDYn6YviCcePDnGdyAkYsB',
-    'dl'=> 'http://qwrqwrqwr.rf.gd/a/a.php?d4=iuD8GEtRVZBz2rGc8',
-    'link'=> 'tt3315342'
-    ],
-    
-[
-    "title": "Deadpool 2 (2018) BluRay [Hindi-English] | Full Movie",
-    "im": "to0spRl1CMDvyUbOnbb4fTk3VAd",
-    "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=crni6yr2SEaxZ65a9",
-    "link": "tt5463162",
-    "year": "2018",
-    "duration": "119 min",
-    "rating": "7.7",
-    "genre": "Action, Adventure, Comedy",
-    "description": "Deadpool forms the X-Force team to protect a young mutant from the powerful Cable. Together, they must take on a new set of dangerous foes and navigate complex challenges in this action-packed sequel.",
-    "type": "movie",
-    "quality": "blu-Ray",
-    "cast": "Ryan Reynolds, Josh Brolin, Morena Baccarin"
-],
-
-    
-    [
-    'title'=> 'X-Men: Dark Phoenix (2019) BluRay [Hindi-English] | Full Movie',
-    'im'=> 'kZv92eTc0Gg3mKxqjjDAM73z9cy',
-    'dl'=> 'http://qwrqwrqwr.rf.gd/a/a.php?d4=84Q9jx7ZaWeW4nfH8',
-    'link'=> 'tt6565702'
-    ],

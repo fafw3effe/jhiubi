@@ -2497,25 +2497,44 @@ const movies = [
     },
     
     {
-    title:'Stranger Things (S04-VOL 1 & 2) WEB-DL [Hindi DD5.1 & English] | [ALL Episodes] | NetFlix Series',
+    title:'Stranger Things [Season 4] [VOL 1-2]  WEB-DL [Hindi + English] | All Episodes',
     im:'5xiUqrCFgT6wU2KzynZMu5CXkM6',
     dl:'https://hubcloud.bz/drive/sv6s9gnbssawnrn',
-    link: 'tt4574334'
-    },
+    "bgi": "2MaumbgBlW1NoPo3ZJO38A6v7OS",
+    "year": "2016",
+    "duration": "1h",
+    "rating": "8.6",
+    "genre": "Drama,Sci-Fi & Fantasy,Mystery,",
+    "description": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+    "type": "series",
+    "cast": "Millie Bobby Brown,Finn Wolfhard,Gaten Matarazzo,Caleb McLaughlin,David Harbour"    },
     
     {
-    title:'Better Call Saul (Season 6) BluRay [Hindi (ORG 2.0) & English 5.1] [x264/10Bit-HEVC] | [ALL Episodes] | TVSeries',
+    title:'Better Call Saul [Season 6] BluRay [Hindi + English] | All Episodes',
     im:'rbNc44otT6VRd7QpxqlUAMyByaQ',
     dl:'https://vcloud.lol/2m14fjjkjgss5gr',
-    link: 'tt3032476'
+    "bgi": "hPea3Qy5Gd6z4kJLUruBbwAH8Rm",
+    "year": "2015",
+    "duration": "1h",
+    "rating": "8.7",
+    "genre": "Crime,Drama,",
+    "description": "Six years before Saul Goodman meets Walter White. We meet him when the man who will become Saul Goodman is known as Jimmy McGill, a small-time lawyer searching for his destiny, and, more immediately, hustling to make ends meet. Working alongside, and, often, against Jimmy, is “fixer” Mike Ehrmantraut. The series tracks Jimmy’s transformation into Saul Goodman, the man who puts “criminal” in “criminal lawyer".",
+    "type": "series",
+    "cast": "Bob Odenkirk,Jonathan Banks,Rhea Seehorn,Patrick Fabian,Michael Mando"
     },
     
     {
-    title:'Attack on Titan (Season 4) WEB-DL [Hindi (ORG 2.0) & English] [x264/ESubs] | ALL Episodes',
+    title:'Attack on Titan [Season 4] WEB-DL [Hindi + English] | All Episodes',
     im:'sfbSjGlLHsvFQrMUSNR9RrwZgV1',
     dl:'https://vcloud.lol/bbd7u7qsb3bxdip',
-    link: 'tt2560140'
-    },
+    "bgi": "aok7IhrbA83josNz9Dqh8tNA0Ao",
+    "year": "2013",
+    "duration": "1h",
+    "rating": "8.7",
+    "genre": "Animation,Sci-Fi & Fantasy,Action & Adventure,",
+    "description": "Many years ago, the last remnants of humanity were forced to retreat behind the towering walls of a fortified city to escape the massive, man-eating Titans that roamed the land outside their fortress. Only the heroic members of the Scouting Legion dared to stray beyond the safety of the walls – but even those brave warriors seldom returned alive. Those within the city clung to the illusion of a peaceful existence until the day that dream was shattered, and their slim chance at survival was reduced to one horrifying choice: kill – or be devoured!",
+    "type": "series",
+    "cast": "Yuki Kaji,Yui Ishikawa,Marina Inoue,Kisho Taniyama,Hiro Shimono"    },
     
     {
         "title": "Breaking Bad [Season 5] BluRay [Hindi + English] [HEVC] | ALL Episodes",
@@ -2548,26 +2567,44 @@ const movies = [
     },
     
     {
-    title:'The Glass Dome (Season 1) WEB-DL [Hindi (DD 5.1) & English] | NetFlix Series',
+    title:'The Glass Dome [Season 1] WEB-DL [Hindi + English] | All Episodes',
     im:'yn4PIMnXJ42lObinYtmIvQ9lVtm',
     dl:'https://hubcloud.bz/drive/jr6pts3f6bnrvt8',
-    link: 'tt30750108'
-    },
+    "bgi": "w8NsengOrWLapYBVutr52gwWMio",
+    "year": "2025",
+    "duration": "1h",
+    "rating": "7.2",
+    "genre": "Drama,Crime,Mystery,",
+    "description": "When her friend's daughter goes missing, criminologist Lejla joins the search — and must confront the haunting trauma of her own childhood abduction.",
+    "type": "series",
+    "cast": "Leonie Vincent,Johan Hedenberg,Johan Rheborg,Ia Langhammer,Cecilia Nilsson"    },
     
     {
     title:'House Of The Dragon [Season 2] [All Episodes] WEB-DL [Hindi + English] [HEVC] | Full Series',
     im:'xhjADf5sslq7lbRjc50FgvIYIkT',
     dl:'https://hubcloud.bz/drive/20xgmqxb0j1290n',
-    link: 'tt11198330'
-    },
+    "bgi": "etj8E2o0Bud0HkONVQPjyCkIvpv",
+    "year": "2022",
+    "duration": "1h",
+    "rating": "8.3",
+    "genre": "Sci-Fi & Fantasy,Drama,Action & Adventure,",
+    "description": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+    "type": "series",
+    "cast": "Matt Smith,Fabien Frankel,Emma D&#39;Arcy,Steve Toussaint,Olivia Cooke"    },
     
     {
     title:'Game of Thrones [Season 8] [All Episodes] BluRay [Hindi + English] [HEVC] | All Episodes',
     im:'259Q5FuaD3TNB7DGauTaJVRC8XV',
     "bgi": "aGehSaCUVfWFSu953kuo6BsyZVw",
     dl:'https://hubcloud.bz/drive/hf_7dvp1xqf_f17',
-    link: 'tt0944947'
-    },
+    "bgi": "zZqpAXxVSBtxV9qPBcscfXBcL2w",
+    "year": "2011",
+    "duration": "1h",
+    "rating": "8.5",
+    "genre": "Sci-Fi & Fantasy,Drama,Action & Adventure,",
+    "description": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+    "type": "series",
+    "cast": "Kit Harington,Isaac Hempstead Wright,Iain Glen,Peter Dinklage,Nikolaj Coster-Waldau"    },
     
     {
         "title": "The Last Stop in Yuma County [2023] BluRay [Hindi [DD2.0] & English] [HEVC] | Full Movie",

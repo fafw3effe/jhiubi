@@ -24,7 +24,7 @@ const movies = [
         "title": "Last Bullet [2025] WEB-DL [Hindi + English] | Full Movie",
         "im": "gO33EBU7JHd6xBjT62XMt61KoqX",
         "bgi": "1ikqGTVjXA9wkDsESVVzpLP8H1r",
-        "dl": "https://pub-ed0ca22af5c04301b7abe9dac4aaf9bc.r2.dev/Last.Bullet.2025.WEB-DL.720p.Hindi.English.AAC.5.1.x264.MSubs.Vegamovies.is.mkv",
+        "dl": "https://pixeldrain.net/api/file/Bw5f4tVt?download",
         "year": "2025",
         "duration": "1h 51m",
         "rating": "7.0",

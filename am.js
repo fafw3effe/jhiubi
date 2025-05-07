@@ -2455,24 +2455,46 @@ const movies = [
     },
     
     {
-    title:'I (2015) UNCUT [Hindi-Tamil] | Full Movie ',
-    im:'p3VfrFVUmR9A8NFeXPxg9pFYdpv',
-    dl:'https://fastdlserver.lol/?id=VlphNFB0QlM1Qytwb1dvV3QxSmVBR1BMeFZLcVlxNVhlZ1NRbVhRSDFmVURDdElsMzBiN1dPU3NPQ3prdzc3Sg==&type=file',
-    link: 'tt2302966'
+        "title": "I [2015] UNCUT [Hindi-Tamil] | Full Movie ",
+        "im": "p3VfrFVUmR9A8NFeXPxg9pFYdpv",
+        "bgi": "sg3ZE3N6fgBueQWQnxK5fP4XhCj",
+        "dl": "https://fastdlserver.lol/?id=VlphNFB0QlM1Qytwb1dvV3QxSmVBR1BMeFZLcVlxNVhlZ1NRbVhRSDFmVURDdElsMzBiN1dPU3NPQ3prdzc3Sg==&type=file",
+        "year": "2015",
+        "duration": "2h 50m",
+        "rating": "6.7",
+        "genre": "Thriller,Action,Romance",
+        "description": "A deformed hunchback kidnaps a bride and holds her hostage while his connection to her and his targets is revealed in a series of flashbacks that unfold as he starts seeking revenge.",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "Vikram,Amy Jackson,Suresh Gopi,Upen Patel,Ramkumar Ganesan"
     },
-    
     {
-    title:'Crazxy (2025) WEB-DL [Hindi DD5.1] [HEVC] | Full Movie [Aamzon Prime Video]',
-    im:'nWxEtbryAPP7gI0TtNYejoAUJlr',
-    dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Crazxy.2025.720p.HEVC.Hindi.WEB-DL.5.1.ESub.x265-HDHub4u.Ms.mkv',
-    link: 'tt30798612'
+        "title": "Crazxy [2025] WEB-DL [Hindi DD5.1] [HEVC] | Full Movie [Aamzon Prime Video]",
+        "im": "nWxEtbryAPP7gI0TtNYejoAUJlr",
+        "bgi": "iDJ0ljbQsqld29cQXxQ76qT9dgT",
+        "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Crazxy.2025.720p.HEVC.Hindi.WEB-DL.5.1.ESub.x265-HDHub4u.Ms.mkv",
+        "year": "2025",
+        "duration": "1h 34m",
+        "rating": "5.0",
+        "genre": "Thriller",
+        "description": "A renowned surgeon, Abhimanyu Sood is carrying \u20b95 crores for a hush hush settlement that will save him from going to jail, when he gets a chilling phone call\u2014his 16-year-old daughter, Vedica, has been kidnapped. The ransom? The exact amount he is carrying right now. Is this even a real kidnapping\u2014or an elaborate trap?",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "Sohum Shah,Tinnu Anand,Nimisha Sajayan,Unnati Surana,Shilpa Shukla"
     },
-    
     {
-    title:'Rule of the Game: Human Hunting (2021) WEB-DL [Hindi (DD 2.0) & English] [HEVC] | Full Movie',
-    im:'7UVfaDT27IZWby255AeKk0vOcyL',
-    dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Rule.of.the.Game.Human.Hunting.2021.720p.10Bit.WEB-DL.Hindi.2.0-English.HEVC.x265-HDHub4u.Ms.mkv',
-    link: 'tt32150254'
+        "title": "Rule of the Game: Human Hunting [2021] WEB-DL [Hindi [DD 2.0] & English] [HEVC] | Full Movie",
+        "im": "7UVfaDT27IZWby255AeKk0vOcyL",
+        "bgi": "mTB7H4ceABGSubuKF1RbJClwBNl",
+        "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Rule.of.the.Game.Human.Hunting.2021.720p.10Bit.WEB-DL.Hindi.2.0-English.HEVC.x265-HDHub4u.Ms.mkv",
+        "year": "2021",
+        "duration": "1h 24m",
+        "rating": "4.0",
+        "genre": "Thriller",
+        "description": "Jeong-hwan who has a secret past, faces another group of tourists on a remote island he visited to clean up his past.  In the guest house where everyone stays together, Jeong-hwan feels a strange atmosphere alone and is wary of the guest house\u2019s owner and finds himself as their target.  The moment he managed to escape from a dangerous situation, he struggles against another mysterious existence.  As soon as he dig up the dangerous secrets of the island, the pursuit of madness begins!",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "Kim Sung-su,Jo Kyung-hoon,Seo Yeong,Kim Se-hee"
     },
     
     {
@@ -2483,34 +2505,60 @@ const movies = [
     },
     
     {
-    title:'Tron: Legacy (2010) BluRay [Hindi (DD5.1) & English] [HEVC] | Full Movie',
-    im:'8PWiwMBccJ67Ng7STjJSgr92qSJ',
-    dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/TRON.Legacy.2010.720p.HEVC.BluRay.Hindi.2.0-English.HEVC.x265-HDHub4u.Ms.mkv',
-    link: 'tt1104001'
-    
+        "title": "Tron: Legacy [2010] BluRay [Hindi [DD5.1] & English] [HEVC] | Full Movie",
+        "im": "8PWiwMBccJ67Ng7STjJSgr92qSJ",
+        "bgi": "kBrHv277DUIpecde9JL6V0xBg61",
+        "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/TRON.Legacy.2010.720p.HEVC.BluRay.Hindi.2.0-English.HEVC.x265-HDHub4u.Ms.mkv",
+        "year": "2010",
+        "duration": "2h 6m",
+        "rating": "6.5",
+        "genre": "Adventure,Action,Science Fiction",
+        "description": "Sam Flynn, the tech-savvy and daring son of Kevin Flynn, investigates his father's disappearance and is pulled into The Grid. With the help of a mysterious program named Quorra, Sam quests to stop evil dictator Clu from crossing into the real world.",
+        "type": "movie",
+        "quality": "bluray",
+        "cast": "Garrett Hedlund,Olivia Wilde,Jeff Bridges,Bruce Boxleitner,James Frain"
     },
-    
     {
-    title:'Bhoothakaalam (2022) [Hindi - HQ/Studio Dub] WEB-DL [HEVC] | Full Movie [Without-ADs]',
-    im:'8yF6A2dwzgHaR3XnO6jdhTsJ9Jp',
-    dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Bhoothakaalam.2022.720p.HEVC.WEB-DL.Hindi-HQ.Studio.Dub.x265-HDHub4u.Ms.mkv',
-    link: 'tt15560626'
-    
+        "title": "Bhoothakaalam [2022] [Hindi - HQ/Studio Dub] WEB-DL [HEVC] | Full Movie [Without-ADs]",
+        "im": "8yF6A2dwzgHaR3XnO6jdhTsJ9Jp",
+        "bgi": "qaRAlt903g3SD7g4PDGnDPUrVrc",
+        "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Bhoothakaalam.2022.720p.HEVC.WEB-DL.Hindi-HQ.Studio.Dub.x265-HDHub4u.Ms.mkv",
+        "year": "2022",
+        "duration": "1h 45m",
+        "rating": "6.5",
+        "genre": "Thriller,Mystery,Horror",
+        "description": "Following the death of a family member, a mother and son experience mysterious events which distort their sense of reality and make them question their sanity.",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "Shane Nigam,Revathi,Saiju Kurup,James Eliya,Athira Patel"
     },
-    
     {
-    title:'Robinhood (2025) PRE-HD Dual Audio [Hindi (LQ Dub) - Telugu 2.0] | Full Movie',
-    im:'zeH5oAM1A3zgXbvQ3L9GiDs3ldQ',
-    dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Robinhood.2025.PRE-HD.Hindi.LQ.Dub.+.Telugu.720p.x264.AVC.2.0.Vegamovies.is.mkv',
-    link: 'tt27171077'
+        "title": "Robinhood [2025] PRE-HD Dual Audio [Hindi [LQ Dub] - Telugu 2.0] | Full Movie",
+        "im": "zeH5oAM1A3zgXbvQ3L9GiDs3ldQ",
+        "bgi": "yNuLB4Bqv1m8QAwd3WuBwIznErn",
+        "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Robinhood.2025.PRE-HD.Hindi.LQ.Dub.+.Telugu.720p.x264.AVC.2.0.Vegamovies.is.mkv",
+        "year": "2025",
+        "duration": "2h 30m",
+        "rating": "5.5",
+        "genre": "Action",
+        "description": "Ram, a modern-day Robin Hood, is a master thief who unexpectedly finds himself switching sides. When fate forces him to become the personal security officer for Neera, a rollercoaster ride of action, comedy, and unexpected twists follows.",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "Nithiin,Sreeleela,Vennela Kishore,Rajendra Prasad,Ketika Sharma"
     },
-    
-    
     {
-    title: 'Test (2025) WEB-DL [Hindi (DD5.1) & Tamil] [HEVC] | Full Movie',
-    im:'8jZaBr3dTIW8N4D6F4Cprssfm7V',
-    dl: 'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/TEST.2025.720p.HEVC.WEB-DL.Hindi.2.0-Tamil.2.0.ESub.x265-HDHub4u.Ms.mkv', 
-    link: 'tt27477888'
+        "title": "Test [2025] WEB-DL [Hindi [DD5.1] & Tamil] [HEVC] | Full Movie",
+        "im": "8jZaBr3dTIW8N4D6F4Cprssfm7V",
+        "bgi": "eExaW68UXzJMDQP9Ekyc3wn9h1Z",
+        "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/TEST.2025.720p.HEVC.WEB-DL.Hindi.2.0-Tamil.2.0.ESub.x265-HDHub4u.Ms.mkv",
+        "year": "2025",
+        "duration": "2h 26m",
+        "rating": "5.2",
+        "genre": "Drama,Thriller",
+        "description": "The worlds of three ordinary people converge during a historic cricket match, ultimately forcing them to make life-altering decisions.",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "R. Madhavan,Nayanthara,Siddharth,Meera Jasmine,Kaali Venkat"
     },
     
     {

@@ -1571,7 +1571,7 @@ const movies = [
         {
             "title": "Disco Raja [2020] WEB-DL UNCUT [Hindi - HQ/Studio Dub] [HEVC] | Full Movie",
             "im": "cT0BUuzJJ9jvQD79Po7v7vGjdQH",
-            "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d10=xVNITBPR6g",
+            "dl": "https://f.pptons.com/b.php?d=xVNITBPR6g",
             "link": "tt9664732",
             "year": "2020",
             "duration": "130 min",
@@ -2890,7 +2890,7 @@ const movies = [
     {
     title:'The Waking of a Nation (Season 1) WEB-DL [Hindi DD5.1] [ESubs] | ALL Episodes [SonyLiv Series]',
     im:'nJYPeMgrywL5jdQc9f3QD3Fujo8',
-    dl:'http://qwrqwrqwr.rf.gd/a/a.php?d10=rlXoTzk8C4',
+    dl:'https://f.pptons.com/b.php?d=rlXoTzk8C4',
     "bgi": "dSjx3PL2cmsBGDXXd3jkhNOsqBc",
     "year": "2025",
     "duration": "1h",
@@ -3016,7 +3016,7 @@ const movies = [
     {
         "title": "Karma (Season 1) WEB-DL [Hindi (DD5.1) & English] NetFlix Series | ALL Episodes",
         "im": "2G99FfWYCAdsmAIZO8zGFjcDidY",
-        "dl": "https://qwrqwrqwr.rf.gd/a/a.php?d10=6U9HaVwhcK",
+        "dl": "https://f.pptons.com/b.php?d=6U9HaVwhcK",
         "link": "tt29921070",
         "year": "2025",
         "duration": "45 min per episode",
@@ -3030,7 +3030,7 @@ const movies = [
     {
         "title": "The Gardener (Season 1) WEB-DL [Hindi (DD 5.1) & English] | NetFlix Series",
         "im": "l2Fy8vvr27vbYJOPe49EfVd5Qli",
-        "dl": "https://qwrqwrqwr.rf.gd/a/a.php?d10=Xx4hmDIJqs",
+        "dl": "https://f.pptons.com/b.php?d=Xx4hmDIJqs",
         "link": "tt30494784",
         "year": "2025",
         "duration": "50 min per episode",
@@ -3044,7 +3044,7 @@ const movies = [
     {
         "title": "The Legend of Hanuman (Season 6) WEB-DL [Hindi DD5.1] | ALL Episodes [JioHotStar Series]",
         "im": "kqA6PqHflS1JNI8kRVXczSLywYx",
-        "dl": "https://qwrqwrqwr.rf.gd/a/a.php?d10=Eoj1z8CcNK",
+        "dl": "https://f.pptons.com/b.php?d=Eoj1z8CcNK",
         "link": "tt13854248",
         "year": "2025",
         "duration": "30 min per episode",

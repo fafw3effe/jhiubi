@@ -252,7 +252,7 @@ function updatePagination() {
 }
 
 // Modal functions
-// Modal functions
+
 function openModal(movie) {
     const modal = document.getElementById('movieModal');
     const modalPoster = document.getElementById('modalPoster');
@@ -267,6 +267,10 @@ function openModal(movie) {
     const modalDescription = document.getElementById('modalDescription');
     
     const modalImage = movie.bgi || movie.im;
+    
+    // Update URL to show post ID
+    const newUrl = `${window.location.pathname}?post=${movie.id}`;
+    history.pushState({ movieId: movie.id }, '', newUrl);
     
     // Always show poster initially
     modalPoster.style.display = 'block';
@@ -339,6 +343,114 @@ function openModal(movie) {
     
     modal.style.display = 'block';
     document.body.style.overflow = 'hidden';
+}
+
+function closeModal() {
+    const modal = document.getElementById('movieModal');
+    const videoPlayer = document.getElementById('videoPlayer');
+    
+    const video = videoPlayer.querySelector('video');
+    if (video) {
+        video.pause();
+    }
+    
+    // Restore original URL when closing modal
+    const params = new URLSearchParams(window.location.search);
+    params.delete('post');
+    const newUrl = `${window.location.pathname}${params.toString() ? '?' + params.toString() : ''}`;
+    history.pushState({}, '', newUrl);
+    
+    videoPlayer.innerHTML = '';
+    modal.style.display = 'none';
+    document.body.style.overflow = 'auto';
+}
+
+// Update the popstate handler to close modal when back button is pressed
+window.addEventListener('popstate', function(event) {
+    const params = new URLSearchParams(window.location.search);
+    
+    if (!params.has('post')) {
+        // If URL doesn't have post parameter, close the modal
+        closeModal();
+    } else {
+        // If URL has post parameter, open the corresponding movie
+        const movieId = params.get('post');
+        const movie = movies.find(m => m.id == movieId);
+        if (movie) {
+            openModal(movie);
+        }
+    }
+    
+    // Handle regular search/pagination state
+    const searchParams = getUrlParams();
+    currentPage = searchParams.page;
+    document.getElementById('searchInput').value = searchParams.search;
+    displayMovies();
+    updatePagination();
+});
+
+// Update getUrlParams to also get post ID
+function getUrlParams() {
+    const params = new URLSearchParams(window.location.search);
+    return {
+        search: params.get('s') || '',
+        page: parseInt(params.get('p')) || 1,
+        post: params.get('post') || null
+    };
+}
+
+function closeModal() {
+    const modal = document.getElementById('movieModal');
+    const videoPlayer = document.getElementById('videoPlayer');
+    
+    const video = videoPlayer.querySelector('video');
+    if (video) {
+        video.pause();
+    }
+    
+    // Restore original URL when closing modal
+    const params = new URLSearchParams(window.location.search);
+    params.delete('post');
+    const newUrl = `${window.location.pathname}${params.toString() ? '?' + params.toString() : ''}`;
+    history.pushState({}, '', newUrl);
+    
+    videoPlayer.innerHTML = '';
+    modal.style.display = 'none';
+    document.body.style.overflow = 'auto';
+}
+
+// Update the popstate handler to close modal when back button is pressed
+window.addEventListener('popstate', function(event) {
+    const params = new URLSearchParams(window.location.search);
+    
+    if (!params.has('post')) {
+        // If URL doesn't have post parameter, close the modal
+        closeModal();
+    } else {
+        // If URL has post parameter, open the corresponding movie
+        const movieId = params.get('post');
+        const movie = movies.find(m => m.id == movieId);
+        if (movie) {
+            openModal(movie);
+        }
+    }
+    
+    // Handle regular search/pagination state
+    const searchParams = getUrlParams();
+    currentPage = searchParams.page;
+    document.getElementById('searchInput').value = searchParams.search;
+    displayMovies();
+    updatePagination();
+});
+
+// Update getUrlParams to also get post ID
+function getUrlParams() {
+    const params = new URLSearchParams(window.location.search);
+    return {
+        search: params.get('s') || '',
+        page: parseInt(params.get('p')) || 1,
+        post: params.get('post') || null
+    };
 }
 
 function closeModal() {

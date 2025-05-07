@@ -289,7 +289,7 @@ function openModal(movie) {
     const titleLower = movie.title.toLowerCase();
     const hideVideoPlayer = titleLower.includes('all episodes') || titleLower.includes('hevc');
     
-    if (movie.dl && !hideVideoPlayer) {
+    if (!movie.dl && !hideVideoPlayer) {
         try {
             videoPlayer.innerHTML = `
             <video controls preload="metadata"

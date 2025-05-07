@@ -26,7 +26,7 @@ const movies = [
         "bgi": "1ikqGTVjXA9wkDsESVVzpLP8H1r",
         "dl": "https://pub-ed0ca22af5c04301b7abe9dac4aaf9bc.r2.dev/Last.Bullet.2025.720p.NF.WEB-DL.DUAL.DDP5.1.H265-Vegamovies.is.mkv",
         "year": "2025",
-        "duration": "",
+        "duration": "1h 51m",
         "rating": "7.0",
         "genre": "Action,Crime,Thriller,",
         "description": "Car genius Lino returns to conclude his vendetta against Areski and the corrupt commander who ruined their lives in this turbo-charged trilogy finale.",

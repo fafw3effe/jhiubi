@@ -36,7 +36,7 @@ const movies = [
     },
     
 {
-    "title": "Kesari Chapter 2: The Untold Story of Jallianwala Bagh [2025] WEB-DL [Hindi + English] | Full Movie",
+    "title": "Kesari Chapter 2: The Untold Story of Jallianwala Bagh [2025] WEB-DL [Hindi] | Full Movie",
     "im": "jgGSqe1YgSot6Y1zDVTVkbsZ46z",
     "bgi": "pr4MeBoEU5ZHgsmL18uAgTXws5A",
     "dl": "https://pixeldrain.net/api/file/BM6nYdgp?download",

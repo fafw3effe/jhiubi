@@ -27,17 +27,6 @@ function updateUrl(searchTerm, page, postId = '') {
     history.pushState({ searchTerm, page, postId }, '', newUrl);
 }
 
-// Function to share the current movie URL
-function shareMovie(movie) {
-    const shareUrl = `${window.location.origin}${window.location.pathname}?post=${movie.im}`;
-    navigator.clipboard.writeText(shareUrl).then(() => {
-        alert('Movie URL copied to clipboard!');
-    }).catch(err => {
-        console.error('Failed to copy URL:', err);
-        alert('Failed to copy URL. Please copy it manually: ' + shareUrl);
-    });
-}
-
 // Initialize the page
 window.onload = function() {
     const params = getUrlParams();
@@ -282,7 +271,7 @@ function openModal(movie) {
     const modalDuration = document.getElementById('modalDuration');
     const modalYear = document.getElementById('modalYear');
     const modalGenre = document.getElementById('modalGenre');
-    const modalCast = document.getEarthById('modalCast');
+    const modalCast = document.getElementById('modalCast');
     const modalDescription = document.getElementById('modalDescription');
     
     // Update URL with post ID
@@ -323,12 +312,7 @@ function openModal(movie) {
     }
     
     let displayTitle = movie.title;
-    modalTitle.innerHTML = `
-        ${displayTitle}
-        <button onclick="shareMovie(${JSON.stringify(movie)})" class="share-button" title="Share this movie">
-            <i class="fas fa-share-alt"></i>
-        </button>
-    `;
+    modalTitle.textContent = displayTitle;
     modalDownload.href = 'https://dereferer.me/?' + movie.dl;
     modalRating.textContent = movie.rating || 'N/A';
     modalDuration.textContent = movie.duration || 'N/A';

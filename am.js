@@ -2419,17 +2419,30 @@ const movies = [
     },
     
     {
-    title:'Dragon Ball Z: Kai [Season 7] [All Episodes] WEB-DL [Hindi + English + Japanese]',
+    title:'Dragon Ball Z: Kai [Season 7] WEB-DL [Hindi + English + Japanese] | All Episodes',
     im:'je57jXdeWeJO9tGoWSJi4MCuXbN',
     dl:'https://vcloud.lol/uib74yjuj3j73c1',
-    link: 'tt1409055'
-    },
+    "bgi": "oz5zbMBKCUsb7hsbjdxvK8yagPD",
+    "year": "2009",
+    "duration": "1h",
+    "rating": "7.5",
+    "genre": "Sci-Fi & Fantasy,Animation,Action & Adventure,Comedy,",
+    "description": "Rejoin Goku and his friends in a series of cosmic battles! Toei has redubbed, recut, and cleaned up the animation of the original 1989 animated series. The show's story arc has been refined to better follow the comic book series on which it is based. The show also features a new opening and ending. In the series, martial artist Goku, and his various friends, battle increasingly powerful enemies to defend the world against evil. Can Earth's defender defeat demons, aliens, and other villains?",
+    "type": "series",
+    "cast": "Masako Nozawa,Joji Yanami,Mayumi Tanaka,Ryo Horikawa,Toshio Furukawa"    },
     
     {
-    title:'Jujutsu Kaisen [Season 2] [All Episodes] WEB-DL [Hindi + English + Japanese]',
+    title:'Jujutsu Kaisen [Season 2] WEB-DL [Hindi + English + Japanese] | All Episodes',
     im:'lUWSkuen0Vu9Xnn1r1SPcucx60e',
     dl:'https://vcloud.lol/hrlhr5dh-qyyimy',
-    link: 'tt12343534'
+    "bgi": "gmECX1DvFgdUPjtio2zaL8BPYPu",
+    "year": "2020",
+    "duration": "1h",
+    "rating": "8.6",
+    "genre": "Animation,Action & Adventure,Sci-Fi & Fantasy,",
+    "description": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
+    "type": "series",
+    "cast": "Junya Enoki,Yuichi Nakamura,Yuma Uchida,Asami Seto,Takahiro Sakurai"
     },
     
     {

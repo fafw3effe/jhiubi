@@ -19,6 +19,35 @@ const movies = [
     },
     
     */
+
+    {
+        "title": "Kesari Chapter 2: The Untold Story of Jallianwala Bagh [2025] WEB-Dl [Hindi] | Full Movie",
+        "im": "jgGSqe1YgSot6Y1zDVTVkbsZ46z",
+        "bgi": "wNjkO9GLk8pVAJFImQaxyn1vIaK",
+        "dl": "https://pixeldrain.net/api/file/BM6nYdgp?download",
+        "link": "tt3562110",
+        "year": "2025",
+        "duration": "125 min",
+        "rating": "7.7",
+        "genre": "History, Drama, War",
+        "description": "The untold story of the Jallianwala Bagh massacre, and the subsequent impact on India's fight for independence. The untold sacrifices of the unsung heroes of this event unfold.",
+        "type": "movie",
+        "quality": "web-dl"
+    },
+    {
+        "title": "Peaky Blinders [Season 2] [Episode 4] WEB-DL [Hindi + English]",
+        "im": "m4JPtC3gWUsq0GlfNK3SdgkL9XG",
+        "bgi": "4aSJfYZlhbNB15GurAQZNsyDADI",
+        "dl": "https://pixeldrain.net/api/file/2fGYnYyf?download",
+        "year": "2014",
+        "duration": "58 min",
+        "rating": "8.8",
+        "genre": "Crime, Drama",
+        "description": "A notorious gang in 1919 Birmingham, England, is led by the fierce Tommy Shelby, a crime boss set on moving up in the world no matter the cost.",
+        "type": "series",
+        "quality": "web-dl",
+        "cast": "Cillian Murphy, Sam Neill, Helen McCrory"
+    },
 {
     "title": "The Divorce Insurance [Season 1] [Episode 12] WEB-DL [Hindi + English]",
     "im": "6HAbRWYkX3bouEeHA4bjsUxznKC",
@@ -1521,19 +1550,6 @@ const movies = [
             "description": "The latest episode of Solo Leveling features intense battles, as the protagonist continues to face powerful enemies in the dungeon. The stakes get higher as new alliances and rivalries emerge.",
             "type": "series",
             "quality": "webdl hevc"
-        },
-        {
-            "title": "Kesari Chapter 2: The Untold Story of Jallianwala Bagh [2025] HQ-HDTC [Hindi-LiNE] [HEVC] | Full Movie",
-            "im": "jgGSqe1YgSot6Y1zDVTVkbsZ46z",
-            "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Kesari-Chapter-2.2025.720p.HEVC.HDTC.Hindi-Line.HC-ESub.x265-HDHub4u.Ms.mkv",
-            "link": "tt3562110",
-            "year": "2025",
-            "duration": "125 min",
-            "rating": "7.7",
-            "genre": "History, Drama, War",
-            "description": "The untold story of the Jallianwala Bagh massacre, and the subsequent impact on India's fight for independence. The untold sacrifices of the unsung heroes of this event unfold.",
-            "type": "movie",
-            "quality": "hq-hdtc hevc"
         },
         {
             "title": "Kesari [2019] WEB-DL [Hindi] [HEVC] | Full Movie",

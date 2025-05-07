@@ -21,13 +21,27 @@ const movies = [
     */
 
     {
+        "title": "Theevram [2012] WEB-DL [Hindi + English] | Full Movie",
+        "im": "8wlcX2ZKomm2bfTZkl84WZ3T3pt",
+        "bgi": "eu77hdChwNXIzEfLaw3ixrAbrLZ",
+        "dl": "https://pixeldrain.net/api/file/nt97KEN4?download",
+        "year": "2012",
+        "duration": "2h 15m",
+        "rating": "6.6",
+        "genre": "Crime,Action,Thriller,",
+        "description": "Harsha Vardhan is out to avenge his wife's murder. But it will be a tough job when Alexander, the police officer of the city, is very cautious of what is happening around.",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "Dulquer Salmaan,Sreenivasan,Shikha Nair,Anu Mohan,Vishnu Raghav"
+    },
+    {
         "title": "Last Bullet [2025] WEB-DL [Hindi + English] | Full Movie",
         "im": "gO33EBU7JHd6xBjT62XMt61KoqX",
         "bgi": "1ikqGTVjXA9wkDsESVVzpLP8H1r",
         "dl": "https://pixeldrain.net/api/file/Bw5f4tVt?download",
         "year": "2025",
         "duration": "1h 51m",
-        "rating": "7.0",
+        "rating": "9.0",
         "genre": "Action,Crime,Thriller,",
         "description": "Car genius Lino returns to conclude his vendetta against Areski and the corrupt commander who ruined their lives in this turbo-charged trilogy finale.",
         "type": "movie",

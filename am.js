@@ -34,20 +34,21 @@ const movies = [
         "quality": "web-dl",
         "cast": "Alban Lenoir,Stéfi Celma,Nicolas Duvauchelle,Anne Serra,Gérard Lanvin"
     },
-    {
-        "title": "Kesari Chapter 2: The Untold Story of Jallianwala Bagh [2025] WEB-Dl [Hindi] | Full Movie",
-        "im": "jgGSqe1YgSot6Y1zDVTVkbsZ46z",
-        "bgi": "wNjkO9GLk8pVAJFImQaxyn1vIaK",
-        "dl": "https://pixeldrain.net/api/file/BM6nYdgp?download",
-        "link": "tt3562110",
-        "year": "2025",
-        "duration": "125 min",
-        "rating": "7.7",
-        "genre": "History, Drama, War",
-        "description": "The untold story of the Jallianwala Bagh massacre, and the subsequent impact on India's fight for independence. The untold sacrifices of the unsung heroes of this event unfold.",
-        "type": "movie",
-        "quality": "web-dl"
-    },
+    
+{
+    "title": "Kesari Chapter 2: The Untold Story of Jallianwala Bagh [2025] WEB-DL [Hindi + English] | Full Movie",
+    "im": "jgGSqe1YgSot6Y1zDVTVkbsZ46z",
+    "bgi": "pr4MeBoEU5ZHgsmL18uAgTXws5A",
+    "dl": "https://pixeldrain.net/api/file/BM6nYdgp?download",
+    "year": "2025",
+    "duration": "2h 15m",
+    "rating": "6.6",
+    "genre": "Drama,History,",
+    "description": "A dramatization of the life story of C. Sankaran Nair, the lawyer who fought for the truth behind the Jallianwala Bagh massacre.",
+    "type": "movie",
+    "quality": "web-dl",
+    "cast": "Akshay Kumar,R. Madhavan,Ananya Panday,Mark Bennington,Sammy Jonas Heaney"
+},
     {
         "title": "Peaky Blinders [Season 2] [Episode 4] WEB-DL [Hindi + English]",
         "im": "m4JPtC3gWUsq0GlfNK3SdgkL9XG",

@@ -2428,24 +2428,46 @@ const movies = [
     },
     
     {
-    title:'Deadpool & Wolverine (2024) BluRay [Hindi (ORG 5.1) & English] [HEVC] | Full Movie',
-    im:'xl6sgxa4entJS0aOWX0bPAlEn8',
-    dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Deadpool.&.Wolverine.2024.720p.HEVC.BluRay.Hindi.5.1-English.ESub.x265-HDHub4u.Tv.mkv',
-    link: 'tt6263850'
+        "title": "I [2015] UNCUT [Hindi-Tamil] | Full Movie ",
+        "im": "p3VfrFVUmR9A8NFeXPxg9pFYdpv",
+        "bgi": "sg3ZE3N6fgBueQWQnxK5fP4XhCj",
+        "dl": "https://fastdlserver.lol/?id=VlphNFB0QlM1Qytwb1dvV3QxSmVBR1BMeFZLcVlxNVhlZ1NRbVhRSDFmVURDdElsMzBiN1dPU3NPQ3prdzc3Sg==&type=file",
+        "year": "2015",
+        "duration": "2h 50m",
+        "rating": "6.7",
+        "genre": "Thriller,Action,Romance",
+        "description": "A deformed hunchback kidnaps a bride and holds her hostage while his connection to her and his targets is revealed in a series of flashbacks that unfold as he starts seeking revenge.",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "Vikram,Amy Jackson,Suresh Gopi,Upen Patel,Ramkumar Ganesan"
     },
-    
     {
-    title:'Mahadev Ka Gorakhpur (2024) WEB-DL Hindi (DD2.0) [HEVC] | Full Movie',
-    im:'60gqcDlQjCnjdWQAyJTBRXDsrvh',
-    dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Mahadev.Ka.Gorakhpur.2024.720p.HEVC.Hindi.WEB-DL.2.0.ESub.x265-HDHub4u.Ms.mkv',
-    link: 'tt23864668'
+        "title": "Crazxy [2025] WEB-DL [Hindi DD5.1] [HEVC] | Full Movie [Aamzon Prime Video]",
+        "im": "nWxEtbryAPP7gI0TtNYejoAUJlr",
+        "bgi": "iDJ0ljbQsqld29cQXxQ76qT9dgT",
+        "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Crazxy.2025.720p.HEVC.Hindi.WEB-DL.5.1.ESub.x265-HDHub4u.Ms.mkv",
+        "year": "2025",
+        "duration": "1h 34m",
+        "rating": "5.0",
+        "genre": "Thriller",
+        "description": "A renowned surgeon, Abhimanyu Sood is carrying \u20b95 crores for a hush hush settlement that will save him from going to jail, when he gets a chilling phone call\u2014his 16-year-old daughter, Vedica, has been kidnapped. The ransom? The exact amount he is carrying right now. Is this even a real kidnapping\u2014or an elaborate trap?",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "Sohum Shah,Tinnu Anand,Nimisha Sajayan,Unnati Surana,Shilpa Shukla"
     },
-    
     {
-    title:'Ram Setu (2022) WEB-DL [Hindi DD5.1] [HEVC] ESubs | Full Movie',
-    im:'qLkSBwLwuHTqdWHg43u2Pn7pEMQ',
-    dl:'https://pixeldrain.net/api/file/Rj7Z3QyL?download',
-    link: 'tt11783766'
+        "title": "Rule of the Game: Human Hunting [2021] WEB-DL [Hindi [DD 2.0] & English] [HEVC] | Full Movie",
+        "im": "7UVfaDT27IZWby255AeKk0vOcyL",
+        "bgi": "mTB7H4ceABGSubuKF1RbJClwBNl",
+        "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Rule.of.the.Game.Human.Hunting.2021.720p.10Bit.WEB-DL.Hindi.2.0-English.HEVC.x265-HDHub4u.Ms.mkv",
+        "year": "2021",
+        "duration": "1h 24m",
+        "rating": "4.0",
+        "genre": "Thriller",
+        "description": "Jeong-hwan who has a secret past, faces another group of tourists on a remote island he visited to clean up his past.  In the guest house where everyone stays together, Jeong-hwan feels a strange atmosphere alone and is wary of the guest house\u2019s owner and finds himself as their target.  The moment he managed to escape from a dangerous situation, he struggles against another mysterious existence.  As soon as he dig up the dangerous secrets of the island, the pursuit of madness begins!",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "Kim Sung-su,Jo Kyung-hoon,Seo Yeong,Kim Se-hee"
     },
     
     {
@@ -2466,7 +2488,14 @@ const movies = [
     title:'The Last of Us (Season 2) WEB-DL [Hindi (DD2.0) & English] [HEVC] | HBO Series | Episode 1',
     im:'dmo6TYuuJgaYinXBPjrgG9mB5od',
     dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/The.Last.of.Us.S02E01.720p.10Bit.WEB-DL.Hindi.2.0-English.HEVC.x265-HDHub4u.Ms.mkv',
-    link: 'tt3581920'
+    "bgi": "lY2DhbA7Hy44fAKddr06UrXWWaQ",
+    "year": "2023",
+    "duration": "",
+    "rating": "8.6",
+    "genre": "Drama,",
+    "description": "Twenty years after modern civilization has been destroyed, Joel, a hardened survivor, is hired to smuggle Ellie, a 14-year-old girl, out of an oppressive quarantine zone. What starts as a small job soon becomes a brutal, heartbreaking journey, as they both must traverse the United States and depend on each other for survival.",
+    "type": "series",
+    "cast": "Pedro Pascal,Bella Ramsey,Gabriel Luna,Isabela Merced,Young Mazino"
     },
     
     {
@@ -2516,7 +2545,14 @@ const movies = [
     title:'The Waking of a Nation (Season 1) WEB-DL [Hindi DD5.1] [ESubs] | ALL Episodes [SonyLiv Series]',
     im:'nJYPeMgrywL5jdQc9f3QD3Fujo8',
     dl:'http://qwrqwrqwr.rf.gd/a/a.php?d10=rlXoTzk8C4',
-    link: 'tt15910280'
+    "bgi": "dSjx3PL2cmsBGDXXd3jkhNOsqBc",
+    "year": "2025",
+    "duration": "",
+    "rating": "7.0",
+    "genre": "Drama,",
+    "description": "‘The Waking of a Nation' explores the events surrounding the Jallianwala Bagh massacre through the eyes of Kantilal, a fictitious member of the Hunter Commission. When General Dyer orders his troops to open fire at a gathering in Jallianwala Bagh, Kantilal takes it upon himself, with his life under threat, to uncover the dark conspiracy that led to the massacre.",
+    "type": "series",
+    "cast": "Taaruk Raina,Nikita Dutta,Sahil Mehta,Paul McEwan,Alex Reece"
     },
     
     {
@@ -2580,7 +2616,14 @@ const movies = [
     title: 'Squid Game [Season 1-2] WEB-DL [Hindi (ORG 5.1) & English] [HEVC] | [ALL Episodes] | NetFlix Series',
     im:'caq0z9C2vvKdDhGe1EX6nerswV5',
     dl: 'https://sdfefed.blogspot.com/2025/04/sddfsdfs.html',
-    link: 'tt10919420'
+    "bgi": "2meX1nMdScFOoV4370rqHWKmXhY",
+    "year": "2021",
+    "duration": "",
+    "rating": "7.9",
+    "genre": "Action & Adventure,Mystery,Drama,",
+    "description": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games. Inside, a tempting prize awaits — with deadly high stakes.",
+    "type": "series",
+    "cast": "Lee Jung-jae,Jeon Young-soo,Wi Ha-jun,Park Hae-soo,HoYeon"
     },
     {
         "title": "Pintu Ki Pappi (2025) WEB-DL [Hindi DD2.0] | Full Movie",

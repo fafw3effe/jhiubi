@@ -2433,46 +2433,85 @@ const movies = [
     },
     
     {
-    title:'Demon Slayer: Kimetsu no Yaiba - Swordsmith Village [Season 4] [All Episodes] WEB-DL [Hindi + Japanese]',
+    title:'Demon Slayer: Kimetsu no Yaiba - Swordsmith Village [Season 4] WEB-DL [Hindi + Japanese] | All Episodes',
     im:'6gD7G8HQay1X8mHiFVttWJ3czYb',
     dl:'https://vcloud.lol/p_s1qcjqtt1zmjl',
-    link: 'tt9335498'
-    },
+    "bgi": "3GQKYh6Trm8pxd2AypovoYQf4Ay",
+    "year": "2019",
+    "duration": "1h",
+    "rating": "8.6",
+    "genre": "Animation,Action & Adventure,Sci-Fi & Fantasy,",
+    "description": "It is the Taisho Period in Japan. Tanjiro, a kindhearted boy who sells charcoal for a living, finds his family slaughtered by a demon. To make matters worse, his younger sister Nezuko, the sole survivor, has been transformed into a demon herself. Though devastated by this grim reality, Tanjiro resolves to become a “demon slayer” so that he can turn his sister back into a human, and kill the demon that massacred his family.",
+    "type": "series",
+    "cast": "Natsuki Hanae,Akari Kito,Hiro Shimono,Yoshitsugu Matsuoka,Shinya Takahashi"    },
     
     {
     title:'One Piece: East Blue [Season 1] [Episode 42 - 61] WEB-DL [Hindi + English + Japanese]',
     im:'9hW62RDq5Dno8vLABXscddjEq9M',
     dl:'https://vcloud.lol/dvohztonp0opxoc',
-    link: 'tt0388629'
+    "bgi": "2rmK7mnchw9Xr3XdiTFSxTTLXqv",
+    "year": "1999",
+    "duration": "1h",
+    "rating": "8.7",
+    "genre": "Action & Adventure,Comedy,Animation,",
+    "description": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous One Piece behind. Whoever claims the One Piece will be named the new King of the Pirates.",
+    "type": "series",
+    "cast": "Mayumi Tanaka,Kazuya Nakai,Akemi Okamura,Kappei Yamaguchi,Hiroaki Hirata"
     },
     
     {
     title:'Lucifer [Season 5] [All Episodes] WEB-DL [Hindi + English]',
     im:'uHpfjWUJI2gXQIIxjgAvOZWJORx',
     dl:'https://vcloud.lol/ullultqaqu2wo7o',
-    link: 'tt4052886'
-    },
+    "bgi": "wbiPjTWpZMIB8ffBq7HvzAph4Ft",
+    "year": "2016",
+    "duration": "1h",
+    "rating": "8.4",
+    "genre": "Crime,Sci-Fi & Fantasy,",
+    "description": "Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape.",
+    "type": "series",
+    "cast": "Tom Ellis,Lauren German,Kevin Alejandro,D.B. Woodside,Lesley-Ann Brandt"    },
     
     {
     title:'Money Heist [Season 5] [Vol 2] WEB-DL [Hindi + English] | All Episodes',
     im:'yfYu1UoxsYlRgnkPTIJBt9SjYAL',
     dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=Q41GLaFP&sn=5 - Vol 2&es=Money.Heist.S05.E&e=6&lp=5&el=.720p.WEB-DL.Hindi.5.1-English.ESub.x264-Vegamovies.NL.mkv',
-    link: 'tt6468322'
+    "bgi": "xGexTKCJDkl12dTW4YCBDXWb1AD",
+    "year": "2017",
+    "duration": "1h",
+    "rating": "8.2",
+    "genre": "Crime,Drama,",
+    "description": "To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of them has anything to lose. Five months of seclusion - memorizing every step, every detail, every probability - culminate in eleven days locked up in the National Coinage and Stamp Factory of Spain, surrounded by police forces and with dozens of hostages in their power, to find out whether their suicide wager will lead to everything or nothing.",
+    "type": "series",
+    "cast": "Úrsula Corberó,Itziar Ituño,Álvaro Morte,Pedro Alonso,Miguel Herrán"
     },
     
     {
-    title:'Naruto: Shippuden (Season 9) WEB-DL [Hindi(ORG DD2.0) + English] | [All Episodes]',
+    title:'Naruto: Shippuden [Season 9] WEB-DL [Hindi + English] | All Episodes',
     im:'zIoec9Wa0WtRhwSl9pTrBl9mUOb',
     dl:'https://vcloud.lol/rltugqozqlza1h1',
-    link: 'tt0988824'
+    "bgi": "xuJ0F9RfKvVSJNDg2usurQ9WvY5",
+    "year": "2002",
+    "duration": "1h",
+    "rating": "8.4",
+    "genre": "Animation,Action & Adventure,Sci-Fi & Fantasy,",
+    "description": "Naruto Uzumaki, a mischievous adolescent ninja, struggles as he searches for recognition and dreams of becoming the Hokage, the village's leader and strongest ninja.",
+    "type": "series",
+    "cast": "Junko Takeuchi,Noriaki Sugiyama,Chie Nakamura,Kazuhiko Inoue,Hidekatsu Shibata"
     },
     
     {
-    title:'Naruto (Season 9) WEB-DL [Hindi(ORG DD2.0) + English] | [All Episodes]',
+    title:'Naruto [Season 9] WEB-DL [Hindi + English] | All Episodes',
     im:'xppeysfvDKVx775MFuH8Z9BlpMk',
     dl:'https://vcloud.lol/43v3qd3mz4r2puz',
-    link: 'tt0409591'
-    },
+    "bgi": "xuJ0F9RfKvVSJNDg2usurQ9WvY5",
+    "year": "2002",
+    "duration": "1h",
+    "rating": "8.4",
+    "genre": "Animation,Action & Adventure,Sci-Fi & Fantasy,",
+    "description": "Naruto Uzumaki, a mischievous adolescent ninja, struggles as he searches for recognition and dreams of becoming the Hokage, the village's leader and strongest ninja.",
+    "type": "series",
+    "cast": "Junko Takeuchi,Noriaki Sugiyama,Chie Nakamura,Kazuhiko Inoue,Hidekatsu Shibata"    },
     
     {
         "title": "Captain America: Brave New World [2025] WEB-DL [Hindi [DD5.1] & English] [HEVC] | Full Movie [Amazon Prime Video]",
@@ -2490,11 +2529,17 @@ const movies = [
     },
     
     {
-    title:'Panchayat (Season 3) WEB-DL [Hindi DD5.1] [HEVC] | [All Episodes] | [Amazon Prime Video]',
+    title:'Panchayat [Season 3] WEB-DL [Hindi] | All Episodes',
     im:'vDF2HPy5vuDA4wjnnvh5UdMIzMg',
     dl:'https://hubcloud.bz/drive/cpbo0qqkpbgnuqg',
-    link: 'tt12004706'
-    },
+    "bgi": "iZ8EtGAqKWZdRJPzWfFseNfVxjh",
+    "year": "2024",
+    "duration": "1h",
+    "rating": "8.0",
+    "genre": "Comedy,Drama,",
+    "description": "Panchayat is a comedy-drama, which captures the journey of an engineering graduate Abhishek, who for lack of a better job option joins as secretary of a panchayat office in a remote village of Uttar Pradesh. Stuck between crazy villagers and a difficult village lifestyle Abhishek starts his job with the sole motivation of getting out of there as soon as possible, for which he even prepares for CAT.",
+    "type": "series",
+    "cast": "Jitendra Kumar,Raghubir Yadav,Neena Gupta,Chandan Roy,Faisal Malik"    },
     
     {
     title:'Stranger Things [Season 4] [VOL 1-2]  WEB-DL [Hindi + English] | All Episodes',
@@ -2518,7 +2563,7 @@ const movies = [
     "duration": "1h",
     "rating": "8.7",
     "genre": "Crime,Drama,",
-    "description": "Six years before Saul Goodman meets Walter White. We meet him when the man who will become Saul Goodman is known as Jimmy McGill, a small-time lawyer searching for his destiny, and, more immediately, hustling to make ends meet. Working alongside, and, often, against Jimmy, is “fixer” Mike Ehrmantraut. The series tracks Jimmy’s transformation into Saul Goodman, the man who puts “criminal” in “criminal lawyer".",
+    "description": "Six years before Saul Goodman meets Walter White. We meet him when the man who will become Saul Goodman is known as Jimmy McGill, a small-time lawyer searching for his destiny, and, more immediately, hustling to make ends meet. Working alongside, and, often, against Jimmy, is “fixer” Mike Ehrmantraut. The series tracks Jimmys transformation into Saul Goodman, the man who puts “criminal” in “criminal lawyer.",
     "type": "series",
     "cast": "Bob Odenkirk,Jonathan Banks,Rhea Seehorn,Patrick Fabian,Michael Mando"
     },

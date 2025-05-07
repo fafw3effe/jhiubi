@@ -2475,10 +2475,18 @@ const movies = [
     },
     
     {
-    title:'Captain America: Brave New World (2025) WEB-DL [Hindi (DD5.1) & English] [HEVC] | Full Movie [Amazon Prime Video]',
-    im:'9TFKZfzzsajmmbu0xWY988Kc7D8',
-    dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Captain.America.Brave.New.World.2025.720p.HEVC.WEB-DL.Hindi.2.0-English.HEVC.x265-HDHub4u.Ms.mkv',
-    link: 'tt14513804'
+        "title": "Captain America: Brave New World [2025] WEB-DL [Hindi [DD5.1] & English] [HEVC] | Full Movie [Amazon Prime Video]",
+        "im": "9TFKZfzzsajmmbu0xWY988Kc7D8",
+        "bgi": "8eifdha9GQeZAkexgtD45546XKx",
+        "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Captain.America.Brave.New.World.2025.720p.HEVC.WEB-DL.Hindi.2.0-English.HEVC.x265-HDHub4u.Ms.mkv",
+        "year": "2025",
+        "duration": "1h 59m",
+        "rating": "6.2",
+        "genre": "Action,Thriller,Science Fiction",
+        "description": "After meeting with newly elected U.S. President Thaddeus Ross, Sam finds himself in the middle of an international incident. He must discover the reason behind a nefarious global plot before the true mastermind has the entire world seeing red.",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "Anthony Mackie,Harrison Ford,Danny Ramirez,Shira Haas,Tim Blake Nelson"
     },
     
     {
@@ -2525,10 +2533,18 @@ const movies = [
     },    
     
     {
-    title:'Dil Bechara [2020] WEB-DL [Hindi] [HEVC] | Full Movie',
-    im:'lMFjMrc8Bn0CQhtJDORfspXrWrK',
-    dl:'https://pixeldrain.net/api/file/1TQKFAVC?download',
-    link: 'tt8110330'
+        "title": "Dil Bechara [2020] WEB-DL [Hindi] [HEVC] | Full Movie",
+        "im": "lMFjMrc8Bn0CQhtJDORfspXrWrK",
+        "bgi": "tnwoGCRe2GV05f1RSIl1PusYc9v",
+        "dl": "https://pixeldrain.net/api/file/1TQKFAVC?download",
+        "year": "2020",
+        "duration": "1h 41m",
+        "rating": "6.6",
+        "genre": "Drama,Romance",
+        "description": "Kizie and Manny, two ordinary people brought together by a tragic twist, embark on a bittersweet and extraordinary journey into the heart of that crazy little thing called 'life'.",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "Sushant Singh Rajput,Sanjana Sanghi,Sahil Vaid,Saswata Chatterjee,Swastika Mukherjee"
     },
     
     {
@@ -2554,17 +2570,32 @@ const movies = [
     },
     
     {
-    title:'The Last Stop in Yuma County (2023) BluRay [Hindi (DD2.0) & English] [HEVC] | Full Movie',
-    im:'u6ae2MMh8PpSamO3cIttLM5B18v',
-    dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/The.Last.Stop.in.Yuma.County.2023.720p.10Bit.BluRay.Hindi.2.0-English.HEVC.x265-HDHub4u.Ms.mkv',
-    link: 'tt20247888'
+        "title": "The Last Stop in Yuma County [2023] BluRay [Hindi [DD2.0] & English] [HEVC] | Full Movie",
+        "im": "u6ae2MMh8PpSamO3cIttLM5B18v",
+        "bgi": "xqIstzB0ELbYyfzKcYaSwLb4Whs",
+        "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/The.Last.Stop.in.Yuma.County.2023.720p.10Bit.BluRay.Hindi.2.0-English.HEVC.x265-HDHub4u.Ms.mkv",
+        "year": "2024",
+        "duration": "1h 45m",
+        "rating": "4.8",
+        "genre": "Romance,Drama",
+        "description": "Emmanuelle, a quality controller for a luxury hotel brand, arrives in Hong Kong to evaluate a hotel run by Margot, having been tasked with finding a good reason to sack her. Searching for a lost pleasure, she has numeral sensual experiences inside the hotel, and crosses path with Kei, a mysterious client who she becomes infatuated with.",
+        "type": "movie",
+        "quality": "bluray",
+        "cast": "No\u00e9mie Merlant,Will Sharpe,Jamie Campbell Bower,Chacha Huang,Anthony Wong"
     },
-    
     {
-    title:'Sarkar (2018) [Hindi – HQ/Studio Dub] WEB-DL [HEVC] HD | Full Movie [Without-ADs]',
-    im:'6uF4MtjUuee9CrlzMr4u9bzEz7P',
-    dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Sarkar.2018.720p.HEVC.WEB-DL.Hindi.HQ-Dub.x265-HDHub4u.Tv.mkv',
-    link: 'tt7715202'
+        "title": "Sarkar [2018] [Hindi \u2013 HQ/Studio Dub] WEB-DL [HEVC] HD | Full Movie [Without-ADs]",
+        "im": "6uF4MtjUuee9CrlzMr4u9bzEz7P",
+        "bgi": "dhifkRV8UMaZgE4lS6yIT82n3xt",
+        "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Sarkar.2018.720p.HEVC.WEB-DL.Hindi.HQ-Dub.x265-HDHub4u.Tv.mkv",
+        "year": "2018",
+        "duration": "2h 44m",
+        "rating": "5.8",
+        "genre": "Action,Drama",
+        "description": "NRI corporate Sundar Ramasamy comes to India to vote, only to learn that his vote has already been cast. While he reclaims his right legally, it also sets in motion a chain of events that eventually lead to him entering the political fray, trying to change the system.",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "Vijay,Keerthy Suresh,Varalaxmi Sarathkumar,Prem,Yogi Babu"
     },
     
     {

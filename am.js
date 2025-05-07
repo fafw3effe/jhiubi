@@ -1749,34 +1749,62 @@ const movies = [
             "type": "movie",
             "quality": "bluRay hevc"
         },
-    
-    {
-    title:'Jurassic Park [1993] WEB-DL [Hindi + English] [HEVC] | Full Movie',
-    im:'fjTU1Bgh3KJu4aatZil3sofR2zC',
-    dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Jurassic.Park.1993.720p.BluRay.Hindi.English.DD.5.1.x264.ESubs.mkv',
-    link: 'tt0107290'
-    },
-    
-    {
-    title:'The BatMan [2022] WEB-DL [Hindi + English] [HEVC] | Full Movie',
-    im:'74xTEgt7R36Fpooo50r9T25onhq',
-    dl:'https://pixeldrain.net/api/file/kbDGHAev?download',
-    link: 'tt1877830'
-    },
-    
-    {
-    title:'James Bond: No Time to Die [2021] WEB-DL [Hindi] [HEVC] | Full Movie',
-    im:'iUgygt3fscRoKWCV1d0C7FbM9TP',
-    dl:'https://pub-3b9ee45a75314668a4034b1889e8d9f5.r2.dev/No.Time.To.Die.2021.720p.HEVC.BluRay.Hindi.ORG-English.ESub.x265-Vegamovies.NL.mkv',
-    link: 'tt2382320'
-    },
-    
-    {
-    title:'Mere Husband Ki Biwi [2025] WEB-DL [Hindi] [HEVC] | Full Movie',
-    im:'fQMBYG4JOD6WN8QzViPYqxuIsru',
-    dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Mere.Husband.Ki.Biwi.2025.720p.HEVC.Hindi.WEB-DL.5.1.ESub.x265-HDHub4u.Ms.mkv',
-    link: 'tt22457506'
-    },
+        {
+            "title": "Jurassic Park [1993] WEB-DL [Hindi + English] [HEVC] | Full Movie",
+            "im": "fjTU1Bgh3KJu4aatZil3sofR2zC",
+            "bgi": "2Nhw5RdJXUZlHpbXqImtbvtqjdA",
+            "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Jurassic.Park.1993.720p.BluRay.Hindi.English.DD.5.1.x264.ESubs.mkv",
+            "year": "1993",
+            "duration": "2h 7m",
+            "rating": "8.0",
+            "genre": "Adventure,Science Fiction",
+            "description": "A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.",
+            "type": "movie",
+            "quality": "web-dl",
+            "cast": "Sam Neill,Laura Dern,Jeff Goldblum,Richard Attenborough,Bob Peck"
+        },
+        {
+            "title": "The BatMan [2022] WEB-DL [Hindi + English] [HEVC] | Full Movie",
+            "im": "74xTEgt7R36Fpooo50r9T25onhq",
+            "bgi": "rvtdN5XkWAfGX6xDuPL6yYS2seK",
+            "dl": "https://pixeldrain.net/api/file/kbDGHAev?download",
+            "year": "2022",
+            "duration": "2h 57m",
+            "rating": "7.7",
+            "genre": "Crime,Mystery,Thriller",
+            "description": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
+            "type": "movie",
+            "quality": "web-dl",
+            "cast": "Robert Pattinson,Zo\u00eb Kravitz,Jeffrey Wright,Colin Farrell,Paul Dano"
+        },
+        {
+            "title": "James Bond: No Time to Die [2021] WEB-DL [Hindi] [HEVC] | Full Movie",
+            "im": "iUgygt3fscRoKWCV1d0C7FbM9TP",
+            "bgi": "bz7pwNGCbV576COsDcYN9MbEACC",
+            "dl": "https://pub-3b9ee45a75314668a4034b1889e8d9f5.r2.dev/No.Time.To.Die.2021.720p.HEVC.BluRay.Hindi.ORG-English.ESub.x265-Vegamovies.NL.mkv",
+            "year": "2021",
+            "duration": "2h 43m",
+            "rating": "7.4",
+            "genre": "Action,Thriller,Adventure",
+            "description": "Bond has left active service and is enjoying a tranquil life in Jamaica. His peace is short-lived when his old friend Felix Leiter from the CIA turns up asking for help. The mission to rescue a kidnapped scientist turns out to be far more treacherous than expected, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.",
+            "type": "movie",
+            "quality": "web-dl",
+            "cast": "Daniel Craig,L\u00e9a Seydoux,Rami Malek,Lashana Lynch,Ralph Fiennes"
+        },
+        {
+            "title": "Mere Husband Ki Biwi [2025] WEB-DL [Hindi] [HEVC] | Full Movie",
+            "im": "fQMBYG4JOD6WN8QzViPYqxuIsru",
+            "bgi": "xBV8E2EZltd6uVYbe8ztklJ2pjs",
+            "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Mere.Husband.Ki.Biwi.2025.720p.HEVC.Hindi.WEB-DL.5.1.ESub.x265-HDHub4u.Ms.mkv",
+            "year": "2025",
+            "duration": "2h 22m",
+            "rating": "7.0",
+            "genre": "Drama,Comedy",
+            "description": "A hilarious and heartwarming modern-day romance set in Delhi, where love, fate, and unexpected twists put one man in a chaotic dilemma. Caught between a rekindled spark with Antara and an unexpected twist with Prabhleen, Ankur\u2019s life takes a hilariously unpredictable turn.",
+            "type": "movie",
+            "quality": "web-dl",
+            "cast": "Bhumi Pednekar,Arjun Kapoor,Rakul Preet Singh,Harsh Gujral,Aditya Seal"
+        },
     
     {
     title:'JoJos Bizarre Adventure [Season 1] [Episode 7] WEB-DL [Hindi + English + Japanese] [HEVC]',
@@ -1821,27 +1849,47 @@ const movies = [
     },
     
     {
-    title:'L2: Empuraan [2025] WEB-DL [Hindi + Malayalam + Tamil + Telugu] [HEVC] | Full Movie',
-    im:'rArCWk29zrzOMyItB6AuGWro6DJ',
-    dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/L2-Empuran.2025.720p.HEVC.WEB-DL.Hindi.ORG-Multi.HC-ESub.x265-HDHub4u.Ms.mkv',
-    link: 'tt10505918'
+        "title": "L2: Empuraan [2025] WEB-DL [Hindi + Malayalam + Tamil + Telugu] [HEVC] | Full Movie",
+        "im": "rArCWk29zrzOMyItB6AuGWro6DJ",
+        "bgi": "jYaoVDJ9J6Me3J0EQCABzQ99YVG",
+        "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/L2-Empuran.2025.720p.HEVC.WEB-DL.Hindi.ORG-Multi.HC-ESub.x265-HDHub4u.Ms.mkv",
+        "year": "2025",
+        "duration": "2h 59m",
+        "rating": "6.3",
+        "genre": "Action,Crime,Thriller",
+        "description": "Five years after becoming Chief Minister of Kerala, Jathin Ramdas's move to align with communal forces led by Balraj 'Baba' Bajrangi, triggers Stephen Nedumpally aka Khureshi Ab'raam to return with his Man Friday Zayed Masood to save his home state and settle scores.",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "Mohanlal,Prithviraj Sukumaran,Manju Warrier,Tovino Thomas,Abhimanyu Singh"
     },
-    
     {
-    title:'Fantastic Beasts 3: The Secrets of Dumbledore [2022] WEB-DL [Hindi + English] [HEVC] | Full Movie',
-    im:'3c5GNLB4yRSLBby0trHoA1DSQxQ',
-    dl:'https://pub-1935c4bb964d40cda9ebcc86a1ed7de3.r2.dev/Fantastic%20Beasts%20The%20Secrets%20of%20Dumbledore%202022%20Hindi%20Dubbed%20ORG%205.1%20DD%20[Dual%20Audio]%20720p%2010Bit%20HEVC%20-%20Vegamovies.NL.mkv',
-    link: 'tt4123432'
+        "title": "Fantastic Beasts 3: The Secrets of Dumbledore [2022] WEB-DL [Hindi + English] [HEVC] | Full Movie",
+        "im": "3c5GNLB4yRSLBby0trHoA1DSQxQ",
+        "bgi": "zGLHX92Gk96O1DJvLil7ObJTbaL",
+        "dl": "https://pub-1935c4bb964d40cda9ebcc86a1ed7de3.r2.dev/Fantastic%20Beasts%20The%20Secrets%20of%20Dumbledore%202022%20Hindi%20Dubbed%20ORG%205.1%20DD%20[Dual%20Audio]%20720p%2010Bit%20HEVC%20-%20Vegamovies.NL.mkv",
+        "year": "2022",
+        "duration": "2h 22m",
+        "rating": "6.6",
+        "genre": "Fantasy,Adventure",
+        "description": "Professor Albus Dumbledore knows the powerful, dark wizard Gellert Grindelwald is moving to seize control of the wizarding world. Unable to stop him alone, he entrusts magizoologist Newt Scamander to lead an intrepid team of wizards and witches. They soon encounter an array of old and new beasts as they clash with Grindelwald's growing legion of followers.",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "Eddie Redmayne,Jude Law,Mads Mikkelsen,Ezra Miller,Dan Fogler"
     },
-    
-    
     {
-    title:'Harry Potter and the Deathly Hallows: Part 2 [2011] Blu-Ray [Hindi + English] [HEVC] | Full Movie',
-    im:'c54HpQmuwXjHq2C9wmoACjxoom3',
-    dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Harry.Potter.and.the.Deathly.Hallows.Part.2.2011.720p.10Bit.BluRay.Hindi.2.0-English.HEVC.x265-HDHub4u.Tv.mkv',
-    link: 'tt1201607'
+        "title": "Harry Potter and the Deathly Hallows: Part 2 [2011] Blu-Ray [Hindi + English] [HEVC] | Full Movie",
+        "im": "c54HpQmuwXjHq2C9wmoACjxoom3",
+        "bgi": "n5A7brJCjejceZmHyujwUTVgQNC",
+        "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Harry.Potter.and.the.Deathly.Hallows.Part.2.2011.720p.10Bit.BluRay.Hindi.2.0-English.HEVC.x265-HDHub4u.Tv.mkv",
+        "year": "2011",
+        "duration": "2h 10m",
+        "rating": "8.1",
+        "genre": "Fantasy,Adventure",
+        "description": "Harry, Ron and Hermione continue their quest to vanquish the evil Voldemort once and for all. Just as things begin to look hopeless for the young wizards, Harry discovers a trio of magical objects that endow him with powers to rival Voldemort's formidable skills.",
+        "type": "movie",
+        "quality": "bluray",
+        "cast": "Daniel Radcliffe,Emma Watson,Rupert Grint,Ralph Fiennes,Alan Rickman"
     },
-    
     {
     title:'The Wheel of Time [Season 3] [Episode 8] WEB-DL [Hindi + English] [HEVC] | Amazon Prime Video',
     im:'bJSv3kF8wWmdsXsnTNftfiP8Lik',
@@ -1857,25 +1905,10 @@ const movies = [
     },
     
     {
-    title:'Fight or Flight [2025] WEB-DL [Hindi] [HEVC] | Full Movie',
-    im:'x4nWnfgJvL045rcUCSJzfgIIY9i',
-    dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Fight.or.Flight.2025.720p.10Bit.WEB-DL.Hindi.2.0-English.HEVC.x265-HDHub4u.Ms.mkv',
-    link: 'tt13652286'
-    },
-    
-    {
     title:'La Brea [Season 1] [All Episodes] WEB-DL [Hindi + English] [HEVC] | Full Series',
     im:'A3FwGmVtJn4j8TlpnZ1252K3Ztf',
     dl:'https://hubcloud.bz/drive/zlppbphkkpkppas',
     link: 'tt11640018'
-    },
-    
-    
-    {
-    title:'Peter Pans Neverland Nightmare [2025] WEB-DL [Hindi] [HEVC] | Full Movie',
-    im:'mOR1Ks0EcXocwMV4EPv4letz0F5',
-    dl:'https://broken-boat-70da.wokates6127718.workers.dev/04a1fd1974d3b15b5ec595463d983b0937018ab14eed0a10ba4c408e71fb35df9bdeb9d32db8e6fb9f3546abe3838cdc::964f9b9a792c072626936df4cf50ee60/1397278773/Peter.Pans.Neverland.Nightmare.2025.720p.10Bit.HEVC.Hindi.2.0.Eng.5.1.AAC.x265.ESub.Vegamovies.is.mkv',
-    link: 'tt21955520'
     },
     
     {
@@ -1886,10 +1919,46 @@ const movies = [
     },
     
     {
-    title:'Loveyapa [2025] WEB-DL [Hindi] [HEVC] | Full Movie',
-    im:'ohHiDAwaOo6R1ovMgmUhrBuvknU',
-    dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Loveyapa.2025.720p.HEVC.Hindi.DS4K.WEB-DL.5.1.ESub.x265-HDHub4u.Ms.mkv',
-    link: 'tt25504468'
+        "title": "Fight or Flight [2025] WEB-DL [Hindi] [HEVC] | Full Movie",
+        "im": "x4nWnfgJvL045rcUCSJzfgIIY9i",
+        "bgi": "3ExQ28MVRaBbJFI2br5NjLyXVO1",
+        "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Fight.or.Flight.2025.720p.10Bit.WEB-DL.Hindi.2.0-English.HEVC.x265-HDHub4u.Ms.mkv",
+        "year": "2025",
+        "duration": "1h 37m",
+        "rating": "5.7",
+        "genre": "Action,Comedy,Thriller",
+        "description": "A mercenary takes on the job of tracking down a target on a plane but must protect her when they're surrounded by people trying to kill both of them.",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "Josh Hartnett,Katee Sackhoff,Marko Zaror,Julian Kostov,Charithra Chandran"
+    },
+    {
+        "title": "Peter Pans Neverland Nightmare [2025] WEB-DL [Hindi] [HEVC] | Full Movie",
+        "im": "mOR1Ks0EcXocwMV4EPv4letz0F5",
+        "bgi": "nhx0ttmAS2w8e6hyIcKoNvgHoix",
+        "dl": "https://broken-boat-70da.wokates6127718.workers.dev/04a1fd1974d3b15b5ec595463d983b0937018ab14eed0a10ba4c408e71fb35df9bdeb9d32db8e6fb9f3546abe3838cdc::964f9b9a792c072626936df4cf50ee60/1397278773/Peter.Pans.Neverland.Nightmare.2025.720p.10Bit.HEVC.Hindi.2.0.Eng.5.1.AAC.x265.ESub.Vegamovies.is.mkv",
+        "year": "2025",
+        "duration": "1h 29m",
+        "rating": "4.9",
+        "genre": "Horror,Thriller,Fantasy",
+        "description": "Wendy Darling strikes out in an attempt to rescue her brother Michael from the clutches of the evil Peter Pan who intends to send him to Neverland. Along the way she meets a twisted Tinkerbell, who is hooked on what she thinks is fairy dust.",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "Martin Portlock,Megan Placito,Kit Green,Peter DeSouza-Feighoney,Charity Kase"
+    },
+    {
+        "title": "Loveyapa [2025] WEB-DL [Hindi] [HEVC] | Full Movie",
+        "im": "ohHiDAwaOo6R1ovMgmUhrBuvknU",
+        "bgi": "mcH6qkHRnZa6ynLbwaN5WQnzPSH",
+        "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Loveyapa.2025.720p.HEVC.Hindi.DS4K.WEB-DL.5.1.ESub.x265-HDHub4u.Ms.mkv",
+        "year": "2025",
+        "duration": "2h 17m",
+        "rating": "6.0",
+        "genre": "Comedy,Drama,Romance",
+        "description": "The madness after a couple exchanges their mobile phones and begins to unearth bitter truth about each other.",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "Junaid Khan,Khushi Kapoor,Kunj Anand,Grusha Kapoor,Ashutosh Rana"
     },
     {
         "title": "3 Idiots [2009] Blu-Ray [Hindi] | Full Movie",

@@ -2424,7 +2424,13 @@ const movies = [
     title:'Black Mirror (Season 7) WEB-DL [Hindi (DD 5.1) & English] [HEVC] | Netflix Series [All Episodes]',
     im:'hQwMLMahQ5OAgVZFbPRO5SaPqhb',
     dl:'https://vcloud.lol/akvl8vciojkfjff',
-    link: 'tt2085059'
+    "year": "2011",
+    "duration": "1h",
+    "rating": "8.3",
+    "genre": "Sci-Fi & Fantasy,Drama,Mystery,",
+    "description": "Twisted tales run wild in this mind-bending anthology series that reveals humanity's worst traits, greatest innovations and more.",
+    "type": "series",
+    "cast": "Jesse Plemons,Cristin Milioti,Jimmi Simpson,Milanka Brooks,Osy Ikhile"
     },
     
     {
@@ -2474,15 +2480,27 @@ const movies = [
     title:'Thukra Ke Mera Pyaar [Episode 11-19] (Season 1) WEB-DL [Hindi DD5.1] | [HotStar Series]',
     im:'yRn4tml6YNz7cmzD16IMqZ75vYG',
     dl:'https://new2.filesdl.site/cloud/GokQRtE4JV',
-    link: 'tt34498121'
-    },
+    "bgi": "mKXSi5t9CKy0jDEWcGTuJnapu07",
+    "year": "2024",
+    "duration": "1h",
+    "rating": "6.5",
+    "genre": "Drama,",
+    "description": "Two families clash over societal and caste differences spurring a saga of revenge. All this happens when a love story goes wrong.",
+    "type": "series",
+    "cast": "Dhaval Thakur,Sanchita Bashu,Aniruddh Dave,Govind Pandey,Sushil Pandey"    },
     
     {
     title:'Thukra Ke Mera Pyaar [Episode 1-10] (Season 1) WEB-DL [Hindi DD5.1] | [HotStar Series]',
     im:'yRn4tml6YNz7cmzD16IMqZ75vYG',
     dl:'https://new2.filesdl.site/cloud/hAJ5VRUsIP',
-    link: 'tt34498121'
-    },
+    "bgi": "mKXSi5t9CKy0jDEWcGTuJnapu07",
+    "year": "2024",
+    "duration": "1h",
+    "rating": "6.5",
+    "genre": "Drama,",
+    "description": "Two families clash over societal and caste differences spurring a saga of revenge. All this happens when a love story goes wrong.",
+    "type": "series",
+    "cast": "Dhaval Thakur,Sanchita Bashu,Aniruddh Dave,Govind Pandey,Sushil Pandey"    },
     
     {
     title:'The Last of Us (Season 2) WEB-DL [Hindi (DD2.0) & English] [HEVC] | HBO Series | Episode 1',
@@ -2490,7 +2508,7 @@ const movies = [
     dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/The.Last.of.Us.S02E01.720p.10Bit.WEB-DL.Hindi.2.0-English.HEVC.x265-HDHub4u.Ms.mkv',
     "bgi": "lY2DhbA7Hy44fAKddr06UrXWWaQ",
     "year": "2023",
-    "duration": "",
+    "duration": "1h",
     "rating": "8.6",
     "genre": "Drama,",
     "description": "Twenty years after modern civilization has been destroyed, Joel, a hardened survivor, is hired to smuggle Ellie, a 14-year-old girl, out of an oppressive quarantine zone. What starts as a small job soon becomes a brutal, heartbreaking journey, as they both must traverse the United States and depend on each other for survival.",
@@ -2547,7 +2565,7 @@ const movies = [
     dl:'http://qwrqwrqwr.rf.gd/a/a.php?d10=rlXoTzk8C4',
     "bgi": "dSjx3PL2cmsBGDXXd3jkhNOsqBc",
     "year": "2025",
-    "duration": "",
+    "duration": "1h",
     "rating": "7.0",
     "genre": "Drama,",
     "description": "‘The Waking of a Nation' explores the events surrounding the Jallianwala Bagh massacre through the eyes of Kantilal, a fictitious member of the Hunter Commission. When General Dyer orders his troops to open fire at a gathering in Jallianwala Bagh, Kantilal takes it upon himself, with his life under threat, to uncover the dark conspiracy that led to the massacre.",
@@ -2618,7 +2636,7 @@ const movies = [
     dl: 'https://sdfefed.blogspot.com/2025/04/sddfsdfs.html',
     "bgi": "2meX1nMdScFOoV4370rqHWKmXhY",
     "year": "2021",
-    "duration": "",
+    "duration": "1h",
     "rating": "7.9",
     "genre": "Action & Adventure,Mystery,Drama,",
     "description": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games. Inside, a tempting prize awaits — with deadly high stakes.",

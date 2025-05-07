@@ -2560,36 +2560,3 @@
     'dl'=>'http://qwrqwrqwr.rf.gd/a/a.php?d4=YwogYX5CULZS4nJ69',
     'link'=>'tt3896198'
     ],
-    
-[
-    "title": "Spider-Man: Homecoming [2017] BluRay [Hindi + English] | Full Movie",
-    "im": "/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
-    "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=FMppXWWVStDpQkux9",
-    "link": "tt2250912",
-    "year": "2017",
-    "duration": "133 min",
-    "rating": "7.4",
-    "genre": "Action, Adventure, Sci-Fi",
-    "description": "Peter Parker balances his life as a high school student and as Spider-Man while facing the dangerous villain Vulture. His journey to becoming a true hero is tested as he confronts his greatest challenge yet.",
-    "type": "movie",
-    "quality": "blu-Ray",
-    "cast": "Tom Holland, Michael Keaton, Robert Downey Jr."
-],
-    
-
-    
-[
-    "title": "Spider-Man: Far from Home (2019) BluRay [Hindi-English] | Full Movie",
-    "im": "/rjbNpRMoVvqHmhmksbokcyCr7wn.jpg",
-    "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=mcuFcB4cfmMg3JsL7",
-    "link": "tt6320628",
-    "year": "2019",
-    "duration": "129 min",
-    "rating": "7.5",
-    "genre": "Action, Adventure, Sci-Fi",
-    "description": "Peter Parker goes on a school trip to Europe, but his vacation takes a turn when a new threat emerges in the form of the villain Mysterio. Peter must step up to save the world and come to terms with his role as Spider-Man.",
-    "type": "movie",
-    "quality": "blu-Ray",
-    "cast": "Tom Holland, Jake Gyllenhaal, Zendaya"
-],
-

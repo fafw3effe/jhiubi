@@ -2913,87 +2913,172 @@ const movies = [
     },
     
     {
-    title: 'Hulk (2003) BluRay [Hindi-English] | Full Movie',
-    im: 'qnngKqAcqfH2pBxDoKu5lxzSbTo',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=4a7Y48J1KwDseGk17',
-    link: 'tt0286716'
+        "title": "Hulk [2003] BluRay [Hindi-English] | Full Movie",
+        "im": "qnngKqAcqfH2pBxDoKu5lxzSbTo",
+        "bgi": "kYd1ZMWvG9K2Jeop3XWXcTpJ2dB",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=4a7Y48J1KwDseGk17",
+        "year": "2003",
+        "duration": "2h 18m",
+        "rating": "5.6",
+        "genre": "Science Fiction,Adventure,Action",
+        "description": "Bruce Banner, a genetics researcher with a tragic past, suffers massive radiation exposure in his laboratory that causes him to transform into a raging green monster when he gets angry.",
+        "type": "movie",
+        "quality": "bluray",
+        "cast": "Eric Bana,Jennifer Connelly,Sam Elliott,Josh Lucas,Nick Nolte"
     },
-    
     {
-    title: 'The Incredible Hulk (2008) BluRay [Hindi-English] | Full Movie',
-    im: 'gKzYx79y0AQTL4UAk1cBQJ3nvrm',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=YHqtBPm6aBN6Mvxz6',
-    link: 'tt0800080'
+        "title": "The Incredible Hulk [2008] BluRay [Hindi-English] | Full Movie",
+        "im": "gKzYx79y0AQTL4UAk1cBQJ3nvrm",
+        "bgi": "jPu8yiadqgzwFPGKJmGo637ASVP",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=YHqtBPm6aBN6Mvxz6",
+        "year": "2008",
+        "duration": "1h 54m",
+        "rating": "6.2",
+        "genre": "Science Fiction,Action,Adventure",
+        "description": "Scientist Bruce Banner scours the planet for an antidote to the unbridled force of rage within him: the Hulk. But when the military masterminds who dream of exploiting his powers force him back to civilization, he finds himself coming face to face with a new, deadly foe.",
+        "type": "movie",
+        "quality": "bluray",
+        "cast": "Edward Norton,Liv Tyler,Tim Roth,William Hurt,Tim Blake Nelson"
     },
-    
     {
-    title: 'Iron Man 2 (2010) BluRay [Hindi-English] | Full Movie',
-    im: '6WBeq4fCfn7AN0o21W9qNcRF2l9',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=WHr5G4pWrXsS6fWq8',
-    link: 'tt1228705'
+        "title": "Iron Man 2 [2010] BluRay [Hindi-English] | Full Movie",
+        "im": "6WBeq4fCfn7AN0o21W9qNcRF2l9",
+        "bgi": "7lmBufEG7P7Y1HClYK3gCxYrkgS",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=WHr5G4pWrXsS6fWq8",
+        "year": "2010",
+        "duration": "2h 4m",
+        "rating": "6.8",
+        "genre": "Adventure,Action,Science Fiction",
+        "description": "With the world now aware of his dual life as the armored superhero Iron Man, billionaire inventor Tony Stark faces pressure from the government, the press and the public to share his technology with the military. Unwilling to let go of his invention, Stark, with Pepper Potts and James 'Rhodey' Rhodes at his side, must forge new alliances \u2013 and confront powerful enemies.",
+        "type": "movie",
+        "quality": "bluray",
+        "cast": "Robert Downey Jr.,Gwyneth Paltrow,Don Cheadle,Scarlett Johansson,Sam Rockwell"
     },
-    
     {
-    title: 'Thor (2011) BluRay [Hindi-English] | Full Movie',
-    im: 'prSfAi1xGrhLQNxVSUFh61xQ4Qy',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=QsmrTwFFmBj7SwGAA',
-    link: 'tt0800369'
+        "title": "Thor [2011] BluRay [Hindi-English] | Full Movie",
+        "im": "prSfAi1xGrhLQNxVSUFh61xQ4Qy",
+        "bgi": "cDJ61O1STtbWNBwefuqVrRe3d7l",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=QsmrTwFFmBj7SwGAA",
+        "year": "2011",
+        "duration": "1h 55m",
+        "rating": "6.8",
+        "genre": "Adventure,Fantasy,Action",
+        "description": "Against his father Odin's will, The Mighty Thor - a powerful but arrogant warrior god - recklessly reignites an ancient war. Thor is cast down to Earth and forced to live among humans as punishment. Once here, Thor learns what it takes to be a true hero when the most dangerous villain of his world sends the darkest forces of Asgard to invade Earth.",
+        "type": "movie",
+        "quality": "bluray",
+        "cast": "Chris Hemsworth,Natalie Portman,Tom Hiddleston,Anthony Hopkins,Stellan Skarsg\u00e5rd"
     },
-    
     {
-    title: 'Captain America: The First Avenger (2011) BluRay [Hindi-English] | Full Movie',
-    im: 'vSNxAJTlD0r02V9sPYpOjqDZXUK',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=a849fbPETpMEH7En7',
-    link: 'tt0458339'
+        "title": "Captain America: The First Avenger [2011] BluRay [Hindi-English] | Full Movie",
+        "im": "vSNxAJTlD0r02V9sPYpOjqDZXUK",
+        "bgi": "yFuKvT4Vm3sKHdFY4eG6I4ldAnn",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=a849fbPETpMEH7En7",
+        "year": "2011",
+        "duration": "2h 4m",
+        "rating": "7.0",
+        "genre": "Action,Adventure,Science Fiction",
+        "description": "During World War II, Steve Rogers is a sickly man from Brooklyn who's transformed into super-soldier Captain America to aid in the war effort. Rogers must stop the Red Skull \u2013 Adolf Hitler's ruthless head of weaponry, and the leader of an organization that intends to use a mysterious device of untold powers for world domination.",
+        "type": "movie",
+        "quality": "bluray",
+        "cast": "Chris Evans,Hayley Atwell,Sebastian Stan,Tommy Lee Jones,Hugo Weaving"
     },
-    
     {
-    title: 'The Avengers (2012) BluRay [Hindi-English] | Full Movie',
-    im: 'RYMX2wcKCBAr24UyPD7xwmjaTn',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=fCES7x3p1rRtbQRq7',
-    link: 'tt0848228'
+        "title": "The Avengers [2012] BluRay [Hindi-English] | Full Movie",
+        "im": "RYMX2wcKCBAr24UyPD7xwmjaTn",
+        "bgi": "gHLs7Fy3DzLmLsD4lmfqL55KGcl",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=fCES7x3p1rRtbQRq7",
+        "year": "2012",
+        "duration": "2h 23m",
+        "rating": "7.7",
+        "genre": "Science Fiction,Action,Adventure",
+        "description": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
+        "type": "movie",
+        "quality": "bluray",
+        "cast": "Robert Downey Jr.,Chris Evans,Mark Ruffalo,Chris Hemsworth,Scarlett Johansson"
     },
-    
     {
-    title:'Iron Man 3 (2013) BluRay [Hindi-English] | Full Movie',
-    im:'1Ilv6ryHUv6rt9zIsbSEJUmmbEi',
-    dl:'http://qwrqwrqwr.rf.gd/a/a.php?d4=H7p8drnWTaWxus7t9',
-    link:'tt1300854'
+        "title": "Iron Man 3 [2013] BluRay [Hindi-English] | Full Movie",
+        "im": "1Ilv6ryHUv6rt9zIsbSEJUmmbEi",
+        "bgi": "iVped1djsF0tvGkvnHbzsE3ZPTF",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=H7p8drnWTaWxus7t9",
+        "year": "2013",
+        "duration": "2h 10m",
+        "rating": "6.9",
+        "genre": "Action,Adventure,Science Fiction",
+        "description": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
+        "type": "movie",
+        "quality": "bluray",
+        "cast": "Robert Downey Jr.,Gwyneth Paltrow,Don Cheadle,Guy Pearce,Rebecca Hall"
     },
-    
     {
-    title:'Thor: The Dark World (2013) BluRay [Hindi-English] | Full Movie',
-    im:'wD6g4EcmR6R3VNbuBmNOVq2qWrM',
-    dl:'http://qwrqwrqwr.rf.gd/a/a.php?d4=m8j5Qb61sxnnyZYw8',
-    link:'tt1981115'
+        "title": "Thor: The Dark World [2013] BluRay [Hindi-English] | Full Movie",
+        "im": "wD6g4EcmR6R3VNbuBmNOVq2qWrM",
+        "bgi": "uhYoytlNaq46dG81wLmHqaSuzWu",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=m8j5Qb61sxnnyZYw8",
+        "year": "2013",
+        "duration": "1h 52m",
+        "rating": "6.5",
+        "genre": "Action,Adventure,Fantasy",
+        "description": "Thor fights to restore order across the cosmos\u2026 but an ancient race led by the vengeful Malekith returns to plunge the universe back into darkness. Faced with an enemy that even Odin and Asgard cannot withstand, Thor must embark on his most perilous and personal journey yet, one that will reunite him with Jane Foster and force him to sacrifice everything to save us all.",
+        "type": "movie",
+        "quality": "bluray",
+        "cast": "Chris Hemsworth,Natalie Portman,Tom Hiddleston,Christopher Eccleston,Anthony Hopkins"
     },
-    
     {
-    title:'Captain America: The Winter Soldier (2014) BluRay [Hindi-English] | Full Movie',
-    im:'tVFRpFw3xTedgPGqxW0AOI8Qhh0',
-    dl:'http://qwrqwrqwr.rf.gd/a/a.php?d4=Hawha6Ucwr8Hys4u8',
-    link:'tt1843866'
+        "title": "Captain America: The Winter Soldier [2014] BluRay [Hindi-English] | Full Movie",
+        "im": "tVFRpFw3xTedgPGqxW0AOI8Qhh0",
+        "bgi": "xOe8nHr5bpPvq4JbGy4vpttDwg2",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=Hawha6Ucwr8Hys4u8",
+        "year": "2014",
+        "duration": "2h 16m",
+        "rating": "7.7",
+        "genre": "Action,Adventure,Science Fiction",
+        "description": "After the cataclysmic events in New York with The Avengers, Steve Rogers, aka Captain America is living quietly in Washington, D.C. and trying to adjust to the modern world. But when a S.H.I.E.L.D. colleague comes under attack, Steve becomes embroiled in a web of intrigue that threatens to put the world at risk. Joining forces with the Black Widow, Captain America struggles to expose the ever-widening conspiracy while fighting off professional assassins sent to silence him at every turn. When the full scope of the villainous plot is revealed, Captain America and the Black Widow enlist the help of a new ally, the Falcon. However, they soon find themselves up against an unexpected and formidable enemy\u2014the Winter Soldier.",
+        "type": "movie",
+        "quality": "bluray",
+        "cast": "Chris Evans,Samuel L. Jackson,Scarlett Johansson,Robert Redford,Sebastian Stan"
     },
-    
     {
-    title:'Avengers: Age of Ultron (2015) BluRay [Hindi-English] | Full Movie',
-    im:'4ssDuvEDkSArWEdyBl2X5EHvYKU',
-    dl:'http://qwrqwrqwr.rf.gd/a/a.php?d4=RrQk6NB1HKcjUHtN7',
-    link:'tt2395427'
+        "title": "Avengers: Age of Ultron [2015] BluRay [Hindi-English] | Full Movie",
+        "im": "4ssDuvEDkSArWEdyBl2X5EHvYKU",
+        "bgi": "6YwkGolwdOMNpbTOmLjoehlVWs5",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=RrQk6NB1HKcjUHtN7",
+        "year": "2015",
+        "duration": "2h 21m",
+        "rating": "7.3",
+        "genre": "Action,Adventure,Science Fiction",
+        "description": "When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth\u2019s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure.",
+        "type": "movie",
+        "quality": "bluray",
+        "cast": "Robert Downey Jr.,Chris Hemsworth,Mark Ruffalo,Chris Evans,Scarlett Johansson"
     },
-    
     {
-    title:'Ant-Man (2015) BluRay [Hindi-English] | Full Movie',
-    im:'rQRnQfUl3kfp78nCWq8Ks04vnq1',
-    dl:'http://qwrqwrqwr.rf.gd/a/a.php?d4=fPP51JomH1U62oc98',
-    link:'tt0478970'
+        "title": "Ant-Man [2015] BluRay [Hindi-English] | Full Movie",
+        "im": "rQRnQfUl3kfp78nCWq8Ks04vnq1",
+        "bgi": "1K3JmSNUN8OpjYsCjc0Hy0SYxAb",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=fPP51JomH1U62oc98",
+        "year": "2015",
+        "duration": "1h 57m",
+        "rating": "7.1",
+        "genre": "Science Fiction,Action,Adventure",
+        "description": "Armed with the astonishing ability to shrink in scale but increase in strength, master thief Scott Lang must embrace his inner-hero and help his mentor, Doctor Hank Pym, protect the secret behind his spectacular Ant-Man suit from a new generation of towering threats. Against seemingly insurmountable obstacles, Pym and Lang must plan and pull off a heist that will save the world.",
+        "type": "movie",
+        "quality": "bluray",
+        "cast": "Paul Rudd,Michael Douglas,Evangeline Lilly,Corey Stoll,Bobby Cannavale"
     },
-    
     {
-    title:'Guardians of the Galaxy Vol. 2 (2017) BluRay [Hindi-English] | Full Movie',
-    im:'/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg',
-    dl:'http://qwrqwrqwr.rf.gd/a/a.php?d4=YwogYX5CULZS4nJ69',
-    link:'tt3896198'
+        "title": "Guardians of the Galaxy Vol. 2 [2017] BluRay [Hindi-English] | Full Movie",
+        "im": "/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
+        "bgi": "aJn9XeesqsrSLKcHfHP4u5985hn",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=YwogYX5CULZS4nJ69",
+        "year": "2017",
+        "duration": "2h 17m",
+        "rating": "7.6",
+        "genre": "Science Fiction,Adventure,Action",
+        "description": "The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage.",
+        "type": "movie",
+        "quality": "bluray",
+        "cast": "Chris Pratt,Zoe Salda\u00f1a,Dave Bautista,Vin Diesel,Bradley Cooper"
     },
     
 {

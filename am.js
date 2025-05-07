@@ -21,6 +21,20 @@ const movies = [
     */
 
     {
+        "title": "Last Bullet [2025] WEB-DL [Hindi + English] [HEVC] | Full Movie",
+        "im": "gO33EBU7JHd6xBjT62XMt61KoqX",
+        "bgi": "1ikqGTVjXA9wkDsESVVzpLP8H1r",
+        "dl": "https://pub-ed0ca22af5c04301b7abe9dac4aaf9bc.r2.dev/Last.Bullet.2025.720p.NF.WEB-DL.DUAL.DDP5.1.H265-Vegamovies.is.mkv",
+        "year": "2025",
+        "duration": "",
+        "rating": "7.0",
+        "genre": "Action,Crime,Thriller,",
+        "description": "Car genius Lino returns to conclude his vendetta against Areski and the corrupt commander who ruined their lives in this turbo-charged trilogy finale.",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "Alban Lenoir,Stéfi Celma,Nicolas Duvauchelle,Anne Serra,Gérard Lanvin"
+    },
+    {
         "title": "Kesari Chapter 2: The Untold Story of Jallianwala Bagh [2025] WEB-Dl [Hindi] | Full Movie",
         "im": "jgGSqe1YgSot6Y1zDVTVkbsZ46z",
         "bgi": "wNjkO9GLk8pVAJFImQaxyn1vIaK",
@@ -3308,15 +3322,20 @@ const movies = [
     "quality": "blu-Ray",
     "cast": "Ryan Reynolds, Josh Brolin, Morena Baccarin"
 },
-
-    
-    {
-    title: 'X-Men: Dark Phoenix (2019) BluRay [Hindi-English] | Full Movie',
-    im: 'kZv92eTc0Gg3mKxqjjDAM73z9cy',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=84Q9jx7ZaWeW4nfH8',
-    link: 'tt6565702'
-    },
-    
+{
+    "title": "X-Men: Dark Phoenix [2019] BluRay [Hindi-English] | Full Movie",
+    "im": "kZv92eTc0Gg3mKxqjjDAM73z9cy",
+    "bgi": "cjRUhKyt2Jo3V1KNzc5tpPNfccG",
+    "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=84Q9jx7ZaWeW4nfH8",
+    "year": "2019",
+    "duration": "1h 54m",
+    "rating": "6.0",
+    "genre": "Science Fiction,Action,Adventure",
+    "description": "The X-Men face their most formidable and powerful foe when one of their own, Jean Grey, starts to spiral out of control. During a rescue mission in outer space, Jean is nearly killed when she's hit by a mysterious cosmic force. Once she returns home, this force not only makes her infinitely more powerful, but far more unstable. The X-Men must now band together to save her soul and battle aliens that want to use Grey's new abilities to rule the galaxy.",
+    "type": "movie",
+    "quality": "bluray",
+    "cast": "Sophie Turner,James McAvoy,Nicholas Hoult,Tye Sheridan,Michael Fassbender"
+},  
     {
         "title": "Men in Black 1 (1997) BluRay [Hindi-English] | Full Movie",
         "im": "uLOmOF5IzWoyrgIF5MfUnh5pa1X",

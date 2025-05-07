@@ -3010,21 +3010,34 @@ const movies = [
     "quality": "blu-Ray",
     "cast": "Tom Holland, Michael Keaton, Robert Downey Jr."
 },
-    
-    {
-    title:'Ant-Man and the Wasp (2018) BluRay [Hindi-English] | Full Movie',
-    im:'/eivQmS3wqzqnQWILHLc4FsEfcXP.jpg',
-    dl:'http://qwrqwrqwr.rf.gd/a/a.php?d4=ccQ912v5Yn55yhAT8',
-    link:'tt5095030'
-    },
-    
-    {
-    title:'Captain Marvel (2019) BluRay [Hindi-English] | Full Movie',
-    im:'/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg',
-    dl:'http://qwrqwrqwr.rf.gd/a/a.php?d4=e8BER3nMziuAjD2Y9',
-    link:'tt4154664'
-    },
-    
+{
+    "title": "Ant-Man and the Wasp [2018] BluRay [Hindi-English] | Full Movie",
+    "im": "/eivQmS3wqzqnQWILHLc4FsEfcXP.jpg",
+    "bgi": "2tcTm5oRlRN5fKFvY4Gbrwp8h38",
+    "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=ccQ912v5Yn55yhAT8",
+    "year": "2018",
+    "duration": "1h 59m",
+    "rating": "6.9",
+    "genre": "Action,Adventure,Science Fiction",
+    "description": "Just when his time under house arrest is about to end, Scott Lang once again puts his freedom at risk to help Hope van Dyne and Dr. Hank Pym dive into the quantum realm and try to accomplish, against time and any chance of success, a very dangerous rescue mission.",
+    "type": "movie",
+    "quality": "bluray",
+    "cast": "Paul Rudd,Evangeline Lilly,Michael Douglas,Hannah John-Kamen,Randall Park"
+},
+{
+    "title": "Captain Marvel [2019] BluRay [Hindi-English] | Full Movie",
+    "im": "/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
+    "bgi": "qAzYK4YPSWDc7aa4R43LcwRIAyb",
+    "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=e8BER3nMziuAjD2Y9",
+    "year": "2019",
+    "duration": "2h 4m",
+    "rating": "6.8",
+    "genre": "Action,Adventure,Science Fiction",
+    "description": "The story follows Carol Danvers as she becomes one of the universe\u2019s most powerful heroes when Earth is caught in the middle of a galactic war between two alien races. Set in the 1990s, Captain Marvel is an all-new adventure from a previously unseen period in the history of the Marvel Cinematic Universe.",
+    "type": "movie",
+    "quality": "bluray",
+    "cast": "Brie Larson,Samuel L. Jackson,Ben Mendelsohn,Jude Law,Annette Bening"
+},
 {
     "title": "Spider-Man: Far from Home (2019) BluRay [Hindi-English] | Full Movie",
     "im": "/rjbNpRMoVvqHmhmksbokcyCr7wn.jpg",
@@ -3039,56 +3052,90 @@ const movies = [
     "quality": "blu-Ray",
     "cast": "Tom Holland, Jake Gyllenhaal, Zendaya"
 },
-    
-    
-    {
-    title:'Black Widow (2021) BluRay [Hindi-English] | Full Movie',
-    im:'kwB7d51AIcyzPOBOHLCEZJkmPhQ',
-    dl:'http://qwrqwrqwr.rf.gd/a/a.php?d4=xtf9DpVu1keEG8vn9',
-    link:'tt3480822'
-    },
-    
-    {
-    title:'Shang-Chi and the Legend of the Ten Rings (2021) BluRay [Hindi-English] | Full Movie',
-    im:'d08HqqeBQSwN8i8MEvpsZ8Cb438',
-    dl:'http://qwrqwrqwr.rf.gd/a/a.php?d4=xtf9DpVu1keEG8vn9',
-    link:'tt9376612'
-    },
-    
-    {
-    title:'Eternals (2021) BluRay [Hindi-English] | Full Movie',
-    im:'lFByFSLV5WDJEv3KabbdAF959F2',
-    dl:'http://qwrqwrqwr.rf.gd/a/a.php?d4=LHBWnUyKdNDx5xBQA',
-    link:'tt9032400'
-    },
-    
-    {
-    title:'Doctor Strange in the Multiverse of Madness (2022) BluRay [Hindi-English] | Full Movie',
-    im:'ddJcSKbcp4rKZTmuyWaMhuwcfMz',
-    dl:'http://qwrqwrqwr.rf.gd/a/a.php?d4=https://photos.app.goo.gl/4JKtuhfv475uCxWA9',
-    link:'tt9419884'
-    },
-    
-    {
-    title:'Ant-Man and the Wasp: Quantumania (2023) BluRay [Hindi-English] | Full Movie',
-    im:'qnqGbB22YJ7dSs4o6M7exTpNxPz',
-    dl:'http://qwrqwrqwr.rf.gd/a/a.php?d4=2URs1ggPsdad8uyy9',
-    link:'tt10954600'
-    },
-    
-    {
-    title:'Guardians of the Galaxy Volume 3 (2023) BluRay [Hindi-English] | Full Movie',
-    im:'r2J02Z2OpNTctfOSN1Ydgii51I3',
-    dl:'http://qwrqwrqwr.rf.gd/a/a.php?d4=YFyjMY7L1guamLgw8',
-    link:'tt6791350'
-    },
-    
-    {
-    title:'The Marvels (2023) BluRay [Hindi-English] | Full Movie',
-    im:'9GBhzXMFjgcZ3FdR9w3bUMMTps5',
-    dl:'http://qwrqwrqwr.rf.gd/a/a.php?d4=WxkZBRW2dogSpDou6',
-    link:'tt10601950'
-    },
+{
+    "title": "Black Widow [2021] BluRay [Hindi-English] | Full Movie",
+    "im": "kwB7d51AIcyzPOBOHLCEZJkmPhQ",
+    "bgi": "6azpBJGcLx9SKif8h9VMnflBfa",
+    "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=xtf9DpVu1keEG8vn9",
+    "year": "2021",
+    "duration": "2h 14m",
+    "rating": "7.2",
+    "genre": "Action,Adventure,Science Fiction",
+    "description": "Natasha Romanoff, also known as Black Widow, confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.",
+    "type": "movie",
+    "quality": "bluray",
+    "cast": "Scarlett Johansson,Florence Pugh,Rachel Weisz,David Harbour,Ray Winstone"
+},
+{
+    "title": "Shang-Chi and the Legend of the Ten Rings [2021] BluRay [Hindi-English] | Full Movie",
+    "im": "d08HqqeBQSwN8i8MEvpsZ8Cb438",
+    "bgi": "zxWAv1A34kdYslBi4ekMDtgIGUt",
+    "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=xtf9DpVu1keEG8vn9",
+    "year": "2021",
+    "duration": "2h 12m",
+    "rating": "7.5",
+    "genre": "Action,Adventure,Fantasy,Science Fiction",
+    "description": "Shang-Chi must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization.",
+    "type": "movie",
+    "quality": "bluray",
+    "cast": "Simu Liu,Tony Leung,Awkwafina,Ben Kingsley,Meng&#39;er Zhang"
+},
+{
+    "title": "Eternals [2021] BluRay [Hindi-English] | Full Movie",
+    "im": "lFByFSLV5WDJEv3KabbdAF959F2",
+    "bgi": "c6H7Z4u73ir3cIoCteuhJh7UCAR",
+    "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=LHBWnUyKdNDx5xBQA",
+    "year": "2021",
+    "duration": "2h 36m",
+    "rating": "6.8",
+    "genre": "Science Fiction,Action,Adventure",
+    "description": "The Eternals are a team of ancient aliens who have been living on Earth in secret for thousands of years. When an unexpected tragedy forces them out of the shadows, they are forced to reunite against mankind\u2019s most ancient enemy, the Deviants.",
+    "type": "movie",
+    "quality": "bluray",
+    "cast": "Gemma Chan,Richard Madden,Angelina Jolie,Salma Hayek Pinault,Kumail Nanjiani"
+},
+{
+    "title": "Doctor Strange in the Multiverse of Madness [2022] BluRay [Hindi-English] | Full Movie",
+    "im": "ddJcSKbcp4rKZTmuyWaMhuwcfMz",
+    "bgi": "iKUwhA4DUxMcNKu5lLSbDFwwilk",
+    "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=https://photos.app.goo.gl/4JKtuhfv475uCxWA9",
+    "year": "2022",
+    "duration": "2h 6m",
+    "rating": "7.3",
+    "genre": "Fantasy,Action,Adventure",
+    "description": "Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.",
+    "type": "movie",
+    "quality": "bluray",
+    "cast": "Benedict Cumberbatch,Xochitl Gomez,Elizabeth Olsen,Chiwetel Ejiofor,Benedict Wong"
+},
+{
+    "title": "Ant-Man and the Wasp: Quantumania [2023] BluRay [Hindi-English] | Full Movie",
+    "im": "qnqGbB22YJ7dSs4o6M7exTpNxPz",
+    "bgi": "m8JTwHFwX7I7JY5fPe4SjqejWag",
+    "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=2URs1ggPsdad8uyy9",
+    "year": "2023",
+    "duration": "2h 5m",
+    "rating": "6.3",
+    "genre": "Action,Adventure,Science Fiction",
+    "description": "Super-Hero partners Scott Lang and Hope van Dyne, along with with Hope's parents Janet van Dyne and Hank Pym, and Scott's daughter Cassie Lang, find themselves exploring the Quantum Realm, interacting with strange new creatures and embarking on an adventure that will push them beyond the limits of what they thought possible.",
+    "type": "movie",
+    "quality": "bluray",
+    "cast": "Paul Rudd,Evangeline Lilly,Michael Douglas,Michelle Pfeiffer,Jonathan Majors"
+},
+{
+    "title": "Guardians of the Galaxy Volume 3 [2023] BluRay [Hindi-English] | Full Movie",
+    "im": "r2J02Z2OpNTctfOSN1Ydgii51I3",
+    "bgi": "5YZbUmjbMa3ClvSW1Wj3D6XGolb",
+    "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=YFyjMY7L1guamLgw8",
+    "year": "2023",
+    "duration": "2h 30m",
+    "rating": "7.9",
+    "genre": "Science Fiction,Adventure,Action,Comedy",
+    "description": "Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.",
+    "type": "movie",
+    "quality": "bluray",
+    "cast": "Chris Pratt,Zoe Salda\u00f1a,Dave Bautista,Karen Gillan,Pom Klementieff"
+},
     {
         "title": "Spider-Man 1 (2002) BluRay [Hindi-English] | Full Movie",
         "im": "gh4cZbhZxyTbgxQPxD0dOudNPTn",
@@ -3231,52 +3278,102 @@ const movies = [
     },
     
     {
-    title: 'X-Men 1 - (2000) BluRay [Hindi-English] | Full Movie',
-    im: 'bRDAc4GogyS9ci3ow7UnInOcriN',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=4UqkNmWzDS3rq1LJ9',
-    link: 'tt0120903'
+        "title": "X-Men 1 - [2000] BluRay [Hindi-English] | Full Movie",
+        "im": "bRDAc4GogyS9ci3ow7UnInOcriN",
+        "bgi": "a6MwSrIKmMjs5b8os7eEgQk05yx",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=4UqkNmWzDS3rq1LJ9",
+        "year": "2000",
+        "duration": "1h 44m",
+        "rating": "7.0",
+        "genre": "Adventure,Action,Science Fiction",
+        "description": "Two mutants, Rogue and Wolverine, come to a private academy for their kind whose resident superhero team, the X-Men, must oppose a terrorist organization with similar powers.",
+        "type": "movie",
+        "quality": "bluray",
+        "cast": "Hugh Jackman,Patrick Stewart,Ian McKellen,Famke Janssen,James Marsden"
     },
-    
     {
-    title: 'X-Men 2 X2 - (2003) BluRay [Hindi-English] | Full Movie',
-    im: 'rtrd4qieMAhoUshu83Vi1GazM1O',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=E8WSrbGeAg5d5XBf6',
-    link: 'tt0199738'
+        "title": "X-Men 2 X2 - [2003] BluRay [Hindi-English] | Full Movie",
+        "im": "rtrd4qieMAhoUshu83Vi1GazM1O",
+        "bgi": "",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=E8WSrbGeAg5d5XBf6",
+        "year": "1946",
+        "duration": "1h 44m",
+        "rating": "6.0",
+        "genre": "",
+        "description": "To take revenge on her husband with whom she often has heated discussions, a young woman looks for a flirt, to whom she makes life difficult, without giving him anything, because she is still in love with her husband.",
+        "type": "movie",
+        "quality": "bluray",
+        "cast": "Andrex,Gis\u00e8le Pascal,Robert Dh\u00e9ry,Jean Dunot,Les Bing Sisters"
     },
-    
     {
-    title: 'X-Men 3: The Last Stand (2006) BluRay [Hindi-English] | Full Movie',
-    im: 'a2xicU8DpKtRizOHjQLC1JyCSRS',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=WRrrA53roQyEvKDe9',
-    link: 'tt0376994'
+        "title": "X-Men 3: The Last Stand [2006] BluRay [Hindi-English] | Full Movie",
+        "im": "a2xicU8DpKtRizOHjQLC1JyCSRS",
+        "bgi": "sBl1n4Oi2wX81EtXIb8NsPqJf3W",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=WRrrA53roQyEvKDe9",
+        "year": "2006",
+        "duration": "1h 44m",
+        "rating": "6.4",
+        "genre": "Adventure,Action,Science Fiction,Thriller",
+        "description": "When a cure is found to treat mutations, lines are drawn amongst the X-Men\u2014led by Professor Charles Xavier\u2014and the Brotherhood, a band of powerful mutants organised under Xavier's former ally, Magneto.",
+        "type": "movie",
+        "quality": "bluray",
+        "cast": "Hugh Jackman,Patrick Stewart,Ian McKellen,Famke Janssen,Halle Berry"
     },
-    
     {
-    title: 'X-Men 4 Origins: Wolverine (2009) BluRay [Hindi-English] | Full Movie',
-    im: 'yj8LbTju1p7CUJg7US2unSBk33s',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=ZAaBVwwLsF1JE19L6',
-    link: 'tt0458525'
+        "title": "X-Men 4 Origins: Wolverine [2009] BluRay [Hindi-English] | Full Movie",
+        "im": "yj8LbTju1p7CUJg7US2unSBk33s",
+        "bgi": "fUoXenTsrdUcgG0sLYbOBouvtTs",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=ZAaBVwwLsF1JE19L6",
+        "year": "2009",
+        "duration": "1h 47m",
+        "rating": "6.3",
+        "genre": "Adventure,Action,Science Fiction",
+        "description": "After seeking to live a normal life, Logan sets out to avenge the death of his girlfriend by undergoing the mutant Weapon X program and becoming Wolverine.",
+        "type": "movie",
+        "quality": "bluray",
+        "cast": "Hugh Jackman,Liev Schreiber,Danny Huston,Lynn Collins,Kevin Durand"
     },
-    
     {
-    title: 'X-Men 5: First Class (2011) BluRay [Hindi-English] | Full Movie',
-    im: 'hNEokmUke0dazoBhttFN0o3L7Xv',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=mcfV8Q7BwdnQKeFF8',
-    link: 'tt1270798'
+        "title": "X-Men 5: First Class [2011] BluRay [Hindi-English] | Full Movie",
+        "im": "hNEokmUke0dazoBhttFN0o3L7Xv",
+        "bgi": "bMiOfPhplZu1Lql3hGTRV087QA",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=mcfV8Q7BwdnQKeFF8",
+        "year": "2011",
+        "duration": "2h 12m",
+        "rating": "7.3",
+        "genre": "Action,Science Fiction,Adventure",
+        "description": "Before Charles Xavier and Erik Lensherr took the names Professor X and Magneto, they were two young men discovering their powers for the first time. Before they were arch-enemies, they were closest of friends, working together with other mutants (some familiar, some new), to stop the greatest threat the world has ever known.",
+        "type": "movie",
+        "quality": "bluray",
+        "cast": "James McAvoy,Michael Fassbender,Jennifer Lawrence,Rose Byrne,Kevin Bacon"
     },
-    
     {
-    title: 'The Wolverine (2013) BluRay [Hindi-English] | Full Movie',
-    im: '8lzmovtARDXnE7kTDOum02i6fXv',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=XgqLbrYW2kQHJgfz7',
-    link: 'tt1430132'
+        "title": "The Wolverine [2013] BluRay [Hindi-English] | Full Movie",
+        "im": "8lzmovtARDXnE7kTDOum02i6fXv",
+        "bgi": "7D2PgX369YYePs4m44IQvROWM42",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=XgqLbrYW2kQHJgfz7",
+        "year": "2013",
+        "duration": "2h 6m",
+        "rating": "6.4",
+        "genre": "Action,Science Fiction,Adventure",
+        "description": "Wolverine faces his ultimate nemesis - and tests of his physical, emotional, and mortal limits - in a life-changing voyage to modern-day Japan.",
+        "type": "movie",
+        "quality": "bluray",
+        "cast": "Hugh Jackman,Hiroyuki Sanada,Tao Okamoto,Rila Fukushima,Famke Janssen"
     },
-    
     {
-    title: 'X-Men: Days of Future Past (2014) BluRay [Hindi-English] | Full Movie',
-    im: 'tYfijzolzgoMOtegh1Y7j2Enorg',
-    dl: 'http://qwrqwrqwr.rf.gd/a/a.php?d4=233ms2aAosaJpWZ69',
-    link: 'tt1877832'
+        "title": "X-Men: Days of Future Past [2014] BluRay [Hindi-English] | Full Movie",
+        "im": "tYfijzolzgoMOtegh1Y7j2Enorg",
+        "bgi": "hUPgIibqZlwbhs4N08cPzzc4f5K",
+        "dl": "http://qwrqwrqwr.rf.gd/a/a.php?d4=233ms2aAosaJpWZ69",
+        "year": "2014",
+        "duration": "2h 12m",
+        "rating": "7.5",
+        "genre": "Action,Adventure,Science Fiction",
+        "description": "The ultimate X-Men ensemble fights a war for the survival of the species across two time periods as they join forces with their younger selves in an epic battle that must change the past \u2013 to save our future.",
+        "type": "movie",
+        "quality": "bluray",
+        "cast": "Hugh Jackman,James McAvoy,Michael Fassbender,Patrick Stewart,Ian McKellen"
     },
     
 {
@@ -3306,7 +3403,7 @@ const movies = [
         "type": "movie",
         "quality": "bluray",
         "cast": "James McAvoy,Michael Fassbender,Jennifer Lawrence,Nicholas Hoult,Oscar Isaac"
-    }    
+    },    
     {
         "title": "Logan [2017] BluRay [Hindi-English] | Full Movie",
         "im": "fnbjcRDYn6YviCcePDnGdyAkYsB",

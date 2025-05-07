@@ -2403,21 +2403,41 @@ const movies = [
     title:'The Divorce Insurance [Episode 5] (Season 1) WEB-DL [Hindi (DD 2.0) & English] | [Amazon Prime Video]',
     im:'6HAbRWYkX3bouEeHA4bjsUxznKC',
     dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/The.Divorce.Insurance.S01E05.720p.WEB-DL.Hindi.2.0-English.2.0.ESub.x264-HDHub4u.Ms.mkv',
-    link: 'tt35839843'
-    },
+    "bgi": "tSeyn9VqrAKuMytgDCXY9iMGXa8",
+    "year": "2025",
+    "duration": "1h",
+    "rating": "6.6",
+    "genre": "Drama,Comedy,",
+    "description": "No Ki-jun, an employee at an insurance company, decides to develop a divorce insurance policy after personally experiencing three divorces that impacted his life and finances. Despite potential biases, he believes divorce is an unforeseen disaster and establishes a team for divorce insurance.",
+    "type": "series",
+    "cast": "Lee Dong-wook,Lee Kwang-soo,Lee Ju-bin,Lee Da-hee,Kim Won-hae"    },
     
     {
     title:'Suits LA [Episode 8] (Season 1) WEB-DL [Hindi (ORG 2.0) & English] | NBC Series',
     im:'3hYiNPkcLoI3QWDokOHQJIfn55O',
     dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Suits.L.A.S01E08.720p.WEB-DL.Hindi.2.0-English.5.1.ESub.x264-HDHub4u.Ms.mkv',
-    link: 'tt31122751'
-    },
+    "bgi": "ljAdFwDLQLlOBIwheKmAdcUS0HM",
+    "year": "2025",
+    "duration": "1h",
+    "rating": "7.5",
+    "genre": "Drama,",
+    "description": "Ted Black, a former federal prosecutor from New York, has reinvented himself representing the most powerful clients in Los Angeles. But his firm is at a crisis point, and in order to survive, he must embrace a role he held in contempt his entire career.",
+    "type": "series",
+    "cast": "Stephen Amell,Lex Scott Davis,Josh McDermitt,Bryan Greenberg,Maggie Grace"    },
     
     {
-    title:'Pushpa 2: The Rule RELOADED (2024) WEB-DL [Hindi (ORG 5.1) & Telugu] [HEVC] | Full Movie [NETFLiX]',
-    im:'gpNcQfQ4YGtFwEcrjcK9HxVM2KF',
-    dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Pushpa.2.The.Rule.Reloaded.2024.720p.HEVC.WEB-DL.Hindi-Telugu.ESub.x265-HDHub4u.Tv.mkv',
-    link: 'tt16539454'
+        "title": "Pushpa 2: The Rule RELOADED [2024] WEB-DL [Hindi [ORG 5.1] & Telugu] [HEVC] | Full Movie [NETFLiX]",
+        "im": "gpNcQfQ4YGtFwEcrjcK9HxVM2KF",
+        "bgi": "keC82cQ8q0ZHthrbvzWq04kGnbv",
+        "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Pushpa.2.The.Rule.Reloaded.2024.720p.HEVC.WEB-DL.Hindi-Telugu.ESub.x265-HDHub4u.Tv.mkv",
+        "year": "2024",
+        "duration": "3h 44m",
+        "rating": "6.7",
+        "genre": "Action,Drama,Thriller,Crime",
+        "description": "As his smuggling empire grows, a brazen Pushpa longs for power and respect on his vengeful journey, while facing old rivals and new.",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "Allu Arjun,Rashmika Mandanna,Fahadh Faasil,Jagadeesh Bandari,Rao Ramesh"
     },
     
     {

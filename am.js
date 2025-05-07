@@ -2003,33 +2003,61 @@ const movies = [
         "cast": "Rajiv Thakur, Ashwini Kalsekar"
     },
     {
-    title:'Devara: Part 1 [2024] WEB-DL [Hindi] [HEVC] | Full Movie',
-    im:'hdpYUidbB83AfemP369W7guOIlr',
-    dl:'https://pub-75da2c60bbef4f4b8d15f14f0ca36898.r2.dev/Devara-Part.1.2024.720p.HEVC.WEB-DL.Hindi.ORG.ESub.x265-Vegamovies.is.mkv',
-    link: 'tt11821912'
+        "title": "Devara: Part 1 [2024] WEB-DL [Hindi] [HEVC] | Full Movie",
+        "im": "hdpYUidbB83AfemP369W7guOIlr",
+        "bgi": "hAQnXxOwCjgYcKRgTdYPRC8neqL",
+        "dl": "https://pub-75da2c60bbef4f4b8d15f14f0ca36898.r2.dev/Devara-Part.1.2024.720p.HEVC.WEB-DL.Hindi.ORG.ESub.x265-Vegamovies.is.mkv",
+        "year": "2024",
+        "duration": "2h 55m",
+        "rating": "7.0",
+        "genre": "Action,Drama",
+        "description": "Devara, a fearless man from a coastal region, embarks on a perilous journey into the treacherous world of the sea to safeguard the lives of his people. Unbeknownst to him, his brother Bhaira is plotting a conspiracy against him. As events unfold, Devara passes on his legacy to his mild-mannered and timid son, Varada.",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "N.T. Rama Rao Jr.,Saif Ali Khan,Prakash Raj,Srikanth,Kalaiyarasan"
     },
-    
     {
-    title:'RRR: Rise Roar Revolt [2022] WEB-DL [Hindi] [HEVC] | Full Movie',
-    im:'ljHw5eIMnki3HekwkKwCCHsRSbH',
-    dl:'https://pub-41908b5dca44409bba6ef37feffe1d7b.r2.dev/RRR.2022.720p.HEVC.NF.WEB-DL.Hindi.ESub.x265-Vegamovies.NL.mkv',
-    link: 'tt8178634'
+        "title": "RRR: Rise Roar Revolt [2022] WEB-DL [Hindi] [HEVC] | Full Movie",
+        "im": "ljHw5eIMnki3HekwkKwCCHsRSbH",
+        "bgi": "77GGKq6Ixq6ZiqBM6XcPZgQmiN2",
+        "dl": "https://pub-41908b5dca44409bba6ef37feffe1d7b.r2.dev/RRR.2022.720p.HEVC.NF.WEB-DL.Hindi.ESub.x265-Vegamovies.NL.mkv",
+        "year": "2022",
+        "duration": "3h 5m",
+        "rating": "7.8",
+        "genre": "Action,Adventure,Drama",
+        "description": "A fictional history of two legendary revolutionaries' journey away from home before they began fighting for their country in the 1920s.",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "N.T. Rama Rao Jr.,Ram Charan,Olivia Morris,Ray Stevenson,Alison Doody"
     },
-    
     {
-    title:'Game Changer [2025] WEB-DL [Hindi] | Full Movie',
-    im:'qtOGsZoLW7QceqKmsOy5nSM6Aik',
-    dl:'https://pub-b6877a675d3444388029480942e617c2.r2.dev/Game.Changer.2025.Hindi.ORG.720p.WEB-DL..ESub.Vegamovies.is.mkv',
-    link: 'tt14209618'
+        "title": "Game Changer [2025] WEB-DL [Hindi] | Full Movie",
+        "im": "qtOGsZoLW7QceqKmsOy5nSM6Aik",
+        "bgi": "aBw406SvghTKV6CTK9t84Bo9Xik",
+        "dl": "https://pub-b6877a675d3444388029480942e617c2.r2.dev/Game.Changer.2025.Hindi.ORG.720p.WEB-DL..ESub.Vegamovies.is.mkv",
+        "year": "2025",
+        "duration": "2h 44m",
+        "rating": "4.7",
+        "genre": "Action,Drama",
+        "description": "Ram, a newly appointed district collector, takes charge in a city in Andhra Pradesh and immediately confronts the deeply entrenched corruption and inefficiency plaguing the government. Determined to bring reforms, he initiates sweeping changes, sparking a fierce conflict with a powerful state Minister.",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "Ram Charan,Anjali,Kiara Advani,S. J. Suryah,Srikanth"
     },
-    
     {
-    title:'GOAT: The Greatest of All Time [2024] WEB-DL [Hindi + Tamil] [HEVC] | Full Movie',
-    im:'r5FjbUg5Ei9I1q48ENbo6XoFFZy',
-    dl:'https://pub-9788ec3a41794eb3a5c8a3ef3e14faf4.r2.dev/The.Greatest.of.All.Time.2024.Hindi.+.Tamil.Dual.Audio.UnCut.Movie.HEVC.720p.ESub.Vegamovies.is.mkv',
-    link: 'tt27487934'
+        "title": "GOAT: The Greatest of All Time [2024] WEB-DL [Hindi + Tamil] [HEVC] | Full Movie",
+        "im": "r5FjbUg5Ei9I1q48ENbo6XoFFZy",
+        "bgi": "wuHD3SiccbQvHUT1LE9o8j9dJlU",
+        "dl": "https://pub-9788ec3a41794eb3a5c8a3ef3e14faf4.r2.dev/The.Greatest.of.All.Time.2024.Hindi.+.Tamil.Dual.Audio.UnCut.Movie.HEVC.720p.ESub.Vegamovies.is.mkv",
+        "year": "2024",
+        "duration": "3h 3m",
+        "rating": "4.9",
+        "genre": "Action,Drama,Thriller",
+        "description": "A once decorated member of the Special Anti-Terrorism Squad (SATS) is called back into action by his former colleagues for an important mission, setting him on a dangerous collision course with his own past.",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "Vijay,Prashanth,Prabhu Deva,Mohan,Ajmal Ameer"
     },
-    
     {
         "title": "No. 1 Businessman [2014] Blu-Ray [Hindi] [UNCUT] | Full Movie",
         "im": "hKdshCzKkT2WNEMQCdxUNtK2M4H",
@@ -2087,38 +2115,74 @@ const movies = [
         "quality": "web-dl"
     },    
     {
-    title:'The Diplomat [2025] WEB-RIP [Hindi] | Full Movie',
-    im:'uwl9Y4px8TTIQK4N19k6gnW1RnX',
-    dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/The%20Diplomat%202025%20Hindi%20HDRip%20720p%20x264%20AVC%20HE-AAC%202.0%20HC-ESub-Vegamovies.is.mkv',
-    link: 'tt26229612'
+        "title": "The Diplomat [2025] WEB-RIP [Hindi] | Full Movie",
+        "im": "uwl9Y4px8TTIQK4N19k6gnW1RnX",
+        "bgi": "neAiiFgTeY5cJmRstKTKQTxS2In",
+        "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/The%20Diplomat%202025%20Hindi%20HDRip%20720p%20x264%20AVC%20HE-AAC%202.0%20HC-ESub-Vegamovies.is.mkv",
+        "year": "2025",
+        "duration": "2h 17m",
+        "rating": "6.6",
+        "genre": "Thriller,Drama",
+        "description": "The Deputy High Commissioner, J.P. Singh, faces an unusual crisis when a mysterious woman rushes inside the Indian High Commission in Islamabad, claiming to be an Indian citizen and seeking a return to India.",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "John Abraham,Sadia Khateeb,Kumud Mishra,Sharib Hashmi,Ashwath Bhatt"
     },
-    
     {
-    title:'Sky Force [2025] WEB-DL [Hindi] | Full Movie',
-    im:'pmtev9YTlIRDo25G7lN8dzyoszn',
-    dl:'https://pub-b273b76c33d84c9f88667bc60304c96f.r2.dev/Sky.Force.2025.WEB-DL.720p.Hindi.AAC.5.1.x264.ESub.Vegamovies.is.mkv',
-    link: 'tt27056066'
+        "title": "Sky Force [2025] WEB-DL [Hindi] | Full Movie",
+        "im": "pmtev9YTlIRDo25G7lN8dzyoszn",
+        "bgi": "pwfXx2O3eFXi5dtWCV5XJPQJgqN",
+        "dl": "https://pub-b273b76c33d84c9f88667bc60304c96f.r2.dev/Sky.Force.2025.WEB-DL.720p.Hindi.AAC.5.1.x264.ESub.Vegamovies.is.mkv",
+        "year": "2025",
+        "duration": "2h 5m",
+        "rating": "6.4",
+        "genre": "Action,Thriller,War,History",
+        "description": "In the 1965 Indo-Pak War, India faces a devastating surprise attack. Wing Commander Ahuja leads a retaliatory strike, but Squadron Leader Vijaya goes missing after a heroic solo engagement against a superior enemy jet. Ahuja spends 23 years seeking the truth and uncovering a cover-up.",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "Akshay Kumar,Veer Pahariya,Nimrat Kaur,Sara Ali Khan,Sharad Kelkar"
     },
-    
     {
-    title:'Deva [2025] WEB-DL [Hindi] [HEVC] | Full Movie',
-    im:'qxtXzAlEPxmjHILU8k8wduvBSdo',
-    dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Deva.2025.720p.HEVC.Hindi.WEB-DL.5.1.ESub.x265-Vegamovies.is.mkv',
-    link: 'tt27852049'
+        "title": "Deva [2025] WEB-DL [Hindi] [HEVC] | Full Movie",
+        "im": "qxtXzAlEPxmjHILU8k8wduvBSdo",
+        "bgi": "lqHt4icP1GTaNBeVTxTrwTZdoAW",
+        "dl": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Deva.2025.720p.HEVC.Hindi.WEB-DL.5.1.ESub.x265-Vegamovies.is.mkv",
+        "year": "2025",
+        "duration": "2h 35m",
+        "rating": "6.0",
+        "genre": "Action,Thriller,Mystery,Crime",
+        "description": "Dev Ambre, a ruthless cop, loses his memory in an accident just after he has finished solving a murder case and now has to reinvestigate it while keeping his memory loss a secret from everyone except DCP Farhan Khan.",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "Shahid Kapoor,Pooja Hegde,Pavail Gulati,Pravessh Rana,Girish Kulkarni"
     },
-    
     {
-    title:'Fast and Furious - F9: The Fast Saga [2021] Bluray [Directors Cut] [Hindi + English] | Full Movie',
-    im:'deEmLILTPejEb6OGsXRJ5MCvyDW',
-    dl:'https://pub-acc5b21b83be483d993b7e39c43cec73.r2.dev/F9.The.Fast.Saga.2021.DC.720P.Bluray.Hindi.English.Esub.Vegamovies.to.mkv',
-    link: 'tt5433138'
+        "title": "Fast and Furious - F9: The Fast Saga [2021] Bluray [Directors Cut] [Hindi + English] | Full Movie",
+        "im": "deEmLILTPejEb6OGsXRJ5MCvyDW",
+        "bgi": "xXHZeb1yhJvnSHPzZDqee0zfMb6",
+        "dl": "https://pub-acc5b21b83be483d993b7e39c43cec73.r2.dev/F9.The.Fast.Saga.2021.DC.720P.Bluray.Hindi.English.Esub.Vegamovies.to.mkv",
+        "year": "2021",
+        "duration": "2h 23m",
+        "rating": "7.1",
+        "genre": "Action,Adventure,Crime",
+        "description": "Dominic Toretto and his crew battle the most skilled assassin and high-performance driver they've ever encountered: his forsaken brother.",
+        "type": "movie",
+        "quality": "bluray",
+        "cast": "Vin Diesel,Michelle Rodriguez,Tyrese Gibson,Ludacris,John Cena"
     },
-    
     {
-    title:'A Working Man [2025] WEB-DL [English] | Full Movie',
-    im:'6FRFIogh3zFnVWn7Z6zcYnIbRcX',
-    dl:'https://throbbing-mountain-e3b9.piledic2924429.workers.dev/5069c913de9bd7a6c365513c50c3e070adf15927e92b5744702eced6653788efa8557307af8dcc93f1363e37c237a7d4::40b7bc74f2658a3cc87abdbdddb54427/1397278704/A.Working.Man.(2025).English.WEB-DL.720p.Vegamovies.is.mkv',
-    link: 'tt9150192'
+        "title": "A Working Man [2025] WEB-DL [English] | Full Movie",
+        "im": "6FRFIogh3zFnVWn7Z6zcYnIbRcX",
+        "bgi": "fTrQsdMS2MUw00RnzH0r3JWHhts",
+        "dl": "https://throbbing-mountain-e3b9.piledic2924429.workers.dev/5069c913de9bd7a6c365513c50c3e070adf15927e92b5744702eced6653788efa8557307af8dcc93f1363e37c237a7d4::40b7bc74f2658a3cc87abdbdddb54427/1397278704/A.Working.Man.(2025).English.WEB-DL.720p.Vegamovies.is.mkv",
+        "year": "2025",
+        "duration": "1h 56m",
+        "rating": "6.5",
+        "genre": "Action,Crime,Thriller",
+        "description": "Levon Cade left behind a decorated military career in the black ops to live a simple life working construction. But when his boss's daughter, who is like family to him, is taken by human traffickers, his search to bring her home uncovers a world of corruption far greater than he ever could have imagined.",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "Jason Statham,Jason Flemyng,Merab Ninidze,Maximilian Osinski,Cokey Falkow"
     },
     
     {
@@ -2127,40 +2191,75 @@ const movies = [
     dl:'https://vcloud.lol/k3x1s2p1a32dtku',
     link: 'tt9140554'
     },
-    
     {
-    title:'The Lion King [2019] [Hindi + English] | Full Movie',
-    im:'dzBtMocZuJbjLOXvrl4zGYigDzh',
-    dl:'https://pub-812c3034b9f0495a9a0fc99beb878367.r2.dev/The.Lion.King.2019.720p.Hindi.English.Vegamovies.NL.mkv',
-    link: 'tt6105098'
+        "title": "The Lion King [2019] [Hindi + English] | Full Movie",
+        "im": "dzBtMocZuJbjLOXvrl4zGYigDzh",
+        "bgi": "1TUg5pO1VZ4B0Q1amk3OlXvlpXV",
+        "dl": "https://pub-812c3034b9f0495a9a0fc99beb878367.r2.dev/The.Lion.King.2019.720p.Hindi.English.Vegamovies.NL.mkv",
+        "year": "2019",
+        "duration": "1h 58m",
+        "rating": "7.1",
+        "genre": "Adventure,Drama,Family,Animation",
+        "description": "Simba idolizes his father, King Mufasa, and takes to heart his own royal destiny. But not everyone in the kingdom celebrates the new cub's arrival. Scar, Mufasa's brother\u2014and former heir to the throne\u2014has plans of his own. The battle for Pride Rock is ravaged with betrayal, tragedy and drama, ultimately resulting in Simba's exile. With help from a curious pair of newfound friends, Simba will have to figure out how to grow up and take back what is rightfully his.",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "Chiwetel Ejiofor,John Oliver,Donald Glover,James Earl Jones,John Kani"
     },
-    
     {
-    title:'Jurassic World [2015] [Hindi + English] | Full Movie',
-    im:'rhr4y79GpxQF9IsfJItRXVaoGs4',
-    dl:'https://pub-f2201cfd3e6c40a0aab698f2469510f4.r2.dev/Jurassic.World.2015.720p.Dual.Audio.Hin.Eng.Vegamovies.NL.mkv',
-    link: 'tt0369610'
+        "title": "Jurassic World [2015] [Hindi + English] | Full Movie",
+        "im": "rhr4y79GpxQF9IsfJItRXVaoGs4",
+        "bgi": "aIGIYJTyOkEVUmEd3z5x6diYsFx",
+        "dl": "https://pub-f2201cfd3e6c40a0aab698f2469510f4.r2.dev/Jurassic.World.2015.720p.Dual.Audio.Hin.Eng.Vegamovies.NL.mkv",
+        "year": "2015",
+        "duration": "2h 4m",
+        "rating": "6.7",
+        "genre": "Action,Adventure,Science Fiction,Thriller",
+        "description": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "Chris Pratt,Bryce Dallas Howard,Irrfan Khan,Vincent D&#39;Onofrio,Ty Simpkins"
     },
-    
     {
-    title:'Inside Out 2 [2024] Blu-Ray [Hindi + English] | Full Movie',
-    im:'vpnVM9B6NMmQpWeZvzLvDESb2QY',
-    dl:'https://pub-18f397d85d2b418795d42f93537c3335.r2.dev/Inside.Out.2.2024.720p.HS.WEB-DL.English+Hindi.DDP5.1.H.265.Vegamovies.is.mkv',
-    link: 'tt22022452'
+        "title": "Inside Out 2 [2024] Blu-Ray [Hindi + English] | Full Movie",
+        "im": "vpnVM9B6NMmQpWeZvzLvDESb2QY",
+        "bgi": "p5ozvmdgsmbWe0H8Xk7Rc8SCwAB",
+        "dl": "https://pub-18f397d85d2b418795d42f93537c3335.r2.dev/Inside.Out.2.2024.720p.HS.WEB-DL.English+Hindi.DDP5.1.H.265.Vegamovies.is.mkv",
+        "year": "2024",
+        "duration": "1h 37m",
+        "rating": "7.6",
+        "genre": "Animation,Adventure,Comedy,Family",
+        "description": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who\u2019ve long been running a successful operation by all accounts, aren\u2019t sure how to feel when Anxiety shows up. And it looks like she\u2019s not alone.",
+        "type": "movie",
+        "quality": "bluray",
+        "cast": "Amy Poehler,Maya Hawke,Kensington Tallman,Liza Lapira,Tony Hale"
     },
-    
     {
-    title:'Star Wars: The Force Awakens [2015] [Hindi + English] | Full Movie',
-    im:'wqnLdwVXoBjKibFRR5U3y0aDUhs',
-    dl:'https://pub-6a8e352f3b4343fab30e662ffe843820.r2.dev/Star%20Wars%20Episode%20VII%202015%20BluRay%20720p%20Hindi%20English%20AAC%205.1%20x264%20ESub%20-%20[Vegamovies.NL].mkv',
-    link: 'tt2488496'
+        "title": "Star Wars: The Force Awakens [2015] [Hindi + English] | Full Movie",
+        "im": "wqnLdwVXoBjKibFRR5U3y0aDUhs",
+        "bgi": "k6EOrckWFuz7I4z4wiRwz8zsj4H",
+        "dl": "https://pub-6a8e352f3b4343fab30e662ffe843820.r2.dev/Star%20Wars%20Episode%20VII%202015%20BluRay%20720p%20Hindi%20English%20AAC%205.1%20x264%20ESub%20-%20[Vegamovies.NL].mkv",
+        "year": "2015",
+        "duration": "2h 16m",
+        "rating": "7.3",
+        "genre": "Adventure,Action,Science Fiction",
+        "description": "Thirty years after defeating the Galactic Empire, Han Solo and his allies face a new threat from the evil Kylo Ren and his army of Stormtroopers.",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "Harrison Ford,Mark Hamill,Carrie Fisher,Adam Driver,Daisy Ridley"
     },
-    
     {
-    title:'Titanic [1997] [Hindi + English] | Full Movie',
-    im:'9xjZS2rlVxm8SFx8kPC3aIGCOYQ',
-    dl:'https://pub-546f1a61e0bd416aa572728de0a78a63.r2.dev/Titanic.1997.720p.English.Hindi.Vegamovies.to.mkv',
-    link: 'tt0120338'
+        "title": "Titanic [1997] [Hindi + English] | Full Movie",
+        "im": "9xjZS2rlVxm8SFx8kPC3aIGCOYQ",
+        "bgi": "sCzcYW9h55WcesOqA12cgEr9Exw",
+        "dl": "https://pub-546f1a61e0bd416aa572728de0a78a63.r2.dev/Titanic.1997.720p.English.Hindi.Vegamovies.to.mkv",
+        "year": "1997",
+        "duration": "3h 14m",
+        "rating": "7.9",
+        "genre": "Drama,Romance",
+        "description": "101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fianc\u00e9. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. Rose tells the whole story from Titanic's departure through to its death\u2014on its first and last voyage\u2014on April 15, 1912.",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "Leonardo DiCaprio,Kate Winslet,Billy Zane,Kathy Bates,Frances Fisher"
     },
     
     {

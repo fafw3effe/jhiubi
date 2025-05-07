@@ -63,6 +63,20 @@ const movies = [
         "quality": "web-dl",
         "cast": "Cillian Murphy, Sam Neill, Helen McCrory"
     },
+    {
+        "title": "Maleficent [2014] WEB-DL [Hindi + English] | Full Movie",
+        "im": "bDG3yei6AJlEAK3A5wN7RwFXQ7V",
+        "bgi": "4hfcpHmMEgmFTdnVx4XCtM6dgCG",
+        "dl": "https://pixeldrain.net/api/file/TuDNQFXT?download",
+        "year": "2014",
+        "duration": "1h 37m",
+        "rating": "7.1",
+        "genre": "Fantasy,Adventure,Action,Family,Romance,",
+        "description": "A beautiful, pure-hearted young woman, Maleficent has an idyllic life growing up in a peaceable forest kingdom, until one day when an invading army threatens the harmony of the land. She rises to be the land's fiercest protector, but she ultimately suffers a ruthless betrayal – an act that begins to turn her heart into stone. Bent on revenge, Maleficent faces an epic battle with the invading King's successor and, as a result, places a curse upon his newborn infant Aurora. As the child grows, Maleficent realizes that Aurora holds the key to peace in the kingdom – and to Maleficent's true happiness as well.",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "Angelina Jolie,Elle Fanning,Imelda Staunton,Sharlto Copley,Lesley Manville"
+    },
 {
     "title": "The Divorce Insurance [Season 1] [Episode 12] WEB-DL [Hindi + English]",
     "im": "6HAbRWYkX3bouEeHA4bjsUxznKC",

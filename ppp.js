@@ -6,12 +6,13 @@ function getUrlParams() {
     const params = new URLSearchParams(window.location.search);
     return {
         search: params.get('s') || '',
-        page: parseInt(params.get('p')) || 1
+        page: parseInt(params.get('p')) || 1,
+        post: params.get('post') || ''
     };
 }
 
-// Function to update URL with search term and page
-function updateUrl(searchTerm, page) {
+// Function to update URL with search term, page, and post
+function updateUrl(searchTerm, page, postId = '') {
     const params = new URLSearchParams();
     if (searchTerm) {
         params.set('s', searchTerm);
@@ -19,8 +20,22 @@ function updateUrl(searchTerm, page) {
     if (page && page > 1) {
         params.set('p', page);
     }
+    if (postId) {
+        params.set('post', postId);
+    }
     const newUrl = `${window.location.pathname}${params.toString() ? '?' + params.toString() : ''}`;
-    history.pushState({ searchTerm, page }, '', newUrl);
+    history.pushState({ searchTerm, page, postId }, '', newUrl);
+}
+
+// Function to share the current movie URL
+function shareMovie(movie) {
+    const shareUrl = `${window.location.origin}${window.location.pathname}?post=${movie.im}`;
+    navigator.clipboard.writeText(shareUrl).then(() => {
+        alert('Movie URL copied to clipboard!');
+    }).catch(err => {
+        console.error('Failed to copy URL:', err);
+        alert('Failed to copy URL. Please copy it manually: ' + shareUrl);
+    });
 }
 
 // Initialize the page
@@ -28,6 +43,15 @@ window.onload = function() {
     const params = getUrlParams();
     currentPage = params.page;
     document.getElementById('searchInput').value = params.search;
+    
+    // Check if there's a post ID in the URL
+    if (params.post) {
+        const movie = movies.find(m => m.im === params.post);
+        if (movie) {
+            openModal(movie);
+        }
+    }
+    
     displayMovies();
     updatePagination();
 };
@@ -59,7 +83,7 @@ document.getElementById('searchInput').addEventListener('input', function() {
 
 // Function to trigger search
 function triggerSearch(term) {
-    closeModal(); // Close the modal before triggering the search
+    closeModal();
     document.getElementById('searchInput').value = term;
     currentPage = 1;
     updateUrl(term, currentPage);
@@ -74,7 +98,6 @@ function displayMovies() {
     list.innerHTML = '';
 
     const searchTerm = document.getElementById('searchInput').value.toLowerCase();
-    // Remove specified characters from search term
     const cleanedSearchTerm = searchTerm.replace(/[{}\-.\()\s|:\[\]]/g, '');
 
     const filteredMovies = movies.filter(movie => {
@@ -116,28 +139,25 @@ function displayMovies() {
         thumbnail.alt = movie.title;
         thumbnail.loading = 'lazy';
         
-        // Rating sticker
         const ratingSticker = document.createElement('div');
         ratingSticker.className = 'sticker rating-sticker';
         ratingSticker.innerHTML = `<i class="fas fa-star"></i> ${movie.rating || 'N/A'}`;
         
-        // Determine rating color
-        let ratingColor = '#6c757d'; // Default for N/A
+        let ratingColor = '#6c757d';
         if (movie.rating && !isNaN(parseFloat(movie.rating))) {
             const rating = parseFloat(movie.rating);
             if (rating >= 8.5) {
-                ratingColor = '#0074f8'; // Green for high ratings (8.5–10)
+                ratingColor = '#0074f8';
             } else if (rating >= 7) {
-                ratingColor = '#28a745'; // Yellow for medium-high (7–8.4)
+                ratingColor = '#28a745';
             } else if (rating >= 5) {
-                ratingColor = '#fd7e14'; // Orange for medium (5–6.9)
+                ratingColor = '#fd7e14';
             } else {
-                ratingColor = '#dc3545'; // Red for low ratings (1–4.9)
+                ratingColor = '#dc3545';
             }
         }
         ratingSticker.style.backgroundColor = ratingColor;
         
-        // Quality or Season sticker
         let qualityClass = 'quality-hd';
         let qualityText = movie.quality || 'hd';
         
@@ -262,8 +282,12 @@ function openModal(movie) {
     const modalDuration = document.getElementById('modalDuration');
     const modalYear = document.getElementById('modalYear');
     const modalGenre = document.getElementById('modalGenre');
-    const modalCast = document.getElementById('modalCast');
+    const modalCast = document.getEarthById('modalCast');
     const modalDescription = document.getElementById('modalDescription');
+    
+    // Update URL with post ID
+    const searchTerm = document.getElementById('searchInput').value;
+    updateUrl(searchTerm, currentPage, movie.im);
     
     const modalImage = movie.bgi || movie.im;
     
@@ -273,19 +297,22 @@ function openModal(movie) {
     
     videoPlayer.innerHTML = '';
     
-    // Check if the title contains "All Episode" or "HEVC" (case-insensitive)
     const titleLower = movie.title.toLowerCase();
     const hideVideoPlayer = titleLower.includes('all episodes') || titleLower.includes('hevc');
     
-    if (!movie.dl && !hideVideoPlayer) {
+    if (movie.dl && !hideVideoPlayer) {
         try {
             videoPlayer.innerHTML = `
             <video controls preload="metadata"
                 poster="https://image.tmdb.org/t/p/w533_and_h300_bestv2/${modalImage}.jpg"
-                style="width:100%;height:100%;object-fit:contain;background:#000;">
+                style="width:100%;height:100%;object-fit:contain;background:#000;"
+                onerror="this.style.display='none';this.nextElementSibling.style.display='block';">
                 <source src="${movie.dl}" type="video/mp4">
                 Your browser doesn't support HTML5 video.
-            </video>`;
+            </video>
+            <div style="display:none;color:white;background:#000;width:100%;height:100%;text-align:center;padding-top:50px;">
+                Sorry, the video cannot be played. Please try downloading the file.
+            </div>`;
             modalPoster.style.display = 'none';
         } catch(e) {
             console.error('Error creating video player:', e);
@@ -296,19 +323,22 @@ function openModal(movie) {
     }
     
     let displayTitle = movie.title;
-    modalTitle.textContent = displayTitle;
+    modalTitle.innerHTML = `
+        ${displayTitle}
+        <button onclick="shareMovie(${JSON.stringify(movie)})" class="share-button" title="Share this movie">
+            <i class="fas fa-share-alt"></i>
+        </button>
+    `;
     modalDownload.href = 'https://dereferer.me/?' + movie.dl;
     modalRating.textContent = movie.rating || 'N/A';
     modalDuration.textContent = movie.duration || 'N/A';
     modalYear.innerHTML = `<a onclick="triggerSearch('${movie.year}')">${movie.year || 'N/A'}</a>`;
     
-    // Split genres and create separate links
     const genres = movie.genre ? movie.genre.split(',').map(g => g.trim()) : ['N/A'];
     modalGenre.innerHTML = genres.map(genre => 
         `<a onclick="triggerSearch('${genre}')">${genre}</a>`
     ).join(', ');
     
-    // Split cast and create separate links
     const cast = movie.cast ? movie.cast.split(',').map(c => c.trim()) : ['N/A'];
     modalCast.innerHTML = cast.map(actor => 
         `<a onclick="triggerSearch('${actor}')">${actor}</a>`
@@ -332,6 +362,10 @@ function closeModal() {
     videoPlayer.innerHTML = '';
     modal.style.display = 'none';
     document.body.style.overflow = 'auto';
+    
+    // Remove post ID from URL when closing modal
+    const searchTerm = document.getElementById('searchInput').value;
+    updateUrl(searchTerm, currentPage);
 }
 
 window.onclick = function(event) {
@@ -350,6 +384,18 @@ window.addEventListener('popstate', function(event) {
     const params = getUrlParams();
     currentPage = params.page;
     document.getElementById('searchInput').value = params.search;
+    
+    if (params.post) {
+        const movie = movies.find(m => m.im === params.post);
+        if (movie) {
+            openModal(movie);
+        } else {
+            closeModal();
+        }
+    } else {
+        closeModal();
+    }
+    
     displayMovies();
     updatePagination();
 });

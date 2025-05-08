@@ -48,6 +48,20 @@ const movies = [
         "quality": "web-dl",
         "cast": "Ajith Kumar,Trisha Krishnan,Arjun Das,Sunil Varma,Prabhu"
     },
+    {
+        title:'Naruto: Shippuden [Season 9] WEB-DL [Hindi + English] | All Episodes',
+        im:'zIoec9Wa0WtRhwSl9pTrBl9mUOb',
+        bgi:'qpVKN5DhQOvjMBjjG2ajyJ5vSL1',
+        dl:'https://vcloud.lol/rltugqozqlza1h1',
+        "bgi": "xuJ0F9RfKvVSJNDg2usurQ9WvY5",
+        "year": "2002",
+        "duration": "1h",
+        "rating": "8.4",
+        "genre": "Animation,Action & Adventure,Sci-Fi & Fantasy,",
+        "description": "Naruto Uzumaki, a mischievous adolescent ninja, struggles as he searches for recognition and dreams of becoming the Hokage, the village's leader and strongest ninja.",
+        "type": "series",
+        "cast": "Junko Takeuchi,Noriaki Sugiyama,Chie Nakamura,Kazuhiko Inoue,Hidekatsu Shibata"
+        },
 {
     "title": "The Assessment [2025] WEB-DL [Hindi + English] | Full Movie",
     "im": "fTWki5Cl8OU3UjQiMcPIynR9QEV",
@@ -2617,20 +2631,7 @@ const movies = [
     "type": "series",
     "cast": "Úrsula Corberó,Itziar Ituño,Álvaro Morte,Pedro Alonso,Miguel Herrán"
     },
-    
-    {
-    title:'Naruto: Shippuden [Season 9] WEB-DL [Hindi + English] | All Episodes',
-    im:'zIoec9Wa0WtRhwSl9pTrBl9mUOb',
-    dl:'https://vcloud.lol/rltugqozqlza1h1',
-    "bgi": "xuJ0F9RfKvVSJNDg2usurQ9WvY5",
-    "year": "2002",
-    "duration": "1h",
-    "rating": "8.4",
-    "genre": "Animation,Action & Adventure,Sci-Fi & Fantasy,",
-    "description": "Naruto Uzumaki, a mischievous adolescent ninja, struggles as he searches for recognition and dreams of becoming the Hokage, the village's leader and strongest ninja.",
-    "type": "series",
-    "cast": "Junko Takeuchi,Noriaki Sugiyama,Chie Nakamura,Kazuhiko Inoue,Hidekatsu Shibata"
-    },
+
     
     {
     title:'Naruto [Season 9] WEB-DL [Hindi + English] | All Episodes',

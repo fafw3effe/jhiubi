@@ -34,7 +34,20 @@ const movies = [
         "quality": "web-dl",
         "cast": "Cillian Murphy, Sam Neill, Helen McCrory"
     },
-
+    {
+        "title": "Good Bad Ugly [2025] WEB-DL [Hindi + Tamil] | Full Movie",
+        "im": "h8MRCA7lUIiUgswtaJOxlXONZuT",
+        "bgi": "5CtvMLmCdksbYqqQd812WYML2wJ",
+        "dl": "https://pixeldrain.net/api/file/HbqgMFMz?download",
+        "year": "2025",
+        "duration": "2h 19m",
+        "rating": "6.9",
+        "genre": "Action,Crime,Comedy,",
+        "description": "AK, a powerful gangster, surrenders to the police, in hopes that his wife and son will live a peaceful life. When he is released 17 years later, he learns that his son is falsely accused of serious crimes. To protect him, he is forced to go back to his old ways, facing enemies, both old and new.",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "Ajith Kumar,Trisha Krishnan,Arjun Das,Sunil Varma,Prabhu"
+    },
     {
         "title": "The Match [2025] WEB-DL [Hindi + English] | Full Movie",
         "im": "x1xHVv5rdvvCjF5wmGhtbHrlUgo",
@@ -51,7 +64,7 @@ const movies = [
     },
     
 {
-    "title": "Odela 2 [2025] WEB-DL [Hindi + English] | Full Movie",
+    "title": "Odela 2 [2025] WEB-DL [Hindi + Telugu] | Full Movie",
     "im": "73jYyHedLEOzMtg14Zp54g971Ga",
     "bgi": "4D7vkNkdDnAxYkmvpRaSO9diqhq",
     "dl": "https://pixeldrain.net/api/file/gJXqJfr8?download",
@@ -65,6 +78,20 @@ const movies = [
     "cast": "Tamannaah Bhatia,Hebah Patel,Vasishta N. Simha,Naga Mahesh"
 },
 
+{
+    "title": "JACK [2025] WEB-DL [Hindi + Telugu] | Full Movie",
+    "im": "fB0gnMV4c2ERxAwRQunGzfXj06o",
+    "bgi": "",
+    "dl": "https://pixeldrain.net/api/file/1bfeGa9c?download",
+    "year": "2025",
+    "duration": "2h 13m",
+    "rating": "6.6",
+    "genre": "Comedy, Action, Romance",
+    "description": "A group of teenagers go to an abandoned building in the woods to have a party, little to they know who waits for them there…",
+    "type": "movie",
+    "quality": "web-dl",
+    "cast": "Brahmaji, Vaishnavi Chaitanya, Sidhu Jonnalagadda"
+},
 
     //new
     {

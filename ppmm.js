@@ -48,6 +48,20 @@ const movies = [
         "quality": "web-dl",
         "cast": "Ajith Kumar,Trisha Krishnan,Arjun Das,Sunil Varma,Prabhu"
     },
+{
+    "title": "The Assessment [2025] WEB-DL [Hindi + English] | Full Movie",
+    "im": "fTWki5Cl8OU3UjQiMcPIynR9QEV",
+    "bgi": "96w2p3xKIgvuSTJsNVnvNFqOhPJ",
+    "dl": "https://pixeldrain.net/api/file/V3zsaDS9?download",
+    "year": "2025",
+    "duration": "1h 55m",
+    "rating": "6.9",
+    "genre": "Science Fiction,Drama,Thriller,",
+    "description": "In a climate change-ravaged world, a utopian society optimizes life, including parenthood assessments. A successful couple faces scrutiny by an evaluator over seven days to determine their fitness for childbearing.",
+    "type": "movie",
+    "quality": "web-dl",
+    "cast": "Elizabeth Olsen,Himesh Patel,Alicia Vikander,Minnie Driver,Indira Varma"
+},
     {
         "title": "The Match [2025] WEB-DL [Hindi + English] | Full Movie",
         "im": "x1xHVv5rdvvCjF5wmGhtbHrlUgo",

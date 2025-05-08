@@ -62,6 +62,20 @@ const movies = [
     "quality": "web-dl",
     "cast": "Elizabeth Olsen,Himesh Patel,Alicia Vikander,Minnie Driver,Indira Varma"
 },
+
+{
+    "title": "Apharan [Season 2] WEB-DL [Hindi] | All Episodes",
+    "im": "18gAXh0FIepWN73Zvycoit0Cedm",
+    "dl": "https://f.pptons.com/b.php?d=srh0MtGJBY",
+    "bgi": "6okHox2vlY0yhpClWAUEu9bXjEU",
+    "year": "2022",
+    "duration": "1h",
+    "rating": "7.0",
+    "genre": "Crime,Drama,",
+    "description": "Rudra Srivastava, a senior inspector with Uttarakhand police is lured into kidnapping a young girl at her request. The plot begins as a simple plan to extort money in exchange for her release. When the chain of events go wrong and a series of lies unfold, he realizes that he is now a part of a deadly conspiracy. Will he be able to escape the outcome of his choices or become a victim of the web of lies?",
+    "type": "series",
+    "cast": "Arunoday Singh,Mahie Gill,Nidhi Singh,Monica Chaudhary,Sanjay Batra"
+},
     {
         "title": "The Match [2025] WEB-DL [Hindi + English] | Full Movie",
         "im": "x1xHVv5rdvvCjF5wmGhtbHrlUgo",

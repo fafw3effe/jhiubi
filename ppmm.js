@@ -20,6 +20,20 @@ const movies = [
     
     */
 
+{
+    "title": "Agent [2023] UNCUT WEB-DL [Hindi + Telugu] | Full Movie",
+    "im": "ezFe7IZ6xbNdaq4VQglpOIip8qd",
+    "bgi": "dUg2WN7CPE5noL3mbFXWcC6IAIU",
+    "dl": "https://pixeldrain.net/api/file/qgWzdnT8?download",
+    "year": "2023",
+    "duration": "2h 35m",
+    "rating": "4.7",
+    "genre": "Action,Thriller,",
+    "description": "Ramakrishna aka Ricky's only one goal in life is to be a RAW recruitee and undertake some Planet-saving mission. Mahadev, RAW head, ropes him in for the most important mission ever known and unknown to even the Prime Minister of India. Ricky must tame The God, the megalomaniacal lynchpin of a giant-sized crime syndicate.",
+    "type": "movie",
+    "quality": "web-dl",
+    "cast": "Akhil Akkineni,Mammootty,Dino Morea,Sakshi Vaidya,Sampath Raj"
+},
     {
         "title": "Peaky Blinders [Season 2] [Episode 5] WEB-DL [Hindi + English]",
         "im": "m4JPtC3gWUsq0GlfNK3SdgkL9XG",
@@ -33,20 +47,6 @@ const movies = [
         "type": "series",
         "quality": "web-dl",
         "cast": "Cillian Murphy, Sam Neill, Helen McCrory"
-    },
-    {
-        "title": "Good Bad Ugly [2025] WEB-DL [Hindi + Tamil] | Full Movie",
-        "im": "h8MRCA7lUIiUgswtaJOxlXONZuT",
-        "bgi": "5CtvMLmCdksbYqqQd812WYML2wJ",
-        "dl": "https://pixeldrain.net/api/file/HbqgMFMz?download",
-        "year": "2025",
-        "duration": "2h 19m",
-        "rating": "6.9",
-        "genre": "Action,Crime,Comedy,",
-        "description": "AK, a powerful gangster, surrenders to the police, in hopes that his wife and son will live a peaceful life. When he is released 17 years later, he learns that his son is falsely accused of serious crimes. To protect him, he is forced to go back to his old ways, facing enemies, both old and new.",
-        "type": "movie",
-        "quality": "web-dl",
-        "cast": "Ajith Kumar,Trisha Krishnan,Arjun Das,Sunil Varma,Prabhu"
     },
     {
         title:'Naruto: Shippuden [Season 9] WEB-DL [Hindi + English] | All Episodes',
@@ -74,6 +74,20 @@ const movies = [
     "type": "movie",
     "quality": "web-dl",
     "cast": "Elizabeth Olsen,Himesh Patel,Alicia Vikander,Minnie Driver,Indira Varma"
+},
+{
+    "title": "Good Bad Ugly [2025] WEB-DL [Hindi + Tamil] | Full Movie",
+    "im": "h8MRCA7lUIiUgswtaJOxlXONZuT",
+    "bgi": "5CtvMLmCdksbYqqQd812WYML2wJ",
+    "dl": "https://pixeldrain.net/api/file/HbqgMFMz?download",
+    "year": "2025",
+    "duration": "2h 19m",
+    "rating": "6.9",
+    "genre": "Action,Crime,Comedy,",
+    "description": "AK, a powerful gangster, surrenders to the police, in hopes that his wife and son will live a peaceful life. When he is released 17 years later, he learns that his son is falsely accused of serious crimes. To protect him, he is forced to go back to his old ways, facing enemies, both old and new.",
+    "type": "movie",
+    "quality": "web-dl",
+    "cast": "Ajith Kumar,Trisha Krishnan,Arjun Das,Sunil Varma,Prabhu"
 },
 
 {

@@ -79,7 +79,7 @@ const movies = [
 {
     "title": "Jamtara - Sabka Number Ayega [Season 1] WEB-DL [Hindi] | All Episodes",
     "im": "fo4om3CzxrqQOsYD94UGIWBNU3f",
-    "dl": "http://qwrqwrqwr.rf.gd/a/a.php?pd=oDM9dDB1&sn=1&es=Jamtara.-.Sabka.Number.Ayega.S01.720p.WEB-DL.AAC.5.1.ESub.x264-HDHub4u.TV/Jamtara.-.Sabka.Number.Ayega.S01E&e=8&el=.720p.WEB-DL.AAC.5.1.ESub.x264-HDHub4u.TV.mkv",
+    "dl": "http://qwrqwrqwr.rf.gd/a/a.php?pd=vhHgBCjm&sn=1&es=Jamtara.-.Sabka.Number.Ayega.S01.720p.WEB-DL.AAC.5.1.ESub.x264-HDHub4u.TV/Jamtara.-.Sabka.Number.Ayega.S01E&e=8&el=.720p.WEB-DL.AAC.5.1.ESub.x264-HDHub4u.TV.mkv",
     "link": "tt11150912",
     "year": "2022",
     "duration": "40 min per episode",

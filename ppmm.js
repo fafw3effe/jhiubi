@@ -52,7 +52,7 @@ const movies = [
         title:'Naruto: Shippuden [Season 9] WEB-DL [Hindi + English] | All Episodes',
         im:'zIoec9Wa0WtRhwSl9pTrBl9mUOb',
         bgi:'qpVKN5DhQOvjMBjjG2ajyJ5vSL1',
-        dl:'https://vcloud.lol/rltugqozqlza1h1',
+        dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=vhHgBCjm&sn=1&es=Naruto.Shippuden.E&e=117&lp=20&el=.720p.WEB-DL.x264.Multi.Audio.ESub.Vegamovies.is.mkv',
         "bgi": "xuJ0F9RfKvVSJNDg2usurQ9WvY5",
         "year": "2002",
         "duration": "1h",

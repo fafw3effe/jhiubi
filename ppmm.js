@@ -76,6 +76,21 @@ const movies = [
     "type": "series",
     "cast": "Arunoday Singh,Mahie Gill,Nidhi Singh,Monica Chaudhary,Sanjay Batra"
 },
+{
+    "title": "Jamtara - Sabka Number Ayega [Season 1] WEB-DL [Hindi] | All Episodes",
+    "im": "fo4om3CzxrqQOsYD94UGIWBNU3f",
+    "dl": "http://qwrqwrqwr.rf.gd/a/a.php?pd=oDM9dDB1&sn=1&es=Jamtara.-.Sabka.Number.Ayega.S01.720p.WEB-DL.AAC.5.1.ESub.x264-HDHub4u.TV/Jamtara.-.Sabka.Number.Ayega.S01E&e=8&el=.720p.WEB-DL.AAC.5.1.ESub.x264-HDHub4u.TV.mkv",
+    "link": "tt11150912",
+    "year": "2022",
+    "duration": "40 min per episode",
+    "rating": "7.8",
+    "genre": "Crime, Drama, Thriller",
+    "description": "A group of small-town young men run a lucrative phishing operation, until a corrupt politician wants in on their scheme -- and a cop wants to fight it.",
+    "type": "series",
+    "quality": "web-dl"
+    "bgi": "zXi65hFftGcZwsrx2wNfi1RU4VH",
+    "cast": "Amit Sial,Dibyendu Bhattacharya,Aksha Pardasany,Sparsh Shrivastava,Monika Panwar"
+},
     {
         "title": "The Match [2025] WEB-DL [Hindi + English] | Full Movie",
         "im": "x1xHVv5rdvvCjF5wmGhtbHrlUgo",
@@ -1330,6 +1345,8 @@ const movies = [
             "description": "The con artists from Jamtara are back with new tricks and challenges. As the stakes get higher, the battle between law enforcement and scammers intensifies.",
             "type": "series",
             "quality": "web-dl"
+            "bgi": "zXi65hFftGcZwsrx2wNfi1RU4VH",
+            "cast": "Amit Sial,Dibyendu Bhattacharya,Aksha Pardasany,Sparsh Shrivastava,Monika Panwar"
         },
         {
             "title": "Weak Hero [Season 2] WEB-DL [Hindi + English] | All Episodes",

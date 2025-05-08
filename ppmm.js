@@ -21,6 +21,53 @@ const movies = [
     */
 
     {
+        "title": "Peaky Blinders [Season 2] [Episode 5] WEB-DL [Hindi + English]",
+        "im": "m4JPtC3gWUsq0GlfNK3SdgkL9XG",
+        "bgi": "4aSJfYZlhbNB15GurAQZNsyDADI",
+        "dl": "https://pixeldrain.net/api/file/aKLsRBk7?download",
+        "year": "2014",
+        "duration": "58 min",
+        "rating": "8.8",
+        "genre": "Crime, Drama",
+        "description": "A notorious gang in 1919 Birmingham, England, is led by the fierce Tommy Shelby, a crime boss set on moving up in the world no matter the cost.",
+        "type": "series",
+        "quality": "web-dl",
+        "cast": "Cillian Murphy, Sam Neill, Helen McCrory"
+    },
+
+    {
+        "title": "The Match [2025] WEB-DL [Hindi + English] | Full Movie",
+        "im": "x1xHVv5rdvvCjF5wmGhtbHrlUgo",
+        "bgi": "3dZSdoJNuIljCmdG6wvLzpacRG6",
+        "dl": "https://pixeldrain.net/api/file/rUQXmbKs?download",
+        "year": "2025",
+        "duration": "1h 55m",
+        "rating": "6.5",
+        "genre": "Drama,",
+        "description": "When a legendary Go master loses his title to a one-time friend and protégé, he sets out to reclaim it in a high-stakes battle of wits and skill.",
+        "type": "movie",
+        "quality": "web-dl",
+        "cast": "Lee Byung-hun,Yoo Ah-in,Moon Jeong-hee,Kim Kang-hoon,Jeong Seok-yong"
+    },
+    
+{
+    "title": "Odela 2 [2025] WEB-DL [Hindi + English] | Full Movie",
+    "im": "73jYyHedLEOzMtg14Zp54g971Ga",
+    "bgi": "4D7vkNkdDnAxYkmvpRaSO9diqhq",
+    "dl": "https://pixeldrain.net/api/file/gJXqJfr8?download",
+    "year": "2025",
+    "duration": "2h 30m",
+    "rating": "5.6",
+    "genre": "Adventure, Crime, Drama, Thriller",
+    "description": "It tells the story of a saviour called Odela Mallanna Swamy who protects a village from evil forces.",
+    "type": "movie",
+    "quality": "web-dl",
+    "cast": "Tamannaah Bhatia,Hebah Patel,Vasishta N. Simha,Naga Mahesh"
+},
+
+
+    //new
+    {
         "title": "Theevram [2012] WEB-DL [Hindi + English] | Full Movie",
         "im": "8wlcX2ZKomm2bfTZkl84WZ3T3pt",
         "bgi": "eu77hdChwNXIzEfLaw3ixrAbrLZ",

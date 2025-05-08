@@ -930,20 +930,6 @@ const movies = [
         "type": "series",
         "quality": "web-dl"
     },
-    {
-            "title": "Good Bad Ugly [2025] WEB-DL [Hindi + Tamil] | Full Movie",
-            "im": "8DbYYluzdiGDAZzsaP7DWGbwfLd",
-            "bgi": "5CtvMLmCdksbYqqQd812WYML2wJ",
-            "dl": "https://pixeldrain.net/api/file/gFSFRfDy?download",
-            "link": "tt27540217",
-            "year": "2025",
-            "duration": "120 min",
-            "rating": "7.3",
-            "genre": "Action, Drama, Western",
-            "description": "A lone gunslinger must navigate a brutal world full of criminals, lawmen, and betrayal as he seeks justice in the Wild West.",
-            "type": "movie",
-            "quality": "web-dl"
-        },
         {
             "title": "The Monkey [2025] WEB-DL [Hindi + English] | Full Movie",
             "im": "2nZE6f86GiJRGUGmIsBdVZVr5fx",

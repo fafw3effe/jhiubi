@@ -87,7 +87,7 @@ const movies = [
     "genre": "Crime, Drama, Thriller",
     "description": "A group of small-town young men run a lucrative phishing operation, until a corrupt politician wants in on their scheme -- and a cop wants to fight it.",
     "type": "series",
-    "quality": "web-dl"
+    "quality": "web-dl",
     "bgi": "zXi65hFftGcZwsrx2wNfi1RU4VH",
     "cast": "Amit Sial,Dibyendu Bhattacharya,Aksha Pardasany,Sparsh Shrivastava,Monika Panwar"
 },
@@ -1344,7 +1344,7 @@ const movies = [
             "genre": "Crime, Drama, Thriller",
             "description": "The con artists from Jamtara are back with new tricks and challenges. As the stakes get higher, the battle between law enforcement and scammers intensifies.",
             "type": "series",
-            "quality": "web-dl"
+            "quality": "web-dl",
             "bgi": "zXi65hFftGcZwsrx2wNfi1RU4VH",
             "cast": "Amit Sial,Dibyendu Bhattacharya,Aksha Pardasany,Sparsh Shrivastava,Monika Panwar"
         },

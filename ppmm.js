@@ -23,7 +23,7 @@ const movies = [
 
     
 {
-    "title": "Ali G Indahouse [2002] WEB-DL [Hindi + English] | Full Movie",
+    "title": "Ali G Indahouse [2002] BLU-RAY [Hindi + English] | Full Movie",
     "im": "pjKvQrVpekshVM6DUDOt3ImhAVH",
     "bgi": "ll5ktqAG3EOlCS8bpyoC0kYSSe9",
     "dl": "https://pixeldrain.net/api/file/vfyLN5xt?download",
@@ -33,7 +33,7 @@ const movies = [
     "genre": "Comedy,",
     "description": "Ali G unwittingly becomes a pawn in the evil Chancellor's plot to overthrow the Prime Minister of Great Britain. However, instead of bringing the Prime Minister down, Ali is embraced by the nation as the voice of youth and 'realness', making the Prime Minister and his government more popular than ever.",
     "type": "movie",
-    "quality": "web-dl",
+    "quality": "blu-ray",
     "cast": "Sacha Baron Cohen,Michael Gambon,Charles Dance,Kellie Bright,Martin Freeman"
 },
 {

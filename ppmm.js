@@ -22,7 +22,7 @@ const movies = [
 
 
 {
-    "title": "Gram Chikitsalay [Season 1] WEB-DL [Hindi + English] | All Episodes",
+    "title": "Gram Chikitsalay [Season 1] WEB-DL [Hindi] | All Episodes",
     "im": "8skEAMrP1U7iQuHt3ce8V48dp5w",
     "dl": "http://qwrqwrqwr.rf.gd/a/a.php?pd=6pCviFnt&sn=1&es=Gram.Chikitsalay.S01.720p.Hindi.WEB-DL.5.1.ESub.x264-HDHub4u.Ms/Gram.Chikitsalay.S01E&e=5&el=.720p.Hindi.WEB-DL.5.1.ESub.x264-HDHub4u.Ms.mkv",
     "bgi": "3HrugDbE6TsIbLGcHxuDVrhW3ap",
@@ -35,7 +35,7 @@ const movies = [
     "cast": "Amol Parashar,Vinay Pathak,Anandeshwar Dwivedi,Akash Makhija,Akansha Ranjan Kapoor"
 },
 {
-    "title": "The Diplomat [2025] WEB-DL [Hindi + English] | Full Movie",
+    "title": "The Diplomat [2025] WEB-DL [Hindi] | Full Movie",
     "im": "uwl9Y4px8TTIQK4N19k6gnW1RnX",
     "bgi": "neAiiFgTeY5cJmRstKTKQTxS2In",
     "dl": "https://pixeldrain.net/api/file/7UUiJGhT?download",

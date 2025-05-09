@@ -1,6 +1,19 @@
 // Movies data
 const movies = [ 
 
+    {
+        "title": "Peaky Blinders [Season 2] [Episode 6] WEB-DL [Hindi + English]",
+        "im": "m4JPtC3gWUsq0GlfNK3SdgkL9XG",
+        "bgi": "4aSJfYZlhbNB15GurAQZNsyDADI",
+        "dl": "https://pixeldrain.net/api/file/axiJoXYC?download",
+        "year": "2014",
+        "duration": "58 min",
+        "rating": "8.8",
+        "genre": "Crime, Drama",
+        "description": "A notorious gang in 1919 Birmingham, England, is led by the fierce Tommy Shelby, a crime boss set on moving up in the world no matter the cost.",
+        "type": "series",
+        "cast": "Cillian Murphy, Sam Neill, Helen McCrory"
+    },
 {
     "title": "Gram Chikitsalay [Season 1] WEB-DL [Hindi] | All Episodes",
     "im": "8skEAMrP1U7iQuHt3ce8V48dp5w",

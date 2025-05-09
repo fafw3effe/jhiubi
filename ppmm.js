@@ -3,6 +3,19 @@ const movies = [
 
 
 {
+"title":"One-Punch Man [Season 1] WEB-DL [Hindi + English] | All Episodes",
+"im":"goJyMNld1sDh9WpUyvBpC2cxT2Q",
+"dl":"http://qwrqwrqwr.rf.gd/a/a.php?pd=NT7i5zUW&sn=1&es=One.Punch.Man.S01E&e=12&el=.720p.HIN-JAP.x265.ESub-PikaHD.com.mkv",
+"bgi":"3AXLSxMuqyZt8HyrKKfrcJtkswD",
+"year":"2015",
+"duration":"25m",
+"rating":"8.5",
+"genre":"Animation,Comedy,Action & Adventure,",
+"description":"Saitama is a hero who only became a hero for fun. After three years of “special” training, though, he's become so strong that he's practically invincible. In fact, he's too strong — even his mightiest opponents are taken out with a single punch, and it turns out that being devastatingly powerful is actually kind of a bore. With his passion for being a hero lost along with his hair, yet still faced with new enemies every day, how much longer can he keep it going?",
+"type":"series",
+"cast":"Makoto Furukawa,Kaito Ishikawa,Hiroki Yasumoto,Kazuhiro Yamaji,Yuichi Nakamura"
+},
+{
 "title":"The Royals [Season 1] WEB-DL [Hindi] | All Episodes",
 "im":"nnD4364ToXZwDpFWEnY94xzykIs",
 "dl":"http://qwrqwrqwr.rf.gd/a/a.php?pd=HCcazUKy&sn=1&es=The.Royals.S01.720p.Hindi.WEB-DL.5.1.ESub.x264-HDHub4u.Ms/The.Royals.S01E&e=8&el=.720p.Hindi.WEB-DL.5.1.ESub.x264-HDHub4u.Ms.mkv",
@@ -2745,7 +2758,7 @@ dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=FYnibEzt&sn=7&es=Naruto.Shippuden.E&e=176&
 "link":"tt5323662",
 "year":"2016",
 "duration":"129 min",
-"rating":"8.1",
+"rating":"8.9",
 "genre":"Animation, Drama, Romance",
 "description":"A Silent Voice tells the story of a young boy who bullies a deaf girl in elementary school, only to later seek redemption years later. It's a heart-wrenching tale about forgiveness, guilt, and the power of human connection.",
 "type":"movie",
@@ -2759,7 +2772,7 @@ dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=FYnibEzt&sn=7&es=Naruto.Shippuden.E&e=176&
 "link":"tt5311514",
 "year":"2016",
 "duration":"106 min",
-"rating":"8.4",
+"rating":"8.5",
 "genre":"Animation, Drama, Fantasy",
 "description":"Two teenagers from different parts of Japan find themselves mysteriously swapping bodies. As they navigate each other's lives, they form a deep connection that transcends time and space. A visually stunning and emotionally powerful film.",
 "type":"movie",

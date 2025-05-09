@@ -16,7 +16,7 @@ const movies = [
 "cast":"Bhumi Pednekar,Ishaan Khatter,Sakshi Tanwar,Zeenat Aman,Nora Fatehi"
 },
 {
-"title":"Mob Psycho 100 [Season 1] WEB-DL [Hindi + English] | All Episodes",
+"title":"Mob Psycho 100 [Season 1] WEB-DL [Hindi + Japanese] | All Episodes",
 "im":"vR7hwaGQ0ySRoq1WobiNRaPs4WO",
 "dl":"http://qwrqwrqwr.rf.gd/a/a.php?pd=m6PfkCpV&sn=1&es=Mob.Psycho.100.S01E&e=12&el=.720p.HIN-JAP.x265.ESub-PikaHD.com.mkv",
 "bgi":"kP5duNJEbTfXpBs6CITsaZ88pQi",

@@ -168,10 +168,7 @@ function displayMovies() {
                 qualityClass = 'quality-hd';
                 break;
         }
-           const qualityClass = movie.title.match(/\] (\d+) \[/);
-            const qualityClass = qualityClass ? `${qualityClass[1]}` : 'hd';
 
-            
         const sticker = document.createElement('div');
         if (movie.type === 'series') {
             const seasonMatch = movie.title.match(/\[Season (\d+)\]/);

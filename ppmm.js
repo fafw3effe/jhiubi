@@ -1,26 +1,6 @@
 // Movies data
 const movies = [ 
 
-    /*
-    
-    {
-            "title": " [2025] WEB-DL [Hindi + English] | Full Movie",
-            "im": "",
-            "bgi": "",
-            "dl": "",
-            "year": "",
-            "duration": " min",
-            "rating": "",
-            "genre": "",
-            "description": "",
-            "type": "movie",
-            "quality": "web-dl",
-            "cast": "Vicky Kaushal, Radhika Apte, Kumud Mishra"
-    },
-    
-    */
-
-
 {
     "title": "Gram Chikitsalay [Season 1] WEB-DL [Hindi] | All Episodes",
     "im": "8skEAMrP1U7iQuHt3ce8V48dp5w",
@@ -96,7 +76,7 @@ const movies = [
         bgi:'qpVKN5DhQOvjMBjjG2ajyJ5vSL1',
         dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=FYnibEzt&sn=1&es=Naruto.Shippuden.E&e=176&lp=21&el=.720p.WEB-DL.x264.Multi.Audio.ESub.Vegamovies.is.mkv',
         "year": "2002",
-        "duration": "1h",
+        "duration": "21 min per episode",
         "rating": "8.4",
         "genre": "Animation,Action & Adventure,Sci-Fi & Fantasy,",
         "description": "Naruto Uzumaki, a mischievous adolescent ninja, struggles as he searches for recognition and dreams of becoming the Hokage, the village's leader and strongest ninja.",

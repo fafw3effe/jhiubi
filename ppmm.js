@@ -1,6 +1,50 @@
 // Movies data
 const movies = [ 
 
+
+
+{
+"title":"A Deadly American Marriage [2025] WEB-DL [Hindi + English] | Full Movie",
+"im":"ajoYbGEbI7Rffj1P695iAEmDUo7",
+"bgi":"i6TZvIgE6GwuB4AnDDnnLGrriRX",
+"dl":"https://pixeldrain.net/api/file/14Dy5Wg6?download",
+"year":"2025",
+"duration":"1h 42m",
+"rating":"0.0",
+"genre":"Documentary,Crime,",
+"description":"Murder or self-defense? Told from both sides, this documentary explores the killing of Jason Corbett during a dispute with his wife and her father.",
+"type":"movie",
+"quality":"web-dl",
+"cast":""
+},
+{
+"title":"Nonnas [2025] WEB-DL [Hindi + English] | Full Movie",
+"im":"lZEOKj5wtgUGpaQkzJRl7cjEv21",
+"bgi":"gfe8onl8FhaJg4C47Kecj7CdNvf",
+"dl":"https://pixeldrain.net/api/file/b489kUFA?download",
+"year":"2025",
+"duration":"1h 54m",
+"rating":"6.0",
+"genre":"Comedy,",
+"description":"After losing his beloved mother, a man risks everything to honor her by opening an Italian restaurant with actual nonnas — grandmothers — as the chefs.",
+"type":"movie",
+"quality":"web-dl",
+"cast":"Vince Vaughn,Lorraine Bracco,Talia Shire,Susan Sarandon,Linda Cardellini"
+},
+{
+"title":"Bad Influence [2025] WEB-DL [Hindi + English] | Full Movie",
+"im":"oogmlZekRCHP0JDhHKDZIyDIfpP",
+"bgi":"zXUxcXnBPHF1cD0IHi4KUpsNvF4",
+"dl":"https://pixeldrain.net/api/file/mogT6fCY?download",
+"year":"2025",
+"duration":"1h 46m",
+"rating":"7.6",
+"genre":"Thriller,Drama,Romance,",
+"description":"An ex-con gets a fresh start when hired to protect a wealthy heiress from a stalker — but their chemistry is hard to resist as they grow closer.",
+"type":"movie",
+"quality":"web-dl",
+"cast":"Alberto Olmo,Eléa Rochera,Enrique Arce,Mirela Balić,Farid Bechara"
+},
 {
 "title":"Peaky Blinders [Season 2] [Episode 6] WEB-DL [Hindi + English]",
 "im":"m4JPtC3gWUsq0GlfNK3SdgkL9XG",

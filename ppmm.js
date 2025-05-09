@@ -103,6 +103,36 @@ const movies = [
         "type": "series",
         "cast": "Junko Takeuchi,Noriaki Sugiyama,Chie Nakamura,Kazuhiko Inoue,Hidekatsu Shibata"
         },
+        {
+            "title": "Game of Thrones [Season 2] BluRay [Hindi + English] | All Episodes",
+            "im": "9xfNkPwDOqyeUvfNhs1XlWA0esP",
+            "bgi": "a4IVHOjyHJQmbaEFgIFGdLQNoCS",
+            "dl": "http://qwrqwrqwr.rf.gd/a/a.php?pd=2zXatkVt&sn=1&es=Game.of.Thrones.S02.BluRay.720p.Hindi.English.ESub.Vegamovies.to/Game.of.Thrones.S02.E&e=10&el=.BluRay.720p.Hindi.2.0.English.5.1.AAC.x264.ESub.Vegamovies.to.mkv",
+            "link": "tt0944947",
+            "year": "2012",
+            "duration": "60 min per episode",
+            "rating": "9.3",
+            "genre": "Action, Adventure, Drama",
+            "description": "The cold winds of winter are rising in Westeros...war is coming...and five kings continue their savage quest for control of the all-powerful Iron Throne. With winter fast approaching, the coveted Iron Throne is occupied by the cruel Joffrey, counseled by his conniving mother Cersei and uncle Tyrion. But the Lannister hold on the Throne is under assault on many fronts. Meanwhile, a new leader is rising among the wildings outside the Great Wall, adding new perils for Jon Snow and the order of the Night's Watch.",
+            "type": "series",
+            "quality": "blu-Ray",
+            "cast": "Emilia Clarke, Kit Harington, Lena Headey, Peter Dinklage"
+        },
+                {
+            "title": "Game of Thrones [Season 3] BluRay [Hindi + English] | All Episodes",
+            "im": "5MkZjRnCKiIGn3bkXrXfndEzqOU",
+            "bgi": "ibTDnXswLUNODWxQlX57sDyoPi0",
+            "dl": "http://qwrqwrqwr.rf.gd/a/a.php?pd=L67wK7Ei&sn=1&es=Game.Of.Thrones.S03E&e=10&el=.Valar.Dohaeris.720p.x264.BluRay.Hindi.English.Esubs.Vegamovies.To.mkv",
+            "link": "tt0944947",
+            "year": "2013",
+            "duration": "60 min per episode",
+            "rating": "9.3",
+            "genre": "Action, Adventure, Drama",
+            "description": "Duplicity and treachery...nobility and honor...conquest and triumph...and, of course, dragons. In Season 3, family and loyalty are the overarching themes as many critical storylines from the first two seasons come to a brutal head. Meanwhile, the Lannisters maintain their hold on King's Landing, though stirrings in the North threaten to alter the balance of power; Robb Stark, King of the North, faces a major calamity as he tries to build on his victories; a massive army of wildlings led by Mance Rayder march for the Wall; and Daenerys Targaryen--reunited with her dragons--attempts to raise an army in her quest for the Iron Throne.",
+            "type": "series",
+            "quality": "blu-Ray",
+            "cast": "Emilia Clarke, Kit Harington, Lena Headey, Peter Dinklage"
+        },
 {
     "title": "The Assessment [2025] WEB-DL [Hindi + English] | Full Movie",
     "im": "fTWki5Cl8OU3UjQiMcPIynR9QEV",

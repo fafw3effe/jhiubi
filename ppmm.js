@@ -2,7 +2,19 @@
 const movies = [ 
 
 
-
+{
+"title":"The Royals [Season 1] WEB-DL [Hindi + English] | All Episodes",
+"im":"nnD4364ToXZwDpFWEnY94xzykIs",
+"dl":"http://qwrqwrqwr.rf.gd/a/a.php?pd=HCcazUKy&sn=1&es=The.Royals.S01.720p.Hindi.WEB-DL.5.1.ESub.x264-HDHub4u.Ms/The.Royals.S01E&e=8&el=.720p.Hindi.WEB-DL.5.1.ESub.x264-HDHub4u.Ms.mkv",
+"bgi":"2lj4e5psR9jJA0LSn557fwxcqLv",
+"year":"2025",
+"duration":"1h",
+"rating":"7.0",
+"genre":"Drama,",
+"description":"When charming Prince Aviraaj meets Sophia, a self-made girl boss, the worlds of royalty and startups collide in a whirlwind of romance and ambition.",
+"type":"series",
+"cast":"Bhumi Pednekar,Ishaan Khatter,Sakshi Tanwar,Zeenat Aman,Nora Fatehi"
+},
 {
 "title":"Mob Psycho 100 [Season 1] WEB-DL [Hindi + English] | All Episodes",
 "im":"vR7hwaGQ0ySRoq1WobiNRaPs4WO",
@@ -23,7 +35,7 @@ const movies = [
 "dl":"https://pixeldrain.net/api/file/14Dy5Wg6?download",
 "year":"2025",
 "duration":"1h 42m",
-"rating":"0.0",
+"rating":"7.0",
 "genre":"Documentary,Crime,",
 "description":"Murder or self-defense? Told from both sides, this documentary explores the killing of Jason Corbett during a dispute with his wife and her father.",
 "type":"movie",

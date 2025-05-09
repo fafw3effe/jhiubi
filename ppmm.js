@@ -113,7 +113,7 @@ const movies = [
 "title":"Peaky Blinders [Season 2] [Episode 6] WEB-DL [Hindi + English]",
 "im":"m4JPtC3gWUsq0GlfNK3SdgkL9XG",
 "bgi":"4aSJfYZlhbNB15GurAQZNsyDADI",
-"dl":"https://pixeldrain.net/api/file/axiJoXYC?download",
+"dl":"https://pixeldrain.net/api/file/GSRF6xgH?download",
 "year":"2014",
 "duration":"58 min",
 "rating":"8.8",

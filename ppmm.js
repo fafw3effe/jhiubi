@@ -3,6 +3,19 @@ const movies = [
 
 
 {
+"title":"Peaky Blinders [Season 3] [Episode 1] WEB-DL [Hindi + English]",
+"im":"vUUqzWa2LnHIVqkaKVlVGkVcZIW",
+"dl":"https://pixeldrain.net/api/file/5jWKfGQc?download",
+"bgi":"or7wKwv1IT6LEOktt395O5qi7e",
+"year":"2013",
+"duration":"1h",
+"rating":"8.5",
+"genre":"Drama,Crime,",
+"description":"A gangster family epic set in 1919 Birmingham, England and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby, who means to move up in the world.",
+"type":"series",
+"cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
+},
+{
 "title":"One-Punch Man [Season 1] WEB-DL [Hindi + Japanese] | All Episodes",
 "im":"goJyMNld1sDh9WpUyvBpC2cxT2Q",
 "dl":"http://qwrqwrqwr.rf.gd/a/a.php?pd=NT7i5zUW&sn=1&es=One.Punch.Man.S01E&e=12&el=.720p.HIN-JAP.x265.ESub-PikaHD.com.mkv",

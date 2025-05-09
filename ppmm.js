@@ -15,7 +15,7 @@ const movies = [
 "description":"Murder or self-defense? Told from both sides, this documentary explores the killing of Jason Corbett during a dispute with his wife and her father.",
 "type":"movie",
 "quality":"web-dl",
-"cast":""
+"cast":"Jenny Popplewell, Jessica Burgess"
 },
 {
 "title":"Nonnas [2025] WEB-DL [Hindi + English] | Full Movie",

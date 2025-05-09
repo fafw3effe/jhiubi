@@ -21,7 +21,33 @@ const movies = [
     */
 
 
-    
+{
+    "title": "Gram Chikitsalay [Season 1] WEB-DL [Hindi + English] | All Episodes",
+    "im": "8skEAMrP1U7iQuHt3ce8V48dp5w",
+    "dl": "http://qwrqwrqwr.rf.gd/a/a.php?pd=6pCviFnt&sn=1&es=Gram.Chikitsalay.S01.720p.Hindi.WEB-DL.5.1.ESub.x264-HDHub4u.Ms/Gram.Chikitsalay.S01E&e=5&el=.720p.Hindi.WEB-DL.5.1.ESub.x264-HDHub4u.Ms.mkv",
+    "bgi": "3HrugDbE6TsIbLGcHxuDVrhW3ap",
+    "year": "2025",
+    "duration": "1h",
+    "rating": "7.2",
+    "genre": "Comedy,Drama,",
+    "description": "The young, idealistic and brilliant Dr. Prabhat, takes charge of a neglected Primary Health Centre in a North India Village hoping to bring about much needed changes only to realise it is he who will have do change before anything else.",
+    "type": "series",
+    "cast": "Amol Parashar,Vinay Pathak,Anandeshwar Dwivedi,Akash Makhija,Akansha Ranjan Kapoor"
+},
+{
+    "title": "The Diplomat [2025] WEB-DL [Hindi + English] | Full Movie",
+    "im": "uwl9Y4px8TTIQK4N19k6gnW1RnX",
+    "bgi": "neAiiFgTeY5cJmRstKTKQTxS2In",
+    "dl": "https://pixeldrain.net/api/file/7UUiJGhT?download",
+    "year": "2025",
+    "duration": "2h 17m",
+    "rating": "7.4",
+    "genre": "Thriller,Drama,",
+    "description": "The Deputy High Commissioner, J.P. Singh, faces an unusual crisis when a mysterious woman rushes inside the Indian High Commission in Islamabad, claiming to be an Indian citizen and seeking a return to India.",
+    "type": "movie",
+    "quality": "web-dl",
+    "cast": "John Abraham,Sadia Khateeb,Kumud Mishra,Sharib Hashmi,Ashwath Bhatt"
+},    
 {
     "title": "Ali G Indahouse [2002] BLU-RAY [Hindi + English] | Full Movie",
     "im": "pjKvQrVpekshVM6DUDOt3ImhAVH",
@@ -68,7 +94,7 @@ const movies = [
         title:'Naruto: Shippuden [Season 9] WEB-DL [Hindi + English] | All Episodes',
         im:'zIoec9Wa0WtRhwSl9pTrBl9mUOb',
         bgi:'qpVKN5DhQOvjMBjjG2ajyJ5vSL1',
-        dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=FYnibEzt&sn=1&es=Naruto.Shippuden.E&e=176&lp=20&el=.720p.WEB-DL.x264.Multi.Audio.ESub.Vegamovies.is.mkv',
+        dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=FYnibEzt&sn=1&es=Naruto.Shippuden.E&e=176&lp=21&el=.720p.WEB-DL.x264.Multi.Audio.ESub.Vegamovies.is.mkv',
         "year": "2002",
         "duration": "1h",
         "rating": "8.4",

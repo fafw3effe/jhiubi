@@ -4,6 +4,19 @@ const movies = [
 
 
 {
+"title":"Mob Psycho 100 [Season 1] WEB-DL [Hindi + English] | All Episodes",
+"im":"vR7hwaGQ0ySRoq1WobiNRaPs4WO",
+"dl":"http://qwrqwrqwr.rf.gd/a/a.php?pd=m6PfkCpV&sn=1&es=Mob.Psycho.100.S01E&e=12&el=.720p.HIN-JAP.x265.ESub-PikaHD.com.mkv",
+"bgi":"kP5duNJEbTfXpBs6CITsaZ88pQi",
+"year":"2016",
+"duration":"21m",
+"rating":"8.5",
+"genre":"Animation,Action & Adventure,Comedy,Sci-Fi & Fantasy,",
+"description":"Shigeo Kageyama, a.k.a. Mob, is a boy who has trouble expressing himself, but who happens to be a powerful esper. Mob is determined to live a normal life and keeps his ESP suppressed, but when his emotions surge to a level of 100%, something terrible happens to him! As he's surrounded by false espers, evil spirits, and mysterious organizations, what will Mob think? What choices will he make?",
+"type":"series",
+"cast":"Setsuo Ito,Takahiro Sakurai,Miyu Irino,Akio Otsuka,Ryunosuke Watanuki"
+},
+{
 "title":"A Deadly American Marriage [2025] WEB-DL [Hindi + English] | Full Movie",
 "im":"ajoYbGEbI7Rffj1P695iAEmDUo7",
 "bgi":"i6TZvIgE6GwuB4AnDDnnLGrriRX",

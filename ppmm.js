@@ -3,7 +3,7 @@ const movies = [
 
 
 {
-"title":"The Royals [Season 1] WEB-DL [Hindi + English] | All Episodes",
+"title":"The Royals [Season 1] WEB-DL [Hindi] | All Episodes",
 "im":"nnD4364ToXZwDpFWEnY94xzykIs",
 "dl":"http://qwrqwrqwr.rf.gd/a/a.php?pd=HCcazUKy&sn=1&es=The.Royals.S01.720p.Hindi.WEB-DL.5.1.ESub.x264-HDHub4u.Ms/The.Royals.S01E&e=8&el=.720p.Hindi.WEB-DL.5.1.ESub.x264-HDHub4u.Ms.mkv",
 "bgi":"2lj4e5psR9jJA0LSn557fwxcqLv",

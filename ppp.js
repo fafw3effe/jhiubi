@@ -175,7 +175,7 @@ function displayMovies() {
             const seasonText = seasonMatch ? `Season ${seasonMatch[1]}` : 'Season 1';
             
             const seasonMatche = movie.title.match(/\[Episode (\d+)\]/);
-            const seasonTexte = seasonMatche ? `Episode ${seasonMatche[1]}` : '';
+            const seasonTexte = seasonMatche ? `-Episode ${seasonMatche[1]}` : '';
 
             sticker.className = 'sticker season-sticker';
             sticker.textContent = seasonText+seasonTexte;

@@ -168,7 +168,7 @@ function displayMovies() {
                 qualityClass = 'quality-hd';
                 break;
         }
-
+        
         const sticker = document.createElement('div');
         if (movie.type === 'series') {
             const seasonMatch = movie.title.match(/\[Season (\d+)\]/);

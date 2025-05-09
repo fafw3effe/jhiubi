@@ -148,7 +148,7 @@ function displayMovies() {
         ratingSticker.style.backgroundColor = ratingColor;
         
 let qualityClass = 'quality-hd'; 
-let mq = movie.title.match(/\] (\d+) \[/); 
+let mq = movie.title.match(/\] (.*?) \[/); 
 mq = mq ? `${mq[1]}` : ''; // Re-assign mq without redeclaring
 const qualityText = mq || 'hd';
         

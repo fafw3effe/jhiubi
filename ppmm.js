@@ -104,6 +104,21 @@ const movies = [
         "cast": "Junko Takeuchi,Noriaki Sugiyama,Chie Nakamura,Kazuhiko Inoue,Hidekatsu Shibata"
         },
         {
+            "title": "Game of Thrones [Season 1] BluRay [Hindi + English] | All Episodes",
+            "im": "wgfKiqzuMrFIkU1M68DDDY8kGC1",
+            "bgi": "aGehSaCUVfWFSu953kuo6BsyZVw",
+            "dl": "http://qwrqwrqwr.rf.gd/a/a.php?pd=oVpZbzpG&sn=1&es=Game.Of.Thrones.S01E&e=10&el=.720p.x264.Bluray.Hindi.English.Esubs.Vegamovies.To.mkv",
+            "link": "tt0944947",
+            "year": "2011",
+            "duration": "60 min per episode",
+            "rating": "9.3",
+            "genre": "Action, Adventure, Drama",
+            "description": "In the land of Westeros, noble families vie for control of the Iron Throne. Power, betrayal, and war are at the heart of this epic fantasy drama series.",
+            "type": "series",
+            "quality": "blu-Ray",
+            "cast": "Emilia Clarke, Kit Harington, Lena Headey, Peter Dinklage"
+        },
+        {
             "title": "Game of Thrones [Season 2] BluRay [Hindi + English] | All Episodes",
             "im": "9xfNkPwDOqyeUvfNhs1XlWA0esP",
             "bgi": "a4IVHOjyHJQmbaEFgIFGdLQNoCS",
@@ -133,6 +148,20 @@ const movies = [
             "quality": "blu-Ray",
             "cast": "Emilia Clarke, Kit Harington, Lena Headey, Peter Dinklage"
         },
+    {
+    title:'Game of Thrones [Season 8] Blu-Ray [Hindi + English] | All Episodes',
+    im:'259Q5FuaD3TNB7DGauTaJVRC8XV',
+    "bgi": "lOlC4hvjZsrIOnQUBwR0NrOX9ob",
+    dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=fW74n6eo&sn=1&es=Game.Of.Thrones.S08.720p.10Bit.BluRay.Hindi.ORG-English.HEVC.x265-HDHub4u.Tv/Game.of.Thrones.S08E&e=6&el=.720p.10Bit.BluRay.Hindi.ORG-English.HEVC.x265-HDHub4u.Tv.mkv',
+    "bgi": "zZqpAXxVSBtxV9qPBcscfXBcL2w",
+    "year": "2011",
+    "duration": "1h",
+    "rating": "9.5",
+    "genre": "Sci-Fi & Fantasy,Drama,Action & Adventure,",
+    "description": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+    "type": "series",
+    "cast": "Kit Harington,Isaac Hempstead Wright,Iain Glen,Peter Dinklage,Nikolaj Coster-Waldau"
+    },
 {
     "title": "The Assessment [2025] WEB-DL [Hindi + English] | Full Movie",
     "im": "fTWki5Cl8OU3UjQiMcPIynR9QEV",
@@ -750,21 +779,6 @@ const movies = [
             "type": "movie",
             "quality": "blu-Ray",
             "cast": "Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine"
-        },
-        {
-            "title": "Game of Thrones [Season 1] BluRay [Hindi + English] | All Episodes",
-            "im": "wgfKiqzuMrFIkU1M68DDDY8kGC1",
-            "bgi": "aGehSaCUVfWFSu953kuo6BsyZVw",
-            "dl": "http://qwrqwrqwr.rf.gd/a/a.php?pd=oVpZbzpG&sn=1&es=Game.Of.Thrones.S01E&e=10&el=.720p.x264.Bluray.Hindi.English.Esubs.Vegamovies.To.mkv",
-            "link": "tt0944947",
-            "year": "2011",
-            "duration": "60 min per episode",
-            "rating": "9.3",
-            "genre": "Action, Adventure, Drama",
-            "description": "In the land of Westeros, noble families vie for control of the Iron Throne. Power, betrayal, and war are at the heart of this epic fantasy drama series.",
-            "type": "series",
-            "quality": "blu-Ray",
-            "cast": "Emilia Clarke, Kit Harington, Lena Headey, Peter Dinklage"
         },
         {
             "title": "RED 2 [2013] BluRay [Hindi + English] | Full Movie",
@@ -2855,19 +2869,7 @@ const movies = [
     "type": "series",
     "cast": "Matt Smith,Fabien Frankel,Emma D&#39;Arcy,Steve Toussaint,Olivia Cooke"    },
     
-    {
-    title:'Game of Thrones [Season 8] [All Episodes] BluRay [Hindi + English] [HEVC] | All Episodes',
-    im:'259Q5FuaD3TNB7DGauTaJVRC8XV',
-    "bgi": "aGehSaCUVfWFSu953kuo6BsyZVw",
-    dl:'https://hubcloud.bz/drive/hf_7dvp1xqf_f17',
-    "bgi": "zZqpAXxVSBtxV9qPBcscfXBcL2w",
-    "year": "2011",
-    "duration": "1h",
-    "rating": "8.5",
-    "genre": "Sci-Fi & Fantasy,Drama,Action & Adventure,",
-    "description": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
-    "type": "series",
-    "cast": "Kit Harington,Isaac Hempstead Wright,Iain Glen,Peter Dinklage,Nikolaj Coster-Waldau"    },
+
     
     {
         "title": "The Last Stop in Yuma County [2023] BluRay [Hindi [DD2.0] & English] [HEVC] | Full Movie",

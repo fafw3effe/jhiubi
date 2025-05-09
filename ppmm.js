@@ -190,8 +190,8 @@ const movies = [
         },
         {
             "title": "Game of Thrones [Season 7] BluRay [Hindi + English] | All Episodes",
-            "im": "pSLZzchxQc9cxctGLLFmCq0ApFK",
-            "bgi": "oX51n32QyHeFP5kErksemJsJljL",
+            "im": "oX51n32QyHeFP5kErksemJsJljL",
+            "bgi": "pSLZzchxQc9cxctGLLFmCq0ApFK",
             "dl": "http://qwrqwrqwr.rf.gd/a/a.php?pd=uC4D21gN&sn=7&es=Game.Of.Thrones.S07E&e=7&el=.Dragonstone.720p.x264.BluRay.Hindi.English.Esubs.Vegamovies.To.mkv",
             "link": "tt0944947",
             "year": "2017",

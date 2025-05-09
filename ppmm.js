@@ -113,7 +113,7 @@ const movies = [
             "quality": "blu-Ray",
             "cast": "Emilia Clarke, Kit Harington, Lena Headey, Peter Dinklage"
         },
-                {
+        {
             "title": "Game of Thrones [Season 3] BluRay [Hindi + English] | All Episodes",
             "im": "5MkZjRnCKiIGn3bkXrXfndEzqOU",
             "bgi": "ibTDnXswLUNODWxQlX57sDyoPi0",

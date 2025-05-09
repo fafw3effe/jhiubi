@@ -3,7 +3,7 @@ const movies = [
 
 
 {
-"title":"One-Punch Man [Season 1] WEB-DL [Hindi + English] | All Episodes",
+"title":"One-Punch Man [Season 1] WEB-DL [Hindi + Japanese] | All Episodes",
 "im":"goJyMNld1sDh9WpUyvBpC2cxT2Q",
 "dl":"http://qwrqwrqwr.rf.gd/a/a.php?pd=NT7i5zUW&sn=1&es=One.Punch.Man.S01E&e=12&el=.720p.HIN-JAP.x265.ESub-PikaHD.com.mkv",
 "bgi":"3AXLSxMuqyZt8HyrKKfrcJtkswD",
@@ -40,6 +40,19 @@ const movies = [
 "description":"Shigeo Kageyama, a.k.a. Mob, is a boy who has trouble expressing himself, but who happens to be a powerful esper. Mob is determined to live a normal life and keeps his ESP suppressed, but when his emotions surge to a level of 100%, something terrible happens to him! As he's surrounded by false espers, evil spirits, and mysterious organizations, what will Mob think? What choices will he make?",
 "type":"series",
 "cast":"Setsuo Ito,Takahiro Sakurai,Miyu Irino,Akio Otsuka,Ryunosuke Watanuki"
+},
+{
+"title":"Solo Leveling [Season 2] [Episode 1-9] WEB-DL [Hindi + English] | All Episodes",
+"im":"geCRueV3ElhRTr0xtJuEWJt6dJ1",
+"dl":"http://qwrqwrqwr.rf.gd/a/a.php?pd=yMnL9hrf&sn=2&es=Solo%20Leveling-S02E&e=9&el=.720p.HIN-JAP.x265.ESub-PikaHD.com.mkv",
+"bgi":"odVlTMqPPiMksmxpN9cCbPCjUPP",
+"year":"2024",
+"duration":"1h",
+"rating":"8.6",
+"genre":"Animation,Action & Adventure,Sci-Fi & Fantasy,",
+"description":"They say whatever doesn’t kill you makes you stronger, but that’s not the case for the world’s weakest hunter Sung Jinwoo. After being brutally slaughtered by monsters in a high-ranking dungeon, Jinwoo came back with the System, a program only he could see, that’s leveling him up in every way. Now, he’s inspired to discover the secrets behind his powers and the dungeon that spawned them.",
+"type":"series",
+"cast":"Taito Ban,Genta Nakamura,Haruna Mikawa,Reina Ueda,Daisuke Hirakawa"
 },
 {
 "title":"A Deadly American Marriage [2025] WEB-DL [Hindi + English] | Full Movie",

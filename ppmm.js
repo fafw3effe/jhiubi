@@ -41,6 +41,20 @@ const movies = [
 "type":"series",
 "cast":"Bhumi Pednekar,Ishaan Khatter,Sakshi Tanwar,Zeenat Aman,Nora Fatehi"
 },
+
+{
+"title":"Breaking Bad [Season 1] WEB-DL [Hindi + English] | All Episodes",
+"im":"ineLOBPG8AZsluYwnkMpHRyu7L",
+"dl":"http://qwrqwrqwr.rf.gd/a/a.php?pd=s4SFRnJX&sn=1&es=Breaking.Bad.S01.720p.HEVC.BluRay.Hindi.ORG-English.ESub.x265-HDHub4u.Tv/Breaking.Bad.S01.E&e=7&el=.720p.HEVC.BluRay.Hindi.ORG-English.ESub.x265-HDHub4u.Tv.mkv",
+"bgi":"9faGSFi5jam6pDWGNd0p8JcJgXQ",
+"year":"2008",
+"duration":"1h",
+"rating":"8.9",
+"genre":"Drama,Crime,",
+"description":"Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
+"type":"series",
+"cast":"Bryan Cranston,Aaron Paul,Anna Gunn,RJ Mitte,Dean Norris"
+},
 {
 "title":"Mob Psycho 100 [Season 1] WEB-DL [Hindi + Japanese] | All Episodes",
 "im":"vR7hwaGQ0ySRoq1WobiNRaPs4WO",

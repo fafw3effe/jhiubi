@@ -3014,23 +3014,8 @@ dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=FYnibEzt&sn=7&es=Naruto.Shippuden.E&e=176&
 "genre":"Crime,Sci-Fi & Fantasy,",
 "description":"Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape.",
 "type":"series",
-"cast":"Tom Ellis,Lauren German,Kevin Alejandro,D.B. Woodside,Lesley-Ann Brandt"},
- 
-{
- title:'Money Heist [Season 5] [Vol 2] WEB-DL [Hindi + English] | All Episodes',
- im:'yfYu1UoxsYlRgnkPTIJBt9SjYAL',
- dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=Q41GLaFP&sn=5 - Vol 2&es=Money.Heist.S05.E&e=6&lp=5&el=.720p.WEB-DL.Hindi.5.1-English.ESub.x264-Vegamovies.NL.mkv',
-"bgi":"xGexTKCJDkl12dTW4YCBDXWb1AD",
-"year":"2017",
-"duration":"1h",
-"rating":"8.2",
-"genre":"Crime,Drama,",
-"description":"To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of them has anything to lose. Five months of seclusion - memorizing every step, every detail, every probability - culminate in eleven days locked up in the National Coinage and Stamp Factory of Spain, surrounded by police forces and with dozens of hostages in their power, to find out whether their suicide wager will lead to everything or nothing.",
-"type":"series",
-"cast":"Úrsula Corberó,Itziar Ituño,Álvaro Morte,Pedro Alonso,Miguel Herrán"
+"cast":"Tom Ellis,Lauren German,Kevin Alejandro,D.B. Woodside,Lesley-Ann Brandt"
 },
-
- 
 {
  title:'Naruto [Season 9] WEB-DL [Hindi + English] | All Episodes',
  im:'xppeysfvDKVx775MFuH8Z9BlpMk',

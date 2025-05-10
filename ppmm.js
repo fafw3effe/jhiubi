@@ -212,7 +212,7 @@ const movies = [
 "cast":"Setsuo Ito,Takahiro Sakurai,Miyu Irino,Akio Otsuka,Ryunosuke Watanuki"
 },
 {
-"title":"Solo Leveling [Season 2] [Episode 1-9] WEB-DL [Hindi + English] | All Episodes",
+"title":"Solo Leveling [Season 2] [Episode 1 - 9] WEB-DL [Hindi + English] | All Episodes",
 "im":"geCRueV3ElhRTr0xtJuEWJt6dJ1",
 "dl":"http://qwrqwrqwr.rf.gd/a/a.php?pd=yMnL9hrf&sn=2&es=Solo%20Leveling-S02E&e=9&el=.720p.HIN-JAP.x265.ESub-PikaHD.com.mkv",
 "bgi":"odVlTMqPPiMksmxpN9cCbPCjUPP",

@@ -2,10 +2,10 @@
 const movies = [
 
 {
-"title":"Crayon Shin-chan the Movie: Our Dinosaur Diary [2024] WEB-DL [English] | Full Movie",
+"title":"Crayon Shin-chan the Movie: Our Dinosaur Diary [2024] Blu-Ray [Hindi + English] | Full Movie",
 "im":"n7YcOeqPOmvQ2PUatn4UqV5YStj",
 "bgi":"o7mV4RKh1ZwuUdsCHTgzmssENHQ",
-"dl":"https://pixeldrain.net/api/file/SbDzCmU2?download",
+"dl":"https://pixeldrain.net/api/file/rVSbNfhc?download",
 "year":"2024",
 "duration":"1h 46m",
 "rating":"5.7",

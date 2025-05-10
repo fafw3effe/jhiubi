@@ -157,7 +157,7 @@ const qualityText = mq || 'hd';
             const seasonMatch = movie.title.match(/\[Season (.*?)\]/);
             const seasonText = seasonMatch ? `Season ${seasonMatch[1]}` : 'Season 1';
             
-            const seasonMatche = movie.title.match(/\[Episode (\d+)\]/);
+            const seasonMatche = movie.title.match(/\[Episode (.*?)\]/);
             const seasonTexte = seasonMatche ? ` - Episode ${seasonMatche[1]}` : '';
 
             sticker.className = 'sticker season-sticker';

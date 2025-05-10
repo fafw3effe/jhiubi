@@ -30,9 +30,9 @@ function updateUrl(searchTerm, page, postId = '') {
 // Function to update SEO meta tags
 function updateMetaTags(movie = null) {
     // Default site metadata
-    const defaultTitle = "Movie Database"; // Replace with your site's default title
-    const defaultDescription = "Explore a vast collection of movies and TV series."; // Replace with your site's default description
-    const defaultImage = "https://your-site.com/default-image.jpg"; // Replace with your site's default image
+    const defaultTitle = "PP TOONS INDIA"; // Replace with your site's default title
+    const defaultDescription = "Instant movie and series downloads. Access your favorite movies and cartoons with one click at PP TOONS INDIA. Browse the latest releases and enjoy hassle-free downloads."; // Replace with your site's default description
+    const defaultImage = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5THxfUaWC41FTJpaiCtFRBn0Z6kn_m6LsipayaBbXF57CIXpXgi9XQWozbUMyOvVBz-ocNWdWErGJRLKtlyf72nNGNEmJeqavpAPq8Q-lJm_JbwmtB0ZkvyiZtWNgNZFlZHkLoJ6ti6w/s512/pp+toons+india+%25281%2529.png"; // Replace with your site's default image
     const siteUrl = window.location.href;
 
     // Select or create meta tags

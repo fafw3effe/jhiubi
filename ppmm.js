@@ -2,6 +2,20 @@
 const movies = [
 
 {
+"title":"Crayon Shin-chan the Movie: Our Dinosaur Diary [2024] WEB-DL [Hindi + English] | Full Movie",
+"im":"n7YcOeqPOmvQ2PUatn4UqV5YStj",
+"bgi":"o7mV4RKh1ZwuUdsCHTgzmssENHQ",
+"dl":"https://pixeldrain.net/api/file/SbDzCmU2?download",
+"year":"2024",
+"duration":"1h 46m",
+"rating":"5.7",
+"genre":"Animation,Adventure,Comedy,Family,",
+"description":"Follow the friendship between the Nobara family's pet dog Shiro and a small dinosaur. Their connection helps the growth of Shinnosuke and the Kusakabe Defense Squad.",
+"type":"movie",
+"quality":"web-dl",
+"cast":"Yumiko Kobayashi,Miki Narahashi,Toshiyuki Morikawa,Satomi Korogi,Mari Mashiba"
+},
+{
 "title":"Kalki 2898-AD [2024] WEB-DL [Hindi] | Full Movie",
 "im":"rstcAnBeCkxNQjNp3YXrF6IP1tW",
 "bgi":"o8XSR1SONnjcsv84NRu6Mwsl5io",

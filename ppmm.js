@@ -2,6 +2,20 @@
 const movies = [
 
 {
+"title":"Kalki 2898-AD [2024] WEB-DL [Hindi + English] | Full Movie",
+"im":"rstcAnBeCkxNQjNp3YXrF6IP1tW",
+"bgi":"o8XSR1SONnjcsv84NRu6Mwsl5io",
+"dl":"https://pixeldrain.net/api/file/65qMrLia?download",
+"year":"2024",
+"duration":"2h 56m",
+"rating":"6.4",
+"genre":"Drama,Action,Fantasy,Science Fiction,",
+"description":"In the year 2898 AD, around 6000 years after Kurukshetra war, Ashwatthama gears up for his final battle of redemption at the sign of hope in a dystopian world and Bhairava, a wisecracking and self-interested bounty hunter, tired of the perilous life becomes the hurdle in the process.",
+"type":"movie",
+"quality":"web-dl",
+"cast":"Amitabh Bachchan,Prabhas,Deepika Padukone,Kamal Haasan,Saswata Chatterjee"
+},
+{
 "title":"Peaky Blinders [Season 3] [Episode 1] WEB-DL [Hindi + English]",
 "im":"vUUqzWa2LnHIVqkaKVlVGkVcZIW",
 "dl":"https://pixeldrain.net/api/file/5jWKfGQc?download",

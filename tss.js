@@ -101,7 +101,7 @@ function updateMetaTags(movie = null) {
         const movieImage = movie.bgi || movie.im;
         const imageUrl = movieImage ? `https://image.tmdb.org/t/p/w1200/${movieImage}.jpg` : defaultImage;
 
-        titleTag.textContent = `${movieTitle} - Movie Database`;
+        titleTag.textContent = `${movieTitle} - PP TOONS INDIA`;
         metaDesc.content = movieDescription;
         ogTitle.content = movieTitle;
         ogDesc.content = movieDescription;

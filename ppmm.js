@@ -2,7 +2,7 @@
 const movies = [
 
 {
-"title":"Kalki 2898-AD [2024] WEB-DL [Hindi + English] | Full Movie",
+"title":"Kalki 2898-AD [2024] WEB-DL [Hindi] | Full Movie",
 "im":"rstcAnBeCkxNQjNp3YXrF6IP1tW",
 "bgi":"o8XSR1SONnjcsv84NRu6Mwsl5io",
 "dl":"https://pixeldrain.net/api/file/65qMrLia?download",

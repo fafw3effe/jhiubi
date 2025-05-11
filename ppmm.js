@@ -1,6 +1,35 @@
 // Movies data
 const movies = [
 
+
+{
+"title":"Wrong Turn [2021] WEB-DL [Hindi + English] | Full Movie",
+"im":"4U1SBHmwHkNA0eHZ2n1CuiC1K1g",
+"bgi":"8p8VIkTyeL9udfYJJHewWdhRLEO",
+"dl":"https://pixeldrain.net/api/file/oqbcMAjJ?download",
+"year":"2021",
+"duration":"1h 50m",
+"rating":"6.0",
+"genre":"Horror,Thriller,",
+"description":"Jen and a group of friends set out to hike the Appalachian Trail. Despite warnings to stick to the trail, the hikers stray off course—and cross into land inhabited by The Foundation, a hidden community of mountain dwellers who use deadly means to protect their way of life.",
+"type":"movie",
+"quality":"web-dl",
+"cast":"Charlotte Vega,Adain Bradley,Bill Sage,Emma Dumont,Dylan McTee"
+},
+{
+"title":"Marco [2024] WEB-DL [Hindi + Malayalam] | Full Movie",
+"im":"il3ao5gcF6fZNqo1o9o7lusmEyU",
+"bgi":"n89fJotmgkDvr5pF2OBqMLp7ZG7",
+"dl":"https://pixeldrain.net/api/file/Kw8FYKpL?download",
+"year":"2024",
+"duration":"2h 25m",
+"rating":"6.1",
+"genre":"Action,Crime,Thriller,",
+"description":"The adoptive son of the Adattu family, Marco, sets off on a ruthless quest for vengeance after his brother is brutally murdered, finding only betrayal, loss and unimaginable brutality at every step.",
+"type":"movie",
+"quality":"web-dl",
+"cast":"Unni Mukundan,Siddique,Ishan Shoukath,Jagadish,Abhimanyu Thilakan"
+},
 {
 "title":"Crayon Shin-chan the Movie: Our Dinosaur Diary [2024] Blu-Ray [Hindi + English] | Full Movie",
 "im":"n7YcOeqPOmvQ2PUatn4UqV5YStj",

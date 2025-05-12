@@ -8,7 +8,7 @@ const movies = [
 "dl":"https://pixeldrain.net/api/file/X8HizjtB?download",
 "bgi":"mLKN1dsimKPiXCZ48KED0X8a02t",
 "year":"2014",
-"duration":"21 min per episode",
+"duration":"21 min",
 "rating":"8.6",
 "genre":"Animation,Action & Adventure,Sci-Fi & Fantasy,",
 "description":"Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers.",

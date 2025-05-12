@@ -17,7 +17,7 @@ const movies = [
 },
 
 {
-"title":"Crayon Shin-chan: Explosion! The Hot Spring's Feel Good Final Battle [1999] WEB-DL [Hindi + English] | Full Movie",
+"title":"Crayon Shin-chan: Explosion! The Hot Spring's Feel Good Final Battle [1999] WEB-DL [Hindi] | Full Movie",
 "im":"kYDZKDB0mkAglbl2phJfLFJmKqe",
 "bgi":"aQGnRn0hW0Tk4DhsCjfLg9tiaeF",
 "dl":"https://pixeldrain.net/api/file/2F4U6tje?download",
@@ -31,7 +31,7 @@ const movies = [
 "cast":"Akiko Yajima,Miki Narahashi,Keiji Fujiwara,Satomi Korogi,Shinji Ogawa"
 },
 {
-"title":"Pokemon [Season 19: XYZ] [Episode 11 - 48] WEB-DL [Hindi + English] | All Episodes",
+"title":"Pokemon [Season 19: XYZ] [Episode 11 - 48] WEB-DL [Hindi]",
 "im":"rOuGm07PxBhEsK9TaGPRQVJQm1X",
 "dl":"http://qwrqwrqwr.rf.gd/a/a.php?pd=w2cJttJa&sn=19&es=Pokemon%20S19E&e=11&lp=38&el=%20[RareToonsIndia].mkv",
 "bgi":"rm6zG1gESQT0ww3mp8oUUT5LJBL",

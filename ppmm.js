@@ -3,6 +3,19 @@ const movies = [
 
 
 {
+"title":"C.I.D. [Season 2] [Episode 42] WEB-DL [Hindi] | All Episodes",
+"im":"60ZxbAMk6QO8jMD0p8WrGHVCbyK",
+"dl":"https://pixeldrain.net/api/file/xzVL4vS7?download",
+"bgi":"1gZrOa2E9DOohEvSLLBJqus2zGu",
+"year":"2024",
+"duration":"1h",
+"rating":"7.0",
+"genre":"Action,Adventure,Crime,Drama,Mystery,",
+"description":"India's favourite crime thriller show is back! Abhijeet, Daya and other CID officers, led by ACP Pradyuman, join forces with forensic expert Dr Salunkhe to track down the perpetrators who have committed heinous crimes, using every small clue they can find.",
+"type":"series",
+"cast":"Aditya Srivastava,Shivaji Satham,Dayanand Shetty,Narendra Gupta,Ansha Sayed"
+},
+{
 "title":"The Last of Us [Season 1] [Episode 5] WEB-DL [Hindi + English] | All Episodes",
 "im":"dmo6TYuuJgaYinXBPjrgG9mB5od",
 "dl":"https://pixeldrain.net/api/file/7XPF8rwW?download",

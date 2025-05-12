@@ -72,7 +72,7 @@ const movies = [
 "cast":"Pedro Pascal,Bella Ramsey,Gabriel Luna,Isabela Merced,Young Mazino"
 },
 {
-"title":"Sookshmadarshini [2024] WEB-DL [Hindi + English] | Full Movie",
+"title":"Sookshmadarshini [2024] WEB-DL [Hindi] | Full Movie",
 "im":"rOZt5FVZC51keFRRUSzWGE5y1Rt",
 "bgi":"jVbNeG56WLuCncRlPsF7jAGZw1w",
 "dl":"https://pixeldrain.net/api/file/ESLjmFBv?download",
@@ -100,7 +100,7 @@ const movies = [
 "cast":"Jake Johnson,Anna Kendrick,Natalie Morales,Andy Samberg,Mary Holland"
 },
 {
-"title":"Phule [2025] WEB-DL [Hindi + English] | Full Movie",
+"title":"Phule [2025] WEB-DL [Hindi] | Full Movie",
 "im":"A3Jv2F0p56E3XxX8CSRHbgMDEDI",
 "bgi":"eWZw0EeMV9Zx3NyEsUGePNH1Zhm",
 "dl":"https://pixeldrain.net/api/file/VVidGKvW?download",

@@ -3,6 +3,19 @@ const movies = [
 
 
 {
+"title":"The Last of Us [Season 1] [Episode 5] WEB-DL [Hindi + English] | All Episodes",
+"im":"dmo6TYuuJgaYinXBPjrgG9mB5od",
+"dl":"https://pixeldrain.net/api/file/7XPF8rwW?download",
+"bgi":"lY2DhbA7Hy44fAKddr06UrXWWaQ",
+"year":"2025",
+"duration":"1h",
+"rating":"8.7",
+"genre":"Drama,",
+"description":"Twenty years after modern civilization has been destroyed, Joel, a hardened survivor, is hired to smuggle Ellie, a 14-year-old girl, out of an oppressive quarantine zone. What starts as a small job soon becomes a brutal, heartbreaking journey, as they both must traverse the United States and depend on each other for survival.",
+"type":"series",
+"cast":"Pedro Pascal,Bella Ramsey,Gabriel Luna,Isabela Merced,Young Mazino"
+},
+{
 "title":"Sookshmadarshini [2024] WEB-DL [Hindi + English] | Full Movie",
 "im":"rOZt5FVZC51keFRRUSzWGE5y1Rt",
 "bgi":"jVbNeG56WLuCncRlPsF7jAGZw1w",

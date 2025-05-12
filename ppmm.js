@@ -3,6 +3,20 @@ const movies = [
 
 
 {
+"title":"Ala Vaikunthapurramuloo [2020] AMZN UNCUT WEB-DL [Hindi + Telugu] | Full Movie",
+"im":"2rzORJaegE2bbKNVkQXbZCeV0BP",
+"bgi":"gPEKK29XWtk9MEkya83TIjocGcc",
+"dl":"https://pub-ed0ca22af5c04301b7abe9dac4aaf9bc.r2.dev/Ala.Vaikunthapurramuloo.2020.AMZN.Hindi.DD5.1+.Telugu-DD5.1.UnCut.South.Movie.WEB-DL.720p.x264.ESub.Vegamovies.is.mkv",
+"year":"2020",
+"duration":"2h 45m",
+"rating":"7.3",
+"genre":"Action,Comedy,Drama,",
+"description":"Fate plays a vital role in connecting the life of Bantu, a son who seeks validation from his cold-hearted father with the life of Raj, whose millionaire father wishes that he was more assertive.",
+"type":"movie",
+"quality":"web-dl",
+"cast":"Allu Arjun,Pooja Hegde,Murali Sharma,Jayaram,Sushanth"
+},
+{
 "title":"Wrong Turn [2021] WEB-DL [Hindi + English] | Full Movie",
 "im":"4U1SBHmwHkNA0eHZ2n1CuiC1K1g",
 "bgi":"8p8VIkTyeL9udfYJJHewWdhRLEO",

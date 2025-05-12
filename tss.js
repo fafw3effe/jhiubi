@@ -417,14 +417,7 @@ function openModal(movie) {
         `<a onclick="triggerSearch('${actor}')">${actor}</a>`
     ).join(', ');
     
-    // Set description and add ShareThis buttons at the top
-    modalDescription.innerHTML = `<script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=68224e0998608700128c9deb&product=inline-follow-buttons' async='async'></script>
-
-        <!-- ShareThis BEGIN -->
-        <div class='sharethis-inline-reaction-buttons'></div>
-        <!-- ShareThis END -->
-        <p>${movie.description || 'No description available.'}</p>
-    `;
+    modalDescription.textContent = movie.description || 'No description available.';
     
     modal.style.display = 'block';
     document.body.style.overflow = 'hidden';

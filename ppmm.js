@@ -1,7 +1,6 @@
 // Movies data
 const movies = [
 
-
 {
 "title":"Suits LA [Season 1] [Episode 12] WEB-DL [Hindi + English]",
 "im":"3hYiNPkcLoI3QWDokOHQJIfn55O",

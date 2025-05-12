@@ -5,6 +5,20 @@ const movies = [
 
 
 {
+"title":"Snow White [2025] WEB-DL [English] | Full Movie",
+"im":"oLxWocqheC8XbXbxqJ3x422j9PW",
+"bgi":"xb9wpY31SeVZbfkevYuolhfV63w",
+"dl":"https://pixeldrain.net/api/file/BGr1FvHd?download",
+"year":"2025",
+"duration":"1h 49m",
+"rating":"4.5",
+"genre":"Family,Fantasy,",
+"description":"Following the benevolent King's disappearance, the Evil Queen dominated the once fair land with a cruel streak. Princess Snow White flees the castle when the Queen, in her jealousy over Snow White's inner beauty, tries to kill her. Deep into the dark woods, she stumbles upon seven magical dwarves and a young bandit named Jonathan. Together, they strive to survive the Queen's relentless pursuit and aspire to take back the kingdom.",
+"type":"movie",
+"quality":"web-dl",
+"cast":"Rachel Zegler,Gal Gadot,Andrew Burnap,Jeremy Swift,Jason Kravits"
+},
+{
 "title":"Criminal Code [Season 1] WEB-DL [Hindi + English] | All Episodes",
 "im":"mZ78Uee2EF0Vp0iA1eATjCSb5H7",
 "dl":"http://qwrqwrqwr.rf.gd/a/a.php?pd=Ey1ddqMd&sn=1&es=Criminal.Code.S01.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms/Criminal.Code.S01E&e=8&el=.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv",

@@ -3,7 +3,7 @@ const movies = [
 
 
 {
-"title":"Suits LA [Season 1] [Episode 12] WEB-DL [Hindi + English] | All Episodes",
+"title":"Suits LA [Season 1] [Episode 12] WEB-DL [Hindi + English]",
 "im":"3hYiNPkcLoI3QWDokOHQJIfn55O",
 "dl":"https://pixeldrain.net/api/file/ZkgjV1wh?download",
 "bgi":"ljAdFwDLQLlOBIwheKmAdcUS0HM",
@@ -99,7 +99,7 @@ const movies = [
 "cast":"Emraan Hashmi,Mukesh Tiwari,Sai Tamhankar,Zoya Hussain,Lalit Prabhakar"
 },
 {
-"title":"C.I.D. [Season 2] [Episode 42] WEB-DL [Hindi] | All Episodes",
+"title":"C.I.D. [Season 2] [Episode 42] WEB-DL [Hindi]",
 "im":"60ZxbAMk6QO8jMD0p8WrGHVCbyK",
 "dl":"https://pixeldrain.net/api/file/xzVL4vS7?download",
 "bgi":"1gZrOa2E9DOohEvSLLBJqus2zGu",

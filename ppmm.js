@@ -3,7 +3,7 @@ const movies = [
 
 
 {
-"title":"JoJos Bizarre Adventure [Season 2] [Episode 6] WEB-DL [Hindi + English] | All Episodes",
+"title":"JoJos Bizarre Adventure [Season 2] [Episode 6] WEB-DL [Hindi + English + Japanese]",
 "im":"kX9noqY0YpOPKwXpRXYg1hEIqmM",
 "dl":"https://pixeldrain.net/api/file/X8HizjtB?download",
 "bgi":"mLKN1dsimKPiXCZ48KED0X8a02t",

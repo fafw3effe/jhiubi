@@ -20,7 +20,7 @@ const movies = [
 "title":"Crayon Shin-chan: Explosion! The Hot Spring&#39;s Feel Good Final Battle [1999] WEB-DL [Hindi + English] | Full Movie",
 "im":"kYDZKDB0mkAglbl2phJfLFJmKqe",
 "bgi":"aQGnRn0hW0Tk4DhsCjfLg9tiaeF",
-"dl":"",
+"dl":"https://pixeldrain.net/api/file/2F4U6tje?download",
 "year":"1999",
 "duration":"1h 36m",
 "rating":"6.7",

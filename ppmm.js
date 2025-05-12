@@ -5,7 +5,7 @@ const movies = [
 
 
 {
-"title":"Ground Zero [2025] WEB-DL [Hindi + English] | Full Movie",
+"title":"Ground Zero [2025] WEB-DL [Hindi] | Full Movie",
 "im":"x5YK8MkjL1vVsXxnGWifEOK2tJl",
 "bgi":"bhJT9N8Z4dORg8wsb9XleD5vaah",
 "dl":"https://pixeldrain.net/api/file/xqE2k4ae?download",

@@ -86,6 +86,48 @@ const movies = [
 "cast":"Nazriya Nazim Fahadh,Basil Joseph,Sidharth Bharathan,Deepak Parambol,Merin Philip"
 },
 {
+"title":"Self Reliance [2024] WEB-DL [Hindi + English] | Full Movie",
+"im":"hlSWmmuuLeV1p3YcIkU59khEHLY",
+"bgi":"jsp420JTZ7EK5LhpwzunE1Pu43d",
+"dl":"https://pixeldrain.net/api/file/BHJ6QnF8?download",
+"year":"2024",
+"duration":"1h 31m",
+"rating":"5.9",
+"genre":"Comedy,Thriller,",
+"description":"When a man is offered a million dollars to play a game in which hunters try to kill him, he thinks he has found the perfect loophole: they can only attack when he’s alone. His only problem is that none of his friends or family believe the game is real. Forced to seek companionship in unexpected places, he navigates the bizarre challenge with humor, paranoia, and a surprising search for connection.",
+"type":"movie",
+"quality":"web-dl",
+"cast":"Jake Johnson,Anna Kendrick,Natalie Morales,Andy Samberg,Mary Holland"
+},
+{
+"title":"Phule [2025] WEB-DL [Hindi + English] | Full Movie",
+"im":"A3Jv2F0p56E3XxX8CSRHbgMDEDI",
+"bgi":"eWZw0EeMV9Zx3NyEsUGePNH1Zhm",
+"dl":"https://pixeldrain.net/api/file/VVidGKvW?download",
+"year":"2025",
+"duration":"2h 5m",
+"rating":"8.6",
+"genre":"History,Drama,",
+"description":"A biopic on Jyotiba and Savitribai Phule, considered to be a pioneering couple in India’s societal history. They are often credited for underlining the importance of the girls’ education and self-dependence.",
+"type":"movie",
+"quality":"web-dl",
+"cast":"Pratik Gandhi,Patralekhaa,Darsheel Safary,Vinay Pathak,Joy Sengupta"
+},
+{
+"title":"War Room [2015] WEB-DL [Hindi + English] | Full Movie",
+"im":"unxQeVUi5DH01r7ZNvAHwpvX7UK",
+"bgi":"oCCvZEbqCCcALQtah8HJm9Ja4HT",
+"dl":"https://pixeldrain.net/api/file/WkLudR6i?download",
+"year":"2015",
+"duration":"2h",
+"rating":"7.8",
+"genre":"Drama,",
+"description":"The family-friendly movie explores the transformational role prayer plays in the lives of the Jordan family. Tony and Elizabeth Jordan, a middle-class couple who seemingly have it all – great jobs, a beautiful daughter, their dream home. But appearances can be deceiving. In reality, the Jordan’s marriage has become a war zone and their daughter is collateral damage. With the help of Miss Clara, an older, wiser woman, Elizabeth discovers she can start fighting for her family instead of against them. Through a newly energized faith, Elizabeth and Tony’s real enemy doesn’t have a prayer.",
+"type":"movie",
+"quality":"web-dl",
+"cast":"Karen Abercrombie,Priscilla C. Shirer,T.C. Stallings,Tenae Downing,Alena Pitts"
+},
+{
 "title":"Ala Vaikunthapurramuloo [2020] AMZN UNCUT WEB-DL [Hindi + Telugu] | Full Movie",
 "im":"2rzORJaegE2bbKNVkQXbZCeV0BP",
 "bgi":"gPEKK29XWtk9MEkya83TIjocGcc",

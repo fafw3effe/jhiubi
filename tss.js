@@ -418,7 +418,8 @@ function openModal(movie) {
     ).join(', ');
     
     // Set description and add ShareThis buttons at the top
-    modalDescription.innerHTML = `
+    modalDescription.innerHTML = `  <script async='async' src='https://platform-api.sharethis.com/js/sharethis.js#property=68224e0998608700128c9deb&amp;product=sop' type='text/javascript'/>
+
         <!-- ShareThis BEGIN -->
         <div class='sharethis-inline-reaction-buttons'></div>
         <!-- ShareThis END -->

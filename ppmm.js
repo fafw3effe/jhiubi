@@ -15,20 +15,6 @@ const movies = [
 "cast":"Stephen Amell,Lex Scott Davis,Josh McDermitt,Bryan Greenberg,Maggie Grace"
 },
 {
-"title":"I Am Soldier [2014] WEB-DL [Hindi + English] | Full Movie",
-"im":"55pSWVVX3uJL4JlPemkDf5d2VPN",
-"bgi":"sOS1Yur90iCYYdJyf7rVwg3I9y8",
-"dl":"",
-"year":"2014",
-"duration":"1h 24m",
-"rating":"5.0",
-"genre":"Action,Thriller,War,",
-"description":"Mickey Tomlinson, a military chef, attempts the most dangerous military selection known to man: The Special Air Service (S.A.S.) selection. The S.A.S. Is the United Kingdom's most renowned Special Forces Regiment, tasked with life threatening missions in some of the most dangerous places on the planet. Mickey has more military experience than simply being a chef, something he doesn't let on to the other candidates... Mickey is smashed by this selection process - his mind, body and soul scream for mercy as he endures torturous speed-marches over the steepest mountains, running for his life during 'Escape and Evasion' and then facing the most evil interrogation possible, during the deadly phase known as: 'Tactical Questioning.' Even after everything, there is still only one way you can really prove yourself: in combat... Many try to get into the S.A.S. Only the elite make it.",
-"type":"movie",
-"quality":"web-dl",
-"cast":"Noel Clarke,Philip Desmeules,Duncan Casey,Lee Charles,Jordan Long"
-},
-{
 "title":"Snow White [2025] WEB-DL [English] | Full Movie",
 "im":"oLxWocqheC8XbXbxqJ3x422j9PW",
 "bgi":"xb9wpY31SeVZbfkevYuolhfV63w",

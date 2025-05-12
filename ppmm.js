@@ -5,6 +5,19 @@ const movies = [
 
 
 {
+"title":"Criminal Code [Season 1] WEB-DL [Hindi + English] | All Episodes",
+"im":"mZ78Uee2EF0Vp0iA1eATjCSb5H7",
+"dl":"http://qwrqwrqwr.rf.gd/a/a.php?pd=Ey1ddqMd&sn=1&es=Criminal.Code.S01.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms/Criminal.Code.S01E&e=8&el=.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv",
+"bgi":"cSVDsq0UaTtP6TOpU0VIa6yiqlj",
+"year":"2023",
+"duration":"1h",
+"rating":"7.7",
+"genre":"Drama,Crime,Action & Adventure,",
+"description":"To crack the code of an investigation into a larger-than-life robbery, federal agents need to get creative.",
+"type":"series",
+"cast":"Gabriela Moreno,Daniel Bisogni,Maeve Jinkings,Rômulo Braga,Thomás Aquino"
+},
+{
 "title":"Ground Zero [2025] WEB-DL [Hindi] | Full Movie",
 "im":"x5YK8MkjL1vVsXxnGWifEOK2tJl",
 "bgi":"bhJT9N8Z4dORg8wsb9XleD5vaah",

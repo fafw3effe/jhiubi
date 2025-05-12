@@ -15,6 +15,21 @@ const movies = [
 "quality":"web-dl",
 "cast":"Rachel Zegler,Gal Gadot,Andrew Burnap,Jeremy Swift,Jason Kravits"
 },
+
+{
+"title":"Crayon Shin-chan: Explosion! The Hot Spring&#39;s Feel Good Final Battle [1999] WEB-DL [Hindi + English] | Full Movie",
+"im":"kYDZKDB0mkAglbl2phJfLFJmKqe",
+"bgi":"aQGnRn0hW0Tk4DhsCjfLg9tiaeF",
+"dl":"",
+"year":"1999",
+"duration":"1h 36m",
+"rating":"6.7",
+"genre":"Animation,Action,Comedy,",
+"description":"There's only one way to stop a filthy evil scientist from destroying the world, and it's with a powerful hot spring located under Shin-chan's house!",
+"type":"movie",
+"quality":"web-dl",
+"cast":"Akiko Yajima,Miki Narahashi,Keiji Fujiwara,Satomi Korogi,Shinji Ogawa"
+},
 {
 "title":"Pokemon [Season 19: XYZ] [Episode 11 - 48] WEB-DL [Hindi + English] | All Episodes",
 "im":"rOuGm07PxBhEsK9TaGPRQVJQm1X",

@@ -3,6 +3,20 @@ const movies = [
 
 
 {
+"title":"Sookshmadarshini [2024] WEB-DL [Hindi + English] | Full Movie",
+"im":"rOZt5FVZC51keFRRUSzWGE5y1Rt",
+"bgi":"jVbNeG56WLuCncRlPsF7jAGZw1w",
+"dl":"https://pixeldrain.net/api/file/ESLjmFBv?download",
+"year":"2024",
+"duration":"2h 22m",
+"rating":"7.2",
+"genre":"Mystery,Thriller,Comedy,",
+"description":"Manuel returns with his mother to their former home in a middle-class neighbourhood. Suspicious of his intentions, Priyadarshini and her friends begin gathering clues, convinced he may be hiding something sinister.",
+"type":"movie",
+"quality":"web-dl",
+"cast":"Nazriya Nazim Fahadh,Basil Joseph,Sidharth Bharathan,Deepak Parambol,Merin Philip"
+},
+{
 "title":"Ala Vaikunthapurramuloo [2020] AMZN UNCUT WEB-DL [Hindi + Telugu] | Full Movie",
 "im":"2rzORJaegE2bbKNVkQXbZCeV0BP",
 "bgi":"gPEKK29XWtk9MEkya83TIjocGcc",

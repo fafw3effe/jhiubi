@@ -1,9 +1,6 @@
 // Movies data
 const movies = [
 
-
-
-
 {
 "title":"Snow White [2025] WEB-DL [English] | Full Movie",
 "im":"oLxWocqheC8XbXbxqJ3x422j9PW",

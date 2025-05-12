@@ -18,7 +18,7 @@ const movies = [
 {
 "title":"Pokemon [Season 19: XYZ] [Episode 11 - 48] WEB-DL [Hindi + English] | All Episodes",
 "im":"rOuGm07PxBhEsK9TaGPRQVJQm1X",
-"dl":"http://qwrqwrqwr.rf.gd/a/a.php?pd=w2cJttJa&sn=19&es=https://pixeldrain.biz/api/file/w2cJttJa/info/zip/Pokemon%20S19E&e=11&lp=38&el=%20[RareToonsIndia].mkv",
+"dl":"http://qwrqwrqwr.rf.gd/a/a.php?pd=w2cJttJa&sn=19&es=Pokemon%20S19E&e=11&lp=38&el=%20[RareToonsIndia].mkv",
 "bgi":"rm6zG1gESQT0ww3mp8oUUT5LJBL",
 "year":"1997",
 "duration":"1h",

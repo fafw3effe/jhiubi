@@ -2,6 +2,22 @@
 const movies = [
 
 
+
+
+{
+"title":"Ground Zero [2025] WEB-DL [Hindi + English] | Full Movie",
+"im":"x5YK8MkjL1vVsXxnGWifEOK2tJl",
+"bgi":"bhJT9N8Z4dORg8wsb9XleD5vaah",
+"dl":"https://pixeldrain.net/api/file/xqE2k4ae?download",
+"year":"2025",
+"duration":"2h 14m",
+"rating":"7.9",
+"genre":"Action,Thriller,War,",
+"description":"An Indian army officer embarks on a mission leading to India’s most successful counter-terrorism operation in history.",
+"type":"movie",
+"quality":"web-dl",
+"cast":"Emraan Hashmi,Mukesh Tiwari,Sai Tamhankar,Zoya Hussain,Lalit Prabhakar"
+},
 {
 "title":"C.I.D. [Season 2] [Episode 42] WEB-DL [Hindi] | All Episodes",
 "im":"60ZxbAMk6QO8jMD0p8WrGHVCbyK",
@@ -1881,19 +1897,6 @@ dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=FYnibEzt&sn=7&es=Naruto.Shippuden.E&e=176&
 "description":"The life of a young girl, Ayyana, who struggles with societal norms, family pressure, and her dreams, unfolds in a gripping story of resilience and hope.",
 "type":"series",
 "quality":"web-dl"
-},
-{
-"title":"Ground Zero [2025] HQ-V2 HDTC [Hindi] [HEVC] | Full Movie",
-"im":"dZILOHlX1LfboYsaeDMdMwdF5nN",
-"dl":"https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Ground-Zero.2025.720p.HEVC.HDTC.Hindi-ORG.x265-HDHub4u.Ms.mkv",
-"link":"tt28377588",
-"year":"2025",
-"duration":"115 min",
-"rating":"6.9",
-"genre":"Action, Thriller",
-"description":"A team of elite soldiers is sent to the epicenter of a catastrophic event. What starts as a mission to secure a location turns into a fight for survival.",
-"type":"movie",
-"quality":"hq-v2 hdtc"
 },
 {
 "title":"Jewel Thief - The Heist Begins [2025] WEB-DL [Hindi] [HEVC] | Full Movie",

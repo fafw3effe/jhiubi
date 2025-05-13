@@ -2,7 +2,7 @@
 const movies = [
 
 {
-"title":"WWE Backlash 2025 [2025] WEB-DL [Hindi + English] | Full Movie",
+"title":"WWE Backlash [2025] WEB-DL [Hindi + English] | Full Movie",
 "im":"8e1euGkJNTr6GpCMDpMZ6n9iuOT",
 "bgi":"lGtAVW0bDlUJB8D3h3IelYj6jDj",
 "dl":"https://pixeldrain.net/api/file/Di5vzntK?download",

@@ -1,6 +1,22 @@
 // Movies data
 const movies = [
 
+
+
+{
+"title":"WWE Backlash 2025 [2025] WEB-DL [Hindi + English] | Full Movie",
+"im":"8e1euGkJNTr6GpCMDpMZ6n9iuOT",
+"bgi":"lGtAVW0bDlUJB8D3h3IelYj6jDj",
+"dl":"https://pixeldrain.net/api/file/Di5vzntK?download",
+"year":"2025",
+"duration":"2h 31m",
+"rating":"7.1",
+"genre":"Drama,Action,",
+"description":"WWE Backlash 2025 was a professional wrestling premium live event promoted by World Wrestling Entertainment (WWE). The event took place on May 10, 2025 at the Enterprise Center in St. Louis, Missouri.",
+"type":"movie",
+"quality":"web-dl",
+"cast":"John Cena,Randy Orton,Pat McAfee,Walter Hahn,Dominick Gutiérrez"
+},
 {
 "title":"Peaky Blinders [Season 3] [Episode 3] WEB-DL [Hindi + English]",
 "im":"vUUqzWa2LnHIVqkaKVlVGkVcZIW",

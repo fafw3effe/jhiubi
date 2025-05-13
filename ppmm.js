@@ -1,7 +1,19 @@
 // Movies data
 const movies = [
 
-
+{
+"title":"Peaky Blinders [Season 3] [Episode 3] WEB-DL [Hindi + English]",
+"im":"vUUqzWa2LnHIVqkaKVlVGkVcZIW",
+"dl":"https://pixeldrain.net/api/file/Norx9MGC?download",
+"bgi":"or7wKwv1IT6LEOktt395O5qi7e",
+"year":"2016",
+"duration":"1h",
+"rating":"8.5",
+"genre":"Drama,Crime,",
+"description":"A gangster family epic set in 1919 Birmingham, England and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby, who means to move up in the world.",
+"type":"series",
+"cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
+},
 {
 "title":"A Minecraft Movie [2025] WEB-DL [Hindi + English] | Full Movie",
 "im":"iPPTGh2OXuIv6d7cwuoPkw8govp",

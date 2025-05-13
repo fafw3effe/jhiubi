@@ -1,8 +1,6 @@
 // Movies data
 const movies = [
 
-
-
 {
 "title":"WWE Backlash 2025 [2025] WEB-DL [Hindi + English] | Full Movie",
 "im":"8e1euGkJNTr6GpCMDpMZ6n9iuOT",

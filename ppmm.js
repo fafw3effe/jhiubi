@@ -3,6 +3,34 @@ const movies = [
 
 
 {
+"title":"A Minecraft Movie [2025] WEB-DL [Hindi + English] | Full Movie",
+"im":"iPPTGh2OXuIv6d7cwuoPkw8govp",
+"bgi":"2Nti3gYAX513wvhp8IiLL6ZDyOm",
+"dl":"https://pixeldrain.net/api/file/8XKfTvfg?download",
+"year":"2025",
+"duration":"1h 41m",
+"rating":"6.2",
+"genre":"Family,Comedy,Adventure,Fantasy,",
+"description":"Four misfits find themselves struggling with ordinary problems when they are suddenly pulled through a mysterious portal into the Overworld: a bizarre, cubic wonderland that thrives on imagination. To get back home, they'll have to master this world while embarking on a magical quest with an unexpected, expert crafter, Steve.",
+"type":"movie",
+"quality":"web-dl",
+"cast":"Jason Momoa,Jack Black,Sebastian Eugene Hansen,Emma Myers,Danielle Brooks"
+},
+{
+"title":"High Plains Drifter [1973] WEB-DL [Hindi + English] | Full Movie",
+"im":"AjkJCFkqanK1OZqiHxc6Kl2wPQO",
+"bgi":"teLJilYBEdBiCNwPuiJaJT0p7i8",
+"dl":"https://pixeldrain.net/api/file/feybLjTh?download",
+"year":"1973",
+"duration":"1h 45m",
+"rating":"7.3",
+"genre":"Western,Drama,Mystery,",
+"description":"A gunfighting stranger comes to the small settlement of Lago. After gunning down three gunmen who tried to kill him, the townsfolk decide to hire the Stranger to hold off three outlaws who are on their way.",
+"type":"movie",
+"quality":"web-dl",
+"cast":"Clint Eastwood,Verna Bloom,Marianna Hill,Mitchell Ryan,Jack Ging"
+},
+{
 "title":"JoJos Bizarre Adventure [Season 2] [Episode 6] WEB-DL [Hindi + English + Japanese]",
 "im":"kX9noqY0YpOPKwXpRXYg1hEIqmM",
 "dl":"https://pixeldrain.net/api/file/X8HizjtB?download",

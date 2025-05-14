@@ -359,13 +359,13 @@ const movies = [
 "cast":"Aditya Srivastava,Shivaji Satham,Dayanand Shetty,Narendra Gupta,Ansha Sayed"
 },
 {
-"title":"The Last of Us [Season 1] [Episode 5] WEB-DL [Hindi + English] | All Episodes",
+"title":"The Last of Us [Season 2] [Episode 5] WEB-DL [Hindi + English] | All Episodes [Season 1 - 2]",
 "im":"dmo6TYuuJgaYinXBPjrgG9mB5od",
-"dl":"https://pixeldrain.net/api/file/7XPF8rwW?download",
+"dl":"https://s.pptons.com/2025/05/the-last-of-us.html",
 "bgi":"lY2DhbA7Hy44fAKddr06UrXWWaQ",
-"year":"2025",
+"year":"2023",
 "duration":"1h",
-"rating":"8.7",
+"rating":"8.6",
 "genre":"Drama,",
 "description":"Twenty years after modern civilization has been destroyed, Joel, a hardened survivor, is hired to smuggle Ellie, a 14-year-old girl, out of an oppressive quarantine zone. What starts as a small job soon becomes a brutal, heartbreaking journey, as they both must traverse the United States and depend on each other for survival.",
 "type":"series",

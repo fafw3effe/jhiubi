@@ -1,6 +1,76 @@
 // Movies data
 const movies = [
 
+
+{
+"title":"Andor [Season 2] WEB-DL [Hindi + English] | All Episodes",
+"im":"khZqmwHQicTYoS7Flreb9EddFZC",
+"dl":"http://qwrqwrqwr.rf.gd/a/a.php?pd=8ZRVcmnz&sn=2&es=Andor.S02.720p.10Bit.WEB-DL.Hindi.5.1-English.HEVC.x265-HDHub4u.Ms/Andor.S02E&e=12&el=.720p.10Bit.WEB-DL.Hindi.5.1-English.HEVC.x265-HDHub4u.Ms.mkv",
+"bgi":"kCGwvjpqM1owt9kI4pkYPJWJLvc",
+"year":"2022",
+"duration":"1h",
+"rating":"8.2",
+"genre":"Sci-Fi & Fantasy,Action & Adventure,Drama,",
+"description":"In an era filled with danger, deception and intrigue, Cassian Andor will discover the difference he can make in the struggle against the tyrannical Galactic Empire. He embarks on a path that is destined to turn him into a rebel hero.",
+"type":"series",
+"cast":"Diego Luna,Adria Arjona,Denise Gough,Stellan Skarsgård,Genevieve O&#39;Reilly"
+},
+{
+"title":"Maranamass [2025] WEB-DL [Hindi + Malayalam] | Full Movie",
+"im":"erU6DGyYGEFrnE4reiGX3pytU2e",
+"bgi":"hzUZ7MQjLhI3ucx33gPSgV9mMW1",
+"dl":"https://pixeldrain.net/api/file/aEKp1i4V?download",
+"year":"2025",
+"duration":"2h 19m",
+"rating":"8.0",
+"genre":"Comedy,Drama,Crime,Thriller,",
+"description":"An unlikely group of people become trapped on a bus with a man they do not realise is the serial killer terrorising their community.",
+"type":"movie",
+"quality":"web-dl",
+"cast":"Basil Joseph,Siju Sunny,Rajesh Madhavan,Suresh Krishna,Babu Antony"
+},
+{
+"title":"Hippi [2019] UNCUT WEB-DL [Hindi + Telugu] | Full Movie",
+"im":"27ZykvkMI2eiMNlAAgryT5YubKf",
+"bgi":"xsYVlhJiM9MiV7HOCrbu6FjeGn3",
+"dl":"https://pixeldrain.net/api/file/HhCWE2A6?download",
+"year":"2019",
+"duration":"2h 23m",
+"rating":"7.0",
+"genre":"Romance,",
+"description":"Devadas is a kick boxer turned techie who wants to break his relationship with Amukta Malyada at any cost. But will she let it happen?",
+"type":"movie",
+"quality":"web-dl",
+"cast":"Kartikeya Gummakonda,Digangana Suryavanshi,Jazba Singh,J. D. Chakravarthi,Vennela Kishore"
+},
+{
+"title":"Once Upon a Time in Madras [2024] WEB-DL [Hindi] | Full Movie",
+"im":"waJePev0h6x1zORqCm4A54rfS8p",
+"bgi":"vWkfGnXTaRCrwL60GTarwImLOuQ",
+"dl":"https://pixeldrain.net/api/file/QFCsqrV2?download",
+"year":"2024",
+"duration":"2h 1m",
+"rating":"6.2",
+"genre":"Thriller,",
+"description":"In Chennai, along the Koovam River, 9-year-old Dinesh's life ends tragically when he's shot by retired army officer Krishnaraja in a fit of rage. Confusion ensues as the police investigation fails to identify the shooter. Krishnaraja disposes of the gun in the river, but its discoveries by a few people sets off a chain of events with unforeseen consequences.",
+"type":"movie",
+"quality":"web-dl",
+"cast":"Bharath Srinivasan,Pavithra Lakshmi,Abhirami,Anjali Nair,Shaan A"
+},
+{
+"title":"Vaamana [2025] WEB-DL [Hindi] | Full Movie",
+"im":"fJKsEVUmmqkF6EN66JFuej2e7GU",
+"bgi":"aZAWi9EEfEhE2qswlcHvoeUQn7A",
+"dl":"https://pixeldrain.net/api/file/Nw2PqCCA?download",
+"year":"2025",
+"duration":"2h 14m",
+"rating":"3.0",
+"genre":"Action,",
+"description":"Explores the emotions and lifestyles of ordinary people, with a compelling hero Guna pursuing vengeance against antagonists. His actions are driven by his past life, which influences his present and future.",
+"type":"movie",
+"quality":"web-dl",
+"cast":"Dhanveer Gowda,Reeshma Nanaiah,Tara,Avinash,Achyuth Kumar"
+},
 {
 "title":"WWE Backlash [2025] WEB-DL [Hindi + English] | Full Movie",
 "im":"8e1euGkJNTr6GpCMDpMZ6n9iuOT",

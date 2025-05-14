@@ -2668,12 +2668,19 @@ dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=FYnibEzt&sn=7&es=Naruto.Shippuden.E&e=176&
  dl:'https://hubcloud.bz/drive/zlppbphkkpkppas',
  link: 'tt11640018'
 },
- 
+
 {
- title:'Daredevil: Born Again [Season 1] [All Episodes] WEB-DL [Hindi + English] [HEVC] | Full Series',
- im:'9lLuhV703HGCbnz6FxnqCwIwzAZ',
- dl:'https://hubcloud.bz/drive/ijqtveqixhqgqnw',
- link: 'tt18923754'
+"title":"Daredevil: Born Again [Season 1] WEB-DL [Hindi + English] | All Episodes",
+"im":"9lLuhV703HGCbnz6FxnqCwIwzAZ",
+"dl":"https://s.pptons.com/2025/05/daredevil-born-again.html",
+"bgi":"hrsRczdsAHBLTDzlIqt82bxY0Tt",
+"year":"2025",
+"duration":"1h",
+"rating":"8.0",
+"genre":"Drama,Crime,",
+"description":"Matt Murdock, a blind lawyer with heightened abilities, is fighting for justice through his bustling law firm, while former mob boss Wilson Fisk pursues his own political endeavors in New York. When their past identities begin to emerge, both men find themselves on an inevitable collision course.",
+"type":"series",
+"cast":"Charlie Cox,Vincent D&#39;Onofrio,Margarita Levieva,Zabryna Guevara,Nikki M. James"
 },
  
 {

@@ -16,6 +16,20 @@ const movies = [
 "cast":"Diego Luna,Adria Arjona,Denise Gough,Stellan Skarsgård,Genevieve O&#39;Reilly"
 },
 {
+"title":"Doraemon [Season 20] WEB-DL [Hindi] | All Episodes",
+"im":"9ZN1P32SHviL3SV51qLivxycvcx",
+"dl":"https://sdfefed.blogspot.com/2025/05/doraemon.html",
+"bgi":"hqqdoXdrp4o8ZqADHVYIXwBkn3Y",
+"year":"2005",
+"duration":"21 min per episode",
+"rating":"8.1",
+"genre":"Action & Adventure,Animation,Comedy,Sci-Fi & Fantasy,Kids,Family,",
+"description":"Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated boy who is destined to have a tragic future. Doraemon can create secret gadgets from a pocket on his stomach, but they usually cause more bad than good because of Noby's propensity to misuse them.",
+"type":"series",
+"cast":"Megumi Oohara,Wasabi Mizuta,Yumi Kakazu,Tomokazu Seki,Subaru Kimura"
+},
+
+{
 "title":"Maranamass [2025] WEB-DL [Hindi + Malayalam] | Full Movie",
 "im":"erU6DGyYGEFrnE4reiGX3pytU2e",
 "bgi":"hzUZ7MQjLhI3ucx33gPSgV9mMW1",

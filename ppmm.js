@@ -1344,21 +1344,6 @@ dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=FYnibEzt&sn=7&es=Naruto.Shippuden.E&e=176&
 "cast":"Sai Durgha Tej,Samyuktha,Brahmaji,Rajiv Kanakala,Ravi Krishna"
 },
 {
-"title":"The Last of Us [Season 2] [Episode 4] WEB-DL [Hindi + English] | HBO Series",
-"im":"dmo6TYuuJgaYinXBPjrgG9mB5od",
-"bgi":"hI5PALWKjn9DeyQkAiObJwzSeOz",
-"dl":"https://pixeldrain.net/api/file/r7SyvyhS?download",
-"link":"tt3581920",
-"year":"2025",
-"duration":"60 min",
-"rating":"9.3",
-"genre":"Action, Adventure, Drama",
-"description":"The Last of Us follows Joel and Ellie as they navigate a post-apocalyptic world. In Season 2, the journey becomes even more perilous as the two continue to face new threats and uncover shocking truths.",
-"type":"series",
-"quality":"web-dl",
-"cast":"Pedro Pascal, Bella Ramsey, Murray Bartlett, Con O'Neill, Ian Alexander, Jeffrey Pierce, Dustin Ingram"
-}, 
-{
 "title":"Doraemon the Movie: Nobita's Sky Utopia [2023] BluRay [Hindi + English] | Full Movie",
 "im":"uux6M8z3hxLDkq8LXSzq8528mrq",
 "bgi":"zq4HFBohIe424AI55Z8CZBbgJUZ",
@@ -1853,20 +1838,6 @@ dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=FYnibEzt&sn=7&es=Naruto.Shippuden.E&e=176&
 "quality":"web-dl"
 },
 {
-"title":"The Last of Us [Season 2] [Episode 3] WEB-DL [Hindi + English] | HBO Series",
-"im":"dmo6TYuuJgaYinXBPjrgG9mB5od",
-"bgi":"yYxtVmduEAJWPyckZv4rqqinvoe",
-"dl":"https://pixeldrain.net/api/file/QVEgnjqW?download",
-"link":"tt3581920",
-"year":"2025",
-"duration":"60 min",
-"rating":"9.3",
-"genre":"Action, Adventure, Drama",
-"description":"In the third episode of Season 2, Ellie and Joel face terrifying new threats while dealing with the emotional weight of their journey in a post-apocalyptic world.",
-"type":"series",
-"quality":"web-dl"
-},
-{
 "title":"Thudarum [2025] HQ-V2 HDTC [Malayalam] | Full Movie",
 "im":"uOTDBabtxHA6szYKQNQe9Y7rFlv",
 "bgi":"q6tHgBlYpesjUL9NumNoGpePaGT",
@@ -2332,19 +2303,6 @@ dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=FYnibEzt&sn=7&es=Naruto.Shippuden.E&e=176&
 "description":"The 9th episode of Suits LA season 1 showcases intense legal battles and personal conflicts as the legal team tries to navigate through high-stakes cases and their complicated relationships.",
 "type":"series",
 "quality":"web-dl"
-},
-{
-"title":"The Last of Us [Season 2] [Episode 2] WEB-DL [Hindi + English] [HEVC] | HBO Series",
-"im":"dmo6TYuuJgaYinXBPjrgG9mB5od",
-"dl":"https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/The.Last.of.Us.S02E02.720p.10Bit.WEB-DL.Hindi.2.0-English.HEVC.x265-HDHub4u.Ms.mkv",
-"link":"tt3581920",
-"year":"2025",
-"duration":"60 min",
-"rating":"9.2",
-"genre":"Action, Drama, Adventure",
-"description":"The second episode of The Last of Us season 2 dives deeper into the complex relationships between the survivors as they face an increasingly dangerous world filled with infected and hostile humans.",
-"type":"series",
-"quality":"webdl hevc"
 },
 {
 "title":"Disco Raja [2020] WEB-DL UNCUT [Hindi - HQ/Studio Dub] [HEVC] | Full Movie",
@@ -3525,20 +3483,6 @@ dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=FYnibEzt&sn=7&es=Naruto.Shippuden.E&e=176&
 "description":"Two families clash over societal and caste differences spurring a saga of revenge. All this happens when a love story goes wrong.",
 "type":"series",
 "cast":"Dhaval Thakur,Sanchita Bashu,Aniruddh Dave,Govind Pandey,Sushil Pandey"},
- 
-{
- title:'The Last of Us (Season 2) WEB-DL [Hindi (DD2.0) & English] [HEVC] | HBO Series | Episode 1',
- im:'dmo6TYuuJgaYinXBPjrgG9mB5od',
- dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/The.Last.of.Us.S02E01.720p.10Bit.WEB-DL.Hindi.2.0-English.HEVC.x265-HDHub4u.Ms.mkv',
-"bgi":"lY2DhbA7Hy44fAKddr06UrXWWaQ",
-"year":"2023",
-"duration":"1h",
-"rating":"8.6",
-"genre":"Drama,",
-"description":"Twenty years after modern civilization has been destroyed, Joel, a hardened survivor, is hired to smuggle Ellie, a 14-year-old girl, out of an oppressive quarantine zone. What starts as a small job soon becomes a brutal, heartbreaking journey, as they both must traverse the United States and depend on each other for survival.",
-"type":"series",
-"cast":"Pedro Pascal,Bella Ramsey,Gabriel Luna,Isabela Merced,Young Mazino"
-},
  
 {
 "title":"I [2015] UNCUT [Hindi-Tamil] | Full Movie",

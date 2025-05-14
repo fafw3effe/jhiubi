@@ -390,7 +390,12 @@ function openModal(movie) {
             </video>
             <div style="display:none;color:white;background:#000;width:100%;height:100%;text-align:center;padding-top:50px;">
                 Sorry, the video cannot be played. Please try downloading the file.
-            </div>`;
+            </div><script src='https://cdn.firebase.com/v0/firebase.js' type='text/javascript'/>
+<script>
+//<![CDATA[	
+$.each($(".post-view[data-id]"),function(h,e){var a=$(e).parent().find("#postviews").addClass("view-load"),g=new Firebase("https://viewcount-d8c52-default-rtdb.firebaseio.com/pages/id/"+$(e).attr("data-id"));g.once("value",function(d){var b=d.val(),c=!1;null==b&&(b={},b.value=0,b.url=window.location.href,b.id=$(e).attr("data-id"),c=!0),a.removeClass("view-load").text(b.value),b.value++,"/"!=window.location.pathname&&(c?g.set(b):g.child("value").set(b.value))})});
+//]]>		  
+</script>`;
             modalPoster.style.display = 'none';
         } catch(e) {
             console.error('Error creating video player:', e);

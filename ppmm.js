@@ -667,12 +667,12 @@ const movies = [
 "cast":"Setsuo Ito,Takahiro Sakurai,Miyu Irino,Akio Otsuka,Ryunosuke Watanuki"
 },
 {
-"title":"Solo Leveling [Season 2] [Episode 1 - 9] WEB-DL [Hindi + English] | All Episodes",
+"title":"Solo Leveling [All Seasons] WEB-DL [Hindi + English] | All Episodes",
 "im":"geCRueV3ElhRTr0xtJuEWJt6dJ1",
-"dl":"http://qwrqwrqwr.rf.gd/a/a.php?pd=yMnL9hrf&sn=2&es=Solo%20Leveling-S02E&e=9&el=.720p.HIN-JAP.x265.ESub-PikaHD.com.mkv",
+"dl":"https://sdfefed.blogspot.com/2025/05/solo-leveling-s01.html",
 "bgi":"odVlTMqPPiMksmxpN9cCbPCjUPP",
 "year":"2024",
-"duration":"1h",
+"duration":"21 min per episode",
 "rating":"8.6",
 "genre":"Animation,Action & Adventure,Sci-Fi & Fantasy,",
 "description":"They say whatever doesn’t kill you makes you stronger, but that’s not the case for the world’s weakest hunter Sung Jinwoo. After being brutally slaughtered by monsters in a high-ranking dungeon, Jinwoo came back with the System, a program only he could see, that’s leveling him up in every way. Now, he’s inspired to discover the secrets behind his powers and the dungeon that spawned them.",
@@ -2526,19 +2526,6 @@ dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=FYnibEzt&sn=7&es=Naruto.Shippuden.E&e=176&
 "quality":"webdl uncut"
 },
 {
-"title":"Solo Leveling [Season 2] [Episode 13] WEB-DL [Hindi + English + Japanese] [HEVC]",
-"im":"geCRueV3ElhRTr0xtJuEWJt6dJ1",
-"dl":"https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Solo%20Leveling-S02E13-720p-[HIN-ENG-JAP]-PIKAHD.COM.mkv",
-"link":"tt21209876",
-"year":"2025",
-"duration":"25 min",
-"rating":"8.6",
-"genre":"Action, Fantasy, Adventure",
-"description":"The latest episode of Solo Leveling features intense battles, as the protagonist continues to face powerful enemies in the dungeon. The stakes get higher as new alliances and rivalries emerge.",
-"type":"series",
-"quality":"webdl hevc"
-},
-{
 "title":"Kesari [2019] WEB-DL [Hindi] [HEVC] | Full Movie",
 "im":"ctjT1pMNAGD9ou0kuhz806tf7kX",
 "dl":"https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Kesari.2019.720p.10Bit.BluRay.Hindi.2.0.HEVC.x265-HDHub4u.Ms.mkv",
@@ -2770,28 +2757,7 @@ dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=FYnibEzt&sn=7&es=Naruto.Shippuden.E&e=176&
  dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/JoJo.Bizarre.Adventure.S01E07.720p.HIN-ENG-JAP.ESub-PikaHD.com.mkv',
  link: 'tt2359704'
 },
- 
-{
- title: 'Solo Leveling [Season 2] [Episode 12] WEB-DL [Hindi + English + Japanese] [HEVC]',
- im:'geCRueV3ElhRTr0xtJuEWJt6dJ1',
- dl: 'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Solo%20Leveling-S02E12-720p-[HIN-ENG-JAP]-PIKAHD.COM.mkv',
- link: 'tt21209876'
-},
- 
-{
- title: 'Solo Leveling [Season 2] [Episode 11] WEB-DL [Hindi + English + Japanese] [HEVC]',
- im:'geCRueV3ElhRTr0xtJuEWJt6dJ1',
- dl: 'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Solo%20Leveling-S02E11-S02E11-720p-HEVC-[HIN-ENG-JAP]-PIKAHD.COM.mkv',
- link: 'tt21209876'
-},
- 
-{
- title: 'Solo Leveling [Season 2] [Episode 10] WEB-DL [Hindi + English + Japanese] [HEVC]',
- im:'geCRueV3ElhRTr0xtJuEWJt6dJ1',
- dl: 'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Solo%20Leveling-S02E10-720p-HEVC-[HIN-ENG-JAP]-PIKAHD.COM.mkv',
- link: 'tt21209876'
-},
- 
+
 {
  title:'Khauf [Season 1] [All Episodes] WEB-DL [Hindi + English] [HEVC] | Full Series',
  im:'puwKd7W9iCocEy11Z1XJ5sN2RaG',

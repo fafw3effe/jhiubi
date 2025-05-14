@@ -16,6 +16,19 @@ const movies = [
 "cast":"Diego Luna,Adria Arjona,Denise Gough,Stellan Skarsgård,Genevieve O&#39;Reilly"
 },
 {
+"title":"Shin Chan [Season 10] WEB-DL [Hindi] | All Episodes",
+"im":"zg19Paur3lVVSh8J4LJVO1wgBIg",
+"dl":"https://sdfefed.blogspot.com/2025/05/shinchan.html",
+"bgi":"70xTjXpb0kfOhTRJqKwDYSG8Kle",
+"year":"1992",
+"duration":"21 min per episode",
+"rating":"7.8",
+"genre":"Animation,Comedy,Kids,",
+"description":"Shin-chan, the boy next door, is a walking disaster, creating chaos wherever he goes. With the body of a child and the mind of an adult, Shinchan is wreaking more havoc than any child before. Shin-chan is carefree, optimistic and gets excited about everything. This 5 year-old likes to do things his way.",
+"type":"series",
+"cast":"Akiko Yajima,Miki Narahashi,Keiji Fujiwara,Satomi Korogi,Mari Mashiba"
+},
+{
 "title":"Doraemon [Season 20] WEB-DL [Hindi] | All Episodes",
 "im":"9ZN1P32SHviL3SV51qLivxycvcx",
 "dl":"https://sdfefed.blogspot.com/2025/05/doraemon.html",

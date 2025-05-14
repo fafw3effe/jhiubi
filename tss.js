@@ -253,7 +253,7 @@ function displayMovies() {
         
         const sticker = document.createElement('div');
         if (movie.type === 'series') {
-            const seasonMatch = movie.title.match(/\[Season (.*?)\]/);
+            const seasonMatch = movie.title.match(/\[(.*?)\]/);
             const seasonText = seasonMatch ? `Season ${seasonMatch[1]}` : 'Season 1';
             
             const seasonMatche = movie.title.match(/\[Episode (.*?)\]/);

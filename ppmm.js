@@ -210,19 +210,6 @@ const movies = [
 "cast":"John Cena,Randy Orton,Pat McAfee,Walter Hahn,Dominick Gutiérrez"
 },
 {
-"title":"Peaky Blinders [Season 3] [Episode 3] WEB-DL [Hindi + English]",
-"im":"vUUqzWa2LnHIVqkaKVlVGkVcZIW",
-"dl":"https://pixeldrain.net/api/file/Norx9MGC?download",
-"bgi":"or7wKwv1IT6LEOktt395O5qi7e",
-"year":"2016",
-"duration":"1h",
-"rating":"8.5",
-"genre":"Drama,Crime,",
-"description":"A gangster family epic set in 1919 Birmingham, England and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby, who means to move up in the world.",
-"type":"series",
-"cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
-},
-{
 "title":"A Minecraft Movie [2025] WEB-DL [Hindi + English] | Full Movie",
 "im":"iPPTGh2OXuIv6d7cwuoPkw8govp",
 "bgi":"2Nti3gYAX513wvhp8IiLL6ZDyOm",
@@ -262,19 +249,6 @@ const movies = [
 "description":"Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers.",
 "type":"series",
 "cast":"Daisuke Ono,Takehito Koyasu,Unsho Ishizuka,Fuminori Komatsu,Daisuke Hirakawa"
-},
-{
-"title":"Peaky Blinders [Season 3] [Episode 2] WEB-DL [Hindi + English]",
-"im":"vUUqzWa2LnHIVqkaKVlVGkVcZIW",
-"dl":"https://pixeldrain.net/api/file/h3hBEY7g?download",
-"bgi":"or7wKwv1IT6LEOktt395O5qi7e",
-"year":"2016",
-"duration":"1h",
-"rating":"8.5",
-"genre":"Drama,Crime,",
-"description":"A gangster family epic set in 1919 Birmingham, England and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby, who means to move up in the world.",
-"type":"series",
-"cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
 {
 "title":"Suits LA [Season 1] [Episode 12] WEB-DL [Hindi + English]",
@@ -509,19 +483,6 @@ const movies = [
 "type":"movie",
 "quality":"web-dl",
 "cast":"Amitabh Bachchan,Prabhas,Deepika Padukone,Kamal Haasan,Saswata Chatterjee"
-},
-{
-"title":"Peaky Blinders [Season 3] [Episode 1] WEB-DL [Hindi + English]",
-"im":"vUUqzWa2LnHIVqkaKVlVGkVcZIW",
-"dl":"https://pixeldrain.net/api/file/5jWKfGQc?download",
-"bgi":"or7wKwv1IT6LEOktt395O5qi7e",
-"year":"2016",
-"duration":"1h",
-"rating":"8.5",
-"genre":"Drama,Crime,",
-"description":"A gangster family epic set in 1919 Birmingham, England and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby, who means to move up in the world.",
-"type":"series",
-"cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
 {
 "title":"One-Punch Man [Season 1] WEB-DL [Hindi + Japanese] | All Episodes",

@@ -16,9 +16,22 @@ const movies = [
 "cast":"Diego Luna,Adria Arjona,Denise Gough,Stellan Skarsgård,Genevieve O&#39;Reilly"
 },
 {
+"title":"Peaky Blinders [Season 1 - 2] WEB-DL [Hindi + English] | All Episodes",
+"im":"vUUqzWa2LnHIVqkaKVlVGkVcZIW",
+"dl":"https://s.pptons.com/2025/05/peaky-blinders.html",
+"bgi":"or7wKwv1IT6LEOktt395O5qi7e",
+"year":"2013",
+"duration":"1h",
+"rating":"8.5",
+"genre":"Drama,Crime,",
+"description":"A gangster family epic set in 1919 Birmingham, England and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby, who means to move up in the world.",
+"type":"series",
+"cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
+},
+{
 "title":"Shin Chan [Season 10] WEB-DL [Hindi] | All Episodes",
 "im":"zg19Paur3lVVSh8J4LJVO1wgBIg",
-"dl":"https://sdfefed.blogspot.com/2025/05/shinchan.html",
+"dl":"https://s.pptons.com/2025/05/shinchan.html",
 "bgi":"70xTjXpb0kfOhTRJqKwDYSG8Kle",
 "year":"1992",
 "duration":"21 min per episode",
@@ -31,7 +44,7 @@ const movies = [
 {
 "title":"Doraemon [Season 20] WEB-DL [Hindi] | All Episodes",
 "im":"9ZN1P32SHviL3SV51qLivxycvcx",
-"dl":"https://sdfefed.blogspot.com/2025/05/doraemon.html",
+"dl":"https://s.pptons.com/2025/05/doraemon.html",
 "bgi":"hqqdoXdrp4o8ZqADHVYIXwBkn3Y",
 "year":"2005",
 "duration":"21 min per episode",
@@ -308,7 +321,7 @@ const movies = [
 {
 "title":"Pokemon [Season 19: XYZ] WEB-DL [Hindi] | All Episodes",
 "im":"cx06NhIZHD3naq3bpXpqKZx2J1A",
-"dl":"https://sdfefed.blogspot.com/2025/05/pokemon-season-19.html",
+"dl":"https://s.pptons.com/2025/05/pokemon-season-19.html",
 "bgi":"rm6zG1gESQT0ww3mp8oUUT5LJBL",
 "year":"2015",
 "duration":"21 min per episode",
@@ -696,7 +709,7 @@ const movies = [
 {
 "title":"Solo Leveling [All Seasons] WEB-DL [Hindi + English] | All Episodes",
 "im":"geCRueV3ElhRTr0xtJuEWJt6dJ1",
-"dl":"https://sdfefed.blogspot.com/2025/05/solo-leveling-s01.html",
+"dl":"https://s.pptons.com/2025/05/solo-leveling-s01.html",
 "bgi":"odVlTMqPPiMksmxpN9cCbPCjUPP",
 "year":"2024",
 "duration":"21 min per episode",
@@ -3843,7 +3856,7 @@ dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=FYnibEzt&sn=7&es=Naruto.Shippuden.E&e=176&
 {
  title: 'Squid Game [Season 1-2] WEB-DL [Hindi (ORG 5.1) & English] [HEVC] | [ALL Episodes] | NetFlix Series',
  im:'caq0z9C2vvKdDhGe1EX6nerswV5',
- dl: 'https://sdfefed.blogspot.com/2025/04/sddfsdfs.html',
+ dl: 'https://s.pptons.com/2025/04/sddfsdfs.html',
 "bgi":"2meX1nMdScFOoV4370rqHWKmXhY",
 "year":"2021",
 "duration":"1h",

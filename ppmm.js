@@ -279,9 +279,9 @@ const movies = [
 "cast":"Akiko Yajima,Miki Narahashi,Keiji Fujiwara,Satomi Korogi,Shinji Ogawa"
 },
 {
-"title":"Pokemon [Season 19] [Episode 11 - 48] WEB-DL [Hindi] | All Episodes",
+"title":"Pokemon [Season 19: XYZ] WEB-DL [Hindi] | All Episodes",
 "im":"cx06NhIZHD3naq3bpXpqKZx2J1A",
-"dl":"http://qwrqwrqwr.rf.gd/a/a.php?pd=w2cJttJa&sn=19&es=Pokemon%20S19E&e=11&lp=38&el=%20[RareToonsIndia].mkv",
+"dl":"https://sdfefed.blogspot.com/2025/05/pokemon-season-19.html",
 "bgi":"rm6zG1gESQT0ww3mp8oUUT5LJBL",
 "year":"2015",
 "duration":"21 min per episode",

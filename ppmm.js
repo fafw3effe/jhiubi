@@ -29,6 +29,19 @@ const movies = [
 "cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
 {
+"title":"All of Us Are Dead [Season 1] WEB-DL [Hindi + English] | All Episodes",
+"im":"pTEFqAjLd5YTsMD6NSUxV6Dq7A6",
+"dl":"https://s.pptons.com/2025/05/all-of-us-are-dead.html",
+"bgi":"rKsd2InqKFH4NMPCTBFDo6m4tnm",
+"year":"2022",
+"duration":"1h",
+"rating":"8.3",
+"genre":"Action & Adventure,Drama,Sci-Fi & Fantasy,",
+"description":"A high school becomes ground zero for a zombie virus outbreak. Trapped students must fight their way out — or turn into one of the rabid infected.",
+"type":"series",
+"cast":"Park Ji-hu,Yoon Chan-young,Cho Yi-hyun,Lomon,Yoo In-soo"
+},
+{
 "title":"Squid Game [All Seasons] WEB-DL [Hindi + English] | All Episodes",
 "im":"1QdXdRYfktUSONkl1oD5gc6Be0s",
 "dl":"https://s.pptons.com/2025/05/squid-game.html",

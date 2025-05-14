@@ -395,7 +395,7 @@ function openModal(movie) {
 //<![CDATA[	
 $.each($(".post-view[data-id]"),function(h,e){var a=$(e).parent().find("#postviews").addClass("view-load"),g=new Firebase("https://viewcount-d8c52-default-rtdb.firebaseio.com/pages/id/"+$(e).attr("data-id"));g.once("value",function(d){var b=d.val(),c=!1;null==b&&(b={},b.value=0,b.url=window.location.href,b.id=$(e).attr("data-id"),c=!0),a.removeClass("view-load").text(b.value),b.value++,"/"!=window.location.pathname&&(c?g.set(b):g.child("value").set(b.value))})});
 //]]>		  
-</script>`;
+</script><!-- ShareThis BEGIN --><div class="sharethis-inline-reaction-buttons"></div><!-- ShareThis END --><script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=68224e0998608700128c9deb&product=inline-follow-buttons' async='async'></script>`;
             modalPoster.style.display = 'none';
         } catch(e) {
             console.error('Error creating video player:', e);

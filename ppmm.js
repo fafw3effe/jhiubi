@@ -16,7 +16,7 @@ const movies = [
 "cast":"Diego Luna,Adria Arjona,Denise Gough,Stellan Skarsgård,Genevieve O&#39;Reilly"
 },
 {
-"title":"Peaky Blinders [Season 1 - 2] WEB-DL [Hindi + English] | All Episodes",
+"title":"Peaky Blinders [Season 3] [Episode 4] WEB-DL [Hindi + English] | All Episodes [Season 1 - 2]",
 "im":"vUUqzWa2LnHIVqkaKVlVGkVcZIW",
 "dl":"https://s.pptons.com/2025/05/peaky-blinders.html",
 "bgi":"or7wKwv1IT6LEOktt395O5qi7e",
@@ -762,19 +762,6 @@ const movies = [
 "cast":"Alberto Olmo,Eléa Rochera,Enrique Arce,Mirela Balić,Farid Bechara"
 },
 {
-"title":"Peaky Blinders [Season 2] [Episode 6] WEB-DL [Hindi + English]",
-"im":"m4JPtC3gWUsq0GlfNK3SdgkL9XG",
-"bgi":"4aSJfYZlhbNB15GurAQZNsyDADI",
-"dl":"https://pixeldrain.net/api/file/GSRF6xgH?download",
-"year":"2014",
-"duration":"58 min",
-"rating":"8.8",
-"genre":"Crime, Drama",
-"description":"A notorious gang in 1919 Birmingham, England, is led by the fierce Tommy Shelby, a crime boss set on moving up in the world no matter the cost.",
-"type":"series",
-"cast":"Cillian Murphy, Sam Neill, Helen McCrory"
-},
-{
 "title":"Gram Chikitsalay [Season 1] WEB-DL [Hindi] | All Episodes",
 "im":"8skEAMrP1U7iQuHt3ce8V48dp5w",
 "dl":"http://qwrqwrqwr.rf.gd/a/a.php?pd=6pCviFnt&sn=1&es=Gram.Chikitsalay.S01.720p.Hindi.WEB-DL.5.1.ESub.x264-HDHub4u.Ms/Gram.Chikitsalay.S01E&e=5&el=.720p.Hindi.WEB-DL.5.1.ESub.x264-HDHub4u.Ms.mkv",
@@ -828,20 +815,6 @@ const movies = [
 "type":"movie",
 "quality":"web-dl",
 "cast":"Akhil Akkineni,Mammootty,Dino Morea,Sakshi Vaidya,Sampath Raj"
-},
-{
-"title":"Peaky Blinders [Season 2] [Episode 5] WEB-DL [Hindi + English]",
-"im":"m4JPtC3gWUsq0GlfNK3SdgkL9XG",
-"bgi":"4aSJfYZlhbNB15GurAQZNsyDADI",
-"dl":"https://pixeldrain.net/api/file/aKLsRBk7?download",
-"year":"2014",
-"duration":"58 min",
-"rating":"8.8",
-"genre":"Crime, Drama",
-"description":"A notorious gang in 1919 Birmingham, England, is led by the fierce Tommy Shelby, a crime boss set on moving up in the world no matter the cost.",
-"type":"series",
-"quality":"web-dl",
-"cast":"Cillian Murphy, Sam Neill, Helen McCrory"
 },
 {
 title:'Naruto: Shippuden [Season 9] WEB-DL [Hindi + English] | All Episodes',
@@ -1116,20 +1089,6 @@ dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=FYnibEzt&sn=7&es=Naruto.Shippuden.E&e=176&
 "cast":"Akshay Kumar,R. Madhavan,Ananya Panday,Mark Bennington,Sammy Jonas Heaney"
 },
 {
-"title":"Peaky Blinders [Season 2] [Episode 4] WEB-DL [Hindi + English]",
-"im":"m4JPtC3gWUsq0GlfNK3SdgkL9XG",
-"bgi":"4aSJfYZlhbNB15GurAQZNsyDADI",
-"dl":"https://pixeldrain.net/api/file/2fGYnYyf?download",
-"year":"2014",
-"duration":"58 min",
-"rating":"8.8",
-"genre":"Crime, Drama",
-"description":"A notorious gang in 1919 Birmingham, England, is led by the fierce Tommy Shelby, a crime boss set on moving up in the world no matter the cost.",
-"type":"series",
-"quality":"web-dl",
-"cast":"Cillian Murphy, Sam Neill, Helen McCrory"
-},
-{
 "title":"Maleficent [2014] WEB-DL [Hindi + English] | Full Movie",
 "im":"bDG3yei6AJlEAK3A5wN7RwFXQ7V",
 "bgi":"4hfcpHmMEgmFTdnVx4XCtM6dgCG",
@@ -1171,35 +1130,6 @@ dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=FYnibEzt&sn=7&es=Naruto.Shippuden.E&e=176&
 "type":"movie",
 "quality":"pre-hd",
 "cast":"Florence Pugh, Sebastian Stan, Wyatt Russell, David Harbour"
-},
-{
-"title":"Peaky Blinders [Season 2] [Episode 3] WEB-DL [Hindi + English]",
-"im":"m4JPtC3gWUsq0GlfNK3SdgkL9XG",
-"bgi":"4aSJfYZlhbNB15GurAQZNsyDADI",
-"dl":"https://pixeldrain.net/api/file/839RBbDJ?download",
-"link":"tt2442560",
-"year":"2014",
-"duration":"58 min",
-"rating":"8.8",
-"genre":"Crime, Drama",
-"description":"A notorious gang in 1919 Birmingham, England, is led by the fierce Tommy Shelby, a crime boss set on moving up in the world no matter the cost.",
-"type":"series",
-"quality":"web-dl",
-"cast":"Cillian Murphy, Sam Neill, Helen McCrory"
-},
-{
-"title":"Peaky Blinders [Season 1] WEB-DL [Hindi + English] | Full Series",
-"im":"vUUqzWa2LnHIVqkaKVlVGkVcZIW",
-"bgi":"6SdXIdltOU6pFqv0aZuSWcrGWej",
-"dl":"https://pixeldrain.net/api/file/j47zx3gG?download",
-"year":"2013",
-"duration":"5h 43m",
-"rating":"8.5",
-"genre":"Drama,Crime,",
-"description":"A gangster family epic set in 1919 Birmingham, England and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby, who means to move up in the world.",
-"type":"series",
-"quality":"webdl",
-"cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
 {
 "title":"Aladdin [2019] WEB-DL [Hindi + English] | Full Movie",
@@ -1485,21 +1415,6 @@ dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=FYnibEzt&sn=7&es=Naruto.Shippuden.E&e=176&
 "cast":"Giovanni Ribisi, Kelsey Grammer, Keira Knightley"
 },
 {
-"title":"Peaky Blinders [Season 2] [Episode 2] WEB-DL [Hindi + English]",
-"im":"m4JPtC3gWUsq0GlfNK3SdgkL9XG",
-"bgi":"yQUuWCeTkuhZrXEKcEtMWisoCwO",
-"dl":"https://pixeldrain.net/api/file/QkeMSRdR?download",
-"link":"tt2442560",
-"year":"2013",
-"duration":"58 min",
-"rating":"8.8",
-"genre":"Crime, Drama",
-"description":"A notorious gang in 1919 Birmingham, England, is led by the fierce Tommy Shelby, a crime boss set on moving up in the world no matter the cost.",
-"type":"series",
-"quality":"web-dl",
-"cast":"Cillian Murphy, Sam Neill, Helen McCrory"
-},
-{
 "title":"Dragon [2025] WEB-DL [Hindi + Tamil] | Full Movie",
 "im":"3BR3YTR04dO9ztCx8LZx2C2eu4G",
 "bgi":"8bhvwNGOzUHUbtZ52NEseQnWtEH",
@@ -1740,20 +1655,6 @@ dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=FYnibEzt&sn=7&es=Naruto.Shippuden.E&e=176&
 "quality":"web-dl"
 },
 {
-"title":"Peaky Blinders [Season 2] [Episode 1] WEB-DL [Hindi + English]",
-"im":"m4JPtC3gWUsq0GlfNK3SdgkL9XG",
-"bgi":"2JxCri29xSPtPdrrZBWtbehhClL",
-"dl":"https://pixeldrain.net/api/file/RUMpVy7v?download",
-"link":"tt2442560",
-"year":"2013",
-"duration":"58 min",
-"rating":"8.8",
-"genre":"Crime, Drama",
-"description":"Tommy Shelby faces new challenges as he tries to expand the Peaky Blinders' influence. Family, power, and betrayal continue to dominate the streets of Birmingham.",
-"type":"series",
-"quality":"web-dl"
-},
-{
 "title":"Another Simple Favor [2025] WEB-DL [Hindi + English] | Full Movie",
 "im":"zboCGZ4aIqPMd7VFI4HWnmc7KYJ",
 "bgi":"q81xMwM28e1f81NUx5dU7kpAWgs",
@@ -1820,20 +1721,6 @@ dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=FYnibEzt&sn=7&es=Naruto.Shippuden.E&e=176&
 "rating":"7.4",
 "genre":"Sci-Fi, Drama",
 "description":"A post-apocalyptic world where humanity's survival depends on a mysterious snowfall. A group of survivors must fight to uncover the truth about the eerie snowstorm.",
-"type":"series",
-"quality":"web-dl"
-},
-{
-"title":"Peaky Blinders [Season 1] [Episode 6] WEB-DL [Hindi + English]",
-"im":"vPlsKun2WZEsqe3yZTmebxtwElW",
-"bgi":"4p4MIZG60gGHChGtTDQMO8Afb9R",
-"dl":"https://pixeldrain.net/api/file/Xjd3986v?download",
-"link":"tt2442560",
-"year":"2013",
-"duration":"58 min",
-"rating":"8.8",
-"genre":"Crime, Drama",
-"description":"Tommy Shelby confronts rivals and personal struggles as he strengthens his criminal empire in this intense episode of Peaky Blinders.",
 "type":"series",
 "quality":"web-dl"
 },
@@ -1922,20 +1809,6 @@ dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=FYnibEzt&sn=7&es=Naruto.Shippuden.E&e=176&
 "quality":"uncut webdl"
 },
 {
-"title":"Peaky Blinders [Season 1] [Episode 5] WEB-DL [Hindi + English]",
-"im":"vPlsKun2WZEsqe3yZTmebxtwElW",
-"bgi":"11HGUikej3bARNmp44vEnkBel5K",
-"dl":"https://pixeldrain.net/api/file/M6boShov?download",
-"link":"tt2442560",
-"year":"2013",
-"duration":"58 min",
-"rating":"8.8",
-"genre":"Crime, Drama",
-"description":"The Shelby family faces new rivalries and challenges as they strive to dominate the streets of Birmingham, with Tommy Shelby navigating dangerous territory.",
-"type":"series",
-"quality":"web-dl"
-},
-{
 "title":"JoJos Bizarre Adventure [Season 1] [Episode 18] WEB-DL [Hindi + English + Japanese]",
 "im":"co0K9FS9rQPxPoKADs4nuGckk3A",
 "bgi":"jiNmwMUqX0AKaP20tyQ626E4dMK",
@@ -2003,20 +1876,6 @@ dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=FYnibEzt&sn=7&es=Naruto.Shippuden.E&e=176&
 "genre":"Thriller, Drama",
 "description":"A suspense-filled thriller where the main character is caught in a deadly conspiracy after accidentally uncovering dark secrets that powerful people want to keep hidden.",
 "type":"movie",
-"quality":"web-dl"
-},
-{
-"title":"Peaky Blinders [Season 1] [Episode 4] WEB-DL [Hindi + English]",
-"im":"vPlsKun2WZEsqe3yZTmebxtwElW",
-"bgi":"ktATJ6sEfEqu6HfGpE9FD7WIjvq",
-"dl":"https://pixeldrain.net/api/file/pompH96N?download",
-"link":"tt2442560",
-"year":"2013",
-"duration":"58 min",
-"rating":"8.8",
-"genre":"Crime, Drama",
-"description":"Tommy Shelby navigates the criminal underworld, expanding the Peaky Blinders' influence while facing rising challenges from rival factions and personal enemies.",
-"type":"series",
 "quality":"web-dl"
 },
 {
@@ -2187,19 +2046,6 @@ dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=FYnibEzt&sn=7&es=Naruto.Shippuden.E&e=176&
 "quality":"camrip"
 },
 {
-"title":"Peaky Blinders [Season 1] [Episode 3] WEB-DL [Hindi + English] [HEVC]",
-"im":"vPlsKun2WZEsqe3yZTmebxtwElW",
-"dl":"https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Peaky.Blinders.S01.E03.720p.10Bit.HEVC.BluRay.Hindi.2.0-English.2.0.ESub.x265-HDHub4u.Ms.mkv",
-"link":"tt2442560",
-"year":"2013",
-"duration":"58 min",
-"rating":"8.8",
-"genre":"Crime, Drama",
-"description":"Tommy Shelby continues to expand his criminal empire while facing new threats from rival gangs and the law. The episode is packed with tension, power struggles, and strategic decisions.",
-"type":"series",
-"quality":"webdl hevc"
-},
-{
 "title":"Valerian and the City of a Thousand Planets [2017] WEB-DL [Hindi] [HEVC] | Full Movie",
 "im":"vlc95gl3PtrjxSEuM8RhTtSm2xU",
 "dl":"https://pub-4f43d576c6ca4f9998fe276426dc5a19.r2.dev/Valerian.and.the.City.of.a.Thousand.Planets.2017.720p.10bit.BluRay.HIN-ENG.x265.ESub.Vegamovies.To.mkv",
@@ -2332,19 +2178,6 @@ dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=FYnibEzt&sn=7&es=Naruto.Shippuden.E&e=176&
 "quality":"webdl hevc"
 },
 {
-"title":"Peaky Blinders [Season 1] [Episode 2] WEB-DL [Hindi + English] [HEVC]",
-"im":"vPlsKun2WZEsqe3yZTmebxtwElW",
-"dl":"https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Peaky.Blinders.S01.E02.720p.10Bit.HEVC.BluRay.Hindi.2.0-English.2.0.ESub.x265-HDHub4u.Ms.mkv",
-"link":"tt2442560",
-"year":"2013",
-"duration":"58 min",
-"rating":"8.8",
-"genre":"Crime, Drama",
-"description":"Tommy Shelby faces new challenges and expands the Peaky Blinders' empire. Rivals are closing in, and he must use all his cunning to stay ahead.",
-"type":"series",
-"quality":"webdl hevc"
-},
-{
 "title":"You [Season 5] WEB-DL [Hindi + English] [HEVC] | All Episodes",
 "im":"vzgsobZmNxJyJ64ejTOUXvJ9UBn",
 "dl":"http://qwrqwrqwr.rf.gd/a/a.php?pd=RjT9BADy&sn=6&es=YOU.S05.720p.10Bit.HEVC.WEB-DL.Hindi.5.1-English.5.1.ESub.x265-HDHub4u.Ms/You.S05E&e=10&el=..720p.10Bit.HEVC.WEB-DL.Hindi.5.1-English.5.1.ESub.x265-HDHub4u.Ms.mkv",
@@ -2381,19 +2214,6 @@ dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=FYnibEzt&sn=7&es=Naruto.Shippuden.E&e=176&
 "genre":"Action, Drama, Adventure",
 "description":"The saga continues as Veera Dheera Sooran embarks on a final battle against enemies who are determined to seize his kingdom. Filled with thrilling action, this movie concludes an epic story of bravery and sacrifice.",
 "type":"movie",
-"quality":"webdl hevc"
-},
-{
-"title":"Peaky Blinders [Season 1] [Episode 1] WEB-DL [Hindi + English] [HEVC]",
-"im":"vPlsKun2WZEsqe3yZTmebxtwElW",
-"dl":"https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Peaky.Blinders.S01.E01.720p.10Bit.HEVC.BluRay.Hindi.2.0-English.2.0.ESub.x265-HDHub4u.Ms.mkv",
-"link":"tt2442560",
-"year":"2013",
-"duration":"58 min",
-"rating":"8.8",
-"genre":"Crime, Drama",
-"description":"In the first episode of this gripping series, Tommy Shelby leads the Peaky Blinders gang, navigating the dangerous world of post-WWI Birmingham while dealing with power struggles, loyalty, and betrayal.",
-"type":"series",
 "quality":"webdl hevc"
 },
 {

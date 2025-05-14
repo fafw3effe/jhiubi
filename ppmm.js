@@ -29,6 +29,19 @@ const movies = [
 "cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
 {
+"title":"Squid Game [All Seasons] WEB-DL [Hindi + English] | All Episodes",
+"im":"1QdXdRYfktUSONkl1oD5gc6Be0s",
+"dl":"https://s.pptons.com/2025/05/squid-game.html",
+"bgi":"2meX1nMdScFOoV4370rqHWKmXhY",
+"year":"2021",
+"duration":"1h",
+"rating":"7.9",
+"genre":"Action & Adventure,Mystery,Drama,",
+"description":"Hundreds of cash-strapped players accept a strange invitation to compete in children's games. Inside, a tempting prize awaits — with deadly high stakes.",
+"type":"series",
+"cast":"Lee Jung-jae,Wi Ha-jun,Jeon Young-soo,Lee Byung-hun,Yim Si-wan"
+},
+{
 "title":"Shin Chan [Season 10] WEB-DL [Hindi] | All Episodes",
 "im":"zg19Paur3lVVSh8J4LJVO1wgBIg",
 "dl":"https://s.pptons.com/2025/05/shinchan.html",
@@ -3632,20 +3645,6 @@ dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=FYnibEzt&sn=7&es=Naruto.Shippuden.E&e=176&
 "type":"movie",
 "quality":"web-dl",
 "cast":"R. Madhavan,Nayanthara,Siddharth,Meera Jasmine,Kaali Venkat"
-},
- 
-{
- title: 'Squid Game [Season 1-2] WEB-DL [Hindi (ORG 5.1) & English] [HEVC] | [ALL Episodes] | NetFlix Series',
- im:'caq0z9C2vvKdDhGe1EX6nerswV5',
- dl: 'https://s.pptons.com/2025/04/sddfsdfs.html',
-"bgi":"2meX1nMdScFOoV4370rqHWKmXhY",
-"year":"2021",
-"duration":"1h",
-"rating":"7.9",
-"genre":"Action & Adventure,Mystery,Drama,",
-"description":"Hundreds of cash-strapped players accept a strange invitation to compete in children's games. Inside, a tempting prize awaits — with deadly high stakes.",
-"type":"series",
-"cast":"Lee Jung-jae,Jeon Young-soo,Wi Ha-jun,Park Hae-soo,HoYeon"
 },
 {
 "title":"Pintu Ki Pappi (2025) WEB-DL [Hindi DD2.0] | Full Movie",

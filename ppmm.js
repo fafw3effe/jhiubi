@@ -44,7 +44,7 @@ const movies = [
 "cast":"Indhra Ram,Paayal Radhakrishna,Madee Manepalli,Mast Ali,Supriya Aysola"
 },
 {
-"title":"Sinners [2025] WEB-DL [English] | Full Movie",
+"title":"Sinners [2025] WEB-RIP [English] | Full Movie",
 "im":"jYfMTSiFFK7ffbY2lay4zyvTkEk",
 "bgi":"nAxGnGHOsfzufThz20zgmRwKur3",
 "dl":"https://pixeldrain.net/api/file/X5h2wcbu?download",

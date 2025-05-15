@@ -139,9 +139,9 @@ const movies = [
 "cast":"Junko Takeuchi,Noriaki Sugiyama,Chie Nakamura,Kazuhiko Inoue,Hidekatsu Shibata"
 },
 {
-"title":"Andor [Season 2] WEB-DL [Hindi-English] | All Episodes",
+"title":"Andor [All Seasons] WEB-DL [Hindi-English] | All Episodes",
 "im":"khZqmwHQicTYoS7Flreb9EddFZC",
-"dl":"http://qwrqwrqwr.rf.gd/a/a.php?pd=8ZRVcmnz&sn=2&es=Andor.S02.720p.10Bit.WEB-DL.Hindi.5.1-English.HEVC.x265-HDHub4u.Ms/Andor.S02E&e=12&el=.720p.10Bit.WEB-DL.Hindi.5.1-English.HEVC.x265-HDHub4u.Ms.mkv",
+"dl":"https://s.pptons.com/2025/05/andor.html",
 "bgi":"kCGwvjpqM1owt9kI4pkYPJWJLvc",
 "year":"2022",
 "duration":"1h",
@@ -149,7 +149,7 @@ const movies = [
 "genre":"Sci-Fi & Fantasy,Action & Adventure,Drama,",
 "description":"In an era filled with danger, deception and intrigue, Cassian Andor will discover the difference he can make in the struggle against the tyrannical Galactic Empire. He embarks on a path that is destined to turn him into a rebel hero.",
 "type":"series",
-"cast":"Diego Luna,Adria Arjona,Denise Gough,Stellan Skarsgård,Genevieve O&#39;Reilly"
+"cast":"Diego Luna,Denise Gough,Stellan Skarsgård,Adria Arjona,Genevieve O&#39;Reilly"
 },
 {
 "title":"Peaky Blinders [Season 3] [Episode 4] WEB-DL [Hindi-English] | All Episodes [Season 1 - 2]",
@@ -1848,20 +1848,6 @@ const movies = [
 "quality":"web-dl"
 },
 {
-"title":"Star Wars: Andor [Season 2] [Episode 6] WEB-DL [Hindi-English]",
-"im":"y0j9HbsWnkn1TlT6Y52ZrsvysgU",
-"bgi":"sPnH7hxLR0oisYKI1tQZ0Bcefgj",
-"dl":"https://pixeldrain.net/api/file/R57sQUSH?download",
-"link":"tt9253284",
-"year":"2025",
-"duration":"54 min",
-"rating":"9.0",
-"genre":"Action, Adventure, Sci-Fi",
-"description":"In this gripping episode, Cassian Andor faces mounting pressures from both the Empire and the Rebellion, making difficult choices that could change the course of the galaxy.",
-"type":"series",
-"quality":"web-dl"
-},
-{
 "title":"Aghathiyaa [2025] WEB-DL [Hindi-Tamil] | Full Movie",
 "im":"gCXjEAJRaZZi5bMowWJQxK0827c",
 "bgi":"rBEZqpJpESse8GJUM5mxEiXJL0t",
@@ -2295,19 +2281,6 @@ const movies = [
 "description":"A heartfelt drama that follows a group of friends exploring the mountains of Kodai, where they learn valuable life lessons, face challenges, and uncover hidden secrets in the serene yet adventurous landscapes.",
 "type":"series",
 "quality":"web-dl"
-},
-{
-"title":"Star Wars: Andor [Season 2] [Episode 3] WEB-DL [Hindi-English] [HEVC]",
-"im":"y0j9HbsWnkn1TlT6Y52ZrsvysgU",
-"dl":"https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Andor.S02E03.720p.10Bit.WEB-DL.Hindi.5.1-English.HEVC.x265-HDHub4u.Ms.mkv",
-"link":"tt9253284",
-"year":"2025",
-"duration":"55 min",
-"rating":"9.0",
-"genre":"Action, Adventure, Sci-Fi",
-"description":"Cassian Andor faces new dangers as he becomes deeply involved in the Rebellion's struggle against the Empire. The third episode further develops the complex relationships and challenges that will shape the Rebellion.",
-"type":"series",
-"quality":"webdl hevc"
 },
 {
 "title":"Bullet Train Explosion [2025] WEB-DL [Hindi-English] [HEVC] | Full Movie",

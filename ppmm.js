@@ -1,7 +1,20 @@
 // Movies data
 const movies = [
 
-
+{
+"title":"A Minecraft Movie [2025] WEB-DL [Hindi + English] | Full Movie",
+"im":"iPPTGh2OXuIv6d7cwuoPkw8govp",
+"bgi":"2Nti3gYAX513wvhp8IiLL6ZDyOm",
+"dl":"https://pixeldrain.net/api/file/Ej9WdXvH?download",
+"year":"2025",
+"duration":"1h 41m",
+"rating":"6.2",
+"genre":"Family,Comedy,Adventure,Fantasy,",
+"description":"Four misfits find themselves struggling with ordinary problems when they are suddenly pulled through a mysterious portal into the Overworld: a bizarre, cubic wonderland that thrives on imagination. To get back home, they'll have to master this world while embarking on a magical quest with an unexpected, expert crafter, Steve.",
+"type":"movie",
+"quality":"web-dl",
+"cast":"Jason Momoa,Jack Black,Sebastian Eugene Hansen,Emma Myers,Danielle Brooks"
+},
 {
 "title":"Andor [Season 2] WEB-DL [Hindi + English] | All Episodes",
 "im":"khZqmwHQicTYoS7Flreb9EddFZC",
@@ -234,20 +247,6 @@ const movies = [
 "type":"movie",
 "quality":"web-dl",
 "cast":"John Cena,Randy Orton,Pat McAfee,Walter Hahn,Dominick Gutiérrez"
-},
-{
-"title":"A Minecraft Movie [2025] WEB-DL [Hindi + English] | Full Movie",
-"im":"iPPTGh2OXuIv6d7cwuoPkw8govp",
-"bgi":"2Nti3gYAX513wvhp8IiLL6ZDyOm",
-"dl":"https://pixeldrain.net/api/file/8XKfTvfg?download",
-"year":"2025",
-"duration":"1h 41m",
-"rating":"6.2",
-"genre":"Family,Comedy,Adventure,Fantasy,",
-"description":"Four misfits find themselves struggling with ordinary problems when they are suddenly pulled through a mysterious portal into the Overworld: a bizarre, cubic wonderland that thrives on imagination. To get back home, they'll have to master this world while embarking on a magical quest with an unexpected, expert crafter, Steve.",
-"type":"movie",
-"quality":"web-dl",
-"cast":"Jason Momoa,Jack Black,Sebastian Eugene Hansen,Emma Myers,Danielle Brooks"
 },
 {
 "title":"High Plains Drifter [1973] WEB-DL [Hindi + English] | Full Movie",
@@ -3973,20 +3972,6 @@ dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=FYnibEzt&sn=7&es=Naruto.Shippuden.E&e=176&
 "type":"movie",
 "quality":"web-dl",
 "cast":"Siddharth, Ananya Panday, Vijay Sethupathi"
-},
-{
-"title":"A Minecraft Movie (2025) HDTC [English (ORG-2.0)] [x264] | Full Movie",
-"im":"tldIoZNsAkEkppQwXGuw3aWVWyL",
-"dl":"https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/A.Minecraft.Movie.2025.English.720p.HDTC.DD.2.0.x264.Hdhub4u.mkv",
-"link":"tt3566834",
-"year":"2025",
-"duration":"90 min",
-"rating":"7.5",
-"genre":"Adventure, Animation, Fantasy",
-"description":"In this live-action and animated adventure, a young gamer embarks on a perilous journey in the world of Minecraft, where danger, magic, and discovery await.",
-"type":"movie",
-"quality":"hdtc",
-"cast":"Taron Egerton, Emma Watson, Josh Hutcherson"
 },
 {
 "title":"Chhaava (2025) WEB-DL [Hindi DD5.1] | Full Movie [Netflix]",

@@ -16,6 +16,48 @@ const movies = [
 "cast":"Jason Momoa,Jack Black,Sebastian Eugene Hansen,Emma Myers,Danielle Brooks"
 },
 {
+"title":"Demonte Colony 2 [2024] WEB-DL [Hindi + Tamil] | Full Movie",
+"im":"lZmH9hea8fstTK49fplSQS0NWUd",
+"bgi":"t6Pnd8lzSeelNOOXraRfg5HizZD",
+"dl":"https://pixeldrain.net/api/file/dcnwh9J7?download",
+"year":"2024",
+"duration":"2h 25m",
+"rating":"7.0",
+"genre":"Horror,Thriller,",
+"description":"Debbie attempts to contact the spirit of her deceased husband Sam, she inadvertently contacts Srinivasan, who had just died. This contact saves his life but leaves him in a coma for years. Later, Debbie unravels mystery about Lord Demonte sacrificing people and enslaves their spirits. Can Debbie break this cycle and help Srinivasan to wake up from his coma?",
+"type":"movie",
+"quality":"web-dl",
+"cast":"Arulnithi,Priya Bhavani Shankar,Tsering Dorjee Bawa,Antti Jääskeläinen,C. Arun Pandian"
+},
+{
+"title":"Chaurya Paatam [2025] WEB-DL [Hindi + Telugu] | Full Movie",
+"im":"5yXEmxazCzAsrp6rwT1m9Dtsdhd",
+"bgi":"h4cq5eGcPN2j2YDTitHl4V9FaM4",
+"dl":"https://pixeldrain.net/api/file/LQgvd7z4?download",
+"year":"2025",
+"duration":"2h 4m",
+"rating":"8.6",
+"genre":"Comedy,Drama,",
+"description":"Four aspiring criminals plan to rob the local bank at India's most richest and peaceful village, on the pretext of shooting a documentary. But their heist plans are disrupted when they discover the seemingly tranquil community harbors sinister secrets.",
+"type":"movie",
+"quality":"web-dl",
+"cast":"Indhra Ram,Paayal Radhakrishna,Madee Manepalli,Mast Ali,Supriya Aysola"
+},
+{
+"title":"Sinners [2025] WEB-DL [English] | Full Movie",
+"im":"jYfMTSiFFK7ffbY2lay4zyvTkEk",
+"bgi":"nAxGnGHOsfzufThz20zgmRwKur3",
+"dl":"https://pixeldrain.net/api/file/X5h2wcbu?download",
+"year":"2025",
+"duration":"2h 18m",
+"rating":"7.6",
+"genre":"Horror,Thriller,",
+"description":"Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+"type":"movie",
+"quality":"web-dl",
+"cast":"Michael B. Jordan,Miles Caton,Hailee Steinfeld,Wunmi Mosaku,Jack O&#39;Connell"
+},
+{
 "title":"Andor [Season 2] WEB-DL [Hindi + English] | All Episodes",
 "im":"khZqmwHQicTYoS7Flreb9EddFZC",
 "dl":"http://qwrqwrqwr.rf.gd/a/a.php?pd=8ZRVcmnz&sn=2&es=Andor.S02.720p.10Bit.WEB-DL.Hindi.5.1-English.HEVC.x265-HDHub4u.Ms/Andor.S02E&e=12&el=.720p.10Bit.WEB-DL.Hindi.5.1-English.HEVC.x265-HDHub4u.Ms.mkv",

@@ -34,7 +34,7 @@ const movies = [
 "title":"Gangers [2025] WEB-DL [Hindi-English] | Full Movie",
 "im":"w5nZJZl9TbhGWfNcZkGPXLYMQgs",
 "bgi":"vm1qwSwhdt5lFhC0hqfPJ6exy46",
-"dl":"",
+"dl":"https://pixeldrain.net/api/file/euvEyWck?download",
 "year":"2025",
 "duration":"2h 38m",
 "rating":"5.0",

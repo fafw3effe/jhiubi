@@ -2,6 +2,20 @@
 const movies = [
 
 {
+"title":"Dog Man [2025] Blu-Ray [Hindi-English] | Full Movie",
+"im":"89wNiexZdvLQ41OQWIsQy4O6jAQ",
+"bgi":"w1SjvuBifhtFwe3BSssXXFyV6bk",
+"dl":"https://pixeldrain.net/api/file/KdygQh43?download",
+"year":"2025",
+"duration":"1h 29m",
+"rating":"7.8",
+"genre":"Animation,Family,Comedy,Adventure,",
+"description":"When a faithful police dog and his human police officer owner are injured together on the job, a harebrained but life-saving surgery fuses the two of them together and Dog Man is born. Dog Man is sworn to protect and serve—and fetch, sit and roll over. As Dog Man embraces his new identity and strives to impress his Chief, he must stop the pretty evil plots of feline supervillain Petey the Cat.",
+"type":"movie",
+"quality":"Blu-Ray",
+"cast":"Peter Hastings,Pete Davidson,Lil Rel Howery,Isla Fisher,Lucas Hopkins Calderon"
+},
+{
 "title":"Bet [Season 1] WEB-DL [Hindi-English] | All Episodes",
 "im":"e3ENTAEDEO949khpVkJWgcWnwGG",
 "dl":"https://s.pptons.com/2025/05/bet.html",

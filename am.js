@@ -2,6 +2,20 @@
 const movies = [
 
 {
+"title":"A Working Man [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"6FRFIogh3zFnVWn7Z6zcYnIbRcX",
+"bgi":"fTrQsdMS2MUw00RnzH0r3JWHhts",
+"dl":"https://pixeldrain.net/api/file/AQvi4aSX?download",
+"year":"2025",
+"duration":"1h 56m",
+"rating":"6.5",
+"genre":"Action,Crime,Thriller,",
+"description":"Levon Cade left behind a decorated military career in the black ops to live a simple life working construction. But when his boss's daughter, who is like family to him, is taken by human traffickers, his search to bring her home uncovers a world of corruption far greater than he ever could have imagined.",
+"type":"movie",
+"quality":"web-dl",
+"cast":"Jason Statham,Jason Flemyng,Merab Ninidze,Maximilian Osinski,Cokey Falkow"
+},
+{
 "title":"A Minecraft Movie [2025] WEB-DL [Hindi-English] | Full Movie",
 "im":"iPPTGh2OXuIv6d7cwuoPkw8govp",
 "bgi":"2Nti3gYAX513wvhp8IiLL6ZDyOm",
@@ -2973,22 +2987,7 @@ const movies = [
 "type":"movie",
 "quality":"Blu-Ray",
 "cast":"Vin Diesel,Michelle Rodriguez,Tyrese Gibson,Ludacris,John Cena"
-},
-{
-"title":"A Working Man [2025] WEB-DL [English] | Full Movie",
-"im":"6FRFIogh3zFnVWn7Z6zcYnIbRcX",
-"bgi":"fTrQsdMS2MUw00RnzH0r3JWHhts",
-"dl":"https://throbbing-mountain-e3b9.piledic2924429.workers.dev/5069c913de9bd7a6c365513c50c3e070adf15927e92b5744702eced6653788efa8557307af8dcc93f1363e37c237a7d4::40b7bc74f2658a3cc87abdbdddb54427/1397278704/A.Working.Man.(2025).English.WEB-DL.720p.Vegamovies.is.mkv",
-"year":"2025",
-"duration":"1h 56m",
-"rating":"6.5",
-"genre":"Action,Crime,Thriller",
-"description":"Levon Cade left behind a decorated military career in the black ops to live a simple life working construction. But when his boss's daughter, who is like family to him, is taken by human traffickers, his search to bring her home uncovers a world of corruption far greater than he ever could have imagined.",
-"type":"movie",
-"quality":"web-dl",
-"cast":"Jason Statham,Jason Flemyng,Merab Ninidze,Maximilian Osinski,Cokey Falkow"
-},
- 
+}, 
 {
  title:'Loki [Season 2] [All Episodes] WEB-DL [Hindi-English] [HEVC] | Full Series',
  im:'oJdVHUYrjdS2IqiNztVIP4GPB1p',

@@ -57,6 +57,20 @@ const movies = [
 "quality":"web-dl",
 "cast":"Michael B. Jordan,Miles Caton,Hailee Steinfeld,Wunmi Mosaku,Jack O&#39;Connell"
 },
+
+{
+"title":"Naruto [All Seasons] WEB-DL [Hindi + English] | All Episodes [Season 1 & 9]",
+"im":"xppeysfvDKVx775MFuH8Z9BlpMk",
+"dl":"https://s.pptons.com/2025/05/naruto.html",
+"bgi":"xuJ0F9RfKvVSJNDg2usurQ9WvY5",
+"year":"2002",
+"duration":"1h",
+"rating":"8.4",
+"genre":"Animation,Action & Adventure,Sci-Fi & Fantasy,",
+"description":"Naruto Uzumaki, a mischievous adolescent ninja, struggles as he searches for recognition and dreams of becoming the Hokage, the village's leader and strongest ninja.",
+"type":"series",
+"cast":"Junko Takeuchi,Noriaki Sugiyama,Chie Nakamura,Kazuhiko Inoue,Hidekatsu Shibata"
+},
 {
 "title":"Andor [Season 2] WEB-DL [Hindi + English] | All Episodes",
 "im":"khZqmwHQicTYoS7Flreb9EddFZC",
@@ -3262,19 +3276,6 @@ dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=FYnibEzt&sn=7&es=Naruto.Shippuden.E&e=176&
 "type":"series",
 "cast":"Tom Ellis,Lauren German,Kevin Alejandro,D.B. Woodside,Lesley-Ann Brandt"
 },
-{
- title:'Naruto [Season 9] WEB-DL [Hindi + English] | All Episodes',
- im:'xppeysfvDKVx775MFuH8Z9BlpMk',
- dl:'https://vcloud.lol/43v3qd3mz4r2puz',
-"bgi":"xuJ0F9RfKvVSJNDg2usurQ9WvY5",
-"year":"2002",
-"duration":"1h",
-"rating":"8.4",
-"genre":"Animation,Action & Adventure,Sci-Fi & Fantasy,",
-"description":"Naruto Uzumaki, a mischievous adolescent ninja, struggles as he searches for recognition and dreams of becoming the Hokage, the village's leader and strongest ninja.",
-"type":"series",
-"cast":"Junko Takeuchi,Noriaki Sugiyama,Chie Nakamura,Kazuhiko Inoue,Hidekatsu Shibata"},
- 
 {
 "title":"Captain America: Brave New World [2025] WEB-DL [Hindi [DD5.1] & English] [HEVC] | Full Movie [Amazon Prime Video]",
 "im":"9TFKZfzzsajmmbu0xWY988Kc7D8",

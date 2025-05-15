@@ -22,7 +22,7 @@ const movies = [
 "bgi":"vx4UhH0RKQOG5etc2qVikStLFqG",
 "year":"2025",
 "duration":"1h",
-"rating":"0.0",
+"rating":"8.0",
 "genre":"Drama,Mystery,",
 "description":"At a private school where gambling determines social status, a skillful new student with a mysterious past is shaking things up — and betting on revenge.",
 "type":"series",

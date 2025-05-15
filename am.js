@@ -16,6 +16,34 @@ const movies = [
 "type":"series",
 "cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
+
+{
+"title":"Final Destination Bloodlines [2025] PRE-HD [Hindi-English] | Full Movie",
+"im":"cAoktVUBhGyULRoxV6mZ2LB3x7I",
+"bgi":"j0NUh5irX7q2jIRtbLo8TZyRn6y",
+"dl":"https://pixeldrain.net/api/file/vq16ALvo?download",
+"year":"2025",
+"duration":"1h 50m",
+"rating":"7.2",
+"genre":"Horror,Mystery,",
+"description":"Plagued by a violent recurring nightmare, college student Stefanie heads home to track down the one person who might be able to break the cycle and save her family from the grisly demise that inevitably awaits them all.",
+"type":"movie",
+"cast":"Kaitlyn Santa Juana,Teo Briones,Richard Harmon,Owen Patrick Joyner,Rya Kihlstedt"
+},
+{
+"title":"Gangers [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"w5nZJZl9TbhGWfNcZkGPXLYMQgs",
+"bgi":"vm1qwSwhdt5lFhC0hqfPJ6exy46",
+"dl":"",
+"year":"2025",
+"duration":"2h 38m",
+"rating":"5.0",
+"genre":"Comedy,Crime,",
+"description":"An undercover cop teams up with a crooked PT Master to loot 100 crore from a corrupt politician.",
+"type":"movie",
+"quality":"web-dl",
+"cast":"Sundar C,Vadivelu,Catherine Tresa,Munishkanth,Bagavathi Perumal"
+},
 {
 "title":"Dog Man [2025] Blu-Ray [Hindi-English] | Full Movie",
 "im":"89wNiexZdvLQ41OQWIsQy4O6jAQ",
@@ -232,20 +260,6 @@ const movies = [
 "type":"movie",
 "quality":"web-dl",
 "cast":"Basil Joseph,Siju Sunny,Rajesh Madhavan,Suresh Krishna,Babu Antony"
-},
-{
-"title":"Final Destination: Bloodlines [2025] PRE-HD [English] | Full Movie",
-"im":"cAoktVUBhGyULRoxV6mZ2LB3x7I",
-"bgi":"7wKnf6ILtRmKXV8eJWk0P6ZXnQ",
-"dl":"https://pub-ed0ca22af5c04301b7abe9dac4aaf9bc.r2.dev/Final.Destination.Bloodlines.2025.TS.English.720p.x264.AVC.HE-AAC.2.0.HC.Vegamovies.is.mkv",
-"year":"2025",
-"duration":"1h 50m",
-"rating":"7.2",
-"genre":"Horror,Mystery,",
-"description":"Plagued by a violent recurring nightmare, college student Stefanie heads home to track down the one person who might be able to break the cycle and save her family from the grisly demise that inevitably awaits them all.",
-"type":"movie",
-"quality":"web-dl",
-"cast":"Kaitlyn Santa Juana,Teo Briones,Rya Kihlstedt,Richard Harmon,Owen Patrick Joyner"
 },
 {
 "title":"Final Destination 5 [2011] Blu-Ray [Hindi-English] | Full Movie",

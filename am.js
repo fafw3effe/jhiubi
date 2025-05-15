@@ -2,6 +2,19 @@
 const movies = [
 
 {
+"title":"Bet [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"e3ENTAEDEO949khpVkJWgcWnwGG",
+"dl":"https://s.pptons.com/2025/05/bet.html",
+"bgi":"vx4UhH0RKQOG5etc2qVikStLFqG",
+"year":"2025",
+"duration":"1h",
+"rating":"0.0",
+"genre":"Drama,Mystery,",
+"description":"At a private school where gambling determines social status, a skillful new student with a mysterious past is shaking things up — and betting on revenge.",
+"type":"series",
+"cast":"Miku Martineau,Ayo Solanke,Eve Edwards,Clara Alexandrova,Hunter Cardinal"
+},
+{
 "title":"A Working Man [2025] WEB-DL [Hindi-English] | Full Movie",
 "im":"6FRFIogh3zFnVWn7Z6zcYnIbRcX",
 "bgi":"fTrQsdMS2MUw00RnzH0r3JWHhts",

@@ -64,7 +64,7 @@ const movies = [
 "dl":"https://s.pptons.com/2025/05/naruto.html",
 "bgi":"xuJ0F9RfKvVSJNDg2usurQ9WvY5",
 "year":"2002",
-"duration":"1h",
+"duration":"21 min per episode",
 "rating":"8.4",
 "genre":"Animation,Action & Adventure,Sci-Fi & Fantasy,",
 "description":"Naruto Uzumaki, a mischievous adolescent ninja, struggles as he searches for recognition and dreams of becoming the Hokage, the village's leader and strongest ninja.",

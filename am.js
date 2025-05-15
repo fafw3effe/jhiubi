@@ -1,8 +1,6 @@
 // Movies data
 const movies = [
 
-
-
 {
 "title":"Peaky Blinders [Season 3] [Episode 5] WEB-DL [Hindi-English] | All Episodes [Season 1 - 2]",
 "im":"vUUqzWa2LnHIVqkaKVlVGkVcZIW",
@@ -16,7 +14,6 @@ const movies = [
 "type":"series",
 "cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
-
 {
 "title":"Final Destination Bloodlines [2025] PRE-HD [Hindi-English] | Full Movie",
 "im":"cAoktVUBhGyULRoxV6mZ2LB3x7I",

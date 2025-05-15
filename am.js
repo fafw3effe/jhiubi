@@ -1,6 +1,21 @@
 // Movies data
 const movies = [
 
+
+
+{
+"title":"Peaky Blinders [Season 3] [Episode 5] WEB-DL [Hindi-English] | All Episodes [Season 1 - 2]",
+"im":"vUUqzWa2LnHIVqkaKVlVGkVcZIW",
+"dl":"https://s.pptons.com/2025/05/peaky-blinders.html",
+"bgi":"or7wKwv1IT6LEOktt395O5qi7e",
+"year":"2013",
+"duration":"1h",
+"rating":"8.5",
+"genre":"Drama,Crime,",
+"description":"A gangster family epic set in 1919 Birmingham, England and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby, who means to move up in the world.",
+"type":"series",
+"cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
+},
 {
 "title":"Dog Man [2025] Blu-Ray [Hindi-English] | Full Movie",
 "im":"89wNiexZdvLQ41OQWIsQy4O6jAQ",
@@ -150,19 +165,6 @@ const movies = [
 "description":"In an era filled with danger, deception and intrigue, Cassian Andor will discover the difference he can make in the struggle against the tyrannical Galactic Empire. He embarks on a path that is destined to turn him into a rebel hero.",
 "type":"series",
 "cast":"Diego Luna,Denise Gough,Stellan Skarsgård,Adria Arjona,Genevieve O&#39;Reilly"
-},
-{
-"title":"Peaky Blinders [Season 3] [Episode 4] WEB-DL [Hindi-English] | All Episodes [Season 1 - 2]",
-"im":"vUUqzWa2LnHIVqkaKVlVGkVcZIW",
-"dl":"https://s.pptons.com/2025/05/peaky-blinders.html",
-"bgi":"or7wKwv1IT6LEOktt395O5qi7e",
-"year":"2013",
-"duration":"1h",
-"rating":"8.5",
-"genre":"Drama,Crime,",
-"description":"A gangster family epic set in 1919 Birmingham, England and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby, who means to move up in the world.",
-"type":"series",
-"cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
 {
 "title":"All of Us Are Dead [Season 1] WEB-DL [Hindi-English] | All Episodes",

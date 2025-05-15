@@ -57,7 +57,19 @@ const movies = [
 "quality":"web-dl",
 "cast":"Michael B. Jordan,Miles Caton,Hailee Steinfeld,Wunmi Mosaku,Jack O&#39;Connell"
 },
-
+{
+"title":"Naruto Shippūden [All Seasons] WEB-DL [Hindi + English] | All Episodes [Season 1 & 9]",
+"im":"71mASgFgSiPl9QUexVH8BubU0lD",
+"dl":"https://s.pptons.com/2025/05/naruto-shippuden.html",
+"bgi":"nAeS7F2B22XQOLh5HVNXn8G3ZRk",
+"year":"2007",
+"duration":"1h",
+"rating":"8.5",
+"genre":"Animation,Action & Adventure,Sci-Fi & Fantasy,",
+"description":"After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work. It will not be easy though as he has amassed a few more dangerous enemies, in the likes of the shinobi organization; Akatsuki.",
+"type":"series",
+"cast":"Junko Takeuchi,Noriaki Sugiyama,Chie Nakamura,Kazuhiko Inoue,Showtaro Morikubo"
+},
 {
 "title":"Naruto [All Seasons] WEB-DL [Hindi + English] | All Episodes [Season 1 & 9]",
 "im":"xppeysfvDKVx775MFuH8Z9BlpMk",
@@ -857,19 +869,6 @@ const movies = [
 "type":"movie",
 "quality":"web-dl",
 "cast":"Akhil Akkineni,Mammootty,Dino Morea,Sakshi Vaidya,Sampath Raj"
-},
-{
-title:'Naruto: Shippuden [Season 9] WEB-DL [Hindi + English] | All Episodes',
-im:'zIoec9Wa0WtRhwSl9pTrBl9mUOb',
-bgi:'qpVKN5DhQOvjMBjjG2ajyJ5vSL1',
-dl:'http://qwrqwrqwr.rf.gd/a/a.php?pd=FYnibEzt&sn=7&es=Naruto.Shippuden.E&e=176&lp=21&el=.720p.WEB-DL.x264.Multi.Audio.ESub.Vegamovies.is.mkv',
-"year":"2002",
-"duration":"21 min per episode",
-"rating":"8.4",
-"genre":"Animation,Action & Adventure,Sci-Fi & Fantasy,",
-"description":"Naruto Uzumaki, a mischievous adolescent ninja, struggles as he searches for recognition and dreams of becoming the Hokage, the village's leader and strongest ninja.",
-"type":"series",
-"cast":"Junko Takeuchi,Noriaki Sugiyama,Chie Nakamura,Kazuhiko Inoue,Hidekatsu Shibata"
 },
 {
 "title":"Game of Thrones [Season 1] BluRay [Hindi + English] | All Episodes",

@@ -16,7 +16,7 @@ const movies = [
 },
 
 {
-"title":"Akaal: The Unconquered [2025] WEB-DL [Hindi-English] | Full Movie",
+"title":"Akaal: The Unconquered [2025] WEB-DL [Hindi] | Full Movie",
 "im":"pzf5rPLoE5DdYkcZlvYbrH554rE",
 "dl":"https://pixeldrain.net/api/file/X5RnTaR6?download",
 "year":"2025",
@@ -28,7 +28,7 @@ const movies = [
 "cast":"Apindereep Singh,Gippy Grewal,Nimrat Khaira,Nikitin Dheer,Gurpreet Ghuggi"
 },
 {
-"title":"Hai Junoon [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"title":"Hai Junoon [Season 1] WEB-DL [Hindi] | All Episodes",
 "im":"b2gzXbItFg2JVghiKD5RPpIVtB6",
 "bgi":"yD5J2uAIkeTtHBi0kMlyPg2AmBv",
 "dl":"https://s.pptons.com/2025/05/hai-junoon.html",
@@ -41,7 +41,7 @@ const movies = [
 "cast":"Jacqueline Fernandez,Neil Nitin Mukesh,Siddharth Nigam,Sumedh Mudgalkar,Elisha Mayor"
 },
 {
-"title":"Three of Us [2023] WEB-DL [Hindi-English] | Full Movie",
+"title":"Three of Us [2023] WEB-DL [Hindi] | Full Movie",
 "im":"5KQTxjyfhbSrsjkgG1oKFWIIaKN",
 "bgi":"bcaatLzghmqAvBSe52ZeSOdh3Jn",
 "dl":"https://pixeldrain.net/api/file/ziJAS2jG?download",

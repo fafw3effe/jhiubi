@@ -16,6 +16,32 @@ const movies = [
 },
 
 {
+"title":"Cars 3 [2017] WEB-DL [Hindi-English] | Full Movie",
+"im":"fyy1nDC8wm553FCiBDojkJmKLCs",
+"bgi":"86TlYSntBzD4pxLNM6U3GoOfGdD",
+"dl":"https://pixeldrain.net/api/file/t1RjTWbS?download",
+"year":"2017",
+"duration":"1h 42m",
+"rating":"6.9",
+"genre":"Family,Comedy,Adventure,Animation,",
+"description":"Blindsided by a new generation of blazing-fast racers, the legendary Lightning McQueen is suddenly pushed out of the sport he loves. To get back in the game, he will need the help of an eager young race technician with her own plan to win, inspiration from the late Fabulous Hudson Hornet, and a few unexpected turns. Proving that #95 isn't through yet will test the heart of a champion on Piston Cup Racing’s biggest stage!",
+"type":"movie",
+"cast":"Owen Wilson,Cristela Alonzo,Chris Cooper,Nathan Fillion,Larry the Cable Guy"
+},
+{
+"title":"Cars 2 [2011] WEB-DL [Hindi-English] | Full Movie",
+"im":"okIz1HyxeVOMzYwwHUjH2pHi74I",
+"bgi":"yMmhALrLWj9amm2pAelmdXggxk2",
+"dl":"https://pixeldrain.net/api/file/x8QwYm2M?download",
+"year":"2011",
+"duration":"1h 46m",
+"rating":"6.1",
+"genre":"Animation,Family,Adventure,Comedy,",
+"description":"Star race car Lightning McQueen and his pal Mater head overseas to compete in the World Grand Prix race. But the road to the championship becomes rocky as Mater gets caught up in an intriguing adventure of his own: international espionage.",
+"type":"movie",
+"cast":"Larry the Cable Guy,Owen Wilson,Michael Caine,Emily Mortimer,Suzy Eddie Izzard"
+},
+{
 "title":"Cars [2006] WEB-DL [Hindi-English-Tamil-Telugu] | Full Movie",
 "im":"2Touk3m5gzsqr1VsvxypdyHY5ci",
 "bgi":"sd4xN5xi8tKRPrJOWwNiZEile7f",

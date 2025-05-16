@@ -7,7 +7,7 @@ const movies = [
 "dl":"https://s.pptons.com/2025/05/peaky-blinders.html",
 "bgi":"or7wKwv1IT6LEOktt395O5qi7e",
 "year":"2013",
-"duration":"1h",
+"duration":"1h per episode",
 "rating":"8.5",
 "genre":"Drama,Crime,",
 "description":"A gangster family epic set in 1919 Birmingham, England and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby, who means to move up in the world.",
@@ -15,6 +15,19 @@ const movies = [
 "cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
 
+{
+"title":"Hai Junoon [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"b2gzXbItFg2JVghiKD5RPpIVtB6",
+"bgi":"yD5J2uAIkeTtHBi0kMlyPg2AmBv",
+"dl":"https://s.pptons.com/2025/05/hai-junoon.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"6.0",
+"genre":"Drama",
+"description":"Talent vs Ambition. Music vs Dance. At Anderson College, rivalries explode in a cut-throat battle for the GOATs Trophy. Who will rise? Who will break?",
+"type":"series",
+"cast":"Jacqueline Fernandez,Neil Nitin Mukesh,Siddharth Nigam,Sumedh Mudgalkar,Elisha Mayor"
+},
 {
 "title":"Three of Us [2023] WEB-DL [Hindi-English] | Full Movie",
 "im":"5KQTxjyfhbSrsjkgG1oKFWIIaKN",
@@ -2261,20 +2274,6 @@ const movies = [
 "description":"A man embarks on a perilous journey to track down a long-lost loved one, uncovering deep secrets along the way. His journey becomes a battle against time and destiny.",
 "type":"movie",
 "quality":"web-dl"
-},
-{
-"title":"Akaal: The Unconquered [2025] HDRip [Hindi] [HEVC] | Full Movie",
-"im":"pzf5rPLoE5DdYkcZlvYbrH554rE",
-"bgi":"",
-"dl":"https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Akaal.The.Unconquered.2025.Hindi.HDRip.720p.x264.AVC.HE-AAC.2.0.Vegamovies.is.mkv",
-"link":"tt35402446",
-"year":"2025",
-"duration":"135 min",
-"rating":"7.1",
-"genre":"Action, Drama, History",
-"description":"Set in a turbulent time, a legendary warrior defies overwhelming odds to fight for justice and honor. His journey embodies the spirit of resilience against an oppressive empire.",
-"type":"movie",
-"quality":"hdrip hevc"
 },
 {
 "title":"CiD [Season 2] [Episode 38] WEB-DL [Hindi]",

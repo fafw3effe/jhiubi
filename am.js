@@ -14,6 +14,20 @@ const movies = [
 "type":"series",
 "cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
+
+{
+"title":"BoBoiBoy: The Movie [2016] WEB-DL [Hindi-English] | Full Movie",
+"im":"jVwoMOZQjhO7V223NOT8RRazXMp",
+"bgi":"8n1CqgTao5eyzOo12AQhOqkM4SD",
+"dl":"https://pixeldrain.net/api/file/FD3URceB?download",
+"year":"2016",
+"duration":"1h 42m",
+"rating":"8.1",
+"genre":"Action,Animation,Adventure,Comedy,Family,Science Fiction,",
+"description":"BoBoiBoy and his friends come face-to-face with a greedy alien treasure hunter as they race to find a powerful ancient object on a mysterious island.",
+"type":"movie",
+"cast":"Nur Fathiah Diaz,Muhammad Fathi Diaz,Dzubir Mohamed Zakaria,Nur Sarah Alisya,Wong Wai Kay"
+},
 {
 "title":"xXx: Return of Xander Cage [2017] WEB-DL [Hindi-English] | Full Movie",
 "im":"hba8zREJpP1AYhaXgb2oJLQeO0K",

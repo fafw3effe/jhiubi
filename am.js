@@ -16,6 +16,18 @@ const movies = [
 },
 
 {
+"title":"Akaal: The Unconquered [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"pzf5rPLoE5DdYkcZlvYbrH554rE",
+"dl":"https://pixeldrain.net/api/file/X5RnTaR6?download",
+"year":"2025",
+"duration":"2h 17m",
+"rating":"7.1",
+"genre":"Action,History,Drama,",
+"description":"Set in 1840s Punjab, Sardar Akaal Singh and his village as they face a vengeful assault by Jangi Jahan and his forces after the death of Maharaja Ranjeet Singh. Amid broken truces and escalating tensions, the fearless Sardars must rise against overwhelming odds to protect their land. Will they prevail against this formidable foe?",
+"type":"movie",
+"cast":"Apindereep Singh,Gippy Grewal,Nimrat Khaira,Nikitin Dheer,Gurpreet Ghuggi"
+},
+{
 "title":"Hai Junoon [Season 1] WEB-DL [Hindi-English] | All Episodes",
 "im":"b2gzXbItFg2JVghiKD5RPpIVtB6",
 "bgi":"yD5J2uAIkeTtHBi0kMlyPg2AmBv",

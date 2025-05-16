@@ -16,6 +16,19 @@ const movies = [
 },
 
 {
+"title":"Three of Us [2023] WEB-DL [Hindi-English] | Full Movie",
+"im":"5KQTxjyfhbSrsjkgG1oKFWIIaKN",
+"bgi":"bcaatLzghmqAvBSe52ZeSOdh3Jn",
+"dl":"https://pixeldrain.net/api/file/ziJAS2jG?download",
+"year":"2023",
+"duration":"1h 40m",
+"rating":"7.3",
+"genre":"Drama,",
+"description":"Shailaja embarks on a confrontational journey with her husband and childhood-love as she finds herself at the cusp of her past, present and future. Stitched with a very delicate thread of emotions, this film is about love, loss, healing, awareness and liberation.",
+"type":"movie",
+"cast":"Shefali Shah,Jaideep Ahlawat,Swanand Kirkire,Kadambari Kadam,Rasika Agashe"
+},
+{
 "title":"BoBoiBoy: The Movie [2016] WEB-DL [Hindi-English] | Full Movie",
 "im":"jVwoMOZQjhO7V223NOT8RRazXMp",
 "bgi":"8n1CqgTao5eyzOo12AQhOqkM4SD",

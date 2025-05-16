@@ -16,6 +16,33 @@ const movies = [
 },
 
 {
+"title":"The Divorce Insurance [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"6HAbRWYkX3bouEeHA4bjsUxznKC",
+"bgi":"tSeyn9VqrAKuMytgDCXY9iMGXa8",
+"dl":"https://s.pptons.com/2025/05/the-divorce-insurance.html",
+"year":"2025",
+"duration":"1h",
+"rating":"6.7",
+"genre":"Drama,Comedy,",
+"description":"No Ki-jun, an employee at an insurance company, decides to develop a divorce insurance policy after personally experiencing three divorces that impacted his life and finances. Despite potential biases, he believes divorce is an unforeseen disaster and establishes a team for divorce insurance.",
+"type":"series",
+"cast":"Lee Dong-wook,Lee Kwang-soo,Lee Ju-bin,Lee Da-hee,Kim Won-hae"
+},
+
+{
+"title":"Lookism [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"qkoM63HDuCOSwxGfb0pljrgns9I",
+"bgi":"vjvL4LCLMxOcFOuaYLPQMtAEFJ0",
+"dl":"https://s.pptons.com/2025/05/lookism.html",
+"year":"2022",
+"duration":"1h",
+"rating":"8.4",
+"genre":"Comedy,Drama,Animation,",
+"description":"In a society that favors good looks, a high school outcast leads a double life switching between his two bodies that are polar opposites in appearance.",
+"type":"series",
+"cast":"Shim Kyu-hyuck,Han Shin,Ryu Seung-gone,Jeong Jae-heon,Nam Doh-hyeong"
+},
+{
 "title":"Cars 3 [2017] WEB-DL [Hindi-English] | Full Movie",
 "im":"fyy1nDC8wm553FCiBDojkJmKLCs",
 "bgi":"86TlYSntBzD4pxLNM6U3GoOfGdD",
@@ -1384,20 +1411,6 @@ const movies = [
 "cast":"Angelina Jolie,Elle Fanning,Imelda Staunton,Sharlto Copley,Lesley Manville"
 },
 {
-"title":"The Divorce Insurance [Season 1] [Episode 12] WEB-DL [Hindi-English]",
-"im":"6HAbRWYkX3bouEeHA4bjsUxznKC",
-"bgi":"tSeyn9VqrAKuMytgDCXY9iMGXa8",
-"dl":"https://pixeldrain.net/api/file/RLrusXpC?download",
-"year":"2025",
-"duration":"1h",
-"rating":"8.2",
-"genre":"Drama,Comedy,",
-"description":"No Ki-jun, an employee at an insurance company, decides to develop a divorce insurance policy after personally experiencing three divorces that impacted his life and finances. Despite potential biases, he believes divorce is an unforeseen disaster and establishes a team for divorce insurance.",
-"type":"series",
-"quality":"web-dl",
-"cast":"Lee Dong-wook,Lee Kwang-soo,Lee Ju-bin,Lee Da-hee,Kim Won-hae"
-},
-{
 "title":"Thunderbolts* [2025] PRE-HD [Hindi] | Full Movie",
 "im":"1top0ND4DFGNvCdl0TwPl7Tv7sB",
 "bgi":"3Ym8diDGcHqtsTSo53xwiWJk38U",
@@ -1593,20 +1606,6 @@ const movies = [
 "type":"movie",
 "quality":"web-dl",
 "cast":"Aishwarya Rajesh,Aadukalam Naren,Thangapandiyan,Sriranjini,Kavitha Bharathi"
-},
-{
-"title":"The Divorce Insurance [Season 1] [Episode 11] WEB-DL [Hindi-English]",
-"im":"6HAbRWYkX3bouEeHA4bjsUxznKC",
-"bgi":"tSeyn9VqrAKuMytgDCXY9iMGXa8",
-"dl":"https://pixeldrain.net/api/file/oNiH6fZ4?download",
-"year":"2025",
-"duration":"1h",
-"rating":"6.9",
-"genre":"Drama,Comedy,",
-"description":"No Ki-jun, an employee at an insurance company, decides to develop a divorce insurance policy after personally experiencing three divorces that impacted his life and finances. Despite potential biases, he believes divorce is an unforeseen disaster and establishes a team for divorce insurance.",
-"type":"series",
-"quality":"web-dl",
-"cast":"Lee Dong-wook,Lee Kwang-soo,Lee Ju-bin,Lee Da-hee,Kim Won-hae"
 },
 {
 "title":"Suits LA [Season 1] [Episode 11] WEB-DL [Hindi-English]",
@@ -2169,20 +2168,6 @@ const movies = [
 "rating":"8.2",
 "genre":"Drama, Legal",
 "description":"In the season finale, the legal team faces their biggest challenge yet, with high stakes and personal conflicts as they navigate their careers and relationships.",
-"type":"series",
-"quality":"web-dl"
-},
-{
-"title":"The Divorce Insurance [Season 1] [Episode 7] WEB-DL [Hindi-English] | [Amazon Prime Video]",
-"im":"6HAbRWYkX3bouEeHA4bjsUxznKC",
-"bgi":"pYP1O7uwIsavdC3GgEtVuPo9ul9",
-"dl":"https://pixeldrain.net/api/file/71PZKvdj?download",
-"link":"tt35839843",
-"year":"2025",
-"duration":"45 min",
-"rating":"7.6",
-"genre":"Comedy, Drama",
-"description":"The characters' personal lives take a dramatic turn as they tackle unexpected challenges, uncovering deeper emotional layers in their relationships.",
 "type":"series",
 "quality":"web-dl"
 },
@@ -3598,20 +3583,6 @@ const movies = [
 "quality":"web-dl",
 "cast":"Vijay,Keerthy Suresh,Varalaxmi Sarathkumar,Prem,Yogi Babu"
 },
- 
-{
- title:'The Divorce Insurance [Episode 5] (Season 1) WEB-DL [Hindi (DD 2.0) & English] | [Amazon Prime Video]',
- im:'6HAbRWYkX3bouEeHA4bjsUxznKC',
- dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/The.Divorce.Insurance.S01E05.720p.WEB-DL.Hindi.2.0-English.2.0.ESub.x264-HDHub4u.Ms.mkv',
-"bgi":"tSeyn9VqrAKuMytgDCXY9iMGXa8",
-"year":"2025",
-"duration":"1h",
-"rating":"6.6",
-"genre":"Drama,Comedy,",
-"description":"No Ki-jun, an employee at an insurance company, decides to develop a divorce insurance policy after personally experiencing three divorces that impacted his life and finances. Despite potential biases, he believes divorce is an unforeseen disaster and establishes a team for divorce insurance.",
-"type":"series",
-"cast":"Lee Dong-wook,Lee Kwang-soo,Lee Ju-bin,Lee Da-hee,Kim Won-hae"},
- 
 {
  title:'Suits LA [Episode 8] (Season 1) WEB-DL [Hindi (ORG 2.0) & English] | NBC Series',
  im:'3hYiNPkcLoI3QWDokOHQJIfn55O',

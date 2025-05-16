@@ -16,6 +16,32 @@ const movies = [
 },
 
 {
+"title":"Cars [2006] WEB-DL [Hindi-English-Tamil-Telugu] | Full Movie",
+"im":"2Touk3m5gzsqr1VsvxypdyHY5ci",
+"bgi":"sd4xN5xi8tKRPrJOWwNiZEile7f",
+"dl":"https://pixeldrain.net/api/file/bydNeZrn/info/zip/Cars.1.(2006).720p.(Hin-Eng-Tamil-Telugu).Vegamovies.NL.mkv",
+"year":"2006",
+"duration":"1h 57m",
+"rating":"7.0",
+"genre":"Animation,Adventure,Comedy,Family,",
+"description":"Lightning McQueen, a hotshot rookie race car driven to succeed, discovers that life is about the journey, not the finish line, when he finds himself unexpectedly detoured in the sleepy Route 66 town of Radiator Springs. On route across the country to the big Piston Cup Championship in California to compete against two seasoned pros, McQueen gets to know the town's offbeat characters.",
+"type":"movie",
+"cast":"Owen Wilson,Paul Newman,Bonnie Hunt,Larry the Cable Guy,Cheech Marin"
+},
+{
+"title":"Raid [2018] BLU-RAY [Hindi] | Full Movie",
+"im":"qx3m9mRUmDZUVQeAe7CAzFX7xCB",
+"bgi":"PgDIE3VDAj9pa9bE5hqWmqhs5j",
+"dl":"https://pixeldrain.net/api/file/HbWcMAtB?download",
+"year":"2018",
+"duration":"2h",
+"rating":"7.2",
+"genre":"Crime,Drama,Thriller,",
+"description":"After receiving an anonymous tip, a tax officer leads a raid on the mansion of the most powerful figure in Lucknow, a member of parliament who has been evading income tax for years.",
+"type":"movie",
+"cast":"Ajay Devgn,Saurabh Shukla,Ileana D&#39;Cruz,Gayathri Iyer,Sheeba Chaddha"
+},
+{
 "title":"Moana 2 [2024] BLU-RAY [Hindi-English] | Full Movie",
 "im":"aLVkiINlIeCkcZIzb7XHzPYgO6L",
 "bgi":"zo8CIjJ2nfNOevqNajwMRO6Hwka",

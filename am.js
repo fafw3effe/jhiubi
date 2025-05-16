@@ -2,7 +2,7 @@
 const movies = [
 
 {
-"title":"Peaky Blinders [Season 3] [Episode 5] WEB-DL [Hindi-English] | All Episodes [Season 1 - 2]",
+"title":"Peaky Blinders [Season 3] [Episode 6] WEB-DL [Hindi-English] | All Episodes [Season 1 - 2]",
 "im":"vUUqzWa2LnHIVqkaKVlVGkVcZIW",
 "dl":"https://s.pptons.com/2025/05/peaky-blinders.html",
 "bgi":"or7wKwv1IT6LEOktt395O5qi7e",

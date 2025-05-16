@@ -14,7 +14,45 @@ const movies = [
 "type":"series",
 "cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
-
+{
+"title":"xXx: Return of Xander Cage [2017] WEB-DL [Hindi-English] | Full Movie",
+"im":"hba8zREJpP1AYhaXgb2oJLQeO0K",
+"bgi":"4QLdZ2A8mkDWp2rpfgDrwmeCtUW",
+"dl":"https://pixeldrain.net/api/file/LYrewbS9?download",
+"year":"2017",
+"duration":"1h 47m",
+"rating":"6.1",
+"genre":"Action,Adventure,Crime,",
+"description":"Xander Cage is left for dead after an incident, though he secretly returns to action for a new, tough assignment with his handler Augustus Gibbons.",
+"type":"movie",
+"cast":"Vin Diesel,Donnie Yen,Ruby Rose,Toni Collette,Samuel L. Jackson"
+},
+{
+"title":"xXx: State of the Union [2005] WEB-DL [Hindi-English] | Full Movie",
+"im":"9Bmvsv11yf4eIHRePul7sFO1Oh",
+"bgi":"vBDHS8bdo5vzqaaqviMupznoRaN",
+"dl":"https://pixeldrain.net/api/file/VUvF7yrw?download",
+"year":"2005",
+"duration":"1h 41m",
+"rating":"5.1",
+"genre":"Action,Adventure,Crime,Thriller,",
+"description":"Darius Stone's criminal record and extreme sports obsession make him the perfect candidate to be the newest XXX agent. He must save the U.S. government from a deadly conspiracy led by five-star general and Secretary of Defense George Deckert.",
+"type":"movie",
+"cast":"Ice Cube,Samuel L. Jackson,Willem Dafoe,Scott Speedman,Peter Strauss"
+},
+{
+"title":"xXx [2002] WEB-DL [Hindi-English] | Full Movie",
+"im":"xeEw3eLeSFmJgXZzmF2Efww0q3s",
+"bgi":"qwK9soQmmJ7kRdjLZVXblw3g7AQ",
+"dl":"https://pixeldrain.net/api/file/3WeWJ4Hc?download",
+"year":"2002",
+"duration":"2h 4m",
+"rating":"5.9",
+"genre":"Action,Adventure,Thriller,Crime,",
+"description":"Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government recruits him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi.",
+"type":"movie",
+"cast":"Vin Diesel,Asia Argento,Marton Csokas,Samuel L. Jackson,Michael Roof"
+},
 {
 "title":"The Divorce Insurance [Season 1] WEB-DL [Hindi-English] | All Episodes",
 "im":"6HAbRWYkX3bouEeHA4bjsUxznKC",
@@ -28,7 +66,6 @@ const movies = [
 "type":"series",
 "cast":"Lee Dong-wook,Lee Kwang-soo,Lee Ju-bin,Lee Da-hee,Kim Won-hae"
 },
-
 {
 "title":"Lookism [Season 1] WEB-DL [Hindi-English] | All Episodes",
 "im":"qkoM63HDuCOSwxGfb0pljrgns9I",

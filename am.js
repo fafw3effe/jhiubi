@@ -16,6 +16,32 @@ const movies = [
 },
 
 {
+"title":"Moana 2 [2024] BLU-RAY [Hindi-English] | Full Movie",
+"im":"aLVkiINlIeCkcZIzb7XHzPYgO6L",
+"bgi":"zo8CIjJ2nfNOevqNajwMRO6Hwka",
+"dl":"https://pixeldrain.net/api/file/mXDLZdo5?download",
+"year":"2024",
+"duration":"1h 40m",
+"rating":"7.1",
+"genre":"Animation,Adventure,Family,Comedy,",
+"description":"After receiving an unexpected call from her wayfinding ancestors, Moana journeys alongside Maui and a new crew to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced.",
+"type":"movie",
+"cast":"Auliʻi Cravalho,Dwayne Johnson,Hualālai Chung,Rose Matafeo,David Fane"
+},
+{
+"title":"Moana [2016] WEB-DL [Hindi-English] | Full Movie",
+"im":"9tzN8sPbyod2dsa0lwuvrwBDWra",
+"bgi":"iYLKMV7PIBtFmtygRrhSiyzcVsF",
+"dl":"https://pixeldrain.net/api/file/xWTgWaen?download",
+"year":"2016",
+"duration":"1h 47m",
+"rating":"7.6",
+"genre":"Adventure,Comedy,Family,Animation,",
+"description":"In Ancient Polynesia, when a terrible curse incurred by Maui reaches an impetuous Chieftain's daughter's island, she answers the Ocean's call to seek out the demigod to set things right.",
+"type":"movie",
+"cast":"Auliʻi Cravalho,Dwayne Johnson,Rachel House,Temuera Morrison,Jemaine Clement"
+},
+{
 "title":"Karate Kid: Legends [2025] HDTS [English] | Full Movie",
 "im":"ckI6bmQDvvGy20FPTIW1kfGKGRK",
 "bgi":"tGjo4L15aELqZGqQH3ThZQGMKmL",

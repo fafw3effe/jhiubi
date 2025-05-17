@@ -1,6 +1,20 @@
 // Movies data
 const movies = [
 
+
+{
+"title":"Mission: Impossible - The Final Reckoning [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"z53D72EAOxGRqdr7KXXWp9dJiDe",
+"bgi":"7ONMDhnErvpkKvkZqM82ud7bzcT",
+"dl":"https://pixeldrain.net/api/file/2U4dCJ1H?download",
+"year":"2025",
+"duration":"2h 50m",
+"rating":"7.7",
+"genre":"Action,Adventure,Thriller,",
+"description":"Ethan Hunt and the IMF team continue their search for the terrifying AI known as the Entity — which has infiltrated intelligence networks all over the globe — with the world's governments and a mysterious ghost from Ethan's past on their trail. Joined by new allies and armed with the means to shut the Entity down for good, Hunt is in a race against time to prevent the world as we know it from changing forever.",
+"type":"movie",
+"cast":"Tom Cruise,Hayley Atwell,Ving Rhames,Simon Pegg,Esai Morales"
+},
 {
 "title":"Peaky Blinders [Season 3] [Episode 6] WEB-DL [Hindi-English] | All Episodes [Season 1 - 2]",
 "im":"vUUqzWa2LnHIVqkaKVlVGkVcZIW",

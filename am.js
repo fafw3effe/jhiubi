@@ -3,7 +3,7 @@ const movies = [
 
 
 {
-"title":"Mission: Impossible - The Final Reckoning [2025] WEB-DL [Hindi-English] | Full Movie",
+"title":"Mission: Impossible - The Final Reckoning [2025] HQ-HDTC [Hindi-English] | Full Movie",
 "im":"z53D72EAOxGRqdr7KXXWp9dJiDe",
 "bgi":"7ONMDhnErvpkKvkZqM82ud7bzcT",
 "dl":"https://pixeldrain.net/api/file/2U4dCJ1H?download",
@@ -16,7 +16,7 @@ const movies = [
 "cast":"Tom Cruise,Hayley Atwell,Ving Rhames,Simon Pegg,Esai Morales"
 },
 {
-"title":"Peaky Blinders [Season 3] [Episode 6] WEB-DL [Hindi-English] | All Episodes [Season 1 - 2]",
+"title":"Peaky Blinders [Season 1 - 2 - 3] WEB-DL [Hindi-English] | All Episodes",
 "im":"vUUqzWa2LnHIVqkaKVlVGkVcZIW",
 "dl":"https://s.pptons.com/2025/05/peaky-blinders.html",
 "bgi":"or7wKwv1IT6LEOktt395O5qi7e",

@@ -3,6 +3,19 @@ const movies = [
 
 
 {
+"title":"The Wheel of Time [All Seasons] WEB-DL [Hindi-English] | All Episodes",
+"im":"eVm7vI0VTUKYzgpOXCUu9qz3L4E",
+"bgi":"6264HK5ZudLUoqsPzGUrFSKHlFW",
+"dl":"https://s.pptons.com/2025/05/the-wheel-of-time.html",
+"year":"2021",
+"duration":"1h per episode",
+"rating":"7.7",
+"genre":"Sci-Fi & Fantasy,Drama,",
+"description":"Follow Moiraine, a member of the shadowy and influential all-female organization called the “Aes Sedai” as she embarks on a dangerous, world-spanning journey with five young men and women. Moiraine believes one of them might be the reincarnation of an incredibly powerful individual, whom prophecies say will either save humanity or destroy it.",
+"type":"series",
+"cast":"Rosamund Pike,Daniel Henney,Josha Stradowski,Zoë Robins,Madeleine Madden"
+},
+{
 "title":"Mission: Impossible - The Final Reckoning [2025] HQ-HDTC [Hindi-English] | Full Movie",
 "im":"z53D72EAOxGRqdr7KXXWp9dJiDe",
 "bgi":"7ONMDhnErvpkKvkZqM82ud7bzcT",

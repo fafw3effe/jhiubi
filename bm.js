@@ -2974,13 +2974,6 @@ const movies = [
 "cast":"Daniel Radcliffe,Emma Watson,Rupert Grint,Ralph Fiennes,Alan Rickman"
 },
 {
- title:'The Wheel of Time [Season 3] [Episode 8] WEB-DL [Hindi-English] [HEVC] | Amazon Prime Video',
- im:'bJSv3kF8wWmdsXsnTNftfiP8Lik',
- dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/The.Wheel.of.Time.S03E08.720p.10Bit.WEB-DL.Hindi.5.1-English.HEVC.x265-HDHub4u.Ms.mkv',
- link: 'tt7462410'
-},
- 
-{
  title:'The Pitt [Season 1] [Episode 15] WEB-DL [Hindi-English] [HEVC] | Full Series',
  im:'6fMGktEDXMZZPACJ5cWkVQ6TSte',
  dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/The.Pitt.S01E15.720p.10Bit.WEB-DL.Hindi.2.0-English.HEVC.x265-HDHub4u.Tv.mkv',
@@ -3365,14 +3358,6 @@ const movies = [
 "quality":"blu-Ray",
 "cast":"Sam Worthington, Zoe Saldana, Sigourney Weaver"
 },
- 
-{
- title:'The Wheel of Time [Season 3] [Episode 7] WEB-DL [Hindi-English] | Amazon Prime Video',
- im:'bJSv3kF8wWmdsXsnTNftfiP8Lik',
- dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/The.Wheel.of.Time.S03E07.720p.10bit.WEB-DL.HIN-ENG.x265.ESub-Vegamovies.is.mkv',
- link: 'tt7462410'
-},
- 
 {
  title:'House of David [Season 3] [Episode 8] WEB-DL [Hindi-English] | Amazon Prime Video',
  im:'64ooH4xSiMGAFG11emiGv3pdVkH',

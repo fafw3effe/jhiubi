@@ -3,6 +3,32 @@ const movies = [
 
 
 {
+"title":"The Substance [2024] WEB-DL [English] | Full Movie",
+"im":"evdF1vmLzuzH8EFblqAXBXWRGSi",
+"bgi":"pRjCDn51n9otE0AzpGRYGVWP1LB",
+"dl":"https://pixeldrain.net/api/file/KNUQvNZy?download",
+"year":"2024",
+"duration":"2h 21m",
+"rating":"7.1",
+"genre":"Horror,Science Fiction,",
+"description":"A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
+"type":"movie",
+"cast":"Demi Moore,Margaret Qualley,Dennis Quaid,Edward Hamilton-Clark,Gore Abrams"
+},
+{
+"title":"Yeh Jawaani Hai Deewani [2013] WEB-DL [Hindi-English] | Full Movie",
+"im":"em39H81XLCDgXsI7V4IcBZseEO6",
+"bgi":"Wi9bgiwfJPYKFcJIiUqCNDFNtf",
+"dl":"https://pixeldrain.net/api/file/9zEvxDPb?download",
+"year":"2013",
+"duration":"2h 40m",
+"rating":"7.3",
+"genre":"Romance,Comedy,",
+"description":"On a trekking trip, an introverted Naina falls for a charming ex-classmate, whose thirst for adventure drives them apart. Years later, their paths cross again.",
+"type":"movie",
+"cast":"Ranbir Kapoor,Deepika Padukone,Aditya Roy Kapur,Kalki Koechlin,Kunaal Roy Kapur"
+},
+{
 "title":"The Wheel of Time [All Seasons] WEB-DL [Hindi-English] | All Episodes",
 "im":"eVm7vI0VTUKYzgpOXCUu9qz3L4E",
 "bgi":"6264HK5ZudLUoqsPzGUrFSKHlFW",

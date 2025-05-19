@@ -27,7 +27,19 @@ const movies = [
 "type":"series",
 "cast":"Stephen Amell,Lex Scott Davis,Josh McDermitt,Bryan Greenberg,Rachelle Goulding"
 },
-
+{
+"title":"Jewel Thief: The Heist Begins [2025] WEB-DL [Hindi] | Full Movie",
+"im":"eujLbO0kf1eqWC8XpHUJdtAVW2J",
+"bgi":"kFXtAwJYbRTqiyQpE9kDc8qEP3X",
+"dl":"https://pixeldrain.net/api/file/zADXdY6t?download",
+"year":"2025",
+"duration":"1h 58m",
+"rating":"6.8",
+"genre":"Action,Thriller,",
+"description":"In this high-octane battle of wits and wills, ingenious con artist Rehan devises a diamond heist while trying to outsmart Rajan, his sadistic adversary.",
+"type":"movie",
+"cast":"Saif Ali Khan,Jaideep Ahlawat,Nikita Dutta,Kunal Kapoor,Kulbhushan Kharbanda"
+},
 {
 "title":"Sacred Games [All Seasons] WEB-DL [Hindi] | All Episodes",
 "im":"uEbNtFbK4At9WBDGap23lt1qO9n",
@@ -2580,19 +2592,6 @@ const movies = [
 "quality":"web-dl"
 },
 {
-"title":"Jewel Thief - The Heist Begins [2025] WEB-DL [Hindi] [HEVC] | Full Movie",
-"im":"eujLbO0kf1eqWC8XpHUJdtAVW2J",
-"dl":"https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Jewel.Thief.The.Heist.Begins.2025.720p.10Bit.Hindi.WEB-DL.5.1.HEVC.x265-HDHub4u.Ms.mkv",
-"link":"tt27843798",
-"year":"2025",
-"duration":"120 min",
-"rating":"7.5",
-"genre":"Crime, Thriller",
-"description":"A skilled jewel thief begins his heist journey, evading authorities and facing deadly challenges. Tensions rise as he attempts to pull off the perfect crime.",
-"type":"movie",
-"quality":"webdl hevc"
-},
-{
 "title":"Havoc [2025] WEB-DL [Hindi-English] [HEVC] | Full Movie",
 "im":"r46leE6PSzLR3pnVzaxx5Q30yUF",
 "dl":"https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Havoc.2025.720p.10Bit.WEB-DL.Hindi.5.1-English.HEVC.x265-HDHub4u.Ms.mkv",
@@ -3326,20 +3325,6 @@ const movies = [
 "type":"movie",
 "quality":"web-dl"
 }, 
-{
-"title":"The Diplomat [2025] WEB-RIP [Hindi] | Full Movie",
-"im":"uwl9Y4px8TTIQK4N19k6gnW1RnX",
-"bgi":"neAiiFgTeY5cJmRstKTKQTxS2In",
-"dl":"https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/The%20Diplomat%202025%20Hindi%20HDRip%20720p%20x264%20AVC%20HE-AAC%202.0%20HC-ESub-Vegamovies.is.mkv",
-"year":"2025",
-"duration":"2h 17m",
-"rating":"6.6",
-"genre":"Thriller,Drama",
-"description":"The Deputy High Commissioner, J.P. Singh, faces an unusual crisis when a mysterious woman rushes inside the Indian High Commission in Islamabad, claiming to be an Indian citizen and seeking a return to India.",
-"type":"movie",
-"quality":"web-dl",
-"cast":"John Abraham,Sadia Khateeb,Kumud Mishra,Sharib Hashmi,Ashwath Bhatt"
-},
 {
 "title":"Sky Force [2025] WEB-DL [Hindi] | Full Movie",
 "im":"pmtev9YTlIRDo25G7lN8dzyoszn",

@@ -475,7 +475,7 @@ const movies = [
 "title":"Evaru [2019] WEB-DL [Hindi HQ DUB-English] | Full Movie",
 "im":"k0E0jJ4yhouFPf9XCBR50C3TOuc",
 "bgi":"oodlsWgLSFStFvu4mODNXy3i0e0",
-"dl":"https://pub-225c8869bc8c483980625b632dcf4504.r2.dev/7a1837014c81ded463b9447d4f11e606/Evaru%20(2019)%20%7BHindi-Telugu%7D%20720p%20HDRip%20[PariMatch].mkv",
+"dl":"https://pixeldrain.net/api/file/vo7NELe5?download",
 "year":"2019",
 "duration":"1h 58m",
 "rating":"7.0",

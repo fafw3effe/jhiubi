@@ -3799,7 +3799,7 @@ const movies = [
 "title":"I [2015] UNCUT [Hindi-Tamil] | Full Movie",
 "im":"p3VfrFVUmR9A8NFeXPxg9pFYdpv",
 "bgi":"sg3ZE3N6fgBueQWQnxK5fP4XhCj",
-"dl":"https://fastdlserver.lol/?id=VlphNFB0QlM1Qytwb1dvV3QxSmVBR1BMeFZLcVlxNVhlZ1NRbVhRSDFmVURDdElsMzBiN1dPU3NPQ3prdzc3Sg==&type=file",
+"dl":"https://pixeldrain.net/api/file/abyC4XFZ?download",
 "year":"2015",
 "duration":"2h 50m",
 "rating":"6.7",

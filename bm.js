@@ -29,6 +29,19 @@ const movies = [
 },
 
 {
+"title":"Sacred Games [All Seasons] WEB-DL [Hindi] | All Episodes",
+"im":"uEbNtFbK4At9WBDGap23lt1qO9n",
+"bgi":"qtac9X9lSLqZFbxS71347N8MiID",
+"dl":"https://s.pptons.com/2025/05/sacred-games.html",
+"year":"2018",
+"duration":"1h per episode",
+"rating":"7.8",
+"genre":"Drama,Crime,Action & Adventure,",
+"description":"A link in their pasts leads an honest cop to a fugitive gang boss, whose cryptic warning spurs the officer on a quest to save Mumbai from cataclysm.",
+"type":"series",
+"cast":"Saif Ali Khan,Nawazuddin Siddiqui,Girish Kulkarni,Aamir Bashir,Neeraj Kabi"
+},
+{
 "title":"Scam 1992: The Harshad Mehta Story [Season 1] WEB-DL [Hindi] | All Episodes",
 "im":"fiimZ9Xt5cPTPHNrbS4QautBXpU",
 "bgi":"tTYP1npvBU90NthceezScfXGiOl",

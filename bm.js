@@ -29,7 +29,7 @@ const movies = [
 },
 
 {
-"title":"Scam 1992: The Harshad Mehta Story [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"title":"Scam 1992: The Harshad Mehta Story [Season 1] WEB-DL [Hindi] | All Episodes",
 "im":"fiimZ9Xt5cPTPHNrbS4QautBXpU",
 "bgi":"tTYP1npvBU90NthceezScfXGiOl",
 "dl":"https://s.pptons.com/2025/05/scam-1992-harshad-mehta-story.html",

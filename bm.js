@@ -41,6 +41,19 @@ const movies = [
 "cast":"Lee Jae-wook,Cho Bo-ah,Jung Ga-ram,Uhm Ji-won,Park Byung-eun"
 },
 {
+"title":"Breaking Bad [All Seasons] Blu-Ray [Hindi-English] | All Episodes",
+"im":"ztkUQFLlC19CCMYHW9o1zWhJRNq",
+"bgi":"9faGSFi5jam6pDWGNd0p8JcJgXQ",
+"dl":"https://s.pptons.com/2025/05/breaking-bad.html",
+"year":"2008",
+"duration":"1h per episode",
+"rating":"9.5",
+"genre":"Drama,Crime,",
+"description":"Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
+"type":"series",
+"cast":"Bryan Cranston,Aaron Paul,Anna Gunn,RJ Mitte,Dean Norris"
+},
+{
 "title":"The Unbreakable Boy [2025] WEB-DL [Hindi-English] | Full Movie",
 "im":"ob1cuQzzggELGtWx5TchixKsBVn",
 "bgi":"w93509Dz3Cq5hwlQ1UE9IpTNV5T",
@@ -1194,71 +1207,6 @@ const movies = [
 "description":"To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of them has anything to lose. Five months of seclusion - memorizing every step, every detail, every probability - culminate in eleven days locked up in the National Coinage and Stamp Factory of Spain, surrounded by police forces and with dozens of hostages in their power, to find out whether their suicide wager will lead to everything or nothing.",
 "type":"series",
 "cast":"Úrsula Corberó,Itziar Ituño,Álvaro Morte,Pedro Alonso,Miguel Herrán"
-},
-{
-"title":"Breaking Bad [Season 5] WEB-DL [Hindi-English] | All Episodes",
-"im":"ineLOBPG8AZsluYwnkMpHRyu7L",
-"dl":"http://qwrqwrqwr.rf.gd/a/a.php?pd=tGX3PyD5&sn=5&es=Breaking.Bad.S05.720p.10Bit.Blu-Ray.Hindi.ORG-English.HEVC.x265-HDHub4u.Tv/Breaking.Bad.S05.E&e=16&el=.720p.10Bit.Blu-Ray.Hindi.ORG-English.HEVC.x265-HDHub4u.Tv.mkv",
-"bgi":"9faGSFi5jam6pDWGNd0p8JcJgXQ",
-"year":"2012",
-"duration":"1h",
-"rating":"8.9",
-"genre":"Drama,Crime,",
-"description":"Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
-"type":"series",
-"cast":"Bryan Cranston,Aaron Paul,Anna Gunn,RJ Mitte,Dean Norris"
-},
-{
-"title":"Breaking Bad [Season 4] WEB-DL [Hindi-English] | All Episodes",
-"im":"ineLOBPG8AZsluYwnkMpHRyu7L",
-"dl":"http://qwrqwrqwr.rf.gd/a/a.php?pd=qY7GJijb&sn=4&es=Breaking.Bad.S04.720p.10Bit.Blu-Ray.Hindi.ORG-English.HEVC.x265-HDHub4u.Tv/Breaking.Bad.S04.E&e=13&el=.720p.10Bit.Blu-Ray.Hindi.ORG-English.HEVC.x265-HDHub4u.Tv.mkv",
-"bgi":"9faGSFi5jam6pDWGNd0p8JcJgXQ",
-"year":"2011",
-"duration":"1h",
-"rating":"8.9",
-"genre":"Drama,Crime,",
-"description":"Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
-"type":"series",
-"cast":"Bryan Cranston,Aaron Paul,Anna Gunn,RJ Mitte,Dean Norris"
-},
-{
-"title":"Breaking Bad [Season 3] WEB-DL [Hindi-English] | All Episodes",
-"im":"ineLOBPG8AZsluYwnkMpHRyu7L",
-"dl":"http://qwrqwrqwr.rf.gd/a/a.php?pd=ZMZv1v25&sn=3&es=Breaking.Bad.S03.720p.10Bit.Blu-Ray.Hindi.ORG-English.HEVC.x265-HDHub4u.Tv/Breaking.Bad.S03.E&e=13&el=.720p.10Bit.Blu-Ray.Hindi.ORG-English.HEVC.x265-HDHub4u.Tv.mkv",
-"bgi":"9faGSFi5jam6pDWGNd0p8JcJgXQ",
-"year":"2010",
-"duration":"1h",
-"rating":"8.9",
-"genre":"Drama,Crime,",
-"description":"Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
-"type":"series",
-"cast":"Bryan Cranston,Aaron Paul,Anna Gunn,RJ Mitte,Dean Norris"
-},
-{
-"title":"Breaking Bad [Season 2] WEB-DL [Hindi-English] | All Episodes",
-"im":"ineLOBPG8AZsluYwnkMpHRyu7L",
-"dl":"http://qwrqwrqwr.rf.gd/a/a.php?pd=yJcMHEu1&sn=2&es=Breaking.Bad.S02.720p.10Bit.HEVC.Blu-Ray.Hindi.ORG-English.ESub.x265-HDHub4u.Tv/Breaking.Bad.S02.E&e=13&el=.720p.10Bit.Blu-Ray.Hindi.ORG-English.HEVC.x265-HDHub4u.Tv.mkv",
-"bgi":"9faGSFi5jam6pDWGNd0p8JcJgXQ",
-"year":"2009",
-"duration":"1h",
-"rating":"8.9",
-"genre":"Drama,Crime,",
-"description":"Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
-"type":"series",
-"cast":"Bryan Cranston,Aaron Paul,Anna Gunn,RJ Mitte,Dean Norris"
-},
-{
-"title":"Breaking Bad [Season 1] WEB-DL [Hindi-English] | All Episodes",
-"im":"ineLOBPG8AZsluYwnkMpHRyu7L",
-"dl":"http://qwrqwrqwr.rf.gd/a/a.php?pd=s4SFRnJX&sn=1&es=Breaking.Bad.S01.720p.HEVC.Blu-Ray.Hindi.ORG-English.ESub.x265-HDHub4u.Tv/Breaking.Bad.S01.E&e=7&el=.720p.HEVC.Blu-Ray.Hindi.ORG-English.ESub.x265-HDHub4u.Tv.mkv",
-"bgi":"9faGSFi5jam6pDWGNd0p8JcJgXQ",
-"year":"2008",
-"duration":"1h",
-"rating":"8.9",
-"genre":"Drama,Crime,",
-"description":"Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
-"type":"series",
-"cast":"Bryan Cranston,Aaron Paul,Anna Gunn,RJ Mitte,Dean Norris"
 },
 {
 "title":"Mob Psycho 100 [Season 1] WEB-DL [Hindi-Japanese] | All Episodes",

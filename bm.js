@@ -28,6 +28,19 @@ const movies = [
 "cast":"Santhanam,Selvaraghavan,Geethika Tiwary,Gautham Vasudev Menon,Rajendran"
 },
 {
+"title":"MASHLE: MAGIC AND MUSCLES [All Seasons] WEB-DL [Hindi-English] | All Episodes",
+"im":"yORTvQOQTZzZ9JRIpRH4QaIaQBm",
+"bgi":"p1swd15DRtCnNj20U904dbXeVsi",
+"dl":"https://s.pptons.com/2025/05/mashle-magic-and-muscles.html",
+"year":"2023",
+"duration":"1h per episode",
+"rating":"8.4",
+"genre":"Animation,Comedy,Action & Adventure,Sci-Fi & Fantasy,",
+"description":"In the magic realm, magic is everything—everyone can use it, and one’s social status is determined by their skill level. Deep in the forest, oblivious to the ways of the world, lives Mash. Thanks to his daily training, he’s become a fitness god, but he harbors a secret that could turn his life upside down—he can’t use magic! When he’s found out, rather than his life being over, he’s unexpectedly enrolled in magic school, where he must beat the competition!",
+"type":"series",
+"cast":"Chiaki Kobayashi,Reiji Kawashima,Kaito Ishikawa,Takuya Eguchi,Reina Ueda"
+},
+{
 "title":"Gifted [2017] WEB-DL [Hindi-English] | Full Movie",
 "im":"7YB2YrMwIm1g8FyZtlvmVDfRnAT",
 "bgi":"gYtXT7fJNBRZBbBulO11DoRveLT",

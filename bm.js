@@ -14,7 +14,19 @@ const movies = [
 "type":"series",
 "cast":"Pedro Pascal,Bella Ramsey,Gabriel Luna,Isabela Merced,Young Mazino"
 },
-
+{
+"title":"Devils Double Next Level [2025] HD-CAM [Hindi-English] | Full Movie",
+"im":"rIkOhREf46L2sdlHN1dkX0qWKMd",
+"bgi":"ijy6b2frS9rkWGF7UYGRfUPtvoo",
+"dl":"https://pixeldrain.net/api/file/R9WPWeoa?download",
+"year":"2025",
+"duration":"2h 13m",
+"rating":"6.0",
+"genre":"Horror,Comedy,",
+"description":"A well-known movie critic is invited by a strange person to watch a special horror film. But once the movie starts, he finds himself trapped inside it. The world keeps shifting timelines, endless day-to-night cycles, non-linear narration, and scary things from horror movies come to life. To escape, he must either stop reviewing movies forever or find a way to defeat the ghost that trapped him.",
+"type":"movie",
+"cast":"Santhanam,Selvaraghavan,Geethika Tiwary,Gautham Vasudev Menon,Rajendran"
+},
 {
 "title":"Dear Hongrang [Season 1] WEB-DL [Hindi-English] | All Episodes",
 "im":"mWGil4jL1jaCoZkZuaNThh0aoVC",

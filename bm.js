@@ -28,6 +28,19 @@ const movies = [
 "cast":"Stephen Amell,Lex Scott Davis,Josh McDermitt,Bryan Greenberg,Rachelle Goulding"
 },
 {
+"title":"JACK [2025] WEB-DL [Hindi-Telugu] | Full Movie",
+"im":"fB0gnMV4c2ERxAwRQunGzfXj06o",
+"bgi":"taF1W3GpdioCRonkyusCOxnnRfO",
+"dl":"https://pixeldrain.net/api/file/1bfeGa9c?download",
+"year":"2025",
+"duration":"2h 13m",
+"rating":"6.6",
+"genre":"Comedy, Action, Romance",
+"description":"A group of teenagers go to an abandoned building in the woods to have a party, little to they know who waits for them there…",
+"type":"movie",
+"cast":"Brahmaji, Vaishnavi Chaitanya, Sidhu Jonnalagadda"
+},
+{
 "title":"Jewel Thief: The Heist Begins [2025] WEB-DL [Hindi] | Full Movie",
 "im":"eujLbO0kf1eqWC8XpHUJdtAVW2J",
 "bgi":"kFXtAwJYbRTqiyQpE9kDc8qEP3X",
@@ -1633,21 +1646,6 @@ const movies = [
 "type":"movie",
 "quality":"web-dl",
 "cast":"Tamannaah Bhatia,Hebah Patel,Vasishta N. Simha,Naga Mahesh"
-},
-
-{
-"title":"JACK [2025] WEB-DL [Hindi-Telugu] | Full Movie",
-"im":"fB0gnMV4c2ERxAwRQunGzfXj06o",
-"bgi":"",
-"dl":"https://pixeldrain.net/api/file/1bfeGa9c?download",
-"year":"2025",
-"duration":"2h 13m",
-"rating":"6.6",
-"genre":"Comedy, Action, Romance",
-"description":"A group of teenagers go to an abandoned building in the woods to have a party, little to they know who waits for them there…",
-"type":"movie",
-"quality":"web-dl",
-"cast":"Brahmaji, Vaishnavi Chaitanya, Sidhu Jonnalagadda"
 },
 
  //new

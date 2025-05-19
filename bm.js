@@ -28,6 +28,19 @@ const movies = [
 "cast":"Santhanam,Selvaraghavan,Geethika Tiwary,Gautham Vasudev Menon,Rajendran"
 },
 {
+"title":"Paatal Lok [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"duaaazbB49iKK4TMvekR3fQIVhU",
+"bgi":"lgbMRcbGAbLr6LxF4wi514TpFpj",
+"dl":"https://s.pptons.com/2025/05/paatal-lok.html",
+"year":"2020",
+"duration":"1h per episode",
+"rating":"7.3",
+"genre":"Crime,Drama,",
+"description":"A down and out cop lands the case of a lifetime when four suspects are nabbed in the assassination attempt of a prime time journalist. The case turns out to be a devious maze where nothing is what it looks like. The pursuit of it leads him to the dark netherworld - the 'Paatal Lok', and to shocking discoveries in the past of the four suspects.",
+"type":"series",
+"cast":"Jaideep Ahlawat,Ishwak Singh,Gul Panag,Anuraag Arora,Bodhisattva Sharma"
+},
+{
 "title":"Dear Hongrang [Season 1] WEB-DL [Hindi-English] | All Episodes",
 "im":"mWGil4jL1jaCoZkZuaNThh0aoVC",
 "bgi":"eElF5eTwJyXh6hFEFa8LDMEmnHz",

@@ -1,6 +1,20 @@
 // Movies data
 const movies = [
 
+
+{
+"title":"The Bhootnii [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"l92cbxp7GIOQnKjMsSd2HLm10rE",
+"bgi":"qnc4tKS5NrQ61myUoo9vaZl9uuT",
+"dl":"https://pixeldrain.net/api/file/vEEtMWjP?download",
+"year":"2025",
+"duration":"2h 6m",
+"rating":"6.7",
+"genre":"Comedy,Horror,Romance,",
+"description":"The Virgin Tree, based in the heart of St. Vincent's College, is home to a spirit who awakens every Valentine's Day  in response to the longing for true love. As strange incidents multiply, the Virgin Tree becomes a place of dread,  the authorities call in a veteran para-physicist to confront the entity.",
+"type":"movie",
+"cast":"Sanjay Dutt,Mouni Roy,Palak Tiwari,Aasif Khan,Sunny Singh"
+},
 {
 "title":"The Last of Us [Season 2] [Episode 6] WEB-DL [Hindi-English] | All Episodes [Season 1]",
 "im":"dmo6TYuuJgaYinXBPjrgG9mB5od",
@@ -2095,21 +2109,6 @@ const movies = [
 "type":"movie",
 "quality":"blu-Ray",
 "cast":"Yuri Lowenthal, Dee Bradley Baker, Meagan Moore, Barry Dennen"
-},
-{
-"title":"The Bhootnii [2025] HQ PRE-HD [Hindi] | Full Movie",
-"im":"6dT1KCa4wzkFYidXRVEg4OwntmP",
-"bgi":"foCFZLADroNnhn07aFRoijUKpC1",
-"dl":"https://pixeldrain.net/api/file/y4fRSCP7?download",
-"link":"tt27162102",
-"year":"2025",
-"duration":"95 min",
-"rating":"5.7",
-"genre":"Horror, Mystery",
-"description":"A young woman uncovers the dark secrets of an abandoned house, leading to terrifying encounters with the supernatural forces haunting it.",
-"type":"movie",
-"quality":"pre-hd",
-"cast":"Priya Anand, Rahul Ravindran, Kishore"
 },
 {
 "title":"Raid 2 [2025] HQ PRE-HD [Hindi] | Full Movie",

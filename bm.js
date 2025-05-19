@@ -28,7 +28,7 @@ const movies = [
 "cast":"Santhanam,Selvaraghavan,Geethika Tiwary,Gautham Vasudev Menon,Rajendran"
 },
 {
-"title":"MASHLE: MAGIC AND MUSCLES [All Seasons] WEB-DL [Hindi-English] | All Episodes",
+"title":"MASHLE: MAGIC AND MUSCLES [All Seasons] WEB-DL [Hindi-Japanese] | All Episodes",
 "im":"yORTvQOQTZzZ9JRIpRH4QaIaQBm",
 "bgi":"p1swd15DRtCnNj20U904dbXeVsi",
 "dl":"https://s.pptons.com/2025/05/mashle-magic-and-muscles.html",

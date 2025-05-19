@@ -18,7 +18,7 @@ const movies = [
 "title":"Suits LA [Season 1] WEB-DL [Hindi-English] | All Episodes",
 "im":"3hYiNPkcLoI3QWDokOHQJIfn55O",
 "bgi":"ljAdFwDLQLlOBIwheKmAdcUS0HM",
-"dl":"",
+"dl":"https://s.pptons.com/2025/05/suits-la.html",
 "year":"2025",
 "duration":"1h per episode",
 "rating":"7.5",

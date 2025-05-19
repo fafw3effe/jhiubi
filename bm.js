@@ -15,6 +15,19 @@ const movies = [
 "cast":"Pedro Pascal,Bella Ramsey,Gabriel Luna,Isabela Merced,Young Mazino"
 },
 {
+"title":"Suits LA [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"3hYiNPkcLoI3QWDokOHQJIfn55O",
+"bgi":"ljAdFwDLQLlOBIwheKmAdcUS0HM",
+"dl":"",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"7.5",
+"genre":"Drama,",
+"description":"Ted Black, a former federal prosecutor from New York, has reinvented himself representing the most powerful clients in Los Angeles. But his firm is at a crisis point, and in order to survive, he must embrace a role he held in contempt his entire career.",
+"type":"series",
+"cast":"Stephen Amell,Lex Scott Davis,Josh McDermitt,Bryan Greenberg,Rachelle Goulding"
+},
+{
 "title":"Devils Double Next Level [2025] HD-CAM [Hindi] | Full Movie",
 "im":"rIkOhREf46L2sdlHN1dkX0qWKMd",
 "bgi":"ijy6b2frS9rkWGF7UYGRfUPtvoo",
@@ -54,7 +67,7 @@ const movies = [
 "cast":"Chris Evans,Mckenna Grace,Lindsay Duncan,Jenny Slate,Octavia Spencer"
 },
 {
-"title":"Paatal Lok [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"title":"Paatal Lok [All Seasons] WEB-DL [Hindi] | All Episodes",
 "im":"duaaazbB49iKK4TMvekR3fQIVhU",
 "bgi":"lgbMRcbGAbLr6LxF4wi514TpFpj",
 "dl":"https://s.pptons.com/2025/05/paatal-lok.html",

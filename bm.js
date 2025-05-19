@@ -15,7 +15,7 @@ const movies = [
 "cast":"Pedro Pascal,Bella Ramsey,Gabriel Luna,Isabela Merced,Young Mazino"
 },
 {
-"title":"Devils Double Next Level [2025] HD-CAM [Hindi-English] | Full Movie",
+"title":"Devils Double Next Level [2025] HD-CAM [Hindi] | Full Movie",
 "im":"rIkOhREf46L2sdlHN1dkX0qWKMd",
 "bgi":"ijy6b2frS9rkWGF7UYGRfUPtvoo",
 "dl":"https://pixeldrain.net/api/file/R9WPWeoa?download",

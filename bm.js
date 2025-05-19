@@ -3,7 +3,7 @@ const movies = [
 
 
 {
-"title":"The Bhootnii [2025] WEB-DL [Hindi-English] | Full Movie",
+"title":"The Bhootnii [2025] WEB-DL [Hindi] | Full Movie",
 "im":"l92cbxp7GIOQnKjMsSd2HLm10rE",
 "bgi":"qnc4tKS5NrQ61myUoo9vaZl9uuT",
 "dl":"https://pixeldrain.net/api/file/vEEtMWjP?download",

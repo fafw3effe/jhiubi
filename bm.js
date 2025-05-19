@@ -50,7 +50,7 @@ const movies = [
 "duration":"1h per episode",
 "rating":"8.3",
 "genre":"Crime,Drama,",
-"description":"Set in 1980's & 90's Bombay, Scam 1992 follows the life of Harshad Mehta - a stockbroker who single-handedly took the stock market to dizzying heights & his catastrophic downfall. Being directed by National Award-winning filmmaker Hansal Mehta, the series is based on journalist Debashis Basu & Sucheta Dalal's book "The Scam".",
+"description":"Set in 1980's & 90's Bombay, Scam 1992 follows the life of Harshad Mehta - a stockbroker who single-handedly took the stock market to dizzying heights & his catastrophic downfall. Being directed by National Award-winning filmmaker Hansal Mehta, the series is based on journalist Debashis Basu & Sucheta Dalal's book The Scam.",
 "type":"series",
 "cast":"Pratik Gandhi,Shreya Dhanwanthary,Anjali Barot,Hemant Kher,Chirag Vohra"
 },

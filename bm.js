@@ -1,7 +1,19 @@
 // Movies data
 const movies = [
 
-
+{
+"title":"The Last of Us [Season 2] [Episode 6] WEB-DL [Hindi-English] | All Episodes [Season 1 - 2]",
+"im":"dmo6TYuuJgaYinXBPjrgG9mB5od",
+"dl":"https://s.pptons.com/2025/05/the-last-of-us.html",
+"bgi":"lY2DhbA7Hy44fAKddr06UrXWWaQ",
+"year":"2023",
+"duration":"1h",
+"rating":"8.6",
+"genre":"Drama,",
+"description":"Twenty years after modern civilization has been destroyed, Joel, a hardened survivor, is hired to smuggle Ellie, a 14-year-old girl, out of an oppressive quarantine zone. What starts as a small job soon becomes a brutal, heartbreaking journey, as they both must traverse the United States and depend on each other for survival.",
+"type":"series",
+"cast":"Pedro Pascal,Bella Ramsey,Gabriel Luna,Isabela Merced,Young Mazino"
+},
 {
 "title":"The Substance [2024] WEB-DL [English] | Full Movie",
 "im":"evdF1vmLzuzH8EFblqAXBXWRGSi",
@@ -899,19 +911,6 @@ const movies = [
 "description":"India's favourite crime thriller show is back! Abhijeet, Daya and other CID officers, led by ACP Pradyuman, join forces with forensic expert Dr Salunkhe to track down the perpetrators who have committed heinous crimes, using every small clue they can find.",
 "type":"series",
 "cast":"Aditya Srivastava,Shivaji Satham,Dayanand Shetty,Narendra Gupta,Ansha Sayed"
-},
-{
-"title":"The Last of Us [Season 2] [Episode 5] WEB-DL [Hindi-English] | All Episodes [Season 1 - 2]",
-"im":"dmo6TYuuJgaYinXBPjrgG9mB5od",
-"dl":"https://s.pptons.com/2025/05/the-last-of-us.html",
-"bgi":"lY2DhbA7Hy44fAKddr06UrXWWaQ",
-"year":"2023",
-"duration":"1h",
-"rating":"8.6",
-"genre":"Drama,",
-"description":"Twenty years after modern civilization has been destroyed, Joel, a hardened survivor, is hired to smuggle Ellie, a 14-year-old girl, out of an oppressive quarantine zone. What starts as a small job soon becomes a brutal, heartbreaking journey, as they both must traverse the United States and depend on each other for survival.",
-"type":"series",
-"cast":"Pedro Pascal,Bella Ramsey,Gabriel Luna,Isabela Merced,Young Mazino"
 },
 {
 "title":"Sookshmadarshini [2024] WEB-DL [Hindi] | Full Movie",

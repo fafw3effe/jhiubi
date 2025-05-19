@@ -27,6 +27,33 @@ const movies = [
 "type":"series",
 "cast":"Stephen Amell,Lex Scott Davis,Josh McDermitt,Bryan Greenberg,Rachelle Goulding"
 },
+
+{
+"title":"Mirzapur [All Seasons] WEB-DL [Hindi] | All Episodes",
+"im":"p0qM8hhlMF5DuxHBzl2EZR6TehX",
+"bgi":"3dV7pWAdwIPKR2lMIACMfObXdgK",
+"dl":"https://s.pptons.com/2025/05/mirzapur.html",
+"year":"2018",
+"duration":"1h per episode",
+"rating":"8.0",
+"genre":"Crime,Action & Adventure,Drama,",
+"description":"The iron-fisted Akhandanand Tripathi is a millionaire carpet exporter and the mafia don of Mirzapur. His son, Munna, is an unworthy, power-hungry heir who will stop at nothing to inherit his father's legacy. An incident at a wedding procession forces him to cross paths with Ramakant Pandit, an upstanding lawyer, and his sons, Guddu and Bablu. It snowballs into a game of ambition, power and greed that threatens the fabric of this lawless city.",
+"type":"series",
+"cast":"Ali Fazal,Pankaj Tripathi,Shweta Tripathi Sharma,Rasika Dugal,Harshita Gaur"
+},
+{
+"title":"Farzi [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"cTS86RwEBIDgCgUmjWQTSoPsK6p",
+"bgi":"rGkjtv6UdL1ysDmZuBjbNl3PAA1",
+"dl":"https://s.pptons.com/2025/05/farzi.html",
+"year":"2023",
+"duration":"1h per episode",
+"rating":"7.8",
+"genre":"Drama,Crime,",
+"description":"Sunny, a brilliant small-time artist is catapulted into the high-stakes world of counterfeiting when he creates the perfect fake currency note, even as Michael, a fiery, unorthodox task force officer wants to rid the country of the counterfeiting menace. In this thrilling cat-and-mouse race, losing is not an option!",
+"type":"series",
+"cast":"Shahid Kapoor,Vijay Sethupathi,Kay Kay Menon,Bhuvan Arora,Raashii Khanna"
+},
 {
 "title":"Devils Double Next Level [2025] HD-CAM [Hindi] | Full Movie",
 "im":"rIkOhREf46L2sdlHN1dkX0qWKMd",
@@ -935,19 +962,6 @@ const movies = [
 "cast":"Daisuke Ono,Takehito Koyasu,Unsho Ishizuka,Fuminori Komatsu,Daisuke Hirakawa"
 },
 {
-"title":"Suits LA [Season 1] [Episode 12] WEB-DL [Hindi-English]",
-"im":"3hYiNPkcLoI3QWDokOHQJIfn55O",
-"dl":"https://pixeldrain.net/api/file/ZkgjV1wh?download",
-"bgi":"ljAdFwDLQLlOBIwheKmAdcUS0HM",
-"year":"2025",
-"duration":"1h per episode",
-"rating":"7.5",
-"genre":"Drama,",
-"description":"Ted Black, a former federal prosecutor from New York, has reinvented himself representing the most powerful clients in Los Angeles. But his firm is at a crisis point, and in order to survive, he must embrace a role he held in contempt his entire career.",
-"type":"series",
-"cast":"Stephen Amell,Lex Scott Davis,Josh McDermitt,Bryan Greenberg,Maggie Grace"
-},
-{
 "title":"Snow White [2025] WEB-DL [English] | Full Movie",
 "im":"oLxWocqheC8XbXbxqJ3x422j9PW",
 "bgi":"xb9wpY31SeVZbfkevYuolhfV63w",
@@ -1854,20 +1868,6 @@ const movies = [
 "cast":"Aishwarya Rajesh,Aadukalam Naren,Thangapandiyan,Sriranjini,Kavitha Bharathi"
 },
 {
-"title":"Suits LA [Season 1] [Episode 11] WEB-DL [Hindi-English]",
-"im":"3hYiNPkcLoI3QWDokOHQJIfn55O",
-"bgi":"ljAdFwDLQLlOBIwheKmAdcUS0HM",
-"dl":"https://pixeldrain.net/api/file/WQniLexs?download",
-"year":"2025",
-"duration":"1h per episode",
-"rating":"7.7",
-"genre":"Drama,",
-"description":"Ted Black, a former federal prosecutor from New York, has reinvented himself representing the most powerful clients in Los Angeles. But his firm is at a crisis point, and in order to survive, he must embrace a role he held in contempt his entire career.",
-"type":"series",
-"quality":"web-dl",
-"cast":"Stephen Amell,Lex Scott Davis,Josh McDermitt,Bryan Greenberg,Maggie Grace"
-},
-{
 "title":"Inside Man: Most Wanted [2019] WEB-DL [Hindi-English] | Full Movie",
 "im":"zcDZisqVQK9akfKgyrB9HYzYuVh",
 "bgi":"OvMX5sgJ0vLmKQbIiS5yy7jn5H",
@@ -2404,20 +2404,6 @@ const movies = [
 "quality":"blu-Ray"
 },
 {
-"title":"Suits LA [Season 1] [Episode 10] WEB-DL [Hindi-English]",
-"im":"3hYiNPkcLoI3QWDokOHQJIfn55O",
-"bgi":"ezQtyu9WD2MBW96awZqOY3pktX1",
-"dl":"https://pixeldrain.net/api/file/xqSReDbN?download",
-"link":"tt31122751",
-"year":"2025",
-"duration":"50 min",
-"rating":"8.2",
-"genre":"Drama, Legal",
-"description":"In the season finale, the legal team faces their biggest challenge yet, with high stakes and personal conflicts as they navigate their careers and relationships.",
-"type":"series",
-"quality":"web-dl"
-},
-{
 "title":"Tuk Tuk [2025] Blu-Ray [Hindi-Telugu] | Full Movie",
 "im":"AsUsLOZBMpb6zqofvt7yxcbJVEJ",
 "bgi":"ebH3EsvMF06KSjlKxZcCvGydvBH",
@@ -2787,19 +2773,6 @@ const movies = [
 "description":"The first season of Panchayat follows Abhishek, an urban graduate, as he adjusts to his new role in a rural village. A comedy-drama about relationships, humor, and life lessons.",
 "type":"series",
 "quality":"webdl hevc"
-},
-{
-"title":"Suits LA [Season 1] [Episode 9] WEB-DL [Hindi-English]",
-"im":"3hYiNPkcLoI3QWDokOHQJIfn55O",
-"dl":"https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Suits.L.A.S01E09.720p.WEB.DL.Hindi.2.0.English.5.1.ESub.x264.HDHub4u.Ms.mkv",
-"link":"tt31122751",
-"year":"2025",
-"duration":"45 min",
-"rating":"8.1",
-"genre":"Drama, Legal",
-"description":"The 9th episode of Suits LA season 1 showcases intense legal battles and personal conflicts as the legal team tries to navigate through high-stakes cases and their complicated relationships.",
-"type":"series",
-"quality":"web-dl"
 },
 {
 "title":"Disco Raja [2020] WEB-DL UNCUT [Hindi - HQ/Studio Dub] [HEVC] | Full Movie",
@@ -3565,21 +3538,6 @@ const movies = [
 "quality":"web-dl"
 },
 {
-"title":"Mirzapur [Season 3] [All Episodes] WEB-DL [Hindi] [HEVC] | Full Series",
-"im":"7CFdq8M9ZuP1QRLaBG2ExdcrCBs",
-"dl":"https://vcloud.lol/waug3iovaa1wma1",
-"link":"tt6473300",
-"year":"2025",
-"duration":"60 min per episode",
-"rating":"8.4",
-"genre":"Crime, Thriller, Drama",
-"description":"Set in the lawless city of Mirzapur, this gripping series follows the rise of the criminal empire and the power struggles between rival gangs.",
-"cast":"Pankaj Tripathi, Ali Fazal, Vikrant Massey",
-"type":"series",
-"quality":"web-dl"
-},
- 
-{
 "title":"A Silent Voice [2016] WEB-DL [Hindi-English] | Full Movie",
 "im":"6L78T9PrdShYeKR43GlFNfQuVXP",
 "bgi":"eEog93Ca6E0siobDyNcplwc5ooR",
@@ -3800,19 +3758,6 @@ const movies = [
 "quality":"web-dl",
 "cast":"Vijay,Keerthy Suresh,Varalaxmi Sarathkumar,Prem,Yogi Babu"
 },
-{
- title:'Suits LA [Episode 8] (Season 1) WEB-DL [Hindi (ORG 2.0) & English] | NBC Series',
- im:'3hYiNPkcLoI3QWDokOHQJIfn55O',
- dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Suits.L.A.S01E08.720p.WEB-DL.Hindi.2.0-English.5.1.ESub.x264-HDHub4u.Ms.mkv',
-"bgi":"ljAdFwDLQLlOBIwheKmAdcUS0HM",
-"year":"2025",
-"duration":"1h per episode",
-"rating":"7.5",
-"genre":"Drama,",
-"description":"Ted Black, a former federal prosecutor from New York, has reinvented himself representing the most powerful clients in Los Angeles. But his firm is at a crisis point, and in order to survive, he must embrace a role he held in contempt his entire career.",
-"type":"series",
-"cast":"Stephen Amell,Lex Scott Davis,Josh McDermitt,Bryan Greenberg,Maggie Grace"},
- 
 {
 "title":"Pushpa 2: The Rule RELOADED [2024] WEB-DL [Hindi [ORG 5.1] & Telugu] [HEVC] | Full Movie [NETFLiX]",
 "im":"gpNcQfQ4YGtFwEcrjcK9HxVM2KF",

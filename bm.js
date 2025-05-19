@@ -14,6 +14,46 @@ const movies = [
 "type":"series",
 "cast":"Pedro Pascal,Bella Ramsey,Gabriel Luna,Isabela Merced,Young Mazino"
 },
+
+{
+"title":"Dear Hongrang [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"mWGil4jL1jaCoZkZuaNThh0aoVC",
+"bgi":"eElF5eTwJyXh6hFEFa8LDMEmnHz",
+"dl":"https://s.pptons.com/2025/05/dear-hongrang.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"9.0",
+"genre":"Drama,Mystery,",
+"description":"When a long-missing heir returns with lost memories, love and suspicion entwine. Is he truly Hongrang, or a stranger disturbing hearts and family ties?",
+"type":"series",
+"cast":"Lee Jae-wook,Cho Bo-ah,Jung Ga-ram,Uhm Ji-won,Park Byung-eun"
+},
+{
+"title":"The Unbreakable Boy [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"ob1cuQzzggELGtWx5TchixKsBVn",
+"bgi":"w93509Dz3Cq5hwlQ1UE9IpTNV5T",
+"dl":"https://pixeldrain.net/api/file/hi3jAPwz?download",
+"year":"2025",
+"duration":"1h 48m",
+"rating":"7.4",
+"genre":"Family,Drama,",
+"description":"When Scott and Teresa LeRette learn that their son Austin is both autistic and has brittle bone disease, they initially worry for their son’s future. But with Scott’s growing faith and Austin’s incredible spirit, they become 'unbreakable', finding joy, gratitude, and courage even in the most trying times.",
+"type":"movie",
+"cast":"Zachary Levi,Meghann Fahy,Jacob Laval,Drew Powell,Gavin Warren"
+},
+{
+"title":"Spotlight [2015] Blu-Ray [Hindi-English] | Full Movie",
+"im":"8DPGG400FgaFWaqcv11n8mRd2NG",
+"bgi":"hTYZ9tPvRZrL3rSf0tB38r53IG",
+"dl":"https://pixeldrain.net/api/file/x8PqbYCE?download",
+"year":"2015",
+"duration":"2h 9m",
+"rating":"7.8",
+"genre":"Drama,History,",
+"description":"The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.",
+"type":"movie",
+"cast":"Mark Ruffalo,Michael Keaton,Rachel McAdams,Liev Schreiber,John Slattery"
+},
 {
 "title":"The Substance [2024] WEB-DL [English] | Full Movie",
 "im":"evdF1vmLzuzH8EFblqAXBXWRGSi",

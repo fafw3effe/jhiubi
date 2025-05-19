@@ -28,6 +28,19 @@ const movies = [
 "cast":"Santhanam,Selvaraghavan,Geethika Tiwary,Gautham Vasudev Menon,Rajendran"
 },
 {
+"title":"Gifted [2017] WEB-DL [Hindi-English] | Full Movie",
+"im":"7YB2YrMwIm1g8FyZtlvmVDfRnAT",
+"bgi":"gYtXT7fJNBRZBbBulO11DoRveLT",
+"dl":"https://pixeldrain.net/api/file/UmRpQnu8?download",
+"year":"2017",
+"duration":"1h 41m",
+"rating":"8.0",
+"genre":"Drama,Comedy,",
+"description":"Frank, a single man raising his child prodigy niece Mary, is drawn into a custody battle with his mother.",
+"type":"movie",
+"cast":"Chris Evans,Mckenna Grace,Lindsay Duncan,Jenny Slate,Octavia Spencer"
+},
+{
 "title":"Paatal Lok [Season 1] WEB-DL [Hindi-English] | All Episodes",
 "im":"duaaazbB49iKK4TMvekR3fQIVhU",
 "bgi":"lgbMRcbGAbLr6LxF4wi514TpFpj",

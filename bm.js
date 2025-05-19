@@ -15,6 +15,19 @@ const movies = [
 "cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
 {
+"title":"Oppenheimer [2023] IMAX Blu-Ray [Hindi-English] | Full Movie",
+"im":"8Gxv8gSFCU0XGDykEGv7zR1n2ua",
+"bgi":"neeNHeXjMF5fXoCJRsOmkNGC7q",
+"dl":"https://pixeldrain.net/api/file/QMy7pxH5?download",
+"year":"2023",
+"duration":"3h 1m",
+"rating":"8.1",
+"genre":"Drama,History,",
+"description":"The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+"type":"movie",
+"cast":"Cillian Murphy,Emily Blunt,Matt Damon,Robert Downey Jr.,Florence Pugh"
+},
+{
 "title":"The Bhootnii [2025] WEB-DL [Hindi] | Full Movie",
 "im":"l92cbxp7GIOQnKjMsSd2HLm10rE",
 "bgi":"qnc4tKS5NrQ61myUoo9vaZl9uuT",

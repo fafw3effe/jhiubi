@@ -4296,7 +4296,7 @@ const movies = [
 {
 "title":"Emmanuelle [2024] Blu-Ray [Hindi-English] [HEVC] | Full Movie",
 "im":"s9gmKus9YPTDzdMKZQJYPh0VoGk",
-"dl":"https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Emmanuelle.2024.720p.10Bit.Blu-Ray.Hindi.2.0-English.HEVC.x265-HDHub4u.Ms.mkv",
+"dl":"https://pixeldrain.net/api/file/mV1f3CZo?download",
 "link":"tt20247888",
 "year":"2024",
 "duration":"110 min",

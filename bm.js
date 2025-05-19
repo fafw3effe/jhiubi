@@ -29,6 +29,19 @@ const movies = [
 },
 
 {
+"title":"Scam 1992: The Harshad Mehta Story [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"fiimZ9Xt5cPTPHNrbS4QautBXpU",
+"bgi":"tTYP1npvBU90NthceezScfXGiOl",
+"dl":"https://s.pptons.com/2025/05/scam-1992-harshad-mehta-story.html",
+"year":"2020",
+"duration":"1h per episode",
+"rating":"8.3",
+"genre":"Crime,Drama,",
+"description":"Set in 1980's & 90's Bombay, Scam 1992 follows the life of Harshad Mehta - a stockbroker who single-handedly took the stock market to dizzying heights & his catastrophic downfall. Being directed by National Award-winning filmmaker Hansal Mehta, the series is based on journalist Debashis Basu & Sucheta Dalal's book "The Scam".",
+"type":"series",
+"cast":"Pratik Gandhi,Shreya Dhanwanthary,Anjali Barot,Hemant Kher,Chirag Vohra"
+},
+{
 "title":"Mirzapur [All Seasons] WEB-DL [Hindi] | All Episodes",
 "im":"p0qM8hhlMF5DuxHBzl2EZR6TehX",
 "bgi":"3dV7pWAdwIPKR2lMIACMfObXdgK",

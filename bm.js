@@ -2,7 +2,7 @@
 const movies = [
 
 {
-"title":"The Last of Us [Season 2] [Episode 6] WEB-DL [Hindi-English] | All Episodes [Season 1 - 2]",
+"title":"The Last of Us [Season 2] [Episode 6] WEB-DL [Hindi-English] | All Episodes [Season 1]",
 "im":"dmo6TYuuJgaYinXBPjrgG9mB5od",
 "dl":"https://s.pptons.com/2025/05/the-last-of-us.html",
 "bgi":"lY2DhbA7Hy44fAKddr06UrXWWaQ",

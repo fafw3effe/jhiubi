@@ -3796,7 +3796,7 @@ const movies = [
 },
  
 {
-"title":"I [2015] UNCUT [Hindi-Tamil] | Full Movie",
+"title":"I [2015] UNCUT WEB-DL [Hindi-Tamil] | Full Movie",
 "im":"p3VfrFVUmR9A8NFeXPxg9pFYdpv",
 "bgi":"sg3ZE3N6fgBueQWQnxK5fP4XhCj",
 "dl":"https://pixeldrain.net/api/file/abyC4XFZ?download",
@@ -3806,7 +3806,6 @@ const movies = [
 "genre":"Thriller,Action,Romance",
 "description":"A deformed hunchback kidnaps a bride and holds her hostage while his connection to her and his targets is revealed in a series of flashbacks that unfold as he starts seeking revenge.",
 "type":"movie",
-"quality":"web-dl",
 "cast":"Vikram,Amy Jackson,Suresh Gopi,Upen Patel,Ramkumar Ganesan"
 },
 {

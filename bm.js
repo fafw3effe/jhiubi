@@ -16,6 +16,32 @@ const movies = [
 },
 
 {
+"title":"Khakee: The Bengal Chapter [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"fasJ27kLhHdzF9cBDq0vGXFVkvI",
+"bgi":"4dJ9dGk15VFyJVZMTWOyzuCk4a3",
+"dl":"https://s.pptons.com/2025/05/khakee.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"8.4",
+"genre":"Drama,Crime,",
+"description":"When upright cop Arjun Maitra takes on Kolkata's feared don Bagha and his henchmen, he must battle a broken system and navigate bloody gang wars.",
+"type":"series",
+"cast":"Jeet,Prosenjit Chatterjee,Chitrangda Singh,Ritwik Bhowmik,Aadil Khan"
+},
+{
+"title":"Dabba Cartel [Season 1] WEB-DL [Hindi] | All Episodes",
+"im":"ezT0x7ZdAjrR5mFtkNjWxOFcTIB",
+"bgi":"fmb8QgBVSx1lgKHbas3FNtZ9f5S",
+"dl":"https://s.pptons.com/2025/05/dabba-cartel.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"6.8",
+"genre":"Crime,Drama,",
+"description":"When an investigation into a pharma company hits close to home, five women launch a tiffin service with a secret ingredient.",
+"type":"series",
+"cast":"Shabana Azmi,Sai Tamhankar,Jyothika,Nimisha Sajayan,Shalini Pandey"
+},
+{
 "title":"Weak Hero [All Seasons] WEB-DL [Hindi-English] | All Episodes",
 "im":"5Sd01WeraL2oA3Vv6O4rcRxockn",
 "bgi":"cLTAda6fMRirkCY1xfO4pmcHVkk",

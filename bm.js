@@ -16,6 +16,32 @@ const movies = [
 },
 
 {
+"title":"Havoc [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"r46leE6PSzLR3pnVzaxx5Q30yUF",
+"bgi":"65MVgDa6YjSdqzh7YOA04mYkioo",
+"dl":"https://pixeldrain.net/api/file/fcks5q3y?download",
+"year":"2025",
+"duration":"1h 47m",
+"rating":"6.5",
+"genre":"Action,Crime,Thriller,",
+"description":"When a drug heist swerves lethally out of control, a jaded cop fights his way through a corrupt city's criminal underworld to save a politician's son.",
+"type":"movie",
+"cast":"Tom Hardy,Jessie Mei Li,Timothy Olyphant,Forest Whitaker,Justin Cornwell"
+},
+{
+"title":"Migration [2023] WEB-DL [Hindi-English] | Full Movie",
+"im":"dpXxBDi0ut5svjh5fbAqLoaJSq8",
+"bgi":"gklkxY0veMajdCiGe6ggsh07VG2",
+"dl":"https://pixeldrain.net/api/file/noLYCrAM?download",
+"year":"2023",
+"duration":"1h 23m",
+"rating":"7.4",
+"genre":"Animation,Adventure,Comedy,Family,",
+"description":"After a migrating duck family alights on their pond with thrilling tales of far-flung places, the Mallard family embarks on a family road trip, from New England, to New York City, to tropical Jamaica.",
+"type":"movie",
+"cast":"Kumail Nanjiani,Elizabeth Banks,Caspar Jennings,Tresi Gazal,Awkwafina"
+},
+{
 "title":"Chhaava [2025] WEB-DL [Hindi] | Full Movie",
 "im":"ubRsrzb6NRW8YhVTJ6jG1kpNvCi",
 "bgi":"s37s21YPqS7txyB0x0TRel24vgi",
@@ -2732,19 +2758,6 @@ const movies = [
 "description":"The life of a young girl, Ayyana, who struggles with societal norms, family pressure, and her dreams, unfolds in a gripping story of resilience and hope.",
 "type":"series",
 "quality":"web-dl"
-},
-{
-"title":"Havoc [2025] WEB-DL [Hindi-English] [HEVC] | Full Movie",
-"im":"r46leE6PSzLR3pnVzaxx5Q30yUF",
-"dl":"https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Havoc.2025.720p.10Bit.WEB-DL.Hindi.5.1-English.HEVC.x265-HDHub4u.Ms.mkv",
-"link":"tt14123284",
-"year":"2025",
-"duration":"130 min",
-"rating":"7.6",
-"genre":"Action, Drama, Thriller",
-"description":"A former special forces operative seeks revenge on those who destroyed his life, finding himself caught in a web of corruption and violent confrontations.",
-"type":"movie",
-"quality":"webdl hevc"
 },
 {
 "title":"Ash [2025] WEB-DL [Hindi-English] [HEVC] | Full Movie",

@@ -15,6 +15,19 @@ const movies = [
 "cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
 {
+"title":"Crayon Shin-chan: Roar! Kasukabe Animal Kingdom [2009] WEB-DL [Hindi-English] | Full Movie",
+"im":"w0SeTVkKOniXbCeTxE3XVQ7JtQ5",
+"bgi":"qU40JRrV7r4QrOJkpBFo7sJjrTe",
+"dl":"https://pixeldrain.net/api/file/VvtXwQx2?download",
+"year":"2009",
+"duration":"1h 37m",
+"rating":"6.9",
+"genre":"Animation,Comedy,",
+"description":"Shin-chan's parents have turned into animals, and environmental extremists are to blame! Shin-chan's going to have to put things right.",
+"type":"movie",
+"cast":"Akiko Yajima,Miki Narahashi,Keiji Fujiwara,Satomi Korogi,Mari Mashiba"
+},
+{
 "title":"The Royals [Season 1] WEB-DL [Hindi] | All Episodes",
 "im":"nnD4364ToXZwDpFWEnY94xzykIs",
 "dl":"https://s.pptons.com/2025/05/the-royals.html",

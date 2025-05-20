@@ -16,6 +16,19 @@ const movies = [
 },
 
 {
+"title":"Kabhi Alvida Naa Kehna [2006] WEB-DL [Hindi-English] | Full Movie",
+"im":"dkYQgRPuik4FGIUdGGVYGQJWrHa",
+"bgi":"xXABOEnWAtsGmlAhxWbgObWkkt9",
+"dl":"https://pixeldrain.net/api/file/S525iZ7k?download",
+"year":"2006",
+"duration":"3h 13m",
+"rating":"6.4",
+"genre":"Drama,Romance,",
+"description":"Dev and Maya are both married to different people. Settled into a life of domestic ritual, and convinced that they are happy in their respective relationships, they still yearn for something deeper and more meaningful, which is precisely what they find in each other.",
+"type":"movie",
+"cast":"Shah Rukh Khan,Rani Mukerji,Abhishek Bachchan,Preity Zinta,Amitabh Bachchan"
+},
+{
 "title":"Hum Tum [2004] WEB-DL [Hindi-English] | Full Movie",
 "im":"b3EQDeg0eQhw1SSzX6msU3yQJ8U",
 "bgi":"fGxaC8xYB8xc33sGGzZfFM3nPq2",

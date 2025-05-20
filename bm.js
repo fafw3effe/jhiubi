@@ -16,6 +16,19 @@ const movies = [
 },
 
 {
+"title":"You [Season 5] WEB-DL [Hindi-English] | All Episodes",
+"im":"oANi0vEE92nuijiZQgPZ88FSxqQ",
+"bgi":"lTySSn1rE10KzYEC9UqJGdos5Vp",
+"dl":"https://s.pptons.com/2025/05/you.html",
+"year":"2018",
+"duration":"1h per episode",
+"rating":"8.0",
+"genre":"Crime,",
+"description":"A dangerously charming, intensely obsessive young man goes to extreme measures to insert himself into the lives of those he is transfixed by.",
+"type":"series",
+"cast":"Penn Badgley,Victoria Pedretti,Charlotte Ritchie,Saffron Burrows,Elizabeth Lail"
+},
+{
 "title":"The Four Seasons [Season 1] WEB-DL [Hindi-English] | All Episodes",
 "im":"w09XeYl096pwES8riRMZwEA9rnh",
 "bgi":"nyE3Xw5f775yukAUT6Z6AZx1z4U",
@@ -2834,19 +2847,6 @@ const movies = [
 "genre":"Action, Thriller",
 "description":"A retired assassin must face his past when his former enemies come after him. With his life on the line, he must navigate treacherous alliances and deadly encounters.",
 "type":"movie",
-"quality":"webdl hevc"
-},
-{
-"title":"You [Season 5] WEB-DL [Hindi-English] [HEVC] | All Episodes",
-"im":"vzgsobZmNxJyJ64ejTOUXvJ9UBn",
-"dl":"http://qwrqwrqwr.rf.gd/a/a.php?pd=RjT9BADy&sn=6&es=YOU.S05.720p.10Bit.HEVC.WEB-DL.Hindi.5.1-English.5.1.ESub.x265-HDHub4u.Ms/You.S05E&e=10&el=..720p.10Bit.HEVC.WEB-DL.Hindi.5.1-English.5.1.ESub.x265-HDHub4u.Ms.mkv",
-"link":"tt7335184",
-"year":"2025",
-"duration":"45 min per episode",
-"rating":"8.5",
-"genre":"Drama, Thriller, Crime",
-"description":"In the fifth season, Joe Goldberg grapples with his obsession with love and control, facing darker consequences as he delves deeper into dangerous relationships.",
-"type":"series",
 "quality":"webdl hevc"
 },
 {

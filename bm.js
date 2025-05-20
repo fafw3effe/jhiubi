@@ -14,6 +14,20 @@ const movies = [
 "type":"series",
 "cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
+
+{
+"title":"My Girlfriend is an Alien [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"sOtUZ34xeQiEZh6n0tC8vkaTNQF",
+"bgi":"zW7Z7xniks8aQ2BViwF2o2ZOHec",
+"dl":"https://s.pptons.com/2025/05/my-girlfriend-is-alien.html",
+"year":"2019",
+"duration":"1h per episode",
+"rating":"7.8",
+"genre":"Comedy,Sci-Fi & Fantasy,",
+"description":"The alien girl Chai Xiaoqi tells the story of Fang Xiaoqi, the overbearing president of the alien girl who died from the "Cape Town Planet", who was suffering from the "rainy weather heterosexual amnesia". A high-energy hilarious and romantic cross-star love story. The female host Chai Xiaoqi is not only an alien, but also a true-handed witch. Once she inhales the hormones emitted by the males in the earth, she will fall into the "flowery state" and suffer from various diseases. The fun and ridiculously ridiculous romance will restore the singularity of the girl in the perfection of the girl. In order to survive on the human earth, Chai Xiaoqi will use his various super powers to solve one accident after another, like a roller coaster. The ups and downs will make the audience hooked. The male lord is cold and is an alternative overbearing president.",
+"type":"series",
+"cast":"Wan Peng,Thassapak Hsu,Wang Youjun,Zhang Meng,Ashin Shu"
+},
 {
 "title":"R.I.P.D. [2013] WEB-DL [Hindi-English] | Full Movie",
 "im":"rS0kByPD4YF8pQ85KjzMdGiu7Xf",
@@ -174,7 +188,7 @@ const movies = [
 "title":"I Want to Eat Your Pancreas [2018] WEB-DL [Hindi-English] | Full Movie",
 "im":"qDWA7fB4cZ4sBP6YgwlxvraDHi7",
 "bgi":"YLyORLsYIjC0d1TFBSpJKk7piP",
-"dl":"https://new7.gdflix.dad/file/POms7o7msVGmrZj",
+"dl":"https://pixeldrain.net/api/file/NLxA4HSF?download",
 "year":"2018",
 "duration":"1h 48m",
 "rating":"8.2",
@@ -187,7 +201,7 @@ const movies = [
 "title":"The Garden of Words [2013] WEB-DL [Hindi-English] | Full Movie",
 "im":"mXUCVq3HMtS4Y9IQ8vmEOPyN0vH",
 "bgi":"qMNmdJG0WFNXcI6hfZMQH0geHc5",
-"dl":"https://new7.gdflix.dad/file/4GJHUv36rLSVP1x",
+"dl":"https://pixeldrain.net/api/file/5oL9yWUz?download",
 "year":"2013",
 "duration":"46m",
 "rating":"7.6",

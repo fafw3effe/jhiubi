@@ -16,7 +16,7 @@ const movies = [
 },
 
 {
-"title":"You [Season 5] WEB-DL [Hindi-English] | All Episodes",
+"title":"You [All Seasons] WEB-DL [Hindi-English] | All Episodes",
 "im":"oANi0vEE92nuijiZQgPZ88FSxqQ",
 "bgi":"lTySSn1rE10KzYEC9UqJGdos5Vp",
 "dl":"https://s.pptons.com/2025/05/you.html",

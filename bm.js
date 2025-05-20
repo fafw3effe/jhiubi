@@ -14,6 +14,59 @@ const movies = [
 "type":"series",
 "cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
+
+{
+"title":"Chhaava [2025] WEB-DL [Hindi] | Full Movie",
+"im":"ubRsrzb6NRW8YhVTJ6jG1kpNvCi",
+"bgi":"s37s21YPqS7txyB0x0TRel24vgi",
+"dl":"https://pixeldrain.net/api/file/AXE6fEPr?download",
+"year":"2025",
+"duration":"2h 41m",
+"rating":"6.6",
+"genre":"History,Action,Drama,",
+"description":"Shivaji's death sparks the Maratha-Mughal conflict. His son Sambhaji leads resistance against Aurangzeb's forces. Amid battles and intrigue, both sides face challenges in a struggle for power.",
+"type":"movie",
+"cast":"Vicky Kaushal,Rashmika Mandanna,Akshaye Khanna,Ashutosh Rana,Divya Dutta"
+},
+{
+"title":"Mad Square [2025] WEB-DL [Hindi-Telugu] | Full Movie",
+"im":"zC5QC3F6KQEeq5GAydzkOZnOPZD",
+"bgi":"sWVYLXD69FCfYg443SEnuWeQJD7",
+"dl":"https://pixeldrain.net/api/file/dNRy7nqL?download",
+"year":"2025",
+"duration":"2h 7m",
+"rating":"7.0",
+"genre":"Drama,Romance,Comedy,",
+"description":"Mad Square, serving as a sequel to the 2023 hit Mad. This installment continues the adventures of college friends Ashok, DD, and Manoj as they embark on a trip to Goa, leading to a series of humorous and unpredictable events.",
+"type":"movie",
+"cast":"Sangeeth Shobhan,Narne Nithin,Ram Nithin,Vishnu Oi,Muralidhar Goud"
+},
+{
+"title":"Court: State vs. A Nobody [2025] WEB-DL [Hindi-Telugu] | Full Movie",
+"im":"4pEX67LJd7ZIqYWtksBtOgQEGcQ",
+"bgi":"efMmUfbqfMTtheqjcWiHDtxcXbA",
+"dl":"https://pixeldrain.net/api/file/JSyRPaM7?download",
+"year":"2025",
+"duration":"2h 29m",
+"rating":"7.2",
+"genre":"Drama,Romance,Crime,",
+"description":"A determined lawyer takes on a high-stakes case to defend a 19-year-old boy, challenging a system that has already branded him guilty.",
+"type":"movie",
+"cast":"Priyadarshi Pullikonda,Harsh Roshan,Sridevi,Sivaji Sontineni,Sai Kumar"
+},
+{
+"title":"Exterritorial [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"jM2uqCZNKbiyStyzXOERpMqAbdx",
+"bgi":"bVm6udIB6iKsRqgMdQh6HywuEBj",
+"dl":"https://pixeldrain.net/api/file/3McXBwnJ?download",
+"year":"2025",
+"duration":"1h 49m",
+"rating":"6.6",
+"genre":"Thriller,Action,",
+"description":"When her son vanishes inside a US consulate, ex-special forces soldier Sara does everything in her power to find him — and uncovers a dark conspiracy.",
+"type":"movie",
+"cast":"Jeanne Goursaud,Dougray Scott,Lera Abova,Emanuel Fellmer,Annabelle Mandeng"
+},
 {
 "title":"Motorheads [Season 1] WEB-DL [Hindi-English] | All Episodes",
 "im":"jglGmYMPEiHD7tVncvif7WtCOBJ",
@@ -2707,19 +2760,6 @@ const movies = [
 "quality":"webdl hevc"
 },
 {
-"title":"Mad Square [2025] WEB-DL [Hindi] [HEVC] | Full Movie",
-"im":"lpDIBzzkyFoDqWTh46OqUEuGVxS",
-"dl":"https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Mad.Square.2025.720p.HEVC.WEB-DL.Hindi.5.1-Telugu.ESub.x265-HDHub4u.Ms.mkv",
-"link":"tt32327574",
-"year":"2025",
-"duration":"110 min",
-"rating":"6.8",
-"genre":"Action, Mystery, Drama",
-"description":"In a world of corruption and conspiracy, a man must navigate through a series of challenges that test his sanity and determination.",
-"type":"movie",
-"quality":"webdl hevc"
-},
-{
 "title":"Absolution [2024] WEB-DL [Hindi] [HEVC] | Full Movie",
 "im":"gt70JOD9xsPlpJnuBJAWdOT4yRg",
 "dl":"https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Absolution.2024.720p.10Bit.Blu-Ray.Hindi.2.0-English.HEVC.x265-HDHub4u.Ms.mkv",
@@ -4390,20 +4430,6 @@ const movies = [
 "cast":"Sylvia Kristel, Alain Cuny, Dorothée Jemma"
 },
 {
-"title":"Court - State Vs. A Nobody (2025) WEB-DL [Hindi (DD5.1) & Telugu] [HEVC] | Full Movie",
-"im":"4pEX67LJd7ZIqYWtksBtOgQEGcQ",
-"dl":"https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Court.State.vs.A.Nobody.2025.720p.HEVC.WEB-DL.Hindi-Telugu.ESub.x265-HDHub4u.Ms.mkv",
-"link":"tt33307144",
-"year":"2025",
-"duration":"120 min",
-"rating":"7.0",
-"genre":"Drama",
-"description":"A courtroom drama that examines the conflict between the state and an ordinary individual caught in a legal battle, showcasing the complexities of justice in the modern world.",
-"type":"movie",
-"quality":"web-dl",
-"cast":"Rajeev Khandelwal, Suman Kumar, Arvind Pandey"
-},
-{
 "title":"Sweetheart! (2025) WEB-DL [Hindi (DD5.1) & Tamil] [HEVC] | Full Movie",
 "im":"sqjWneziflHuKeupBmNJStgTcJQ",
 "dl":"https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Sweetheart.2025.720p.HEVC.WEB-DL.Hindi.5.1-Tamil.ESub.x265-HDHub4u.Ms.mkv",
@@ -4417,21 +4443,6 @@ const movies = [
 "quality":"web-dl",
 "cast":"Siddharth, Ananya Panday, Vijay Sethupathi"
 },
-{
-"title":"Chhaava (2025) WEB-DL [Hindi DD5.1] | Full Movie [Netflix]",
-"im":"7AeohlqamcLL1diMusV28eTngvg",
-"dl":"https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Chhaava.2025.DS4K.720p.HEVC.Hindi.WEB.DL.ESub.x265.HDHub4u.Ms.mkv",
-"link":"tt27922706",
-"year":"2025",
-"duration":"125 min",
-"rating":"8.0",
-"genre":"Action, Drama, Thriller",
-"description":"In a world full of vengeance and betrayal, a skilled warrior seeks justice for the loss of his loved ones, challenging powerful enemies in his path.",
-"type":"movie",
-"quality":"web-dl",
-"cast":"Raghubir Yadav, Manoj Bajpayee, Anil Kapoor"
-},
- 
 {
 "title":"Hulk [2003] Blu-Ray [Hindi-English] | Full Movie",
 "im":"qnngKqAcqfH2pBxDoKu5lxzSbTo",

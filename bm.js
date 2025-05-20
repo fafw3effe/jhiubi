@@ -122,7 +122,7 @@ const movies = [
 "title":"Wolf Children [2012] WEB-DL [Hindi-English] | Full Movie",
 "im":"3Nllh6JgcrFdtOn6iFOWHudNInd",
 "bgi":"Aa7iOVpdLgtwwtKXN6AfBQ57iHj",
-"dl":"https://new7.gdflix.dad/file/ZnN4k0vutqzxmjP",
+"dl":"https://pixeldrain.net/api/file/MZFUnkHs?download",
 "year":"2012",
 "duration":"1h 57m",
 "rating":"8.2",

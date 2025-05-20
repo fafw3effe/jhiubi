@@ -16,6 +16,32 @@ const movies = [
 },
 
 {
+"title":"Deva [2025] WEB-DL [Hindi] | Full Movie",
+"im":"2JthNUcRU89h9M6k3yQxLkACEJQ",
+"bgi":"lqHt4icP1GTaNBeVTxTrwTZdoAW",
+"dl":"https://pixeldrain.net/api/file/WP3K3z3J?download",
+"year":"2025",
+"duration":"2h 35m",
+"rating":"5.9",
+"genre":"Action,Thriller,Mystery,Crime,",
+"description":"Dev Ambre, a ruthless cop, loses his memory in an accident just after he has finished solving a murder case and now has to reinvestigate it while keeping his memory loss a secret from everyone except DCP Farhan Khan.",
+"type":"movie",
+"cast":"Shahid Kapoor,Pooja Hegde,Pavail Gulati,Pravessh Rana,Girish Kulkarni"
+},
+{
+"title":"Stardust [2007] WEB-DL [Hindi-English] | Full Movie",
+"im":"7zbFmxy3DqKYL2M8Hop6uylp2Uy",
+"bgi":"x2LTysjFSpeK0d40zHw6Lqd4oAH",
+"dl":"https://pixeldrain.net/api/file/nvXSzWZ2?download",
+"year":"2007",
+"duration":"2h 7m",
+"rating":"7.3",
+"genre":"Adventure,Fantasy,Romance,Family,",
+"description":"In a countryside town bordering on a magical land, a young man makes a promise to his beloved that he'll retrieve a fallen star by venturing into the magical realm. His journey takes him into a world beyond his wildest dreams and reveals his true identity.",
+"type":"movie",
+"cast":"Charlie Cox,Claire Danes,Michelle Pfeiffer,Mark Strong,Jason Flemyng"
+},
+{
 "title":"Havoc [2025] WEB-DL [Hindi-English] | Full Movie",
 "im":"r46leE6PSzLR3pnVzaxx5Q30yUF",
 "bgi":"65MVgDa6YjSdqzh7YOA04mYkioo",
@@ -3480,20 +3506,6 @@ const movies = [
 "type":"movie",
 "quality":"web-dl",
 "cast":"Akshay Kumar,Veer Pahariya,Nimrat Kaur,Sara Ali Khan,Sharad Kelkar"
-},
-{
-"title":"Deva [2025] WEB-DL [Hindi] [HEVC] | Full Movie",
-"im":"qxtXzAlEPxmjHILU8k8wduvBSdo",
-"bgi":"lqHt4icP1GTaNBeVTxTrwTZdoAW",
-"dl":"https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Deva.2025.720p.HEVC.Hindi.WEB-DL.5.1.ESub.x265-Vegamovies.is.mkv",
-"year":"2025",
-"duration":"2h 35m",
-"rating":"6.0",
-"genre":"Action,Thriller,Mystery,Crime",
-"description":"Dev Ambre, a ruthless cop, loses his memory in an accident just after he has finished solving a murder case and now has to reinvestigate it while keeping his memory loss a secret from everyone except DCP Farhan Khan.",
-"type":"movie",
-"quality":"web-dl",
-"cast":"Shahid Kapoor,Pooja Hegde,Pavail Gulati,Pravessh Rana,Girish Kulkarni"
 },
 {
 "title":"Fast and Furious - F9: The Fast Saga [2021] Blu-Ray [Directors Cut] [Hindi-English] | Full Movie",

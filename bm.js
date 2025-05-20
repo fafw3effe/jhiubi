@@ -16,6 +16,19 @@ const movies = [
 },
 
 {
+"title":"Weak Hero [All Seasons] WEB-DL [Hindi-English] | All Episodes",
+"im":"xRw3akJQdfgqx0x4fiHW7nIkEUJ",
+"bgi":"cLTAda6fMRirkCY1xfO4pmcHVkk",
+"dl":"https://s.pptons.com/2025/05/weak-hero.html",
+"year":"2022",
+"duration":"1h per episode",
+"rating":"8.5",
+"genre":"Action & Adventure,Drama,",
+"description":"With the aid of unexpected friends, a gifted but introverted student confronts bullies and violent foes — unaware of how dangerous his world will become.",
+"type":"series",
+"cast":"Park Ji-hoon,Choi Hyun-wook,Hong Kyung,Yoo Su-bin,Ryeoun"
+},
+{
 "title":"You [All Seasons] WEB-DL [Hindi-English] | All Episodes",
 "im":"oANi0vEE92nuijiZQgPZ88FSxqQ",
 "bgi":"lTySSn1rE10KzYEC9UqJGdos5Vp",
@@ -2796,19 +2809,6 @@ const movies = [
 "quality":"web-dl",
 "bgi":"zXi65hFftGcZwsrx2wNfi1RU4VH",
 "cast":"Amit Sial,Dibyendu Bhattacharya,Aksha Pardasany,Sparsh Shrivastava,Monika Panwar"
-},
-{
-"title":"Weak Hero [Season 2] WEB-DL [Hindi-English] | All Episodes",
-"im":"aW7mGixv2dZdQtbve4deYyfewHH",
-"dl":"http://qwrqwrqwr.rf.gd/a/a.php?pd=ZVJGh1Po&sn=2&es=Weak.Hero.S02.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms/Weak.Hero.S02E&e=6&el=.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv",
-"link":"tt20234568",
-"year":"2025",
-"duration":"50 min per episode",
-"rating":"7.9",
-"genre":"Action, Drama, Thriller",
-"description":"In the second season, the protagonist, once perceived as weak, faces increasing challenges as he fights against bullies and corrupt systems, developing into a stronger individual.",
-"type":"series",
-"quality":"web-dl"
 },
 {
 "title":"Ayyana Mane [Season 1] WEB-DL [Hindi-English] | All Episodes",

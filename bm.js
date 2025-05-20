@@ -17,7 +17,7 @@ const movies = [
 
 {
 "title":"Weak Hero [All Seasons] WEB-DL [Hindi-English] | All Episodes",
-"im":"xRw3akJQdfgqx0x4fiHW7nIkEUJ",
+"im":"5Sd01WeraL2oA3Vv6O4rcRxockn",
 "bgi":"cLTAda6fMRirkCY1xfO4pmcHVkk",
 "dl":"https://s.pptons.com/2025/05/weak-hero.html",
 "year":"2022",

@@ -14,32 +14,18 @@ const movies = [
 "type":"series",
 "cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
-
 {
-"title":"Khakee: The Bengal Chapter [Season 1] WEB-DL [Hindi-English] | All Episodes",
-"im":"fasJ27kLhHdzF9cBDq0vGXFVkvI",
-"bgi":"4dJ9dGk15VFyJVZMTWOyzuCk4a3",
-"dl":"https://s.pptons.com/2025/05/khakee.html",
+"title":"The Royals [Season 1] WEB-DL [Hindi] | All Episodes",
+"im":"nnD4364ToXZwDpFWEnY94xzykIs",
+"dl":"https://s.pptons.com/2025/05/the-royals.html",
+"bgi":"2lj4e5psR9jJA0LSn557fwxcqLv",
 "year":"2025",
 "duration":"1h per episode",
-"rating":"8.4",
-"genre":"Drama,Crime,",
-"description":"When upright cop Arjun Maitra takes on Kolkata's feared don Bagha and his henchmen, he must battle a broken system and navigate bloody gang wars.",
+"rating":"7.0",
+"genre":"Drama,",
+"description":"When charming Prince Aviraaj meets Sophia, a self-made girl boss, the worlds of royalty and startups collide in a whirlwind of romance and ambition.",
 "type":"series",
-"cast":"Jeet,Prosenjit Chatterjee,Chitrangda Singh,Ritwik Bhowmik,Aadil Khan"
-},
-{
-"title":"Dabba Cartel [Season 1] WEB-DL [Hindi] | All Episodes",
-"im":"ezT0x7ZdAjrR5mFtkNjWxOFcTIB",
-"bgi":"fmb8QgBVSx1lgKHbas3FNtZ9f5S",
-"dl":"https://s.pptons.com/2025/05/dabba-cartel.html",
-"year":"2025",
-"duration":"1h per episode",
-"rating":"6.8",
-"genre":"Crime,Drama,",
-"description":"When an investigation into a pharma company hits close to home, five women launch a tiffin service with a secret ingredient.",
-"type":"series",
-"cast":"Shabana Azmi,Sai Tamhankar,Jyothika,Nimisha Sajayan,Shalini Pandey"
+"cast":"Bhumi Pednekar,Ishaan Khatter,Sakshi Tanwar,Zeenat Aman,Nora Fatehi"
 },
 {
 "title":"Weak Hero [All Seasons] WEB-DL [Hindi-English] | All Episodes",
@@ -118,6 +104,32 @@ const movies = [
 "description":"Dev Ambre, a ruthless cop, loses his memory in an accident just after he has finished solving a murder case and now has to reinvestigate it while keeping his memory loss a secret from everyone except DCP Farhan Khan.",
 "type":"movie",
 "cast":"Shahid Kapoor,Pooja Hegde,Pavail Gulati,Pravessh Rana,Girish Kulkarni"
+},
+{
+"title":"Khakee: The Bengal Chapter [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"fasJ27kLhHdzF9cBDq0vGXFVkvI",
+"bgi":"4dJ9dGk15VFyJVZMTWOyzuCk4a3",
+"dl":"https://s.pptons.com/2025/05/khakee.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"8.4",
+"genre":"Drama,Crime,",
+"description":"When upright cop Arjun Maitra takes on Kolkata's feared don Bagha and his henchmen, he must battle a broken system and navigate bloody gang wars.",
+"type":"series",
+"cast":"Jeet,Prosenjit Chatterjee,Chitrangda Singh,Ritwik Bhowmik,Aadil Khan"
+},
+{
+"title":"Dabba Cartel [Season 1] WEB-DL [Hindi] | All Episodes",
+"im":"ezT0x7ZdAjrR5mFtkNjWxOFcTIB",
+"bgi":"fmb8QgBVSx1lgKHbas3FNtZ9f5S",
+"dl":"https://s.pptons.com/2025/05/dabba-cartel.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"6.8",
+"genre":"Crime,Drama,",
+"description":"When an investigation into a pharma company hits close to home, five women launch a tiffin service with a secret ingredient.",
+"type":"series",
+"cast":"Shabana Azmi,Sai Tamhankar,Jyothika,Nimisha Sajayan,Shalini Pandey"
 },
 {
 "title":"Stardust [2007] WEB-DL [Hindi-English] | Full Movie",
@@ -1726,19 +1738,6 @@ const movies = [
 "description":"Saitama is a hero who only became a hero for fun. After three years of “special” training, though, he's become so strong that he's practically invincible. In fact, he's too strong — even his mightiest opponents are taken out with a single punch, and it turns out that being devastatingly powerful is actually kind of a bore. With his passion for being a hero lost along with his hair, yet still faced with new enemies every day, how much longer can he keep it going?",
 "type":"series",
 "cast":"Makoto Furukawa,Kaito Ishikawa,Hiroki Yasumoto,Kazuhiro Yamaji,Yuichi Nakamura"
-},
-{
-"title":"The Royals [Season 1] WEB-DL [Hindi] | All Episodes",
-"im":"nnD4364ToXZwDpFWEnY94xzykIs",
-"dl":"https://s.pptons.com/2025/05/the-royals.html",
-"bgi":"2lj4e5psR9jJA0LSn557fwxcqLv",
-"year":"2025",
-"duration":"1h per episode",
-"rating":"7.0",
-"genre":"Drama,",
-"description":"When charming Prince Aviraaj meets Sophia, a self-made girl boss, the worlds of royalty and startups collide in a whirlwind of romance and ambition.",
-"type":"series",
-"cast":"Bhumi Pednekar,Ishaan Khatter,Sakshi Tanwar,Zeenat Aman,Nora Fatehi"
 },
 {
 "title":"Mob Psycho 100 [Season 1] WEB-DL [Hindi-Japanese] | All Episodes",

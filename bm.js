@@ -15,6 +15,45 @@ const movies = [
 "cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
 {
+"title":"R.I.P.D. [2013] WEB-DL [Hindi-English] | Full Movie",
+"im":"rS0kByPD4YF8pQ85KjzMdGiu7Xf",
+"bgi":"6KJcFFE1iBPC0Xj0iPCcmMvS5WK",
+"dl":"https://pixeldrain.net/api/file/fH45ezpf?download",
+"year":"2013",
+"duration":"1h 36m",
+"rating":"5.8",
+"genre":"Fantasy,Action,Comedy,",
+"description":"A recently slain cop joins a team of undead police officers working for the Rest in Peace Department and tries to find the man who murdered him.",
+"type":"movie",
+"cast":"Jeff Bridges,Ryan Reynolds,Kevin Bacon,Mary-Louise Parker,Stephanie Szostak"
+},
+{
+"title":"Hitmans Wifes Bodyguard [2021] WEB-DL [Hindi-English] | Full Movie",
+"im":"6zwGWDpY8Zu0L6W4SYWERBR8Msw",
+"bgi":"bjIPzixuWnOzxDG25WaXKuy9lYZ",
+"dl":"https://pixeldrain.net/api/file/HYNKV4cS?download",
+"year":"2021",
+"duration":"1h 39m",
+"rating":"6.7",
+"genre":"Action,Comedy,Crime,Thriller,",
+"description":"The world’s most lethal odd couple – bodyguard Michael Bryce and hitman Darius Kincaid – are back on another life-threatening mission. Still unlicensed and under scrutiny, Bryce is forced into action by Darius's even more volatile wife, the infamous international con artist Sonia Kincaid. As Bryce is driven over the edge by his two most dangerous protectees, the trio get in over their heads in a global plot and soon find that they are all that stand between Europe and a vengeful and powerful madman.",
+"type":"movie",
+"cast":"Ryan Reynolds,Samuel L. Jackson,Salma Hayek Pinault,Antonio Banderas,Morgan Freeman"
+},
+{
+"title":"The Hitmans Bodyguard [2017] WEB-DL [Hindi-English] | Full Movie",
+"im":"5CGjlz2vyBhW5xHW4eNOZIdgzYq",
+"bgi":"7KsqfXDECZMryX1Rv4RKsT7SIjQ",
+"dl":"https://pixeldrain.net/api/file/5iPYgiqE?download",
+"year":"2017",
+"duration":"1h 58m",
+"rating":"6.9",
+"genre":"Action,Comedy,Crime,Thriller,",
+"description":"The world’s top bodyguard gets a new client, a hitman who must testify at the International Court of Justice. They must put their differences aside and work together to make it to the trial on time.",
+"type":"movie",
+"cast":"Ryan Reynolds,Samuel L. Jackson,Gary Oldman,Salma Hayek Pinault,Elodie Yung"
+},
+{
 "title":"Grimsby [2016] WEB-DL [Hindi-English] | Full Movie",
 "im":"2jQGFmShpdflApc5oidJZ97m1d1",
 "bgi":"jPz33Dx0l6uLGD6iLuqhiYuprxf",

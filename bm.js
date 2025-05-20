@@ -16,6 +16,19 @@ const movies = [
 },
 
 {
+"title":"The Four Seasons [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"w09XeYl096pwES8riRMZwEA9rnh",
+"bgi":"nyE3Xw5f775yukAUT6Z6AZx1z4U",
+"dl":"https://s.pptons.com/2025/05/the-four-seasons.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"6.6",
+"genre":"Comedy,",
+"description":"The decades-long friendship between three married couples is tested when one divorces, complicating their tradition of quarterly weekend getaways.",
+"type":"series",
+"cast":"Tina Fey,Steve Carell,Colman Domingo,Erika Henningsen,Kerri Kenney"
+},
+{
 "title":"When Life Gives You Tangerines [Season 1] WEB-DL [Hindi-English] | All Episodes",
 "im":"q29q6AByug53pnylCytwLA7m6AY",
 "bgi":"5yk3QwnQxzwKfhU1tlDkV2PSIBz",

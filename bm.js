@@ -16,6 +16,19 @@ const movies = [
 },
 
 {
+"title":"The Eternaut [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"ucI5KroZLP0KyJqQnAdOpzhVvBs",
+"bgi":"yMjGzK7L4gwzpQNNtFKDeG79upo",
+"dl":"https://s.pptons.com/2025/05/the-eternaut.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"7.8",
+"genre":"Drama,Action & Adventure,Sci-Fi & Fantasy,",
+"description":"After a devastating toxic snowfall kills millions, Juan Salvo and a group of survivors in Buenos Aires must resist an invisible threat from another world.",
+"type":"series",
+"cast":"Ricardo Darín,Carla Peterson,César Troncoso,Andrea Pietra,Ariel Staltari"
+},
+{
 "title":"Deva [2025] WEB-DL [Hindi] | Full Movie",
 "im":"2JthNUcRU89h9M6k3yQxLkACEJQ",
 "bgi":"lqHt4icP1GTaNBeVTxTrwTZdoAW",
@@ -2451,20 +2464,6 @@ const movies = [
 "genre":"Comedy, Drama",
 "description":"Two childhood friends reunite after many years and embark on a journey of self-discovery, leading to both comic and emotional moments.",
 "type":"movie",
-"quality":"web-dl"
-},
-{
-"title":"The Eternaut [Season 1] WEB-DL [Hindi-English] | All Episodes",
-"im":"ucI5KroZLP0KyJqQnAdOpzhVvBs",
-"bgi":"vxZWeJbTpjysZo5agCnmQCCCsxt",
-"dl":"http://qwrqwrqwr.rf.gd/a/a.php?pd=B3bv5MAQ&sn=1&es=The.Eternaut.S01.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms/The.Eternaut.S01E&e=6&el=.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv",
-"link":"tt27740241",
-"year":"2025",
-"duration":"50 min per episode",
-"rating":"7.4",
-"genre":"Sci-Fi, Drama",
-"description":"A post-apocalyptic world where humanity's survival depends on a mysterious snowfall. A group of survivors must fight to uncover the truth about the eerie snowstorm.",
-"type":"series",
 "quality":"web-dl"
 },
 {

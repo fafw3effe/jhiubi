@@ -16,6 +16,19 @@ const movies = [
 },
 
 {
+"title":"When Life Gives You Tangerines [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"q29q6AByug53pnylCytwLA7m6AY",
+"bgi":"5yk3QwnQxzwKfhU1tlDkV2PSIBz",
+"dl":"https://s.pptons.com/2025/05/when-life-gives-you-tangerines.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"8.9",
+"genre":"Drama,",
+"description":"In Jeju, a spirited girl and a steadfast boy's island story blossoms into a lifelong tale of setbacks and triumphs — proving love endures across time.",
+"type":"series",
+"cast":"IU,Park Bo-gum,Moon So-ri,Park Hae-jun,Yeom Hye-ran"
+},
+{
 "title":"The Eternaut [Season 1] WEB-DL [Hindi-English] | All Episodes",
 "im":"ucI5KroZLP0KyJqQnAdOpzhVvBs",
 "bgi":"yMjGzK7L4gwzpQNNtFKDeG79upo",

@@ -41,6 +41,19 @@ const movies = [
 "cast":"Vikram,S. J. Suryah,Suraj Venjaramoodu,Dushara Vijayan,Prudhviraj"
 },
 {
+"title":"Superboys of Malegaon [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"l5PDjfWpC9uY5HdF5cbsJ4wjqoq",
+"bgi":"kQ35sVT8EBlsX9yilHi1zP4jd3l",
+"dl":"https://pixeldrain.net/api/file/ghBYL5TU?download",
+"year":"2025",
+"duration":"2h 10m",
+"rating":"7.8",
+"genre":"Comedy,Drama",
+"description":"The residents of Malegaon look to Bollywood cinema for a much-needed escape from daily drudgery. Amateur filmmaker Nasir Shaikh gets inspired to make ...",
+"type":"movie",
+"cast":"Adarsh Gourav,Shashank Arora,Vineet Kumar Singh,Anuj Singh Duhan,Saqib Ayub"
+},
+{
 "title":"Crayon Shin-chan: Roar! Kasukabe Animal Kingdom [2009] WEB-DL [Hindi-English] | Full Movie",
 "im":"w0SeTVkKOniXbCeTxE3XVQ7JtQ5",
 "bgi":"qU40JRrV7r4QrOJkpBFo7sJjrTe",
@@ -4207,20 +4220,6 @@ const movies = [
 "type":"movie",
 "quality":"web-dl",
 "cast":"Shubham Gaur, Ananya Chauhan, Sudhir Kumar"
-},
-{
-"title":"Superboys of Malegaon (2025) WEB-DL [Hindi DD5.1] [HEVC] | Full Movie",
-"im":"kH8vwnusn83pfHX8tgIIEPbaPd5",
-"dl":"https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Superboys.of.Malegaon.2025.720p.HEVC.Hindi.WEB.DL.HC.Sub.x265.HDHub4US.com.mkv",
-"link":"tt28007064",
-"year":"2025",
-"duration":"120 min",
-"rating":"7.0",
-"genre":"Action, Comedy, Drama",
-"description":"A quirky group of individuals in Malegaon must come together to save their town from an impending disaster. Expect lots of laughs and action.",
-"type":"movie",
-"quality":"web-dl",
-"cast":"Ravi Kishan, Pankaj Tripathi, Shubhi Joshi"
 },
 {
 "title":"G20 (2025) WEB-DL [Hindi (DD5.1) & English] | Full Movie",

@@ -391,7 +391,7 @@ function openModal(movie) {
             <div style="display:none;color:white;background:#000;width:100%;height:100%;text-align:center;padding-top:50px;">
                 Sorry, the video cannot be played. Please try downloading the file.
             </div>`;
-            modalPoster.style.display = 'none';
+            modalPoster.style.display = 'block';
         } catch(e) {
             console.error('Error creating video player:', e);
             modalPoster.style.display = 'block';

@@ -28,6 +28,19 @@ const movies = [
 "cast":"Hrithik Roshan,Tiger Shroff,Ashutosh Rana,Anupriya Goenka,Soni Razdan"
 },
 {
+"title":"Veera Dheera Sooran: Part 2 [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"6iiWsXJ31BVbypWwzvoPKx24NFQ",
+"bgi": "enbr7jaQySYFKojOQrVQFGkwrvo",
+"dl":"https://pixeldrain.net/api/file/uU7dcgVh?download",
+"year":"2025",
+"duration":"2h 42m",
+"rating":"7.3",
+"genre":"Action,Crime,Drama,Thriller",
+"description":"Kaali is a provision store owner and a loving husband and father, is brought back into the life of crime, when his former boss's son is being hun...",
+"type":"movie",
+"cast":"Vikram,S. J. Suryah,Suraj Venjaramoodu,Dushara Vijayan,Prudhviraj"
+},
+{
 "title":"Crayon Shin-chan: Roar! Kasukabe Animal Kingdom [2009] WEB-DL [Hindi-English] | Full Movie",
 "im":"w0SeTVkKOniXbCeTxE3XVQ7JtQ5",
 "bgi":"qU40JRrV7r4QrOJkpBFo7sJjrTe",
@@ -2910,19 +2923,6 @@ const movies = [
 "rating":"7.1",
 "genre":"Romance, Comedy, Drama",
 "description":"A heartfelt story about a man who struggles to balance his career and family life while navigating the trials of love and personal growth.",
-"type":"movie",
-"quality":"webdl hevc"
-},
-{
-"title":"Veera Dheera Sooran: Part 2 [2025] WEB-DL [Hindi-Tamil] [HEVC] | Full Movie",
-"im":"a3dBrs38ame4Wm4AG94l4RdNwBQ",
-"dl":"https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Veera.Dheera.Sooran.Part.2.2025.720p.HEVC.WEB-DL.Hindi-Tamil.ESub.x265-HDHub4u.Ms.mkv",
-"link":"tt29606499",
-"year":"2025",
-"duration":"130 min",
-"rating":"7.2",
-"genre":"Action, Drama, Adventure",
-"description":"The saga continues as Veera Dheera Sooran embarks on a final battle against enemies who are determined to seize his kingdom. Filled with thrilling action, this movie concludes an epic story of bravery and sacrifice.",
 "type":"movie",
 "quality":"webdl hevc"
 },

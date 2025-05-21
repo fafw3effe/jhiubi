@@ -30,9 +30,9 @@ function updateUrl(searchTerm, page, postId = '') {
 // Function to update SEO meta tags
 function updateMetaTags(movie = null) {
     // Default site metadata
-    const defaultTitle = "PP TOONS INDIA"; // Replace with your site's default title
-    const defaultDescription = "Instant movie and series downloads. Access your favorite movies and cartoons with one click at PP TOONS INDIA. Browse the latest releases and enjoy hassle-free downloads."; // Replace with your site's default description
-    const defaultImage = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5THxfUaWC41FTJpaiCtFRBn0Z6kn_m6LsipayaBbXF57CIXpXgi9XQWozbUMyOvVBz-ocNWdWErGJRLKtlyf72nNGNEmJeqavpAPq8Q-lJm_JbwmtB0ZkvyiZtWNgNZFlZHkLoJ6ti6w/s512/pp+toons+india+%25281%2529.png"; // Replace with your site's default image
+    const defaultTitle = "PP TOONS INDIA";
+    const defaultDescription = "Instant movie and series downloads. Access your favorite movies and cartoons with one click at PP TOONS INDIA. Browse the latest releases and enjoy hassle-free downloads.";
+    const defaultImage = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5THxfUaWC41FTJpaiCtFRBn0Z6kn_m6LsipayaBbXF57CIXpXgi9XQWozbUMyOvVBz-ocNWdWErGJRLKtlyf72nNGNEmJeqavpAPq8Q-lJm_JbwmtB0ZkvyiZtWNgNZFlZHkLoJ6ti6w/s512/pp+toons+india+%25281%2529.png";
     const siteUrl = window.location.href;
 
     // Select or create meta tags
@@ -346,6 +346,27 @@ function updatePagination() {
     document.getElementById('nextBtn').disabled = currentPage === totalPages || totalPages === 0;
 }
 
+// Function to play video in browser (fallback option)
+function playInBrowser(videoUrl, posterImage) {
+    const videoPlayer = document.getElementById('videoPlayer');
+    videoPlayer.innerHTML = `
+        <video controls preload="metadata"
+            poster="https://image.tmdb.org/t/p/w533_and_h300_bestv2/${posterImage}.jpg"
+            style="width:100%;height:100%;object-fit:contain;background:#000;"
+            onerror="this.style.display='none';this.nextElementSibling.style.display='block';">
+            <source src="${videoUrl}" type="video/mp4">
+            Your browser doesn't support HTML5 video.
+        </video>
+        <div style="display:none;color:white;background:#000;width:100%;height:100%;text-align:center;padding-top:50px;">
+            Sorry, the video cannot be played. Please try downloading the file.
+        </div>
+        <p style="margin-top: 10px; text-align: center;">
+            <a href="${videoUrl}" target="_blank" class="open-player-btn" style="display: inline-block; padding: 10px 20px; background: #0074f8; color: white; text-decoration: none; border-radius: 5px;">
+                Open in External Player
+            </a>
+        </p>`;
+}
+
 // Modal functions
 function openModal(movie) {
     const modal = document.getElementById('movieModal');
@@ -359,66 +380,73 @@ function openModal(movie) {
     const modalGenre = document.getElementById('modalGenre');
     const modalCast = document.getElementById('modalCast');
     const modalDescription = document.getElementById('modalDescription');
-    
+
     // Update URL with post ID
     const searchTerm = document.getElementById('searchInput').value;
     updateUrl(searchTerm, currentPage, movie.im);
-    
+
     // Update SEO meta tags
     updateMetaTags(movie);
-    
+
     const modalImage = movie.bgi || movie.im;
-    
+
+    // Set poster image
     modalPoster.style.display = 'block';
     modalPoster.src = 'https://image.tmdb.org/t/p/w500_and_h282_face/' + modalImage + '.jpg';
     modalPoster.alt = movie.title;
-    
+
+    // Clear video player area
     videoPlayer.innerHTML = '';
-    
+
     const titleLower = movie.title.toLowerCase();
     const hideVideoPlayer = titleLower.includes('all episodes') || titleLower.includes('heevc');
-    
+
     if (movie.dl && !hideVideoPlayer) {
         try {
+            // Provide a button to open in external player
             videoPlayer.innerHTML = `
-            <video controls preload="metadata"
-                poster="https://image.tmdb.org/t/p/w533_and_h300_bestv2/${modalImage}.jpg"
-                style="width:100%;height:100%;object-fit:contain;background:#000;"
-                onerror="this.style.display='none';this.nextElementSibling.style.display='block';">
-                <source src="${movie.dl}" type="video/mp4">
-                Your browser doesn't support HTML5 video.
-            </video>
-            <div style="display:none;color:white;background:#000;width:100%;height:100%;text-align:center;padding-top:50px;">
-                Sorry, the video cannot be played. Please try downloading the file.
-            </div>`;
+                <div style="text-align: center; padding: 20px;">
+                    <a href="${movie.dl}" target="_blank" class="open-player-btn" style="display: inline-block; padding: 10px 20px; background: #0074f8; color: white; text-decoration: none; border-radius: 5px;">
+                        Open in External Player
+                    </a>
+                    <p style="margin-top: 10px; color: #666;">Click the button above to open the video in your device's default media player.</p>
+                    <p style="margin-top: 10px;">
+                        <a href="#" onclick="playInBrowser('${movie.dl}', '${modalImage}'); return false;" style="color: #0074f8; text-decoration: underline;">Play in Browser Instead</a>
+                    </p>
+                </div>
+            `;
             modalPoster.style.display = 'block';
-        } catch(e) {
-            console.error('Error creating video player:', e);
+        } catch (e) {
+            console.error('Error setting up video link:', e);
+            videoPlayer.innerHTML = `<p style="color: white; background: #000; text-align: center; padding: 20px;">Error loading video link. Please try downloading.</p>`;
             modalPoster.style.display = 'block';
         }
     } else {
+        videoPlayer.innerHTML = `<p style="color: white; background: #000; text-align: center; padding: 20px;">Video not available for playback.</p>`;
         modalPoster.style.display = 'block';
     }
-    
+
+    // Set modal content
     let displayTitle = movie.title;
     modalTitle.textContent = displayTitle;
     modalDownload.href = movie.dl;
+    modalDownload.textContent = 'Download Video';
     modalRating.textContent = movie.rating || 'N/A';
     modalDuration.textContent = movie.duration || 'N/A';
     modalYear.innerHTML = `<a onclick="triggerSearch('${movie.year}')">${movie.year || 'N/A'}</a>`;
-    
+
     const genres = movie.genre ? movie.genre.split(',').map(g => g.trim()) : ['N/A'];
     modalGenre.innerHTML = genres.map(genre => 
         `<a onclick="triggerSearch('${genre}')">${genre}</a>`
     ).join(', ');
-    
+
     const cast = movie.cast ? movie.cast.split(',').map(c => c.trim()) : ['N/A'];
     modalCast.innerHTML = cast.map(actor => 
         `<a onclick="triggerSearch('${actor}')">${actor}</a>`
     ).join(', ');
-    
+
     modalDescription.textContent = movie.description || 'No description available.';
-    
+
     modal.style.display = 'block';
     document.body.style.overflow = 'hidden';
 }

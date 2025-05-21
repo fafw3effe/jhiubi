@@ -54,6 +54,19 @@ const movies = [
 "cast":"Akshay Kumar,Veer Pahariya,Nimrat Kaur,Sara Ali Khan,Sharad Kelkar"
 },
 {
+"title":"Babygirl [2024] WEB-DL [Hindi-English] | Full Movie",
+"im":"ilwO6elz3mLV9CToT7C8pjVeKX0",
+"bgi":"hbFVmSYKvrqr9JuKVZ8l71kRQew",
+"dl":"https://pixeldrain.net/api/file/vTgphQLm?download",
+"year":"2024",
+"duration":"1h 55m",
+"rating":"5.8",
+"genre":"Drama",
+"description":"A high-powered CEO puts her career and family on the line when she begins a torrid affair with her much younger intern.",
+"type":"movie",
+"cast":"Nicole Kidman,Harris Dickinson,Antonio Banderas,Esther-Rose McGregor,Sophie Wilde"
+},
+{
 "title":"Identity [2025] WEB-DL [Hindi-Malayalam] | Full Movie",
 "im":"hrusjWrcRuClY6PNooSZiKL6gqv",
 "bgi":"d8fgJIUyvJa0NGkZ7VQBlgJADIK",

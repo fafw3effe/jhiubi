@@ -28,9 +28,9 @@ const movies = [
 "cast":"Hrithik Roshan,Tiger Shroff,Ashutosh Rana,Anupriya Goenka,Soni Razdan"
 },
 {
-"title":"Veera Dheera Sooran: Part 2 [2025] WEB-DL [Hindi-English] | Full Movie",
+"title":"Veera Dheera Sooran: Part 2 [2025] WEB-DL [Hindi-Tamil] | Full Movie",
 "im":"6iiWsXJ31BVbypWwzvoPKx24NFQ",
-"bgi": "enbr7jaQySYFKojOQrVQFGkwrvo",
+"bgi":"enbr7jaQySYFKojOQrVQFGkwrvo",
 "dl":"https://pixeldrain.net/api/file/uU7dcgVh?download",
 "year":"2025",
 "duration":"2h 42m",
@@ -41,7 +41,33 @@ const movies = [
 "cast":"Vikram,S. J. Suryah,Suraj Venjaramoodu,Dushara Vijayan,Prudhviraj"
 },
 {
-"title":"Superboys of Malegaon [2025] WEB-DL [Hindi-English] | Full Movie",
+"title":"Sky Force [2025] WEB-DL [Hindi] | Full Movie",
+"im":"pmtev9YTlIRDo25G7lN8dzyoszn",
+"bgi":"pwfXx2O3eFXi5dtWCV5XJPQJgqN",
+"dl":"https://pixeldrain.net/api/file/5fS3brGW?download",
+"year":"2025",
+"duration":"2h 5m",
+"rating":"6.4",
+"genre":"Action,Thriller,War,History",
+"description":"In the 1965 Indo-Pak War, India faces a devastating surprise attack. Wing Commander Ahuja leads a retaliatory strike, but Squadron Leader Vijaya goes ...",
+"type":"movie",
+"cast":"Akshay Kumar,Veer Pahariya,Nimrat Kaur,Sara Ali Khan,Sharad Kelkar"
+},
+{
+"title":"Identity [2025] WEB-DL [Hindi-Malayalam] | Full Movie",
+"im":"hrusjWrcRuClY6PNooSZiKL6gqv",
+"bgi":"d8fgJIUyvJa0NGkZ7VQBlgJADIK",
+"dl":"https://pixeldrain.net/api/file/vJRUy6SM?download",
+"year":"2025",
+"duration":"2h 36m",
+"rating":"5.6",
+"genre":"Action,Thriller,Mystery",
+"description":"A sketch artist and a cop work together to unravel the identity of an elusive killer using the descriptions of his face, etched into the memory of an ...",
+"type":"movie",
+"cast":"Tovino Thomas,Trisha Krishnan,Vinay Rai,Mandira Bedi,Shammi Thilakan"
+},
+{
+"title":"Superboys of Malegaon [2025] WEB-DL [Hindi] | Full Movie",
 "im":"l5PDjfWpC9uY5HdF5cbsJ4wjqoq",
 "bgi":"kQ35sVT8EBlsX9yilHi1zP4jd3l",
 "dl":"https://pixeldrain.net/api/file/ghBYL5TU?download",
@@ -3582,20 +3608,6 @@ const movies = [
 "type":"movie",
 "quality":"web-dl"
 }, 
-{
-"title":"Sky Force [2025] WEB-DL [Hindi] | Full Movie",
-"im":"pmtev9YTlIRDo25G7lN8dzyoszn",
-"bgi":"pwfXx2O3eFXi5dtWCV5XJPQJgqN",
-"dl":"https://pub-b273b76c33d84c9f88667bc60304c96f.r2.dev/Sky.Force.2025.WEB-DL.720p.Hindi.AAC.5.1.x264.ESub.Vegamovies.is.mkv",
-"year":"2025",
-"duration":"2h 5m",
-"rating":"6.4",
-"genre":"Action,Thriller,War,History",
-"description":"In the 1965 Indo-Pak War, India faces a devastating surprise attack. Wing Commander Ahuja leads a retaliatory strike, but Squadron Leader Vijaya goes missing after a heroic solo engagement against a superior enemy jet. Ahuja spends 23 years seeking the truth and uncovering a cover-up.",
-"type":"movie",
-"quality":"web-dl",
-"cast":"Akshay Kumar,Veer Pahariya,Nimrat Kaur,Sara Ali Khan,Sharad Kelkar"
-},
 {
 "title":"Fast and Furious - F9: The Fast Saga [2021] Blu-Ray [Directors Cut] [Hindi-English] | Full Movie",
 "im":"deEmLILTPejEb6OGsXRJ5MCvyDW",

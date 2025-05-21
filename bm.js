@@ -1161,7 +1161,7 @@ const movies = [
 "cast":"Kaitlyn Santa Juana,Teo Briones,Richard Harmon,Owen Patrick Joyner,Rya Kihlstedt"
 },
 {
-"title":"Gangers [2025] WEB-DL [Hindi-English] | Full Movie",
+"title":"Gangers [2025] WEB-DL [Hindi] | Full Movie",
 "im":"w5nZJZl9TbhGWfNcZkGPXLYMQgs",
 "bgi":"vm1qwSwhdt5lFhC0hqfPJ6exy46",
 "dl":"https://pixeldrain.net/api/file/euvEyWck?download",

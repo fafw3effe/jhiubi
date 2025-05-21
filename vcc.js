@@ -415,7 +415,7 @@ function openModal(movie) {
                     </p>
                 </div>
             `;
-            modalPoster.style.display = 'block';
+            modalPoster.style.display = 'none';
         } catch (e) {
             console.error('Error setting up video link:', e);
             videoPlayer.innerHTML = `<p style="color: white; background: #000; text-align: center; padding: 20px;">Error loading video link. Please try downloading.</p>`;

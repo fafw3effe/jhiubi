@@ -15,7 +15,7 @@ const movies = [
 "cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
 {
-"title":"War [2019] WEB-DL [Hindi-English] | Full Movie",
+"title":"War [2019] WEB-DL [Hindi] | Full Movie",
 "im":"7JeHrXR1FU57Y6b90YDpFJMhmVO",
 "bgi":"jAbyybBSXCyKGFy5EXlwW1NhjM",
 "dl":"https://pixeldrain.net/api/file/wr7S2pFT?download",

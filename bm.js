@@ -15,6 +15,19 @@ const movies = [
 "cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
 {
+"title":"War [2019] WEB-DL [Hindi-English] | Full Movie",
+"im":"7JeHrXR1FU57Y6b90YDpFJMhmVO",
+"bgi":"jAbyybBSXCyKGFy5EXlwW1NhjM",
+"dl":"https://pixeldrain.net/api/file/wr7S2pFT?download",
+"year":"2019",
+"duration":"2h 32m",
+"rating":"6.8",
+"genre":"Action,Thriller,Adventure,",
+"description":"Khalid, entrusted with the task of eliminating former soldier turned rogue Kabir, engages in an epic battle with his mentor who taught him everything.",
+"type":"movie",
+"cast":"Hrithik Roshan,Tiger Shroff,Ashutosh Rana,Anupriya Goenka,Soni Razdan"
+},
+{
 "title":"Crayon Shin-chan: Roar! Kasukabe Animal Kingdom [2009] WEB-DL [Hindi-English] | Full Movie",
 "im":"w0SeTVkKOniXbCeTxE3XVQ7JtQ5",
 "bgi":"qU40JRrV7r4QrOJkpBFo7sJjrTe",

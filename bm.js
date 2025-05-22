@@ -15,6 +15,47 @@ const movies = [
 "cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
 {
+"title":"The Legend of Hanuman [All Seasons] WEB-DL [Hindi-English] | All Episodes",
+"im":"AdCWLnuw01cWkdy7nsZVtnX4KVn",
+"bgi":"jdMiCJqZQn2yyHYZbdUl3btvtGF",
+"dl":"https://s.pptons.com/2025/05/the-legend-of-hanuman.html",
+"year":"2021",
+"duration":"30min per episode",
+"rating":"6.5",
+"genre":"Animation,Action & Adventure",
+"description":"When the power-hungry Ravan tore through the world to unleash evil, in his way stood a humble vaanar awoken to his divinity to become an immortal lege...",
+"type":"series",
+"cast":"Richard Joel,Daman Baggan,Sharad Kelkar,Sanket Mhatre,Amit Deondi"
+},
+{
+"title":"Mere Husband Ki Biwi [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"fQMBYG4JOD6WN8QzViPYqxuIsru",
+"bgi":"xBV8E2EZltd6uVYbe8ztklJ2pjs",
+"dl":"https://pixeldrain.net/api/file/36et1yt5?download",
+"dl2":"https://hubcloud.bz/drive/fmbfzmzlr00wxrf",
+"year":"2025",
+"duration":"2h 22m",
+"rating":"6.3",
+"genre":"Drama,Comedy",
+"description":"A hilarious and heartwarming modern-day romance set in Delhi, where love, fate, and unexpected twists put one man in a chaotic dilemma. Caught between...",
+"type":"movie",
+"cast":"Bhumi Pednekar,Arjun Kapoor,Rakul Preet Singh,Harsh Gujral,Aditya Seal"
+},
+{
+"title":"Kull: The Legacy of the Raisingghs [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"fQSsgKQgGmE0dHZCXCmK3rlFBJ5",
+"bgi":"zhvttpkuxfycC7Mt1vIzYzXWycs",
+"dl":"https://s.pptons.com/2025/05/kull-legacy-of-raisingghs.html",
+"dl2":"https://hubcloud.bz/drive/cholrvjhcj3hncu",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"0.0",
+"genre":"Drama",
+"description":"A dysfunctional royal family implodes with the death of their diabolical patriarch. Now, the three surviving Raisingghs battle it out for power and ki...",
+"type":"series",
+"cast":"Nimrat Kaur,Amol Parashar,Ridhi Dogra,Ankit Siwach,Suhaas Ahuja"
+},
+{
 "title":"Criminal Justice: Adhura Sach [Season 1] WEB-DL [Hindi] | All Episodes",
 "im":"skCHAsB0qIzG13UxV7TKyqTP8HP",
 "bgi":"sTIBAlkG23DDP8EdEWLr9jVQGXv",
@@ -56,6 +97,7 @@ const movies = [
 "type":"movie",
 "cast":"Phoebe Dynevor,Rhys Ifans,Ciara Baxendale,Kersti Bryan,Majd Eid"
 },
+//d2 added
 {
 "title":"War [2019] WEB-DL [Hindi] | Full Movie",
 "im":"7JeHrXR1FU57Y6b90YDpFJMhmVO",
@@ -2531,21 +2573,6 @@ const movies = [
 "cast":"Yuri Lowenthal, Dee Bradley Baker, Meagan Moore, Barry Dennen"
 },
 {
-"title":"Raid 2 [2025] HQ PRE-HD [Hindi] | Full Movie",
-"im":"562SAxZP1sLuYqDDTuODu3hdGyx",
-"bgi":"uKhBujLqYCcfU1kaxXHNCEyZnT",
-"dl":"https://pixeldrain.net/api/file/w6RvXQwQ?download",
-"link":"tt28089700",
-"year":"2025",
-"duration":"140 min",
-"rating":"7.4",
-"genre":"Action, Crime, Thriller",
-"description":"A top police officer seeks revenge against the criminals responsible for his brother's murder, delving deeper into a world of corruption and crime.",
-"type":"movie",
-"quality":"pre-hd",
-"cast":"Ajay Devgn, Sidharth Malhotra, Ronit Roy, Manoj Bajpayee"
-},
-{
 "title":"Season of Love - AKA Ask Mevsimi [2025] WEB-DL [Hindi-Turkish] | Full Movie",
 "im":"mYus8GNVi8BYIubE5bsPkrz6u13",
 "bgi":"oOQYW70LdBNSNPmfnLVDgGBYazK",
@@ -3359,23 +3386,8 @@ const movies = [
 "description":"Bond has left active service and is enjoying a tranquil life in Jamaica. His peace is short-lived when his old friend Felix Leiter from the CIA turns up asking for help. The mission to rescue a kidnapped scientist turns out to be far more treacherous than expected, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.",
 "type":"movie",
 "quality":"web-dl",
-"cast":"Daniel Craig,L\u00e9a Seydoux,Rami Malek,Lashana Lynch,Ralph Fiennes"
+"cast":"Daniel Craig,La Seydoux,Rami Malek,Lashana Lynch,Ralph Fiennes"
 },
-{
-"title":"Mere Husband Ki Biwi [2025] WEB-DL [Hindi] [HEVC] | Full Movie",
-"im":"fQMBYG4JOD6WN8QzViPYqxuIsru",
-"bgi":"xBV8E2EZltd6uVYbe8ztklJ2pjs",
-"dl":"https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Mere.Husband.Ki.Biwi.2025.720p.HEVC.Hindi.WEB-DL.5.1.ESub.x265-HDHub4u.Ms.mkv",
-"year":"2025",
-"duration":"2h 22m",
-"rating":"7.0",
-"genre":"Drama,Comedy",
-"description":"A hilarious and heartwarming modern-day romance set in Delhi, where love, fate, and unexpected twists put one man in a chaotic dilemma. Caught between a rekindled spark with Antara and an unexpected twist with Prabhleen, Ankur\u2019s life takes a hilariously unpredictable turn.",
-"type":"movie",
-"quality":"web-dl",
-"cast":"Bhumi Pednekar,Arjun Kapoor,Rakul Preet Singh,Harsh Gujral,Aditya Seal"
-},
- 
 {
  title:'JoJos Bizarre Adventure [Season 1] [Episode 7] WEB-DL [Hindi-English-Japanese] [HEVC]',
  im:'co0K9FS9rQPxPoKADs4nuGckk3A',

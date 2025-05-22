@@ -29,6 +29,19 @@ const movies = [
 "cast":"Iñaki Godoy,Emily Rudd,Mackenyu,Jacob Gibson,Jeff Ward"
 },
 {
+"title":"Wednesday [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"9PFonBhy4cQy7Jz20NpMygczOkv",
+"bgi":"iHSwvRVsRyxpX7FE7GbviaDvgGZ",
+"dl":"https://s.pptons.com/2025/05/wednesday.html",
+"year":"2022",
+"duration":"1h per episode",
+"rating":"8.4",
+"genre":"Sci-Fi & Fantasy,Mystery,Comedy",
+"description":"Wednesday Addams is sent to Nevermore Academy, a bizarre boarding school where she attempts to master her psychic powers, stop a monstrous killing spr...",
+"type":"series",
+"cast":"Jenna Ortega,Emma Myers,Joy Sunday,Hunter Doohan,Moosa Mostafa"
+},
+{
 "title":"Lovedale [2025] WEB-DL [Hindi-Malayalam] | Full Movie",
 "im":"qI9SP3Ao1LoKSmFEoppBCfcNSuv",
 "bgi":"yW8IKTqNL1HZ75ONp8etovpBU4i",
@@ -3031,19 +3044,6 @@ const movies = [
 "genre":"Action, Adventure, Sci-Fi",
 "description":"Valerian and his partner Laureline must navigate through a vast city in space, facing danger and uncovering a conspiracy that threatens the entire galaxy.",
 "type":"movie",
-"quality":"webdl hevc"
-},
-{
-"title":"Wednesday [Season 1] WEB-DL [Hindi-English] [HEVC] | All Episodes",
-"im":"9PFonBhy4cQy7Jz20NpMygczOkv",
-"dl":"http://qwrqwrqwr.rf.gd/a/a.php?pd=VaGLPVSE&sn=1&es=Wednesday.S01.720p.10Bit.WEB-DL.Hindi.5.1-English.HEVC.x265-HDHub4u.Tv/Wednesday.S01.E&e=8&el=.720p.10Bit.WEB-DL.Hindi.5.1-English.HEVC.x265-HDHub4u.Tv.mkv",
-"link":"tt13443470",
-"year":"2022",
-"duration":"45 min per episode",
-"rating":"8.0",
-"genre":"Comedy, Horror, Mystery",
-"description":"Wednesday Addams navigates the complexities of adolescence while solving supernatural mysteries at Nevermore Academy, balancing humor, horror, and mystery.",
-"type":"series",
 "quality":"webdl hevc"
 },
 {

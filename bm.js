@@ -15,6 +15,20 @@ const movies = [
 "cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
 {
+"title":"Criminal Justice: Adhura Sach [Season 1] WEB-DL [Hindi] | All Episodes",
+"im":"skCHAsB0qIzG13UxV7TKyqTP8HP",
+"bgi":"sTIBAlkG23DDP8EdEWLr9jVQGXv",
+"dl":"https://s.pptons.com/2025/05/criminal-justice-adhura-sach.html",
+"dl2":"https://vcloud.lol/nrrvnyvr0xnw8rp",
+"year":"2022",
+"duration":"1h per episode",
+"rating":"7.1",
+"genre":"Crime,Drama,Mystery",
+"description":"Madhav Mishra is back to fight his toughest case yet nothing is simple and straightforward. Will justice win?",
+"type":"series",
+"cast":"Pankaj Tripathi,Shweta Basu Prasad,Swastika Mukherjee,Purab Kohli,Deshna Dugad"
+},
+{
 "title":"Raid 2 [2025] WEB-DL [Hindi] | Full Movie",
 "im":"fzVbLi9PPKMOFtJMnVHKfcRVRTm",
 "bgi":"uKhBujLqYCcfU1kaxXHNCEyZnT",

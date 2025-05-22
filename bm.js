@@ -15,6 +15,20 @@ const movies = [
 "cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
 {
+"title":"Deadpool & Wolverine [2024] WEB-DL [Hindi-English] | Full Movie",
+"im":"8cdWjvZQUExUUTzyp4t6EDMubfO",
+"bgi":"by8z9Fe8y7p4jo2YlW2SZDnptyT",
+"dl":"https://pixeldrain.net/api/file/hnbcLFyV?download",
+"dl2":"https://vcloud.lol/pl0etwy0431r0rr",
+"year":"2024",
+"duration":"2h 8m",
+"rating":"7.6",
+"genre":"Action,Comedy,Science Fiction",
+"description":"A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces...",
+"type":"movie",
+"cast":"Ryan Reynolds,Hugh Jackman,Emma Corrin,Matthew Macfadyen,Dafne Keen"
+},
+{
 "title":"Salaar: Part 1 - Ceasefire [2023] WEB-DL [Hindi-Telugu] | Full Movie",
 "im":"mNHdClul57prczb5O0krrzyonnn",
 "bgi":"8HrO1Ys5W68ZnK7aWxJUaQUy31E",

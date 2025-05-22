@@ -407,7 +407,7 @@ const modalDownload = document.getElementById('modalDownload'); // Assuming moda
 const isIOS = /iPhone|iPad|iPod/i.test(navigator.userAgent);
 
 if (isIOS) {
-  modalDownload.href = 'https://example.com/movie.dl'; // Direct link to video file for iOS
+  modalDownload.href = 'vlc://movie.dl'; // Direct link to video file for iOS
 } else {
   // Fallback for non-iOS devices (e.g., Android or others)
   modalDownload.href = 'intent://movie.dl#Intent;scheme=https;action=android.intent.action.VIEW;type=video/*;S.browser_fallback_url=https://example.com/movie.dl;end';

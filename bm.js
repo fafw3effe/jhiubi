@@ -15,6 +15,20 @@ const movies = [
 "cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
 {
+"title":"Raid 2 [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"fzVbLi9PPKMOFtJMnVHKfcRVRTm",
+"bgi":"uKhBujLqYCcfU1kaxXHNCEyZnT",
+"dl":"https://pub-ed0ca22af5c04301b7abe9dac4aaf9bc.r2.dev/Raid-2.2025.720p.Hindi.WEB-DL.5.1.x264-HDHub4u.Ms.mkv",
+"dl2":"https://hubcloud.bz/drive/ibpgqbi5l3n3q1u",
+"year":"2025",
+"duration":"2h 25m",
+"rating":"6.0",
+"genre":"Crime,Drama,Thriller",
+"description":"Set 7 years after the events of the first film, it follows the return of IRS officer Amay Patnaik (Devgn), who tracks another white-collar crime.",
+"type":"movie",
+"cast":"Ajay Devgn,Ritesh Deshmukh,Vaani Kapoor,Saurabh Shukla,Rajat Kapoor"
+},
+{
 "title":"War [2019] WEB-DL [Hindi] | Full Movie",
 "im":"7JeHrXR1FU57Y6b90YDpFJMhmVO",
 "bgi":"jAbyybBSXCyKGFy5EXlwW1NhjM",

@@ -15,7 +15,7 @@ const movies = [
 "cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
 {
-"title":"Raid 2 [2025] WEB-DL [Hindi-English] | Full Movie",
+"title":"Raid 2 [2025] WEB-DL [Hindi] | Full Movie",
 "im":"fzVbLi9PPKMOFtJMnVHKfcRVRTm",
 "bgi":"uKhBujLqYCcfU1kaxXHNCEyZnT",
 "dl":"https://pub-ed0ca22af5c04301b7abe9dac4aaf9bc.r2.dev/Raid-2.2025.720p.Hindi.WEB-DL.5.1.x264-HDHub4u.Ms.mkv",
@@ -27,6 +27,20 @@ const movies = [
 "description":"Set 7 years after the events of the first film, it follows the return of IRS officer Amay Patnaik (Devgn), who tracks another white-collar crime.",
 "type":"movie",
 "cast":"Ajay Devgn,Ritesh Deshmukh,Vaani Kapoor,Saurabh Shukla,Rajat Kapoor"
+},
+{
+"title":"Inheritance [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"aZGpn6GTtLFkkJ0LmeHtifL1Jw8",
+"bgi":"fuRRTlFH4qazNjUSAmnmGMyNq29",
+"dl":"https://pub-ed0ca22af5c04301b7abe9dac4aaf9bc.r2.dev/Inheritance.2025.720p.WEB-DL.HIN-ENG.x264.ESub-KatmovieHD.mkv",
+"dl2":"https://hubcloud.bz/drive/e8mhz5ixi8kexw0",
+"year":"2025",
+"duration":"1h 41m",
+"rating":"5.9",
+"genre":"Thriller",
+"description":"When Maya learns her father Sam was once a spy, she suddenly finds herself at the center of an international conspiracy. As she seeks answers, Maya he...",
+"type":"movie",
+"cast":"Phoebe Dynevor,Rhys Ifans,Ciara Baxendale,Kersti Bryan,Majd Eid"
 },
 {
 "title":"War [2019] WEB-DL [Hindi] | Full Movie",

@@ -111,7 +111,7 @@ const movies = [
 "cast":"Setsuo Ito,Takahiro Sakurai,Miyu Irino,Akio Otsuka,Ryunosuke Watanuki"
 },
 {
-"title":"Jamtara – Sabka Number Ayega [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"title":"Jamtara – Sabka Number Ayega [All Seasons] WEB-DL [Hindi] | All Episodes",
 "im":"sHHDIN5UmgCuQTCAfAKaPChTPzq",
 "bgi":"zXi65hFftGcZwsrx2wNfi1RU4VH",
 "dl":"https://s.pptons.com/2025/05/jamtara-sabka-number-ayega.html",
@@ -122,6 +122,19 @@ const movies = [
 "description":"A group of small-town young men run a lucrative phishing operation, until a corrupt politician wants in on their scheme -- and a cop wants to fight it...",
 "type":"series",
 "cast":"Amit Sial,Dibyendu Bhattacharya,Aksha Pardasany,Sparsh Shrivastava,Monika Panwar"
+},
+{
+"title":"Panchayat [All Seasons] WEB-DL [Hindi] | All Episodes",
+"im":"cPPhduQk1eX0MAE2JDaQRh3UZB5",
+"bgi":"iZ8EtGAqKWZdRJPzWfFseNfVxjh",
+"dl":"https://s.pptons.com/2025/05/panchayat.html",
+"year":"2020",
+"duration":"1h per episode",
+"rating":"8.0",
+"genre":"Comedy,Drama",
+"description":"Panchayat is a comedy-drama, which captures the journey of an engineering graduate Abhishek, who for lack of a better job option joins as secretary of...",
+"type":"series",
+"cast":"Jitendra Kumar,Raghubir Yadav,Neena Gupta,Chandan Roy,Faisal Malik"
 },
 {
 "title":"The Legend of Hanuman [All Seasons] WEB-DL [Hindi] | All Episodes",
@@ -3175,32 +3188,6 @@ const movies = [
 "description":"The Saturday portion of WWE WrestleMania 41 featuring the kickoff matches and exhilarating moments. The energy builds for the main event on Sunday.",
 "type":"event",
 "quality":"web-dl"
-},
-{
-"title":"Panchayat [Season 2] WEB-DL [Hindi] [HEVC] | All Episodes",
-"im":"7boJeO6mV4Q69Tjx14CylvqkXZP",
-"dl":"http://qwrqwrqwr.rf.gd/a/a.php?pd=k2RTtZQD&sn=2&es=Panchayat.S02.720p.HEVC.Hindi.WEB-DL.5.1.ESub.x265-HDHub4u.Tv/Panchayat.S02.E&e=8&el=.720p.HEVC.Hindi.WEB-DL.5.1.ESub.x265-HDHub4u.Tv.mkv",
-"link":"tt12004706",
-"year":"2025",
-"duration":"30 min per episode",
-"rating":"8.5",
-"genre":"Comedy, Drama",
-"description":"The second season of Panchayat continues the hilarious and heartwarming journey of Abhishek as he navigates life in a rural village. His journey with quirky village personalities continues.",
-"type":"series",
-"quality":"webdl hevc"
-},
-{
-"title":"Panchayat [Season 1] WEB-DL [Hindi] [HEVC] | All Episodes",
-"im":"sx3MJ4ATkSoCyqayqco0O6wUqQ2",
-"dl":"http://qwrqwrqwr.rf.gd/a/a.php?pd=5KqiFtHE&sn=1&es=Panchayat.S01.720p.HEVC.Hindi.WEB-DL.5.1.ESub.x265-HDHub4u.Tv/Panchayat.S01.E&e=8&el=.720p.HEVC.Hindi.WEB-DL.5.1.ESub.x265-HDHub4u.Tv.mkv",
-"link":"tt12004706",
-"year":"2025",
-"duration":"30 min per episode",
-"rating":"8.5",
-"genre":"Comedy, Drama",
-"description":"The first season of Panchayat follows Abhishek, an urban graduate, as he adjusts to his new role in a rural village. A comedy-drama about relationships, humor, and life lessons.",
-"type":"series",
-"quality":"webdl hevc"
 },
 {
 "title":"Disco Raja [2020] WEB-DL UNCUT [Hindi - HQ/Studio Dub] [HEVC] | Full Movie",

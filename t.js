@@ -402,16 +402,8 @@ function openModal(movie) {
     
     let displayTitle = movie.title;
     modalTitle.textContent = displayTitle;
-// Set the href for modalDownload to handle video on iOS
-const modalDownload = document.getElementById('modalDownload'); // Assuming modalDownload is an <a> element
-const isIOS = /iPhone|iPad|iPod/i.test(navigator.userAgent);
-
-if (isIOS) {
-  modalDownload.href = 'vlc://movie.dl'; // Direct link to video file for iOS
-} else {
-  // Fallback for non-iOS devices (e.g., Android or others)
-  modalDownload.href = 'intent://movie.dl#Intent;scheme=https;action=android.intent.action.VIEW;type=video/*;S.browser_fallback_url=https://example.com/movie.dl;end';
-}
+// Set the href for modalDownload to trigger an Android Intent for viewing a video
+modalDownload.href = 'intent://movie.dl#Intent;scheme=https;action=android.intent.action.VIEW;type=video/*;S.browser_fallback_url=https://example.com/movie.dl;end';
     modalRating.textContent = movie.rating || 'N/A';
     modalDuration.textContent = movie.duration || 'N/A';
     modalYear.innerHTML = `<a onclick="triggerSearch('${movie.year}')">${movie.year || 'N/A'}</a>`;

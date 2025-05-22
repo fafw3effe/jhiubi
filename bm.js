@@ -22,7 +22,7 @@ const movies = [
 "dl2":"https://hubcloud.bz/drive/gme1up1lhvyhi1j",
 "year":"2025",
 "duration":"1h 46m",
-"rating":"0.0",
+"rating":"6.0",
 "genre":"Drama",
 "description":"Isha, an air hostess and model, joins photographer Ruben for a shoot at his iconic spot, Lovedale. A night in a remote forest bungalow takes a terrify...",
 "type":"movie",
@@ -2642,21 +2642,6 @@ const movies = [
 "type":"movie",
 "quality":"web-dl",
 "cast":"Elçin Sangu, Baran Akbulut, Mert Fırat"
-},
-{
-"title":"Kull - The Legacy of the Raisingghs [Season 1] WEB-DL [Hindi] | All Episodes",
-"im":"fQSsgKQgGmE0dHZCXCmK3rlFBJ5",
-"bgi":"zhvttpkuxfycC7Mt1vIzYzXWycs",
-"dl":"http://qwrqwrqwr.rf.gd/a/a.php?pd=KP14zq2B&sn=1&es=Kull.The.Legacy.of.the.Raisingghs.S01.720p.Hindi.WEB-DL.5.1.ESub.x264-HDHub4u.Ms/Kull.The.Legacy.of.the.Raisingghs.S01E&e=8&el=.720p.Hindi.WEB-DL.5.1.ESub.x264-HDHub4u.Ms.mkv",
-"link":"tt32235809",
-"year":"2025",
-"duration":"50 min per episode",
-"rating":"6.6",
-"genre":"Fantasy, Adventure",
-"description":"The legacy of the Raisingghs unfolds as the hero navigates the treacherous world of magic, betrayal, and hidden secrets, setting the stage for an epic adventure.",
-"type":"series",
-"quality":"web-dl",
-"cast":"Rajkummar Rao, Shweta Tripathi, Gajraj Rao"
 },
 {
 "title":"Black, White & Gray - Love Kills [Season 1] WEB-DL [Hindi] | All Episodes",

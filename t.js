@@ -438,9 +438,9 @@
             }
             
             // Handle Play It button (only for movie type, non-PC devices)
-            if (!isPC && movie.type === 'movie' && (movie.dl)) {
+            if (!isPC && movie.type === 'movie' && (movie.dl || movie.dl2)) {
                 modalPlay.style.display = 'block';
-                const videoUrl = movie.dl;
+                const videoUrl = movie.dl || movie.dl2;
                 if (isIOS) {
                     modalPlay.href = 'vlc://' + videoUrl;
                 } else if (isAndroid) {
@@ -448,7 +448,9 @@
                 } else {
                     modalPlay.href = 'https://dereferer.me/?' + videoUrl;
                 }
-            } 
+            } else {
+                modalPlay.style.display = 'none';
+            }
             
             let displayTitle = movie.title;
             modalTitle.textContent = displayTitle;

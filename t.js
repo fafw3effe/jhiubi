@@ -410,7 +410,7 @@
                 modalVlcPlay.style.display = 'block';
                 modalVlcPlay.href = 'vlc://' + movie.dl;
                 modalAndroidPlay.style.display = 'block';
-                modalAndroidPlay.href = 'intent://' + movie.dl + '#Intent;scheme=http;type=video/mp4;end';
+                modalAndroidPlay.href = 'intent://'+movie.dl+'#Intent;scheme=https;action=android.intent.action.VIEW;type=video/*;S.browser_fallback_url='+movie.dl+';end';
             } else {
                 modalVlcPlay.style.display = 'none';
                 modalAndroidPlay.style.display = 'none';

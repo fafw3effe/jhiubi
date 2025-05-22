@@ -15,7 +15,7 @@ const movies = [
 "cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
 {
-"title":"Salaar: Part 1 - Ceasefire [2023] WEB-DL [Hindi-English] | Full Movie",
+"title":"Salaar: Part 1 - Ceasefire [2023] WEB-DL [Hindi-Telugu] | Full Movie",
 "im":"mNHdClul57prczb5O0krrzyonnn",
 "bgi":"8HrO1Ys5W68ZnK7aWxJUaQUy31E",
 "dl":"https://pixeldrain.net/api/file/HSvozgYG?download",

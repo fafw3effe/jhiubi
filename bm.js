@@ -4,7 +4,7 @@ const movies = [
 {
 "title":"Peaky Blinders [Season 4] [Episode 3] Blu-Ray [Hindi-English] | All Episodes [Season 1 - 2 - 3]",
 "im":"vUUqzWa2LnHIVqkaKVlVGkVcZIW",
-"dl":"https://s.pptons.com/2025/05/peaky-blinders.html",
+"dl":"https://s.pptons.com/2025/05/peaky-blinders_22.html",
 "bgi":"or7wKwv1IT6LEOktt395O5qi7e",
 "year":"2013",
 "duration":"1h per episode",

@@ -1960,7 +1960,7 @@ const movies = [
 {
 "title":"One-Punch Man [Season 1] WEB-DL [Hindi-Japanese] | All Episodes",
 "im":"goJyMNld1sDh9WpUyvBpC2cxT2Q",
-"dl":"http://qwrqwrqwr.rf.gd/a/a.php?pd=NT7i5zUW&sn=1&es=One.Punch.Man.S01E&e=12&el=.720p.HIN-JAP.x265.ESub-PikaHD.com.mkv",
+"dl":"https://s.pptons.com/2025/05/one-punch-man.html",
 "bgi":"3AXLSxMuqyZt8HyrKKfrcJtkswD",
 "year":"2015",
 "duration":"25m",
@@ -1973,7 +1973,7 @@ const movies = [
 {
 "title":"Mob Psycho 100 [Season 1] WEB-DL [Hindi-Japanese] | All Episodes",
 "im":"vR7hwaGQ0ySRoq1WobiNRaPs4WO",
-"dl":"http://qwrqwrqwr.rf.gd/a/a.php?pd=m6PfkCpV&sn=1&es=Mob.Psycho.100.S01E&e=12&el=.720p.HIN-JAP.x265.ESub-PikaHD.com.mkv",
+"dl":"https://s.pptons.com/2025/05/mob-psycho-100.html",
 "bgi":"kP5duNJEbTfXpBs6CITsaZ88pQi",
 "year":"2016",
 "duration":"21m",

@@ -402,8 +402,22 @@ function openModal(movie) {
     
     let displayTitle = movie.title;
     modalTitle.textContent = displayTitle;
+
+
 // Set the href for modalDownload to trigger an Android Intent for viewing a video
+
+const modalDownload = document.getElementById('modalDownload'); // Assuming modalDownload is an <a> element
+const isAndroid = /Android/i.test(navigator.userAgent);
+
+if (isAndroid) {
 modalDownload.href = 'intent://'+movie.dl+'#Intent;scheme=https;action=android.intent.action.VIEW;type=video/*;S.browser_fallback_url='+movie.dl+';end';
+
+} else {
+modalDownload.href = 'vlc://'+movie.dl;
+
+}
+
+
     modalRating.textContent = movie.rating || 'N/A';
     modalDuration.textContent = movie.duration || 'N/A';
     modalYear.innerHTML = `<a onclick="triggerSearch('${movie.year}')">${movie.year || 'N/A'}</a>`;

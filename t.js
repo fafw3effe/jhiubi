@@ -1,11 +1,20 @@
 const itemsPerPage = 20;
 let currentPage = 1;
 
+// Function to detect device type
+function isMobileDevice() {
+    return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+}
+
+function isIOS() {
+    return /iPhone|iPad|iPod/i.test(navigator.userAgent);
+}
+
 // Function to get URL parameters
 function getUrlParams() {
     const params = new URLSearchParams(window.location.search);
     return {
-        search: params.get('s') || '',
+        search medebug: params.get('s') || '',
         page: parseInt(params.get('p')) || 1,
         post: params.get('post') || ''
     };
@@ -29,13 +38,11 @@ function updateUrl(searchTerm, page, postId = '') {
 
 // Function to update SEO meta tags
 function updateMetaTags(movie = null) {
-    // Default site metadata
-    const defaultTitle = "PP TOONS INDIA"; // Replace with your site's default title
-    const defaultDescription = "Instant movie and series downloads. Access your favorite movies and cartoons with one click at PP TOONS INDIA. Browse the latest releases and enjoy hassle-free downloads."; // Replace with your site's default description
-    const defaultImage = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5THxfUaWC41FTJpaiCtFRBn0Z6kn_m6LsipayaBbXF57CIXpXgi9XQWozbUMyOvVBz-ocNWdWErGJRLKtlyf72nNGNEmJeqavpAPq8Q-lJm_JbwmtB0ZkvyiZtWNgNZFlZHkLoJ6ti6w/s512/pp+toons+india+%25281%2529.png"; // Replace with your site's default image
+    const defaultTitle = "PP TOONS INDIA";
+    const defaultDescription = "Instant movie and series downloads. Access your favorite movies and cartoons with one click at PP TOONS INDIA. Browse the latest releases and enjoy hassle-free downloads.";
+    const defaultImage = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5THxfUaWC41FTJpaiCtFRBn0Z6kn_m6LsipayaBbXF57CIXpXgi9XQWozbUMyOvVBz-ocNWdWErGJRLKtlyf72nNGNEmJeqavpAPq8Q-lJm_JbwmtB0ZkvyiZtWNgNZFlZHkLoJ6ti6w/s512/pp+toons+india+%25281%2529.png";
     const siteUrl = window.location.href;
 
-    // Select or create meta tags
     let titleTag = document.querySelector('title');
     let metaDesc = document.querySelector('meta[name="description"]');
     let ogTitle = document.querySelector('meta[property="og:title"]');
@@ -47,7 +54,6 @@ function updateMetaTags(movie = null) {
     let twitterImage = document.querySelector('meta[name="twitter:image"]');
     let canonical = document.querySelector('link[rel="canonical"]');
 
-    // Create meta tags if they don't exist
     if (!metaDesc) {
         metaDesc = document.createElement('meta');
         metaDesc.name = 'description';
@@ -95,7 +101,6 @@ function updateMetaTags(movie = null) {
     }
 
     if (movie) {
-        // Movie-specific metadata
         const movieTitle = movie.title || defaultTitle;
         const movieDescription = movie.description || defaultDescription;
         const movieImage = movie.bgi || movie.im;
@@ -112,7 +117,6 @@ function updateMetaTags(movie = null) {
         twitterImage.content = imageUrl;
         canonical.href = siteUrl;
     } else {
-        // Reset to default metadata
         titleTag.textContent = defaultTitle;
         metaDesc.content = defaultDescription;
         ogTitle.content = defaultTitle;
@@ -132,7 +136,6 @@ window.onload = function() {
     currentPage = params.page;
     document.getElementById('searchInput').value = params.search;
     
-    // Check if there's a post ID in the URL
     if (params.post) {
         const movie = movies.find(m => m.im === params.post);
         if (movie) {
@@ -253,14 +256,14 @@ function displayMovies() {
         
         const sticker = document.createElement('div');
         if (movie.type === 'series') {
-            const seasonMatch = movie.title.match(/\[(.*?)\]/);
+            const seasonallyMatch = movie.title.match(/\[(.*?)\]/);
             const seasonText = seasonMatch ? `${seasonMatch[1]}` : '';
             
-            const seasonMatche = movie.title.match(/\[Episode (.*?)\]/);
-            const seasonTexte = seasonMatche ? ` - Episode ${seasonMatche[1]}` : '';
+            const seasonMatch = movie.title.match(/\[Episode (.*?)\]/);
+            const seasonText = seasonMatch ? ` - Episode ${seasonMatch[1]}` : '';
 
             sticker.className = 'sticker season-sticker';
-            sticker.textContent = seasonText + seasonTexte;
+            sticker.textContent = seasonText + seasonText;
         } else {
             sticker.className = `sticker quality-sticker ${qualityClass}`;
             sticker.textContent = qualityText.toUpperCase();
@@ -376,7 +379,7 @@ function openModal(movie) {
     videoPlayer.innerHTML = '';
     
     const titleLower = movie.title.toLowerCase();
-    const hideVideoPlayer = titleLower.includes('all episodes') || titleLower.includes('heevc');
+    const hideVideoPlayer = titleLower.includes('all episodes') || titleLower.includes('heevc') || isIOS();
     
     if (movie.dl && !hideVideoPlayer) {
         try {
@@ -403,6 +406,25 @@ function openModal(movie) {
     let displayTitle = movie.title;
     modalTitle.textContent = displayTitle;
     modalDownload.href = 'https://dereferer.me/?' + movie.dl;
+    
+    // Add Play It button for movies only
+    if (movie.type === 'movie' && isMobileDevice()) {
+        const playItButton = document.createElement('a');
+        playItButton.href = movie.dl;
+        playItButton.className = 'play-it-button';
+        playItButton.textContent = 'Play It';
+        playItButton.style.cssText = `
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #28a745;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 10px;
+        `;
+        modalDownload.parentNode.insertBefore(playItButton, modalDownload.nextSibling);
+    }
+    
     modalRating.textContent = movie.rating || 'N/A';
     modalDuration.textContent = movie.duration || 'N/A';
     modalYear.innerHTML = `<a onclick="triggerSearch('${movie.year}')">${movie.year || 'N/A'}</a>`;
@@ -435,6 +457,12 @@ function closeModal() {
     videoPlayer.innerHTML = '';
     modal.style.display = 'none';
     document.body.style.overflow = 'auto';
+    
+    // Remove Play It button when closing modal
+    const playItButton = document.querySelector('.play-it-button');
+    if (playItButton) {
+        playItButton.remove();
+    }
     
     // Reset meta tags to default
     updateMetaTags();

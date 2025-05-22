@@ -4343,20 +4343,6 @@ const movies = [
 "cast":"Vikrant Massey, Shraddha Kapoor, Rajkummar Rao"
 },
 {
-"title":"The Legend of Hanuman (Season 6) WEB-DL [Hindi DD5.1] | ALL Episodes [JioHotStar Series]",
-"im":"kqA6PqHflS1JNI8kRVXczSLywYx",
-"dl":"https://f.pptons.com/b.php?d=Eoj1z8CcNK",
-"link":"tt13854248",
-"year":"2025",
-"duration":"30 min per episode",
-"rating":"8.2",
-"genre":"Animation, Action, Adventure",
-"description":"The epic story of Lord Hanuman continues in this thrilling sixth season, where he faces greater challenges and battles dark forces that threaten to engulf the world.",
-"type":"series",
-"quality":"web-dl",
-"cast":"Sharad Kelkar, Sunil Grover, Ashwin Mushran"
-},
-{
 "title":"Novocaine (2025) WEB-DL [Hindi (DD5.1) & English] [HEVC] | Full Movie",
 "im":"6GbUXZ1gvGrZlZFDjG9SunxFlSl",
 "dl":"https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Novocaine.2025.720p.10bit.WEB.DL.Hindi.5.1.English.5.1.ESub.x265.HDHub4u.Ms.mkv",

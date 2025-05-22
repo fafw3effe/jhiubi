@@ -71,7 +71,7 @@ const movies = [
 "cast":"Vijay Deverakonda,Mrunal Thakur,Rohini Hattangadi,Vasuki Anand,Abhinaya"
 },
 {
-"title":"One-Punch Man [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"title":"One-Punch Man [Season 1] WEB-DL [Hindi-Japanese] | All Episodes",
 "im":"jbYJuxfZMpYDalkiOnBcCv9TaL",
 "bgi":"3AXLSxMuqyZt8HyrKKfrcJtkswD",
 "dl":"https://s.pptons.com/2025/05/one-punch-man.html",
@@ -82,6 +82,19 @@ const movies = [
 "description":"Saitama is a hero who only became a hero for fun. After three years of “special” training, though, he's become so strong that he's pract...",
 "type":"series",
 "cast":"Makoto Furukawa,Kaito Ishikawa,Hiroki Yasumoto,Kazuhiro Yamaji,Yuichi Nakamura"
+},
+{
+"title":"Mob Psycho 100 [Season 1] WEB-DL [Hindi-Japanese] | All Episodes",
+"im":"vR7hwaGQ0ySRoq1WobiNRaPs4WO",
+"bgi":"kP5duNJEbTfXpBs6CITsaZ88pQi",
+"dl":"https://s.pptons.com/2025/05/mob-psycho-100.html",
+"year":"2016",
+"duration":"1h per episode",
+"rating":"8.5",
+"genre":"Animation,Action & Adventure,Comedy,Sci-Fi & Fantasy",
+"description":"Shigeo Kageyama, a.k.a. Mob, is a boy who has trouble expressing himself, but who happens to be a powerful esper. Mob is determined to liv...",
+"type":"series",
+"cast":"Setsuo Ito,Takahiro Sakurai,Miyu Irino,Akio Otsuka,Ryunosuke Watanuki"
 },
 {
 "title":"The Legend of Hanuman [All Seasons] WEB-DL [Hindi] | All Episodes",
@@ -1969,19 +1982,6 @@ const movies = [
 "type":"movie",
 "quality":"web-dl",
 "cast":"Amitabh Bachchan,Prabhas,Deepika Padukone,Kamal Haasan,Saswata Chatterjee"
-},
-{
-"title":"Mob Psycho 100 [Season 1] WEB-DL [Hindi-Japanese] | All Episodes",
-"im":"vR7hwaGQ0ySRoq1WobiNRaPs4WO",
-"dl":"https://s.pptons.com/2025/05/mob-psycho-100.html",
-"bgi":"kP5duNJEbTfXpBs6CITsaZ88pQi",
-"year":"2016",
-"duration":"21m",
-"rating":"8.5",
-"genre":"Animation,Action & Adventure,Comedy,Sci-Fi & Fantasy,",
-"description":"Shigeo Kageyama, a.k.a. Mob, is a boy who has trouble expressing himself, but who happens to be a powerful esper. Mob is determined to live a normal life and keeps his ESP suppressed, but when his emotions surge to a level of 100%, something terrible happens to him! As he's surrounded by false espers, evil spirits, and mysterious organizations, what will Mob think? What choices will he make?",
-"type":"series",
-"cast":"Setsuo Ito,Takahiro Sakurai,Miyu Irino,Akio Otsuka,Ryunosuke Watanuki"
 },
 {
 "title":"Solo Leveling [All Seasons] WEB-DL [Hindi-English] | All Episodes",

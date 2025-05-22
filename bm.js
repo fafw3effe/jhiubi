@@ -15,6 +15,20 @@ const movies = [
 "cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
 {
+"title":"Lovedale [2025] WEB-DL [Hindi-Malayalam] | Full Movie",
+"im":"qI9SP3Ao1LoKSmFEoppBCfcNSuv",
+"bgi":"yW8IKTqNL1HZ75ONp8etovpBU4i",
+"dl":"https://pub-ed0ca22af5c04301b7abe9dac4aaf9bc.r2.dev/Lovedale.2025.720p.HEVC.WEB-DL.Hindi.2.0-Malayalam.x265-HDHub4u.Ms.mkv",
+"dl2":"https://hubcloud.bz/drive/gme1up1lhvyhi1j",
+"year":"2025",
+"duration":"1h 46m",
+"rating":"0.0",
+"genre":"Drama",
+"description":"Isha, an air hostess and model, joins photographer Ruben for a shoot at his iconic spot, Lovedale. A night in a remote forest bungalow takes a terrify...",
+"type":"movie",
+"cast":"Bagio George,Rama Shukla,Reshma V Renjith,Jaspreet Kaur,Johan M.Shaji"
+},
+{
 "title":"Deadpool & Wolverine [2024] WEB-DL [Hindi-English] | Full Movie",
 "im":"8cdWjvZQUExUUTzyp4t6EDMubfO",
 "bgi":"by8z9Fe8y7p4jo2YlW2SZDnptyT",

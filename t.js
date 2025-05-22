@@ -373,7 +373,7 @@
             document.getElementById('pageInfo').textContent = pageInfo;
             
             document.getElementById('prevBtn').disabled = currentPage === 1;
-            document.getElement帶來: document.getElementById('nextBtn').disabled = currentPage === totalPages || totalPages === 0;
+         document.getElementById('nextBtn').disabled = currentPage === totalPages || totalPages === 0;
         }
 
         // Modal functions

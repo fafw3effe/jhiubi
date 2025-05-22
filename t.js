@@ -1,32 +1,3 @@
-        const movies = [
-            {
-                "title": "Peaky Blinders [Season 4] [Episode 4] Blu-Ray [Hindi-English] | All Episodes",
-                "im": "vUUqzWa2LnHIVqkaKVlVGkVcZIW",
-                "dl": "https://s.pptons.com/2025/05/peaky-blinders_22.html",
-                "bgi": "or7wKwv1IT6LEOktt395O5qi7e",
-                "year": "2013",
-                "duration": "1h per episode",
-                "rating": "8.5",
-                "genre": "Drama,Crime,",
-                "description": "A gangster family epic set in 1919 Birmingham, England and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby, who means to move up in the world.",
-                "type": "series",
-                "cast": "Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
-            },
-            {
-                "title": "Inception [2010] Blu-Ray [Hindi-English] | Full Movie",
-                "im": "oYuLEt3zVCKq57qu2F8dT7NIa6f",
-                "bgi": "8ZTVqvKDQ8emSGUEMjsS4yHAwrp",
-                "dl": "https://pixeldrain.net/api/file/rXeHUboa?download",
-                "dl2": "https://vcloud.lol/wwgshgkgchihd0c",
-                "year": "2010",
-                "duration": "2h 28m",
-                "rating": "8.4",
-                "genre": "Action,Science Fiction,Adventure",
-                "description": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: 'inception'.",
-                "type": "movie",
-                "cast": "Leonardo DiCaprio,Joseph Gordon-Levitt,Ken Watanabe,Tom Hardy,Elliot Page"
-            }
-        ];
 
         const itemsPerPage = 20;
         let currentPage = 1;

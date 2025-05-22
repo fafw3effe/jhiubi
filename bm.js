@@ -15,6 +15,20 @@ const movies = [
 "cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
 {
+"title":"ONE PIECE [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"lXl3ZbY5TksOdt6eYgdyg6vsnFW",
+"bgi":"d0dRxEmbrYbkeJql4j2DDDYEyN",
+"dl":"https://s.pptons.com/2025/05/one-piece.html",
+"dl2":"https://vcloud.lol/aszqe0eei1sfjy0",
+"year":"2023",
+"duration":"1h per episode",
+"rating":"8.2",
+"genre":"Action & Adventure,Sci-Fi & Fantasy",
+"description":"With his straw hat and ragtag crew, young pirate Monkey D. Luffy goes on an epic voyage for treasure.",
+"type":"series",
+"cast":"Iñaki Godoy,Emily Rudd,Mackenyu,Jacob Gibson,Jeff Ward"
+},
+{
 "title":"Lovedale [2025] WEB-DL [Hindi-Malayalam] | Full Movie",
 "im":"qI9SP3Ao1LoKSmFEoppBCfcNSuv",
 "bgi":"yW8IKTqNL1HZ75ONp8etovpBU4i",

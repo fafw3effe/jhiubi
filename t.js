@@ -2,7 +2,7 @@
             {
                 "title": "Peaky Blinders [Season 4] [Episode 4] Blu-Ray [Hindi-English] | All Episodes",
                 "im": "vUUqzWa2LnHIVqkaKVlVGkVcZIW",
-                "dl": "https://s.pptons.com/2025/05/peaky-blinders_22.html",
+                " обозначение dl": "https://s.pptons.com/2025/05/peaky-blinders_22.html",
                 "bgi": "or7wKwv1IT6LEOktt395O5qi7e",
                 "year": "2013",
                 "duration": "1h per episode",
@@ -22,7 +22,7 @@
                 "duration": "2h 28m",
                 "rating": "8.4",
                 "genre": "Action,Science Fiction,Adventure",
-                "description": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as pa...",
+                "description": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: inception, the implantation of another person's idea into a target's subconscious.",
                 "type": "movie",
                 "cast": "Leonardo DiCaprio,Joseph Gordon-Levitt,Ken Watanabe,Tom Hardy,Elliot Page"
             }
@@ -373,7 +373,7 @@
             document.getElementById('pageInfo').textContent = pageInfo;
             
             document.getElementById('prevBtn').disabled = currentPage === 1;
-            document.getElementById('nextBtn').disabled = currentPage === totalPages || totalPages === 0;
+            document.getElement帶來: document.getElementById('nextBtn').disabled = currentPage === totalPages || totalPages === 0;
         }
 
         // Modal functions
@@ -409,13 +409,12 @@
             const titleLower = movie.title.toLowerCase();
             const hideVideoPlayer = titleLower.includes('all episodes') || titleLower.includes('heevc');
             
-            // Detect if the device is iOS
+            // Detect device type
             const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
+            const isAndroid = /Android/.test(navigator.userAgent);
+            const isPC = navigator.maxTouchPoints === 0;
             
-            // Detect if the device is a phone (screen width <= 768px)
-            const isPhone = window.innerWidth <= 768;
-            
-            // Handle video player and Play It button
+            // Handle video player
             if (movie.dl && !hideVideoPlayer && !isIOS) {
                 try {
                     videoPlayer.innerHTML = `
@@ -438,13 +437,18 @@
                 modalPoster.style.display = 'block';
             }
             
-            // Show Play It button only on phones and set href
-            if (isPhone && (movie.dl || movie.dl2)) {
+            // Handle Play It button (only for movie type, non-PC devices)
+            if (!isPC && movie.type === 'movie' && (movie.dl || movie.dl2)) {
                 modalPlay.style.display = 'block';
-                modalPlay.href = 'https://dereferer.me/?' + (movie.dl || movie.dl2);
-            } else {
-                modalPlay.style.display = 'none';
-            }
+                const videoUrl = movie.dl || movie.dl2;
+                if (isIOS) {
+                    modalPlay.href = 'vlc://' + videoUrl;
+                } else if (isAndroid) {
+                    modalPlay.href = 'a://' + videoUrl;
+                } else {
+                    modalPlay.href = 'https://dereferer.me/?' + videoUrl;
+                }
+            } 
             
             let displayTitle = movie.title;
             modalTitle.textContent = displayTitle;
@@ -463,10 +467,29 @@
                 `<a onclick="triggerSearch('${actor}')">${actor}</a>`
             ).join(', ');
             
-            modalDescription.textContent = movie.description || 'No description available.';
+            // Handle description truncation
+            const fullDescription = movie.description || 'No description available.';
+            if (fullDescription.length > 150) {
+                const shortDescription = fullDescription.substring(0, 150).trim() + '...';
+                modalDescription.innerHTML = `<span class="description-text">${shortDescription}</span><span class="view-more" onclick="toggleDescription(this, '${fullDescription.replace(/'/g, "\\'")}', '${shortDescription.replace(/'/g, "\\'")}')">View More</span>`;
+            } else {
+                modalDescription.textContent = fullDescription;
+            }
             
             modal.style.display = 'block';
             document.body.style.overflow = 'hidden';
+        }
+
+        // Toggle description between short and full
+        function toggleDescription(element, fullText, shortText) {
+            const descriptionText = element.previousElementSibling;
+            if (descriptionText.textContent.includes('...')) {
+                descriptionText.textContent = fullText;
+                element.textContent = 'View Less';
+            } else {
+                descriptionText.textContent = shortText;
+                element.textContent = 'View More';
+            }
         }
 
         function closeModal() {

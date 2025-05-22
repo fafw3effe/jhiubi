@@ -15,6 +15,20 @@ const movies = [
 "cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
 {
+"title":"The Family Star [2024] WEB-DL [Hindi-Telugu] | Full Movie",
+"im":"2mLyHeWwU0Ocv9Jvk72IDqZqT7G",
+"bgi":"1EECShloaXfQpXLphUzpDKxSTeA",
+"dl":"https://pixeldrain.net/api/file/hyJFBipX?download",
+"dl2":"https://vcloud.lol/o_9ol1quq50ue5u",
+"year":"2024",
+"duration":"2h 35m",
+"rating":"7.5",
+"genre":"Family,Romance,Comedy,Drama,Action",
+"description":"Govardhan, a devoted architect from Hyderabad, juggles supporting his extended family while seeking a partner who understands his commitments. When he...",
+"type":"movie",
+"cast":"Vijay Deverakonda,Mrunal Thakur,Rohini Hattangadi,Vasuki Anand,Abhinaya"
+},
+{
 "title":"The Legend of Hanuman [All Seasons] WEB-DL [Hindi-English] | All Episodes",
 "im":"AdCWLnuw01cWkdy7nsZVtnX4KVn",
 "bgi":"jdMiCJqZQn2yyHYZbdUl3btvtGF",

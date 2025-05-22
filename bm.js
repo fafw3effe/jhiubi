@@ -57,20 +57,20 @@ const movies = [
 "cast":"Vijay Deverakonda,Mrunal Thakur,Rohini Hattangadi,Vasuki Anand,Abhinaya"
 },
 {
-"title":"The Legend of Hanuman [All Seasons] WEB-DL [Hindi-English] | All Episodes",
+"title":"The Legend of Hanuman [All Seasons] WEB-DL [Hindi] | All Episodes",
 "im":"AdCWLnuw01cWkdy7nsZVtnX4KVn",
 "bgi":"jdMiCJqZQn2yyHYZbdUl3btvtGF",
 "dl":"https://s.pptons.com/2025/05/the-legend-of-hanuman.html",
 "year":"2021",
 "duration":"30min per episode",
-"rating":"6.5",
+"rating":"8.5",
 "genre":"Animation,Action & Adventure",
 "description":"When the power-hungry Ravan tore through the world to unleash evil, in his way stood a humble vaanar awoken to his divinity to become an immortal lege...",
 "type":"series",
 "cast":"Richard Joel,Daman Baggan,Sharad Kelkar,Sanket Mhatre,Amit Deondi"
 },
 {
-"title":"Mere Husband Ki Biwi [2025] WEB-DL [Hindi-English] | Full Movie",
+"title":"Mere Husband Ki Biwi [2025] WEB-DL [Hindi] | Full Movie",
 "im":"fQMBYG4JOD6WN8QzViPYqxuIsru",
 "bgi":"xBV8E2EZltd6uVYbe8ztklJ2pjs",
 "dl":"https://pixeldrain.net/api/file/36et1yt5?download",
@@ -84,14 +84,14 @@ const movies = [
 "cast":"Bhumi Pednekar,Arjun Kapoor,Rakul Preet Singh,Harsh Gujral,Aditya Seal"
 },
 {
-"title":"Kull: The Legacy of the Raisingghs [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"title":"Kull: The Legacy of the Raisingghs [Season 1] WEB-DL [Hindi] | All Episodes",
 "im":"fQSsgKQgGmE0dHZCXCmK3rlFBJ5",
 "bgi":"zhvttpkuxfycC7Mt1vIzYzXWycs",
 "dl":"https://s.pptons.com/2025/05/kull-legacy-of-raisingghs.html",
 "dl2":"https://hubcloud.bz/drive/cholrvjhcj3hncu",
 "year":"2025",
 "duration":"1h per episode",
-"rating":"0.0",
+"rating":"6.0",
 "genre":"Drama",
 "description":"A dysfunctional royal family implodes with the death of their diabolical patriarch. Now, the three surviving Raisingghs battle it out for power and ki...",
 "type":"series",

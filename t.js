@@ -14,7 +14,7 @@ function isIOS() {
 function getUrlParams() {
     const params = new URLSearchParams(window.location.search);
     return {
-        search medebug: params.get('s') || '',
+        search: params.get('s') || '',
         page: parseInt(params.get('p')) || 1,
         post: params.get('post') || ''
     };

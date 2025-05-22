@@ -438,9 +438,9 @@
             }
             
             // Handle Play It button (only for movie type, non-PC devices)
-            if (!isPC && movie.type === 'movie' && (movie.dl || movie.dl2)) {
+            if (!isPC && movie.type === 'movie' && (movie.dl)) {
                 modalPlay.style.display = 'block';
-                const videoUrl = movie.dl || movie.dl2;
+                const videoUrl = movie.dl;
                 if (isIOS) {
                     modalPlay.href = 'vlc://' + videoUrl;
                 } else if (isAndroid) {

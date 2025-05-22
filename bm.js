@@ -71,6 +71,19 @@ const movies = [
 "cast":"Vijay Deverakonda,Mrunal Thakur,Rohini Hattangadi,Vasuki Anand,Abhinaya"
 },
 {
+"title":"One-Punch Man [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"jbYJuxfZMpYDalkiOnBcCv9TaL",
+"bgi":"3AXLSxMuqyZt8HyrKKfrcJtkswD",
+"dl":"https://s.pptons.com/2025/05/one-punch-man.html",
+"year":"2015",
+"duration":"1h per episode",
+"rating":"8.4",
+"genre":"Animation,Comedy,Action & Adventure",
+"description":"Saitama is a hero who only became a hero for fun. After three years of “special” training, though, he's become so strong that he's pract...",
+"type":"series",
+"cast":"Makoto Furukawa,Kaito Ishikawa,Hiroki Yasumoto,Kazuhiro Yamaji,Yuichi Nakamura"
+},
+{
 "title":"The Legend of Hanuman [All Seasons] WEB-DL [Hindi] | All Episodes",
 "im":"AdCWLnuw01cWkdy7nsZVtnX4KVn",
 "bgi":"jdMiCJqZQn2yyHYZbdUl3btvtGF",
@@ -1956,19 +1969,6 @@ const movies = [
 "type":"movie",
 "quality":"web-dl",
 "cast":"Amitabh Bachchan,Prabhas,Deepika Padukone,Kamal Haasan,Saswata Chatterjee"
-},
-{
-"title":"One-Punch Man [Season 1] WEB-DL [Hindi-Japanese] | All Episodes",
-"im":"goJyMNld1sDh9WpUyvBpC2cxT2Q",
-"dl":"https://s.pptons.com/2025/05/one-punch-man.html",
-"bgi":"3AXLSxMuqyZt8HyrKKfrcJtkswD",
-"year":"2015",
-"duration":"25m",
-"rating":"8.5",
-"genre":"Animation,Comedy,Action & Adventure,",
-"description":"Saitama is a hero who only became a hero for fun. After three years of “special” training, though, he's become so strong that he's practically invincible. In fact, he's too strong — even his mightiest opponents are taken out with a single punch, and it turns out that being devastatingly powerful is actually kind of a bore. With his passion for being a hero lost along with his hair, yet still faced with new enemies every day, how much longer can he keep it going?",
-"type":"series",
-"cast":"Makoto Furukawa,Kaito Ishikawa,Hiroki Yasumoto,Kazuhiro Yamaji,Yuichi Nakamura"
 },
 {
 "title":"Mob Psycho 100 [Season 1] WEB-DL [Hindi-Japanese] | All Episodes",

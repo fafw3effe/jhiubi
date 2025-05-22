@@ -15,6 +15,20 @@ const movies = [
 "cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
 {
+"title":"Salaar: Part 1 - Ceasefire [2023] WEB-DL [Hindi-English] | Full Movie",
+"im":"mNHdClul57prczb5O0krrzyonnn",
+"bgi":"8HrO1Ys5W68ZnK7aWxJUaQUy31E",
+"dl":"https://pixeldrain.net/api/file/HSvozgYG?download",
+"dl2":"https://vcloud.lol/yudxomqqdh4pjnp",
+"year":"2023",
+"duration":"2h 55m",
+"rating":"6.7",
+"genre":"Action,Crime,Drama",
+"description":"Set in the fictional dystopian city-state of Khansaar, the film follows the friendship between Deva, a tribesman, and Varadha, the prince of Khansaar....",
+"type":"movie",
+"cast":"Prabhas,Prithviraj Sukumaran,Shruti Haasan,Easwari Rao,Jagapati Babu"
+},
+{
 "title":"The Family Star [2024] WEB-DL [Hindi-Telugu] | Full Movie",
 "im":"2mLyHeWwU0Ocv9Jvk72IDqZqT7G",
 "bgi":"1EECShloaXfQpXLphUzpDKxSTeA",

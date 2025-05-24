@@ -1,6 +1,19 @@
 // Movies data
 const movies = [
-
+{
+"title":"Bhool Chuk Maaf [2025] HD-TC [Hindi] | Full Movie",
+"im":"plWzFq6eVXOm8vpgJG0xUGmifHS",
+"bgi":"c3c9qcUWA9u99RDipH3JL54FT6J",
+"dl":"https://pub-ed0ca22af5c04301b7abe9dac4aaf9bc.r2.dev/Bhool.Chuk.Maaf.2025.720p.HDTC.Hindi-Line.HC-ESub.x264-HDHub4u.Ms.mkv",
+"dl2":"https://hubcloud.bz/drive/p7neg7eihqojhke",
+"year":"2025",
+"duration":"1h 58m",
+"rating":"6.0",
+"genre":"Comedy,Romance,Science Fiction",
+"description":"Ranjan, a small-town romantic boy from Banaras, lands a government job to marry Titli, but forgets to vow to Lord Shiva, causing him to be trapped in ...",
+"type":"movie",
+"cast":"Rajkummar Rao,Wamiqa Gabbi,Raghubir Yadav,Seema Pahwa,Zakir Hussain"
+},
 {
 "title":"Peaky Blinders [Season 4] [Episode 4] Blu-Ray [Hindi-English] | All Episodes",
 "im":"vUUqzWa2LnHIVqkaKVlVGkVcZIW",

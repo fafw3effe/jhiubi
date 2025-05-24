@@ -28,6 +28,20 @@ const movies = [
 "cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
 {
+"title":"Lilo &amp;amp; Stitch [2025] HD-CAM [Hindi] | Full Movie",
+"im":"tUae3mefrDVTgm5mRzqWnZK6fOP",
+"bgi":"7Zx3wDG5bBtcfk8lcnCWDOLM4Y4",
+"dl":"https://pub-ed0ca22af5c04301b7abe9dac4aaf9bc.r2.dev/Lilo.and.Stitch.2025.720p.HDCAM.Hindi.LiNE.HC-Sub.x264-HDHub4u.Ms.mkv",
+"dl2":"https://hubcloud.bz/drive/n4fto1blf1cztq1",
+"year":"2025",
+"duration":"1h 48m",
+"rating":"7.1",
+"genre":"Family,Comedy,Science Fiction",
+"description":"The wildly funny and touching story of a lonely Hawaiian girl and the fugitive alien who helps to mend her broken family.",
+"type":"movie",
+"cast":"Maia Kealoha,Sydney Agudong,Chris Sanders,Zach Galifianakis,Billy Magnussen"
+},
+{
 "title":"ONE PIECE [Season 1] WEB-DL [Hindi-English] | All Episodes",
 "im":"lXl3ZbY5TksOdt6eYgdyg6vsnFW",
 "bgi":"d0dRxEmbrYbkeJql4j2DDDYEyN",

@@ -41,6 +41,63 @@ const movies = [
 "type":"movie",
 "cast":"Salman Khan,Rashmika Mandanna,Sathyaraj,Sharman Joshi,Prateik Babbar"
 },
+
+{
+"title":"The Tuxedo [2002] WEB-DL [Hindi-English] | Full Movie",
+"im":"2agrcNQRtgTsN5SbffC4H2BwYW2",
+"bgi":"1wo90L3F7hA9h6cG5xfz3dB1IE6",
+"dl":"",
+"dl2":"",
+"year":"2002",
+"duration":"1h 38m",
+"rating":"5.7",
+"genre":"Thriller,Action,Comedy,Science Fiction",
+"description":"Cabbie-turned-chauffeur Jimmy Tong learns there is really only one rule when you work for playboy millionaire Clark Devlin : Never touch Devlin's...",
+"type":"movie",
+"cast":"Jackie Chan,Jennifer Love Hewitt,Jason Isaacs,Debi Mazar,Ritchie Coster"
+},
+{
+"title":"Rush Hour 3 [2007] WEB-DL [Hindi-English] | Full Movie",
+"im":"rZ7IxJlPhNNJ6Rn8z1rzsXuA70P",
+"bgi":"ozsLB1HRCN6ZAmJN89pWtoiAwnb",
+"dl":"https://pixeldrain.net/api/file/3WpkJ84T?download",
+"dl2":"https://vcloud.lol/1vx_jfop_f4ssgv",
+"year":"2007",
+"duration":"1h 30m",
+"rating":"6.5",
+"genre":"Action,Comedy,Crime",
+"description":"After a botched assassination attempt, the mismatched duo finds themselves in Paris, struggling to retrieve a precious list of names, as the murderous...",
+"type":"movie",
+"cast":"Jackie Chan,Chris Tucker,Hiroyuki Sanada,Max von Sydow,Yvan Attal"
+},
+{
+"title":"Rush Hour 2 [2001] WEB-DL [Hindi-English] | Full Movie",
+"im":"aBQf2vMiCINeVC9v6BGVYKXurTh",
+"bgi":"vPJwn9pp5f58CqdaXU3eOSLoJkl",
+"dl":"https://pixeldrain.net/api/file/B8xa1NP8?download",
+"dl2":"https://vcloud.lol/4fppjf9wjtpfx4q",
+"year":"2001",
+"duration":"1h 30m",
+"rating":"6.7",
+"genre":"Action,Comedy,Crime",
+"description":"It's vacation time for Carter as he finds himself alongside Lee in Hong Kong wishing for more excitement. While Carter wants to party and meet th...",
+"type":"movie",
+"cast":"Jackie Chan,Chris Tucker,John Lone,Zhang Ziyi,Roselyn Sánchez"
+},
+{
+"title":"Rush Hour [1998] WEB-DL [Hindi-English] | Full Movie",
+"im":"3WsLE6FtxEPRa6U9sbY1ckrn39s",
+"bgi":"9YRKhVQx174hQn35f8k1MWKLAFQ",
+"dl":"https://pixeldrain.net/api/file/ACEgsbSg?download",
+"dl2":"https://vcloud.lol/c7c8k0045tm7c0k",
+"year":"1998",
+"duration":"1h 37m",
+"rating":"7.0",
+"genre":"Action,Comedy,Crime",
+"description":"When Hong Kong Inspector Lee is summoned to Los Angeles to investigate a kidnapping, the FBI doesn't want any outside help and assigns cocky LAPD...",
+"type":"movie",
+"cast":"Jackie Chan,Chris Tucker,Tom Wilkinson,Philip Baker Hall,Elizabeth Peña"
+},
 {
 "title":"Kesari Veer [2025] HD-TC [Hindi] | Full Movie",
 "im":"fRNg31Cz03qsx3EteqHhcQgLcTa",

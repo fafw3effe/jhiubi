@@ -14,6 +14,34 @@ const movies = [
 "cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
 {
+"title":"Sikandar [2025] WEB-DL [Hindi] | Full Movie",
+"im":"41s42CRXafa3OuRGvCtfYPEBmse",
+"bgi":"l2wRY9DFF9gRhclePCZ1YtoVVMm",
+"dl":"https://pixeldrain.net/api/file/ghYyWqaU?download",
+"dl2":"https://new7.gdflix.dad/file/cyJFjwM88KUyf3j",
+"year":"2025",
+"duration":"2h 13m",
+"rating":"4.6",
+"genre":"Action,Drama",
+"description":"A tragic accident pushes the powerful Sikandar to protect the less fortunate by standing up to corruption and greed — using any means necessary.",
+"type":"movie",
+"cast":"Salman Khan,Rashmika Mandanna,Sathyaraj,Sharman Joshi,Prateik Babbar"
+},
+{
+"title":"Kesari Veer [2025] HD-TC [Hindi] | Full Movie",
+"im":"fRNg31Cz03qsx3EteqHhcQgLcTa",
+"bgi":"efLOHrBRRA8ICaRfIGygVcEi2Vm",
+"dl":"https://pixeldrain.net/api/file/zoXeisB6?download",
+"dl2":"https://new7.gdflix.dad/file/QBkV2piOeKqWvoe",
+"year":"2025",
+"duration":"2h 36m",
+"rating":"6.0",
+"genre":"Action,Drama,History",
+"description":"The movie narrates the tale of Hamirji Gohil, a brave warrior who fought against the Tughlaq Empire to protect the Somnath Temple and the Hindu faith.",
+"type":"movie",
+"cast":"Sooraj Pancholi,Suniel Shetty,Vivek Oberoi,Akanksha Sharma,Aruna Irani"
+},
+{
 "title":"L2: Empuraan [2025] WEB-DL [Hindi-Malayalam] | Full Movie",
 "im":"dfaZipN3Aw5BK85nEvfr2FNg4EW",
 "bgi":"jYaoVDJ9J6Me3J0EQCABzQ99YVG",
@@ -3393,19 +3421,6 @@ const movies = [
 "rating":"7.7",
 "genre":"Action, Drama, History",
 "description":"The story of Havildar Ishar Singh who leads 21 Sikh soldiers against 10,000 Afghan invaders in the Battle of Saragarhi. A tale of bravery, honor, and patriotism.",
-"type":"movie",
-"quality":"webdl hevc"
-},
-{
-"title":"Sikandar [2025] WEB-DL [Hindi] [HEVC] | Full Movie",
-"im":"41s42CRXafa3OuRGvCtfYPEBmse",
-"dl":"https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Sikandar.2025.720p.HEVC.Hindi.DS4K.WEB-DL.HC-ESub.x265-HDHub4u.Ms.mkv",
-"link":"tt31712434",
-"year":"2025",
-"duration":"135 min",
-"rating":"6.8",
-"genre":"Action, Drama",
-"description":"A gripping action-packed drama where Sikandar, a man torn between loyalty and revenge, embarks on a dangerous journey to reclaim his honor and face his inner demons.",
 "type":"movie",
 "quality":"webdl hevc"
 },

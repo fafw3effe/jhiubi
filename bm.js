@@ -14,6 +14,20 @@ const movies = [
 "cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
 {
+"title":"Kung Fu Hustle [2004] WEB-DL [Hindi-English] | Full Movie",
+"im":"exbyTbrvRUDKN2mcNEuVor4VFQW",
+"bgi":"8NT7h1CxdXapqt6hdLhfFcoZJAU",
+"dl":"https://pixeldrain.net/api/file/EjK5CrAM?download",
+"dl2":"https://vcloud.lol/ydlug1d0mapyupu",
+"year":"2004",
+"duration":"1h 39m",
+"rating":"7.5",
+"genre":"Action,Comedy,Crime,Fantasy",
+"description":"It's the 1940s, and the notorious Axe Gang terrorizes Shanghai. Small-time criminals Sing and Bone hope to join, but they only manage to make lot...",
+"type":"movie",
+"cast":"Stephen Chow,Yuen Qiu,Yuen Wah,Lam Tze-Chung,Bruce Leung Siu-Lung"
+},
+{
 "title":"HIT: The Third Case [2025] WEB-DL [Hindi-Telugu] | Full Movie",
 "im":"wT9tGyFol4RBwkjESXUWeBdnLJn",
 "bgi":"sulb7RwIiO77n1XNM2VhldUFDW1",
@@ -41,7 +55,6 @@ const movies = [
 "type":"movie",
 "cast":"Salman Khan,Rashmika Mandanna,Sathyaraj,Sharman Joshi,Prateik Babbar"
 },
-
 {
 "title":"Kung Fu Panda 4 [2024] WEB-DL [Hindi-English] | Full Movie",
 "im":"nqXsAaQsKw2gKpkfhIgjXNDRqg7",

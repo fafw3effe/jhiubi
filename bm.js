@@ -42,7 +42,7 @@ const movies = [
 "cast":"Salman Khan,Rashmika Mandanna,Sathyaraj,Sharman Joshi,Prateik Babbar"
 },
 {
-"title":"Hidden Strike [2023] WEB-DL [Hindi-English] | Full Movie",
+"title":"Hidden Strike [2023] WEB-DL [English] | Full Movie",
 "im":"zsbolOkw8RhTU4DKOrpf4M7KCmi",
 "bgi":"eLqQ6RleEKUBbqsxQvfJK2iOuVy",
 "dl":"https://pixeldrain.net/api/file/R85zABsc?download",

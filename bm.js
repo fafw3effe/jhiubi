@@ -14,6 +14,20 @@ const movies = [
 "cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
 {
+"title":"HIT: The Third Case [2025] WEB-DL [Hindi-Telugu] | Full Movie",
+"im":"wT9tGyFol4RBwkjESXUWeBdnLJn",
+"bgi":"sulb7RwIiO77n1XNM2VhldUFDW1",
+"dl":"https://pub-ed0ca22af5c04301b7abe9dac4aaf9bc.r2.dev/Hit-3.2025.720p.HEVC.WEB-DL.Hindi.ORG-Telugu.x265-HDHub4u.Ms.mkv",
+"dl2":"https://hubcloud.bz/drive/i8ahdpoa5javplj",
+"year":"2025",
+"duration":"2h 37m",
+"rating":"8.6",
+"genre":"Crime,Thriller,Action",
+"description":"The Homicide Intervention Team (HIT) sends ruthless police officer Arjun Sarkaar to find a group of killers and stop their grisly murder spree.",
+"type":"movie",
+"cast":"Nani,Srinidhi Shetty,Komalee Prasad,Chaitu Jonnalagadda,Rao Ramesh"
+},
+{
 "title":"Sikandar [2025] WEB-DL [Hindi] | Full Movie",
 "im":"41s42CRXafa3OuRGvCtfYPEBmse",
 "bgi":"l2wRY9DFF9gRhclePCZ1YtoVVMm",
@@ -2769,21 +2783,6 @@ const movies = [
 "type":"movie",
 "quality":"HD-CAM",
 "cast":"Anushka Sharma, Vijay Sethupathi, Gautham Menon"
-},
-{
-"title":"HIT: The Third Case [2025] HQ PRE-HD [Hindi-Telugu] | Full Movie",
-"im":"wT9tGyFol4RBwkjESXUWeBdnLJn",
-"bgi":"xzpXvyetmrdR3NSRN9uy0xO3lR1",
-"dl":"https://pixeldrain.net/api/file/9ruFwKGJ?download",
-"link":"tt23804696",
-"year":"2025",
-"duration":"135 min",
-"rating":"7.8",
-"genre":"Crime, Mystery, Thriller",
-"description":"A hard-hitting investigator is pulled into a case that not only challenges his limits but also uncovers a deep conspiracy in the criminal world.",
-"type":"movie",
-"quality":"pre-hd",
-"cast":"Rajeev Khandelwal, Nivetha Pethuraj, Sandeep Goyat"
 },
 {
 "title":"Batman: The Dark Knight [2008] Blu-Ray [Hindi-English] | Full Movie",

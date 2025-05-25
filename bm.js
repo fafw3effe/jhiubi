@@ -1,6 +1,47 @@
 // Movies data
 const movies = [
 {
+"title":"Peaky Blinders [Season 4] [Episode 4] Blu-Ray [Hindi-English] | All Episodes",
+"im":"vUUqzWa2LnHIVqkaKVlVGkVcZIW",
+"dl":"https://s.pptons.com/2025/05/peaky-blinders_22.html",
+"bgi":"or7wKwv1IT6LEOktt395O5qi7e",
+"year":"2013",
+"duration":"1h per episode",
+"rating":"8.5",
+"genre":"Drama,Crime,",
+"description":"A gangster family epic set in 1919 Birmingham, England and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby, who means to move up in the world.",
+"type":"series",
+"cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
+},
+{
+"title":"L2: Empuraan [2025] WEB-DL [Hindi-Malayalam] | Full Movie",
+"im":"dfaZipN3Aw5BK85nEvfr2FNg4EW",
+"bgi":"jYaoVDJ9J6Me3J0EQCABzQ99YVG",
+"dl":"https://pixeldrain.net/api/file/u9MMNE46?download",
+"dl2":"https://vcloud.lol/3h3ea9q3ifuievy",
+"year":"2025",
+"duration":"2h 59m",
+"rating":"6.3",
+"genre":"Action,Crime,Thriller",
+"description":"Five years after becoming Chief Minister of Kerala, Jathin Ramdas's move to align with communal forces led by Balraj 'Baba' Bajrangi, t...",
+"type":"movie",
+"cast":"Mohanlal,Prithviraj Sukumaran,Manju Warrier,Tovino Thomas,Abhimanyu Singh"
+},
+{
+"title":"Lop Nor Tomb [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"dzzB67NRFDFNRayJ9UOX6rSNRSV",
+"bgi":"qnXTpG7Pa2JAZcjlGw0cfWJwbAp",
+"dl":"https://pub-9146112e007a40978eb65084ba75f618.r2.dev/Lop.Nor.Tomb.2025.720p.WEB.DL.x264.Hindi.Vegamovies.is.mkv",
+"dl2":"https://vcloud.lol/87dbzz08xn8qhd-",
+"year":"2025",
+"duration":"1h 29m",
+"rating":"6.0",
+"genre":"Action,Adventure",
+"description":"We don't have an overview translated in English. Help us expand our database by adding one.",
+"type":"movie",
+"cast":"Bai En,Hu Xue&#39;er,Yang Dongqi"
+},
+{
 "title":"Bhool Chuk Maaf [2025] HD-TC [Hindi] | Full Movie",
 "im":"plWzFq6eVXOm8vpgJG0xUGmifHS",
 "bgi":"c3c9qcUWA9u99RDipH3JL54FT6J",
@@ -13,19 +54,6 @@ const movies = [
 "description":"Ranjan, a small-town romantic boy from Banaras, lands a government job to marry Titli, but forgets to vow to Lord Shiva, causing him to be trapped in ...",
 "type":"movie",
 "cast":"Rajkummar Rao,Wamiqa Gabbi,Raghubir Yadav,Seema Pahwa,Zakir Hussain"
-},
-{
-"title":"Peaky Blinders [Season 4] [Episode 4] Blu-Ray [Hindi-English] | All Episodes",
-"im":"vUUqzWa2LnHIVqkaKVlVGkVcZIW",
-"dl":"https://s.pptons.com/2025/05/peaky-blinders_22.html",
-"bgi":"or7wKwv1IT6LEOktt395O5qi7e",
-"year":"2013",
-"duration":"1h per episode",
-"rating":"8.5",
-"genre":"Drama,Crime,",
-"description":"A gangster family epic set in 1919 Birmingham, England and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby, who means to move up in the world.",
-"type":"series",
-"cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
 {
 "title":"Lilo &amp;amp; Stitch [2025] HD-CAM [Hindi] | Full Movie",
@@ -3585,21 +3613,6 @@ const movies = [
  im:'xrlDfDANWEaNWBlQsxTgmVI8Q7W',
  dl:'https://hubcloud.bz/drive/cktz1tjsrprlrpv',
  link: 'tt28088031'
-},
- 
-{
-"title":"L2: Empuraan [2025] WEB-DL [Hindi-Malayalam-Tamil-Telugu] [HEVC] | Full Movie",
-"im":"rArCWk29zrzOMyItB6AuGWro6DJ",
-"bgi":"jYaoVDJ9J6Me3J0EQCABzQ99YVG",
-"dl":"https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/L2-Empuran.2025.720p.HEVC.WEB-DL.Hindi.ORG-Multi.HC-ESub.x265-HDHub4u.Ms.mkv",
-"year":"2025",
-"duration":"2h 59m",
-"rating":"6.3",
-"genre":"Action,Crime,Thriller",
-"description":"Five years after becoming Chief Minister of Kerala, Jathin Ramdas's move to align with communal forces led by Balraj 'Baba' Bajrangi, triggers Stephen Nedumpally aka Khureshi Ab'raam to return with his Man Friday Zayed Masood to save his home state and settle scores.",
-"type":"movie",
-"quality":"web-dl",
-"cast":"Mohanlal,Prithviraj Sukumaran,Manju Warrier,Tovino Thomas,Abhimanyu Singh"
 },
 {
 "title":"Fantastic Beasts 3: The Secrets of Dumbledore [2022] WEB-DL [Hindi-English] [HEVC] | Full Movie",

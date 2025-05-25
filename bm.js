@@ -41,6 +41,49 @@ const movies = [
 "type":"movie",
 "cast":"Salman Khan,Rashmika Mandanna,Sathyaraj,Sharman Joshi,Prateik Babbar"
 },
+
+{
+"title":"How to Train Your Dragon 3: The Hidden World [2019] WEB-DL [Hindi-English] | Full Movie",
+"im":"xvx4Yhf0DVH8G4LzNISpMfFBDy2",
+"bgi":"h3KN24PrOheHVYs9ypuOIdFBEpX",
+"dl":"https://pixeldrain.net/api/file/eruzEg9C?download",
+"dl2":"https://vcloud.lol/_m2yymiljvzmqqq",
+"year":"2019",
+"duration":"1h 44m",
+"rating":"7.7",
+"genre":"Animation,Family,Adventure",
+"description":"As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away. When ...",
+"type":"movie",
+"cast":"Jay Baruchel,America Ferrera,F. Murray Abraham,Cate Blanchett,Gerard Butler"
+},
+{
+"title":"How to Train Your Dragon 2 [2014] WEB-DL [Hindi-English] | Full Movie",
+"im":"d13Uj86LdbDLrfDoHR5aDOFYyJC",
+"bgi":"5MnP0h7RcUCeX7gpxMYoMScmfq7",
+"dl":"https://pixeldrain.net/api/file/TYrLCXt1?download",
+"dl2":"https://vcloud.lol/l4qbpydl4drqa8r",
+"year":"2014",
+"duration":"1h 42m",
+"rating":"7.7",
+"genre":"Fantasy,Action,Adventure,Animation,Comedy,Family",
+"description":"Five years have passed since Hiccup and Toothless united the dragons and Vikings of Berk. Now, they spend their time charting unmapped territories. Du...",
+"type":"movie",
+"cast":"Jay Baruchel,Cate Blanchett,Gerard Butler,Craig Ferguson,America Ferrera"
+},
+{
+"title":"How to Train Your Dragon [2010] WEB-DL [Hindi-English] | Full Movie",
+"im":"ygGmAO60t8GyqUo9xYeYxSZAR3b",
+"bgi":"59vDC1BuEQvti24OMr0ZvtAK6R1",
+"dl":"https://pixeldrain.net/api/file/ufthzLyF?download",
+"dl2":"https://vcloud.lol/quetut1ihpileti",
+"year":"2010",
+"duration":"1h 38m",
+"rating":"7.8",
+"genre":"Fantasy,Adventure,Animation,Family",
+"description":"As the son of a Viking leader on the cusp of manhood, shy Hiccup Horrendous Haddock III faces a rite of passage: he must kill a dragon to prove his wa...",
+"type":"movie",
+"cast":"Jay Baruchel,Gerard Butler,Craig Ferguson,America Ferrera,Jonah Hill"
+},
 {
 "title":"Hidden Strike [2023] WEB-DL [English] | Full Movie",
 "im":"zsbolOkw8RhTU4DKOrpf4M7KCmi",

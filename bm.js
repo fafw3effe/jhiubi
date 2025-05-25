@@ -17,7 +17,7 @@ const movies = [
 "title":"HIT: The Third Case [2025] WEB-DL [Hindi-Telugu] | Full Movie",
 "im":"wT9tGyFol4RBwkjESXUWeBdnLJn",
 "bgi":"sulb7RwIiO77n1XNM2VhldUFDW1",
-"dl":"https://pub-ed0ca22af5c04301b7abe9dac4aaf9bc.r2.dev/Hit-3.2025.720p.HEVC.WEB-DL.Hindi.ORG-Telugu.x265-HDHub4u.Ms.mkv",
+"dl":"https://pixeldrain.net/api/file/pmTY353C?download",
 "dl2":"https://hubcloud.bz/drive/i8ahdpoa5javplj",
 "year":"2025",
 "duration":"2h 37m",
@@ -41,13 +41,26 @@ const movies = [
 "type":"movie",
 "cast":"Salman Khan,Rashmika Mandanna,Sathyaraj,Sharman Joshi,Prateik Babbar"
 },
-
+{
+"title":"Hidden Strike [2023] WEB-DL [Hindi-English] | Full Movie",
+"im":"zsbolOkw8RhTU4DKOrpf4M7KCmi",
+"bgi":"eLqQ6RleEKUBbqsxQvfJK2iOuVy",
+"dl":"https://pixeldrain.net/api/file/R85zABsc?download",
+"dl2":"https://vcloud.lol/0e-wyy_z0rzygjj",
+"year":"2023",
+"duration":"1h 43m",
+"rating":"6.9",
+"genre":"Action,Comedy,Thriller",
+"description":"Two elite soldiers must escort civilians through a gauntlet of gunfire and explosions.",
+"type":"movie",
+"cast":"Jackie Chan,John Cena,Ma Xinrui,Jiang Wenli,Xu Jia"
+},
 {
 "title":"The Tuxedo [2002] WEB-DL [Hindi-English] | Full Movie",
 "im":"2agrcNQRtgTsN5SbffC4H2BwYW2",
 "bgi":"1wo90L3F7hA9h6cG5xfz3dB1IE6",
-"dl":"",
-"dl2":"",
+"dl":"https://vikingf1le.us.to/d/cHwWwL6qPU/The_Tuxedo_2002_katmoviehd.it.mkv",
+"dl2":"https://new18.gdtot.dad/file/949310785",
 "year":"2002",
 "duration":"1h 38m",
 "rating":"5.7",

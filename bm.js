@@ -4438,21 +4438,6 @@ const movies = [
 "cast":"Tom Ellis,Lauren German,Kevin Alejandro,D.B. Woodside,Lesley-Ann Brandt"
 },
 {
-"title":"Captain America: Brave New World [2025] WEB-DL [Hindi [DD5.1] & English] [HEVC] | Full Movie [Amazon Prime Video]",
-"im":"9TFKZfzzsajmmbu0xWY988Kc7D8",
-"bgi":"8eifdha9GQeZAkexgtD45546XKx",
-"dl":"https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Captain.America.Brave.New.World.2025.720p.HEVC.WEB-DL.Hindi.2.0-English.HEVC.x265-HDHub4u.Ms.mkv",
-"year":"2025",
-"duration":"1h 59m",
-"rating":"6.2",
-"genre":"Action,Thriller,Science Fiction",
-"description":"After meeting with newly elected U.S. President Thaddeus Ross, Sam finds himself in the middle of an international incident. He must discover the reason behind a nefarious global plot before the true mastermind has the entire world seeing red.",
-"type":"movie",
-"quality":"web-dl",
-"cast":"Anthony Mackie,Harrison Ford,Danny Ramirez,Shira Haas,Tim Blake Nelson"
-},
- 
-{
  title:'Panchayat [Season 3] WEB-DL [Hindi] | All Episodes',
  im:'vDF2HPy5vuDA4wjnnvh5UdMIzMg',
  dl:'https://hubcloud.bz/drive/cpbo0qqkpbgnuqg',

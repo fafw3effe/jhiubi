@@ -14,6 +14,20 @@ const movies = [
 "cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
 {
+"title":"Captain America: Brave New World [2025] Blu-Ray [Hindi-English] | Full Movie",
+"im":"pzIddUEMWhWzfvLI3TwxUG2wGoi",
+"bgi":"8eifdha9GQeZAkexgtD45546XKx",
+"dl":"https://pixeldrain.net/api/file/r862aa2o?download",
+"dl2":"https://hubcloud.bz/drive/gb0um9gyog8ybym",
+"year":"2025",
+"duration":"1h 59m",
+"rating":"6.1",
+"genre":"Action,Thriller,Science Fiction",
+"description":"After meeting with newly elected U.S. President Thaddeus Ross, Sam finds himself in the middle of an international incident. He must discover the reas...",
+"type":"movie",
+"cast":"Anthony Mackie,Harrison Ford,Danny Ramirez,Shira Haas,Tim Blake Nelson"
+},
+{
 "title":"Flight Risk [2025] WEB-DL [Hindi-English] | Full Movie",
 "im":"q0bCG4NX32iIEsRFZqRtuvzNCyZ",
 "bgi":"hwlyY7LJdEFbCPaGNXiskKKmJ5X",

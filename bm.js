@@ -28,6 +28,20 @@ const movies = [
 "cast":"Anthony Mackie,Harrison Ford,Danny Ramirez,Shira Haas,Tim Blake Nelson"
 },
 {
+"title":"Annabelle [2014] WEB-DL [Hindi-English] | Full Movie",
+"im":"yLsuU2P2SpDYFwtZQ7dtfVAf6TE",
+"bgi":"eLPXcqgJPCEOf2cMwyTEXejRhrC",
+"dl":"https://pixeldrain.net/api/file/k1JWEWV1?download",
+"dl2":"https://vcloud.lol/uiiaoigpqgwogg_",
+"year":"2014",
+"duration":"1h 39m",
+"rating":"5.8",
+"genre":"Horror",
+"description":"A couple begins to experience terrifying supernatural occurrences involving a vintage doll shortly after their home is invaded by satanic cultists.",
+"type":"movie",
+"cast":"Annabelle Wallis,Ward Horton,Tony Amendola,Alfre Woodard,Eric Ladin"
+},
+{
 "title":"Flight Risk [2025] WEB-DL [Hindi-English] | Full Movie",
 "im":"q0bCG4NX32iIEsRFZqRtuvzNCyZ",
 "bgi":"hwlyY7LJdEFbCPaGNXiskKKmJ5X",

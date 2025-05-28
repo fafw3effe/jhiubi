@@ -1,7 +1,7 @@
 // Movies data
 const movies = [
 {
-"title":"Peaky Blinders [Season 5] [Episode 1] Blu-Ray [Hindi-English] | All Episodes",
+"title":"Peaky Blinders [Season 5] [Episode 2] Blu-Ray [Hindi-English] | All Episodes",
 "im":"vUUqzWa2LnHIVqkaKVlVGkVcZIW",
 "dl":"https://s.pptons.com/2025/05/peaky-blinders_22.html",
 "bgi":"or7wKwv1IT6LEOktt395O5qi7e",
@@ -12,6 +12,20 @@ const movies = [
 "description":"A gangster family epic set in 1919 Birmingham, England and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby, who means to move up in the world.",
 "type":"series",
 "cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
+},
+{
+"title":"HIT: The Third Case [2025] Netflix WEB-DL [Hindi-Telugu] | Full Movie",
+"im":"wT9tGyFol4RBwkjESXUWeBdnLJn",
+"bgi":"sulb7RwIiO77n1XNM2VhldUFDW1",
+"dl":"https://pixeldrain.net/api/file/ZiZXZpws?download",
+"dl2":"https://hubcloud.bz/drive/ncc9rcr9hpn1pqm",
+"year":"2025",
+"duration":"2h 37m",
+"rating":"8.6",
+"genre":"Crime,Thriller,Action",
+"description":"The Homicide Intervention Team (HIT) sends ruthless police officer Arjun Sarkaar to find a group of killers and stop their grisly murder spree.",
+"type":"movie",
+"cast":"Nani,Srinidhi Shetty,Komalee Prasad,Chaitu Jonnalagadda,Rao Ramesh"
 },
 {
 "title":"Captain America: Brave New World [2025] Blu-Ray [Hindi-English] | Full Movie",
@@ -138,20 +152,6 @@ const movies = [
 "description":"It's the 1940s, and the notorious Axe Gang terrorizes Shanghai. Small-time criminals Sing and Bone hope to join, but they only manage to make lot...",
 "type":"movie",
 "cast":"Stephen Chow,Yuen Qiu,Yuen Wah,Lam Tze-Chung,Bruce Leung Siu-Lung"
-},
-{
-"title":"HIT: The Third Case [2025] WEB-DL [Hindi-Telugu] | Full Movie",
-"im":"wT9tGyFol4RBwkjESXUWeBdnLJn",
-"bgi":"sulb7RwIiO77n1XNM2VhldUFDW1",
-"dl":"https://pixeldrain.net/api/file/pmTY353C?download",
-"dl2":"https://hubcloud.bz/drive/i8ahdpoa5javplj",
-"year":"2025",
-"duration":"2h 37m",
-"rating":"8.6",
-"genre":"Crime,Thriller,Action",
-"description":"The Homicide Intervention Team (HIT) sends ruthless police officer Arjun Sarkaar to find a group of killers and stop their grisly murder spree.",
-"type":"movie",
-"cast":"Nani,Srinidhi Shetty,Komalee Prasad,Chaitu Jonnalagadda,Rao Ramesh"
 },
 {
 "title":"Sikandar [2025] WEB-DL [Hindi] | Full Movie",

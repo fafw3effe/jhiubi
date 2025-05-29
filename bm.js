@@ -14,6 +14,20 @@ const movies = [
 "cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
 {
+"title":"Thudarum [2025] WEB-DL [Hindi-Malayalam] | Full Movie",
+"im":"uOTDBabtxHA6szYKQNQe9Y7rFlv",
+"bgi":"q6tHgBlYpesjUL9NumNoGpePaGT",
+"dl":"https://pixeldrain.net/api/file/NJ3xRb36?download",
+"dl2":"https://hubcloud.bz/drive/v61xiipi6diy7ti",
+"year":"2025",
+"duration":"2h 44m",
+"rating":"7.8",
+"genre":"Drama,Thriller",
+"description":"A taxi driver finds himself embroiled in a dangerous conspiracy after his car is confiscated by a corrupt police officer.",
+"type":"movie",
+"cast":"Mohanlal,Shobana,Prakash Varma,Maniyanpilla Raju,Farhaan Faasil"
+},
+{
 "title":"Retro [2025] WEB-DL [Hindi-Tamil] | Full Movie",
 "im":"94lS6zIdNGozxiAgnet0BAbvMWV",
 "bgi":"rGcZhLzwOLz3OWWpYrelgP4HUIQ",
@@ -3451,20 +3465,6 @@ const movies = [
 "description":"A suspense-filled thriller where the main character is caught in a deadly conspiracy after accidentally uncovering dark secrets that powerful people want to keep hidden.",
 "type":"movie",
 "quality":"web-dl"
-},
-{
-"title":"Thudarum [2025] HQ-V2 HDTC [Malayalam] | Full Movie",
-"im":"uOTDBabtxHA6szYKQNQe9Y7rFlv",
-"bgi":"q6tHgBlYpesjUL9NumNoGpePaGT",
-"dl":"https://pixeldrain.net/api/file/VF7QbbaP?download",
-"link":"tt31969600",
-"year":"2025",
-"duration":"120 min",
-"rating":"6.9",
-"genre":"Action, Drama",
-"description":"In a thrilling tale of revenge and justice, a young man seeks to avenge the wrongs done to his family, while facing ruthless adversaries in his path.",
-"type":"movie",
-"quality":"hq-v2 hdtc"
 },
 {
 "title":"I Saw the TV Glow [2025] Blu-Ray [Hindi-English] | Full Movie",

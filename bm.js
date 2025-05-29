@@ -1869,7 +1869,7 @@ const movies = [
 "type":"movie",
 "cast":"Auliʻi Cravalho,Dwayne Johnson,Rachel House,Temuera Morrison,Jemaine Clement"
 },
-{
+/*{
 "title":"Karate Kid: Legends [2025] HDTS [English] | Full Movie",
 "im":"ckI6bmQDvvGy20FPTIW1kfGKGRK",
 "bgi":"tGjo4L15aELqZGqQH3ThZQGMKmL",
@@ -1881,7 +1881,7 @@ const movies = [
 "description":"After a family tragedy, kung fu prodigy Li Fong is uprooted from his home in Beijing and forced to move to New York City with his mother. When a new friend needs his help, Li enters a karate competition – but his skills alone aren't enough. Li's kung fu teacher Mr. Han enlists original Karate Kid Daniel LaRusso for help, and Li learns a new way to fight, merging their two styles into one for the ultimate martial arts showdown.",
 "type":"movie",
 "cast":"Ben Wang,Jackie Chan,Ralph Macchio,Joshua Jackson,Sadie Stanley"
-},
+},*/
 {
 "title":"The Karate Kid [2010] WEB-DL [Hindi-English] | Full Movie",
 "im":"b1RBy3l297N0c7PHjlz35cClWju",

@@ -28,7 +28,7 @@ const movies = [
 "cast":"Suriya,Pooja Hegde,Joju George,Jayaram,Vidhu"
 },
 {
-"title":"Devils Double Next Level [2025] WEB-DL [Hindi] | Full Movie",
+"title":"Devils Double Next Level [2025] WEB-DL [Hindi-Tamil] | Full Movie",
 "im":"jS8XroVkuvsdXcCNnWUnaxj9XNX",
 "bgi":"ijy6b2frS9rkWGF7UYGRfUPtvoo",
 "dl":"https://pub-ed0ca22af5c04301b7abe9dac4aaf9bc.r2.dev/Devils.Double.Next.Level.2025.720p.HEVC.WEB-DL.Hindi.CLEAN-Tamil.x265-HDHub4u.Ms.mkv",

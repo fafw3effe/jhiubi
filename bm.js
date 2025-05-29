@@ -14,6 +14,20 @@ const movies = [
 "cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
 {
+"title":"Narivetta [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"3xhdWk6y5hVUAOhW7MsBMA7wb10",
+"bgi":"dMgF7mMbZO6ogxI4teciz5203UV",
+"dl":"https://pub-ed0ca22af5c04301b7abe9dac4aaf9bc.r2.dev/Narivetta.2025.720p.HDCAM.Hindi.LiNE.HC-ESub.x264-HDHub4u.Tv.mkv",
+"dl2":"https://hubcloud.bz/drive/kynwa9yb3bbycb9",
+"year":"2025",
+"duration":"2h 18m",
+"rating":"8.0",
+"genre":"Drama,Action",
+"description":"A police officer uncovers a conspiracy based around state-sanctioned violence against victimized villagers.",
+"type":"movie",
+"cast":"Tovino Thomas,Suraj Venjaramoodu,Cheran,Arya Salim,Priyamvada Krishna"
+},
+{
 "title":"Criminal Justice: Adhura Sach [Season 4] WEB-DL [Hindi] | All Episodes",
 "im":"skCHAsB0qIzG13UxV7TKyqTP8HP",
 "bgi":"sTIBAlkG23DDP8EdEWLr9jVQGXv",

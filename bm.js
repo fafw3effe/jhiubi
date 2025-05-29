@@ -14,7 +14,35 @@ const movies = [
 "cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
 {
-"title":"Narivetta [2025] WEB-DL [Hindi-English] | Full Movie",
+"title":"Retro [2025] WEB-DL [Hindi-Tamil] | Full Movie",
+"im":"94lS6zIdNGozxiAgnet0BAbvMWV",
+"bgi":"rGcZhLzwOLz3OWWpYrelgP4HUIQ",
+"dl":"https://pixeldrain.net/api/file/zrmZ772L?download",
+"dl2":"https://hubcloud.bz/drive/0lwsohhb0ym0w13",
+"year":"2025",
+"duration":"2h 42m",
+"rating":"6.6",
+"genre":"Romance,Action,Drama,Crime",
+"description":"Raised by a criminal father, Paarivel Kannan leaves behind his adoptive family to build a quiet life with his love, Rukmini. But his violent past won&...",
+"type":"movie",
+"cast":"Suriya,Pooja Hegde,Joju George,Jayaram,Vidhu"
+},
+{
+"title":"Devils Double Next Level [2025] WEB-DL [Hindi] | Full Movie",
+"im":"jS8XroVkuvsdXcCNnWUnaxj9XNX",
+"bgi":"ijy6b2frS9rkWGF7UYGRfUPtvoo",
+"dl":"https://pub-ed0ca22af5c04301b7abe9dac4aaf9bc.r2.dev/Devils.Double.Next.Level.2025.720p.HEVC.WEB-DL.Hindi.CLEAN-Tamil.x265-HDHub4u.Ms.mkv",
+"dl2":"https://hubcloud.bz/drive/3fnpxz253nmpqdr",
+"year":"2025",
+"duration":"2h 11m",
+"rating":"6.1",
+"genre":"Horror,Comedy",
+"description":"A well-known movie critic is invited by a strange person to watch a special horror film. But once the movie starts, he finds himself trapped inside it...",
+"type":"movie",
+"cast":"Santhanam,Selvaraghavan,Geethika Tiwary,Gautham Vasudev Menon,Rajendran"
+},
+{
+"title":"Narivetta [2025] HD-CAM [Hindi] | Full Movie",
 "im":"3xhdWk6y5hVUAOhW7MsBMA7wb10",
 "bgi":"dMgF7mMbZO6ogxI4teciz5203UV",
 "dl":"https://pub-ed0ca22af5c04301b7abe9dac4aaf9bc.r2.dev/Narivetta.2025.720p.HDCAM.Hindi.LiNE.HC-ESub.x264-HDHub4u.Tv.mkv",
@@ -1479,19 +1507,6 @@ const movies = [
 "description":"Sunny, a brilliant small-time artist is catapulted into the high-stakes world of counterfeiting when he creates the perfect fake currency note, even as Michael, a fiery, unorthodox task force officer wants to rid the country of the counterfeiting menace. In this thrilling cat-and-mouse race, losing is not an option!",
 "type":"series",
 "cast":"Shahid Kapoor,Vijay Sethupathi,Kay Kay Menon,Bhuvan Arora,Raashii Khanna"
-},
-{
-"title":"Devils Double Next Level [2025] HD-CAM [Hindi] | Full Movie",
-"im":"rIkOhREf46L2sdlHN1dkX0qWKMd",
-"bgi":"ijy6b2frS9rkWGF7UYGRfUPtvoo",
-"dl":"https://pixeldrain.net/api/file/R9WPWeoa?download",
-"year":"2025",
-"duration":"2h 13m",
-"rating":"6.0",
-"genre":"Horror,Comedy,",
-"description":"A well-known movie critic is invited by a strange person to watch a special horror film. But once the movie starts, he finds himself trapped inside it. The world keeps shifting timelines, endless day-to-night cycles, non-linear narration, and scary things from horror movies come to life. To escape, he must either stop reviewing movies forever or find a way to defeat the ghost that trapped him.",
-"type":"movie",
-"cast":"Santhanam,Selvaraghavan,Geethika Tiwary,Gautham Vasudev Menon,Rajendran"
 },
 {
 "title":"MASHLE: MAGIC AND MUSCLES [All Seasons] WEB-DL [Hindi-Japanese] | All Episodes",
@@ -3090,21 +3105,6 @@ const movies = [
 "type":"movie",
 "quality":"web-dl",
 "cast":"Nivetha Thomas, Sree Vishnu, Sampath Raj"
-},
-{
-"title":"Retro [2025] HDCAM [Hindi] | Full Movie",
-"im":"94lS6zIdNGozxiAgnet0BAbvMWV",
-"bgi":"rGcZhLzwOLz3OWWpYrelgP4HUIQ",
-"dl":"https://pixeldrain.net/api/file/hM4L4Pv5?download",
-"link":"tt31945132",
-"year":"2025",
-"duration":"95 min",
-"rating":"6.5",
-"genre":"Sci-Fi, Thriller",
-"description":"In a futuristic world, a detective investigates a mysterious crime that leads him to a time-bending conspiracy threatening the fabric of reality.",
-"type":"movie",
-"quality":"HD-CAM",
-"cast":"Anushka Sharma, Vijay Sethupathi, Gautham Menon"
 },
 {
 "title":"Batman: The Dark Knight [2008] Blu-Ray [Hindi-English] | Full Movie",

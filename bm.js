@@ -14,6 +14,34 @@ const movies = [
 "cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
 {
+"title":"Riff Raff [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"xPSur71bxvFVdQ6RdKv0yaVKT2n",
+"bgi":"dAeubkAjzTCoP3VFFxu0Btm4mFp",
+"dl":"https://pub-ed0ca22af5c04301b7abe9dac4aaf9bc.r2.dev/Riff.Raff.2024.720p.10Bit.BluRay.Hindi.5.1-English.HEVC.x265-HDHub4u.Ms.mkv",
+"dl2":"https://hubcloud.ink/drive/bfqpqhzw6yrvak7",
+"year":"2025",
+"duration":"1h 43m",
+"rating":"5.8",
+"genre":"Comedy,Crime,Drama",
+"description":"A retired hitman's life is turned upside down when his ex-wife and son arrive unannounced during the holidays because they are on the run from hi...",
+"type":"movie",
+"cast":"Jennifer Coolidge,Ed Harris,Gabrielle Union,Miles J. Harvey,Emanuela Postacchini"
+},
+{
+"title":"Final Destination: Bloodlines [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"6WxhEvFsauuACfv8HyoVX6mZKFj",
+"bgi":"uIpJPDNFoeX0TVml9smPrs9KUVx",
+"dl":"https://pub-ed0ca22af5c04301b7abe9dac4aaf9bc.r2.dev/Final.Destination-BloodLines.2025.720p.HEVC.WEB-DL.Hindi.LiNE-English.x265-HDHub4u.Ms.mkv",
+"dl2":"https://hubcloud.bz/drive/q9w1w2agqq1m916",
+"year":"2025",
+"duration":"1h 50m",
+"rating":"7.0",
+"genre":"Horror,Mystery",
+"description":"Plagued by a violent recurring nightmare, college student Stefanie heads home to track down the one person who might be able to break the cycle and sa...",
+"type":"movie",
+"cast":"Kaitlyn Santa Juana,Teo Briones,Rya Kihlstedt,Richard Harmon,Owen Patrick Joyner"
+},
+{
 "title":"The Last of Us [Season 1-2] WEB-DL [Hindi-English] | All Episodes",
 "im":"dmo6TYuuJgaYinXBPjrgG9mB5od",
 "dl":"https://s.pptons.com/2025/05/the-last-of-us.html",
@@ -2185,19 +2213,6 @@ const movies = [
 "type":"movie",
 "quality":"web-dl",
 "cast":"Adivi Sesh,Regina Cassandra,Naveen Chandra,Murali Sharma,Pavitra Lokesh"
-},
-{
-"title":"Final Destination Bloodlines [2025] PRE-HD [Hindi-English] | Full Movie",
-"im":"cAoktVUBhGyULRoxV6mZ2LB3x7I",
-"bgi":"j0NUh5irX7q2jIRtbLo8TZyRn6y",
-"dl":"https://pixeldrain.net/api/file/vq16ALvo?download",
-"year":"2025",
-"duration":"1h 50m",
-"rating":"7.2",
-"genre":"Horror,Mystery,",
-"description":"Plagued by a violent recurring nightmare, college student Stefanie heads home to track down the one person who might be able to break the cycle and save her family from the grisly demise that inevitably awaits them all.",
-"type":"movie",
-"cast":"Kaitlyn Santa Juana,Teo Briones,Richard Harmon,Owen Patrick Joyner,Rya Kihlstedt"
 },
 {
 "title":"Gangers [2025] WEB-DL [Hindi] | Full Movie",

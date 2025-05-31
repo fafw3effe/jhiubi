@@ -14,6 +14,20 @@ const movies = [
 "cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
 {
+"title":"SPY x FAMILY CODE: White [2023] WEB-DL [Hindi-English] | Full Movie",
+"im":"xlIQf4y9eB14iYzNN142tROIWON",
+"bgi":"zVDJ4cRgSpHlILSm7kGiklHQ6O7",
+"dl":"https://pixeldrain.net/api/file/D37xXrJ9?download",
+"dl2":"https://vcloud.lol/ajuarbjw_db4ojw",
+"year":"2023",
+"duration":"1h 50m",
+"rating":"7.0",
+"genre":"Animation,Comedy,Adventure,Action",
+"description":"While under the guise of taking his family on a weekend winter getaway, Loid's attempt to make progress on his current mission Operation Strix pr...",
+"type":"movie",
+"cast":"Takuya Eguchi,Atsumi Tanezaki,Saori Hayami,Kenichirou Matsuda,Tomoya Nakamura"
+},
+{
 "title":"SPY x FAMILY [Season 1-2] WEB-DL [Hindi-English] | All Episodes",
 "im":"gHZqglFWJTFwx6rnTq4vkPRnuxu",
 "bgi":"lysUnU6V0VfcthDbviuVlIqgHOR",

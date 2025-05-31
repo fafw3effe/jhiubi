@@ -14,6 +14,19 @@ const movies = [
 "cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
 {
+"title":"The Last of Us [Season 1-2] WEB-DL [Hindi-English] | All Episodes",
+"im":"dmo6TYuuJgaYinXBPjrgG9mB5od",
+"dl":"https://s.pptons.com/2025/05/the-last-of-us.html",
+"bgi":"lY2DhbA7Hy44fAKddr06UrXWWaQ",
+"year":"2023",
+"duration":"1h per episode",
+"rating":"8.6",
+"genre":"Drama,",
+"description":"Twenty years after modern civilization has been destroyed, Joel, a hardened survivor, is hired to smuggle Ellie, a 14-year-old girl, out of an oppressive quarantine zone. What starts as a small job soon becomes a brutal, heartbreaking journey, as they both must traverse the United States and depend on each other for survival.",
+"type":"series",
+"cast":"Pedro Pascal,Bella Ramsey,Gabriel Luna,Isabela Merced,Young Mazino"
+},
+{
 "title":"My Hero Academia [Season 7] [Episode 5] WEB-DL [Hindi-English] | All Episodes",
 "im":"phuYuzqWW9ru8EA3HVjE9W2Rr3M",
 "bgi":"6wSSyRNeF9vBJ1h29nuw3vG9hZI",
@@ -1533,19 +1546,6 @@ const movies = [
 "description":"The Virgin Tree, based in the heart of St. Vincent's College, is home to a spirit who awakens every Valentine's Day  in response to the longing for true love. As strange incidents multiply, the Virgin Tree becomes a place of dread,  the authorities call in a veteran para-physicist to confront the entity.",
 "type":"movie",
 "cast":"Sanjay Dutt,Mouni Roy,Palak Tiwari,Aasif Khan,Sunny Singh"
-},
-{
-"title":"The Last of Us [Season 2] [Episode 6] WEB-DL [Hindi-English] | All Episodes [Season 1]",
-"im":"dmo6TYuuJgaYinXBPjrgG9mB5od",
-"dl":"https://s.pptons.com/2025/05/the-last-of-us.html",
-"bgi":"lY2DhbA7Hy44fAKddr06UrXWWaQ",
-"year":"2023",
-"duration":"1h per episode",
-"rating":"8.6",
-"genre":"Drama,",
-"description":"Twenty years after modern civilization has been destroyed, Joel, a hardened survivor, is hired to smuggle Ellie, a 14-year-old girl, out of an oppressive quarantine zone. What starts as a small job soon becomes a brutal, heartbreaking journey, as they both must traverse the United States and depend on each other for survival.",
-"type":"series",
-"cast":"Pedro Pascal,Bella Ramsey,Gabriel Luna,Isabela Merced,Young Mazino"
 },
 {
 "title":"I Want to Eat Your Pancreas [2018] WEB-DL [Hindi-English] | Full Movie",

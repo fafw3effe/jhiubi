@@ -14,6 +14,20 @@ const movies = [
 "cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
 {
+"title":"Showing Up [2023] WEB-DL [Hindi-English] | Full Movie",
+"im":"iJw55oTb2MlG4NWjq3sbIFUVU76",
+"bgi":"wFZ0b8r8pGLubLUFO2SoNGzyRbp",
+"dl":"https://pixeldrain.net/api/file/ujdPYXhz?download",
+"dl2":"https://hubcloud.bz/drive/sfqs1lxnqbifenv",
+"year":"2023",
+"duration":"1h 48m",
+"rating":"5.8",
+"genre":"Comedy,Drama",
+"description":"In the days leading up to a possibly career-changing exhibition, a sculptor navigates her relationships with family, friends, and colleagues.",
+"type":"movie",
+"cast":"Michelle Williams,Hong Chau,Maryann Plunkett,John Magaro,André 3000"
+},
+{
 "title":"Riff Raff [2025] WEB-DL [Hindi-English] | Full Movie",
 "im":"xPSur71bxvFVdQ6RdKv0yaVKT2n",
 "bgi":"dAeubkAjzTCoP3VFFxu0Btm4mFp",

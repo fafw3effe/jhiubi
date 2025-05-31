@@ -14,6 +14,19 @@ const movies = [
 "cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
 {
+"title":"SPY x FAMILY [Season 1-2] WEB-DL [Hindi-English] | All Episodes",
+"im":"gHZqglFWJTFwx6rnTq4vkPRnuxu",
+"bgi":"lysUnU6V0VfcthDbviuVlIqgHOR",
+"dl":"https://s.pptons.com/2025/05/spy-x-family.html",
+"year":"2022",
+"duration":"21 min per episode",
+"rating":"8.6",
+"genre":"Animation,Comedy,Action & Adventure",
+"description":"World peace is at stake and secret agent Twilight must undergo his most difficult mission yet—pretend to be a family man. Posing as a loving husband...",
+"type":"series",
+"cast":"Takuya Eguchi,Atsumi Tanezaki,Saori Hayami,Kenichirou Matsuda,Hana Sato"
+},
+{
 "title":"Showing Up [2023] WEB-DL [Hindi-English] | Full Movie",
 "im":"iJw55oTb2MlG4NWjq3sbIFUVU76",
 "bgi":"wFZ0b8r8pGLubLUFO2SoNGzyRbp",

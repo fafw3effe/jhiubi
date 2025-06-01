@@ -14,6 +14,19 @@ const movies = [
 "cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
 {
+"title":"Stranger Things [Season 1-4] WEB-DL [Hindi-English] | All Episodes",
+"im":"uOOtwVbSr4QDjAGIifLDwpb2Pdl",
+"bgi":"56v2KjBlU4XaOv9rVYEQypROD7P",
+"dl":"https://s.pptons.com/2025/06/stranger-things.html",
+"year":"2016",
+"duration":"1h per episode",
+"rating":"8.6",
+"genre":"Drama,Sci-Fi & Fantasy,Mystery",
+"description":"When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+"type":"series",
+"cast":"Millie Bobby Brown,Finn Wolfhard,Gaten Matarazzo,Caleb McLaughlin,David Harbour"
+},
+{
 "title":"Sex Education [Season 1-4] WEB-DL [Hindi-English] | All Episodes",
 "im":"bc3bmTdnoKcRuO9xdQKgAbB7Y9Z",
 "bgi":"u23G9KZregWHs1use6ir1fX27gl",

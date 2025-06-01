@@ -4740,20 +4740,7 @@ const movies = [
 "description":"Panchayat is a comedy-drama, which captures the journey of an engineering graduate Abhishek, who for lack of a better job option joins as secretary of a panchayat office in a remote village of Uttar Pradesh. Stuck between crazy villagers and a difficult village lifestyle Abhishek starts his job with the sole motivation of getting out of there as soon as possible, for which he even prepares for CAT.",
 "type":"series",
 "cast":"Jitendra Kumar,Raghubir Yadav,Neena Gupta,Chandan Roy,Faisal Malik"},
- 
-{
- title:'Stranger Things [Season 4] [VOL 1-2]WEB-DL [Hindi-English] | All Episodes',
- im:'5xiUqrCFgT6wU2KzynZMu5CXkM6',
- dl:'https://hubcloud.bz/drive/sv6s9gnbssawnrn',
-"bgi":"2MaumbgBlW1NoPo3ZJO38A6v7OS",
-"year":"2016",
-"duration":"1h per episode",
-"rating":"8.6",
-"genre":"Drama,Sci-Fi & Fantasy,Mystery,",
-"description":"When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
-"type":"series",
-"cast":"Millie Bobby Brown,Finn Wolfhard,Gaten Matarazzo,Caleb McLaughlin,David Harbour"},
- 
+
 {
  title:'Better Call Saul [Season 6] Blu-Ray [Hindi-English] | All Episodes',
  im:'rbNc44otT6VRd7QpxqlUAMyByaQ',

@@ -14,6 +14,19 @@ const movies = [
 "cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
 {
+"title":"The Boys [Season 1-4] WEB-DL [Hindi-English] | All Episodes",
+"im":"2zmTngn1tYC1AvfnrFLhxeD82hz",
+"bgi":"7cqKGQMnNabzOpi7qaIgZvQ7NGV",
+"dl":"https://s.pptons.com/2025/06/the-boys.html",
+"year":"2019",
+"duration":"1h per episode",
+"rating":"8.5",
+"genre":"Sci-Fi & Fantasy,Action & Adventure",
+"description":"A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness...",
+"type":"series",
+"cast":"Karl Urban,Jack Quaid,Antony Starr,Erin Moriarty,Jessie T. Usher"
+},
+{
 "title":"Stranger Things [Season 1-4] WEB-DL [Hindi-English] | All Episodes",
 "im":"uOOtwVbSr4QDjAGIifLDwpb2Pdl",
 "bgi":"56v2KjBlU4XaOv9rVYEQypROD7P",

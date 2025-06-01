@@ -14,6 +14,19 @@ const movies = [
 "cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
 {
+"title":"Sex Education [Season 1-4] WEB-DL [Hindi-English] | All Episodes",
+"im":"bc3bmTdnoKcRuO9xdQKgAbB7Y9Z",
+"bgi":"u23G9KZregWHs1use6ir1fX27gl",
+"dl":"https://s.pptons.com/2025/06/sex-education.html",
+"year":"2019",
+"duration":"1h per episode",
+"rating":"8.2",
+"genre":"Comedy,Drama",
+"description":"Inexperienced Otis channels his sex therapist mom when he teams up with rebellious Maeve to set up an underground sex therapy clinic at school.",
+"type":"series",
+"cast":"Asa Butterfield,Gillian Anderson,Ncuti Gatwa,Emma Mackey,Kedar Williams-Stirling"
+},
+{
 "title":"SPY x FAMILY CODE: White [2023] WEB-DL [Hindi-English] | Full Movie",
 "im":"xlIQf4y9eB14iYzNN142tROIWON",
 "bgi":"zVDJ4cRgSpHlILSm7kGiklHQ6O7",

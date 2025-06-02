@@ -14,6 +14,19 @@ const movies = [
 "cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
 {
+"title":"C.I.D. [Season 2] [Episode 48] WEB-DL [Hindi]",
+"im":"60ZxbAMk6QO8jMD0p8WrGHVCbyK",
+"bgi":"1gZrOa2E9DOohEvSLLBJqus2zGu",
+"dl":"https://s.pptons.com/2025/06/cid.html",
+"year":"1998",
+"duration":"1h per episode",
+"rating":"5.9",
+"genre":"Action & Adventure,Crime,Drama,Mystery",
+"description":"The first thrilling investigative series on Indian Television, is today one of the most popular shows on Sony Entertainment Television. Dramatic and a...",
+"type":"series",
+"cast":"Aditya Srivastava,Shivaji Satham,Dayanand Shetty,Narendra Gupta,Ansha Sayed"
+},
+{
 "title":"The Boys [Season 1-4] WEB-DL [Hindi-English] | All Episodes",
 "im":"2zmTngn1tYC1AvfnrFLhxeD82hz",
 "bgi":"7cqKGQMnNabzOpi7qaIgZvQ7NGV",
@@ -3781,20 +3794,6 @@ const movies = [
 "genre":"Drama, Thriller",
 "description":"A man embarks on a perilous journey to track down a long-lost loved one, uncovering deep secrets along the way. His journey becomes a battle against time and destiny.",
 "type":"movie",
-"quality":"web-dl"
-},
-{
-"title":"CiD [Season 2] [Episode 38] WEB-DL [Hindi]",
-"im":"60ZxbAMk6QO8jMD0p8WrGHVCbyK",
-"bgi":"aqyxAXhx6yTdKOlCRiiKM5TsXpp",
-"dl":"https://pixeldrain.net/api/file/cadQFjh6?download",
-"link":"tt0401916F",
-"year":"2025",
-"duration":"45 min",
-"rating":"8.0",
-"genre":"Crime, Mystery",
-"description":"The team at CID continues to unravel intricate mysteries, solving crimes that seem unsolvable. This episode delves into the psyche of a criminal mastermind.",
-"type":"series",
 "quality":"web-dl"
 },
 {

@@ -27,6 +27,34 @@ const movies = [
 "cast":"Aditya Srivastava,Shivaji Satham,Dayanand Shetty,Narendra Gupta,Ansha Sayed"
 },
 {
+"title":"Gajaana [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"4T15krfH63uSTk9wI4yIN7YcqkZ",
+"bgi":"7AVjjrzoW2J6aAe8sDH5LD0YZtG",
+"dl":"https://pub-ed0ca22af5c04301b7abe9dac4aaf9bc.r2.dev/Gajaana.2025.720p.HEVC.Hindi.WEB-DL.2.0.ESub.x265-HDHub4u.Ms.mkv",
+"dl2":"https://hubcloud.bz/drive/aa6daz1pbpszfdb",
+"year":"2025",
+"duration":"2h 5m",
+"rating":"0.0",
+"genre":"Comedy,Adventure,Fantasy,Thriller",
+"description":"A group of greedy people were entering enchanted Forest in search of treasure and unexpectedly they over come hurdles in a mysterious way. did they fi...",
+"type":"movie",
+"cast":"Vedhika,Inigo Prabhakaran,Prathap Pothan,Yogi Babu,Velu Prabhakaran"
+},
+{
+"title":"Tourist Family [2025] WEB-DL [Hindi-Tamil] | Full Movie",
+"im":"rEffPihtdQXiXfRdfq7pPM5JDqa",
+"bgi":"9aecROz2WTJVxO0MMKrMDQsx7F6",
+"dl":"https://pixeldrain.net/api/file/UAYbwV1B?download",
+"dl2":"https://hubcloud.bz/drive/edgyg3y1fdbsned",
+"year":"2025",
+"duration":"2h 8m",
+"rating":"8.4",
+"genre":"Comedy,Drama,Family",
+"description":"A quirky Sri Lankan family seeking a fresh start in India transforms a disconnected neighborhood into a vibrant community with their infectious love a...",
+"type":"movie",
+"cast":"M. Sasikumar,Simran,Mithun Jai Sankar,Kamalesh Jegan,Yogi Babu"
+},
+{
 "title":"The Boys [Season 1-4] WEB-DL [Hindi-English] | All Episodes",
 "im":"2zmTngn1tYC1AvfnrFLhxeD82hz",
 "bgi":"7cqKGQMnNabzOpi7qaIgZvQ7NGV",

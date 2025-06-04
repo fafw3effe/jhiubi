@@ -1,7 +1,7 @@
 // Movies data
 const movies = [
 {
-"title":"Peaky Blinders [Season 5] [Episode 4] Blu-Ray [Hindi-English] | All Episodes",
+"title":"Peaky Blinders [Season 5] [Episode 5] Blu-Ray [Hindi-English] | All Episodes",
 "im":"vUUqzWa2LnHIVqkaKVlVGkVcZIW",
 "dl":"https://s.pptons.com/2025/05/peaky-blinders_22.html",
 "bgi":"or7wKwv1IT6LEOktt395O5qi7e",
@@ -12,6 +12,60 @@ const movies = [
 "description":"A gangster family epic set in 1919 Birmingham, England and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby, who means to move up in the world.",
 "type":"series",
 "cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
+},
+{
+"title":"Criminal Code [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"fDu0T5WE0QAoX2yAqZ1RtlWBn6I",
+"bgi":"cSVDsq0UaTtP6TOpU0VIa6yiqlj",
+"dl":"https://s.pptons.com/2025/06/criminal-code.html",
+"year":"2023",
+"duration":"1h per episode",
+"rating":"7.7",
+"genre":"Drama,Crime,Action & Adventure",
+"description":"To crack the code of an investigation into a larger-than-life robbery, federal agents need to get creative.",
+"type":"series",
+"cast":"Gabriela Moreno,Daniel Bisogni,Maeve Jinkings,Rômulo Braga,Thomás Aquino"
+},
+{
+"title":"Sara - Woman in the Shadows [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"nqKP7dOzbtP2Pmvec0ntOJDM6mb",
+"bgi":"cBsAo9icWr0mZBvd4Rc0R4kxnDU",
+"dl":"https://s.pptons.com/2025/06/sara-woman-in-shadows.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"10.0",
+"genre":"Mystery,Drama,Crime",
+"description":"The suspicious death of her son pushes a former secret agent back into action, investigating a series of crimes that grows increasingly sinister.",
+"type":"series",
+"cast":"Teresa Saponangelo,Claudia Gerini,Flavio Furno,Massimo Popolizio,Antonio Gerardi"
+},
+{
+"title":"Stolen [2023] WEB-DL [Hindi] | Full Movie",
+"im":"xR5Endhjm4soY6fPgXY0jrpDZvL",
+"bgi":"rJsHZLgwJDrhaXIePEF9a8KkaA2",
+"dl":"https://pixeldrain.net/u/R2p3RGde",
+"dl2":"https://hubcloud.bz/drive/i75grf0praq17ir",
+"year":"2023",
+"duration":"1h 32m",
+"rating":"6.8",
+"genre":"Drama,Thriller",
+"description":"The five-month-old baby of impoverished tribal woman Jhumpa Mahato is stolen. Two brothers, Gautam and Raman, who witness the kidnapping, try to help ...",
+"type":"movie",
+"cast":"Abhishek Banerjee,Shubham,Mia Maelzer,Sahidur Rahaman,Harish Khanna"
+},
+{
+"title":"Paru Parvathy [2025] WEB-DL [Hindi] | Full Movie",
+"im":"5WdDV5heONJKOXdA5AwhACjKRfl",
+"bgi":"5WdDV5heONJKOXdA5AwhACjKRfl",
+"dl":"https://pixeldrain.net/api/file/BhkLuEio?download",
+"dl2":"https://hubcloud.bz/drive/etkkvefqktzkfkk",
+"year":"2025",
+"duration":"2h 39m",
+"rating":"6.1",
+"genre":"Comedy,Drama",
+"description":"Paru Parvathy is a Kannada road movie about a solo traveler named Payal. The film explores themes of self-discovery, relationships, and emotions. It w...",
+"type":"movie",
+"cast":"Poonam A. Sirnaik,Fawaz Ashraff,Deepika Das"
 },
 {
 "title":"C.I.D. [Season 2] [Episode 48] WEB-DL [Hindi]",

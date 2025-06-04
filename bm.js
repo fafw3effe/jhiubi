@@ -14,7 +14,7 @@ const movies = [
 "cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
 {
-"title":"Criminal Code [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"title":"Criminal Code [Season 1-2] WEB-DL [Hindi-English] | All Episodes",
 "im":"fDu0T5WE0QAoX2yAqZ1RtlWBn6I",
 "bgi":"cSVDsq0UaTtP6TOpU0VIa6yiqlj",
 "dl":"https://s.pptons.com/2025/06/criminal-code.html",

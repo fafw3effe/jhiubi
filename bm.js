@@ -42,7 +42,7 @@ const movies = [
 "cast":"Sri Simha,Satya,Naresh Agastya,Athulya Chandra,Brahmaji"
 },
 {
-"title":"Thug Life [2025] HD-TC [Hindi] | Full Movie",
+"title":"Thug  [2025] HD-TC [Hindi] | Full Movie",
 "im":"4TDcETBTWTpNbMVvfyySFV0Rq14",
 "bgi":"of9YQ9XE2aUVbiorECRnFCu5iIn",
 "dl":"https://pixeldrain.net/api/file/Y8fDfFrt?download",

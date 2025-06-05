@@ -70,6 +70,47 @@ const movies = [
 "cast":"Pankaj Tripathi,Shweta Basu Prasad,Swastika Mukherjee,Purab Kohli,Deshna Dugad"
 },
 {
+"title":"The Accountant 2 [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"kMDUS7VmFhb2coRfVBoGLR8ADBt",
+"bgi":"yBDvgpyynDsbMyK21FoQu1c2wYR",
+"dl":"https://hubcloud.bz/drive/wrisgsvornz0eje",
+"dl2":"https://pixeldrain.net/api/file/fA7PgqCp?download",
+"year":"2025",
+"duration":"2h 13m",
+"rating":"7.0",
+"genre":"Crime,Thriller,Action",
+"description":"When an old acquaintance is murdered, Wolff is compelled to solve the case. Realizing more extreme measures are necessary, Wolff recruits his estrange...",
+"type":"movie",
+"cast":"Ben Affleck,Jon Bernthal,Cynthia Addai-Robinson,J.K. Simmons,Allison Robertson"
+},
+{
+"title":"Heart Eyes [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"ebqttF1Vjgde6uSFBEw9mta7Hd3",
+"bgi":"vh5FIqfosYaLWxCmZfSPjgUWWfn",
+"dl":"https://pixeldrain.net/u/i1RWyjP2",
+"dl2":"https://hubcloud.ink/drive/hmsjxjztixmgtgm",
+"year":"2025",
+"duration":"1h 37m",
+"rating":"6.4",
+"genre":"Horror,Comedy,Romance",
+"description":"When the Heart Eyes Killer strikes Seattle, a pair of co-workers pulling overtime on Valentine's Day are mistaken for a couple by the elusive cou...",
+"type":"movie",
+"cast":"Olivia Holt,Mason Gooding,Gigi Zumbado,Michaela Watkins,Devon Sawa"
+},
+{
+"title":"Nine Perfect Strangers [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"oPcqsZIFHrv7HoGgFQnsGDiPulD",
+"bgi":"RzCw9LQyAcoa9mn4xkEAyuvhgr",
+"dl":"https://s.pptons.com/2025/06/nine-perfect-strangers.html",
+"year":"2021",
+"duration":"1h per episode",
+"rating":"7.0",
+"genre":"Drama,Mystery",
+"description":"At a boutique health-and-wellness resort that promises healing and transformation, nine stressed city dwellers try to get on a path to a better way of...",
+"type":"series",
+"cast":"Nicole Kidman,Melissa McCarthy,Michael Shannon,Luke Evans,Asher Keddie"
+},
+{
 "title":"Criminal Code [Season 1-2] WEB-DL [Hindi] | All Episodes",
 "im":"fDu0T5WE0QAoX2yAqZ1RtlWBn6I",
 "bgi":"cSVDsq0UaTtP6TOpU0VIa6yiqlj",

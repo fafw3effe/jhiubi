@@ -14,6 +14,20 @@ const movies = [
 "cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
 {
+"title":"Mathu Vadalara [2019] WEB-DL [Hindi-English] | Full Movie",
+"im":"lo0ALsfiSv5sxNBhCNh35AD1p0x",
+"bgi":"iEIQlhT9AZhMPVsCd8aoxIOfMiE",
+"dl":"",
+"dl2":"",
+"year":"2019",
+"duration":"2h 10m",
+"rating":"7.7",
+"genre":"Crime,Comedy,Thriller",
+"description":"Babu is a delivery boy living with his friends Yesu and Abhi. Due to his meagre salary, he decides to quit, but then Yesu gives him an idea. The idea,...",
+"type":"movie",
+"cast":"Sri Simha,Satya,Naresh Agastya,Athulya Chandra,Brahmaji"
+},
+{
 "title":"Mathu Vadalara [2019] WEB-DL [Hindi HQ-DUB] | Full Movie",
 "im":"lo0ALsfiSv5sxNBhCNh35AD1p0x",
 "bgi":"iEIQlhT9AZhMPVsCd8aoxIOfMiE",

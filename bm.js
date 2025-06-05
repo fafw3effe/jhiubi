@@ -14,6 +14,20 @@ const movies = [
 "cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
 {
+"title":"Mathu Vadalara [2019] WEB-DL HQ-DUB [Hindi] | Full Movie",
+"im":"lo0ALsfiSv5sxNBhCNh35AD1p0x",
+"bgi":"iEIQlhT9AZhMPVsCd8aoxIOfMiE",
+"dl":"https://pub-ed0ca22af5c04301b7abe9dac4aaf9bc.r2.dev/Mathu.Vadalara.2019.720p.HEVC.WEB-DL.Hindi-HQ.Dub.x265-HDHub4u.Ms.mkv",
+"dl2":"https://hubcloud.bz/drive/cnemn6ejlicjm61",
+"year":"2019",
+"duration":"2h 10m",
+"rating":"7.7",
+"genre":"Crime,Comedy,Thriller",
+"description":"Babu is a delivery boy living with his friends Yesu and Abhi. Due to his meagre salary, he decides to quit, but then Yesu gives him an idea. The idea,...",
+"type":"movie",
+"cast":"Sri Simha,Satya,Naresh Agastya,Athulya Chandra,Brahmaji"
+},
+{
 "title":"Thug Life [2025] HD-TC [Hindi] | Full Movie",
 "im":"4TDcETBTWTpNbMVvfyySFV0Rq14",
 "bgi":"of9YQ9XE2aUVbiorECRnFCu5iIn",

@@ -21,7 +21,7 @@ const movies = [
 "dl2":"https://hubcloud.bz/drive/cnemn6ejlicjm61",
 "year":"2019",
 "duration":"2h 10m",
-"rating":"7.7",
+"rating":"7.8",
 "genre":"Crime,Comedy,Thriller",
 "description":"Babu is a delivery boy living with his friends Yesu and Abhi. Due to his meagre salary, he decides to quit, but then Yesu gives him an idea. The idea,...",
 "type":"movie",

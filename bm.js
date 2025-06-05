@@ -14,7 +14,49 @@ const movies = [
 "cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
 {
-"title":"Criminal Code [Season 1-2] WEB-DL [Hindi-English] | All Episodes",
+"title":"Thug Life [2025] HD-TC [Hindi] | Full Movie",
+"im":"4TDcETBTWTpNbMVvfyySFV0Rq14",
+"bgi":"of9YQ9XE2aUVbiorECRnFCu5iIn",
+"dl":"https://pixeldrain.net/api/file/Y8fDfFrt?download",
+"dl2":"https://hubcloud.ink/drive/9b0mmyb6yx6siyy",
+"year":"2025",
+"duration":"2h 45m",
+"rating":"4.5",
+"genre":"Action,Crime,Drama",
+"description":"In a world ruled by crime and betrayal, mafia kingpin Sakthivel and his brother Manikkam rescue a young boy, Amaran, during a violent police shootout ...",
+"type":"movie",
+"cast":"Kamal Haasan,Silambarasan,Trisha Krishnan,Ashok Selvan,Abhirami"
+},
+{
+"title":"Jaat [2025] WEB-DL [Hindi] | Full Movie",
+"im":"uvIhfqYdSaBb8vjqJHBsoEJK4CL",
+"bgi":"nzlO8Z6JH4JUmZ4XuwoFe52xgN1",
+"dl":"https://pixeldrain.net/api/file/cRqmoa4e?download",
+"dl2":"https://hubcloud.ink/drive/lyrdrsaynryeppp",
+"year":"2025",
+"duration":"2h 33m",
+"rating":"6.0",
+"genre":"Action,Crime,Drama",
+"description":"After a ruffian accidentally ruins his meal, a traveler retorts violently and demands an apology, unintentionally finding himself in a web of violence...",
+"type":"movie",
+"cast":"Sunny Deol,Randeep Hooda,Saiyami Kher,Regina Cassandra,Vineet Kumar Singh"
+},
+{
+"title":"Criminal Justice: Adhura Sach [Season 4] [Episode 4] WEB-DL [Hindi] | All Episodes",
+"im":"skCHAsB0qIzG13UxV7TKyqTP8HP",
+"bgi":"sTIBAlkG23DDP8EdEWLr9jVQGXv",
+"dl":"https://s.pptons.com/2025/05/criminal-justice-adhura-sach.html",
+"dl2":"https://vcloud.lol/nrrvnyvr0xnw8rp",
+"year":"2022",
+"duration":"1h per episode",
+"rating":"7.1",
+"genre":"Crime,Drama,Mystery",
+"description":"Madhav Mishra is back to fight his toughest case yet nothing is simple and straightforward. Will justice win?",
+"type":"series",
+"cast":"Pankaj Tripathi,Shweta Basu Prasad,Swastika Mukherjee,Purab Kohli,Deshna Dugad"
+},
+{
+"title":"Criminal Code [Season 1-2] WEB-DL [Hindi] | All Episodes",
 "im":"fDu0T5WE0QAoX2yAqZ1RtlWBn6I",
 "bgi":"cSVDsq0UaTtP6TOpU0VIa6yiqlj",
 "dl":"https://s.pptons.com/2025/06/criminal-code.html",
@@ -43,7 +85,7 @@ const movies = [
 "title":"Stolen [2023] WEB-DL [Hindi] | Full Movie",
 "im":"xR5Endhjm4soY6fPgXY0jrpDZvL",
 "bgi":"rJsHZLgwJDrhaXIePEF9a8KkaA2",
-"dl":"https://pixeldrain.net/u/R2p3RGde",
+"dl":"https://pixeldrain.net/api/file/R2p3RGde",
 "dl2":"https://hubcloud.bz/drive/i75grf0praq17ir",
 "year":"2023",
 "duration":"1h 32m",
@@ -491,20 +533,6 @@ const movies = [
 "description":"A police officer uncovers a conspiracy based around state-sanctioned violence against victimized villagers.",
 "type":"movie",
 "cast":"Tovino Thomas,Suraj Venjaramoodu,Cheran,Arya Salim,Priyamvada Krishna"
-},
-{
-"title":"Criminal Justice: Adhura Sach [Season 4] WEB-DL [Hindi] | All Episodes",
-"im":"skCHAsB0qIzG13UxV7TKyqTP8HP",
-"bgi":"sTIBAlkG23DDP8EdEWLr9jVQGXv",
-"dl":"https://s.pptons.com/2025/05/criminal-justice-adhura-sach.html",
-"dl2":"https://vcloud.lol/nrrvnyvr0xnw8rp",
-"year":"2022",
-"duration":"1h per episode",
-"rating":"7.1",
-"genre":"Crime,Drama,Mystery",
-"description":"Madhav Mishra is back to fight his toughest case yet nothing is simple and straightforward. Will justice win?",
-"type":"series",
-"cast":"Pankaj Tripathi,Shweta Basu Prasad,Swastika Mukherjee,Purab Kohli,Deshna Dugad"
 },
 {
 "title":"HIT: The Third Case [2025] Netflix WEB-DL [Hindi-Telugu] | Full Movie",
@@ -2829,19 +2857,6 @@ const movies = [
 "cast":"Rica Matsumoto,Ikue Otani,Shin-ichiro Miki,Megumi Hayashibara,Inuko Inuyama"
 },
 {
-"title":"Criminal Code [Season 1] WEB-DL [Hindi-English] | All Episodes",
-"im":"mZ78Uee2EF0Vp0iA1eATjCSb5H7",
-"dl":"http://qwrqwrqwr.rf.gd/a/a.php?pd=Ey1ddqMd&sn=1&es=Criminal.Code.S01.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms/Criminal.Code.S01E&e=8&el=.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv",
-"bgi":"cSVDsq0UaTtP6TOpU0VIa6yiqlj",
-"year":"2023",
-"duration":"1h per episode",
-"rating":"7.7",
-"genre":"Drama,Crime,Action & Adventure,",
-"description":"To crack the code of an investigation into a larger-than-life robbery, federal agents need to get creative.",
-"type":"series",
-"cast":"Gabriela Moreno,Daniel Bisogni,Maeve Jinkings,Rômulo Braga,Thomás Aquino"
-},
-{
 "title":"Ground Zero [2025] WEB-DL [Hindi] | Full Movie",
 "im":"x5YK8MkjL1vVsXxnGWifEOK2tJl",
 "bgi":"bhJT9N8Z4dORg8wsb9XleD5vaah",
@@ -3735,20 +3750,6 @@ const movies = [
 "rating":"6.5",
 "genre":"Horror, Thriller",
 "description":"A group of adventurers explore an abandoned church in the deep woods, only to find that it holds a terrifying secret that forces them to fight for their lives.",
-"type":"movie",
-"quality":"web-dl"
-},
-{
-"title":"Jaat [2025] WEB-DL [Hindi] | Full Movie",
-"im":"guTflsCTgLNqTbpHTi9gJANk1Rf",
-"bgi":"d49Rz7BDj8LmRMQI03mKBTwIpfr",
-"dl":"https://pixeldrain.net/api/file/sJunpwbg?download",
-"link":"tt32223398",
-"year":"2025",
-"duration":"125 min",
-"rating":"7.2",
-"genre":"Action, Drama",
-"description":"A powerful tale of a young man’s journey through family, honor, and vengeance as he rises to become a formidable force in the world of criminal enterprises.",
 "type":"movie",
 "quality":"web-dl"
 },

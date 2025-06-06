@@ -29,7 +29,7 @@ const movies = [
 "cast":"Akshay Kumar,Ritesh Deshmukh,Abhishek Bachchan,Nargis Fakhri,Chitrangda Singh"
 },
 {
-"title":"Mercy for None [Season 1] WEB-DL [Hindi-English-Korean] | ZIP",
+"title":"Mercy for None [Season 1] WEB-DL [Hindi-English-Korean] | All Episodes Zip",
 "im":"yOtukBOsfPgn3T0Wq1DUxUWtj9j",
 "bgi":"y7OFTnu8Gh2KHWX0Y05y8OY9kCB",
 "dl":"https://pub-ed0ca22af5c04301b7abe9dac4aaf9bc.r2.dev/Mercy.For.None.S01.480p.WEB-DL.HIN-KOR.x264.ESub-KatDrama.com.zip",

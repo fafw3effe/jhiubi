@@ -29,6 +29,19 @@ const movies = [
 "cast":"Akshay Kumar,Ritesh Deshmukh,Abhishek Bachchan,Nargis Fakhri,Chitrangda Singh"
 },
 {
+"title":"Peaky Blinders [Season 6] [Episode 3] Blu-Ray [Hindi-English] | All Episodes",
+"im":"vUUqzWa2LnHIVqkaKVlVGkVcZIW",
+"dl":"https://s.pptons.com/2025/05/peaky-blinders_22.html",
+"bgi":"or7wKwv1IT6LEOktt395O5qi7e",
+"year":"2013",
+"duration":"1h per episode",
+"rating":"8.5",
+"genre":"Drama,Crime,",
+"description":"A gangster family epic set in 1919 Birmingham, England and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby, who means to move up in the world.",
+"type":"series",
+"cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
+},
+{
 "title":"Mercy for None [Season 1] WEB-DL [Hindi-English-Korean] | All Episodes Zip",
 "im":"yOtukBOsfPgn3T0Wq1DUxUWtj9j",
 "bgi":"y7OFTnu8Gh2KHWX0Y05y8OY9kCB",
@@ -69,19 +82,6 @@ const movies = [
 "description":"Ranjan, a small-town romantic boy from Banaras, lands a government job to marry Titli, but forgets to vow to Lord Shiva, causing him to be trapped in ...",
 "type":"movie",
 "cast":"Rajkummar Rao,Wamiqa Gabbi,Raghubir Yadav,Seema Pahwa,Zakir Hussain"
-},
-{
-"title":"Peaky Blinders [Season 6] [Episode 3] Blu-Ray [Hindi-English] | All Episodes",
-"im":"vUUqzWa2LnHIVqkaKVlVGkVcZIW",
-"dl":"https://s.pptons.com/2025/05/peaky-blinders_22.html",
-"bgi":"or7wKwv1IT6LEOktt395O5qi7e",
-"year":"2013",
-"duration":"1h per episode",
-"rating":"8.5",
-"genre":"Drama,Crime,",
-"description":"A gangster family epic set in 1919 Birmingham, England and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby, who means to move up in the world.",
-"type":"series",
-"cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
 {
 "title":"Mathu Vadalara [2019] WEB-DL [Hindi HQ-DUB] | Full Movie",

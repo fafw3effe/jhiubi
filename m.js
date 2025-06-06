@@ -1,6 +1,34 @@
 // Movies data
 const movies = [
 {
+"title":"Housefull 5 A [2025] HD-TC [Hindi] | Full Movie",
+"im":"iGvGkVOfsooO0ZBrhN5i6zXYUCy",
+"bgi":"8lNbxRsGKzWdtLk6hKdB1z11pjE",
+"dl":"https://pub-8cb4e18979a0499c9480a6ca2de366ef.r2.dev/Housefull.5A.2025.720p.Hindi.HDTC.x264.AAC.HQ.Line.Audio.Vegamovies.is.mkv",
+"dl2":"https://vcloud.lol/2dzsln7epzzds3e",
+"year":"2025",
+"duration":"2h 43m",
+"rating":"0.0",
+"genre":"Comedy,Crime,Mystery",
+"description":"A father writes his will — his son Jolly is going to get it all. But who is Jolly? The comedy unfolds as different people pose as the real Jolly on ...",
+"type":"movie",
+"cast":"Akshay Kumar,Ritesh Deshmukh,Abhishek Bachchan,Nargis Fakhri,Chitrangda Singh"
+},
+{
+"title":"Housefull 5 B [2025] HD-TC [Hindi] | Full Movie",
+"im":"iGvGkVOfsooO0ZBrhN5i6zXYUCy",
+"bgi":"8lNbxRsGKzWdtLk6hKdB1z11pjE",
+"dl":"https://pixeldrain.net/api/file/SJiGdbP7?download",
+"dl2":"https://hubcloud.ink/drive/jgt0jgt0dsdokjf",
+"year":"2025",
+"duration":"2h 43m",
+"rating":"0.0",
+"genre":"Comedy,Crime,Mystery",
+"description":"A father writes his will — his son Jolly is going to get it all. But who is Jolly? The comedy unfolds as different people pose as the real Jolly on ...",
+"type":"movie",
+"cast":"Akshay Kumar,Ritesh Deshmukh,Abhishek Bachchan,Nargis Fakhri,Chitrangda Singh"
+},
+{
 "title":"Peaky Blinders [Season 6] [Episode 1] Blu-Ray [Hindi-English] | All Episodes",
 "im":"vUUqzWa2LnHIVqkaKVlVGkVcZIW",
 "dl":"https://s.pptons.com/2025/05/peaky-blinders_22.html",

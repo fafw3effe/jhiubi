@@ -13,7 +13,6 @@ const movies = [
 "type":"series",
 "cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
-
 {
 "title":"Mathu Vadalara [2019] WEB-DL [Hindi HQ-DUB] | Full Movie",
 "im":"lo0ALsfiSv5sxNBhCNh35AD1p0x",

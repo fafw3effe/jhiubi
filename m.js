@@ -71,7 +71,7 @@ const movies = [
 "cast":"Rajkummar Rao,Wamiqa Gabbi,Raghubir Yadav,Seema Pahwa,Zakir Hussain"
 },
 {
-"title":"Peaky Blinders [Season 6] [Episode 2] Blu-Ray [Hindi-English] | All Episodes",
+"title":"Peaky Blinders [Season 6] [Episode 3] Blu-Ray [Hindi-English] | All Episodes",
 "im":"vUUqzWa2LnHIVqkaKVlVGkVcZIW",
 "dl":"https://s.pptons.com/2025/05/peaky-blinders_22.html",
 "bgi":"or7wKwv1IT6LEOktt395O5qi7e",

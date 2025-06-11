@@ -14,6 +14,20 @@ const movies = [
 "cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
 {
+"title":"Bloody Mary [2022] WEB-DL [Hindi-English] | Full Movie",
+"im":"pHntuWkToImf81Sc9X7MNUpF2Y5",
+"bgi":"kP3kufgqK4uSJQDcQ3Vo20tS0ZU",
+"dl":"https://pixeldrain.net/api/file/AZjUvrSo?download",
+"dl2":"https://hubcloud.ink/drive/hromdze1hhrlga1",
+"year":"2022",
+"duration":"1h 31m",
+"rating":"5.3",
+"genre":"Thriller,Crime",
+"description":"Three best friends Mary, Raju and Basha come close to making their dreams come true. In an unexpected turn of events, the three of them have evidence ...",
+"type":"movie",
+"cast":"Nivetha Pethuraj,Kireeti Damaraju,Brahmaji,Ajay,Rajkumar Kasireddy"
+},
+{
 "title":"Housefull 5 A [2025] HD-TC [Hindi] | Full Movie",
 "im":"iGvGkVOfsooO0ZBrhN5i6zXYUCy",
 "bgi":"8lNbxRsGKzWdtLk6hKdB1z11pjE",

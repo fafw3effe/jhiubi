@@ -14,6 +14,20 @@ const movies = [
 "cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
 {
+"title":"Padakkalam [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"9m4lvnqvwppA4BIoxqcWsWna5is",
+"bgi":"c8hXBIgdTwPtF3PhiJayD6YHqAk",
+"dl":"https://pixeldrain.net/api/file/8j3CuAPQ?download",
+"dl2":"https://hubcloud.ink/drive/o7t1tfe5g3nhvio",
+"year":"2025",
+"duration":"2h 3m",
+"rating":"7.0",
+"genre":"Comedy,Fantasy",
+"description":"Four nerdy comic book enthusiasts find themselves in an unexpected adventure when their school's charming new professor turns their academic worl...",
+"type":"movie",
+"cast":"Sharafudheen,Sandeep Pradeep,Suraj Venjaramoodu,Arun Pradeep,Arun Ajikumar"
+},
+{
 "title":"Bloody Mary [2022] WEB-DL [Hindi-English] | Full Movie",
 "im":"pHntuWkToImf81Sc9X7MNUpF2Y5",
 "bgi":"kP3kufgqK4uSJQDcQ3Vo20tS0ZU",

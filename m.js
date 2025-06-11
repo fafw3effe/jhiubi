@@ -14,7 +14,7 @@ const movies = [
 "cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
 {
-"title":"Padakkalam [2025] WEB-DL [Hindi-English] | Full Movie",
+"title":"Padakkalam [2025] WEB-DL [Hindi] | Full Movie",
 "im":"9m4lvnqvwppA4BIoxqcWsWna5is",
 "bgi":"c8hXBIgdTwPtF3PhiJayD6YHqAk",
 "dl":"https://pixeldrain.net/api/file/8j3CuAPQ?download",
@@ -28,7 +28,7 @@ const movies = [
 "cast":"Sharafudheen,Sandeep Pradeep,Suraj Venjaramoodu,Arun Pradeep,Arun Ajikumar"
 },
 {
-"title":"Bloody Mary [2022] WEB-DL [Hindi-English] | Full Movie",
+"title":"Bloody Mary [2022] WEB-DL [Hindi] | Full Movie",
 "im":"pHntuWkToImf81Sc9X7MNUpF2Y5",
 "bgi":"kP3kufgqK4uSJQDcQ3Vo20tS0ZU",
 "dl":"https://pixeldrain.net/api/file/AZjUvrSo?download",

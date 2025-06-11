@@ -1,6 +1,19 @@
 // Movies data
 const movies = [
 {
+"title":"Peaky Blinders [Season 6] [Episode 5] Blu-Ray [Hindi-English] | All Episodes",
+"im":"vUUqzWa2LnHIVqkaKVlVGkVcZIW",
+"dl":"https://s.pptons.com/2025/05/peaky-blinders_22.html",
+"bgi":"or7wKwv1IT6LEOktt395O5qi7e",
+"year":"2013",
+"duration":"1h per episode",
+"rating":"8.5",
+"genre":"Drama,Crime,",
+"description":"A gangster family epic set in 1919 Birmingham, England and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby, who means to move up in the world.",
+"type":"series",
+"cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
+},
+{
 "title":"Housefull 5 A [2025] HD-TC [Hindi] | Full Movie",
 "im":"iGvGkVOfsooO0ZBrhN5i6zXYUCy",
 "bgi":"8lNbxRsGKzWdtLk6hKdB1z11pjE",
@@ -27,19 +40,6 @@ const movies = [
 "description":"A father writes his will — his son Jolly is going to get it all. But who is Jolly? The comedy unfolds as different people pose as the real Jolly on ...",
 "type":"movie",
 "cast":"Akshay Kumar,Ritesh Deshmukh,Abhishek Bachchan,Nargis Fakhri,Chitrangda Singh"
-},
-{
-"title":"Peaky Blinders [Season 6] [Episode 3] Blu-Ray [Hindi-English] | All Episodes",
-"im":"vUUqzWa2LnHIVqkaKVlVGkVcZIW",
-"dl":"https://s.pptons.com/2025/05/peaky-blinders_22.html",
-"bgi":"or7wKwv1IT6LEOktt395O5qi7e",
-"year":"2013",
-"duration":"1h per episode",
-"rating":"8.5",
-"genre":"Drama,Crime,",
-"description":"A gangster family epic set in 1919 Birmingham, England and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby, who means to move up in the world.",
-"type":"series",
-"cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
 {
 "title":"Mercy for None [Season 1] WEB-DL [Hindi-English-Korean] | All Episodes Zip",

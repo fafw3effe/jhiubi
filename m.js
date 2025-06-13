@@ -14,6 +14,20 @@ const movies = [
 "cast":"Rana Daggubati,Venkatesh,Surveen Chawla,Sushant Singh,Suchitra Pillai"
 },
 {
+"title":"Snow White [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"oLxWocqheC8XbXbxqJ3x422j9PW",
+"bgi":"tyfO9jHgkhypUFizRVYD0bytPjP",
+"dl":"https://pixeldrain.net/api/file/4GXPaV8s?download",
+"dl2":"https://hubcloud.one/drive/sjws8shhrxrwmy1",
+"year":"2025",
+"duration":"1h 49m",
+"rating":"4.3",
+"genre":"Family,Fantasy",
+"description":"Following the benevolent King's disappearance, the Evil Queen dominated the once fair land with a cruel streak. Princess Snow White flees the cas...",
+"type":"movie",
+"cast":"Rachel Zegler,Gal Gadot,Andrew Burnap,Jeremy Swift,Jason Kravits"
+},
+{
 "title":"Peaky Blinders [All Seasons] Blu-Ray [Hindi-English] | All Episodes",
 "im":"vUUqzWa2LnHIVqkaKVlVGkVcZIW",
 "dl":"https://s.pptons.com/2025/05/peaky-blinders_22.html",
@@ -3050,21 +3064,6 @@ const movies = [
 "type":"series",
 "cast":"Daisuke Ono,Takehito Koyasu,Unsho Ishizuka,Fuminori Komatsu,Daisuke Hirakawa"
 },
-{
-"title":"Snow White [2025] WEB-DL [English] | Full Movie",
-"im":"oLxWocqheC8XbXbxqJ3x422j9PW",
-"bgi":"xb9wpY31SeVZbfkevYuolhfV63w",
-"dl":"https://pixeldrain.net/api/file/BGr1FvHd?download",
-"year":"2025",
-"duration":"1h 49m",
-"rating":"4.5",
-"genre":"Family,Fantasy,",
-"description":"Following the benevolent King's disappearance, the Evil Queen dominated the once fair land with a cruel streak. Princess Snow White flees the castle when the Queen, in her jealousy over Snow White's inner beauty, tries to kill her. Deep into the dark woods, she stumbles upon seven magical dwarves and a young bandit named Jonathan. Together, they strive to survive the Queen's relentless pursuit and aspire to take back the kingdom.",
-"type":"movie",
-"quality":"web-dl",
-"cast":"Rachel Zegler,Gal Gadot,Andrew Burnap,Jeremy Swift,Jason Kravits"
-},
-
 {
 "title":"Crayon Shin-chan: Explosion! The Hot Spring's Feel Good Final Battle [1999] WEB-DL [Hindi] | Full Movie",
 "im":"kYDZKDB0mkAglbl2phJfLFJmKqe",

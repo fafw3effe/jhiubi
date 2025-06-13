@@ -41,7 +41,7 @@ const movies = [
 "cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
 {
-"title":"Vikram [2022] WEB-DL [Hindi-English] | Full Movie",
+"title":"Vikram [2022] WEB-DL [Hindi] | Full Movie",
 "im":"774UV1aCURb4s4JfEFg3IEMu5Zj",
 "bgi":"dkIX4dSMuVqjfrPGunBJUR7K3LQ",
 "dl":"https://pixeldrain.net/api/file/oD5HWP5e?download",

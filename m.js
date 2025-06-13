@@ -62,7 +62,7 @@ const movies = [
 "dl2":"https://hubcloud.one/drive/kyseniqshdxhhpn",
 "year":"2025",
 "duration":"1h 29m",
-"rating":"0.0",
+"rating":"6.1",
 "genre":"Thriller,Crime",
 "description":"When 24-year-old Divya is found dead, what initially appears to be a suicide soon unravels into a gripping murder mystery. Officer Vikram, known for h...",
 "type":"movie",

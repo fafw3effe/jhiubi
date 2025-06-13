@@ -41,6 +41,34 @@ const movies = [
 "cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
 },
 {
+"title":"Vikram [2022] WEB-DL [Hindi-English] | Full Movie",
+"im":"774UV1aCURb4s4JfEFg3IEMu5Zj",
+"bgi":"dkIX4dSMuVqjfrPGunBJUR7K3LQ",
+"dl":"https://pixeldrain.net/api/file/oD5HWP5e?download",
+"dl2":"https://vcloud.lol/bvqsu4vu4phuqph",
+"year":"2022",
+"duration":"2h 54m",
+"rating":"7.7",
+"genre":"Action,Crime,Thriller",
+"description":"Amar is assigned to investigate a case of serial killings. When Amar investigates the case, he realizes it is not what it seems to be and following do...",
+"type":"movie",
+"cast":"Kamal Haasan,Fahadh Faasil,Vijay Sethupathi,Narain,Chemban Vinod Jose"
+},
+{
+"title":"City Lights [2014] WEB-DL [Hindi] | Full Movie",
+"im":"rrzypABFDyTpwbTLbmsXU9A8qEM",
+"bgi":"u0AAEDWsHwogilTHOXFuHRL9MYe",
+"dl":"https://pixeldrain.net/api/file/Q9Q5Yvpu?download",
+"dl2":"https://vcloud.lol/y15qceyqccvboyj",
+"year":"2014",
+"duration":"2h 6m",
+"rating":"7.1",
+"genre":"Thriller,Drama",
+"description":"Deepak Singh was an ex army person and owned a small garment shop in a Rajasthani village. When his life struck by a tragedy, he migrates to Mumbai, w...",
+"type":"movie",
+"cast":"Rajkummar Rao,Manav Kaul,Pramod Pathak,Sadiya Siddiqui,Patralekhaa"
+},
+{
 "title":"How to Train Your Dragon [2025] HD-TS [Hindi-English] | Full Movie",
 "im":"q5pXRYTycaeW6dEgsCrd4mYPmxM",
 "bgi":"7HqLLVjdjhXS0Qoz1SgZofhkIpE",

@@ -1,5 +1,49 @@
 // Movies data
 const movies = [
+
+
+
+{
+"title":"Raanjhanaa [2013] WEB-DL [Hindi] | Full Movie",
+"im":"wi1Qv5nPo0ddJgjA0baD9MR3NC0",
+"bgi":"9Ws6Ayncx7OhKuC9tLU786Va52U",
+"dl":"https://pixeldrain.net/api/file/yp1eVhTf?download",
+"dl2":"https://vcloud.lol/o6p-6ns4flldnp3",
+"year":"2013",
+"duration":"2h 20m",
+"rating":"6.6",
+"genre":"Drama,Romance",
+"description":"A small-town boy needs to break through the class divide to gain acceptance from his childhood sweetheart who is in love with big city ideals.",
+"type":"movie",
+"cast":"Dhanush,Sonam Kapoor Ahuja,Abhay Deol,Swara Bhasker,Mohammed Zeeshan Ayyub"
+},
+{
+"title":"The Prosecutor [2024] WEB-DL [Hindi-English] | Full Movie",
+"im":"n3ZnFqp988MWfIkT8OHofEJfjlt",
+"bgi":"4frrYwamVG0eXhdMTy3cpNNcCBp",
+"dl":"https://pixeldrain.dev/api/file/D5vhAD3z?download",
+"dl2":"https://hubcloud.one/drive/ssezaxqkhzy7drq",
+"year":"2024",
+"duration":"1h 57m",
+"rating":"7.1",
+"genre":"Action,Drama,Crime,Thriller",
+"description":"A poor young man is wrongly charged with drug trafficking after being deceived. An ex-prosecutor investigates the case, uncovers a corrupt lawyer team...",
+"type":"movie",
+"cast":"Donnie Yen,Francis Ng Chun-Yu,Julian Cheung Chi-Lam,Kent Cheng Jak-Si,Michael Hui Koon-Man"
+},
+{
+"title":"Classroom of the Elite [Season 1] WEB-DL [Hindi-Japanese] | All Episodes",
+"im":"yuHanbUUIv2UWRxxQFt9n8jtmOJ",
+"bgi":"c2sl2dLlyFFeb18pJtOpBD8cidr",
+"dl":"https://s.pptons.com/2025/06/classroom-of-elite_16.html",
+"year":"2017",
+"duration":"1h per episode",
+"rating":"8.4",
+"genre":"Animation",
+"description":"Kiyotaka Ayanokoji has just enrolled at Tokyo Koudo Ikusei Senior High School, where it's said that 100% of students go on to college or find emp...",
+"type":"series",
+"cast":"Shoya Chiba,Akari Kito,Ayana Taketatsu,Yurika Kubo,Mao Ichimichi"
+},
 {
 "title":"Rana Naidu [Season 1-2] WEB-DL [Hindi] | All Episodes",
 "im":"4kUF7cO76W4vEx70KVfwmju6Vud",

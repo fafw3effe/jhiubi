@@ -45,6 +45,19 @@ const movies = [
 "cast":"Shoya Chiba,Akari Kito,Ayana Taketatsu,Yurika Kubo,Mao Ichimichi"
 },
 {
+"title":"Good Boy [Season 1] [Episode 6] WEB-DL [Hindi-Korean]",
+"im":"zsZyvEU2cbNknrlESV9bh3YMhJH",
+"bgi":"kTQ7sRDZwIDgygWKIrhN4T1BLQD",
+"dl":"https://s.pptons.com/2025/06/good-boy.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"10.0",
+"genre":"Crime,Comedy,Action & Adventure,Drama",
+"description":"Olympic medalists join the police force through a special recruitment program, trading medals for badges as they tackle violent crimes and injustices ...",
+"type":"series",
+"cast":"Park Bo-gum,Kim So-hyun,Oh Jung-se,Lee Sang-yi,Heo Sung-tae"
+},
+{
 "title":"Rana Naidu [Season 1-2] WEB-DL [Hindi] | All Episodes",
 "im":"4kUF7cO76W4vEx70KVfwmju6Vud",
 "bgi":"cLQZv8KxWVrsSgm4sbuQSixPgH9",
@@ -457,19 +470,6 @@ const movies = [
 "description":"The first thrilling investigative series on Indian Television, is today one of the most popular shows on Sony Entertainment Television. Dramatic and a...",
 "type":"series",
 "cast":"Aditya Srivastava,Shivaji Satham,Dayanand Shetty,Narendra Gupta,Ansha Sayed"
-},
-{
-"title":"Good Boy [Season 1] WEB-DL [Hindi-Korean] | All Episodes",
-"im":"zsZyvEU2cbNknrlESV9bh3YMhJH",
-"bgi":"kTQ7sRDZwIDgygWKIrhN4T1BLQD",
-"dl":"https://s.pptons.com/2025/06/good-boy.html",
-"year":"2025",
-"duration":"1h per episode",
-"rating":"10.0",
-"genre":"Crime,Comedy,Action & Adventure,Drama",
-"description":"Olympic medalists join the police force through a special recruitment program, trading medals for badges as they tackle violent crimes and injustices ...",
-"type":"series",
-"cast":"Park Bo-gum,Kim So-hyun,Oh Jung-se,Lee Sang-yi,Heo Sung-tae"
 },
 {
 "title":"Gajaana [2025] WEB-DL [Hindi] | Full Movie",

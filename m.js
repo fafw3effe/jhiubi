@@ -1,8 +1,34 @@
 // Movies data
 const movies = [
 
-
-
+{
+"title":"Hijack 1971 [2024] WEB-DL [Hindi-English] | Full Movie",
+"im":"68jNkFi61MQjrJEqj2up5wZ4w5R",
+"bgi":"hQ9grQ2RjHS3X7crItJqhoGvUPm",
+"dl":"https://pixeldrain.net/api/file/4Hd97gYp?download",
+"dl2":"https://vcloud.lol/xyegbajbnabdiii",
+"year":"2024",
+"duration":"1h 40m",
+"rating":"6.5",
+"genre":"Action,Thriller,Crime",
+"description":"Pilots Tae-in and Gyu-sik are set to fly to Gimpo. Under the guidance of flight attendant Ok-soon, passengers are busy boarding. However, shortly afte...",
+"type":"movie",
+"cast":"Ha Jung-woo,Yeo Jin-goo,Sung Dong-il,Chae Soo-bin,Moon You-kang"
+},
+{
+"title":"Alappuzha Gymkhana [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"q4OwzcY6r2L1M1S6uYzmtzjwAqX",
+"bgi":"gndCUsT53TIykPAG393UqgjU69T",
+"dl":"https://pixeldrain.dev/api/file/6Xg9VE19?download",
+"dl2":"https://hubcloud.one/drive/htaaxnbasacn0ri",
+"year":"2025",
+"duration":"2h 20m",
+"rating":"6.1",
+"genre":"Action,Drama,Comedy",
+"description":"A group of youngsters, after failing their plus two exams, aims to join a common college through the sports quota. They choose boxing as their sport. ...",
+"type":"movie",
+"cast":"Naslen,Lukman Avaran,Ganapathi S Poduval,Sandeep Pradeep,Anagha Maya Ravi"
+},
 {
 "title":"What If...? [Season 1] WEB-DL [Hindi-English] | All Episodes",
 "im":"lztz5XBMG1x6Y5ubz7CxfPFsAcW",

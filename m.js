@@ -2,7 +2,20 @@
 const movies = [
 
 
-
+{
+"title":"Final Destination Bloodlines [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"6WxhEvFsauuACfv8HyoVX6mZKFj",
+"bgi":"uIpJPDNFoeX0TVml9smPrs9KUVx",
+"dl":"https://pixeldrain.dev/api/file/zXPm4ZLj?download",
+"dl2":"https://hubcloud.one/drive/cnarccmrcczgu3p",
+"year":"2025",
+"duration":"1h 49m",
+"rating":"7.1",
+"genre":"Horror,Mystery",
+"description":"Plagued by a violent recurring nightmare, college student Stefanie heads home to track down the one person who might be able to break the cycle and sa...",
+"type":"movie",
+"cast":"Kaitlyn Santa Juana,Teo Briones,Richard Harmon,Owen Patrick Joyner,Anna Lore"
+},
 {
 "title":"Raanjhanaa [2013] WEB-DL [Hindi] | Full Movie",
 "im":"wi1Qv5nPo0ddJgjA0baD9MR3NC0",
@@ -592,20 +605,6 @@ const movies = [
 "description":"A retired hitman's life is turned upside down when his ex-wife and son arrive unannounced during the holidays because they are on the run from hi...",
 "type":"movie",
 "cast":"Jennifer Coolidge,Ed Harris,Gabrielle Union,Miles J. Harvey,Emanuela Postacchini"
-},
-{
-"title":"Final Destination: Bloodlines [2025] WEB-DL [Hindi-English] | Full Movie",
-"im":"6WxhEvFsauuACfv8HyoVX6mZKFj",
-"bgi":"uIpJPDNFoeX0TVml9smPrs9KUVx",
-"dl":"https://pub-ed0ca22af5c04301b7abe9dac4aaf9bc.r2.dev/Final.Destination-BloodLines.2025.720p.HEVC.WEB-DL.Hindi.LiNE-English.x265-HDHub4u.Ms.mkv",
-"dl2":"https://hubcloud.bz/drive/q9w1w2agqq1m916",
-"year":"2025",
-"duration":"1h 50m",
-"rating":"7.0",
-"genre":"Horror,Mystery",
-"description":"Plagued by a violent recurring nightmare, college student Stefanie heads home to track down the one person who might be able to break the cycle and sa...",
-"type":"movie",
-"cast":"Kaitlyn Santa Juana,Teo Briones,Rya Kihlstedt,Richard Harmon,Owen Patrick Joyner"
 },
 {
 "title":"The Last of Us [Season 1-2] WEB-DL [Hindi-English] | All Episodes",

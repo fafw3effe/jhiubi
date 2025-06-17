@@ -2,7 +2,7 @@
 const movies = [
 
 {
-"title":"Hijack 1971 [2024] WEB-DL [Hindi-English] | Full Movie",
+"title":"Hijack 1971 [2024] WEB-DL [Korean with English Subtitles] | Full Movie",
 "im":"68jNkFi61MQjrJEqj2up5wZ4w5R",
 "bgi":"hQ9grQ2RjHS3X7crItJqhoGvUPm",
 "dl":"https://pixeldrain.net/api/file/4Hd97gYp?download",

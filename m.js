@@ -1,6 +1,35 @@
 // Movies data
 const movies = [
 
+
+{
+"title":"Parallel [2024] WEB-DL [Hindi-English] | Full Movie",
+"im":"4RQ2xOgRjw00ge7f2srg3bBAwZp",
+"bgi":"zky1xbkgDwCMiNOLFoPRyjHMo2w",
+"dl":"",
+"dl2":"",
+"year":"2024",
+"duration":"1h 28m",
+"rating":"6.0",
+"genre":"Science Fiction,Thriller,Drama",
+"description":"Grief-stricken after the loss of her child, Vanessa takes refuge at a lake house only to be met with an aberration of herself from a parallel universe...",
+"type":"movie",
+"cast":"Danielle Deadwyler,Aldis Hodge,Edwin Hodge"
+},
+{
+"title":"Maharshi [2019] WEB-DL [Hindi-Telugu] | Full Movie",
+"im":"maoChdAwkJLvOy4yyGgYgcCJePi",
+"bgi":"f9EbS4N3aXxwJnqVIEniQNuDhe",
+"dl":"https://pixeldrain.dev/api/file/zhBcabNL?download",
+"dl2":"https://hubcloud.one/drive/j111dvxxk1xnknn",
+"year":"2019",
+"duration":"2h 56m",
+"rating":"7.0",
+"genre":"Drama,Action",
+"description":"Rishi Kumar is a billionaire and the CEO of Origins, someone who has always strived for the success he now owns. His friend Ravi needs help, how will ...",
+"type":"movie",
+"cast":"Mahesh Babu,Pooja Hegde,Allari Naresh,Jagapati Babu,Prakash Raj"
+},
 {
 "title":"Hijack 1971 [2024] WEB-DL [Korean with English Subtitles] | Full Movie",
 "im":"68jNkFi61MQjrJEqj2up5wZ4w5R",
@@ -4890,20 +4919,6 @@ const movies = [
 "cast":"Mahesh Babu, Kriti Sanon, Nassar",
 "type":"movie",
 "quality":"hdRip"
-},
-{
-"title":"Maharshi [2019] WEB-DL [Hindi-Telugu] [HEVC] | Full Movie",
-"im":"maoChdAwkJLvOy4yyGgYgcCJePi",
-"dl":"https://pub-90c967a2e50940b3bd2ce7b78c38a8ee.r2.dev/Maharshi.2019.UNCUT.720p.HEVC.Web-Dl.HIN.TEL.x265.AAC.ESubs.Vegamovies.to.mkv",
-"link":"tt8333978",
-"year":"2019",
-"duration":"170 min",
-"rating":"7.7",
-"genre":"Drama, Family",
-"description":"A successful businessman returns to his village to fulfill a promise and helps the people there by fighting for their rights.",
-"cast":"Mahesh Babu, Pooja Hegde, Allari Naresh",
-"type":"movie",
-"quality":"web-dl"
 },
 {
 "title":"Guntur Kaaram [2024] WEB-DL [Hindi-Telugu] [HEVC] | Full Movie",

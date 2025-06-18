@@ -2,7 +2,7 @@
 const movies = [
 
 {
-"title":"Peaky Blinders [Season 5] [Episode 6] [All Seasons] Blu-Ray [Hindi-English] | All Episodes",
+"title":"Peaky Blinders [Season 5] [Episode 6 Added New] [All Seasons] Blu-Ray [Hindi-English] | All Episodes",
 "im":"vUUqzWa2LnHIVqkaKVlVGkVcZIW",
 "dl":"https://s.pptons.com/2025/05/peaky-blinders_22.html",
 "bgi":"lGxSrsVeYSPBaJtvcvbs5UdQaZn",

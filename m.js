@@ -1,6 +1,74 @@
 // Movies data
 const movies = [
-
+{
+"title":"Love Today [2022] WEB-DL [Hindi HQ DUB] | Full Movie",
+"im":"iRfIti4RhDFZ11UyCmz5Mk5wtGI",
+"bgi":"fY2NykKNpmvNzcLSmlYNw7IsCfW",
+"dl":"https://pixeldrain.dev/api/file/wMvMCNRb?download",
+"dl2":"https://hubcloud.one/drive/1kiut1k8uquhhg8",
+"year":"2022",
+"duration":"2h 34m",
+"rating":"8.0",
+"genre":"Comedy,Romance",
+"description":"A young couple is made to exchange their phones for a day. What follows is a hilarious and emotional sequence of events that puts their lives in miser...",
+"type":"movie",
+"cast":"Pradeep Ranganathan,Ivana,Akshaya Udhayakumar,Raveena Ravi,Radikaa Sarathkumar"
+},
+{
+"title":"Thug Life [2025] WEB-DL [Hindi LINE-Tamil] | Full Movie",
+"im":"DmBbUtbA3T9sdVXDgIJ8bsIDw0",
+"bgi":"of9YQ9XE2aUVbiorECRnFCu5iIn",
+"dl":"https://pixeldrain.dev/api/file/6ZxFPonb?download",
+"dl2":"https://hubcloud.one/drive/7fh0egmmetzfw0m",
+"year":"2025",
+"duration":"2h 45m",
+"rating":"5.1",
+"genre":"Action,Crime,Drama",
+"description":"In a world ruled by crime and betrayal, mafia kingpin Sakthivel and his brother Manikkam rescue a young boy, Amaran, during a violent police shootout ...",
+"type":"movie",
+"cast":"Kamal Haasan,Silambarasan,Trisha Krishnan,Ashok Selvan,Abhirami"
+},
+{
+"title":"Criminal Justice: Adhura Sach [Season 2] [Episode 6] WEB-DL [Hindi] | All Episodes",
+"im":"skCHAsB0qIzG13UxV7TKyqTP8HP",
+"bgi":"sTIBAlkG23DDP8EdEWLr9jVQGXv",
+"dl":"https://s.pptons.com/2025/05/criminal-justice-adhura-sach.html",
+"year":"2022",
+"duration":"1h per episode",
+"rating":"7.1",
+"genre":"Crime,Drama,Mystery",
+"description":"Madhav Mishra is back to fight his toughest case yet nothing is simple and straightforward. Will justice win?",
+"type":"series",
+"cast":"Pankaj Tripathi,Shweta Basu Prasad,Swastika Mukherjee,Purab Kohli,Deshna Dugad"
+},
+{
+"title":"Bubblegum [2023] WEB-DL [Hindi] | Full Movie",
+"im":"wDG9LQnzEY4ZMo2V3UEpYjGPlNx",
+"bgi":"EyYtLRXUt2sBArxY04LWfZtYLA",
+"dl":"https://pixeldrain.dev/api/file/PZvffv1p?download",
+"dl2":"https://hubcloud.one/drive/okqsubqmqolh1ot",
+"year":"2023",
+"duration":"2h 26m",
+"rating":"4.5",
+"genre":"Romance,Drama",
+"description":"After falling in love, a street-smart man and a wealthy woman from different worlds try to work out their differences.",
+"type":"movie",
+"cast":"Roshan Kanakala,Maanasa Chaudhary,Harsha Chemudu,Harshvardhan Rane,Kiran Macha"
+},
+{
+"title":"All the Best Pandya [2025] WEB-DL [Hindi] | Full Movie",
+"im":"lekyr0SpW9p66s0wZ3rtyDZfLSO",
+"bgi":"qqSrmwvVYqajVTMD9riTNcachAy",
+"dl":"https://pixeldrain.dev/api/file/Ts4p9W2m?download",
+"dl2":"https://hubcloud.one/drive/rpllgaiagntawtg",
+"year":"2025",
+"duration":"2h 20m",
+"rating":"6.1",
+"genre":"Comedy,Drama",
+"description":"A son must defend his father in court after a bribery accusation, forcing them to confront their strained relationship while fighting for justice in t...",
+"type":"movie",
+"cast":"Malhar Thakar,Darshan Jariwala,Vandana Pathak,Yukti Randeria"
+},
 {
 "title":"Peaky Blinders [Season 5] [Episode 6 Added New] [All Seasons] Blu-Ray [Hindi-English] | All Episodes",
 "im":"vUUqzWa2LnHIVqkaKVlVGkVcZIW",
@@ -403,20 +471,6 @@ const movies = [
 "cast":"Sri Simha,Satya,Naresh Agastya,Athulya Chandra,Brahmaji"
 },
 {
-"title":"Thug  [2025] HD-TC [Hindi] | Full Movie",
-"im":"4TDcETBTWTpNbMVvfyySFV0Rq14",
-"bgi":"of9YQ9XE2aUVbiorECRnFCu5iIn",
-"dl":"https://pixeldrain.net/api/file/Y8fDfFrt?download",
-"dl2":"https://hubcloud.ink/drive/9b0mmyb6yx6siyy",
-"year":"2025",
-"duration":"2h 45m",
-"rating":"4.5",
-"genre":"Action,Crime,Drama",
-"description":"In a world ruled by crime and betrayal, mafia kingpin Sakthivel and his brother Manikkam rescue a young boy, Amaran, during a violent police shootout ...",
-"type":"movie",
-"cast":"Kamal Haasan,Silambarasan,Trisha Krishnan,Ashok Selvan,Abhirami"
-},
-{
 "title":"Jaat [2025] WEB-DL [Hindi] | Full Movie",
 "im":"uvIhfqYdSaBb8vjqJHBsoEJK4CL",
 "bgi":"nzlO8Z6JH4JUmZ4XuwoFe52xgN1",
@@ -429,20 +483,6 @@ const movies = [
 "description":"After a ruffian accidentally ruins his meal, a traveler retorts violently and demands an apology, unintentionally finding himself in a web of violence...",
 "type":"movie",
 "cast":"Sunny Deol,Randeep Hooda,Saiyami Kher,Regina Cassandra,Vineet Kumar Singh"
-},
-{
-"title":"Criminal Justice: Adhura Sach [Season 4] [Episode 4] WEB-DL [Hindi] | All Episodes",
-"im":"skCHAsB0qIzG13UxV7TKyqTP8HP",
-"bgi":"sTIBAlkG23DDP8EdEWLr9jVQGXv",
-"dl":"https://s.pptons.com/2025/05/criminal-justice-adhura-sach.html",
-"dl2":"https://vcloud.lol/nrrvnyvr0xnw8rp",
-"year":"2022",
-"duration":"1h per episode",
-"rating":"7.1",
-"genre":"Crime,Drama,Mystery",
-"description":"Madhav Mishra is back to fight his toughest case yet nothing is simple and straightforward. Will justice win?",
-"type":"series",
-"cast":"Pankaj Tripathi,Shweta Basu Prasad,Swastika Mukherjee,Purab Kohli,Deshna Dugad"
 },
 {
 "title":"The Accountant 2 [2025] WEB-DL [Hindi-English] | Full Movie",

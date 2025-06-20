@@ -2,7 +2,7 @@
 const movies = [
 
 {
-"title":"Sitaare Zameen Par [2025] WEB-DL [Hindi-English] | Full Movie",
+"title":"Sitaare Zameen Par [2025] HD-CAM [Hindi] | Full Movie",
 "im":"2ztRFbp1YSvMSIrr7AqYq6i6pqC",
 "bgi":"pdbML7ol4HvsI1xWX0s9LZpUGfL",
 "dl":"https://pixeldrain.dev/api/file/TUhU6sLJ?download",
@@ -14,6 +14,62 @@ const movies = [
 "description":"A disgraced basketball coach is given the chance to coach a team of players who are intellectually disabled, and soon realizes they just might have wh...",
 "type":"movie",
 "cast":"Aamir Khan,Genelia D&#39;Souza,Soren Fulton,Suresh Menon,Karim Hajee"
+},
+{
+"title":"Elio [2025] HD-CAM [Hindi] | Full Movie",
+"im":"w2ARwtc1zoh0pyfwmyhpZHwuXgK",
+"bgi":"mBDoBHUZHHy9WG7dRFndjB8adhc",
+"dl":"https://pixeldrain.dev/api/file/4ivNhYNe?download",
+"dl2":"https://hubcloud.one/drive/ko6ktyniy4ooty4",
+"year":"2025",
+"duration":"1h 39m",
+"rating":"6.8",
+"genre":"Family,Comedy,Adventure,Animation,Science Fiction",
+"description":"Elio, a space fanatic with an active imagination, finds himself on a cosmic misadventure where he must form new bonds with eccentric alien lifeforms, ...",
+"type":"movie",
+"cast":"Yonas Kibreab,Zoe Saldaña,Remy Edgerly,Brandon Moon,Brad Garrett"
+},
+{
+"title":"Ace [2025] WEB-DL [Hindi] | Full Movie",
+"im":"8N9ET0MxfaYi1R2a8my0x3JCAxW",
+"bgi":"7h62JtLPbyAqvPggtVjahPLUjG6",
+"dl":"https://pixeldrain.dev/api/file/8KBdqZvm?download",
+"dl2":"https://hubcloud.one/drive/1k7eobf1bkg9mhp",
+"year":"2025",
+"duration":"2h 34m",
+"rating":"10.0",
+"genre":"Crime,Comedy,Action",
+"description":"Kannan,  with a past comes to Malaysia to turn over a new leaf. But when he realises that the girl he loves needs money to get out of a difficult situ...",
+"type":"movie",
+"cast":"Vijay Sethupathi,Rukmini Vasanth,Yogi Babu,B. S. Avinash,Babloo Prithiveeraj"
+},
+{
+"title":"Detective Sherdil [2025] WEB-DL [Hindi] | Full Movie",
+"im":"gqLrdGer0xvG5ezas7Qe3alqMzV",
+"bgi":"8v5b0OARm7Iquhh00inMcjNBO1Y",
+"dl":"https://pixeldrain.dev/api/file/y6NGSXmr?download",
+"dl2":"https://hubcloud.one/drive/ih1dbsdb1aa1rh1",
+"year":"2025",
+"duration":"1h 46m",
+"rating":"0.0",
+"genre":"Comedy,Mystery",
+"description":"For Detective Sherdil, crime-solving is his superpower. But can his wit, intellect and street-smart instincts help him crack the murder mystery of the...",
+"type":"movie",
+"cast":"Diljit Dosanjh,Diana Penty,Boman Irani,Ratna Pathak Shah,Banita Sandhu"
+},
+{
+"title":"Yuddhakaanda Chapter 2 [2025] WEB-DL [Hindi] | Full Movie",
+"im":"ltlRhsntyYrnO7itPVCkUjxil7p",
+"bgi":"cK0F6d6AGfR69oAwkTebKc0osRG",
+"dl":"https://pixeldrain.dev/api/file/Fsfov8B7?download",
+"dl2":"https://hubcloud.one/drive/b4i1o41iz6bobbr",
+"year":"2025",
+"duration":"2h 26m",
+"rating":"0.0",
+"genre":"",
+"description":"A hotel cashier turned lawyer, Bharath Hanumanth, navigates his early career in a small law firm while defending Niveditha in a high-stakes courtroom ...",
+"type":"movie",
+"cast":"Ajai Rao,Archana Jois,Supritha Sathyanarayana,Prakash Belawadi"
 },
 {
 "title":"Love Today [2022] WEB-DL [Hindi HQ DUB] | Full Movie",

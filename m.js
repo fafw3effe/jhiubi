@@ -1,5 +1,20 @@
 // Movies data
 const movies = [
+
+{
+"title":"Sitaare Zameen Par [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"2ztRFbp1YSvMSIrr7AqYq6i6pqC",
+"bgi":"pdbML7ol4HvsI1xWX0s9LZpUGfL",
+"dl":"https://pixeldrain.dev/api/file/TUhU6sLJ?download",
+"dl2":"https://hubcloud.one/drive/qkuj1c2rucseszr",
+"year":"2025",
+"duration":"2h 35m",
+"rating":"10.0",
+"genre":"Comedy,Drama",
+"description":"A disgraced basketball coach is given the chance to coach a team of players who are intellectually disabled, and soon realizes they just might have wh...",
+"type":"movie",
+"cast":"Aamir Khan,Genelia D&#39;Souza,Soren Fulton,Suresh Menon,Karim Hajee"
+},
 {
 "title":"Love Today [2022] WEB-DL [Hindi HQ DUB] | Full Movie",
 "im":"iRfIti4RhDFZ11UyCmz5Mk5wtGI",

@@ -1,6 +1,89 @@
 // Movies data
 const movies = [
 
+
+{
+"title":"Robinhood [2025] WEB-DL [Hindi HQ DUB] | Full Movie",
+"im":"zeH5oAM1A3zgXbvQ3L9GiDs3ldQ",
+"bgi":"yNuLB4Bqv1m8QAwd3WuBwIznErn",
+"dl":"https://pixeldrain.dev/api/file/EVKdGDDo?download",
+"dl2":"https://hubcloud.one/drive/mryuxus1r3a5puu",
+"year":"2025",
+"duration":"2h 30m",
+"rating":"4.4",
+"genre":"Action",
+"description":"Ram, a modern-day Robin Hood, is a master thief who unexpectedly finds himself switching sides. When fate forces him to become the personal security o...",
+"type":"movie",
+"cast":"Nithiin,Sreeleela,Vennela Kishore,Rajendra Prasad,Ketika Sharma"
+},
+{
+"title":"Panchayat [Season 1-4] WEB-DL [Hindi] | All Episodes",
+"im":"cPPhduQk1eX0MAE2JDaQRh3UZB5",
+"bgi":"iZ8EtGAqKWZdRJPzWfFseNfVxjh",
+"dl":"https://s.pptons.com/2025/05/panchayat.html",
+"year":"2020",
+"duration":"1h per episode",
+"rating":"8.0",
+"genre":"Comedy,Drama",
+"description":"Panchayat is a comedy-drama, which captures the journey of an engineering graduate Abhishek, who for lack of a better job option joins as secretary of...",
+"type":"series",
+"cast":"Jitendra Kumar,Raghubir Yadav,Neena Gupta,Chandan Roy,Faisal Malik"
+},
+{
+"title":"Ironheart [Season 1] [Episode 3] WEB-DL [Hindi-English] | All Episodes",
+"im":"AmzGVKlLvpraNAXxPYUROiN2Ulj",
+"bgi":"vno2LrEQr3lTOk3U1G1ihZsy64b",
+"dl":"https://s.pptons.com/2025/06/ironheart.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"6.4",
+"genre":"Sci-Fi & Fantasy,Crime",
+"description":"After the events of Black Panther: Wakanda Forever, technology is pitted against magic when Riri Williams, a young, genius inventor determined to make...",
+"type":"series",
+"cast":"Dominique Thorne,Anthony Ramos,Lyric Ross,Alden Ehrenreich,Manny Montana"
+},
+{
+"title":"Ghatikachalam [2025] WEB-DL [Hindi-Telugu] | Full Movie",
+"im":"rjxyLloFbnjCHPm3XHBs6SZx3SA",
+"bgi":"qfftBkYxFAJmIwRxErqEYoa97uF",
+"dl":"https://pixeldrain.dev/api/file/brJH1rTM?download",
+"dl2":"https://hubcloud.one/drive/fyxnd8s8tyf1kdl",
+"year":"2025",
+"duration":"1h 58m",
+"rating":"6.1",
+"genre":"Horror,Thriller",
+"description":"Kaushik, a timid medical student, finds himself battling not only his inner demons but also a sinister entity named Ghatikachalam that whispers throug...",
+"type":"movie",
+"cast":"Nikhil Devadula,Samyu Reddy,Aarvika Gupta,Arjun Vihaan,Prabhakar Podakandla"
+},
+{
+"title":"Kuberaa [2025] HD-TC [Hindi] | Full Movie",
+"im":"xjLC5DeA4FQTBv4xe8r3wYqh8lu",
+"bgi":"nbyTX77u3qELm9DYPgYfva7vAwj",
+"dl":"https://pixeldrain.dev/api/file/Q43QB3D6?download",
+"dl2":"https://hubcloud.one/drive/doxrgtd0jd1rheg",
+"year":"2025",
+"duration":"3h 5m",
+"rating":"8.3",
+"genre":"Crime,Thriller,Drama",
+"description":"A ruthless billionaire, Neeraj, uses beggars as benamis to launder money, with the help of a disgraced civil submit servant, Deepak. One of the beggar...",
+"type":"movie",
+"cast":"Dhanush,Nagarjuna Akkineni,Jim Sarbh,Rashmika Mandanna,K. Bhagyaraj"
+},
+{
+"title":"The Phoenician Scheme [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"jtEqpy0K1iVuCebRwWqT6BZ6jLN",
+"bgi":"bajke0ThKJ2V2iHE9DDYOJGdS7a",
+"dl":"https://pixeldrain.dev/api/file/hSdauqJB?download",
+"dl2":"https://hubcloud.one/drive/gyklwtwhg3fxcdm",
+"year":"2025",
+"duration":"1h 42m",
+"rating":"6.9",
+"genre":"Adventure,Comedy",
+"description":"Wealthy businessman Zsa-zsa Korda appoints his only daughter, a nun, as sole heir to his estate. As Korda embarks on a new enterprise, they soon becom...",
+"type":"movie",
+"cast":"Benicio del Toro,Mia Threapleton,Michael Cera,Riz Ahmed,Tom Hanks"
+},
 {
 "title":"Sitaare Zameen Par [2025] HD-CAM [Hindi] | Full Movie",
 "im":"2ztRFbp1YSvMSIrr7AqYq6i6pqC",
@@ -1687,19 +1770,6 @@ const movies = [
 "description":"A group of small-town young men run a lucrative phishing operation, until a corrupt politician wants in on their scheme -- and a cop wants to fight it...",
 "type":"series",
 "cast":"Amit Sial,Dibyendu Bhattacharya,Aksha Pardasany,Sparsh Shrivastava,Monika Panwar"
-},
-{
-"title":"Panchayat [All Seasons] WEB-DL [Hindi] | All Episodes",
-"im":"cPPhduQk1eX0MAE2JDaQRh3UZB5",
-"bgi":"iZ8EtGAqKWZdRJPzWfFseNfVxjh",
-"dl":"https://s.pptons.com/2025/05/panchayat.html",
-"year":"2020",
-"duration":"1h per episode",
-"rating":"8.0",
-"genre":"Comedy,Drama",
-"description":"Panchayat is a comedy-drama, which captures the journey of an engineering graduate Abhishek, who for lack of a better job option joins as secretary of...",
-"type":"series",
-"cast":"Jitendra Kumar,Raghubir Yadav,Neena Gupta,Chandan Roy,Faisal Malik"
 },
 {
 "title":"The Legend of Hanuman [All Seasons] WEB-DL [Hindi] | All Episodes",
@@ -5598,20 +5668,6 @@ const movies = [
 "type":"movie",
 "quality":"web-dl",
 "cast":"Shane Nigam,Revathi,Saiju Kurup,James Eliya,Athira Patel"
-},
-{
-"title":"Robinhood [2025] PRE-HD Dual Audio [Hindi [LQ Dub] - Telugu 2.0] | Full Movie",
-"im":"zeH5oAM1A3zgXbvQ3L9GiDs3ldQ",
-"bgi":"yNuLB4Bqv1m8QAwd3WuBwIznErn",
-"dl":"https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Robinhood.2025.PRE-HD.Hindi.LQ.Dub.+.Telugu.720p.x264.AVC.2.0.Vegamovies.is.mkv",
-"year":"2025",
-"duration":"2h 30m",
-"rating":"5.5",
-"genre":"Action",
-"description":"Ram, a modern-day Robin Hood, is a master thief who unexpectedly finds himself switching sides. When fate forces him to become the personal security officer for Neera, a rollercoaster ride of action, comedy, and unexpected twists follows.",
-"type":"movie",
-"quality":"web-dl",
-"cast":"Nithiin,Sreeleela,Vennela Kishore,Rajendra Prasad,Ketika Sharma"
 },
 {
 "title":"Test [2025] WEB-DL [Hindi [DD5.1] & Tamil] [HEVC] | Full Movie",

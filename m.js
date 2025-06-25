@@ -43,20 +43,6 @@ const movies = [
 "cast":"Dominique Thorne,Anthony Ramos,Lyric Ross,Alden Ehrenreich,Manny Montana"
 },
 {
-"title":"Ghatikachalam [2025] WEB-DL [Hindi-Telugu] | Full Movie",
-"im":"rjxyLloFbnjCHPm3XHBs6SZx3SA",
-"bgi":"qfftBkYxFAJmIwRxErqEYoa97uF",
-"dl":"https://pixeldrain.dev/api/file/brJH1rTM?download",
-"dl2":"https://hubcloud.one/drive/fyxnd8s8tyf1kdl",
-"year":"2025",
-"duration":"1h 58m",
-"rating":"6.1",
-"genre":"Horror,Thriller",
-"description":"Kaushik, a timid medical student, finds himself battling not only his inner demons but also a sinister entity named Ghatikachalam that whispers throug...",
-"type":"movie",
-"cast":"Nikhil Devadula,Samyu Reddy,Aarvika Gupta,Arjun Vihaan,Prabhakar Podakandla"
-},
-{
 "title":"Kuberaa [2025] HD-TC [Hindi] | Full Movie",
 "im":"xjLC5DeA4FQTBv4xe8r3wYqh8lu",
 "bgi":"nbyTX77u3qELm9DYPgYfva7vAwj",
@@ -71,20 +57,6 @@ const movies = [
 "cast":"Dhanush,Nagarjuna Akkineni,Jim Sarbh,Rashmika Mandanna,K. Bhagyaraj"
 },
 {
-"title":"The Phoenician Scheme [2025] WEB-DL [Hindi-English] | Full Movie",
-"im":"jtEqpy0K1iVuCebRwWqT6BZ6jLN",
-"bgi":"bajke0ThKJ2V2iHE9DDYOJGdS7a",
-"dl":"https://pixeldrain.dev/api/file/hSdauqJB?download",
-"dl2":"https://hubcloud.one/drive/gyklwtwhg3fxcdm",
-"year":"2025",
-"duration":"1h 42m",
-"rating":"6.9",
-"genre":"Adventure,Comedy",
-"description":"Wealthy businessman Zsa-zsa Korda appoints his only daughter, a nun, as sole heir to his estate. As Korda embarks on a new enterprise, they soon becom...",
-"type":"movie",
-"cast":"Benicio del Toro,Mia Threapleton,Michael Cera,Riz Ahmed,Tom Hanks"
-},
-{
 "title":"Sitaare Zameen Par [2025] HD-CAM [Hindi] | Full Movie",
 "im":"2ztRFbp1YSvMSIrr7AqYq6i6pqC",
 "bgi":"pdbML7ol4HvsI1xWX0s9LZpUGfL",
@@ -97,6 +69,34 @@ const movies = [
 "description":"A disgraced basketball coach is given the chance to coach a team of players who are intellectually disabled, and soon realizes they just might have wh...",
 "type":"movie",
 "cast":"Aamir Khan,Genelia D&#39;Souza,Soren Fulton,Suresh Menon,Karim Hajee"
+},
+{
+"title":"Ghatikachalam [2025] WEB-DL [Hindi-Telugu] | Full Movie",
+"im":"rjxyLloFbnjCHPm3XHBs6SZx3SA",
+"bgi":"qfftBkYxFAJmIwRxErqEYoa97uF",
+"dl":"https://pixeldrain.dev/api/file/brJH1rTM?download",
+"dl2":"https://hubcloud.one/drive/fyxnd8s8tyf1kdl",
+"year":"2025",
+"duration":"1h 58m",
+"rating":"6.1",
+"genre":"Horror,Thriller",
+"description":"Kaushik, a timid medical student, finds himself battling not only his inner demons but also a sinister entity named Ghatikachalam that whispers throug...",
+"type":"movie",
+"cast":"Nikhil Devadula,Samyu Reddy,Aarvika Gupta,Arjun Vihaan,Prabhakar Podakandla"
+},
+{
+"title":"The Phoenician Scheme [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"jtEqpy0K1iVuCebRwWqT6BZ6jLN",
+"bgi":"bajke0ThKJ2V2iHE9DDYOJGdS7a",
+"dl":"https://pixeldrain.dev/api/file/hSdauqJB?download",
+"dl2":"https://hubcloud.one/drive/gyklwtwhg3fxcdm",
+"year":"2025",
+"duration":"1h 42m",
+"rating":"6.9",
+"genre":"Adventure,Comedy",
+"description":"Wealthy businessman Zsa-zsa Korda appoints his only daughter, a nun, as sole heir to his estate. As Korda embarks on a new enterprise, they soon becom...",
+"type":"movie",
+"cast":"Benicio del Toro,Mia Threapleton,Michael Cera,Riz Ahmed,Tom Hanks"
 },
 {
 "title":"Elio [2025] HD-CAM [Hindi] | Full Movie",

@@ -16,6 +16,19 @@ const movies = [
 "cast":"Ranbir Kapoor,Nargis Fakhri,Shammi Kapoor,Aditi Rao Hydari,Kumud Mishra"
 },
 {
+"title":"Reacher [Season 1-3] WEB-DL [Hindi-English] | All Episodes",
+"im":"31GlRQMiDunO8cl3NxTz34U64rf",
+"bgi":"JYgqp8g2kI3SEus9XBDSHukfBN",
+"dl":"https://s.pptons.com/2025/06/reacher.html",
+"year":"2022",
+"duration":"1h per episode",
+"rating":"8.1",
+"genre":"Action & Adventure,Drama,Crime",
+"description":"Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest ...",
+"type":"series",
+"cast":"Alan Ritchson,Maria Sten,Malcolm Goodwin,Willa Fitzgerald,Serinda Swan"
+},
+{
 "title":"Countdown [Season 1] [Episode 3] WEB-DL [Hindi-English] | All Episodes",
 "im":"gcSNS5cy1iOmYawIdJCzoc873rQ",
 "bgi":"1GMyouDLET9zjA4ZCPpzvLBkY1B",
@@ -5335,13 +5348,7 @@ const movies = [
  dl:'https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/House.of.David.S01.E08.Web-dl.720p.Hin.Eng.AAC.5.1.x264.MSubs.Vegamovies.is.mkv',
  link: 'tt30955673'
 },
- 
-{
- title:'Reacher [Season 3] [All Episodes] WEB-DL [Hindi-English] | Full Series',
- im:'riO4eCaO5MJzknCkaqmLnRmau8L',
- dl:'https://vcloud.lol/xwctts2d31xurdw',
- link: 'tt9288030'
-},
+
  
 {
  title:'Shangri-La Frontier [Season 2] [Episode 23] WEB-DL [Hindi-English-Japanese]',

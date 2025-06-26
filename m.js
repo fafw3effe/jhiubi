@@ -111,6 +111,20 @@ const movies = [
 "cast":"Dhanush,Nagarjuna Akkineni,Jim Sarbh,Rashmika Mandanna,K. Bhagyaraj"
 },
 {
+"title":"Naadi Dosh [2022] WEB-DL [Gujarati] | Full Movie",
+"im":"bDR3HJIXSOgUFLxRIU4eDLEQmcz",
+"bgi":"b2jTNlmeTt7IXmpVngV74fhgpVE",
+"dl":"https://pixeldrain.dev/api/file/cUd2QeMC?download",
+"dl2":"https://hubcloud.one/drive/qjuqou1gq1jb_i6",
+"year":"2022",
+"duration":"2h 11m",
+"rating":"6.0",
+"genre":"Drama,Family,Romance",
+"description":"New generation love birds, Riddhi and Kevin, shrewdly tackle the issue of 'Naadi Dosh', an old and dogmatic faith.",
+"type":"movie",
+"cast":"Yash Soni,Janki Bodiwala,Raunaq Kamdar,Prashant Barot,Ashish Kakkad"
+},
+{
 "title":"Darker Shades of Elise [2017] WEB-DL [Hindi-English] | Full Movie",
 "im":"d2FHfaJ2FM6IRnQbFS0O3hefeZV",
 "bgi":"vUqG0YXKUWEM1HJO7DbbDh8ZOHT",

@@ -2,6 +2,46 @@
 const movies = [
 
 {
+"title":"Nine Perfect Strangers [Season 1] [Episode 7] WEB-DL [Hindi-English] | All Episodes",
+"im":"oPcqsZIFHrv7HoGgFQnsGDiPulD",
+"bgi":"RzCw9LQyAcoa9mn4xkEAyuvhgr",
+"dl":"https://s.pptons.com/2025/06/nine-perfect-strangers.html",
+"year":"2021",
+"duration":"1h per episode",
+"rating":"7.0",
+"genre":"Drama,Mystery",
+"description":"At a boutique health-and-wellness resort that promises healing and transformation, nine stressed city dwellers try to get on a path to a better way of...",
+"type":"series",
+"cast":"Nicole Kidman,Melissa McCarthy,Michael Shannon,Luke Evans,Asher Keddie"
+},
+{
+"title":"Criminal Justice: A Family Matter [Season 1] [Episode 7] WEB-DL [Hindi] | All Episodes",
+"im":"skCHAsB0qIzG13UxV7TKyqTP8HP",
+"bgi":"sTIBAlkG23DDP8EdEWLr9jVQGXv",
+"dl":"https://s.pptons.com/2025/05/criminal-justice-adhura-sach.html",
+"year":"2022",
+"duration":"1h per episode",
+"rating":"7.1",
+"genre":"Crime,Drama,Mystery",
+"description":"Madhav Mishra is back to fight his toughest case yet nothing is simple and straightforward. Will justice win?",
+"type":"series",
+"cast":"Pankaj Tripathi,Shweta Basu Prasad,Swastika Mukherjee,Purab Kohli,Deshna Dugad"
+},
+{
+"title":"Baby & Baby [2025] WEB-DL [Hindi-Tamil] | Full Movie",
+"im":"rn2zLW90eooVKuDRt5h8oLZRHwA",
+"bgi":"f47cKJlC7qxuQy9pMvJCC7lEhJh",
+"dl":"https://pixeldrain.dev/api/file/tXix5tv2?download",
+"dl2":"https://hubcloud.one/drive/asyhfwxdsegygx7",
+"year":"2025",
+"duration":"2h 13m",
+"rating":"6.1",
+"genre":"Comedy,Drama",
+"description":"Baby & Baby follows two families eagerly anticipating the arrival of their newborns, only to be caught in an unexpected mix-up. What begins as cha...",
+"type":"movie",
+"cast":"Jai Sampath,Sathyaraj,Yogi Babu,Pragya Nagra,Rajendran"
+},
+{
 "title":"Rockstar [2011] WEB-DL [Hindi] | Full Movie",
 "im":"cJZC9riwrdATBUonkZJZD6y9g40",
 "bgi":"3UseBwzKsUmMN37XcahJSVYRWkf",
@@ -14,6 +54,19 @@ const movies = [
 "description":"College student Janardhan is a simpleton who desperately seeks inspiration for the musician inside him. Although heartbreak helps him reach his goal, ...",
 "type":"movie",
 "cast":"Ranbir Kapoor,Nargis Fakhri,Shammi Kapoor,Aditi Rao Hydari,Kumud Mishra"
+},
+{
+"title":"Sweet Home [Season 1-3] WEB-DL [Hindi-English] | All Episodes",
+"im":"zcugNxDg59YwIf3dUHsrHmO7pc1",
+"bgi":"mceCXNTny6a5F3rQgShLoyARw4l",
+"dl":"https://s.pptons.com/2025/06/sweet-home.html",
+"year":"2020",
+"duration":"1h per episode",
+"rating":"8.3",
+"genre":"Sci-Fi & Fantasy,Action & Adventure",
+"description":"As humans turn into savage monsters and the world plunges into terror, a handful of survivors fight for their lives — and to hold on to their humani...",
+"type":"series",
+"cast":"Song Kang,Lee Jin-uk,Lee Si-young,Go Min-si,Lee Do-hyun"
 },
 {
 "title":"Reacher [Season 1-3] WEB-DL [Hindi-English] | All Episodes",
@@ -317,19 +370,6 @@ const movies = [
 "description":"In a world ruled by crime and betrayal, mafia kingpin Sakthivel and his brother Manikkam rescue a young boy, Amaran, during a violent police shootout ...",
 "type":"movie",
 "cast":"Kamal Haasan,Silambarasan,Trisha Krishnan,Ashok Selvan,Abhirami"
-},
-{
-"title":"Criminal Justice: Adhura Sach [Season 2] [Episode 6] WEB-DL [Hindi] | All Episodes",
-"im":"skCHAsB0qIzG13UxV7TKyqTP8HP",
-"bgi":"sTIBAlkG23DDP8EdEWLr9jVQGXv",
-"dl":"https://s.pptons.com/2025/05/criminal-justice-adhura-sach.html",
-"year":"2022",
-"duration":"1h per episode",
-"rating":"7.1",
-"genre":"Crime,Drama,Mystery",
-"description":"Madhav Mishra is back to fight his toughest case yet nothing is simple and straightforward. Will justice win?",
-"type":"series",
-"cast":"Pankaj Tripathi,Shweta Basu Prasad,Swastika Mukherjee,Purab Kohli,Deshna Dugad"
 },
 {
 "title":"Bubblegum [2023] WEB-DL [Hindi] | Full Movie",

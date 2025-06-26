@@ -111,6 +111,19 @@ const movies = [
 "cast":"Dhanush,Nagarjuna Akkineni,Jim Sarbh,Rashmika Mandanna,K. Bhagyaraj"
 },
 {
+"title":"Ayyana Mane [Season 1] WEB-DL [Hindi-Kannada] | All Episodes",
+"im":"d5xfFxaAJR2ZQEAuhbDnpkZbKQt",
+"bgi":"khSsB2pLf8ua3FR4MO39V02tlJq",
+"dl":"https://s.pptons.com/2025/06/ayyana-mane.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"8.0",
+"genre":"Crime,Mystery",
+"description":"Jaaji arrives at her marital home on her wedding day, only to witness her father-in-law’s sudden death. As she discovers more chilling secrets, Jaaj...",
+"type":"series",
+"cast":"Kushee Ravi,Akshay Nayak,Vijay Shobaraj Pavoor,Manasi Sudhir,Anirudh Acharya"
+},
+{
 "title":"Naadi Dosh [2022] WEB-DL [Gujarati] | Full Movie",
 "im":"bDR3HJIXSOgUFLxRIU4eDLEQmcz",
 "bgi":"b2jTNlmeTt7IXmpVngV74fhgpVE",
@@ -378,8 +391,8 @@ const movies = [
 "title":"Alappuzha Gymkhana [2025] WEB-DL [Hindi-English] | Full Movie",
 "im":"q4OwzcY6r2L1M1S6uYzmtzjwAqX",
 "bgi":"gndCUsT53TIykPAG393UqgjU69T",
-"dl":"https://pixeldrain.dev/api/file/6Xg9VE19?download",
-"dl2":"https://hubcloud.one/drive/htaaxnbasacn0ri",
+"dl":"https://pixeldrain.dev/api/file/MtusY568?download",
+"dl2":"https://hubcloud.one/drive/do6mr8ydiuippem",
 "year":"2025",
 "duration":"2h 20m",
 "rating":"6.1",
@@ -846,8 +859,8 @@ const movies = [
 "title":"Gajaana [2025] WEB-DL [Hindi] | Full Movie",
 "im":"4T15krfH63uSTk9wI4yIN7YcqkZ",
 "bgi":"7AVjjrzoW2J6aAe8sDH5LD0YZtG",
-"dl":"https://pub-ed0ca22af5c04301b7abe9dac4aaf9bc.r2.dev/Gajaana.2025.720p.HEVC.Hindi.WEB-DL.2.0.ESub.x265-HDHub4u.Ms.mkv",
-"dl2":"https://hubcloud.bz/drive/aa6daz1pbpszfdb",
+"dl":"https://pixeldrain.dev/api/file/xTQmJKBR?download",
+"dl2":"https://hubcloud.one/drive/aa6daz1pbpszfdb",
 "year":"2025",
 "duration":"2h 5m",
 "rating":"6.1",
@@ -4583,19 +4596,6 @@ const movies = [
 "description":"Valerian and his partner Laureline must navigate through a vast city in space, facing danger and uncovering a conspiracy that threatens the entire galaxy.",
 "type":"movie",
 "quality":"webdl hevc"
-},
-{
-"title":"Ayyana Mane [Season 1] WEB-DL [Hindi-English] | All Episodes",
-"im":"ktGeo5XTYoR0jxnIFjcdzlxW1Ol",
-"dl":"http://qwrqwrqwr.rf.gd/a/a.php?pd=7RoQv45n&sn=1&es=Ayyana.Mane.S01.720p.WEB-DL.Hindi.5.1-Kannada.5.1.ESub.x264-HDHub4u.Ms/Ayyana.Mane.S01E&e=6&el=.720p.WEB-DL.Hindi.5.1-Kannada.5.1.ESub.x264-HDHub4u.Ms.mkv",
-"link":"tt36507686",
-"year":"2025",
-"duration":"45 min per episode",
-"rating":"7.4",
-"genre":"Drama, Family",
-"description":"The life of a young girl, Ayyana, who struggles with societal norms, family pressure, and her dreams, unfolds in a gripping story of resilience and hope.",
-"type":"series",
-"quality":"web-dl"
 },
 {
 "title":"Ash [2025] WEB-DL [Hindi-English] [HEVC] | Full Movie",

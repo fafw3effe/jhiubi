@@ -2,6 +2,19 @@
 const movies = [
 
 {
+"title":"The Traitors [Season 1] [Episode 9] WEB-DL [Hindi-English] | All Episodes",
+"im":"82gKEb78UPkYAMjXLSswwVzpCbI",
+"bgi":"tGw6Zer4V71TnzMHbjgbIxQWzNB",
+"dl":"https://s.pptons.com/2025/06/the-traitors.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"6.1",
+"genre":"Reality",
+"description":"Welcome to The Traitors — a ruthless reality show hosted by the enigmatic Karan Johar. Here 20 players will openly betray each other in daily elimin...",
+"type":"series",
+"cast":"Karan Johar,Purav Jha,Jasmin Bhasin,Harsh Gujral,Uorfi Javed"
+},
+{
 "title":"Nine Perfect Strangers [Season 1] [Episode 7] WEB-DL [Hindi-English] | All Episodes",
 "im":"oPcqsZIFHrv7HoGgFQnsGDiPulD",
 "bgi":"RzCw9LQyAcoa9mn4xkEAyuvhgr",

@@ -111,6 +111,20 @@ const movies = [
 "cast":"Dhanush,Nagarjuna Akkineni,Jim Sarbh,Rashmika Mandanna,K. Bhagyaraj"
 },
 {
+"title":"Masaan [2015] WEB-DL [Hindi-English] | Full Movie",
+"im":"pDg9Em9YJtIdIzvjMklmFsTBB0s",
+"bgi":"6vTv4OEy7Qq4FGeDpWxBsAXyTH",
+"dl":"https://pixeldrain.net/api/file/vzPNDrKZ?download",
+"dl2":"https://vcloud.lol/_c66jdy5wmcxgpy",
+"year":"2015",
+"duration":"1h 49m",
+"rating":"7.0",
+"genre":"Drama",
+"description":"Four lives intersect along the Ganges: a low caste boy in hopeless love, a daughter ridden with guilt of a sexual encounter ending in a tragedy, a hap...",
+"type":"movie",
+"cast":"Richa Chadha,Sanjay Mishra,Vicky Kaushal,Shweta Tripathi Sharma,Vineet Kumar"
+},
+{
 "title":"Ayyana Mane [Season 1] WEB-DL [Hindi-Kannada] | All Episodes",
 "im":"d5xfFxaAJR2ZQEAuhbDnpkZbKQt",
 "bgi":"khSsB2pLf8ua3FR4MO39V02tlJq",

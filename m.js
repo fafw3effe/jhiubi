@@ -2,6 +2,20 @@
 const movies = [
 
 {
+"title":"Rockstar [2011] WEB-DL [Hindi] | Full Movie",
+"im":"cJZC9riwrdATBUonkZJZD6y9g40",
+"bgi":"3UseBwzKsUmMN37XcahJSVYRWkf",
+"dl":"https://pixeldrain.dev/api/file/kh2AsSrK?download",
+"dl2":"https://hubcloud.one/drive/kff5qu_5kfrojrm",
+"year":"2011",
+"duration":"2h 39m",
+"rating":"7.3",
+"genre":"Drama,Music,Romance",
+"description":"College student Janardhan is a simpleton who desperately seeks inspiration for the musician inside him. Although heartbreak helps him reach his goal, ...",
+"type":"movie",
+"cast":"Ranbir Kapoor,Nargis Fakhri,Shammi Kapoor,Aditi Rao Hydari,Kumud Mishra"
+},
+{
 "title":"Countdown [Season 1] [Episode 3] WEB-DL [Hindi-English] | All Episodes",
 "im":"gcSNS5cy1iOmYawIdJCzoc873rQ",
 "bgi":"1GMyouDLET9zjA4ZCPpzvLBkY1B",

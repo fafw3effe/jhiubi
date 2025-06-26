@@ -1,7 +1,47 @@
 // Movies data
 const movies = [
 
-
+{
+"title":"Countdown [Season 1] [Episode 3] WEB-DL [Hindi-English] | All Episodes",
+"im":"gcSNS5cy1iOmYawIdJCzoc873rQ",
+"bgi":"1GMyouDLET9zjA4ZCPpzvLBkY1B",
+"dl":"https://s.pptons.com/2025/06/countdown.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"6.9",
+"genre":"Drama,Crime,Mystery",
+"description":"When an officer with the Department of Homeland Security is murdered in broad daylight, LAPD detective Mark Meachum is recruited to a secret task forc...",
+"type":"series",
+"cast":"Jensen Ackles,Jessica Camacho,Eric Dane,Violett Beane,Uli Latukefu"
+},
+{
+"title":"Raid 2 [2025] WEB-DL [Hindi] | Full Movie",
+"im":"2uT7cxgddjPmkmQpQpEGhhtLKVX",
+"bgi":"uKhBujLqYCcfU1kaxXHNCEyZnT",
+"dl":"https://pixeldrain.dev/api/file/vCFsccbB?download",
+"dl2":"https://hubcloud.one/drive/h5hg4y5jy4tfhga",
+"year":"2025",
+"duration":"2h 19m",
+"rating":"6.6",
+"genre":"Crime,Drama,Thriller",
+"description":"Set seven years after the events of the first film, it follows the return of IRS officer Amay Patnaik, who is attempting to take down a seemingly bene...",
+"type":"movie",
+"cast":"Ajay Devgn,Riteish Deshmukh,Vaani Kapoor,Saurabh Shukla,Rajat Kapoor"
+},
+{
+"title":"How to Have Sex [2023] WEB-DL [Hindi-English] | Full Movie",
+"im":"yQyoFCBLGJH5HXESmJAzaiXw9zU",
+"bgi":"fYtmRIFFIyronSAYTmmlzdPIZaz",
+"dl":"https://pixeldrain.dev/api/file/NpqCn2ga?download",
+"dl2":"https://hubcloud.one/drive/vfwwknogjcewqvn",
+"year":"2023",
+"duration":"1h 31m",
+"rating":"6.2",
+"genre":"Drama",
+"description":"Three British teenage girls go on a rites-of-passage holiday—drinking, clubbing and hooking up, in what should be the best summer of their lives.",
+"type":"movie",
+"cast":"Mia McKenna-Bruce,Lara Peake,Enva Lewis,Samuel Bottomley,Shaun Thomas"
+},
 {
 "title":"Robinhood [2025] WEB-DL [Hindi HQ DUB] | Full Movie",
 "im":"zeH5oAM1A3zgXbvQ3L9GiDs3ldQ",
@@ -55,6 +95,34 @@ const movies = [
 "description":"A ruthless billionaire, Neeraj, uses beggars as benamis to launder money, with the help of a disgraced civil submit servant, Deepak. One of the beggar...",
 "type":"movie",
 "cast":"Dhanush,Nagarjuna Akkineni,Jim Sarbh,Rashmika Mandanna,K. Bhagyaraj"
+},
+{
+"title":"Darker Shades of Elise [2017] WEB-DL [Hindi-English] | Full Movie",
+"im":"d2FHfaJ2FM6IRnQbFS0O3hefeZV",
+"bgi":"vUqG0YXKUWEM1HJO7DbbDh8ZOHT",
+"dl":"https://pixeldrain.dev/api/file/MfoUJtr5?download",
+"dl2":"https://hubcloud.one/drive/b7x2hb4mbbaqb4v",
+"year":"2017",
+"duration":"1h 32m",
+"rating":"4.3",
+"genre":"Thriller,Drama",
+"description":"Elise's life takes a sharp turn for the worst when she meets a mysterious and alluring stranger who has more than friendship on his mind - A tale...",
+"type":"movie",
+"cast":"Becca Hirani,Tommy Vilés,Arron Blake,Darcie Rose,Tara MacGowran"
+},
+{
+"title":"Hunt [2024] WEB-DL [Hindi-Malayalam] | Full Movie",
+"im":"bQKiVg4DrXD4mt5u17dhNEbVypm",
+"bgi":"aS351kDJDj3GaLebN0ZlvkXMVrf",
+"dl":"https://pixeldrain.dev/api/file/SpgwdB31?download",
+"dl2":"https://hubcloud.one/drive/kzoff0hozzx1g77",
+"year":"2024",
+"duration":"1h 56m",
+"rating":"6.1",
+"genre":"Horror,Thriller",
+"description":"A student of forensics gets entangled in unraveling the mystery behind the disappearance and murder of a woman with help from the supernatural",
+"type":"movie",
+"cast":"Bhavana,Aditi Ravi,Chandhunadh,Renji Panicker,Nandhu"
 },
 {
 "title":"Sitaare Zameen Par [2025] HD-CAM [Hindi] | Full Movie",
@@ -293,7 +361,7 @@ const movies = [
 "cast":"Naslen,Lukman Avaran,Ganapathi S Poduval,Sandeep Pradeep,Anagha Maya Ravi"
 },
 {
-"title":"What If...? [Season 2-3] WEB-DL [Hindi-English] | All Episodes",
+"title":"What If...? [Season 1-3] WEB-DL [Hindi-English] | All Episodes",
 "im":"lztz5XBMG1x6Y5ubz7CxfPFsAcW",
 "bgi":"jnzoh5qoxRLFRIQAxnl6D3RStPC",
 "dl":"https://s.pptons.com/2025/06/what-if.html",
@@ -1811,20 +1879,6 @@ const movies = [
 "description":"A dysfunctional royal family implodes with the death of their diabolical patriarch. Now, the three surviving Raisingghs battle it out for power and ki...",
 "type":"series",
 "cast":"Nimrat Kaur,Amol Parashar,Ridhi Dogra,Ankit Siwach,Suhaas Ahuja"
-},
-{
-"title":"Raid 2 [2025] WEB-DL [Hindi] | Full Movie",
-"im":"fzVbLi9PPKMOFtJMnVHKfcRVRTm",
-"bgi":"uKhBujLqYCcfU1kaxXHNCEyZnT",
-"dl":"https://pub-ed0ca22af5c04301b7abe9dac4aaf9bc.r2.dev/Raid-2.2025.720p.Hindi.WEB-DL.5.1.x264-HDHub4u.Ms.mkv",
-"dl2":"https://hubcloud.bz/drive/ibpgqbi5l3n3q1u",
-"year":"2025",
-"duration":"2h 25m",
-"rating":"6.0",
-"genre":"Crime,Drama,Thriller",
-"description":"Set 7 years after the events of the first film, it follows the return of IRS officer Amay Patnaik (Devgn), who tracks another white-collar crime.",
-"type":"movie",
-"cast":"Ajay Devgn,Ritesh Deshmukh,Vaani Kapoor,Saurabh Shukla,Rajat Kapoor"
 },
 {
 "title":"Inheritance [2025] WEB-DL [Hindi-English] | Full Movie",

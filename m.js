@@ -2,6 +2,19 @@
 const movies = [
 
 {
+"title":"Squid Game [Season 1-3] WEB-DL [Hindi-English] | All Episodes",
+"im":"eaX4og886CWqsAMgHiCCveZNKsV",
+"bgi":"hdgpeJ6xM1vjHxOFLHRNaBuoYRN",
+"dl":"https://s.pptons.com/2025/05/squid-game.html",
+"year":"2021",
+"duration":"1h per episode",
+"rating":"9.1",
+"genre":"Action & Adventure,Mystery,Drama",
+"description":"Hundreds of cash-strapped players accept a strange invitation to compete in children's games. Inside, a tempting prize awaits — with deadly hig...",
+"type":"series",
+"cast":"Lee Jung-jae,Wi Ha-jun,Jeon Young-soo,Lee Byung-hun,Yim Si-wan"
+},
+{
 "title":"The Traitors [Season 1] [Episode 9] WEB-DL [Hindi-English] | All Episodes",
 "im":"82gKEb78UPkYAMjXLSswwVzpCbI",
 "bgi":"tGw6Zer4V71TnzMHbjgbIxQWzNB",
@@ -3351,19 +3364,6 @@ const movies = [
 "description":"A high school becomes ground zero for a zombie virus outbreak. Trapped students must fight their way out — or turn into one of the rabid infected.",
 "type":"series",
 "cast":"Park Ji-hu,Yoon Chan-young,Cho Yi-hyun,Lomon,Yoo In-soo"
-},
-{
-"title":"Squid Game [All Seasons] WEB-DL [Hindi-English] | All Episodes",
-"im":"1QdXdRYfktUSONkl1oD5gc6Be0s",
-"dl":"https://s.pptons.com/2025/05/squid-game.html",
-"bgi":"2meX1nMdScFOoV4370rqHWKmXhY",
-"year":"2021",
-"duration":"1h per episode",
-"rating":"7.9",
-"genre":"Action & Adventure,Mystery,Drama,",
-"description":"Hundreds of cash-strapped players accept a strange invitation to compete in children's games. Inside, a tempting prize awaits — with deadly high stakes.",
-"type":"series",
-"cast":"Lee Jung-jae,Wi Ha-jun,Jeon Young-soo,Lee Byung-hun,Yim Si-wan"
 },
 {
 "title":"Shin Chan [Season 10] WEB-DL [Hindi] | All Episodes",

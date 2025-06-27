@@ -15,6 +15,20 @@ const movies = [
 "cast":"Lee Jung-jae,Wi Ha-jun,Jeon Young-soo,Lee Byung-hun,Yim Si-wan"
 },
 {
+"title":"Kannappa [2025] HD-TC [Hindi] | Full Movie",
+"im":"6LhE7IwhXgaNi33l0ltYahIB91i",
+"bgi":"sq07TPUrruUkLsU0apGchnRmWlN",
+"dl":"https://pixeldrain.dev/api/file/93J6AMQP?download",
+"dl2":"https://hubcloud.one/drive/ajjrptjiah3vy3v",
+"year":"2025",
+"duration":"3h 2m",
+"rating":"6.1",
+"genre":"Fantasy,History,Drama",
+"description":"After witnessing the cruel sacrifice of his childhood friend, an atheist warrior rejects religion until love forces him to find his own faith.",
+"type":"movie",
+"cast":"Vishnu Manchu,Preity Mukhundhan,Akshay Kumar,Mohan Babu,Mohanlal"
+},
+{
 "title":"F1 The Movie [2025] PRE-HD [Hindi-English] | Full Movie",
 "im":"vqBmyAj0Xm9LnS1xe1MSlMAJyHq",
 "bgi":"lkDYN0whyE82mcM20rwtwjbniKF",

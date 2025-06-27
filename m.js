@@ -17,9 +17,9 @@ const movies = [
 {
 "title":"Maa [2025] HD-TS [Hindi] | Full Movie",
 "im":"kc5n7LJUmvBsVxzAla1ONN8kouP",
-"bgi":"https://pixeldrain.dev/api/file/7fxduxWB?download",
-"dl":"https://hubcloud.one/drive/41owfm44ds1s1fg",
-"dl2":"",
+"bgi":"",
+"dl":"https://pixeldrain.dev/api/file/7fxduxWB?download",
+"dl2":"https://hubcloud.one/drive/41owfm44ds1s1fg",
 "year":"2025",
 "duration":"2h 13m",
 "rating":"6.1",

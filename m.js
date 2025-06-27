@@ -15,6 +15,20 @@ const movies = [
 "cast":"Lee Jung-jae,Wi Ha-jun,Jeon Young-soo,Lee Byung-hun,Yim Si-wan"
 },
 {
+"title":"Maa [2025] HD-TS [Hindi] | Full Movie",
+"im":"kc5n7LJUmvBsVxzAla1ONN8kouP",
+"bgi":"https://pixeldrain.dev/api/file/7fxduxWB?download",
+"dl":"https://hubcloud.one/drive/41owfm44ds1s1fg",
+"dl2":"",
+"year":"2025",
+"duration":"2h 13m",
+"rating":"6.1",
+"genre":"Horror",
+"description":"A mother and daughter encounter a demon in a village where girls have been disappearing.",
+"type":"movie",
+"cast":"Kajol,Ronit Roy,Indraneil Sengupta,Jitin Gulati,Kherin Sharma"
+},
+{
 "title":"Kannappa [2025] HD-TC [Hindi] | Full Movie",
 "im":"6LhE7IwhXgaNi33l0ltYahIB91i",
 "bgi":"sq07TPUrruUkLsU0apGchnRmWlN",

@@ -15,6 +15,45 @@ const movies = [
 "cast":"Lee Jung-jae,Wi Ha-jun,Jeon Young-soo,Lee Byung-hun,Yim Si-wan"
 },
 {
+"title":"Good Boy [Season 1] [Episode 9] WEB-DL [Hindi-Korean]",
+"im":"zsZyvEU2cbNknrlESV9bh3YMhJH",
+"bgi":"kTQ7sRDZwIDgygWKIrhN4T1BLQD",
+"dl":"https://s.pptons.com/2025/06/good-boy.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"10.0",
+"genre":"Crime,Comedy,Action & Adventure,Drama",
+"description":"Olympic medalists join the police force through a special recruitment program, trading medals for badges as they tackle violent crimes and injustices ...",
+"type":"series",
+"cast":"Park Bo-gum,Kim So-hyun,Oh Jung-se,Lee Sang-yi,Heo Sung-tae"
+},
+{
+"title":"The Great Indian Kapil Show [Season 3] [Episode 2] WEB-DL [Hindi] | All Episodes",
+"im":"6LWtSm2VHfenFBMvmjG9GYgfvSd",
+"bgi":"lPVM7LR0ydKVj2qzdsVgi1akjom",
+"dl":"https://s.pptons.com/2025/06/the-great-indian-kapil-show.html",
+"year":"2024",
+"duration":"1h per episode",
+"rating":"6.9",
+"genre":"Talk,Comedy",
+"description":"Comedian Kapil Sharma hosts this laugh-out-loud variety talk show with celebrity guests, hilarious antics and his signature supporting cast.",
+"type":"series",
+"cast":"Kapil Sharma,Sunil Grover,Krishna Abhishek,Archana Puran Singh,Kiku Sharda"
+},
+{
+"title":"C.I.D. [Season 2] [Episode 55] WEB-DL [Hindi] | All Episodes",
+"im":"60ZxbAMk6QO8jMD0p8WrGHVCbyK",
+"dl":"https://s.pptons.com/2025/06/cid.html",
+"bgi":"1gZrOa2E9DOohEvSLLBJqus2zGu",
+"year":"2024",
+"duration":"1h per episode",
+"rating":"7.0",
+"genre":"Action,Adventure,Crime,Drama,Mystery,",
+"description":"India's favourite crime thriller show is back! Abhijeet, Daya and other CID officers, led by ACP Pradyuman, join forces with forensic expert Dr Salunkhe to track down the perpetrators who have committed heinous crimes, using every small clue they can find.",
+"type":"series",
+"cast":"Aditya Srivastava,Shivaji Satham,Dayanand Shetty,Narendra Gupta,Ansha Sayed"
+},
+{
 "title":"Maa [2025] HD-TS [Hindi] | Full Movie",
 "im":"kc5n7LJUmvBsVxzAla1ONN8kouP",
 "bgi":"kc5n7LJUmvBsVxzAla1ONN8kouP",
@@ -659,19 +698,6 @@ const movies = [
 "description":"Kiyotaka Ayanokoji has just enrolled at Tokyo Koudo Ikusei Senior High School, where it's said that 100% of students go on to college or find emp...",
 "type":"series",
 "cast":"Shoya Chiba,Akari Kito,Ayana Taketatsu,Yurika Kubo,Mao Ichimichi"
-},
-{
-"title":"Good Boy [Season 1] [Episode 6] WEB-DL [Hindi-Korean]",
-"im":"zsZyvEU2cbNknrlESV9bh3YMhJH",
-"bgi":"kTQ7sRDZwIDgygWKIrhN4T1BLQD",
-"dl":"https://s.pptons.com/2025/06/good-boy.html",
-"year":"2025",
-"duration":"1h per episode",
-"rating":"10.0",
-"genre":"Crime,Comedy,Action & Adventure,Drama",
-"description":"Olympic medalists join the police force through a special recruitment program, trading medals for badges as they tackle violent crimes and injustices ...",
-"type":"series",
-"cast":"Park Bo-gum,Kim So-hyun,Oh Jung-se,Lee Sang-yi,Heo Sung-tae"
 },
 {
 "title":"Rana Naidu [Season 1-2] WEB-DL [Hindi] | All Episodes",
@@ -3699,19 +3725,6 @@ const movies = [
 "cast":"Emraan Hashmi,Mukesh Tiwari,Sai Tamhankar,Zoya Hussain,Lalit Prabhakar"
 },
 {
-"title":"C.I.D. [Season 2] [Episode 42] WEB-DL [Hindi]",
-"im":"60ZxbAMk6QO8jMD0p8WrGHVCbyK",
-"dl":"https://pixeldrain.net/api/file/xzVL4vS7?download",
-"bgi":"1gZrOa2E9DOohEvSLLBJqus2zGu",
-"year":"2024",
-"duration":"1h per episode",
-"rating":"7.0",
-"genre":"Action,Adventure,Crime,Drama,Mystery,",
-"description":"India's favourite crime thriller show is back! Abhijeet, Daya and other CID officers, led by ACP Pradyuman, join forces with forensic expert Dr Salunkhe to track down the perpetrators who have committed heinous crimes, using every small clue they can find.",
-"type":"series",
-"cast":"Aditya Srivastava,Shivaji Satham,Dayanand Shetty,Narendra Gupta,Ansha Sayed"
-},
-{
 "title":"Sookshmadarshini [2024] WEB-DL [Hindi] | Full Movie",
 "im":"rOZt5FVZC51keFRRUSzWGE5y1Rt",
 "bgi":"jVbNeG56WLuCncRlPsF7jAGZw1w",
@@ -6216,20 +6229,6 @@ const movies = [
 "type":"movie",
 "quality":"blu-Ray",
 "cast":"Prabhas, Rana Daggubati, Anushka Shetty, Tamannaah Bhatia"
-},
-{
-"title":"C.I.D (Season 2) WEB-DL [Hindi DD2.0] [HEVC] | [SonyLiv Series] [Episode-33]",
-"im":"60ZxbAMk6QO8jMD0p8WrGHVCbyK",
-"dl":"https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/CID.S02E33.720p.HEVC.Hindi.WEB.DL.2.0.AAC.x265.HDHub4u.Ms.mkv",
-"link":"tt0401916",
-"year":"2020",
-"duration":"50 min",
-"rating":"8.0",
-"genre":"Crime, Drama, Mystery",
-"description":"The C.I.D team solves criminal cases and fights for justice in each gripping episode, highlighting their skills and challenges.",
-"type":"series",
-"quality":"web-dl",
-"cast":"Shivaji Satam, Aditya Srivastava, Daya, Ansha Sayed"
 },
 {
 "title":"Emmanuelle [2024] Blu-Ray [Hindi-English] [HEVC] | Full Movie",

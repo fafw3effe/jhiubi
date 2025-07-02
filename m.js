@@ -2,6 +2,116 @@
 const movies = [
 
 {
+"title":"Peaky Blinders [Season 6] [Episode 2 Added New] [All Seasons] Blu-Ray [Hindi-English] | All Episodes",
+"im":"vUUqzWa2LnHIVqkaKVlVGkVcZIW",
+"dl":"https://s.pptons.com/2025/05/peaky-blinders_22.html",
+"bgi":"lGxSrsVeYSPBaJtvcvbs5UdQaZn",
+"year":"2013",
+"duration":"1h per episode",
+"rating":"8.5",
+"genre":"Drama,Crime,",
+"description":"A gangster family epic set in 1919 Birmingham, England and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby, who means to move up in the world.",
+"type":"series",
+"cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
+},
+{
+"title":"Ironheart [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"AmzGVKlLvpraNAXxPYUROiN2Ulj",
+"bgi":"vno2LrEQr3lTOk3U1G1ihZsy64b",
+"dl":"https://s.pptons.com/2025/06/ironheart.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"6.4",
+"genre":"Sci-Fi & Fantasy,Crime",
+"description":"After the events of Black Panther: Wakanda Forever, technology is pitted against magic when Riri Williams, a young, genius inventor determined to make...",
+"type":"series",
+"cast":"Dominique Thorne,Anthony Ramos,Lyric Ross,Alden Ehrenreich,Manny Montana"
+},
+{
+"title":"Heads of State [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"lVgE5oLzf7ABmzyASEVcjYyHI41",
+"bgi":"xABhldZaMb6wfCH5oigV333OYnb",
+"dl":"https://pixeldrain.dev/api/file/BKfzuPoT?download",
+"dl2":"https://hubcloud.one/drive/vj54k5x4u1q5dkc",
+"year":"2025",
+"duration":"1h 53m",
+"rating":"7.7",
+"genre":"Action,Thriller,Comedy",
+"description":"The UK Prime Minister and US President have a public rivalry that risks their countries' alliance. But when they become targets of a powerful ene...",
+"type":"movie",
+"cast":"Idris Elba,John Cena,Priyanka Chopra Jonas,Paddy Considine,Carla Gugino"
+},
+{
+"title":"The Old Guard 2 [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"wqfu3bPLJaEWJVk3QOm0rKhxf1A",
+"bgi":"x58Gk2ZGU5AEBp25MQe2nhZhd5z",
+"dl":"https://pixeldrain.dev/api/file/xWAQ26sR?download",
+"dl2":"https://hubcloud.one/drive/7on0t2g0mxmuunn",
+"year":"2025",
+"duration":"1h 44m",
+"rating":"6.1",
+"genre":"Action,Fantasy",
+"description":"Andy and her team of immortal warriors fight with renewed purpose as they face a powerful new foe threatening their mission to protect humanity.",
+"type":"movie",
+"cast":"Charlize Theron,KiKi Layne,Matthias Schoenaerts,Marwan Kenzari,Luca Marinelli"
+},
+{
+"title":"Aho Vikramaarka! [2024] HD-TV [Hindi] | Full Movie",
+"im":"l4l5hdU9c3TQw4dUA8p31dgaqr9",
+"bgi":"uCCvpXm5T0RRdvWvmE66NX3la9I",
+"dl":"https://hubcloud.one/drive/r4f6z8fss6zq7fr",
+"dl2":"https://hubcloud.one/drive/r4f6z8fss6zq7fr",
+"year":"2024",
+"duration":"",
+"rating":"0.0",
+"genre":"Action",
+"description":"We don't have an overview translated in English. Help us expand our database by adding one.",
+"type":"movie",
+"cast":"Dev Gill,Chitra Shukla,Mahesh Manjrekar,Sayaji Shinde,Puja Banerjee"
+},
+{
+"title":"Ballerina [2025] WEB-DL [Hindi LiNE-English] | Full Movie",
+"im":"mKp4euM5Cv3m2U1Vmby3OGwcD5y",
+"bgi":"sItIskd5xpiE64bBWYwZintkGf3",
+"dl":"https://pixeldrain.dev/api/file/yRgvhH63?download",
+"dl2":"https://hubcloud.one/drive/1bkvveg2hfkmrjq",
+"year":"2025",
+"duration":"2h 5m",
+"rating":"7.1",
+"genre":"Action,Thriller,Crime",
+"description":"Taking place during the events of John Wick: Chapter 3 – Parabellum, Eve Macarro begins her training in the assassin traditions of the Ruska Roma.",
+"type":"movie",
+"cast":"Ana de Armas,Keanu Reeves,Ian McShane,Anjelica Huston,Gabriel Byrne"
+},
+{
+"title":"The Old Guard [2020] WEB-DL [Hindi-English] | Full Movie",
+"im":"cjr4NWURcVN3gW5FlHeabgBHLrY",
+"bgi":"m0ObOaJBerZ3Unc74l471ar8Iiy",
+"dl":"https://pixeldrain.dev/api/file/VacL7LHU?download",
+"dl2":"https://hubcloud.one/drive/ziyl1zpklclpc1y",
+"year":"2020",
+"duration":"2h 5m",
+"rating":"7.1",
+"genre":"Action,Fantasy",
+"description":"Four undying warriors who've secretly protected humanity for centuries become targeted for their mysterious powers just as they discover a new im...",
+"type":"movie",
+"cast":"Charlize Theron,KiKi Layne,Veronica Ngo,Matthias Schoenaerts,Marwan Kenzari"
+},
+{
+"title":"WWE Night of Champions 2025 [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"osR5jLO8G8Pu8SWgKE4X2g7jdPa",
+"bgi":"cIJ4ktErZgW9ld7yvGX0WLT0LuY",
+"dl":"https://pixeldrain.dev/api/file/n8yPrfws?download",
+"dl2":"https://hubcloud.one/drive/g59hap23pjj19xt",
+"year":"2025",
+"duration":"3h 1m",
+"rating":"7.2",
+"genre":"Action",
+"description":"The 2025 Night of Champions was a professional wrestling event produced by WWE. It marked the 11th Night of Champions and took place on Saturday, June...",
+"type":"movie",
+"cast":"John Cena,Phil Brooks,Jade Cargill,Kanako Urai,Joseph Fatu"
+},
+{
 "title":"Squid Game [Season 1-3] WEB-DL [Hindi-English] | All Episodes",
 "im":"eaX4og886CWqsAMgHiCCveZNKsV",
 "bgi":"hdgpeJ6xM1vjHxOFLHRNaBuoYRN",
@@ -313,19 +423,6 @@ const movies = [
 "cast":"Jitendra Kumar,Raghubir Yadav,Neena Gupta,Chandan Roy,Faisal Malik"
 },
 {
-"title":"Ironheart [Season 1] [Episode 3] WEB-DL [Hindi-English] | All Episodes",
-"im":"AmzGVKlLvpraNAXxPYUROiN2Ulj",
-"bgi":"vno2LrEQr3lTOk3U1G1ihZsy64b",
-"dl":"https://s.pptons.com/2025/06/ironheart.html",
-"year":"2025",
-"duration":"1h per episode",
-"rating":"6.4",
-"genre":"Sci-Fi & Fantasy,Crime",
-"description":"After the events of Black Panther: Wakanda Forever, technology is pitted against magic when Riri Williams, a young, genius inventor determined to make...",
-"type":"series",
-"cast":"Dominique Thorne,Anthony Ramos,Lyric Ross,Alden Ehrenreich,Manny Montana"
-},
-{
 "title":"Kuberaa [2025] HD-TC [Hindi] | Full Movie",
 "im":"xjLC5DeA4FQTBv4xe8r3wYqh8lu",
 "bgi":"nbyTX77u3qELm9DYPgYfva7vAwj",
@@ -563,19 +660,6 @@ const movies = [
 "cast":"Malhar Thakar,Darshan Jariwala,Vandana Pathak,Yukti Randeria"
 },
 {
-"title":"Peaky Blinders [Season 5] [Episode 6 Added New] [All Seasons] Blu-Ray [Hindi-English] | All Episodes",
-"im":"vUUqzWa2LnHIVqkaKVlVGkVcZIW",
-"dl":"https://s.pptons.com/2025/05/peaky-blinders_22.html",
-"bgi":"lGxSrsVeYSPBaJtvcvbs5UdQaZn",
-"year":"2013",
-"duration":"1h per episode",
-"rating":"8.5",
-"genre":"Drama,Crime,",
-"description":"A gangster family epic set in 1919 Birmingham, England and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby, who means to move up in the world.",
-"type":"series",
-"cast":"Cillian Murphy,Paul Anderson,Sophie Rundle,Helen McCrory,Finn Cole"
-},
-{
 "title":"Parallel [2024] WEB-DL [Hindi-English] | Full Movie",
 "im":"4RQ2xOgRjw00ge7f2srg3bBAwZp",
 "bgi":"zky1xbkgDwCMiNOLFoPRyjHMo2w",
@@ -767,20 +851,6 @@ const movies = [
 "description":"On the rugged isle of Berk, where Vikings and dragons have been bitter enemies for generations, Hiccup stands apart, defying centuries of tradition wh...",
 "type":"movie",
 "cast":"Mason Thames,Nico Parker,Gerard Butler,Nick Frost,Julian Dennison"
-},
-{
-"title":"Ballerina [2025] HD-TC [Hindi-English] | Full Movie",
-"im":"mKp4euM5Cv3m2U1Vmby3OGwcD5y",
-"bgi":"5IbxcBXZ5EhVAttfNDMPncikudr",
-"dl":"https://pixeldrain.net/api/file/gpNHsJ5h?download",
-"dl2":"https://hubcloud.one/drive/zj3lzm1wkl39oke",
-"year":"2025",
-"duration":"2h 5m",
-"rating":"7.1",
-"genre":"Action,Thriller,Crime",
-"description":"Taking place during the events of John Wick: Chapter 3 – Parabellum, Eve Macarro begins her training in the assassin traditions of the Ruska Roma.",
-"type":"movie",
-"cast":"Ana de Armas,Anjelica Huston,Keanu Reeves,Norman Reedus,Lance Reddick"
 },
 {
 "title":"Blind Spot [2025] WEB-DL [Hindi-English] | Full Movie",

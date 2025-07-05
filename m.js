@@ -1,6 +1,76 @@
 // Movies data
 const movies = [
 
+
+
+
+{
+"title":"Nine Perfect Strangers [Season 1] [Episode 7] WEB-DL [Hindi-English] | All Episodes",
+"im":"oPcqsZIFHrv7HoGgFQnsGDiPulD",
+"bgi":"RzCw9LQyAcoa9mn4xkEAyuvhgr",
+"dl":"https://s.pptons.com/2025/06/nine-perfect-strangers.html",
+"year":"2021",
+"duration":"1h per episode",
+"rating":"7.0",
+"genre":"Drama,Mystery",
+"description":"At a boutique health-and-wellness resort that promises healing and transformation, nine stressed city dwellers try to get on a path to a better way of...",
+"type":"series",
+"cast":"Nicole Kidman,Melissa McCarthy,Michael Shannon,Luke Evans,Asher Keddie"
+},
+{
+"title":"Thug Life [2025] WEB-DL [Hindi-Tamil] | Full Movie",
+"im":"DmBbUtbA3T9sdVXDgIJ8bsIDw0",
+"bgi":"of9YQ9XE2aUVbiorECRnFCu5iIn",
+"dl":"https://pixeldrain.dev/api/file/aQd1WdTM?download",
+"dl2":"https://hubcloud.one/drive/of10mooov8opgxy",
+"year":"2025",
+"duration":"2h 45m",
+"rating":"5.1",
+"genre":"Action,Crime,Drama",
+"description":"In a world ruled by crime and betrayal, mafia kingpin Sakthivel and his brother Manikkam rescue a young boy, Amaran, during a violent police shootout ...",
+"type":"movie",
+"cast":"Kamal Haasan,Silambarasan,Trisha Krishnan,Ashok Selvan,Abhirami"
+},
+{
+"title":"Criminal Justice: A Family Matter [Season 1] [Episode 8] WEB-DL [Hindi] | All Episodes",
+"im":"skCHAsB0qIzG13UxV7TKyqTP8HP",
+"bgi":"sTIBAlkG23DDP8EdEWLr9jVQGXv",
+"dl":"https://s.pptons.com/2025/05/criminal-justice-adhura-sach.html",
+"year":"2022",
+"duration":"1h per episode",
+"rating":"7.1",
+"genre":"Crime,Drama,Mystery",
+"description":"Madhav Mishra is back to fight his toughest case yet nothing is simple and straightforward. Will justice win?",
+"type":"series",
+"cast":"Pankaj Tripathi,Shweta Basu Prasad,Swastika Mukherjee,Purab Kohli,Deshna Dugad"
+},
+{
+"title":"Amala [2023] WEB-DL [Hindi-Malayalam] | Full Movie",
+"im":"AuylGAPDzS1vfQ98871DoXAjBbX",
+"bgi":"pkCHW6lIbEFCtMHQm3AWyKk1D13",
+"dl":"https://pixeldrain.dev/api/file/GUqQEzQM?download",
+"dl2":"https://hubcloud.one/drive/llulxhtmmx8zzxm",
+"year":"2023",
+"duration":"1h 55m",
+"rating":"3.8",
+"genre":"Drama,Thriller",
+"description":"The journey of a brilliant police officer who is entrusted with the task of solving a series of murders happening in the city overnight. He sets out t...",
+"type":"movie",
+"cast":"Srikanth,Rajisha Vijayan,Anarkali Marikar,Nandini Sree,Sarath Kumar"
+},
+{
+"title":"Countdown [Season 1] [Episode 4] WEB-DL [Hindi-English] | All Episodes",
+"im":"gcSNS5cy1iOmYawIdJCzoc873rQ",
+"bgi":"1GMyouDLET9zjA4ZCPpzvLBkY1B",
+"dl":"https://s.pptons.com/2025/06/countdown.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"6.9",
+"genre":"Drama,Crime,Mystery",
+"description":"When an officer with the Department of Homeland Security is murdered in broad daylight, LAPD detective Mark Meachum is recruited to a secret task forc...",
+"type":"series",
+"cast":"Jensen Ackles,Jessica Camacho,Eric Dane,Violett Beane,Uli Latukefu"
+},
 {
 "title":"Peaky Blinders [Season 6] [Episode 2 Added New] [All Seasons] Blu-Ray [Hindi-English] | All Episodes",
 "im":"vUUqzWa2LnHIVqkaKVlVGkVcZIW",
@@ -275,32 +345,6 @@ const movies = [
 "cast":"Karan Johar,Purav Jha,Jasmin Bhasin,Harsh Gujral,Uorfi Javed"
 },
 {
-"title":"Nine Perfect Strangers [Season 1] [Episode 7] WEB-DL [Hindi-English] | All Episodes",
-"im":"oPcqsZIFHrv7HoGgFQnsGDiPulD",
-"bgi":"RzCw9LQyAcoa9mn4xkEAyuvhgr",
-"dl":"https://s.pptons.com/2025/06/nine-perfect-strangers.html",
-"year":"2021",
-"duration":"1h per episode",
-"rating":"7.0",
-"genre":"Drama,Mystery",
-"description":"At a boutique health-and-wellness resort that promises healing and transformation, nine stressed city dwellers try to get on a path to a better way of...",
-"type":"series",
-"cast":"Nicole Kidman,Melissa McCarthy,Michael Shannon,Luke Evans,Asher Keddie"
-},
-{
-"title":"Criminal Justice: A Family Matter [Season 1] [Episode 7] WEB-DL [Hindi] | All Episodes",
-"im":"skCHAsB0qIzG13UxV7TKyqTP8HP",
-"bgi":"sTIBAlkG23DDP8EdEWLr9jVQGXv",
-"dl":"https://s.pptons.com/2025/05/criminal-justice-adhura-sach.html",
-"year":"2022",
-"duration":"1h per episode",
-"rating":"7.1",
-"genre":"Crime,Drama,Mystery",
-"description":"Madhav Mishra is back to fight his toughest case yet nothing is simple and straightforward. Will justice win?",
-"type":"series",
-"cast":"Pankaj Tripathi,Shweta Basu Prasad,Swastika Mukherjee,Purab Kohli,Deshna Dugad"
-},
-{
 "title":"Baby & Baby [2025] WEB-DL [Hindi-Tamil] | Full Movie",
 "im":"rn2zLW90eooVKuDRt5h8oLZRHwA",
 "bgi":"f47cKJlC7qxuQy9pMvJCC7lEhJh",
@@ -353,19 +397,6 @@ const movies = [
 "description":"Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest ...",
 "type":"series",
 "cast":"Alan Ritchson,Maria Sten,Malcolm Goodwin,Willa Fitzgerald,Serinda Swan"
-},
-{
-"title":"Countdown [Season 1] [Episode 3] WEB-DL [Hindi-English] | All Episodes",
-"im":"gcSNS5cy1iOmYawIdJCzoc873rQ",
-"bgi":"1GMyouDLET9zjA4ZCPpzvLBkY1B",
-"dl":"https://s.pptons.com/2025/06/countdown.html",
-"year":"2025",
-"duration":"1h per episode",
-"rating":"6.9",
-"genre":"Drama,Crime,Mystery",
-"description":"When an officer with the Department of Homeland Security is murdered in broad daylight, LAPD detective Mark Meachum is recruited to a secret task forc...",
-"type":"series",
-"cast":"Jensen Ackles,Jessica Camacho,Eric Dane,Violett Beane,Uli Latukefu"
 },
 {
 "title":"Raid 2 [2025] WEB-DL [Hindi] | Full Movie",
@@ -616,20 +647,6 @@ const movies = [
 "description":"A young couple is made to exchange their phones for a day. What follows is a hilarious and emotional sequence of events that puts their lives in miser...",
 "type":"movie",
 "cast":"Pradeep Ranganathan,Ivana,Akshaya Udhayakumar,Raveena Ravi,Radikaa Sarathkumar"
-},
-{
-"title":"Thug Life [2025] WEB-DL [Hindi LINE-Tamil] | Full Movie",
-"im":"DmBbUtbA3T9sdVXDgIJ8bsIDw0",
-"bgi":"of9YQ9XE2aUVbiorECRnFCu5iIn",
-"dl":"https://pixeldrain.dev/api/file/6ZxFPonb?download",
-"dl2":"https://hubcloud.one/drive/7fh0egmmetzfw0m",
-"year":"2025",
-"duration":"2h 45m",
-"rating":"5.1",
-"genre":"Action,Crime,Drama",
-"description":"In a world ruled by crime and betrayal, mafia kingpin Sakthivel and his brother Manikkam rescue a young boy, Amaran, during a violent police shootout ...",
-"type":"movie",
-"cast":"Kamal Haasan,Silambarasan,Trisha Krishnan,Ashok Selvan,Abhirami"
 },
 {
 "title":"Bubblegum [2023] WEB-DL [Hindi] | Full Movie",

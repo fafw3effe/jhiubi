@@ -5,7 +5,7 @@ const movies = [
 
 
 {
-"title":"Nine Perfect Strangers [Season 1] [Episode 7] WEB-DL [Hindi-English] | All Episodes",
+"title":"Nine Perfect Strangers [Season 1] [Episode 8] WEB-DL [Hindi-English] | All Episodes",
 "im":"oPcqsZIFHrv7HoGgFQnsGDiPulD",
 "bgi":"RzCw9LQyAcoa9mn4xkEAyuvhgr",
 "dl":"https://s.pptons.com/2025/06/nine-perfect-strangers.html",

@@ -2,8 +2,34 @@
 const movies = [
 
 
-
-
+{
+"title":"Jurassic World Rebirth [2025] HD-CAM [Hindi] | Full Movie",
+"im":"khohu1IKmgGNvETjEaxZaWBw4fr",
+"bgi":"peAzdLKtT6VDWIfPQO9LJD1NCG4",
+"dl":"https://pixeldrain.dev/api/file/8YowRHDE?download",
+"dl2":"https://hubcloud.one/drive/vtqihptxhv8a7r2",
+"year":"2025",
+"duration":"2h 14m",
+"rating":"6.5",
+"genre":"Science Fiction,Adventure,Action",
+"description":"Five years after the events of Jurassic World Dominion, covert operations expert Zora Bennett is contracted to lead a skilled team on a top-secret mis...",
+"type":"movie",
+"cast":"Scarlett Johansson,Jonathan Bailey,Mahershala Ali,Rupert Friend,Manuel Garcia-Rulfo"
+},
+{
+"title":"Metro... In Dino [2025] HQ-HDTC [Hindi] | Full Movie",
+"im":"rG9CCeTbZ77PiFPY8zywIysf6Vy",
+"bgi":"8ycWZizMNfYlQE5CdLSbOboNDko",
+"dl":"https://pixeldrain.dev/api/file/a8uoiSMX?download",
+"dl2":"https://hubcloud.one/drive/m91u5rj7bibzmmp",
+"year":"2025",
+"duration":"2h 39m",
+"rating":"8.0",
+"genre":"Drama,Romance,Comedy",
+"description":"Follows interconnected stories of several different couples, each facing a crossroads at different stages in their lives and relationships.",
+"type":"movie",
+"cast":"Anupam Kher,Neena Gupta,Pankaj Tripathi,Konkona Sen Sharma,Aditya Roy Kapur"
+},
 {
 "title":"Nine Perfect Strangers [Season 1] [Episode 8] WEB-DL [Hindi-English] | All Episodes",
 "im":"oPcqsZIFHrv7HoGgFQnsGDiPulD",

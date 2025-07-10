@@ -3,11 +3,67 @@ const movies = [
 
 
 {
-"title":"Jurassic World Rebirth [2025] HD-CAM [Hindi] | Full Movie",
+"title":"Housefull 5 A [2025] WEB-DL [Hindi] | Full Movie",
+"im":"iGvGkVOfsooO0ZBrhN5i6zXYUCy",
+"bgi":"8lNbxRsGKzWdtLk6hKdB1z11pjE",
+"dl":"https://pixeldrain.dev/api/file/1JNkY4Ax?download",
+"dl2":"https://hubcloud.one/drive/li6hq8q2i9kuhsu",
+"year":"2025",
+"duration":"2h 43m",
+"rating":"5.8",
+"genre":"Comedy,Mystery,Thriller",
+"description":"A father writes his will — his son Jolly is going to get it all. But who is Jolly? The comedy unfolds as different people pose as the real Jolly on ...",
+"type":"movie",
+"cast":"Akshay Kumar,Riteish Deshmukh,Abhishek Bachchan,Jacqueline Fernandez,Nargis Fakhri"
+},
+{
+"title":"Housefull 5 B [2025] WEB-DL [Hindi] | Full Movie",
+"im":"iGvGkVOfsooO0ZBrhN5i6zXYUCy",
+"bgi":"8lNbxRsGKzWdtLk6hKdB1z11pjE",
+"dl":"https://pixeldrain.dev/api/file/nB1JhW4M?download",
+"dl2":"https://hubcloud.one/drive/kdqptn7qtf4g7qt",
+"year":"2025",
+"duration":"2h 43m",
+"rating":"5.8",
+"genre":"Comedy,Mystery,Thriller",
+"description":"A father writes his will — his son Jolly is going to get it all. But who is Jolly? The comedy unfolds as different people pose as the real Jolly on ...",
+"type":"movie",
+"cast":"Akshay Kumar,Riteish Deshmukh,Abhishek Bachchan,Jacqueline Fernandez,Nargis Fakhri"
+},
+{
+"title":"Superman [2025] HD-TS [English] | Full Movie",
+"im":"ombsmhYUqR4qqOLOxAyr5V8hbyv",
+"bgi":"eU7IfdWq8KQy0oNd4kKXS0QUR08",
+"dl":"https://pixeldrain.dev/api/file/wteZbkan?download",
+"dl2":"https://hubcloud.one/drive/6y2nfwhh5jtjfjj",
+"year":"2025",
+"duration":"2h 10m",
+"rating":"7.2",
+"genre":"Science Fiction,Adventure,Action",
+"description":"Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.",
+"type":"movie",
+"cast":"David Corenswet,Rachel Brosnahan,Nicholas Hoult,Edi Gathegi,Anthony Carrigan"
+},
+{
+"title":"Karate Kid: Legends [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"AEgggzRr1vZCLY86MAp93li43z",
+"bgi":"nKyBbFSooRPTJVqjrDteD1lF733",
+"dl":"https://pixeldrain.dev/api/file/1hizaj4Y?download",
+"dl2":"https://hubcloud.one/drive/ijwgp1nijy2412f",
+"year":"2025",
+"duration":"1h 34m",
+"rating":"7.2",
+"genre":"Action,Adventure,Drama",
+"description":"After a family tragedy, kung fu prodigy Li Fong is uprooted from his home in Beijing and forced to move to New York City with his mother. When a new f...",
+"type":"movie",
+"cast":"Jackie Chan,Ben Wang,Ralph Macchio,Joshua Jackson,Sadie Stanley"
+},
+{
+"title":"Jurassic World Rebirth [2025] V2 HQ-HDTC [Hindi-English] | Full Movie",
 "im":"khohu1IKmgGNvETjEaxZaWBw4fr",
 "bgi":"peAzdLKtT6VDWIfPQO9LJD1NCG4",
-"dl":"https://pixeldrain.dev/api/file/8YowRHDE?download",
-"dl2":"https://hubcloud.one/drive/vtqihptxhv8a7r2",
+"dl":"https://pixeldrain.dev/api/file/cMRgAijY?download",
+"dl2":"https://hubcloud.one/drive/hg1f1dha7wdzwwh",
 "year":"2025",
 "duration":"2h 14m",
 "rating":"6.5",
@@ -15,6 +71,34 @@ const movies = [
 "description":"Five years after the events of Jurassic World Dominion, covert operations expert Zora Bennett is contracted to lead a skilled team on a top-secret mis...",
 "type":"movie",
 "cast":"Scarlett Johansson,Jonathan Bailey,Mahershala Ali,Rupert Friend,Manuel Garcia-Rulfo"
+},
+{
+"title":"Narivetta [2025] WEB-DL [Hindi-Malayalam] | Full Movie",
+"im":"qEflYiYEJ9bz9tfNDiZaCYWuZXI",
+"bgi":"dMgF7mMbZO6ogxI4teciz5203UV",
+"dl":"https://pixeldrain.dev/api/file/9K2quaEQ?download",
+"dl2":"https://hubcloud.one/drive/rgf9wtv01qegg9z",
+"year":"2025",
+"duration":"2h 19m",
+"rating":"9.0",
+"genre":"Drama,Action",
+"description":"A police officer uncovers a conspiracy based around state-sanctioned violence against victimized villagers.",
+"type":"movie",
+"cast":"Tovino Thomas,Suraj Venjaramoodu,Cheran,Arya Salim,Priyamvada Krishna"
+},
+{
+"title":"Robinhood [2025] WEB-DL [Hindi-Telugu] | Full Movie",
+"im":"zeH5oAM1A3zgXbvQ3L9GiDs3ldQ",
+"bgi":"yNuLB4Bqv1m8QAwd3WuBwIznErn",
+"dl":"https://pixeldrain.dev/api/file/SQVcfX9i?download",
+"dl2":"https://hubcloud.one/drive/uz3l55jljpqwlms",
+"year":"2025",
+"duration":"2h 30m",
+"rating":"4.3",
+"genre":"Action",
+"description":"Ram, a modern-day Robin Hood, is a master thief who unexpectedly finds himself switching sides. When fate forces him to become the personal security o...",
+"type":"movie",
+"cast":"Nithiin,Sreeleela,Vennela Kishore,Rajendra Prasad,Ketika Sharma"
 },
 {
 "title":"Metro... In Dino [2025] HQ-HDTC [Hindi] | Full Movie",
@@ -451,20 +535,6 @@ const movies = [
 "description":"Three British teenage girls go on a rites-of-passage holiday—drinking, clubbing and hooking up, in what should be the best summer of their lives.",
 "type":"movie",
 "cast":"Mia McKenna-Bruce,Lara Peake,Enva Lewis,Samuel Bottomley,Shaun Thomas"
-},
-{
-"title":"Robinhood [2025] WEB-DL [Hindi HQ DUB] | Full Movie",
-"im":"zeH5oAM1A3zgXbvQ3L9GiDs3ldQ",
-"bgi":"yNuLB4Bqv1m8QAwd3WuBwIznErn",
-"dl":"https://pixeldrain.dev/api/file/EVKdGDDo?download",
-"dl2":"https://hubcloud.one/drive/mryuxus1r3a5puu",
-"year":"2025",
-"duration":"2h 30m",
-"rating":"4.4",
-"genre":"Action",
-"description":"Ram, a modern-day Robin Hood, is a master thief who unexpectedly finds himself switching sides. When fate forces him to become the personal security o...",
-"type":"movie",
-"cast":"Nithiin,Sreeleela,Vennela Kishore,Rajendra Prasad,Ketika Sharma"
 },
 {
 "title":"Panchayat [Season 1-4] WEB-DL [Hindi] | All Episodes",
@@ -980,34 +1050,6 @@ const movies = [
 "cast":"Nivetha Pethuraj,Kireeti Damaraju,Brahmaji,Ajay,Rajkumar Kasireddy"
 },
 {
-"title":"Housefull 5 A [2025] HD-TC [Hindi] | Full Movie",
-"im":"iGvGkVOfsooO0ZBrhN5i6zXYUCy",
-"bgi":"8lNbxRsGKzWdtLk6hKdB1z11pjE",
-"dl":"https://pub-8cb4e18979a0499c9480a6ca2de366ef.r2.dev/Housefull.5A.2025.720p.Hindi.HDTC.x264.AAC.HQ.Line.Audio.Vegamovies.is.mkv",
-"dl2":"https://vcloud.lol/2dzsln7epzzds3e",
-"year":"2025",
-"duration":"2h 43m",
-"rating":"8.0",
-"genre":"Comedy,Crime,Mystery",
-"description":"A father writes his will — his son Jolly is going to get it all. But who is Jolly? The comedy unfolds as different people pose as the real Jolly on ...",
-"type":"movie",
-"cast":"Akshay Kumar,Ritesh Deshmukh,Abhishek Bachchan,Nargis Fakhri,Chitrangda Singh"
-},
-{
-"title":"Housefull 5 B [2025] HD-TC [Hindi] | Full Movie",
-"im":"iGvGkVOfsooO0ZBrhN5i6zXYUCy",
-"bgi":"8lNbxRsGKzWdtLk6hKdB1z11pjE",
-"dl":"https://pixeldrain.net/api/file/SJiGdbP7?download",
-"dl2":"https://hubcloud.ink/drive/jgt0jgt0dsdokjf",
-"year":"2025",
-"duration":"2h 43m",
-"rating":"8.0",
-"genre":"Comedy,Crime,Mystery",
-"description":"A father writes his will — his son Jolly is going to get it all. But who is Jolly? The comedy unfolds as different people pose as the real Jolly on ...",
-"type":"movie",
-"cast":"Akshay Kumar,Ritesh Deshmukh,Abhishek Bachchan,Nargis Fakhri,Chitrangda Singh"
-},
-{
 "title":"Mercy for None [Season 1] WEB-DL [Hindi-English-Korean] | All Episodes Zip",
 "im":"yOtukBOsfPgn3T0Wq1DUxUWtj9j",
 "bgi":"y7OFTnu8Gh2KHWX0Y05y8OY9kCB",
@@ -1361,20 +1403,6 @@ const movies = [
 "cast":"Ivana Baquero,Tristán Ulloa,Carmen Machi,Pepe Ocio,Joel Sánchez"
 },
 {
-"title":"Karate Kid: Legends [2025] TELE-SYNC [Hindi-English] | Full Movie",
-"im":"AEgggzRr1vZCLY86MAp93li43z",
-"bgi":"lAnkMSDISzMYLWICS7m16rSTUHD",
-"dl":"https://pixeldrain.net/api/file/35uzYGkr?download",
-"dl2":"https://hubcloud.bz/drive/lfeidoflezlecvf",
-"year":"2025",
-"duration":"1h 34m",
-"rating":"7.4",
-"genre":"Action,Adventure,Drama",
-"description":"After a family tragedy, kung fu prodigy Li Fong is uprooted from his home in Beijing and forced to move to New York City with his mother. When a new f...",
-"type":"movie",
-"cast":"Ben Wang,Jackie Chan,Ralph Macchio,Joshua Jackson,Sadie Stanley"
-},
-{
 "title":"The Ice Age Adventures of Buck Wild [2022] WEB-DL [Hindi] | Full Movie",
 "im":"zzXFM4FKDG7l1ufrAkwQYv2xvnh",
 "bgi":"qw02SUqrrdTjAOPCFJBPyKaVf4z",
@@ -1555,20 +1583,6 @@ const movies = [
 "description":"A well-known movie critic is invited by a strange person to watch a special horror film. But once the movie starts, he finds himself trapped inside it...",
 "type":"movie",
 "cast":"Santhanam,Selvaraghavan,Geethika Tiwary,Gautham Vasudev Menon,Rajendran"
-},
-{
-"title":"Narivetta [2025] HD-CAM [Hindi] | Full Movie",
-"im":"3xhdWk6y5hVUAOhW7MsBMA7wb10",
-"bgi":"dMgF7mMbZO6ogxI4teciz5203UV",
-"dl":"https://pub-ed0ca22af5c04301b7abe9dac4aaf9bc.r2.dev/Narivetta.2025.720p.HDCAM.Hindi.LiNE.HC-ESub.x264-HDHub4u.Tv.mkv",
-"dl2":"https://hubcloud.bz/drive/kynwa9yb3bbycb9",
-"year":"2025",
-"duration":"2h 18m",
-"rating":"8.0",
-"genre":"Drama,Action",
-"description":"A police officer uncovers a conspiracy based around state-sanctioned violence against victimized villagers.",
-"type":"movie",
-"cast":"Tovino Thomas,Suraj Venjaramoodu,Cheran,Arya Salim,Priyamvada Krishna"
 },
 {
 "title":"HIT: The Third Case [2025] Netflix WEB-DL [Hindi-Telugu] | Full Movie",

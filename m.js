@@ -3,6 +3,63 @@ const movies = [
 
 
 {
+"title":"Superman [2025] PRE-HD [Hindi-English] | Full Movie",
+"im":"ombsmhYUqR4qqOLOxAyr5V8hbyv",
+"bgi":"eU7IfdWq8KQy0oNd4kKXS0QUR08",
+"dl":"https://pixeldrain.dev/api/file/ZgcC9oUx?download",
+"dl2":"https://hubcloud.one/drive/zlitwjzedw1izmd",
+"year":"2025",
+"duration":"2h 10m",
+"rating":"7.2",
+"genre":"Science Fiction,Adventure,Action",
+"description":"Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.",
+"type":"movie",
+"cast":"David Corenswet,Rachel Brosnahan,Nicholas Hoult,Edi Gathegi,Anthony Carrigan"
+},
+{
+"title":"Maalik [2025] V2 HD-TC [Hindi] | Full Movie",
+"im":"etb6zsDB8SmIWBKXIUI2U73gfUH",
+"bgi":"9PvpylEINCQj9oGShtMgNuC5Pny",
+"dl":"https://pixeldrain.dev/api/file/Biy4NsLL?download",
+"dl2":"https://hubcloud.one/drive/etobbntontntemx",
+"year":"2025",
+"duration":"2h 30m",
+"rating":"6.0",
+"genre":"Action,Thriller,Crime,Drama",
+"description":"Set in the rural, rusty and politically charged Allahabad of the 1980s, Maalik is a peek into the making of a dreaded gangster from a humble backgroun...",
+"type":"movie",
+"cast":"Rajkummar Rao,Manushi Chhillar,Saurabh Shukla,Prosenjit Chatterjee,Anshumaan Pushkar"
+},
+{
+"title":"Aankhon ki Gustaakhiyan [2025] HD-TS [Hindi] | Full Movie",
+"im":"qaGwsUWbE4NU9w4u4UqomgvK6fw",
+"bgi":"stBBSoTudhuGosaX3pcGHKWQcuS",
+"dl":"https://pixeldrain.dev/api/file/MGfqomHd?download",
+"dl2":"https://hubcloud.one/drive/dndddxx1xbnyuzj",
+"year":"2025",
+"duration":"2h 18m",
+"rating":"6.0",
+"genre":"Drama,Romance",
+"description":"Explores the romance between two visually impaired characters, navigating both the joys and complexities of modern love.",
+"type":"movie",
+"cast":"Vikrant Massey,Shanaya Kapoor,Zain Khan Durrani,Saanand Verma"
+},
+
+{
+"title":"Aap Jaisa Koi [2025] WEB-DL [Hindi] | Full Movie",
+"im":"fV9dswGQCvbpVsj1JOTrYCeos8w",
+"bgi":"flbWD0ql2Qw4DCGy94nIALGn9ob",
+"dl":"https://pixeldrain.dev/api/file/fYez6Vxx?download",
+"dl2":"https://hubcloud.one/drive/y1khacqmhya1lbo",
+"year":"2025",
+"duration":"1h 55m",
+"rating":"8.5",
+"genre":"Romance,Comedy",
+"description":"Shrirenu lives by tradition. Madhu lives unapologetically. When their paths cross, a tender romance unfolds — awkward, sweet but shadowed by patriar...",
+"type":"movie",
+"cast":"R. Madhavan,Fatima Sana Shaikh,Namit Das,Manish Chaudhary,Ayesha Raza Mishra"
+},
+{
 "title":"Housefull 5 A [2025] WEB-DL [Hindi] | Full Movie",
 "im":"iGvGkVOfsooO0ZBrhN5i6zXYUCy",
 "bgi":"8lNbxRsGKzWdtLk6hKdB1z11pjE",
@@ -29,20 +86,6 @@ const movies = [
 "description":"A father writes his will — his son Jolly is going to get it all. But who is Jolly? The comedy unfolds as different people pose as the real Jolly on ...",
 "type":"movie",
 "cast":"Akshay Kumar,Riteish Deshmukh,Abhishek Bachchan,Jacqueline Fernandez,Nargis Fakhri"
-},
-{
-"title":"Superman [2025] HD-TS [English] | Full Movie",
-"im":"ombsmhYUqR4qqOLOxAyr5V8hbyv",
-"bgi":"eU7IfdWq8KQy0oNd4kKXS0QUR08",
-"dl":"https://pixeldrain.dev/api/file/wteZbkan?download",
-"dl2":"https://hubcloud.one/drive/6y2nfwhh5jtjfjj",
-"year":"2025",
-"duration":"2h 10m",
-"rating":"7.2",
-"genre":"Science Fiction,Adventure,Action",
-"description":"Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.",
-"type":"movie",
-"cast":"David Corenswet,Rachel Brosnahan,Nicholas Hoult,Edi Gathegi,Anthony Carrigan"
 },
 {
 "title":"Karate Kid: Legends [2025] WEB-DL [Hindi-English] | Full Movie",

@@ -18,7 +18,7 @@ const movies = [
 "title":"SAKAMOTO DAYS [Season 1] [Episode 12] WEB-DL [Hindi-English] | All Episodes",
 "im":"wRpCqsJFyKNuh5FMegNPrhzp2NF",
 "bgi":"blSthAPRbEOJBowdxppeQqNPRh9",
-"dl":"https://s.pptons.com/2025/07/sakamoto-days.html",
+"dl":"https://s.pptons.com/2025/07/blog-post.html",
 "year":"2025",
 "duration":"1h per episode",
 "rating":"8.1",

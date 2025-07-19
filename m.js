@@ -59,7 +59,7 @@ const movies = [
 "cast":"Atharvaa Murali,Nimisha Sajayan,Maanasa Chaudhary,Riythvika,Karunakaran"
 },
 {
-"title":"The Bhootnii [2025] WEB-DL [Hindi-English] | Full Movie",
+"title":"The Bhootnii [2025] WEB-DL [Hindi] | Full Movie",
 "im":"ntrR8bq3XjTRIm7QXC3MIdVhqXo",
 "bgi":"qnc4tKS5NrQ61myUoo9vaZl9uuT",
 "dl":"https://pixeldrain.dev/api/file/x8VyRWNt?download",
@@ -73,7 +73,7 @@ const movies = [
 "cast":"Sanjay Dutt,Mouni Roy,Palak Tiwari,Aasif Khan,Sunny Singh"
 },
 {
-"title":"Kuladalli Keelyavudo [2025] WEB-DL [Hindi-English] | Full Movie",
+"title":"Kuladalli Keelyavudo [2025] WEB-DL [Hindi] | Full Movie",
 "im":"iVXsNp6X9r3aBphNL2iIMkhAfkN",
 "bgi":"o8w6Ve8DnWmZby1CsUtwJPoNbEw",
 "dl":"https://pixeldrain.dev/api/file/5gBthUX8?download",

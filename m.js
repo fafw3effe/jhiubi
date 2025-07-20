@@ -2,7 +2,59 @@
 const movies = [
 
 
-
+{
+"title":"Peacemaker [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"bUYOeu8A3mjtqWWoKDLzjBkdLa1",
+"bgi":"pj1wFbZF3gpEg7F0EreXTvZNZTG",
+"dl":"https://s.pptons.com/2025/07/blog-post_20.html",
+"year":"2022",
+"duration":"1h per episode",
+"rating":"8.2",
+"genre":"Action & Adventure,Sci-Fi & Fantasy,Drama",
+"description":"The continuing story of Peacemaker - a compellingly vainglorious man who believes in peace at any cost, no matter how many people he has to kill to ...",
+"type":"series",
+"cast":"John Cena,Danielle Brooks,Freddie Stroma,Jennifer Holland,Steve Agee"
+},
+{
+"title":"Maa [2025] WEB-DL [Hindi] | Full Movie",
+"im":"kc5n7LJUmvBsVxzAla1ONN8kouP",
+"bgi":"kc5n7LJUmvBsVxzAla1ONN8kouP",
+"dl":"https://pixeldrain.dev/api/file/HyHVPkPZ?download",
+"dl2":"https://hubcloud.one/drive/ftetxct8xffekxh",
+"year":"2025",
+"duration":"2h 13m",
+"rating":"6.1",
+"genre":"Horror",
+"description":"A mother and daughter encounter a demon in a village where girls have been disappearing.",
+"type":"movie",
+"cast":"Kajol,Ronit Roy,Indraneil Sengupta,Jitin Gulati,Kherin Sharma"
+},
+{
+"title":"C.I.D. [Season 2] [Episode 61] WEB-DL [Hindi] | All Episodes",
+"im":"60ZxbAMk6QO8jMD0p8WrGHVCbyK",
+"dl":"https://s.pptons.com/2025/06/cid.html",
+"bgi":"1gZrOa2E9DOohEvSLLBJqus2zGu",
+"year":"2024",
+"duration":"1h per episode",
+"rating":"7.0",
+"genre":"Action,Adventure,Crime,Drama,Mystery,",
+"description":"India's favourite crime thriller show is back! Abhijeet, Daya and other CID officers, led by ACP Pradyuman, join forces with forensic expert Dr Salunkhe to track down the perpetrators who have committed heinous crimes, using every small clue they can find.",
+"type":"series",
+"cast":"Aditya Srivastava,Shivaji Satham,Dayanand Shetty,Narendra Gupta,Ansha Sayed"
+},
+{
+"title":"Good Boy [Season 1] [Episode 15] WEB-DL [Hindi-Korean]",
+"im":"zsZyvEU2cbNknrlESV9bh3YMhJH",
+"bgi":"kTQ7sRDZwIDgygWKIrhN4T1BLQD",
+"dl":"https://s.pptons.com/2025/06/good-boy.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"10.0",
+"genre":"Crime,Comedy,Action & Adventure,Drama",
+"description":"Olympic medalists join the police force through a special recruitment program, trading medals for badges as they tackle violent crimes and injustices ...",
+"type":"series",
+"cast":"Park Bo-gum,Kim So-hyun,Oh Jung-se,Lee Sang-yi,Heo Sung-tae"
+},
 {
 "title":"The Great Indian Kapil Show [Season 3] [Episode 5] WEB-DL [Hindi] | All Episodes",
 "im":"6LWtSm2VHfenFBMvmjG9GYgfvSd",
@@ -705,46 +757,6 @@ const movies = [
 "description":"Hundreds of cash-strapped players accept a strange invitation to compete in children's games. Inside, a tempting prize awaits — with deadly hig...",
 "type":"series",
 "cast":"Lee Jung-jae,Wi Ha-jun,Jeon Young-soo,Lee Byung-hun,Yim Si-wan"
-},
-{
-"title":"Good Boy [Season 1] [Episode 9] WEB-DL [Hindi-Korean]",
-"im":"zsZyvEU2cbNknrlESV9bh3YMhJH",
-"bgi":"kTQ7sRDZwIDgygWKIrhN4T1BLQD",
-"dl":"https://s.pptons.com/2025/06/good-boy.html",
-"year":"2025",
-"duration":"1h per episode",
-"rating":"10.0",
-"genre":"Crime,Comedy,Action & Adventure,Drama",
-"description":"Olympic medalists join the police force through a special recruitment program, trading medals for badges as they tackle violent crimes and injustices ...",
-"type":"series",
-"cast":"Park Bo-gum,Kim So-hyun,Oh Jung-se,Lee Sang-yi,Heo Sung-tae"
-},
-{
-"title":"C.I.D. [Season 2] [Episode 55] WEB-DL [Hindi] | All Episodes",
-"im":"60ZxbAMk6QO8jMD0p8WrGHVCbyK",
-"dl":"https://s.pptons.com/2025/06/cid.html",
-"bgi":"1gZrOa2E9DOohEvSLLBJqus2zGu",
-"year":"2024",
-"duration":"1h per episode",
-"rating":"7.0",
-"genre":"Action,Adventure,Crime,Drama,Mystery,",
-"description":"India's favourite crime thriller show is back! Abhijeet, Daya and other CID officers, led by ACP Pradyuman, join forces with forensic expert Dr Salunkhe to track down the perpetrators who have committed heinous crimes, using every small clue they can find.",
-"type":"series",
-"cast":"Aditya Srivastava,Shivaji Satham,Dayanand Shetty,Narendra Gupta,Ansha Sayed"
-},
-{
-"title":"Maa [2025] HD-TS [Hindi] | Full Movie",
-"im":"kc5n7LJUmvBsVxzAla1ONN8kouP",
-"bgi":"kc5n7LJUmvBsVxzAla1ONN8kouP",
-"dl":"https://pixeldrain.dev/api/file/7fxduxWB?download",
-"dl2":"https://hubcloud.one/drive/41owfm44ds1s1fg",
-"year":"2025",
-"duration":"2h 13m",
-"rating":"6.1",
-"genre":"Horror",
-"description":"A mother and daughter encounter a demon in a village where girls have been disappearing.",
-"type":"movie",
-"cast":"Kajol,Ronit Roy,Indraneil Sengupta,Jitin Gulati,Kherin Sharma"
 },
 {
 "title":"Kannappa [2025] HD-TC [Hindi] | Full Movie",

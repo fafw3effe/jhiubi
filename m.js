@@ -1,21 +1,6 @@
 // Movies data
 const movies = [
 
-
-{
-"title":"Demon Slayer: Kimetsu no Yaiba Infinity Castle [2025] HD-CAM [Japanese ] | Full Movie",
-"im":"aFRDH3P7TX61FVGpaLhKr6QiOC1",
-"bgi":"63RnEJRNzRDvi0Fv4jhrT2eh0fl",
-"dl":"https://pixeldrain.dev/api/file/tFZfQ8wG?download",
-"dl2":"https://fastdlserver.life/?id=d1B6K2xHQnBvNXBMaUNnaWVVTzFZWWRWYXRtWTBwR3ZkN1VBR20rMkJlTC9oaGxRNWpYeFpyYmFrVUlxNU5SMw%3D%3D&type=file",
-"year":"2025",
-"duration":"2h 35m",
-"rating":"6.8",
-"genre":"Animation,Action,Fantasy,Thriller",
-"description":"As the Demon Slayer Corps members and Hashira engaged in a group strength training program, the Hashira Training, in preparation for the forthcoming b...",
-"type":"movie",
-"cast":"Natsuki Hanae,Akari Kito,Yoshitsugu Matsuoka,Hiro Shimono,Toshihiko Seki"
-},
 {
 "title":"Saiyaara [2025] HD-TC [Hindi] | Full Movie",
 "im":"hQBIsi3ZfBYEayMc3GhcEmJVkss",
@@ -30,7 +15,34 @@ const movies = [
 "type":"movie",
 "cast":"Ahaan Panday,Aneet Padda,Varun Badola,Alam Khan,Geeta Agrawal Sharma"
 },
-
+{
+"title":"Smurfs [2025] CAM [Hindi] | Full Movie",
+"im":"8o6lkhL32xQJeB52IIG1us5BVey",
+"bgi":"9whEVuKte4Qi0LI4TzPf7glinJW",
+"dl":"https://pixeldrain.dev/api/file/Sz2rYLVg?download",
+"dl2":"https://hubcloud.one/drive/xxvaldhslog4cov",
+"year":"2025",
+"duration":"1h 32m",
+"rating":"7.4",
+"genre":"Animation,Family,Fantasy",
+"description":"When Papa Smurf is mysteriously taken by evil wizards, Razamel and Gargamel, Smurfette leads the Smurfs on a mission into the real world to save him. ...",
+"type":"movie",
+"cast":"Rihanna,James Corden,Nick Offerman,JP Karliak,Dan Levy"
+},
+{
+"title":"Demon Slayer: Kimetsu no Yaiba Infinity Castle [2025] HD-CAM [Japanese ] | Full Movie",
+"im":"aFRDH3P7TX61FVGpaLhKr6QiOC1",
+"bgi":"63RnEJRNzRDvi0Fv4jhrT2eh0fl",
+"dl":"https://pixeldrain.dev/api/file/tFZfQ8wG?download",
+"dl2":"https://fastdlserver.life/?id=d1B6K2xHQnBvNXBMaUNnaWVVTzFZWWRWYXRtWTBwR3ZkN1VBR20rMkJlTC9oaGxRNWpYeFpyYmFrVUlxNU5SMw%3D%3D&type=file",
+"year":"2025",
+"duration":"2h 35m",
+"rating":"6.8",
+"genre":"Animation,Action,Fantasy,Thriller",
+"description":"As the Demon Slayer Corps members and Hashira engaged in a group strength training program, the Hashira Training, in preparation for the forthcoming b...",
+"type":"movie",
+"cast":"Natsuki Hanae,Akari Kito,Yoshitsugu Matsuoka,Hiro Shimono,Toshihiko Seki"
+},
 {
 "title":"Peacemaker [Season 1] WEB-DL [Hindi-English] | All Episodes",
 "im":"bUYOeu8A3mjtqWWoKDLzjBkdLa1",

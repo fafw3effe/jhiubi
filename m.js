@@ -3,6 +3,35 @@ const movies = [
 
 
 {
+"title":"Demon Slayer: Kimetsu no Yaiba Infinity Castle [2025] HD-CAM [Japanese ] | Full Movie",
+"im":"aFRDH3P7TX61FVGpaLhKr6QiOC1",
+"bgi":"63RnEJRNzRDvi0Fv4jhrT2eh0fl",
+"dl":"https://pixeldrain.dev/api/file/tFZfQ8wG?download",
+"dl2":"https://fastdlserver.life/?id=d1B6K2xHQnBvNXBMaUNnaWVVTzFZWWRWYXRtWTBwR3ZkN1VBR20rMkJlTC9oaGxRNWpYeFpyYmFrVUlxNU5SMw%3D%3D&type=file",
+"year":"2025",
+"duration":"2h 35m",
+"rating":"6.8",
+"genre":"Animation,Action,Fantasy,Thriller",
+"description":"As the Demon Slayer Corps members and Hashira engaged in a group strength training program, the Hashira Training, in preparation for the forthcoming b...",
+"type":"movie",
+"cast":"Natsuki Hanae,Akari Kito,Yoshitsugu Matsuoka,Hiro Shimono,Toshihiko Seki"
+},
+{
+"title":"Saiyaara [2025] HD-TC [Hindi] | Full Movie",
+"im":"hQBIsi3ZfBYEayMc3GhcEmJVkss",
+"bgi":"8aNNz9WYmxhnBxzWTt0nRI4F7rx",
+"dl":"https://pixeldrain.dev/api/file/piDhiTWE?download",
+"dl2":"https://hubcloud.one/drive/fwwpcrn1ep9bc1n",
+"year":"2025",
+"duration":"2h 36m",
+"rating":"6.3",
+"genre":"Romance,Drama",
+"description":"Short-tempered musician Krish is paired with a no-nonsense lyricist in Vaani, for the music company to work together. The sparks fly and Krish and Vaa...",
+"type":"movie",
+"cast":"Ahaan Panday,Aneet Padda,Varun Badola,Alam Khan,Geeta Agrawal Sharma"
+},
+
+{
 "title":"Peacemaker [Season 1] WEB-DL [Hindi-English] | All Episodes",
 "im":"bUYOeu8A3mjtqWWoKDLzjBkdLa1",
 "bgi":"pj1wFbZF3gpEg7F0EreXTvZNZTG",
@@ -67,20 +96,6 @@ const movies = [
 "description":"Comedian Kapil Sharma hosts this laugh-out-loud variety talk show with celebrity guests, hilarious antics and his signature supporting cast.",
 "type":"series",
 "cast":"Kapil Sharma,Sunil Grover,Krishna Abhishek,Archana Puran Singh,Kiku Sharda"
-},
-{
-"title":"Saiyaara [2025] HD-TC [Hindi] | Full Movie",
-"im":"hQBIsi3ZfBYEayMc3GhcEmJVkss",
-"bgi":"8aNNz9WYmxhnBxzWTt0nRI4F7rx",
-"dl":"https://pixeldrain.dev/api/file/piDhiTWE?download",
-"dl2":"https://hubcloud.one/drive/fwwpcrn1ep9bc1n",
-"year":"2025",
-"duration":"2h 36m",
-"rating":"6.3",
-"genre":"Romance,Drama",
-"description":"Short-tempered musician Krish is paired with a no-nonsense lyricist in Vaani, for the music company to work together. The sparks fly and Krish and Vaa...",
-"type":"movie",
-"cast":"Ahaan Panday,Aneet Padda,Varun Badola,Alam Khan,Geeta Agrawal Sharma"
 },
 {
 "title":"Ballerina [2025] WEB-DL [Hindi-English] | Full Movie",

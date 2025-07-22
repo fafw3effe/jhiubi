@@ -1,4 +1,4 @@
-const itemsPerPage = 24;
+const itemsPerPage = 20;
 let currentPage = 1;
 
 // Function to get URL parameters

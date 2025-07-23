@@ -16,11 +16,11 @@ const movies = [
 "cast":"Ahaan Panday,Aneet Padda,Varun Badola,Alam Khan,Geeta Agrawal Sharma"
 },
 {
-"title":"Demon Slayer: Kimetsu no Yaiba Infinity Castle [2025] HD-TS E-Sub [Japanese ] | Full Movie",
+"title":"Demon Slayer: Kimetsu no Yaiba Infinity Castle [2025] V2 HD-TC E-Sub [Japanese] | Full Movie",
 "im":"aFRDH3P7TX61FVGpaLhKr6QiOC1",
 "bgi":"63RnEJRNzRDvi0Fv4jhrT2eh0fl",
-"dl":"https://pixeldrain.dev/api/file/UtcXX8UX?download",
-"dl2":"https://hubcloud.one/drive/w7fg04wh3hzw7xx",
+"dl":"https://pixeldrain.dev/api/file/AN96Xscw?download",
+"dl2":"https://hubcloud.one/drive/yqkttefos1sy91f",
 "year":"2025",
 "duration":"2h 35m",
 "rating":"6.8",
@@ -28,6 +28,47 @@ const movies = [
 "description":"As the Demon Slayer Corps members and Hashira engaged in a group strength training program, the Hashira Training, in preparation for the forthcoming b...",
 "type":"movie",
 "cast":"Natsuki Hanae,Akari Kito,Yoshitsugu Matsuoka,Hiro Shimono,Toshihiko Seki"
+},
+{
+"title":"Countdown [Season 1] [Episode 7] WEB-DL [Hindi-English] | All Episodes",
+"im":"gcSNS5cy1iOmYawIdJCzoc873rQ",
+"bgi":"1GMyouDLET9zjA4ZCPpzvLBkY1B",
+"dl":"https://s.pptons.com/2025/06/countdown.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"6.9",
+"genre":"Drama,Crime,Mystery",
+"description":"When an officer with the Department of Homeland Security is murdered in broad daylight, LAPD detective Mark Meachum is recruited to a secret task forc...",
+"type":"series",
+"cast":"Jensen Ackles,Jessica Camacho,Eric Dane,Violett Beane,Uli Latukefu"
+},
+{
+"title":"The Door [2025] WEB-DL [Hindi-Tamil] | Full Movie",
+"im":"2fTLOS6y3v8SCbkFFRagmYXVZTm",
+"bgi":"3mzwKfsMrTnXy803IKcQZhg7K9L",
+"dl":"https://pub-c44d6fe71d1f4afbb7c59e366300c558.r2.dev/The.Door.2025.UNCUT.720p.HEVC.WEB-DL.Hindi.2.0-Tamil.ESub.x265-HDHub4u.Ms.mkv",
+"dl2":"https://hubcloud.one/drive/8rxisu11c1ru31u",
+"year":"2025",
+"duration":"2h 11m",
+"rating":"6.1",
+"genre":"Horror,Thriller",
+"description":"Mithra, an architect at a cursed job site gets entangled with a restless ghost, forcing her to uncover a decades-old murder linked to her own family.",
+"type":"movie",
+"cast":"Bhavana,Jayaprakash,Ganesh Venkatraman,Nandhu,TSR"
+},
+{
+"title":"Oddity [2024] WEB-DL [Hindi-English] | Full Movie",
+"im":"3Z9c1tbUhP0QruRjczPHnbx3U2D",
+"bgi":"6GhU4BJnqLSaAuz0yQBq3RfdzsF",
+"dl":"https://pixeldrain.dev/api/file/FuFYj9rr?download",
+"dl2":"https://hubcloud.one/drive/1waplwg74dgg11t",
+"year":"2024",
+"duration":"1h 38m",
+"rating":"6.7",
+"genre":"Horror,Mystery",
+"description":"After the brutal murder of her twin sister, Darcy goes after those responsible by using haunted items as her tools for revenge.",
+"type":"movie",
+"cast":"Carolyn Bracken,Gwilym Lee,Steve Wall,Joe Rooney,Tadhg Murphy"
 },
 {
 "title":"Kannappa [2025] WEB-DL [Hindi] | Full Movie",
@@ -425,19 +466,6 @@ const movies = [
 "description":"Following the death of their father, a brother and sister are introduced to their new sibling by their foster mother, only to learn that she has a ter...",
 "type":"movie",
 "cast":"Sally Hawkins,Billy Barratt,Sora Wong,Jonah Wren Phillips,Sally-Anne Upton"
-},
-{
-"title":"Countdown [Season 1] [Episode 6] WEB-DL [Hindi-English] | All Episodes",
-"im":"gcSNS5cy1iOmYawIdJCzoc873rQ",
-"bgi":"1GMyouDLET9zjA4ZCPpzvLBkY1B",
-"dl":"https://s.pptons.com/2025/06/countdown.html",
-"year":"2025",
-"duration":"1h per episode",
-"rating":"6.9",
-"genre":"Drama,Crime,Mystery",
-"description":"When an officer with the Department of Homeland Security is murdered in broad daylight, LAPD detective Mark Meachum is recruited to a secret task forc...",
-"type":"series",
-"cast":"Jensen Ackles,Jessica Camacho,Eric Dane,Violett Beane,Uli Latukefu"
 },
 {
 "title":"Sitaare Zameen Par [2025] WEB-DL [Hindi] | Full Movie",

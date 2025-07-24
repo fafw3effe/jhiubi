@@ -1,6 +1,21 @@
 // Movies data
 const movies = [
 
+
+{
+"title":"The Fantastic Four: First Steps [2025] HD-TC [English] | Full Movie",
+"im":"x26MtUlwtWD26d0G0FXcppxCJio",
+"bgi":"s94NjfKkcSczZ1FembwmQZwsuwY",
+"dl":"https://pixeldrain.dev/api/file/pt1LZUat?download",
+"dl2":"https://hubcloud.one/drive/btuotyp1v9pwgn9",
+"year":"2025",
+"duration":"1h 55m",
+"rating":"7.0",
+"genre":"Science Fiction,Adventure",
+"description":"Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with t...",
+"type":"movie",
+"cast":"Pedro Pascal,Vanessa Kirby,Ebon Moss-Bachrach,Joseph Quinn,Ralph Ineson"
+},
 {
 "title":"Saiyaara [2025] HD-TC [Hindi] | Full Movie",
 "im":"hQBIsi3ZfBYEayMc3GhcEmJVkss",
@@ -28,6 +43,61 @@ const movies = [
 "description":"As the Demon Slayer Corps members and Hashira engaged in a group strength training program, the Hashira Training, in preparation for the forthcoming b...",
 "type":"movie",
 "cast":"Natsuki Hanae,Akari Kito,Yoshitsugu Matsuoka,Hiro Shimono,Toshihiko Seki"
+},
+{
+"title":"The Sandman [Season 2 Part 2] WEB-DL [Hindi-English] | All Episodes",
+"im":"dhbqyYjLfTNAHodDDjDELzwO6F4",
+"bgi":"24tNHi5UJHATn61FTo9QiyQzbMH",
+"dl":"https://s.pptons.com/2025/07/the-sandman.html",
+"year":"2022",
+"duration":"1h per episode",
+"rating":"7.9",
+"genre":"Sci-Fi & Fantasy,Drama,Action & Adventure",
+"description":"After years of imprisonment, Morpheus — the King of Dreams — embarks on a journey across worlds to find what was stolen from him and restore his p...",
+"type":"series",
+"cast":"Tom Sturridge,Vivienne Acheampong,Patton Oswalt,Boyd Holbrook,Mason Alexander Park"
+},
+{
+"title":"Sarbala Ji [2025] HD-TS [Punjabi] | Full Movie",
+"im":"5dv1oOZYzlsBK8O5GxNNib0nqQ8",
+"bgi":"oFJr5R5MZK74O4HaGyEUR2E6dQF",
+"dl":"https://pixeldrain.dev/api/file/YyfzSH48?download",
+"dl2":"https://hubcloud.one/drive/v42lm92uumuh44z",
+"year":"2025",
+"duration":"2h 2m",
+"rating":"6.1",
+"genre":"Action,Drama",
+"description":"We don't have an overview translated in English. Help us expand our database by adding one.",
+"type":"movie",
+"cast":"Gippy Grewal,Ammy Virk,Nimrat Khaira,Sargun Mehta,Raj Buttar"
+},
+{
+"title":"Hunter - Tootega Nahi, Todega [Season 2] WEB-DL [Hindi] | All Episodes",
+"im":"tQog15CXjX9olgODOFKUMOj2joK",
+"bgi":"xKIS5Dd0UyVAMb4UGnIGdjKLJ2J",
+"dl":"https://s.pptons.com/2025/07/hunter.html",
+"dl2":"https://hubcloud.one/drive/rmmxezlxplpulrl",
+"year":"2023",
+"duration":"1h per episode",
+"rating":"5.5",
+"genre":"Action & Adventure,Crime,Mystery",
+"description":"Hunter is an action thriller web series that follows Suniel Shetty as ACP Vikram in his journey to the dark alleys of Mumbai's crime world. A mis...",
+"type":"series",
+"cast":"Suniel Shetty,Esha Deol,Chahat Tejwani,Teena Singh,Rahul Dev"
+},
+{
+"title":"Bicycle Days WEB-DL [Hindi] | Full Movie",
+"im":"ndZpt1fxKynVqgAjWBlEYHL2sgL",
+"bgi":"",
+"dl":"https://pixeldrain.dev/api/file/zsYGeD9K?download",
+"dl2":"https://hubcloud.one/drive/j64yrgtrg8yj6jc",
+"year":"2023",
+"duration":"1h 30m",
+"rating":"6.0",
+"genre":"Drama",
+"description":"Until the time machine becomes a reality, a person can always ride a bicycle to relive his or her childhood. Bicycle Days takes one on a trip down mem...",
+"type":"movie",
+"cast":"Parv Agarwal, Nidhi Diwan, Mudit Gunhere"
 },
 {
 "title":"Handsome Guys [2024] WEB-DL [Hindi-Korean] | Full Movie",

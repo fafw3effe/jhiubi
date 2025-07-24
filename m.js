@@ -30,6 +30,34 @@ const movies = [
 "cast":"Natsuki Hanae,Akari Kito,Yoshitsugu Matsuoka,Hiro Shimono,Toshihiko Seki"
 },
 {
+"title":"Handsome Guys [2024] WEB-DL [Hindi-Korean] | Full Movie",
+"im":"5yUPKpy6ijvEBI5b6L0kJC30NHm",
+"bgi":"7qMw4BkgvCLBev11Db5ygXNisaF",
+"dl":"https://pixeldrain.dev/api/file/vWUaAU7p?download",
+"dl2":"https://hubcloud.one/drive/3edp1abaxgxxanp",
+"year":"2024",
+"duration":"1h 42m",
+"rating":"6.6",
+"genre":"Comedy,Horror",
+"description":"Brothers Jae-pil and Sang-gu move into their dream rustic-style house in the woods. When unwanted visitors arrive and awaken a sealed evil spirit in t...",
+"type":"movie",
+"cast":"Lee Sung-min,Lee Hee-jun,Gong Seung-yeon,Park Ji-hwan,Lee Kyoo-hyung"
+},
+{
+"title":"Medal [2023] WEB-DL [Hindi-Punjabi] | Full Movie",
+"im":"tDeZERQL4RRs4mVmYigEBMebfpz",
+"bgi":"6z6Dh26tRGJ3jnvacUiOQ1KO7jf",
+"dl":"https://pixeldrain.dev/api/file/CrXKeVxz?download",
+"dl2":"https://hubcloud.one/drive/qkdqfong4vo02nq",
+"year":"2023",
+"duration":"2h 4m",
+"rating":"7.0",
+"genre":"Action",
+"description":"Rajvir Singh, a young athlete, dreams of winning a gold medal, but tragedies always prevent him from achieving his goal. After losing his hearing due ...",
+"type":"movie",
+"cast":"Jayy Randhawa,Jag Singh,Baani Sandhu,Hobby Dhaliwal,Pradeep Ram Singh Rawat"
+},
+{
 "title":"Countdown [Season 1] [Episode 7] WEB-DL [Hindi-English] | All Episodes",
 "im":"gcSNS5cy1iOmYawIdJCzoc873rQ",
 "bgi":"1GMyouDLET9zjA4ZCPpzvLBkY1B",

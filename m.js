@@ -3,11 +3,11 @@ const movies = [
 
 
 {
-"title":"The Fantastic Four: First Steps [2025] HD-TC [English] | Full Movie",
+"title":"The Fantastic Four: First Steps [2025] PRE-HD [Hindi-English] | Full Movie",
 "im":"x26MtUlwtWD26d0G0FXcppxCJio",
 "bgi":"s94NjfKkcSczZ1FembwmQZwsuwY",
-"dl":"https://pixeldrain.dev/api/file/pt1LZUat?download",
-"dl2":"https://hubcloud.one/drive/btuotyp1v9pwgn9",
+"dl":"https://pixeldrain.dev/api/file/617SHgeo?download",
+"dl2":"https://hubcloud.one/drive/7dybegjyd550gdg",
 "year":"2025",
 "duration":"1h 55m",
 "rating":"7.0",

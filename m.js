@@ -31,6 +31,19 @@ const movies = [
 "cast":"Natsuki Hanae,Akari Kito,Yoshitsugu Matsuoka,Hiro Shimono,Toshihiko Seki"
 },
 {
+"title":"The Great Indian Kapil Show [Season 3] [Episode 6] WEB-DL [Hindi] | All Episodes",
+"im":"6LWtSm2VHfenFBMvmjG9GYgfvSd",
+"bgi":"lPVM7LR0ydKVj2qzdsVgi1akjom",
+"dl":"https://s.pptons.com/2025/06/the-great-indian-kapil-show.html",
+"year":"2024",
+"duration":"1h per episode",
+"rating":"6.9",
+"genre":"Talk,Comedy",
+"description":"Comedian Kapil Sharma hosts this laugh-out-loud variety talk show with celebrity guests, hilarious antics and his signature supporting cast.",
+"type":"series",
+"cast":"Kapil Sharma,Sunil Grover,Krishna Abhishek,Archana Puran Singh,Kiku Sharda"
+},
+{
 "title":"Aankhon ki Gustaakhiyan [2025] WEB-DL [Hindi] | Full Movie",
 "im":"qaGwsUWbE4NU9w4u4UqomgvK6fw",
 "bgi":"stBBSoTudhuGosaX3pcGHKWQcuS",
@@ -456,19 +469,6 @@ const movies = [
 "description":"Olympic medalists join the police force through a special recruitment program, trading medals for badges as they tackle violent crimes and injustices ...",
 "type":"series",
 "cast":"Park Bo-gum,Kim So-hyun,Oh Jung-se,Lee Sang-yi,Heo Sung-tae"
-},
-{
-"title":"The Great Indian Kapil Show [Season 3] [Episode 5] WEB-DL [Hindi] | All Episodes",
-"im":"6LWtSm2VHfenFBMvmjG9GYgfvSd",
-"bgi":"lPVM7LR0ydKVj2qzdsVgi1akjom",
-"dl":"https://s.pptons.com/2025/06/the-great-indian-kapil-show.html",
-"year":"2024",
-"duration":"1h per episode",
-"rating":"6.9",
-"genre":"Talk,Comedy",
-"description":"Comedian Kapil Sharma hosts this laugh-out-loud variety talk show with celebrity guests, hilarious antics and his signature supporting cast.",
-"type":"series",
-"cast":"Kapil Sharma,Sunil Grover,Krishna Abhishek,Archana Puran Singh,Kiku Sharda"
 },
 {
 "title":"Ballerina [2025] WEB-DL [Hindi-English] | Full Movie",

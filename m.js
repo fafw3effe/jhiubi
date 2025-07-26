@@ -3,20 +3,6 @@ const movies = [
 
 
 {
-"title":"The Fantastic Four: First Steps [2025] PRE-HD [Hindi-English] | Full Movie",
-"im":"x26MtUlwtWD26d0G0FXcppxCJio",
-"bgi":"s94NjfKkcSczZ1FembwmQZwsuwY",
-"dl":"https://pixeldrain.dev/api/file/617SHgeo?download",
-"dl2":"https://hubcloud.one/drive/7dybegjyd550gdg",
-"year":"2025",
-"duration":"1h 55m",
-"rating":"7.0",
-"genre":"Science Fiction,Adventure",
-"description":"Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with t...",
-"type":"movie",
-"cast":"Pedro Pascal,Vanessa Kirby,Ebon Moss-Bachrach,Joseph Quinn,Ralph Ineson"
-},
-{
 "title":"Saiyaara [2025] HD-TC [Hindi] | Full Movie",
 "im":"hQBIsi3ZfBYEayMc3GhcEmJVkss",
 "bgi":"8aNNz9WYmxhnBxzWTt0nRI4F7rx",
@@ -43,6 +29,76 @@ const movies = [
 "description":"As the Demon Slayer Corps members and Hashira engaged in a group strength training program, the Hashira Training, in preparation for the forthcoming b...",
 "type":"movie",
 "cast":"Natsuki Hanae,Akari Kito,Yoshitsugu Matsuoka,Hiro Shimono,Toshihiko Seki"
+},
+{
+"title":"Aankhon ki Gustaakhiyan [2025] WEB-DL [Hindi] | Full Movie",
+"im":"qaGwsUWbE4NU9w4u4UqomgvK6fw",
+"bgi":"stBBSoTudhuGosaX3pcGHKWQcuS",
+"dl":"https://pixeldrain.dev/api/file/9WeCXfpc?download",
+"dl2":"https://hubcloud.one/drive/bf9fdjqr90qp8pp",
+"year":"2025",
+"duration":"2h 18m",
+"rating":"6.0",
+"genre":"Drama,Romance",
+"description":"Explores the romance between two visually impaired characters, navigating both the joys and complexities of modern love.",
+"type":"movie",
+"cast":"Vikrant Massey,Shanaya Kapoor,Zain Khan Durrani,Saanand Verma"
+},
+{
+"title":"The Plot [2024] WEB-DL [Hindi-Korean] | Full Movie",
+"im":"pBZ1N68Ral2rtNzeQAmGFhDadq0",
+"bgi":"lVJU5ymNPhxBFEnscvOJ9GrIkjv",
+"dl":"https://pixeldrain.dev/api/file/3DgkJc58?download",
+"dl2":"https://hubcloud.one/drive/xx6nbwlhwbn0a8n",
+"year":"2024",
+"duration":"1h 40m",
+"rating":"5.1",
+"genre":"Crime,Thriller",
+"description":"Young-il is a plotter who manipulates murder-for-hire cases to look like accidents. Nobody knows those accidents are in fact perfectly plotted, planne...",
+"type":"movie",
+"cast":"Gang Dong-won,Lee Mu-saeng,Lee Mi-sook,Lee Hyun-wook,Tang Joon-sang"
+},
+{
+"title":"Trigger [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"9eDF8Z4iFFCmQROiuej54rSK9LT",
+"bgi":"2jiEkTXR7oiQNDfdday8AM9J5qF",
+"dl":"https://s.pptons.com/2025/07/trigger.html",
+"dl2":"https://hubcloud.one/drive/qcwrfjj71f87qy1",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"7.0",
+"genre":"Action & Adventure,Drama,Crime",
+"description":"As illegal firearms flood into a gun-free South Korea, a resolute cop and a cunning arms broker find themselves at odds in a tense showdown.",
+"type":"series",
+"cast":"Kim Nam-gil,Kim Young-kwang,Park Hoon,Kil Hae-yeon,Kim Won-hae"
+},
+{
+"title":"Mahavatar Narsimha [2025] HD-TS [Hindi-English] | Full Movie",
+"im":"tsTC69zbKSloEEVD9FUS3robmyh",
+"bgi":"prqMnCgyFQ2VkIQArfUjgB1G22s",
+"dl":"https://pixeldrain.dev/api/file/gcsRKZpU?download",
+"dl2":"https://hubcloud.one/drive/cpjlhx8uubq9el9",
+"year":"2025",
+"duration":"2h 21m",
+"rating":"7.1",
+"genre":"Fantasy",
+"description":"In a World torn apart by Darkness and Chaos... Witness the Appearance of the Legend, The Half-Man, Half-Lion Avatar-Lord Vishnu's Most Powerful I...",
+"type":"movie",
+"cast":"Jayapurna Das, Ashwin Kumar, Rudra Pratap Ghosh"
+},
+{
+"title":"The Fantastic Four: First Steps [2025] PRE-HD [Hindi-English] | Full Movie",
+"im":"x26MtUlwtWD26d0G0FXcppxCJio",
+"bgi":"s94NjfKkcSczZ1FembwmQZwsuwY",
+"dl":"https://pixeldrain.dev/api/file/617SHgeo?download",
+"dl2":"https://hubcloud.one/drive/7dybegjyd550gdg",
+"year":"2025",
+"duration":"1h 55m",
+"rating":"7.0",
+"genre":"Science Fiction,Adventure",
+"description":"Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with t...",
+"type":"movie",
+"cast":"Pedro Pascal,Vanessa Kirby,Ebon Moss-Bachrach,Joseph Quinn,Ralph Ineson"
 },
 {
 "title":"Sarzameen [2025] WEB-DL [Hindi] | Full Movie",
@@ -789,21 +845,6 @@ const movies = [
 "type":"movie",
 "cast":"Rajkummar Rao,Manushi Chhillar,Saurabh Shukla,Prosenjit Chatterjee,Anshumaan Pushkar"
 },
-{
-"title":"Aankhon ki Gustaakhiyan [2025] HD-TS [Hindi] | Full Movie",
-"im":"qaGwsUWbE4NU9w4u4UqomgvK6fw",
-"bgi":"stBBSoTudhuGosaX3pcGHKWQcuS",
-"dl":"https://pixeldrain.dev/api/file/MGfqomHd?download",
-"dl2":"https://hubcloud.one/drive/dndddxx1xbnyuzj",
-"year":"2025",
-"duration":"2h 18m",
-"rating":"6.0",
-"genre":"Drama,Romance",
-"description":"Explores the romance between two visually impaired characters, navigating both the joys and complexities of modern love.",
-"type":"movie",
-"cast":"Vikrant Massey,Shanaya Kapoor,Zain Khan Durrani,Saanand Verma"
-},
-
 {
 "title":"Aap Jaisa Koi [2025] WEB-DL [Hindi] | Full Movie",
 "im":"fV9dswGQCvbpVsj1JOTrYCeos8w",

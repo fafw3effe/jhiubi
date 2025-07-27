@@ -31,6 +31,33 @@ const movies = [
 "cast":"Natsuki Hanae,Akari Kito,Yoshitsugu Matsuoka,Hiro Shimono,Toshihiko Seki"
 },
 {
+"title":"Gaalipata 2 [2022] WEB-DL [Hindi-Kannada] | Full Movie",
+"im":"3O6gj740sbxG1luNmcLtJMaIpWj",
+"bgi":"luKCKzm0sB0ikYjCn6GRxk44QQO",
+"dl":"https://pixeldrain.dev/api/file/4bmxZph9?download",
+"dl2":"https://hubcloud.one/drive/eogzocrcbh6o9ho",
+"year":"2022",
+"duration":"2h 29m",
+"rating":"1.0",
+"genre":"Comedy",
+"description":"Life surprises you with its weird plans and events which changes our lives so much so that we can never go back to being what we were earlier. At such...",
+"type":"movie",
+"cast":"Ganesh,Diganth Manchale,Pawan Kumar,Anant Nag,Nishvika Naidu"
+},
+{
+"title":"C.I.D. [Season 2] [Episode 63] WEB-DL [Hindi] | All Episodes",
+"im":"60ZxbAMk6QO8jMD0p8WrGHVCbyK",
+"dl":"https://s.pptons.com/2025/06/cid.html",
+"bgi":"1gZrOa2E9DOohEvSLLBJqus2zGu",
+"year":"2024",
+"duration":"1h per episode",
+"rating":"7.0",
+"genre":"Action,Adventure,Crime,Drama,Mystery,",
+"description":"India's favourite crime thriller show is back! Abhijeet, Daya and other CID officers, led by ACP Pradyuman, join forces with forensic expert Dr Salunkhe to track down the perpetrators who have committed heinous crimes, using every small clue they can find.",
+"type":"series",
+"cast":"Aditya Srivastava,Shivaji Satham,Dayanand Shetty,Narendra Gupta,Ansha Sayed"
+},
+{
 "title":"The Great Indian Kapil Show [Season 3] [Episode 6] WEB-DL [Hindi] | All Episodes",
 "im":"6LWtSm2VHfenFBMvmjG9GYgfvSd",
 "bgi":"lPVM7LR0ydKVj2qzdsVgi1akjom",
@@ -443,19 +470,6 @@ const movies = [
 "description":"A mother and daughter encounter a demon in a village where girls have been disappearing.",
 "type":"movie",
 "cast":"Kajol,Ronit Roy,Indraneil Sengupta,Jitin Gulati,Kherin Sharma"
-},
-{
-"title":"C.I.D. [Season 2] [Episode 61] WEB-DL [Hindi] | All Episodes",
-"im":"60ZxbAMk6QO8jMD0p8WrGHVCbyK",
-"dl":"https://s.pptons.com/2025/06/cid.html",
-"bgi":"1gZrOa2E9DOohEvSLLBJqus2zGu",
-"year":"2024",
-"duration":"1h per episode",
-"rating":"7.0",
-"genre":"Action,Adventure,Crime,Drama,Mystery,",
-"description":"India's favourite crime thriller show is back! Abhijeet, Daya and other CID officers, led by ACP Pradyuman, join forces with forensic expert Dr Salunkhe to track down the perpetrators who have committed heinous crimes, using every small clue they can find.",
-"type":"series",
-"cast":"Aditya Srivastava,Shivaji Satham,Dayanand Shetty,Narendra Gupta,Ansha Sayed"
 },
 {
 "title":"Good Boy [Season 1] [Episode 15] WEB-DL [Hindi-Korean]",

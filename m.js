@@ -38,7 +38,7 @@ const movies = [
 "dl2":"https://hubcloud.one/drive/eogzocrcbh6o9ho",
 "year":"2022",
 "duration":"2h 29m",
-"rating":"1.0",
+"rating":"6.0",
 "genre":"Comedy",
 "description":"Life surprises you with its weird plans and events which changes our lives so much so that we can never go back to being what we were earlier. At such...",
 "type":"movie",

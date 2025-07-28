@@ -31,6 +31,47 @@ const movies = [
 "cast":"Natsuki Hanae,Akari Kito,Yoshitsugu Matsuoka,Hiro Shimono,Toshihiko Seki"
 },
 {
+"title":"Zebra [2024] WEB-DL [Hindi-Telugu] | Full Movie",
+"im":"rCGgmmMD63pKH7lnmVJ5MMLQfOm",
+"bgi":"iMeNNHnbfgjeYqKpV4gStB997UI",
+"dl":"https://pixeldrain.dev/api/file/ie9QjVKb?download",
+"dl2":"https://hubcloud.one/drive/hh1imqarn2zm2nz",
+"year":"2024",
+"duration":"2h 44m",
+"rating":"7.3",
+"genre":"Crime,Action,Thriller",
+"description":"Surya is a street-smart bank employee, in a bid to protect his loved one, gets entangled in a complex multi-crore scam. He must do whatever it takes t...",
+"type":"movie",
+"cast":"Satyadev Kancharana,Dhananjay,Priya Bhavani Shankar,Satya,Sathyaraj"
+},
+{
+"title":"Edagaiye Apaghatakke Karana [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"cMQPSIZdFmdbLTI97eWsEkpSsZ5",
+"bgi":"7Y3F2VFgbEbOYgBQqaNIouhGeVv",
+"dl":"https://pixeldrain.dev/api/file/QjcSTeGb?download",
+"dl2":"https://hubcloud.one/drive/h55ryb25wbffrby",
+"year":"2025",
+"duration":"2h",
+"rating":"6.1",
+"genre":"Comedy,Thriller,Romance",
+"description":"Dark Comdey Suspense Thriller",
+"type":"movie",
+"cast":"Diganth Manchale,Dhanu Harsha,Nidhi Subbaiah,Nirup Bhandari,Radhika Narayan"
+},
+{
+"title":"Head Over Heels [Season 1] [Episode 6] WEB-DL [Hindi-English] | All Episodes",
+"im":"ijDyO36wQhMYPd04XKXB73eyAbS",
+"bgi":"bHkrRtB4OtUAPOJAiTgNkZVfpIK",
+"dl":"https://s.pptons.com/2025/07/head-over-heels.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"8.6",
+"genre":"Sci-Fi & Fantasy,Drama",
+"description":"A teenage shaman determined to change fate sets out to save a mysterious boy destined to die. As danger looms, their fated encounter sparks a powerful...",
+"type":"series",
+"cast":"Cho Yi-hyun,Choo Young-woo,Cha Kang-yoon,Choo Ja-hyun,Kim Mi-kyeong"
+},
+{
 "title":"Gaalipata 2 [2022] WEB-DL [Hindi-Kannada] | Full Movie",
 "im":"3O6gj740sbxG1luNmcLtJMaIpWj",
 "bgi":"luKCKzm0sB0ikYjCn6GRxk44QQO",
@@ -45,7 +86,7 @@ const movies = [
 "cast":"Ganesh,Diganth Manchale,Pawan Kumar,Anant Nag,Nishvika Naidu"
 },
 {
-"title":"C.I.D. [Season 2] [Episode 63] WEB-DL [Hindi] | All Episodes",
+"title":"C.I.D. [Season 2] [Episode 64] WEB-DL [Hindi] | All Episodes",
 "im":"60ZxbAMk6QO8jMD0p8WrGHVCbyK",
 "dl":"https://s.pptons.com/2025/06/cid.html",
 "bgi":"1gZrOa2E9DOohEvSLLBJqus2zGu",
@@ -404,19 +445,6 @@ const movies = [
 "type":"movie",
 "cast":"Nora Arnezeder,Iain Glen,Sarah-Sofie Boussnina,Ṣọpẹ́ Dìrísù,Sebastian Roché"
 },    
-{
-"title":"Head Over Heels [Season 1] [Episode 4] WEB-DL [Hindi-English] | All Episodes",
-"im":"ijDyO36wQhMYPd04XKXB73eyAbS",
-"bgi":"bHkrRtB4OtUAPOJAiTgNkZVfpIK",
-"dl":"https://s.pptons.com/2025/07/head-over-heels.html",
-"year":"2025",
-"duration":"1h per episode",
-"rating":"8.6",
-"genre":"Sci-Fi & Fantasy,Drama",
-"description":"A teenage shaman determined to change fate sets out to save a mysterious boy destined to die. As danger looms, their fated encounter sparks a powerful...",
-"type":"series",
-"cast":"Cho Yi-hyun,Choo Young-woo,Cha Kang-yoon,Choo Ja-hyun,Kim Mi-kyeong"
-},
 {
 "title":"SAKAMOTO DAYS [Season 1] [Episode 13] WEB-DL [Hindi-English] | All Episodes",
 "im":"wRpCqsJFyKNuh5FMegNPrhzp2NF",

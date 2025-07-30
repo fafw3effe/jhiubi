@@ -2,6 +2,90 @@
 const movies = [
 
 
+
+{
+"title":"Rudra Garuda Purana [2025] WEB-DL [Hindi] | Full Movie",
+"im":"amfKXVCjL8tDydA0qeLityP55Cx",
+"bgi":"jyC0CMGzVUU6Kb3b4FL6Qkzx4ct",
+"dl":"https://pixeldrain.dev/api/file/qxwLQDPR?download",
+"dl2":"https://hubcloud.one/drive/g1fdita1q9mtdj4",
+"year":"2025",
+"duration":"2h 24m",
+"rating":"6.1",
+"genre":"Thriller,Mystery",
+"description":"The story delves into the mystery of a bus accident that occurred 25 years ago, claiming the lives of all its passengers. In a shocking twist, the sam...",
+"type":"movie",
+"cast":"Rishi,Priyanka Kumar M,Vinod Kumar,Avinash,K.S. Sridhar"
+},
+{
+"title":"28 Years Later [2025] WEB-DL [Hindi LiNE-English] | Full Movie",
+"im":"mIg1qCkVxnAlM2TK3RUF0tdEXlE",
+"bgi":"6WqqEjiycNvDLjbEClM1zCwIbDD",
+"dl":"https://pixeldrain.dev/api/file/tGZdzkPL?download",
+"dl2":"https://hubcloud.one/drive/ztyipzta3p1spvi",
+"year":"2025",
+"duration":"1h 55m",
+"rating":"7.1",
+"genre":"Horror,Thriller,Science Fiction",
+"description":"Twenty-eight years since the rage virus escaped a biological weapons laboratory, now, still in a ruthlessly enforced quarantine, some have found ways ...",
+"type":"movie",
+"cast":"Jodie Comer,Aaron Taylor-Johnson,Alfie Williams,Ralph Fiennes,Edvin Ryding"
+},
+{
+"title":"WWE: Unreal [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"4wfySL6AUTwXRCiL6tumMq9oFam",
+"bgi":"gMBrBUxPlDuCyQXBPxURl4Fbs9y",
+"dl":"https://s.pptons.com/2025/07/wwe-unreal.html",
+"dl2":"https://hubcloud.one/drive/tqf14qqy4pb5ofp",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"8.5",
+"genre":"Documentary",
+"description":"From Monday Night RAW to WrestleMania, this series goes backstage with WWE Superstars and staff as they bring the company's biggest spectacles to...",
+"type":"series",
+"cast":"Paul Levesque,Michael Seitz,Cody Runnels,John Cena,Phil Brooks"
+},
+{
+"title":"Metro... In Dino [2025] WEB-DL [Hindi] | Full Movie",
+"im":"rG9CCeTbZ77PiFPY8zywIysf6Vy",
+"bgi":"8ycWZizMNfYlQE5CdLSbOboNDko",
+"dl":"https://pixeldrain.dev/api/file/3GhfZbah?download",
+"dl2":"https://hubcloud.one/drive/duy2dutqaraabbd",
+"year":"2025",
+"duration":"2h 39m",
+"rating":"8.0",
+"genre":"Drama,Romance,Comedy",
+"description":"Follows interconnected stories of several different couples, each facing a crossroads at different stages in their lives and relationships.",
+"type":"movie",
+"cast":"Anupam Kher,Neena Gupta,Pankaj Tripathi,Konkona Sen Sharma,Aditya Roy Kapur"
+},
+{
+"title":"Show Time [2025] WEB-DL [Hindi-Telugu] | Full Movie",
+"im":"lFGOj6LDZachNPmXaGPQbeAu7jy",
+"bgi":"dLbK0UGq4YGJZWujBqNaetXrGdp",
+"dl":"https://pixeldrain.dev/api/file/QP3rE84L?download",
+"dl2":"https://hubcloud.one/drive/4eje7snwus4l27f",
+"year":"2025",
+"duration":"1h 48m",
+"rating":"6.1",
+"genre":"Comedy,Thriller",
+"description":"Show Time is a gripping thriller that explores how an accidental murder shatters the lives of a middle-class family. The story follows a seemingly ord...",
+"type":"movie",
+"cast":"Naveen Chandra,Kamakshi Bhaskarla,Raja Ravindra,Naresh"
+},
+{
+"title":"SAKAMOTO DAYS [Season 1] [Episode 14] WEB-DL [Hindi-English] | All Episodes",
+"im":"wRpCqsJFyKNuh5FMegNPrhzp2NF",
+"bgi":"blSthAPRbEOJBowdxppeQqNPRh9",
+"dl":"https://s.pptons.com/2025/07/blog-post_16.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"8.1",
+"genre":"Animation,Comedy,Action & Adventure",
+"description":"Once the greatest hitman of all, Taro Sakamoto retired in the name of love. But when his past catches up, he must fight to protect his beloved family.",
+"type":"series",
+"cast":"Tomokazu Sugita,Nobunaga Shimazaki,Ayane Sakura,Nao Toyama,Hina Kino"
+},
 {
 "title":"Saiyaara [2025] HD-TC [Hindi] | Full Movie",
 "im":"hQBIsi3ZfBYEayMc3GhcEmJVkss",
@@ -445,19 +529,6 @@ const movies = [
 "type":"movie",
 "cast":"Nora Arnezeder,Iain Glen,Sarah-Sofie Boussnina,Ṣọpẹ́ Dìrísù,Sebastian Roché"
 },    
-{
-"title":"SAKAMOTO DAYS [Season 1] [Episode 13] WEB-DL [Hindi-English] | All Episodes",
-"im":"wRpCqsJFyKNuh5FMegNPrhzp2NF",
-"bgi":"blSthAPRbEOJBowdxppeQqNPRh9",
-"dl":"https://s.pptons.com/2025/07/blog-post_16.html",
-"year":"2025",
-"duration":"1h per episode",
-"rating":"8.1",
-"genre":"Animation,Comedy,Action & Adventure",
-"description":"Once the greatest hitman of all, Taro Sakamoto retired in the name of love. But when his past catches up, he must fight to protect his beloved family.",
-"type":"series",
-"cast":"Tomokazu Sugita,Nobunaga Shimazaki,Ayane Sakura,Nao Toyama,Hina Kino"
-},
 {
 "title":"Smurfs [2025] CAM [Hindi] | Full Movie",
 "im":"8o6lkhL32xQJeB52IIG1us5BVey",
@@ -956,20 +1027,6 @@ const movies = [
 "description":"Ram, a modern-day Robin Hood, is a master thief who unexpectedly finds himself switching sides. When fate forces him to become the personal security o...",
 "type":"movie",
 "cast":"Nithiin,Sreeleela,Vennela Kishore,Rajendra Prasad,Ketika Sharma"
-},
-{
-"title":"Metro... In Dino [2025] HQ-HDTC [Hindi] | Full Movie",
-"im":"rG9CCeTbZ77PiFPY8zywIysf6Vy",
-"bgi":"8ycWZizMNfYlQE5CdLSbOboNDko",
-"dl":"https://pixeldrain.dev/api/file/a8uoiSMX?download",
-"dl2":"https://hubcloud.one/drive/m91u5rj7bibzmmp",
-"year":"2025",
-"duration":"2h 39m",
-"rating":"8.0",
-"genre":"Drama,Romance,Comedy",
-"description":"Follows interconnected stories of several different couples, each facing a crossroads at different stages in their lives and relationships.",
-"type":"movie",
-"cast":"Anupam Kher,Neena Gupta,Pankaj Tripathi,Konkona Sen Sharma,Aditya Roy Kapur"
 },
 {
 "title":"Nine Perfect Strangers [Season 1] [Episode 8] WEB-DL [Hindi-English] | All Episodes",

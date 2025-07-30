@@ -1,6 +1,88 @@
 // Movies data
 const movies = [
 
+
+{
+"title":"Overflow [Season 1] [Episode 1] WEB-DL [Hindi] | All Episodes",
+"im":"8RtwL5gxUvh9YViqjhNlVRvJpum",
+"bgi":"bzlZwirOq5SDC0bCWAXGBx4XDg9",
+"dl":"https://s.pptons.com/2025/07/overflow.html",
+"dl2":"https://s.pptons.com/2025/07/overflow.html",
+"year":"2020",
+"duration":"1h per episode",
+"rating":"7.6",
+"genre":"Animation,Comedy",
+"description":"Kazushi Sudou is a university student who is visited by his two childhood friends, the sisters Ayane and Kotone Shirakawa. When Ayane discovers that K...",
+"type":"series",
+"cast":"Mitsu Anzu,Tomoe Tamiyasu,Sada Naohiro"
+},
+{
+"title":"Toilet-Bound Hanako-kun [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"iehq6tSUylg5kFkOxndNYZWjzNu",
+"bgi":"ifJacgrENUweJF5Kq8h2NYfShzd",
+"dl":"https://s.pptons.com/2025/07/toilet-bound-hanako-kun.html",
+"dl2":"https://s.pptons.com/2025/07/toilet-bound-hanako-kun.html",
+"year":"2020",
+"duration":"1h per episode",
+"rating":"8.6",
+"genre":"Animation,Mystery,Comedy,Action & Adventure,Drama",
+"description":"First year high school student and occultist, Nene Yashiro summons Hanako-san of the Toilet to grant her romantic wishes. She ends up Hanako's sp...",
+"type":"series",
+"cast":"Megumi Ogata,Akari Kito,Shoya Chiba,Yuma Uchida,Takahiro Mizushima"
+},
+{
+"title":"A Couple of Cuckoos [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"tWDX9uDAzOJhsvunl6PabHdhFx0",
+"bgi":"tC51lHaYqyMKUE1W4rcr2vhi9QG",
+"dl":"https://s.pptons.com/2025/07/a-couple-of-cuckoos.html",
+"dl2":"https://s.pptons.com/2025/07/a-couple-of-cuckoos.html",
+"year":"2022",
+"duration":"1h per episode",
+"rating":"7.0",
+"genre":"Animation,Comedy",
+"description":"16-year-old super-studier Nagi Umino, second-year student at the Megurogawa Academy high school, was switched at birth. On his way to a dinner to meet...",
+"type":"series",
+"cast":"Kaito Ishikawa,Akari Kito,Nao Toyama,Konomi Kohara,Ryohei Kimura"
+},
+{
+"title":"Gachiakuta [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"oU2SBv5VQCdOHfw3Aw8B0UeAsim",
+"bgi":"mrapJp0qb6Fvo3IW9IrjCK9IgSo",
+"dl":"https://s.pptons.com/2025/07/gachiakuta.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"9.2",
+"genre":"Animation,Action & Adventure,Drama,Sci-Fi & Fantasy",
+"description":"In a floating city where the rich discard their waste—and people—Rudo is framed for murder and thrown into the Pit, where a hellscape of mutated g...",
+"type":"series",
+"cast":"Aoi Ichikawa,Katsuyuki Konishi,Yumiri Hanamori,Ryunosuke Watanuki,Jun&#39;ichi Yanagita"
+},
+{
+"title":"My Dress-Up Darling [Season 2] [Episode 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"A6mxBwvvv63JXZm3xXKv4SugE0L",
+"bgi":"gWPK2RIVJ6i3myf7Xdw8DqlznT8",
+"dl":"https://s.pptons.com/2025/07/my-dress-up-darling.html",
+"year":"2022",
+"duration":"1h per episode",
+"rating":"8.5",
+"genre":"Animation,Comedy,Drama",
+"description":"High schooler Wakana Gojo wants to become a kashirashi—a master craftsman who makes traditional Japanese Hina dolls. Though he's gung-ho about ...",
+"type":"series",
+"cast":"Hina Suguta,Shoya Ishige,Atsumi Tanezaki,Hina Youmiya,Atsushi Ono"
+},
+{
+"title":"Rent-a-Girlfriend [Season 4] [Episode 2] WEB-DL [Hindi-English] | All Episodes",
+"im":"6ZpDPUNtVw6UdJoStvVlRZ62yAi",
+"bgi":"ullfy98STkno11rDGi44SK6llwx",
+"dl":"https://s.pptons.com/2025/07/rent-girlfriend.html",
+"year":"2020",
+"duration":"1h per episode",
+"rating":"8.4",
+"genre":"Animation,Comedy",
+"description":"Kinoshita Kazuya is a 20-year-old failure of a college student. He managed to kiss his girlfriend once, but was dumped after a month. Completely spite...",
+"type":"series",
+"cast":"Masayuki Akasaka,Shun Horie,Sora Amamiya,Aoi Yuuki,Nao Toyama"
+},
 {
 "title":"Rudra Garuda Purana [2025] WEB-DL [Hindi] | Full Movie",
 "im":"amfKXVCjL8tDydA0qeLityP55Cx",

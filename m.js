@@ -1,8 +1,6 @@
 // Movies data
 const movies = [
 
-
-
 {
 "title":"Rudra Garuda Purana [2025] WEB-DL [Hindi] | Full Movie",
 "im":"amfKXVCjL8tDydA0qeLityP55Cx",

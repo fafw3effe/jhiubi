@@ -17,6 +17,20 @@ const movies = [
 "cast":"Mitsu Anzu,Tomoe Tamiyasu,Sada Naohiro"
 },
 {
+"title":"ERASED [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"EljUwZJhpuYfVuSfqY8Pt1xxpH",
+"bgi":"dFQOWyByjBqfQoKDcPamLQ04ADH",
+"dl":"https://s.pptons.com/2025/07/erased.html",
+"dl2":"https://s.pptons.com/2025/07/erased.html",
+"year":"2016",
+"duration":"1h per episode",
+"rating":"8.5",
+"genre":"Animation,Drama,Mystery",
+"description":"Satoru Fujinuma is a struggling manga artist who has the ability to turn back time and prevent deaths. When his mother is killed he turns back time to...",
+"type":"series",
+"cast":"Shinnosuke Mitsushima,Tao Tsuchiya,Minami Takayama,Mitsuru Miyamoto,Aoi Yuuki"
+},
+{
 "title":"Toilet-Bound Hanako-kun [Season 1] WEB-DL [Hindi-English] | All Episodes",
 "im":"iehq6tSUylg5kFkOxndNYZWjzNu",
 "bgi":"ifJacgrENUweJF5Kq8h2NYfShzd",

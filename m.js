@@ -10,7 +10,7 @@ const movies = [
 "dl2":"https://vcloud.lol/anpk-yz9rkmnyom",
 "year":"2025",
 "duration":"2h 40m",
-"rating":"0.0",
+"rating":"7.1",
 "genre":"Action,Thriller",
 "description":"Soori, a modest police constable, is unintentionally dragged into a dangerous undercover spy operation in Sri Lanka for the Indian government . His jo...",
 "type":"movie",

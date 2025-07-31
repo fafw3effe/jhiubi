@@ -2,7 +2,61 @@
 const movies = [
 
 
-
+{
+"title":"Kingdom [2025] V2-HDTC [Hindi] | Full Movie",
+"im":"339qTJigODEQ6HY5n8SYhlvCeOI",
+"bgi":"ssDPH5LjnOcmDf17Jt0g2Amevvx",
+"dl":"https://purple-sun-f9e7.yirolim8351007.workers.dev/79cfefd1fb142661c4969b15c49f4f548801ef854b2f9d8adf9fe78347b8915920195c3b3d5f114c54752d3728052d6f::9cb694e11ed6498900b730de442ce759/1397300439/Saamraajya.2025.Hindi.HDTS.720p.x264.AAC.Vegamovies.is.mkv",
+"dl2":"https://vcloud.lol/anpk-yz9rkmnyom",
+"year":"2025",
+"duration":"2h 40m",
+"rating":"0.0",
+"genre":"Action,Thriller",
+"description":"Soori, a modest police constable, is unintentionally dragged into a dangerous undercover spy operation in Sri Lanka for the Indian government . His jo...",
+"type":"movie",
+"cast":"Vijay Deverakonda,Bhagyashri Borse,Satyadev Kancharana,Venkitesh V P,Ronit Kamra"
+},
+{
+"title":"Marked [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"1XFP7vl4KDAuCNOdtq8lFm5LeSW",
+"bgi":"maxJ6oaC3tgO0lUiudLCLN4FPS8",
+"dl":"https://s.pptons.com/2025/07/marked.html",
+"dl2":"https://s.pptons.com/2025/07/marked.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"7.1",
+"genre":"Drama",
+"description":"Desperate to pay for her daughter's life-saving surgery, devout ex-cop Babalwa turns to an unholy savior to help her stage a daring heist.",
+"type":"series",
+"cast":"Lerato Mvelase,Sphamandla Dhludhlu,S&#39;Dumo Mtshali,Jabulani Mthembu,Jerry Mofokeng"
+},
+{
+"title":"An Honest Life [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"4hveI7tEISN8KU60UFJw1JRYKvv",
+"bgi":"A5V1RIXR277KuLFEa5fdu5wbiEp",
+"dl":"https://pixeldrain.dev/api/file/FCbCn7RF?download",
+"dl2":"https://hubcloud.one/drive/sfk1uti1iffslox",
+"year":"2025",
+"duration":"2h 12m",
+"rating":"6.0",
+"genre":"Thriller,Drama",
+"description":"Simon arrives in Lund full of anticipation and ready for his life to really begin; but is quickly disappointed by law school. During a violent protest...",
+"type":"movie",
+"cast":"Simon Lööf,Nora Rios,Peter Andersson,Willy Ramnek Petri,Arvid von Heland"
+},
+{
+"title":"The Sandman [Season 2 Part 2] [Episode 12] WEB-DL [Hindi-English] | All Episodes",
+"im":"dhbqyYjLfTNAHodDDjDELzwO6F4",
+"bgi":"24tNHi5UJHATn61FTo9QiyQzbMH",
+"dl":"https://s.pptons.com/2025/07/the-sandman.html",
+"year":"2022",
+"duration":"1h per episode",
+"rating":"7.9",
+"genre":"Sci-Fi & Fantasy,Drama,Action & Adventure",
+"description":"After years of imprisonment, Morpheus — the King of Dreams — embarks on a journey across worlds to find what was stolen from him and restore his p...",
+"type":"series",
+"cast":"Tom Sturridge,Vivienne Acheampong,Patton Oswalt,Boyd Holbrook,Mason Alexander Park"
+},
 {
 "title":"Countdown [Season 1] [Episode 8] WEB-DL [Hindi-English] | All Episodes",
 "im":"gcSNS5cy1iOmYawIdJCzoc873rQ",
@@ -456,19 +510,6 @@ const movies = [
 "description":"When a series of ritualistic murders shakes a small town, a detective and an ex-cop must investigate a mystery with deep ties to their pasts.",
 "type":"series",
 "cast":"Vaani Kapoor,Vaibhav Raj Gupta,Surveen Chawla,Siddhanth Kapoor,Jameel Khan"
-},
-{
-"title":"The Sandman [Season 2 Part 2] WEB-DL [Hindi-English] | All Episodes",
-"im":"dhbqyYjLfTNAHodDDjDELzwO6F4",
-"bgi":"24tNHi5UJHATn61FTo9QiyQzbMH",
-"dl":"https://s.pptons.com/2025/07/the-sandman.html",
-"year":"2022",
-"duration":"1h per episode",
-"rating":"7.9",
-"genre":"Sci-Fi & Fantasy,Drama,Action & Adventure",
-"description":"After years of imprisonment, Morpheus — the King of Dreams — embarks on a journey across worlds to find what was stolen from him and restore his p...",
-"type":"series",
-"cast":"Tom Sturridge,Vivienne Acheampong,Patton Oswalt,Boyd Holbrook,Mason Alexander Park"
 },
 {
 "title":"Sarbala Ji [2025] HD-TS [Punjabi] | Full Movie",

@@ -45,6 +45,77 @@ const movies = [
 "type":"movie",
 "cast":"Vijay Deverakonda,Bhagyashri Borse,Satyadev Kancharana,Venkitesh V P,Ronit Kamra"
 },
+
+{
+"title":"Chief of War [Season 1] WEB-DL [English] | All Episodes",
+"im":"8Mckh3qJRTzXTQNZtpb133RHmO4",
+"bgi":"mwVrLbaue8AqjFtF6lY6aakTtfb",
+"dl":"https://s.pptons.com/2025/08/chief-of-war.html",
+"dl2":"https://s.pptons.com/2025/08/chief-of-war.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"6.8",
+"genre":"Drama",
+"description":"With Hawaii's four kingdoms divided by war, the ferocious warrior Kaʻiana embarks on an epic mission to unite his people—as an existential thr...",
+"type":"series",
+"cast":"Jason Momoa,Luciane Buchanan,Temuera Morrison,Te Ao o Hinepehinga,Cliff Curtis"
+},
+{
+"title":"The 47 [2024] WEB-DL [Hindi-Spanish] | Full Movie",
+"im":"d2bSDM4mfdQBOx7su3PhiFffnn6",
+"bgi":"4fKEH1eeLv6NsLD4adCsFqJaRo0",
+"dl":"https://pixeldrain.dev/api/file/hLLeLa5E?download",
+"dl2":"https://hubcloud.one/drive/ipmfx0ax0vqyirx",
+"year":"2024",
+"duration":"1h 50m",
+"rating":"7.4",
+"genre":"Crime,Drama",
+"description":"Inspired on the true story of Manolo Vital, a bus driver who helped create the modern Barcelona during the 1970s city's boom.",
+"type":"movie",
+"cast":"Eduard Fernández,Clara Segura,Zoe Bonafonte,Salva Reina,Óscar de la Fuente"
+},
+{
+"title":"Sitaare Zameen Par [2025] WEB-DL [Hindi] | Full Movie",
+"im":"2ztRFbp1YSvMSIrr7AqYq6i6pqC",
+"bgi":"pdbML7ol4HvsI1xWX0s9LZpUGfL",
+"dl":"https://pixeldrain.dev/api/file/tgfdzfSf?download",
+"dl2":"https://hubcloud.one/drive/zf4fqxlz3tsn4cn",
+"year":"2025",
+"duration":"2h 35m",
+"rating":"7.6",
+"genre":"Comedy,Drama",
+"description":"A disgraced basketball coach is given the chance to coach a team of players who are intellectually disabled as part of community services. Gulshan has...",
+"type":"movie",
+"cast":"Aamir Khan,Genelia D&#39;Souza,Dolly Ahluwalia,Brijendra Kala,Happy Ranajit"
+},
+{
+"title":"Watchmen: Chapter II [2024] WEB-DL [Hindi-English] | Full Movie",
+"im":"4rBObJFpiWJOG7aIlRrOUniAkBs",
+"bgi":"dGGjuaUR253aAZ2Zhto2Y9TR9l6",
+"dl":"https://pixeldrain.dev/api/file/AYzd4X6d?download",
+"dl2":"https://hubcloud.one/drive/dnh8brr8h8dnjrd",
+"year":"2024",
+"duration":"1h 29m",
+"rating":"7.4",
+"genre":"Animation,Mystery,Science Fiction,Action",
+"description":"Suspicious of the events ensnaring their former colleagues, Nite Owl and Silk Spectre are spurred out of retirement to investigate. As they grapple wi...",
+"type":"movie",
+"cast":"Troy Baker,Adrienne Barbeau,Michael Cerveris,Zehra Fazal,Phil Fondacaro"
+},
+{
+"title":"Ne Zha 2 [2025] WEB-DL [Hindi LiNE-Chinese] | Full Movie",
+"im":"5lUmWTGkEcYnXujixXn31o9q2T0",
+"bgi":"zxi6WQPVc0uQAG5TtLsKvxYHApC",
+"dl":"https://pixeldrain.dev/api/file/Bs4QtnAr?download",
+"dl2":"https://hubcloud.one/drive/fk2z4wk1afwwpaw",
+"year":"2025",
+"duration":"2h 24m",
+"rating":"8.1",
+"genre":"Animation,Fantasy,Adventure,Action",
+"description":"Following the Tribulation, although the souls of Ne Zha and Ao Bing were preserved, their physical bodies will soon be destroyed. Tai Yi Zhen Ren plan...",
+"type":"movie",
+"cast":"Lu Yanting,Joseph,Han Mo,Chen Hao,Lu Qi"
+},
 {
 "title":"Marked [Season 1] WEB-DL [Hindi-English] | All Episodes",
 "im":"1XFP7vl4KDAuCNOdtq8lFm5LeSW",
@@ -982,20 +1053,6 @@ const movies = [
 "description":"Following the death of their father, a brother and sister are introduced to their new sibling by their foster mother, only to learn that she has a ter...",
 "type":"movie",
 "cast":"Sally Hawkins,Billy Barratt,Sora Wong,Jonah Wren Phillips,Sally-Anne Upton"
-},
-{
-"title":"Sitaare Zameen Par [2025] WEB-DL [Hindi] | Full Movie",
-"im":"2ztRFbp1YSvMSIrr7AqYq6i6pqC",
-"bgi":"pdbML7ol4HvsI1xWX0s9LZpUGfL",
-"dl":"https://pixeldrain.dev/api/file/rfqG3G2J?download",
-"dl2":"https://hubcloud.one/drive/ufw1cxxa6u2jaue",
-"year":"2025",
-"duration":"2h 35m",
-"rating":"7.7",
-"genre":"Comedy,Drama",
-"description":"A disgraced basketball coach is given the chance to coach a team of players who are intellectually disabled as part of community services. Gulshan has...",
-"type":"movie",
-"cast":"Aamir Khan,Genelia D&#39;Souza,Dolly Ahluwalia,Brijendra Kala,Happy Ranajit"
 },
 {
 "title":"Taare Zameen Paar - Like Stars on Earth [2007] WEB-DL [Hindi] | Full Movie",
@@ -5817,20 +5874,6 @@ const movies = [
 "description":"A young scientist grapples with his groundbreaking discoveries, balancing between scientific ambition and personal sacrifices. His innovations spark both hope and controversy.",
 "type":"movie",
 "quality":"uncut webdl"
-},
-{
-"title":"Ne Zha 2 [2025] CAMRIP [Hindi] | Full Movie",
-"im":"5lUmWTGkEcYnXujixXn31o9q2T0",
-"bgi":"rGHNPAdxdQ6UlZ6nltvux6INjJX",
-"dl":"https://pixeldrain.net/api/file/uTVDZmt3?download",
-"link":"tt34956443",
-"year":"2025",
-"duration":"105 min",
-"rating":"7.3",
-"genre":"Action, Animation, Fantasy",
-"description":"In this highly anticipated sequel, Ne Zha faces new challenges as he strives to protect his world from ancient forces threatening to destroy everything.",
-"type":"movie",
-"quality":"camrip"
 },
 {
 "title":"Valerian and the City of a Thousand Planets [2017] WEB-DL [Hindi] [HEVC] | Full Movie",

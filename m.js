@@ -3,11 +3,11 @@ const movies = [
 
 
 {
-"title":"Kingdom [2025] V2-HDTC [Hindi] | Full Movie",
+"title":"SaamRajya - Kingdom [2025] V2-HDTC [Hindi] | Full Movie",
 "im":"339qTJigODEQ6HY5n8SYhlvCeOI",
 "bgi":"ssDPH5LjnOcmDf17Jt0g2Amevvx",
-"dl":"https://purple-sun-f9e7.yirolim8351007.workers.dev/79cfefd1fb142661c4969b15c49f4f548801ef854b2f9d8adf9fe78347b8915920195c3b3d5f114c54752d3728052d6f::9cb694e11ed6498900b730de442ce759/1397300439/Saamraajya.2025.Hindi.HDTS.720p.x264.AAC.Vegamovies.is.mkv",
-"dl2":"https://vcloud.lol/anpk-yz9rkmnyom",
+"dl":"https://pixeldrain.dev/api/file/ZVqNBaMc?download",
+"dl2":"https://hubcloud.one/drive/svuvfuhglfrfbdb",
 "year":"2025",
 "duration":"2h 40m",
 "rating":"7.1",

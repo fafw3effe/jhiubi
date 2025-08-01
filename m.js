@@ -47,6 +47,34 @@ const movies = [
 },
 
 {
+"title":"The Legend of Ochi [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"qYyEelO4JfOwE0Ui5KsrCE0O8UA",
+"bgi":"yMatVGaUxw3Vi3Z0RsLetvcSYko",
+"dl":"https://pixeldrain.dev/api/file/FGha6wZi?download",
+"dl2":"https://hubcloud.one/drive/exyxukxre1sxafb",
+"year":"2025",
+"duration":"1h 35m",
+"rating":"6.4",
+"genre":"Family,Fantasy,Adventure",
+"description":"In a remote village on the island of Carpathia, a shy farm girl named Yuri is raised to fear an elusive animal species known as ochi. But when Yuri di...",
+"type":"movie",
+"cast":"Helena Zengel,Willem Dafoe,Emily Watson,Finn Wolfhard,Razvan Stoica"
+},
+{
+"title":"My Oxford Year [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"jrhXbIOFingzdLjkccjg9vZnqIp",
+"bgi":"A466i5iATrpbVjX30clP1Zyfp31",
+"dl":"https://pixeldrain.dev/api/file/kd3bSmvV?download",
+"dl2":"https://hubcloud.one/drive/8rukjkzkcoka8k9",
+"year":"2025",
+"duration":"1h 52m",
+"rating":"7.0",
+"genre":"Romance,Comedy,Drama",
+"description":"An ambitious American fulfilling her dream of studying at Oxford falls for a charming Brit hiding a secret that may upend her perfectly planned life.",
+"type":"movie",
+"cast":"Sofia Carson,Corey Mylchreest,Dougray Scott,Catherine McCormack,Harry Trevaldwyn"
+},
+{
 "title":"Chief of War [Season 1] WEB-DL [English] | All Episodes",
 "im":"8Mckh3qJRTzXTQNZtpb133RHmO4",
 "bgi":"mwVrLbaue8AqjFtF6lY6aakTtfb",

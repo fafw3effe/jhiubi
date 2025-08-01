@@ -45,7 +45,20 @@ const movies = [
 "type":"movie",
 "cast":"Vijay Deverakonda,Bhagyashri Borse,Satyadev Kancharana,Venkitesh V P,Ronit Kamra"
 },
-
+{
+"title":"Saiyaara [2025] HD-TC [Hindi] | Full Movie",
+"im":"hQBIsi3ZfBYEayMc3GhcEmJVkss",
+"bgi":"8aNNz9WYmxhnBxzWTt0nRI4F7rx",
+"dl":"https://pixeldrain.dev/api/file/piDhiTWE?download",
+"dl2":"https://hubcloud.one/drive/fwwpcrn1ep9bc1n",
+"year":"2025",
+"duration":"2h 36m",
+"rating":"6.3",
+"genre":"Romance,Drama",
+"description":"Short-tempered musician Krish is paired with a no-nonsense lyricist in Vaani, for the music company to work together. The sparks fly and Krish and Vaa...",
+"type":"movie",
+"cast":"Ahaan Panday,Aneet Padda,Varun Badola,Alam Khan,Geeta Agrawal Sharma"
+},
 {
 "title":"The Legend of Ochi [2025] WEB-DL [Hindi-English] | Full Movie",
 "im":"qYyEelO4JfOwE0Ui5KsrCE0O8UA",
@@ -391,20 +404,6 @@ const movies = [
 "cast":"Tomokazu Sugita,Nobunaga Shimazaki,Ayane Sakura,Nao Toyama,Hina Kino"
 },
 {
-"title":"Saiyaara [2025] HD-TC [Hindi] | Full Movie",
-"im":"hQBIsi3ZfBYEayMc3GhcEmJVkss",
-"bgi":"8aNNz9WYmxhnBxzWTt0nRI4F7rx",
-"dl":"https://pixeldrain.dev/api/file/piDhiTWE?download",
-"dl2":"https://hubcloud.one/drive/fwwpcrn1ep9bc1n",
-"year":"2025",
-"duration":"2h 36m",
-"rating":"6.3",
-"genre":"Romance,Drama",
-"description":"Short-tempered musician Krish is paired with a no-nonsense lyricist in Vaani, for the music company to work together. The sparks fly and Krish and Vaa...",
-"type":"movie",
-"cast":"Ahaan Panday,Aneet Padda,Varun Badola,Alam Khan,Geeta Agrawal Sharma"
-},
-{
 "title":"Demon Slayer: Kimetsu no Yaiba Infinity Castle [2025] V2 HD-TC E-Sub [Japanese] | Full Movie",
 "im":"aFRDH3P7TX61FVGpaLhKr6QiOC1",
 "bgi":"63RnEJRNzRDvi0Fv4jhrT2eh0fl",
@@ -593,7 +592,7 @@ const movies = [
 "duration":"2h 41m",
 "rating":"6.1",
 "genre":"Action,Adventure,Drama",
-"description":"Set in the 1650s Mughal Era, Veera Mallu, a Robin Hood-like outlaw with secret motives is hired to steal the Koh-i-Noor from Aurangzeb’s palace. He ...",
+"description":"Set in the 1650s Mughal Era, Veera Mallu, a Robin Hood-like outlaw with secret motives is hired to steal the Koh-i-Noor from Aurangzeb's palace. He ...",
 "type":"movie",
 "cast":"Pawan Kalyan,Bobby Deol,Nidhhi Agerwal,Nasaar,Sunil Varma"
 },
@@ -607,7 +606,7 @@ const movies = [
 "duration":"1h 54m",
 "rating":"7.3",
 "genre":"Comedy",
-"description":"Happy Gilmore isn’t done with golf — not by a long shot. Adam Sandler’s short-fused legend swings for a comeback to make his kid’s dream come ...",
+"description":"Happy Gilmore isn't done with golf — not by a long shot. Adam Sandler's short-fused legend swings for a comeback to make his kid's dream come ...",
 "type":"movie",
 "cast":"Adam Sandler,Julie Bowen,Christopher McDonald,Benny Safdie,Ben Stiller"
 },

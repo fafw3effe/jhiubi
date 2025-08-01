@@ -2,6 +2,35 @@
 const movies = [
 
 
+
+{
+"title":"Dhadak 2 [2025] HQ-HDTC [Hindi] | Full Movie",
+"im":"1XoyvBhNNdDlN5HKxWEAzhIOYSU",
+"bgi":"t3E3eSY0oZK6DduUrnWGgTx8bSs",
+"dl":"https://pixeldrain.dev/api/file/WAKZe5Uh?download",
+"dl2":"https://hubcloud.one/drive/1ukxtjtg3hjvukh",
+"year":"2025",
+"duration":"2h 26m",
+"rating":"6.1",
+"genre":"Romance,Drama,",
+"description":"Neelesh and Vidhi fall in love with each other. However, tragedy strikes when the caste differences threaten to end their relationship.",
+"type":"movie",
+"cast":"Siddhant Chaturvedi,Triptii Dimri,Saad Bilgrami,Saurabh Sachdeva,Vipin Sharma"
+},
+{
+"title":"Son of Sardaar 2 [2025] HQ-HDTC [Hindi] | Full Movie",
+"im":"k47tmhqiUsmD6UoyoimHVQAjHx9",
+"bgi":"yU0Mx95513FmoXG4jWX4UssspQp",
+"dl":"https://pixeldrain.dev/api/file/WqKgqfSt?download",
+"dl2":"https://hubcloud.one/drive/nrdieyiddrh2jdn",
+"year":"2025",
+"duration":"2h 22m",
+"rating":"6.1",
+"genre":"Comedy,Drama",
+"description":"Years after settling an epic family feud and surviving house arrest in Punjab, Jassi Singh Randhawa returns this time chasing love, not trouble. But w...",
+"type":"movie",
+"cast":"Ajay Devgn,Mrunal Thakur,Ravi Kishan,Neeru Bajwa,Vindu Dara Singh"
+},
 {
 "title":"SaamRajya - Kingdom [2025] V2-HDTC [Hindi] | Full Movie",
 "im":"339qTJigODEQ6HY5n8SYhlvCeOI",

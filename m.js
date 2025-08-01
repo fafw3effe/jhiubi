@@ -56,7 +56,7 @@ const movies = [
 "duration":"1h per episode",
 "rating":"6.8",
 "genre":"Drama",
-"description":"With Hawaii's four kingdoms divided by war, the ferocious warrior Kaʻiana embarks on an epic mission to unite his people—as an existential thr...",
+"description":"With Hawaii's four kingdoms divided by war, the ferocious warrior Ka'iana embarks on an epic mission to unite his people—as an existential thr...",
 "type":"series",
 "cast":"Jason Momoa,Luciane Buchanan,Temuera Morrison,Te Ao o Hinepehinga,Cliff Curtis"
 },

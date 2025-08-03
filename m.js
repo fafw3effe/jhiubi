@@ -1,8 +1,6 @@
 // Movies data
 const movies = [
 
-
-
 {
 "title":"Dhadak 2 [2025] HQ-HDTC [Hindi] | Full Movie",
 "im":"1XoyvBhNNdDlN5HKxWEAzhIOYSU",
@@ -58,6 +56,116 @@ const movies = [
 "description":"Short-tempered musician Krish is paired with a no-nonsense lyricist in Vaani, for the music company to work together. The sparks fly and Krish and Vaa...",
 "type":"movie",
 "cast":"Ahaan Panday,Aneet Padda,Varun Badola,Alam Khan,Geeta Agrawal Sharma"
+},
+{
+"title":"Sattamum Needhiyum [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"ocYBlbuQvCFgNFyNrkxXcOgI7hD",
+"bgi":"arrJYizfuIxAPAn8gQaTdOuPsOZ",
+"dl":"https://s.pptons.com/2025/08/sattamum-needhiyum.html",
+"dl2":"https://s.pptons.com/2025/08/sattamum-needhiyum.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"0.0",
+"genre":"Crime,Drama",
+"description":"Sundaramoorthy, a timid lawyer, takes on the case of a man who sets himself on fire outside the court to protest his daughter's abduction. Can Su...",
+"type":"series",
+"cast":"Saravanan,MV Namritha,Arul D. Shankar,Iniya ram,Thiruselvam"
+},
+{
+"title":"Beyond the Bar [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"nN6mZZxJBPZXBjLxnjgpnoRvswk",
+"bgi":"8kXhTZX7f92Y4cUICB8jSYoTvKY",
+"dl":"https://s.pptons.com/2025/08/beyond-bar.html",
+"dl2":"https://s.pptons.com/2025/08/beyond-bar.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"5.0",
+"genre":"Drama",
+"description":"A young, rookie lawyer with a strong sense of justice joins a top law firm — navigating the complex legal world under a cold, demanding mentor.",
+"type":"series",
+"cast":"Lee Jin-uk,Jung Chae-yeon,Jeon Hye-bin,Lee Hak-ju,Kang Sang-jun"
+},
+{
+"title":"Maalik [2025] WEB-DL [Hindi] | Full Movie",
+"im":"etb6zsDB8SmIWBKXIUI2U73gfUH",
+"bgi":"9PvpylEINCQj9oGShtMgNuC5Pny",
+"dl":"https://pixeldrain.dev/api/file/H9qrPLKE?download",
+"dl2":"https://hubcloud.one/drive/u1ykfovu4ayq4pw",
+"year":"2025",
+"duration":"2h 30m",
+"rating":"8.7",
+"genre":"Action,Thriller,Crime,Drama",
+"description":"Set in the rural, rusty and politically charged Allahabad of the 1980s, Maalik is a peek into the making of a dreaded gangster from a humble backgroun...",
+"type":"movie",
+"cast":"Rajkummar Rao,Manushi Chhillar,Saurabh Shukla,Prosenjit Chatterjee,Anshumaan Pushkar"
+},
+{
+"title":"WWE SummerSlam 2025 - Saturday [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"indblmC8wcPffpGBPFDvFMnFkgc",
+"bgi":"AtVtPKu9vv8jG1tZVsc4rGWiAin",
+"dl":"https://hubcloud.one/drive/t6klli9jlsrjlpk",
+"dl2":"https://pixeldrain.dev/api/file/jCNezq3b?download",
+"year":"2025",
+"duration":"2h 4m",
+"rating":"7.2",
+"genre":"Drama,Comedy",
+"description":"The 2025 SummerSlam, also promoted as SummerSlam: New Jersey, was a professional wrestling event produced by WWE. It was the 38th annual SummerSlam an...",
+"type":"movie",
+"cast":"Phil Brooks,Walter Hahn,Jessica Woynilko,Jade Cargill,Victoria González"
+},
+{
+"title":"C.I.D. [Season 2] [Episode 65] WEB-DL [Hindi] | All Episodes",
+"im":"60ZxbAMk6QO8jMD0p8WrGHVCbyK",
+"dl":"https://s.pptons.com/2025/06/cid.html",
+"bgi":"1gZrOa2E9DOohEvSLLBJqus2zGu",
+"year":"2024",
+"duration":"1h per episode",
+"rating":"7.0",
+"genre":"Action,Adventure,Crime,Drama,Mystery,",
+"description":"India's favourite crime thriller show is back! Abhijeet, Daya and other CID officers, led by ACP Pradyuman, join forces with forensic expert Dr Salunkhe to track down the perpetrators who have committed heinous crimes, using every small clue they can find.",
+"type":"series",
+"cast":"Aditya Srivastava,Shivaji Satham,Dayanand Shetty,Narendra Gupta,Ansha Sayed"
+},
+{
+"title":"The Great Indian Kapil Show [Season 3] [Episode 7] WEB-DL [Hindi] | All Episodes",
+"im":"6LWtSm2VHfenFBMvmjG9GYgfvSd",
+"bgi":"lPVM7LR0ydKVj2qzdsVgi1akjom",
+"dl":"https://s.pptons.com/2025/06/the-great-indian-kapil-show.html",
+"year":"2024",
+"duration":"1h per episode",
+"rating":"6.9",
+"genre":"Talk,Comedy",
+"description":"Comedian Kapil Sharma hosts this laugh-out-loud variety talk show with celebrity guests, hilarious antics and his signature supporting cast.",
+"type":"series",
+"cast":"Kapil Sharma,Sunil Grover,Krishna Abhishek,Archana Puran Singh,Kiku Sharda"
+},
+{
+"title":"Millers in Marriage [2024] WEB-DL [Hindi-English] | Full Movie",
+"im":"z7UvGuQ8pSs0JJP3QYCAIsNzYXI",
+"bgi":"5a8UmLL6uNgTaqX6AaanEcXBs6s",
+"dl":"https://hubcloud.one/drive/za5bnrygowgpo6b",
+"dl2":"https://hubcloud.one/drive/za5bnrygowgpo6b",
+"year":"2024",
+"duration":"1h 57m",
+"rating":"5.8",
+"genre":"Drama",
+"description":"Eve Miller, a former indie rock singer, struggles with her toxic marriage while growing attracted to a music journalist. Her sister Maggie, a bestsell...",
+"type":"movie",
+"cast":"Gretchen Mol,Julianna Margulies,Minnie Driver,Edward Burns,Patrick Wilson"
+},
+{
+"title":"Project Silence [2024] WEB-DL [Hindi-English] | Full Movie",
+"im":"lZT5Cq4wkz7IeJEnz94U94xuEWD",
+"bgi":"39CRS71VP0d9VOsJ5TVgD8IaQnT",
+"dl":"https://pixeldrain.dev/api/file/NzYN4bvq?download",
+"dl2":"https://hubcloud.one/drive/99xtqjf4frtdd9k",
+"year":"2024",
+"duration":"1h 36m",
+"rating":"7.0",
+"genre":"Thriller,Action,Horror,Science Fiction,Adventure",
+"description":"Due to sudden deteriorating weather conditions, visibility on the Airport Bridge is severely impaired, leaving people stranded and at risk of the brid...",
+"type":"movie",
+"cast":"Lee Sun-kyun,Ju Ji-hoon,Kim Hie-won,Moon Sung-keun,Ye Su-jeong"
 },
 {
 "title":"The Legend of Ochi [2025] WEB-DL [Hindi-English] | Full Movie",
@@ -471,32 +579,6 @@ const movies = [
 "description":"Life surprises you with its weird plans and events which changes our lives so much so that we can never go back to being what we were earlier. At such...",
 "type":"movie",
 "cast":"Ganesh,Diganth Manchale,Pawan Kumar,Anant Nag,Nishvika Naidu"
-},
-{
-"title":"C.I.D. [Season 2] [Episode 64] WEB-DL [Hindi] | All Episodes",
-"im":"60ZxbAMk6QO8jMD0p8WrGHVCbyK",
-"dl":"https://s.pptons.com/2025/06/cid.html",
-"bgi":"1gZrOa2E9DOohEvSLLBJqus2zGu",
-"year":"2024",
-"duration":"1h per episode",
-"rating":"7.0",
-"genre":"Action,Adventure,Crime,Drama,Mystery,",
-"description":"India's favourite crime thriller show is back! Abhijeet, Daya and other CID officers, led by ACP Pradyuman, join forces with forensic expert Dr Salunkhe to track down the perpetrators who have committed heinous crimes, using every small clue they can find.",
-"type":"series",
-"cast":"Aditya Srivastava,Shivaji Satham,Dayanand Shetty,Narendra Gupta,Ansha Sayed"
-},
-{
-"title":"The Great Indian Kapil Show [Season 3] [Episode 6] WEB-DL [Hindi] | All Episodes",
-"im":"6LWtSm2VHfenFBMvmjG9GYgfvSd",
-"bgi":"lPVM7LR0ydKVj2qzdsVgi1akjom",
-"dl":"https://s.pptons.com/2025/06/the-great-indian-kapil-show.html",
-"year":"2024",
-"duration":"1h per episode",
-"rating":"6.9",
-"genre":"Talk,Comedy",
-"description":"Comedian Kapil Sharma hosts this laugh-out-loud variety talk show with celebrity guests, hilarious antics and his signature supporting cast.",
-"type":"series",
-"cast":"Kapil Sharma,Sunil Grover,Krishna Abhishek,Archana Puran Singh,Kiku Sharda"
 },
 {
 "title":"Aankhon ki Gustaakhiyan [2025] WEB-DL [Hindi] | Full Movie",
@@ -1206,20 +1288,6 @@ const movies = [
 "description":"Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.",
 "type":"movie",
 "cast":"David Corenswet,Rachel Brosnahan,Nicholas Hoult,Edi Gathegi,Anthony Carrigan"
-},
-{
-"title":"Maalik [2025] V2 HD-TC [Hindi] | Full Movie",
-"im":"etb6zsDB8SmIWBKXIUI2U73gfUH",
-"bgi":"9PvpylEINCQj9oGShtMgNuC5Pny",
-"dl":"https://pixeldrain.dev/api/file/Biy4NsLL?download",
-"dl2":"https://hubcloud.one/drive/etobbntontntemx",
-"year":"2025",
-"duration":"2h 30m",
-"rating":"6.0",
-"genre":"Action,Thriller,Crime,Drama",
-"description":"Set in the rural, rusty and politically charged Allahabad of the 1980s, Maalik is a peek into the making of a dreaded gangster from a humble backgroun...",
-"type":"movie",
-"cast":"Rajkummar Rao,Manushi Chhillar,Saurabh Shukla,Prosenjit Chatterjee,Anshumaan Pushkar"
 },
 {
 "title":"Aap Jaisa Koi [2025] WEB-DL [Hindi] | Full Movie",

@@ -1,6 +1,22 @@
 // Movies data
 const movies = [
 
+
+
+{
+"title":"Vanangaan [2025] WEB-DL [Hindi-Tamil] | Full Movie",
+"im":"3L7lr67HqidLP3SYsLmFq3JZ8lR",
+"bgi":"fNangVrqpIWfupWdfSgTRytA1EI",
+"dl":"https://pixeldrain.dev/api/file/CXJgPwUM?download",
+"dl2":"https://hubcloud.one/drive/ocb7newinnxukdo",
+"year":"2025",
+"duration":"2h 1m",
+"rating":"5.5",
+"genre":"Drama,Action",
+"description":"Trouble follows Kottee, a deaf-mute and hot blooded do-gooder, when he gets a job at a special home for the underprivileged and his quest for justice ...",
+"type":"movie",
+"cast":"Arun Vijay,Ridha,Roshini Prakash,Samuthirakani,Mysskin"
+},
 {
 "title":"Dhadak 2 [2025] HQ-HDTC [Hindi] | Full Movie",
 "im":"1XoyvBhNNdDlN5HKxWEAzhIOYSU",
@@ -58,6 +74,46 @@ const movies = [
 "cast":"Ahaan Panday,Aneet Padda,Varun Badola,Alam Khan,Geeta Agrawal Sharma"
 },
 {
+"title":"C.I.D. [Season 2] [Episode 65] WEB-DL [Hindi] | All Episodes",
+"im":"60ZxbAMk6QO8jMD0p8WrGHVCbyK",
+"dl":"https://s.pptons.com/2025/06/cid.html",
+"bgi":"1gZrOa2E9DOohEvSLLBJqus2zGu",
+"year":"2024",
+"duration":"1h per episode",
+"rating":"7.0",
+"genre":"Action,Adventure,Crime,Drama,Mystery,",
+"description":"India's favourite crime thriller show is back! Abhijeet, Daya and other CID officers, led by ACP Pradyuman, join forces with forensic expert Dr Salunkhe to track down the perpetrators who have committed heinous crimes, using every small clue they can find.",
+"type":"series",
+"cast":"Aditya Srivastava,Shivaji Satham,Dayanand Shetty,Narendra Gupta,Ansha Sayed"
+},
+{
+"title":"Head Over Heels [Season 1] [Episode 8] WEB-DL [Hindi-English] | All Episodes",
+"im":"ijDyO36wQhMYPd04XKXB73eyAbS",
+"bgi":"bHkrRtB4OtUAPOJAiTgNkZVfpIK",
+"dl":"https://s.pptons.com/2025/07/head-over-heels.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"8.6",
+"genre":"Sci-Fi & Fantasy,Drama",
+"description":"A teenage shaman determined to change fate sets out to save a mysterious boy destined to die. As danger looms, their fated encounter sparks a powerful...",
+"type":"series",
+"cast":"Cho Yi-hyun,Choo Young-woo,Cha Kang-yoon,Choo Ja-hyun,Kim Mi-kyeong"
+},
+{
+"title":"Eyes of Wakanda [Season 1] WEB-DL [English] | All Episodes",
+"im":"yuOfb1MgnaGPa4guzV0n1IFYVGN",
+"bgi":"cWO5NDkKqpOuwxu4vFc4PtL8aNF",
+"dl":"https://s.pptons.com/2025/08/eyes-of-wakanda.html",
+"dl2":"https://s.pptons.com/2025/08/eyes-of-wakanda.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"5.3",
+"genre":"Animation,Action & Adventure,Sci-Fi & Fantasy",
+"description":"Follow the adventures of brave Wakandan warriors throughout history in this globe-trotting adventure, where they must carry out dangerous missions to ...",
+"type":"series",
+"cast":"Terri Douglas,Michael Woodley,David Boat,Dave B. Mitchell,Michael Ralph"
+},
+{
 "title":"Sattamum Needhiyum [Season 1] WEB-DL [Hindi-English] | All Episodes",
 "im":"ocYBlbuQvCFgNFyNrkxXcOgI7hD",
 "bgi":"arrJYizfuIxAPAn8gQaTdOuPsOZ",
@@ -112,19 +168,6 @@ const movies = [
 "description":"The 2025 SummerSlam, also promoted as SummerSlam: New Jersey, was a professional wrestling event produced by WWE. It was the 38th annual SummerSlam an...",
 "type":"movie",
 "cast":"Phil Brooks,Walter Hahn,Jessica Woynilko,Jade Cargill,Victoria González"
-},
-{
-"title":"C.I.D. [Season 2] [Episode 65] WEB-DL [Hindi] | All Episodes",
-"im":"60ZxbAMk6QO8jMD0p8WrGHVCbyK",
-"dl":"https://s.pptons.com/2025/06/cid.html",
-"bgi":"1gZrOa2E9DOohEvSLLBJqus2zGu",
-"year":"2024",
-"duration":"1h per episode",
-"rating":"7.0",
-"genre":"Action,Adventure,Crime,Drama,Mystery,",
-"description":"India's favourite crime thriller show is back! Abhijeet, Daya and other CID officers, led by ACP Pradyuman, join forces with forensic expert Dr Salunkhe to track down the perpetrators who have committed heinous crimes, using every small clue they can find.",
-"type":"series",
-"cast":"Aditya Srivastava,Shivaji Satham,Dayanand Shetty,Narendra Gupta,Ansha Sayed"
 },
 {
 "title":"The Great Indian Kapil Show [Season 3] [Episode 7] WEB-DL [Hindi] | All Episodes",
@@ -552,19 +595,6 @@ const movies = [
 "description":"Dark Comdey Suspense Thriller",
 "type":"movie",
 "cast":"Diganth Manchale,Dhanu Harsha,Nidhi Subbaiah,Nirup Bhandari,Radhika Narayan"
-},
-{
-"title":"Head Over Heels [Season 1] [Episode 6] WEB-DL [Hindi-English] | All Episodes",
-"im":"ijDyO36wQhMYPd04XKXB73eyAbS",
-"bgi":"bHkrRtB4OtUAPOJAiTgNkZVfpIK",
-"dl":"https://s.pptons.com/2025/07/head-over-heels.html",
-"year":"2025",
-"duration":"1h per episode",
-"rating":"8.6",
-"genre":"Sci-Fi & Fantasy,Drama",
-"description":"A teenage shaman determined to change fate sets out to save a mysterious boy destined to die. As danger looms, their fated encounter sparks a powerful...",
-"type":"series",
-"cast":"Cho Yi-hyun,Choo Young-woo,Cha Kang-yoon,Choo Ja-hyun,Kim Mi-kyeong"
 },
 {
 "title":"Gaalipata 2 [2022] WEB-DL [Hindi-Kannada] | Full Movie",

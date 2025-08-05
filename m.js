@@ -4,6 +4,20 @@ const movies = [
 
 
 {
+"title":"Jurassic World Rebirth [2025] WEB-DL [Hindi LiNE-English] | Full Movie",
+"im":"khohu1IKmgGNvETjEaxZaWBw4fr",
+"bgi":"peAzdLKtT6VDWIfPQO9LJD1NCG4",
+"dl":"https://pixeldrain.dev/api/file/jRm1L3Hu?download",
+"dl2":"https://hubcloud.one/drive/yxiqrxysqa4mlxa",
+"year":"2025",
+"duration":"2h 14m",
+"rating":"6.5",
+"genre":"Science Fiction,Adventure,Action",
+"description":"Five years after the events of Jurassic World Dominion, covert operations expert Zora Bennett is contracted to lead a skilled team on a top-secret mis...",
+"type":"movie",
+"cast":"Scarlett Johansson,Jonathan Bailey,Mahershala Ali,Rupert Friend,Manuel Garcia-Rulfo"
+},
+{
 "title":"Vanangaan [2025] WEB-DL [Hindi-Tamil] | Full Movie",
 "im":"3L7lr67HqidLP3SYsLmFq3JZ8lR",
 "bgi":"fNangVrqpIWfupWdfSgTRytA1EI",
@@ -72,6 +86,76 @@ const movies = [
 "description":"Short-tempered musician Krish is paired with a no-nonsense lyricist in Vaani, for the music company to work together. The sparks fly and Krish and Vaa...",
 "type":"movie",
 "cast":"Ahaan Panday,Aneet Padda,Varun Badola,Alam Khan,Geeta Agrawal Sharma"
+},
+{
+"title":"Parandhu Po [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"qSqE21BUSQK0jOZfzZB9yt6SIeM",
+"bgi":"zgurzPJyeXN6AGi8ss2RPWLKSw8",
+"dl":"https://hubcloud.one/drive/d2qie2ngsgg1un1",
+"dl2":"https://pixeldrain.dev/api/file/eWXjDFRS?download",
+"year":"2025",
+"duration":"2h 10m",
+"rating":"7.0",
+"genre":"Music,Comedy,Drama",
+"description":"Gokul's financial reach far exceeds his reality, but juggling unpayable loans and dodging debt collectors, he tries his best to provide for his pamp...",
+"type":"movie",
+"cast":"Shiva,Grace Antony,Mitul Ryan M,Anjali,Vijay Yesudas"
+},
+{
+"title":"28 Years Later [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"mIg1qCkVxnAlM2TK3RUF0tdEXlE",
+"bgi":"6WqqEjiycNvDLjbEClM1zCwIbDD",
+"dl":"https://pixeldrain.dev/api/file/tGZdzkPL?download",
+"dl2":"https://hubcloud.one/drive/ztyipzta3p1spvi",
+"year":"2025",
+"duration":"1h 55m",
+"rating":"7.1",
+"genre":"Horror,Thriller,Science Fiction",
+"description":"Twenty-eight years since the rage virus escaped a biological weapons laboratory, now, still in a ruthlessly enforced quarantine, some have found ways ...",
+"type":"movie",
+"cast":"Jodie Comer,Aaron Taylor-Johnson,Alfie Williams,Ralph Fiennes,Edvin Ryding"
+},
+{
+"title":"Detective Ujjwalan [2025] WEB-DL [Hindi HQ DUB] | Full Movie",
+"im":"rVCNbMW2bmbPE2XaUMUsnA9YgAh",
+"bgi":"6jsyu5qmBxqdmlG2RCRizrczdMc",
+"dl":"https://pixeldrain.dev/api/file/cBARxCFP?download",
+"dl2":"https://hubcloud.one/drive/312d31tkzahkq3s",
+"year":"2025",
+"duration":"2h 4m",
+"rating":"7.3",
+"genre":"Mystery,Crime",
+"description":"In the village of Plaachikkaavu, a local detective, Ujjwalan, must outsmart a mysterious figure in a deadly battle of wits, where his skills are put t...",
+"type":"movie",
+"cast":"Dhyan Sreenivasan,Siju Wilson,Ameen,Nihal Nizam,Nibraz Noushad"
+},
+{
+"title":"A Stranger by the Hill [2024] WEB-DL [Hindi] | Full Movie",
+"im":"1DK8gt7H99ctCPKt57lyoDG5dpe",
+"bgi":"pnaImWrmaEa7xvRXgtiLbUJR8wL",
+"dl":"https://pixeldrain.dev/api/file/wNNGMSLf?download",
+"dl2":"https://hubcloud.one/drive/r6raiaypr8lh9fl",
+"year":"2024",
+"duration":"1h 40m",
+"rating":"6.1",
+"genre":"Thriller",
+"description":"Mahi, an NRI photographer visiting her late mother's beloved Manali, meets charming teacher Angad. After a passionate night together, she finds h...",
+"type":"movie",
+"cast":"Dishant Guliya, Purvi Mundada, Noora Tenzin"
+},
+{
+"title":"WWE SummerSlam 2025 - Sunday [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"1fQz1Tdop0TA4HIDTDeHCDZEBxP",
+"bgi":"c0oA9N3E6dg3GakMIkW5EodZeyk",
+"dl":"https://pixeldrain.dev/api/file/once8aSG?download",
+"dl2":"https://hubcloud.one/drive/oqh355p1otl3evj",
+"year":"2025",
+"duration":"3h 46m",
+"rating":"8.5",
+"genre":"Action",
+"description":"The 2025 SummerSlam, also promoted as SummerSlam: New Jersey, was a professional wrestling event produced by WWE. It was the 38th annual SummerSlam an...",
+"type":"movie",
+"cast":"John Cena,Cody Rhodes,Trinity Fatu,Masami Odate,Rhea Ripley"
 },
 {
 "title":"C.I.D. [Season 2] [Episode 65] WEB-DL [Hindi] | All Episodes",
@@ -484,20 +568,6 @@ const movies = [
 "description":"The story delves into the mystery of a bus accident that occurred 25 years ago, claiming the lives of all its passengers. In a shocking twist, the sam...",
 "type":"movie",
 "cast":"Rishi,Priyanka Kumar M,Vinod Kumar,Avinash,K.S. Sridhar"
-},
-{
-"title":"28 Years Later [2025] WEB-DL [Hindi LiNE-English] | Full Movie",
-"im":"mIg1qCkVxnAlM2TK3RUF0tdEXlE",
-"bgi":"6WqqEjiycNvDLjbEClM1zCwIbDD",
-"dl":"https://pixeldrain.dev/api/file/tGZdzkPL?download",
-"dl2":"https://hubcloud.one/drive/ztyipzta3p1spvi",
-"year":"2025",
-"duration":"1h 55m",
-"rating":"7.1",
-"genre":"Horror,Thriller,Science Fiction",
-"description":"Twenty-eight years since the rage virus escaped a biological weapons laboratory, now, still in a ruthlessly enforced quarantine, some have found ways ...",
-"type":"movie",
-"cast":"Jodie Comer,Aaron Taylor-Johnson,Alfie Williams,Ralph Fiennes,Edvin Ryding"
 },
 {
 "title":"WWE: Unreal [Season 1] WEB-DL [Hindi-English] | All Episodes",
@@ -1346,20 +1416,6 @@ const movies = [
 "description":"After a family tragedy, kung fu prodigy Li Fong is uprooted from his home in Beijing and forced to move to New York City with his mother. When a new f...",
 "type":"movie",
 "cast":"Jackie Chan,Ben Wang,Ralph Macchio,Joshua Jackson,Sadie Stanley"
-},
-{
-"title":"Jurassic World Rebirth [2025] V2 HQ-HDTC [Hindi-English] | Full Movie",
-"im":"khohu1IKmgGNvETjEaxZaWBw4fr",
-"bgi":"peAzdLKtT6VDWIfPQO9LJD1NCG4",
-"dl":"https://pixeldrain.dev/api/file/cMRgAijY?download",
-"dl2":"https://hubcloud.one/drive/hg1f1dha7wdzwwh",
-"year":"2025",
-"duration":"2h 14m",
-"rating":"6.5",
-"genre":"Science Fiction,Adventure,Action",
-"description":"Five years after the events of Jurassic World Dominion, covert operations expert Zora Bennett is contracted to lead a skilled team on a top-secret mis...",
-"type":"movie",
-"cast":"Scarlett Johansson,Jonathan Bailey,Mahershala Ali,Rupert Friend,Manuel Garcia-Rulfo"
 },
 {
 "title":"Narivetta [2025] WEB-DL [Hindi-Malayalam] | Full Movie",

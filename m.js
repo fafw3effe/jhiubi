@@ -101,6 +101,20 @@ const movies = [
 "cast":"Ahaan Panday,Aneet Padda,Varun Badola,Alam Khan,Geeta Agrawal Sharma"
 },
 {
+"title":"The Pickup [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"vFWvWhfAvij8UIngg2Vf6JV95Cr",
+"bgi":"xvP4WFn7TZvkCeZA4IhD6H9XjRa",
+"dl":"https://pixeldrain.dev/api/file/skB5D1b3?download",
+"dl2":"https://hubcloud.one/drive/dhtcywkdt6ctexz",
+"year":"2025",
+"duration":"1h 34m",
+"rating":"5.4",
+"genre":"Action,Comedy,Crime",
+"description":"A routine cash pickup takes a wild turn when mismatched armored truck drivers Russell and Travis are ambushed by ruthless criminals led by savvy maste...",
+"type":"movie",
+"cast":"Eddie Murphy,Pete Davidson,Keke Palmer,Eva Longoria,Marshawn Lynch"
+},
+{
 "title":"Materialists [2025] WEB-DL [Hindi-English] | Full Movie",
 "im":"eDo0pNruy0Qgj6BdTyHIR4cxHY8",
 "bgi":"lqwwGkwJHtz9QgKtz4zeY19YgDg",

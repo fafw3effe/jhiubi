@@ -88,6 +88,34 @@ const movies = [
 "cast":"Ahaan Panday,Aneet Padda,Varun Badola,Alam Khan,Geeta Agrawal Sharma"
 },
 {
+"title":"Materialists [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"eDo0pNruy0Qgj6BdTyHIR4cxHY8",
+"bgi":"lqwwGkwJHtz9QgKtz4zeY19YgDg",
+"dl":"https://pixeldrain.dev/api/file/QmidSory?download",
+"dl2":"https://hubcloud.one/drive/qomz4b3syzqmrny",
+"year":"2025",
+"duration":"1h 56m",
+"rating":"6.9",
+"genre":"Romance,Drama",
+"description":"A young, ambitious New York City matchmaker finds herself torn between the perfect match and her imperfect ex.",
+"type":"movie",
+"cast":"Dakota Johnson,Chris Evans,Pedro Pascal,Zoë Winters,Marin Ireland"
+},
+{
+"title":"Chal Mera Putt 4 [2025] HD-TC [Punjabi] | Full Movie",
+"im":"5PUOvQRXRFrj4HD6KQEYDhCcdVe",
+"bgi":"bgODMpvirXWPSCGulfMLMGBAfMc",
+"dl":"https://pixeldrain.dev/api/file/Na1n2j5T?download",
+"dl2":"https://hubcloud.one/drive/bvhnsqn1xisahby",
+"year":"2025",
+"duration":"2h 22m",
+"rating":"6.1",
+"genre":"Comedy,Drama",
+"description":"Living in the United Kingdom, a group of immigrant friends from different countries struggle to make ends meet while supporting their families back ho...",
+"type":"movie",
+"cast":"Amrinder Gill,Simi Chahal,Harvinder Dhariwal,Diya Jandu,Navdeep Monga"
+},
+{
 "title":"Parandhu Po [2025] WEB-DL [Hindi-English] | Full Movie",
 "im":"qSqE21BUSQK0jOZfzZB9yt6SIeM",
 "bgi":"zgurzPJyeXN6AGi8ss2RPWLKSw8",
@@ -945,20 +973,6 @@ const movies = [
 "description":"Follow the launch of Lamborghini’s career as a manufacturer of tractors, a creator of military vehicles during World War II, and the designer of Lam...",
 "type":"movie",
 "cast":"Frank Grillo,Romano Reggiani,Gabriel Byrne,Matteo Leoni,Hannah van der Westhuysen"
-},
-{
-"title":"Materialists [2025] WEB-DL [Hindi-English] | Full Movie",
-"im":"eDo0pNruy0Qgj6BdTyHIR4cxHY8",
-"bgi":"lqwwGkwJHtz9QgKtz4zeY19YgDg",
-"dl":"https://pixeldrain.dev/api/file/3Da7oTLr?download",
-"dl2":"https://hubcloud.one/drive/oexw1x1qxreo4qo",
-"year":"2025",
-"duration":"1h 56m",
-"rating":"6.9",
-"genre":"Romance,Drama",
-"description":"A young, ambitious New York City matchmaker finds herself torn between the perfect match and her imperfect ex.",
-"type":"movie",
-"cast":"Dakota Johnson,Chris Evans,Pedro Pascal,Zoë Winters,Marin Ireland"
 },
 {
 "title":"Ronth [2025] WEB-DL [Hindi-Malayalam] | Full Movie",

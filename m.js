@@ -3,6 +3,21 @@ const movies = [
 
 
 
+
+{
+"title":"Wednesday [Season 1-2] WEB-DL [Hindi-English] | All Episodes",
+"im":"kKwy8QiXyQocbDj4haUG0uD1SbF",
+"bgi":"iHSwvRVsRyxpX7FE7GbviaDvgGZ",
+"dl":"https://s.pptons.com/2025/05/wednesday.html",
+"dl2":"https://s.pptons.com/2025/05/wednesday.html",
+"year":"2022",
+"duration":"1h per episode",
+"rating":"8.4",
+"genre":"Sci-Fi & Fantasy,Mystery,Comedy",
+"description":"Wednesday Addams is sent to Nevermore Academy, a bizarre boarding school where she attempts to master her psychic powers, stop a monstrous killing spr...",
+"type":"series",
+"cast":"Jenna Ortega,Emma Myers,Joy Sunday,Hunter Doohan,Moosa Mostafa"
+},
 {
 "title":"Jurassic World Rebirth [2025] WEB-DL [Hindi LiNE-English] | Full Movie",
 "im":"khohu1IKmgGNvETjEaxZaWBw4fr",

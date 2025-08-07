@@ -2,6 +2,62 @@
 const movies = [
 
 
+
+{
+"title":"Jurassic World Rebirth [2025] WEB-DL [Hindi LiNE-English] | Full Movie",
+"im":"khohu1IKmgGNvETjEaxZaWBw4fr",
+"bgi":"peAzdLKtT6VDWIfPQO9LJD1NCG4",
+"dl":"https://pixeldrain.dev/api/file/1r6c4t4J?download",
+"dl2":"https://hubcloud.one/drive/88bgl8ivuuqtb1d",
+"year":"2025",
+"duration":"2h 14m",
+"rating":"6.5",
+"genre":"Science Fiction,Adventure,Action",
+"description":"Five years after the events of Jurassic World Dominion, covert operations expert Zora Bennett is contracted to lead a skilled team on a top-secret mis...",
+"type":"movie",
+"cast":"Scarlett Johansson,Jonathan Bailey,Mahershala Ali,Rupert Friend,Manuel Garcia-Rulfo"
+},
+{
+"title":"Love Hurts [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"skPPVeHoTTVVSJlb0Ib5vrqiuA4",
+"bgi":"aGgr2Q07AcyiWPGODoofgZDUEHp",
+"dl":"https://pixeldrain.dev/api/file/v5DGNk3f?download",
+"dl2":"https://hubcloud.one/drive/l1gj1wwjast5jag",
+"year":"2025",
+"duration":"1h 23m",
+"rating":"5.9",
+"genre":"Action,Comedy,Romance",
+"description":"A realtor is pulled back into the life he left behind after his former partner-in-crime resurfaces with an ominous message. With his crime-lord brothe...",
+"type":"movie",
+"cast":"Ke Huy Quan,Ariana DeBose,Daniel Wu,Mustafa Shakir,Lio Tipton"
+},
+{
+"title":"Mayasabha [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"ddhOEoAqefgzcxlx5hIvkFpF9cw",
+"bgi":"nofMFwwxPMkv76NqrbvoAVwiH4J",
+"dl":"https://s.pptons.com/2025/08/mayasabha.html",
+"dl2":"https://s.pptons.com/2025/08/mayasabha.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"0.0",
+"genre":"War & Politics,Drama",
+"description":"Two rival politicians from different backgrounds rise through Andhra Pradesh's power structure in the 1970s-80s. KKN and MSR navigate caste polit...",
+"type":"series",
+"cast":"Aadhi Pinisetty,Chaitanya Rao,Sai Kumar,Divya Dutta"
+},
+{
+"title":"Countdown [Season 1] [Episode 9] WEB-DL [Hindi-English] | All Episodes",
+"im":"gcSNS5cy1iOmYawIdJCzoc873rQ",
+"bgi":"1GMyouDLET9zjA4ZCPpzvLBkY1B",
+"dl":"https://s.pptons.com/2025/06/countdown.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"6.9",
+"genre":"Drama,Crime,Mystery",
+"description":"When an officer with the Department of Homeland Security is murdered in broad daylight, LAPD detective Mark Meachum is recruited to a secret task forc...",
+"type":"series",
+"cast":"Jensen Ackles,Jessica Camacho,Eric Dane,Violett Beane,Uli Latukefu"
+},
 {
 "title":"Wednesday [Season 1-2] WEB-DL [Hindi-English] | All Episodes",
 "im":"kKwy8QiXyQocbDj4haUG0uD1SbF",
@@ -15,20 +71,6 @@ const movies = [
 "description":"Wednesday Addams is sent to Nevermore Academy, a bizarre boarding school where she attempts to master her psychic powers, stop a monstrous killing spr...",
 "type":"series",
 "cast":"Jenna Ortega,Emma Myers,Joy Sunday,Hunter Doohan,Moosa Mostafa"
-},
-{
-"title":"Jurassic World Rebirth [2025] WEB-DL [Hindi LiNE-English] | Full Movie",
-"im":"khohu1IKmgGNvETjEaxZaWBw4fr",
-"bgi":"peAzdLKtT6VDWIfPQO9LJD1NCG4",
-"dl":"https://pixeldrain.dev/api/file/jRm1L3Hu?download",
-"dl2":"https://hubcloud.one/drive/yxiqrxysqa4mlxa",
-"year":"2025",
-"duration":"2h 14m",
-"rating":"6.5",
-"genre":"Science Fiction,Adventure,Action",
-"description":"Five years after the events of Jurassic World Dominion, covert operations expert Zora Bennett is contracted to lead a skilled team on a top-secret mis...",
-"type":"movie",
-"cast":"Scarlett Johansson,Jonathan Bailey,Mahershala Ali,Rupert Friend,Manuel Garcia-Rulfo"
 },
 {
 "title":"Vanangaan [2025] WEB-DL [Hindi-Tamil] | Full Movie",
@@ -487,19 +529,6 @@ const movies = [
 "description":"After years of imprisonment, Morpheus — the King of Dreams — embarks on a journey across worlds to find what was stolen from him and restore his p...",
 "type":"series",
 "cast":"Tom Sturridge,Vivienne Acheampong,Patton Oswalt,Boyd Holbrook,Mason Alexander Park"
-},
-{
-"title":"Countdown [Season 1] [Episode 8] WEB-DL [Hindi-English] | All Episodes",
-"im":"gcSNS5cy1iOmYawIdJCzoc873rQ",
-"bgi":"1GMyouDLET9zjA4ZCPpzvLBkY1B",
-"dl":"https://s.pptons.com/2025/06/countdown.html",
-"year":"2025",
-"duration":"1h per episode",
-"rating":"6.9",
-"genre":"Drama,Crime,Mystery",
-"description":"When an officer with the Department of Homeland Security is murdered in broad daylight, LAPD detective Mark Meachum is recruited to a secret task forc...",
-"type":"series",
-"cast":"Jensen Ackles,Jessica Camacho,Eric Dane,Violett Beane,Uli Latukefu"
 },
 {
 "title":"Unspeakable Sins [Season 1] WEB-DL [Hindi-English] | All Episodes",

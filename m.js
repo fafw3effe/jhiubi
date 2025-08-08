@@ -47,7 +47,20 @@ const movies = [
 "type":"movie",
 "cast":"Ahaan Panday,Aneet Padda,Varun Badola,Alam Khan,Geeta Agrawal Sharma"
 },
-
+{
+"title":"Chief of War [Season 1] [Episode 3] WEB-DL [English] | All Episodes",
+"im":"8Mckh3qJRTzXTQNZtpb133RHmO4",
+"bgi":"mwVrLbaue8AqjFtF6lY6aakTtfb",
+"dl":"https://s.pptons.com/2025/08/chief-of-war.html",
+"dl2":"https://s.pptons.com/2025/08/chief-of-war.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"6.8",
+"genre":"Drama",
+"description":"With Hawaii's four kingdoms divided by war, the ferocious warrior Ka'iana embarks on an epic mission to unite his people—as an existential thr...",
+"type":"series",
+"cast":"Jason Momoa,Luciane Buchanan,Temuera Morrison,Te Ao o Hinepehinga,Cliff Curtis"
+},
 {
 "title":"Bindiya Ke Bahubali [Season 1] WEB-DL [Hindi] | All Episodes",
 "im":"eSJGKRff52Pg2SfOiIdC4IlMMQR",
@@ -519,20 +532,6 @@ const movies = [
 "description":"An ambitious American fulfilling her dream of studying at Oxford falls for a charming Brit hiding a secret that may upend her perfectly planned life.",
 "type":"movie",
 "cast":"Sofia Carson,Corey Mylchreest,Dougray Scott,Catherine McCormack,Harry Trevaldwyn"
-},
-{
-"title":"Chief of War [Season 1] WEB-DL [English] | All Episodes",
-"im":"8Mckh3qJRTzXTQNZtpb133RHmO4",
-"bgi":"mwVrLbaue8AqjFtF6lY6aakTtfb",
-"dl":"https://s.pptons.com/2025/08/chief-of-war.html",
-"dl2":"https://s.pptons.com/2025/08/chief-of-war.html",
-"year":"2025",
-"duration":"1h per episode",
-"rating":"6.8",
-"genre":"Drama",
-"description":"With Hawaii's four kingdoms divided by war, the ferocious warrior Ka'iana embarks on an epic mission to unite his people—as an existential thr...",
-"type":"series",
-"cast":"Jason Momoa,Luciane Buchanan,Temuera Morrison,Te Ao o Hinepehinga,Cliff Curtis"
 },
 {
 "title":"The 47 [2024] WEB-DL [Hindi-Spanish] | Full Movie",

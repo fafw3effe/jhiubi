@@ -3,6 +3,22 @@ const movies = [
 
 
 
+
+
+{
+"title":"Wednesday [Season 1-2] WEB-DL [Hindi-English] | All Episodes",
+"im":"kKwy8QiXyQocbDj4haUG0uD1SbF",
+"bgi":"iHSwvRVsRyxpX7FE7GbviaDvgGZ",
+"dl":"https://s.pptons.com/2025/05/wednesday.html",
+"dl2":"https://s.pptons.com/2025/05/wednesday.html",
+"year":"2022",
+"duration":"1h per episode",
+"rating":"8.4",
+"genre":"Sci-Fi & Fantasy,Mystery,Comedy",
+"description":"Wednesday Addams is sent to Nevermore Academy, a bizarre boarding school where she attempts to master her psychic powers, stop a monstrous killing spr...",
+"type":"series",
+"cast":"Jenna Ortega,Emma Myers,Joy Sunday,Hunter Doohan,Moosa Mostafa"
+},
 {
 "title":"Jurassic World Rebirth [2025] WEB-DL [Hindi LiNE-English] | Full Movie",
 "im":"khohu1IKmgGNvETjEaxZaWBw4fr",
@@ -16,6 +32,119 @@ const movies = [
 "description":"Five years after the events of Jurassic World Dominion, covert operations expert Zora Bennett is contracted to lead a skilled team on a top-secret mis...",
 "type":"movie",
 "cast":"Scarlett Johansson,Jonathan Bailey,Mahershala Ali,Rupert Friend,Manuel Garcia-Rulfo"
+},
+{
+"title":"Saiyaara [2025] HD-TC [Hindi] | Full Movie",
+"im":"hQBIsi3ZfBYEayMc3GhcEmJVkss",
+"bgi":"8aNNz9WYmxhnBxzWTt0nRI4F7rx",
+"dl":"https://pixeldrain.dev/api/file/piDhiTWE?download",
+"dl2":"https://hubcloud.one/drive/fwwpcrn1ep9bc1n",
+"year":"2025",
+"duration":"2h 36m",
+"rating":"6.3",
+"genre":"Romance,Drama",
+"description":"Short-tempered musician Krish is paired with a no-nonsense lyricist in Vaani, for the music company to work together. The sparks fly and Krish and Vaa...",
+"type":"movie",
+"cast":"Ahaan Panday,Aneet Padda,Varun Badola,Alam Khan,Geeta Agrawal Sharma"
+},
+
+{
+"title":"Bindiya Ke Bahubali [Season 1] WEB-DL [Hindi] | All Episodes",
+"im":"eSJGKRff52Pg2SfOiIdC4IlMMQR",
+"bgi":"GH306nU2JUgOWOu1vaf9Mjpssl",
+"dl":"https://s.pptons.com/2025/08/bindiya-ke-bahubali.html",
+"dl2":"https://s.pptons.com/2025/08/bindiya-ke-bahubali.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"6.0",
+"genre":"Comedy",
+"description":"A mafia don's arrest during his political campaign sparks a power struggle between his son, uncle, and rival gangs, while a determined police off...",
+"type":"series",
+"cast":"Sai Tamhankar,Saurabh Shukla,Sheeba Chaddha,Ranvir Shorey,Sushant Singh"
+},
+{
+"title":"Arabia Kadali [Season 1] WEB-DL [Hindi-Telugu] | All Episodes",
+"im":"rnhz1O9OlQL7Qrj62guLkXulhrZ",
+"bgi":"zCBDsNODV5VVtDMjGrAcW97FluZ",
+"dl":"https://s.pptons.com/2025/08/arabia-kadali.html",
+"dl2":"https://s.pptons.com/2025/08/arabia-kadali.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"9.0",
+"genre":"Drama",
+"description":"A fictional suspense drama series that revolves around a group of fishermen from rival villages who inadvertently trespass into international waters a...",
+"type":"series",
+"cast":"Satyadev Kancharana,Anandhi,Harsh Roshan,Vamsi Krishna,Chintakindi Srinivas Rao"
+},
+{
+"title":"A Mother's Special Love [2024] WEB-DL [Hindi-French] | Full Movie",
+"im":"4MPZenW0I0AexBbil8das6kupIW",
+"bgi":"guztFZCZ90v5x1DJT8XhSLO0xuT",
+"dl":"https://pixeldrain.dev/api/file/sREMYNX3?download",
+"dl2":"https://hubcloud.one/drive/6g2yxyt7t2ydtqr",
+"year":"2024",
+"duration":"1h 32m",
+"rating":"6.5",
+"genre":"Comedy,Drama",
+"description":"A single mother's struggle to raise a child diagnosed with autism.",
+"type":"movie",
+"cast":"Audrey Lamy,Nicolas Chupin,Benjamin Tranié,Naidra Ayadi,Jean-Charles Clichet"
+},
+{
+"title":"Oho Enthan Baby [2025] WEB-DL [Hindi-Tamil] | Full Movie",
+"im":"ffnBY54B4Etmu0UCpMXiJNNTlRV",
+"bgi":"avf83LbIvRCVxTJjjpdyDwBZxB9",
+"dl":"https://pixeldrain.dev/api/file/53TeMTdG?download",
+"dl2":"https://hubcloud.one/drive/7lnueu1ugq1lqnu",
+"year":"2025",
+"duration":"2h 9m",
+"rating":"7.0",
+"genre":"Romance",
+"description":"Ashwin goes to actor Vishnu Vishal's office to pitch a script and ends up narrating his love story. What the actor thinks to be an interval is Ashwi...",
+"type":"movie",
+"cast":"Rudra,Vishnu Vishal,Mithila Palkar,Anju Kurian,Vaibhavi Tandle"
+},
+{
+"title":"Pretty Thing [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"xWVbtqUvuhAOYzkZV6YDQOnN5fQ",
+"bgi":"mqKClgkLyxtmJWkh4gbUp1I6KXl",
+"dl":"https://pixeldrain.dev/api/file/FeiamRT6?download",
+"dl2":"https://hubcloud.one/drive/ntzw7neatpwwqfb",
+"year":"2025",
+"duration":"1h 36m",
+"rating":"6.3",
+"genre":"Drama,Thriller",
+"description":"A successful executive fights back when a scorned young lover takes his obsession too far.",
+"type":"movie",
+"cast":"Karl Glusman,Alicia Silverstone,Catherine Curtin,Sergi Martos,Britne Oldford"
+},
+{
+"title":"Baida [2025] WEB-DL [Hindi] | Full Movie",
+"im":"op8Edzg2xHeGiprxJDFUt1OdJfh",
+"bgi":"gSmoqHhKrvYqgsmC4vLSVIW27cW",
+"dl":"https://pixeldrain.dev/api/file/VSAesdHD?download",
+"dl2":"https://hubcloud.one/drive/tchop7xpvdltrvd",
+"year":"2025",
+"duration":"1h 49m",
+"rating":"3.0",
+"genre":"Adventure,Science Fiction,Thriller",
+"description":"A former spy gets entrapped into the dark world of a man who has defied the cycle of time and death, bearing sinister abilities",
+"type":"movie",
+"cast":"Tarun Khanna,Hiten Tejwani,Saurabh Raj Jain,Kahanikaar Sudhanshu Rai,Siddhartha Banerjee"
+},
+{
+"title":"Son of Manjeet Singh [2018] WEB-DL [Punjabi] | Full Movie",
+"im":"pjH1hOjHtgzpFjkpT119BIXspLe",
+"bgi":"gFSlZTizb3HUwzmII1sFqLJHJDD",
+"dl":"https://pixeldrain.dev/api/file/jGpne9HM?download",
+"dl2":"https://hubcloud.one/drive/ckk3ij13xqxp1po",
+"year":"2018",
+"duration":"2h 19m",
+"rating":"9.0",
+"genre":"Comedy",
+"description":"A single father pushes his cricket-obsessed son to buckle down and focus on his education.",
+"type":"movie",
+"cast":"Gurpreet Ghuggi,Japji Khaira,Damanpreet Singh,Karamjit Anmol,B.N. Sharma"
 },
 {
 "title":"Love Hurts [2025] WEB-DL [Hindi-English] | Full Movie",
@@ -57,20 +186,6 @@ const movies = [
 "description":"When an officer with the Department of Homeland Security is murdered in broad daylight, LAPD detective Mark Meachum is recruited to a secret task forc...",
 "type":"series",
 "cast":"Jensen Ackles,Jessica Camacho,Eric Dane,Violett Beane,Uli Latukefu"
-},
-{
-"title":"Wednesday [Season 1-2] WEB-DL [Hindi-English] | All Episodes",
-"im":"kKwy8QiXyQocbDj4haUG0uD1SbF",
-"bgi":"iHSwvRVsRyxpX7FE7GbviaDvgGZ",
-"dl":"https://s.pptons.com/2025/05/wednesday.html",
-"dl2":"https://s.pptons.com/2025/05/wednesday.html",
-"year":"2022",
-"duration":"1h per episode",
-"rating":"8.4",
-"genre":"Sci-Fi & Fantasy,Mystery,Comedy",
-"description":"Wednesday Addams is sent to Nevermore Academy, a bizarre boarding school where she attempts to master her psychic powers, stop a monstrous killing spr...",
-"type":"series",
-"cast":"Jenna Ortega,Emma Myers,Joy Sunday,Hunter Doohan,Moosa Mostafa"
 },
 {
 "title":"Vanangaan [2025] WEB-DL [Hindi-Tamil] | Full Movie",
@@ -127,20 +242,6 @@ const movies = [
 "description":"Soori, a modest police constable, is unintentionally dragged into a dangerous undercover spy operation in Sri Lanka for the Indian government . His jo...",
 "type":"movie",
 "cast":"Vijay Deverakonda,Bhagyashri Borse,Satyadev Kancharana,Venkitesh V P,Ronit Kamra"
-},
-{
-"title":"Saiyaara [2025] HD-TC [Hindi] | Full Movie",
-"im":"hQBIsi3ZfBYEayMc3GhcEmJVkss",
-"bgi":"8aNNz9WYmxhnBxzWTt0nRI4F7rx",
-"dl":"https://pixeldrain.dev/api/file/piDhiTWE?download",
-"dl2":"https://hubcloud.one/drive/fwwpcrn1ep9bc1n",
-"year":"2025",
-"duration":"2h 36m",
-"rating":"6.3",
-"genre":"Romance,Drama",
-"description":"Short-tempered musician Krish is paired with a no-nonsense lyricist in Vaani, for the music company to work together. The sparks fly and Krish and Vaa...",
-"type":"movie",
-"cast":"Ahaan Panday,Aneet Padda,Varun Badola,Alam Khan,Geeta Agrawal Sharma"
 },
 {
 "title":"The Pickup [2025] WEB-DL [Hindi-English] | Full Movie",

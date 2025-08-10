@@ -48,6 +48,61 @@ const movies = [
 "cast":"Ahaan Panday,Aneet Padda,Varun Badola,Alam Khan,Geeta Agrawal Sharma"
 },
 {
+"title":"Beyond the Bar [Season 1] [Episode 4] WEB-DL [Hindi-English] | All Episodes",
+"im":"nN6mZZxJBPZXBjLxnjgpnoRvswk",
+"bgi":"8kXhTZX7f92Y4cUICB8jSYoTvKY",
+"dl":"https://s.pptons.com/2025/08/beyond-bar.html",
+"dl2":"https://s.pptons.com/2025/08/beyond-bar.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"7.0",
+"genre":"Drama",
+"description":"A young, rookie lawyer with a strong sense of justice joins a top law firm — navigating the complex legal world under a cold, demanding mentor.",
+"type":"series",
+"cast":"Lee Jin-uk,Jung Chae-yeon,Jeon Hye-bin,Lee Hak-ju,Kang Sang-jun"
+},
+{
+"title":"Weapons [2025] HD-TC [English] | Full Movie",
+"im":"cpf7vsRZ0MYRQcnLWteD5jK9ymT",
+"bgi":"kyqM6padQzZ1eYxv84i9smNvZAG",
+"dl":"https://pixeldrain.dev/api/file/48uyWddM?download",
+"dl2":"https://hubcloud.one/drive/8c4qygpyp8kcpkp",
+"year":"2025",
+"duration":"2h 9m",
+"rating":"7.8",
+"genre":"Horror,Mystery",
+"description":"When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what...",
+"type":"movie",
+"cast":"Josh Brolin,Julia Garner,Alden Ehrenreich,Austin Abrams,Cary Christopher"
+},
+{
+"title":"C.I.D. [Season 2] [Episode 67] WEB-DL [Hindi] | All Episodes",
+"im":"60ZxbAMk6QO8jMD0p8WrGHVCbyK",
+"dl":"https://s.pptons.com/2025/06/cid.html",
+"bgi":"1gZrOa2E9DOohEvSLLBJqus2zGu",
+"year":"2024",
+"duration":"1h per episode",
+"rating":"7.0",
+"genre":"Action,Adventure,Crime,Drama,Mystery,",
+"description":"India's favourite crime thriller show is back! Abhijeet, Daya and other CID officers, led by ACP Pradyuman, join forces with forensic expert Dr Salunkhe to track down the perpetrators who have committed heinous crimes, using every small clue they can find.",
+"type":"series",
+"cast":"Aditya Srivastava,Shivaji Satham,Dayanand Shetty,Narendra Gupta,Ansha Sayed"
+},
+{
+"title":"Maa Nanna Superhero [2024] WEB-DL [Hindi-Telugu] | Full Movie",
+"im":"4qmZCDBJwT6UDjCatzzpTFOR4Jy",
+"bgi":"Aup9YSKFyVtDSu0qlf81xGe1htP",
+"dl":"https://pixeldrain.dev/api/file/JCrkJqTh?download",
+"dl2":"https://hubcloud.one/drive/zlyxtnt4q1vxzz1",
+"year":"2024",
+"duration":"2h 4m",
+"rating":"7.0",
+"genre":"Drama",
+"description":"Johnny, a car mechanic,  who grew up thinking of his adopted father Srinivas as a superhero,  prepared to go to any length to save his father, unknowi...",
+"type":"movie",
+"cast":"Sudheer Babu,Sai Chand,Sayaji Shinde,Annie,Aarna Vohra"
+},
+{
 "title":"The Great Indian Kapil Show [Season 3] [Episode 8] WEB-DL [Hindi] | All Episodes",
 "im":"6LWtSm2VHfenFBMvmjG9GYgfvSd",
 "bgi":"lPVM7LR0ydKVj2qzdsVgi1akjom",
@@ -480,19 +535,6 @@ const movies = [
 "cast":"John Cena,Cody Rhodes,Trinity Fatu,Masami Odate,Rhea Ripley"
 },
 {
-"title":"C.I.D. [Season 2] [Episode 65] WEB-DL [Hindi] | All Episodes",
-"im":"60ZxbAMk6QO8jMD0p8WrGHVCbyK",
-"dl":"https://s.pptons.com/2025/06/cid.html",
-"bgi":"1gZrOa2E9DOohEvSLLBJqus2zGu",
-"year":"2024",
-"duration":"1h per episode",
-"rating":"7.0",
-"genre":"Action,Adventure,Crime,Drama,Mystery,",
-"description":"India's favourite crime thriller show is back! Abhijeet, Daya and other CID officers, led by ACP Pradyuman, join forces with forensic expert Dr Salunkhe to track down the perpetrators who have committed heinous crimes, using every small clue they can find.",
-"type":"series",
-"cast":"Aditya Srivastava,Shivaji Satham,Dayanand Shetty,Narendra Gupta,Ansha Sayed"
-},
-{
 "title":"Head Over Heels [Season 1] [Episode 8] WEB-DL [Hindi-English] | All Episodes",
 "im":"ijDyO36wQhMYPd04XKXB73eyAbS",
 "bgi":"bHkrRtB4OtUAPOJAiTgNkZVfpIK",
@@ -532,20 +574,6 @@ const movies = [
 "description":"Sundaramoorthy, a timid lawyer, takes on the case of a man who sets himself on fire outside the court to protest his daughter's abduction. Can Su...",
 "type":"series",
 "cast":"Saravanan,MV Namritha,Arul D. Shankar,Iniya ram,Thiruselvam"
-},
-{
-"title":"Beyond the Bar [Season 1] WEB-DL [Hindi-English] | All Episodes",
-"im":"nN6mZZxJBPZXBjLxnjgpnoRvswk",
-"bgi":"8kXhTZX7f92Y4cUICB8jSYoTvKY",
-"dl":"https://s.pptons.com/2025/08/beyond-bar.html",
-"dl2":"https://s.pptons.com/2025/08/beyond-bar.html",
-"year":"2025",
-"duration":"1h per episode",
-"rating":"5.0",
-"genre":"Drama",
-"description":"A young, rookie lawyer with a strong sense of justice joins a top law firm — navigating the complex legal world under a cold, demanding mentor.",
-"type":"series",
-"cast":"Lee Jin-uk,Jung Chae-yeon,Jeon Hye-bin,Lee Hak-ju,Kang Sang-jun"
 },
 {
 "title":"Maalik [2025] WEB-DL [Hindi] | Full Movie",
@@ -2648,19 +2676,6 @@ const movies = [
 "description":"Paru Parvathy is a Kannada road movie about a solo traveler named Payal. The film explores themes of self-discovery, relationships, and emotions. It w...",
 "type":"movie",
 "cast":"Poonam A. Sirnaik,Fawaz Ashraff,Deepika Das"
-},
-{
-"title":"C.I.D. [Season 2] [Episode 48] WEB-DL [Hindi]",
-"im":"60ZxbAMk6QO8jMD0p8WrGHVCbyK",
-"bgi":"1gZrOa2E9DOohEvSLLBJqus2zGu",
-"dl":"https://s.pptons.com/2025/06/cid.html",
-"year":"1998",
-"duration":"1h per episode",
-"rating":"5.9",
-"genre":"Action & Adventure,Crime,Drama,Mystery",
-"description":"The first thrilling investigative series on Indian Television, is today one of the most popular shows on Sony Entertainment Television. Dramatic and a...",
-"type":"series",
-"cast":"Aditya Srivastava,Shivaji Satham,Dayanand Shetty,Narendra Gupta,Ansha Sayed"
 },
 {
 "title":"Gajaana [2025] WEB-DL [Hindi] | Full Movie",

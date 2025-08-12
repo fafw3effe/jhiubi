@@ -48,6 +48,59 @@ const movies = [
 "cast":"Ahaan Panday,Aneet Padda,Varun Badola,Alam Khan,Geeta Agrawal Sharma"
 },
 {
+"title":"C.I.D. [Season 2] [Episode 68] WEB-DL [Hindi] | All Episodes",
+"im":"60ZxbAMk6QO8jMD0p8WrGHVCbyK",
+"dl":"https://s.pptons.com/2025/06/cid.html",
+"bgi":"1gZrOa2E9DOohEvSLLBJqus2zGu",
+"year":"2024",
+"duration":"1h per episode",
+"rating":"7.0",
+"genre":"Action,Adventure,Crime,Drama,Mystery,",
+"description":"India's favourite crime thriller show is back! Abhijeet, Daya and other CID officers, led by ACP Pradyuman, join forces with forensic expert Dr Salunkhe to track down the perpetrators who have committed heinous crimes, using every small clue they can find.",
+"type":"series",
+"cast":"Aditya Srivastava,Shivaji Satham,Dayanand Shetty,Narendra Gupta,Ansha Sayed"
+},
+{
+"title":"Head Over Heels [Season 1] [Episode 8] WEB-DL [Hindi-English] | All Episodes",
+"im":"ijDyO36wQhMYPd04XKXB73eyAbS",
+"bgi":"bHkrRtB4OtUAPOJAiTgNkZVfpIK",
+"dl":"https://s.pptons.com/2025/07/head-over-heels.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"8.6",
+"genre":"Sci-Fi & Fantasy,Drama",
+"description":"A teenage shaman determined to change fate sets out to save a mysterious boy destined to die. As danger looms, their fated encounter sparks a powerful...",
+"type":"series",
+"cast":"Cho Yi-hyun,Choo Young-woo,Cha Kang-yoon,Choo Ja-hyun,Kim Mi-kyeong"
+},
+{
+"title":"Court Kacheri [Season 1] WEB-DL [Hindi] | All Episodes",
+"im":"reP688CKyRruS8dM69bU4BmAkZD",
+"bgi":"oA0dhdgj924YVvlESuTkH4Yxl55",
+"dl":"https://s.pptons.com/2025/08/court-kacheri.html",
+"dl2":"https://s.pptons.com/2025/08/court-kacheri.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"0.0",
+"genre":"Comedy,Drama",
+"description":"A father-son relationship story with a coming-of-age legal drama infused with sharp wit, intense courtroom battles, and an exploration of...",
+"type":"series",
+"cast":"Ashish Verma,Pavan Malhotra,Anandeshwar Dwivedi,Puneet Batra"
+},
+{
+"title":"SAKAMOTO DAYS [Season 1] [Episode 16] WEB-DL [Hindi-English] | All Episodes",
+"im":"wRpCqsJFyKNuh5FMegNPrhzp2NF",
+"bgi":"blSthAPRbEOJBowdxppeQqNPRh9",
+"dl":"https://s.pptons.com/2025/07/blog-post_16.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"8.1",
+"genre":"Animation,Comedy,Action & Adventure",
+"description":"Once the greatest hitman of all, Taro Sakamoto retired in the name of love. But when his past catches up, he must fight to protect his beloved family.",
+"type":"series",
+"cast":"Tomokazu Sugita,Nobunaga Shimazaki,Ayane Sakura,Nao Toyama,Hina Kino"
+},
+{
 "title":"Beyond the Bar [Season 1] [Episode 4] WEB-DL [Hindi-English] | All Episodes",
 "im":"nN6mZZxJBPZXBjLxnjgpnoRvswk",
 "bgi":"8kXhTZX7f92Y4cUICB8jSYoTvKY",
@@ -74,19 +127,6 @@ const movies = [
 "description":"When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what...",
 "type":"movie",
 "cast":"Josh Brolin,Julia Garner,Alden Ehrenreich,Austin Abrams,Cary Christopher"
-},
-{
-"title":"C.I.D. [Season 2] [Episode 67] WEB-DL [Hindi] | All Episodes",
-"im":"60ZxbAMk6QO8jMD0p8WrGHVCbyK",
-"dl":"https://s.pptons.com/2025/06/cid.html",
-"bgi":"1gZrOa2E9DOohEvSLLBJqus2zGu",
-"year":"2024",
-"duration":"1h per episode",
-"rating":"7.0",
-"genre":"Action,Adventure,Crime,Drama,Mystery,",
-"description":"India's favourite crime thriller show is back! Abhijeet, Daya and other CID officers, led by ACP Pradyuman, join forces with forensic expert Dr Salunkhe to track down the perpetrators who have committed heinous crimes, using every small clue they can find.",
-"type":"series",
-"cast":"Aditya Srivastava,Shivaji Satham,Dayanand Shetty,Narendra Gupta,Ansha Sayed"
 },
 {
 "title":"Maa Nanna Superhero [2024] WEB-DL [Hindi-Telugu] | Full Movie",
@@ -535,19 +575,6 @@ const movies = [
 "cast":"John Cena,Cody Rhodes,Trinity Fatu,Masami Odate,Rhea Ripley"
 },
 {
-"title":"Head Over Heels [Season 1] [Episode 8] WEB-DL [Hindi-English] | All Episodes",
-"im":"ijDyO36wQhMYPd04XKXB73eyAbS",
-"bgi":"bHkrRtB4OtUAPOJAiTgNkZVfpIK",
-"dl":"https://s.pptons.com/2025/07/head-over-heels.html",
-"year":"2025",
-"duration":"1h per episode",
-"rating":"8.6",
-"genre":"Sci-Fi & Fantasy,Drama",
-"description":"A teenage shaman determined to change fate sets out to save a mysterious boy destined to die. As danger looms, their fated encounter sparks a powerful...",
-"type":"series",
-"cast":"Cho Yi-hyun,Choo Young-woo,Cha Kang-yoon,Choo Ja-hyun,Kim Mi-kyeong"
-},
-{
 "title":"Eyes of Wakanda [Season 1] WEB-DL [English] | All Episodes",
 "im":"yuOfb1MgnaGPa4guzV0n1IFYVGN",
 "bgi":"cWO5NDkKqpOuwxu4vFc4PtL8aNF",
@@ -920,19 +947,6 @@ const movies = [
 "description":"Show Time is a gripping thriller that explores how an accidental murder shatters the lives of a middle-class family. The story follows a seemingly ord...",
 "type":"movie",
 "cast":"Naveen Chandra,Kamakshi Bhaskarla,Raja Ravindra,Naresh"
-},
-{
-"title":"SAKAMOTO DAYS [Season 1] [Episode 14] WEB-DL [Hindi-English] | All Episodes",
-"im":"wRpCqsJFyKNuh5FMegNPrhzp2NF",
-"bgi":"blSthAPRbEOJBowdxppeQqNPRh9",
-"dl":"https://s.pptons.com/2025/07/blog-post_16.html",
-"year":"2025",
-"duration":"1h per episode",
-"rating":"8.1",
-"genre":"Animation,Comedy,Action & Adventure",
-"description":"Once the greatest hitman of all, Taro Sakamoto retired in the name of love. But when his past catches up, he must fight to protect his beloved family.",
-"type":"series",
-"cast":"Tomokazu Sugita,Nobunaga Shimazaki,Ayane Sakura,Nao Toyama,Hina Kino"
 },
 {
 "title":"Demon Slayer: Kimetsu no Yaiba Infinity Castle [2025] V2 HD-TC E-Sub [Japanese] | Full Movie",

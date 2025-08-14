@@ -19,6 +19,20 @@ const movies = [
 "cast":"N.T. Rama Rao Jr.,Hrithik Roshan,Kiara Advani,Ashutosh Rana,Anil Kapoor"
 },
 {
+"title":"Coolie [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"kr36awqmziEI5mfUElsHB0pj9zP",
+"bgi":"bLn0CPzrrqFLicjNTgrzaIyE0gZ",
+"dl":"",
+"dl2":"",
+"year":"2025",
+"duration":"2h 50m",
+"rating":"6.3",
+"genre":"Action,Thriller,Crime",
+"description":"A mysterious man takes a stand against a corrupt syndicate exploiting and abusing the workers of a port town.",
+"type":"movie",
+"cast":"Rajinikanth,Nagarjuna Akkineni,Soubin Shahir,Upendra,Sathyaraj"
+},
+{
 "title":"Countdown [Season 1] [Episode 10] WEB-DL [Hindi-English] | All Episodes",
 "im":"gcSNS5cy1iOmYawIdJCzoc873rQ",
 "bgi":"1GMyouDLET9zjA4ZCPpzvLBkY1B",

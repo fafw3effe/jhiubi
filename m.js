@@ -4,7 +4,20 @@ const movies = [
 
 
 
-
+{
+"title":"War 2 [2025] HD-TC [Hindi] | Full Movie",
+"im":"kD0TOH6EM1q7UfgugBXuMoZd3m5",
+"bgi":"bNwxRkm97oLUhSYXpSvQNyWJFmg",
+"dl":"https://pixeldrain.dev/api/file/8sHA2BdK?download",
+"dl2":"https://hubcloud.one/drive/c7jz7nzojhuiorz",
+"year":"2025",
+"duration":"2h 53m",
+"rating":"9.0",
+"genre":"Action,Adventure,Thriller",
+"description":"Years ago Agent Kabir went rogue, became India's greatest villain ever.  As he descends further into the deepest shadows... India sends its deadlies...",
+"type":"movie",
+"cast":"N.T. Rama Rao Jr.,Hrithik Roshan,Kiara Advani,Ashutosh Rana,Anil Kapoor"
+},
 {
 "title":"Wednesday [Season 1-2] WEB-DL [Hindi-English] | All Episodes",
 "im":"kKwy8QiXyQocbDj4haUG0uD1SbF",

@@ -19,11 +19,11 @@ const movies = [
 "cast":"N.T. Rama Rao Jr.,Hrithik Roshan,Kiara Advani,Ashutosh Rana,Anil Kapoor"
 },
 {
-"title":"Coolie [2025] WEB-DL [Hindi-English] | Full Movie",
+"title":"Coolie [2025] HD-TC [Hindi] | Full Movie",
 "im":"kr36awqmziEI5mfUElsHB0pj9zP",
 "bgi":"bLn0CPzrrqFLicjNTgrzaIyE0gZ",
-"dl":"",
-"dl2":"",
+"dl":"https://pixeldrain.dev/api/file/kVANGQys?download",
+"dl2":"https://hubcloud.one/drive/h8nkz02em4o44n4",
 "year":"2025",
 "duration":"2h 50m",
 "rating":"6.3",
@@ -31,6 +31,20 @@ const movies = [
 "description":"A mysterious man takes a stand against a corrupt syndicate exploiting and abusing the workers of a port town.",
 "type":"movie",
 "cast":"Rajinikanth,Nagarjuna Akkineni,Soubin Shahir,Upendra,Sathyaraj"
+},
+{
+"title":"Wednesday [Season 1-2] WEB-DL [Hindi-English] | All Episodes",
+"im":"kKwy8QiXyQocbDj4haUG0uD1SbF",
+"bgi":"iHSwvRVsRyxpX7FE7GbviaDvgGZ",
+"dl":"https://s.pptons.com/2025/05/wednesday.html",
+"dl2":"https://s.pptons.com/2025/05/wednesday.html",
+"year":"2022",
+"duration":"1h per episode",
+"rating":"8.4",
+"genre":"Sci-Fi & Fantasy,Mystery,Comedy",
+"description":"Wednesday Addams is sent to Nevermore Academy, a bizarre boarding school where she attempts to master her psychic powers, stop a monstrous killing spr...",
+"type":"series",
+"cast":"Jenna Ortega,Emma Myers,Joy Sunday,Hunter Doohan,Moosa Mostafa"
 },
 {
 "title":"Countdown [Season 1] [Episode 10] WEB-DL [Hindi-English] | All Episodes",
@@ -114,20 +128,6 @@ const movies = [
 "description":"After killing off all of humanity, Food attempts to create their own utopia.",
 "type":"series",
 "cast":"Seth Rogen,Kristen Wiig,Edward Norton,Michael Cera,Sam Richardson"
-},
-{
-"title":"Wednesday [Season 1-2] WEB-DL [Hindi-English] | All Episodes",
-"im":"kKwy8QiXyQocbDj4haUG0uD1SbF",
-"bgi":"iHSwvRVsRyxpX7FE7GbviaDvgGZ",
-"dl":"https://s.pptons.com/2025/05/wednesday.html",
-"dl2":"https://s.pptons.com/2025/05/wednesday.html",
-"year":"2022",
-"duration":"1h per episode",
-"rating":"8.4",
-"genre":"Sci-Fi & Fantasy,Mystery,Comedy",
-"description":"Wednesday Addams is sent to Nevermore Academy, a bizarre boarding school where she attempts to master her psychic powers, stop a monstrous killing spr...",
-"type":"series",
-"cast":"Jenna Ortega,Emma Myers,Joy Sunday,Hunter Doohan,Moosa Mostafa"
 },
 {
 "title":"Jurassic World Rebirth [2025] WEB-DL [Hindi LiNE-English] | Full Movie",

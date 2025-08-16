@@ -5,11 +5,11 @@ const movies = [
 
 
 {
-"title":"War 2 [2025] HD-TC [Hindi] | Full Movie",
+"title":"War 2 [2025] V2 HQ-HDTC [Hindi LiNE] | Full Movie",
 "im":"kD0TOH6EM1q7UfgugBXuMoZd3m5",
 "bgi":"bNwxRkm97oLUhSYXpSvQNyWJFmg",
-"dl":"https://pixeldrain.dev/api/file/8sHA2BdK?download",
-"dl2":"https://hubcloud.one/drive/c7jz7nzojhuiorz",
+"dl":"https://pixeldrain.dev/api/file/LKRmA87i?download",
+"dl2":"https://hubcloud.one/drive/t1thcmkvomtcv4c",
 "year":"2025",
 "duration":"2h 53m",
 "rating":"9.0",
@@ -22,8 +22,8 @@ const movies = [
 "title":"Coolie [2025] HD-TC [Hindi] | Full Movie",
 "im":"kr36awqmziEI5mfUElsHB0pj9zP",
 "bgi":"bLn0CPzrrqFLicjNTgrzaIyE0gZ",
-"dl":"https://pixeldrain.dev/api/file/kVANGQys?download",
-"dl2":"https://hubcloud.one/drive/h8nkz02em4o44n4",
+"dl":"https://pixeldrain.dev/api/file/GdrFQHSX?download",
+"dl2":"https://hubcloud.one/drive/wu0wtz1wttwm0kx",
 "year":"2025",
 "duration":"2h 50m",
 "rating":"6.3",
@@ -46,8 +46,118 @@ const movies = [
 "type":"series",
 "cast":"Jenna Ortega,Emma Myers,Joy Sunday,Hunter Doohan,Moosa Mostafa"
 },
-
-
+{
+"title":"The Great Indian Kapil Show [Season 3] [Episode 9] WEB-DL [Hindi] | All Episodes",
+"im":"6LWtSm2VHfenFBMvmjG9GYgfvSd",
+"bgi":"lPVM7LR0ydKVj2qzdsVgi1akjom",
+"dl":"https://s.pptons.com/2025/06/the-great-indian-kapil-show.html",
+"dl2":"https://s.pptons.com/2025/06/the-great-indian-kapil-show.html",
+"year":"2024",
+"duration":"1h per episode",
+"rating":"6.9",
+"genre":"Talk,Comedy",
+"description":"Comedian Kapil Sharma hosts this laugh-out-loud variety talk show with celebrity guests, hilarious antics and his signature supporting cast.",
+"type":"series",
+"cast":"Kapil Sharma,Sunil Grover,Krishna Abhishek,Archana Puran Singh,Kiku Sharda"
+},
+{
+"title":"Mahavatar Narsimha [2025] WEB-DL [Hindi-Telugu] | Full Movie",
+"im":"tsTC69zbKSloEEVD9FUS3robmyh",
+"bgi":"prqMnCgyFQ2VkIQArfUjgB1G22s",
+"dl":"https://pixeldrain.dev/api/file/haSDwS6i?download",
+"dl2":"https://hubcloud.one/drive/oaao180hpi10l1n",
+"year":"2025",
+"duration":"2h 21m",
+"rating":"7.1",
+"genre":"Fantasy",
+"description":"In a World torn apart by Darkness and Chaos... Witness the Appearance of the Legend, The Half-Man, Half-Lion Avatar-Lord Vishnu's Most Powerful I...",
+"type":"movie",
+"cast":"Jayapurna Das, Ashwin Kumar, Rudra Pratap Ghosh"
+},
+{
+"title":"Superman [2025] WEB-DL [Hindi LiNE-English] | Full Movie",
+"im":"ombsmhYUqR4qqOLOxAyr5V8hbyv",
+"bgi":"eU7IfdWq8KQy0oNd4kKXS0QUR08",
+"dl":"https://pixeldrain.dev/api/file/1qkot7Tv?download",
+"dl2":"https://hubcloud.one/drive/81918dgqpts0n8d",
+"year":"2025",
+"duration":"2h 10m",
+"rating":"7.2",
+"genre":"Science Fiction,Adventure,Action",
+"description":"Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.",
+"type":"movie",
+"cast":"David Corenswet,Rachel Brosnahan,Nicholas Hoult,Edi Gathegi,Anthony Carrigan"
+},
+{
+"title":"JSK - Janaki V vs State of Kerala [2025] WEB-DL [Hindi-Malayalam] | Full Movie",
+"im":"s5aKJoOSv3D8snq3Y2N3APeK5vz",
+"bgi":"fKscSOfO1X95gBIDbE9of6yx9EW",
+"dl":"https://pixeldrain.dev/api/file/MpU8sAFH?download",
+"dl2":"https://hubcloud.one/drive/fqianqbjbixxa5j",
+"year":"2025",
+"duration":"2h 36m",
+"rating":"0.0",
+"genre":"Drama,Thriller",
+"description":"Janaki, an IT professional from Bangalore, returns to her hometown in Kerala for a quiet vacation. But her peace is shattered when she becomes the vic...",
+"type":"movie",
+"cast":"Suresh Gopi,Anupama Parameswaran,Shruti Ramachandran,Vyshnavi Raj,Askar Ali"
+},
+{
+"title":"84 Toh Baad [Season 1] WEB-DL [Punjabi] | All Episodes",
+"im":"kTtoAez98Nt6zveNDcEsPCyJNb4",
+"bgi":"3dsm6WDfWkXgb83Su57pt24DZ8L",
+"dl":"https://s.pptons.com/2025/08/84-toh-baad.html",
+"dl2":"https://s.pptons.com/2025/08/84-toh-baad.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"6.1",
+"genre":"Drama",
+"description":"84 Toh Baad follows the lives of innocents caught between ruthless militants and a brutal police officer. Framed, hunted, and pushed to the edge, what...",
+"type":"series",
+"cast":"Kuljinder Singh Sidhu,Jarnail Singh,Prakash Gadhu,Gurshabad Singh,Richa Bhatt"
+},
+{
+"title":"Fatal Seduction [Season 2] WEB-DL [Hindi-English] | All Episodes",
+"im":"1REi7v1NmTxI8YODX7lwLF70zIs",
+"bgi":"138GLKdHorsdiG2pqHrIMw05Nc8",
+"dl":"https://s.pptons.com/2025/08/fatal-seduction.html",
+"dl2":"https://s.pptons.com/2025/08/fatal-seduction.html",
+"year":"2023",
+"duration":"1h per episode",
+"rating":"6.8",
+"genre":"Mystery,Crime,Drama",
+"description":"A married professor is pulled into a passionate affair with a younger man that uncovers a path of tragedy and betrayal from those closest to her.",
+"type":"series",
+"cast":"Frances Sholto-Douglas,Ngele Ramulondi,Liza Scholtz,Nathaniel Ramabulana,Thapelo Mokoena"
+},
+{
+"title":"Love All [2023] WEB-DL [Hindi] | Full Movie",
+"im":"qTLRHRJIQLRtsv9Q1rbUgRlE3A2",
+"bgi":"4Hj6qsS57A5sqrdKrWW5xtQZfyw",
+"dl":"https://pixeldrain.dev/api/file/owCjjGcz?download",
+"dl2":"https://hubcloud.one/drive/llaq3kr6ezkoi1x",
+"year":"2023",
+"duration":"2h 12m",
+"rating":"6.1",
+"genre":"Drama",
+"description":"A promising talent succumbs to sports politics and moves on to live a life far from the game he was once inseparable from. Once a darling to all, now ...",
+"type":"movie",
+"cast":"Kay Kay Menon,Shriswara,Swastika Mukherjee,Atul Srivastava"
+},
+{
+"title":"Night Always Comes [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"1jDo1nG7rtjaaQGpr6e73x9i9Xp",
+"bgi":"nGrUZvMxVqJvW1VsJ3QZStxnsZN",
+"dl":"https://pixeldrain.dev/api/file/RvEbfFm2?download",
+"dl2":"https://hubcloud.one/drive/k0aqc13ao6b1i8m",
+"year":"2025",
+"duration":"1h 48m",
+"rating":"5.6",
+"genre":"Thriller,Drama,Crime",
+"description":"Facing eviction in a city her family can no longer afford, a woman plunges into a desperate and increasingly dangerous all-night search to raise $25,0...",
+"type":"movie",
+"cast":"Vanessa Kirby,Jennifer Jason Leigh,Zack Gottsagen,Stephan James,Julia Fox"
+},
 {
 "title":"Chief of War [Season 1] [Episode 4] WEB-DL [English] | All Episodes",
 "im":"8Mckh3qJRTzXTQNZtpb133RHmO4",
@@ -365,19 +475,6 @@ const movies = [
 "description":"Johnny, a car mechanic,  who grew up thinking of his adopted father Srinivas as a superhero,  prepared to go to any length to save his father, unknowi...",
 "type":"movie",
 "cast":"Sudheer Babu,Sai Chand,Sayaji Shinde,Annie,Aarna Vohra"
-},
-{
-"title":"The Great Indian Kapil Show [Season 3] [Episode 8] WEB-DL [Hindi] | All Episodes",
-"im":"6LWtSm2VHfenFBMvmjG9GYgfvSd",
-"bgi":"lPVM7LR0ydKVj2qzdsVgi1akjom",
-"dl":"https://s.pptons.com/2025/06/the-great-indian-kapil-show.html",
-"year":"2024",
-"duration":"1h per episode",
-"rating":"6.9",
-"genre":"Talk,Comedy",
-"description":"Comedian Kapil Sharma hosts this laugh-out-loud variety talk show with celebrity guests, hilarious antics and his signature supporting cast.",
-"type":"series",
-"cast":"Kapil Sharma,Sunil Grover,Krishna Abhishek,Archana Puran Singh,Kiku Sharda"
 },
 {
 "title":"Tanvi the Great [2025] WEB-DL [Hindi] | Full Movie",
@@ -1244,20 +1341,6 @@ const movies = [
 "cast":"Kim Nam-gil,Kim Young-kwang,Park Hoon,Kil Hae-yeon,Kim Won-hae"
 },
 {
-"title":"Mahavatar Narsimha [2025] HD-TS [Hindi-English] | Full Movie",
-"im":"tsTC69zbKSloEEVD9FUS3robmyh",
-"bgi":"prqMnCgyFQ2VkIQArfUjgB1G22s",
-"dl":"https://pixeldrain.dev/api/file/gcsRKZpU?download",
-"dl2":"https://hubcloud.one/drive/cpjlhx8uubq9el9",
-"year":"2025",
-"duration":"2h 21m",
-"rating":"7.1",
-"genre":"Fantasy",
-"description":"In a World torn apart by Darkness and Chaos... Witness the Appearance of the Legend, The Half-Man, Half-Lion Avatar-Lord Vishnu's Most Powerful I...",
-"type":"movie",
-"cast":"Jayapurna Das, Ashwin Kumar, Rudra Pratap Ghosh"
-},
-{
 "title":"The Fantastic Four: First Steps [2025] PRE-HD [Hindi-English] | Full Movie",
 "im":"x26MtUlwtWD26d0G0FXcppxCJio",
 "bgi":"s94NjfKkcSczZ1FembwmQZwsuwY",
@@ -1839,20 +1922,6 @@ const movies = [
 "description":"When The Thiefs partner is kidnapped after stealing millions in cash from a merciless drug lord named Nushi, he reluctantly teams up with an angst-...",
 "type":"movie",
 "cast":"James Clayton,Lou Diamond Phillips,Fei Ren,Lee Majdoub,Alisha Ahamed"
-},
-{
-"title":"Superman [2025] PRE-HD [Hindi-English] | Full Movie",
-"im":"ombsmhYUqR4qqOLOxAyr5V8hbyv",
-"bgi":"eU7IfdWq8KQy0oNd4kKXS0QUR08",
-"dl":"https://pixeldrain.dev/api/file/ZgcC9oUx?download",
-"dl2":"https://hubcloud.one/drive/zlitwjzedw1izmd",
-"year":"2025",
-"duration":"2h 10m",
-"rating":"7.2",
-"genre":"Science Fiction,Adventure,Action",
-"description":"Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.",
-"type":"movie",
-"cast":"David Corenswet,Rachel Brosnahan,Nicholas Hoult,Edi Gathegi,Anthony Carrigan"
 },
 {
 "title":"Aap Jaisa Koi [2025] WEB-DL [Hindi] | Full Movie",

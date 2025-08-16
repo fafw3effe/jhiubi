@@ -1,9 +1,6 @@
 // Movies data
 const movies = [
 
-
-
-
 {
 "title":"War 2 [2025] V2 HQ-HDTC [Hindi LiNE] | Full Movie",
 "im":"kD0TOH6EM1q7UfgugBXuMoZd3m5",

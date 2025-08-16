@@ -47,7 +47,7 @@ const movies = [
 "cast":"Jenna Ortega,Emma Myers,Joy Sunday,Hunter Doohan,Moosa Mostafa"
 },
 {
-"title":"Naruto Shippūden [Season 11] [Episode 1] WEB-DL [Hindi-English] | All Episodes",
+"title":"Naruto Shippūden [Season 11] [Episode 1] WEB-DL [Hindi-English-Japanese] | All Episodes",
 "im":"1lxahYOBIMpKqoKoB11qtmaBVP1",
 "bgi":"nAeS7F2B22XQOLh5HVNXn8G3ZRk",
 "dl":"https://s.pptons.com/2025/05/naruto-shippuden.html",

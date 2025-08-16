@@ -47,6 +47,20 @@ const movies = [
 "cast":"Jenna Ortega,Emma Myers,Joy Sunday,Hunter Doohan,Moosa Mostafa"
 },
 {
+"title":"Naruto Shippūden [Season 11] [Episode 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"1lxahYOBIMpKqoKoB11qtmaBVP1",
+"bgi":"nAeS7F2B22XQOLh5HVNXn8G3ZRk",
+"dl":"https://s.pptons.com/2025/05/naruto-shippuden.html",
+"dl2":"https://s.pptons.com/2025/05/naruto-shippuden.html",
+"year":"2007",
+"duration":"24m per episode",
+"rating":"8.5",
+"genre":"Animation,Action & Adventure,Sci-Fi & Fantasy",
+"description":"After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work. It will not be easy though as ...",
+"type":"series",
+"cast":"Junko Takeuchi,Noriaki Sugiyama,Chie Nakamura,Kazuhiko Inoue,Showtaro Morikubo"
+},
+{
 "title":"The Great Indian Kapil Show [Season 3] [Episode 9] WEB-DL [Hindi] | All Episodes",
 "im":"6LWtSm2VHfenFBMvmjG9GYgfvSd",
 "bgi":"lPVM7LR0ydKVj2qzdsVgi1akjom",
@@ -5252,19 +5266,6 @@ const movies = [
 "description":"Rejoin Goku and his friends in a series of cosmic battles! Toei has redubbed, recut, and cleaned up the animation of the original 1989 animated series. The show's story arc has been refined to better follow the comic book series on which it is based. The show also features a new opening and ending. In the series, martial artist Goku, and his various friends, battle increasingly powerful enemies to defend the world against evil. Can Earth's defender defeat demons, aliens, and other villains?",
 "type":"series",
 "cast":"Masako Nozawa,Joji Yanami,Mayumi Tanaka,Ryo Horikawa,Toshio Furukawa"
-},
-{
-"title":"Naruto Shippūden [All Seasons] WEB-DL [Hindi-English] | All Episodes [Season 1 & 9]",
-"im":"71mASgFgSiPl9QUexVH8BubU0lD",
-"dl":"https://s.pptons.com/2025/05/naruto-shippuden.html",
-"bgi":"nAeS7F2B22XQOLh5HVNXn8G3ZRk",
-"year":"2007",
-"duration":"21 min per episode",
-"rating":"8.5",
-"genre":"Animation,Action & Adventure,Sci-Fi & Fantasy,",
-"description":"After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work. It will not be easy though as he has amassed a few more dangerous enemies, in the likes of the shinobi organization; Akatsuki.",
-"type":"series",
-"cast":"Junko Takeuchi,Noriaki Sugiyama,Chie Nakamura,Kazuhiko Inoue,Showtaro Morikubo"
 },
 {
 "title":"Naruto [All Seasons] WEB-DL [Hindi-English] | All Episodes [Season 1 & 9]",

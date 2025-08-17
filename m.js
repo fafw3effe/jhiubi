@@ -58,6 +58,74 @@ const movies = [
 "cast":"Junko Takeuchi,Noriaki Sugiyama,Chie Nakamura,Kazuhiko Inoue,Showtaro Morikubo"
 },
 {
+"title":"Mission: Impossible - The Final Reckoning [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"z53D72EAOxGRqdr7KXXWp9dJiDe",
+"bgi":"538U9snNc2fpnOmYXAPUh3zn31H",
+"dl":"https://pixeldrain.dev/api/file/ig33NEbt?download",
+"dl2":"https://hubcloud.one/drive/iwoyqbhliyeoubh",
+"year":"2025",
+"duration":"2h 50m",
+"rating":"7.2",
+"genre":"Action,Adventure,Thriller",
+"description":"Ethan Hunt and team continue their search for the terrifying AI known as the Entity — which has infiltrated intelligence networks all over the globe...",
+"type":"movie",
+"cast":"Tom Cruise,Hayley Atwell,Ving Rhames,Simon Pegg,Esai Morales"
+},
+{
+"title":"Nobody 2 [2025] HD-TC [English] | Full Movie",
+"im":"iyxwxDZCpIm0vIORaHpmgJv2BGF",
+"bgi":"wO15XEgeLbeijtf3MQAUqWCxSxc",
+"dl":"https://pixeldrain.dev/api/file/EcKZphSa?download",
+"dl2":"https://hubcloud.one/drive/yb1vpnv3bjhbspb",
+"year":"2025",
+"duration":"1h 29m",
+"rating":"7.7",
+"genre":"Action,Comedy,Thriller",
+"description":"Former assassin Hutch Mansell takes his family on a nostalgic vacation to a small-town theme park, only to be pulled back into violence when they clas...",
+"type":"movie",
+"cast":"Bob Odenkirk,Connie Nielsen,Christopher Lloyd,John Ortiz,RZA"
+},
+{
+"title":"Head Over Heels [Season 1] [Episode 12] WEB-DL [Hindi-English] | All Episodes",
+"im":"ijDyO36wQhMYPd04XKXB73eyAbS",
+"bgi":"bHkrRtB4OtUAPOJAiTgNkZVfpIK",
+"dl":"https://s.pptons.com/2025/07/head-over-heels.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"8.6",
+"genre":"Sci-Fi & Fantasy,Drama",
+"description":"A teenage shaman determined to change fate sets out to save a mysterious boy destined to die. As danger looms, their fated encounter sparks a powerful...",
+"type":"series",
+"cast":"Cho Yi-hyun,Choo Young-woo,Cha Kang-yoon,Choo Ja-hyun,Kim Mi-kyeong"
+},
+{
+"title":"C.I.D. [Season 2] [Episode 69] WEB-DL [Hindi] | All Episodes",
+"im":"60ZxbAMk6QO8jMD0p8WrGHVCbyK",
+"dl":"https://s.pptons.com/2025/06/cid.html",
+"bgi":"1gZrOa2E9DOohEvSLLBJqus2zGu",
+"year":"2024",
+"duration":"1h per episode",
+"rating":"7.0",
+"genre":"Action,Adventure,Crime,Drama,Mystery,",
+"description":"India's favourite crime thriller show is back! Abhijeet, Daya and other CID officers, led by ACP Pradyuman, join forces with forensic expert Dr Salunkhe to track down the perpetrators who have committed heinous crimes, using every small clue they can find.",
+"type":"series",
+"cast":"Aditya Srivastava,Shivaji Satham,Dayanand Shetty,Narendra Gupta,Ansha Sayed"
+},
+{
+"title":"Beyond the Bar [Season 1] [Episode 5] WEB-DL [Hindi-English] | All Episodes",
+"im":"nN6mZZxJBPZXBjLxnjgpnoRvswk",
+"bgi":"8kXhTZX7f92Y4cUICB8jSYoTvKY",
+"dl":"https://s.pptons.com/2025/08/beyond-bar.html",
+"dl2":"https://s.pptons.com/2025/08/beyond-bar.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"7.0",
+"genre":"Drama",
+"description":"A young, rookie lawyer with a strong sense of justice joins a top law firm — navigating the complex legal world under a cold, demanding mentor.",
+"type":"series",
+"cast":"Lee Jin-uk,Jung Chae-yeon,Jeon Hye-bin,Lee Hak-ju,Kang Sang-jun"
+},
+{
 "title":"The Great Indian Kapil Show [Season 3] [Episode 9] WEB-DL [Hindi] | All Episodes",
 "im":"6LWtSm2VHfenFBMvmjG9GYgfvSd",
 "bgi":"lPVM7LR0ydKVj2qzdsVgi1akjom",
@@ -393,32 +461,6 @@ const movies = [
 "cast":"Ahaan Panday,Aneet Padda,Varun Badola,Alam Khan,Geeta Agrawal Sharma"
 },
 {
-"title":"C.I.D. [Season 2] [Episode 68] WEB-DL [Hindi] | All Episodes",
-"im":"60ZxbAMk6QO8jMD0p8WrGHVCbyK",
-"dl":"https://s.pptons.com/2025/06/cid.html",
-"bgi":"1gZrOa2E9DOohEvSLLBJqus2zGu",
-"year":"2024",
-"duration":"1h per episode",
-"rating":"7.0",
-"genre":"Action,Adventure,Crime,Drama,Mystery,",
-"description":"India's favourite crime thriller show is back! Abhijeet, Daya and other CID officers, led by ACP Pradyuman, join forces with forensic expert Dr Salunkhe to track down the perpetrators who have committed heinous crimes, using every small clue they can find.",
-"type":"series",
-"cast":"Aditya Srivastava,Shivaji Satham,Dayanand Shetty,Narendra Gupta,Ansha Sayed"
-},
-{
-"title":"Head Over Heels [Season 1] [Episode 8] WEB-DL [Hindi-English] | All Episodes",
-"im":"ijDyO36wQhMYPd04XKXB73eyAbS",
-"bgi":"bHkrRtB4OtUAPOJAiTgNkZVfpIK",
-"dl":"https://s.pptons.com/2025/07/head-over-heels.html",
-"year":"2025",
-"duration":"1h per episode",
-"rating":"8.6",
-"genre":"Sci-Fi & Fantasy,Drama",
-"description":"A teenage shaman determined to change fate sets out to save a mysterious boy destined to die. As danger looms, their fated encounter sparks a powerful...",
-"type":"series",
-"cast":"Cho Yi-hyun,Choo Young-woo,Cha Kang-yoon,Choo Ja-hyun,Kim Mi-kyeong"
-},
-{
 "title":"Court Kacheri [Season 1] WEB-DL [Hindi] | All Episodes",
 "im":"reP688CKyRruS8dM69bU4BmAkZD",
 "bgi":"oA0dhdgj924YVvlESuTkH4Yxl55",
@@ -444,20 +486,6 @@ const movies = [
 "description":"Once the greatest hitman of all, Taro Sakamoto retired in the name of love. But when his past catches up, he must fight to protect his beloved family.",
 "type":"series",
 "cast":"Tomokazu Sugita,Nobunaga Shimazaki,Ayane Sakura,Nao Toyama,Hina Kino"
-},
-{
-"title":"Beyond the Bar [Season 1] [Episode 4] WEB-DL [Hindi-English] | All Episodes",
-"im":"nN6mZZxJBPZXBjLxnjgpnoRvswk",
-"bgi":"8kXhTZX7f92Y4cUICB8jSYoTvKY",
-"dl":"https://s.pptons.com/2025/08/beyond-bar.html",
-"dl2":"https://s.pptons.com/2025/08/beyond-bar.html",
-"year":"2025",
-"duration":"1h per episode",
-"rating":"7.0",
-"genre":"Drama",
-"description":"A young, rookie lawyer with a strong sense of justice joins a top law firm — navigating the complex legal world under a cold, demanding mentor.",
-"type":"series",
-"cast":"Lee Jin-uk,Jung Chae-yeon,Jeon Hye-bin,Lee Hak-ju,Kang Sang-jun"
 },
 {
 "title":"Weapons [2025] HD-TC [English] | Full Movie",
@@ -4851,19 +4879,6 @@ const movies = [
 "description":"Follow Moiraine, a member of the shadowy and influential all-female organization called the “Aes Sedai” as she embarks on a dangerous, world-spanning journey with five young men and women. Moiraine believes one of them might be the reincarnation of an incredibly powerful individual, whom prophecies say will either save humanity or destroy it.",
 "type":"series",
 "cast":"Rosamund Pike,Daniel Henney,Josha Stradowski,Zoë Robins,Madeleine Madden"
-},
-{
-"title":"Mission: Impossible - The Final Reckoning [2025] HQ-HDTC [Hindi-English] | Full Movie",
-"im":"z53D72EAOxGRqdr7KXXWp9dJiDe",
-"bgi":"7ONMDhnErvpkKvkZqM82ud7bzcT",
-"dl":"https://pixeldrain.net/api/file/2U4dCJ1H?download",
-"year":"2025",
-"duration":"2h 50m",
-"rating":"7.7",
-"genre":"Action,Adventure,Thriller,",
-"description":"Ethan Hunt and the IMF team continue their search for the terrifying AI known as the Entity — which has infiltrated intelligence networks all over the globe — with the world's governments and a mysterious ghost from Ethan's past on their trail. Joined by new allies and armed with the means to shut the Entity down for good, Hunt is in a race against time to prevent the world as we know it from changing forever.",
-"type":"movie",
-"cast":"Tom Cruise,Hayley Atwell,Ving Rhames,Simon Pegg,Esai Morales"
 },
 {
 "title":"Akaal: The Unconquered [2025] WEB-DL [Hindi] | Full Movie",

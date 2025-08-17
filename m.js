@@ -30,6 +30,20 @@ const movies = [
 "cast":"Rajinikanth,Nagarjuna Akkineni,Soubin Shahir,Upendra,Sathyaraj"
 },
 {
+"title":"Naruto Shippūden [Season 11] [Episode 3] WEB-DL [Hindi-English-Japanese] | All Episodes",
+"im":"1lxahYOBIMpKqoKoB11qtmaBVP1",
+"bgi":"nAeS7F2B22XQOLh5HVNXn8G3ZRk",
+"dl":"https://s.pptons.com/2025/05/naruto-shippuden.html",
+"dl2":"https://s.pptons.com/2025/05/naruto-shippuden.html",
+"year":"2007",
+"duration":"24m per episode",
+"rating":"8.5",
+"genre":"Animation,Action & Adventure,Sci-Fi & Fantasy",
+"description":"After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work. It will not be easy though as ...",
+"type":"series",
+"cast":"Junko Takeuchi,Noriaki Sugiyama,Chie Nakamura,Kazuhiko Inoue,Showtaro Morikubo"
+},
+{
 "title":"Wednesday [Season 1-2] WEB-DL [Hindi-English] | All Episodes",
 "im":"kKwy8QiXyQocbDj4haUG0uD1SbF",
 "bgi":"iHSwvRVsRyxpX7FE7GbviaDvgGZ",
@@ -42,20 +56,6 @@ const movies = [
 "description":"Wednesday Addams is sent to Nevermore Academy, a bizarre boarding school where she attempts to master her psychic powers, stop a monstrous killing spr...",
 "type":"series",
 "cast":"Jenna Ortega,Emma Myers,Joy Sunday,Hunter Doohan,Moosa Mostafa"
-},
-{
-"title":"Naruto Shippūden [Season 11] [Episode 1] WEB-DL [Hindi-English-Japanese] | All Episodes",
-"im":"1lxahYOBIMpKqoKoB11qtmaBVP1",
-"bgi":"nAeS7F2B22XQOLh5HVNXn8G3ZRk",
-"dl":"https://s.pptons.com/2025/05/naruto-shippuden.html",
-"dl2":"https://s.pptons.com/2025/05/naruto-shippuden.html",
-"year":"2007",
-"duration":"24m per episode",
-"rating":"8.5",
-"genre":"Animation,Action & Adventure,Sci-Fi & Fantasy",
-"description":"After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work. It will not be easy though as ...",
-"type":"series",
-"cast":"Junko Takeuchi,Noriaki Sugiyama,Chie Nakamura,Kazuhiko Inoue,Showtaro Morikubo"
 },
 {
 "title":"Mission: Impossible - The Final Reckoning [2025] WEB-DL [Hindi-English] | Full Movie",

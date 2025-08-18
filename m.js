@@ -30,7 +30,21 @@ const movies = [
 "cast":"Rajinikanth,Nagarjuna Akkineni,Soubin Shahir,Upendra,Sathyaraj"
 },
 {
-"title":"Naruto Shippūden [Season 11] [Episode 3] WEB-DL [Hindi-English-Japanese] | All Episodes",
+"title":"Maargan [2025] WEB-DL [Hindi HQ DUB] | Full Movie",
+"im":"sgNetedu19Ar9LkUXGNheh9NL1D",
+"bgi":"sTwYXYIw79TlBKRQ7Cdzev28vSQ",
+"dl":"https://pixeldrain.dev/api/file/Q2otDq2J?download",
+"dl2":"https://hubcloud.one/drive/j7kn3n1n1l3rl1c",
+"year":"2025",
+"duration":"2h 12m",
+"rating":"7.5",
+"genre":"Thriller,Crime",
+"description":"ADGP Dhruv, a seasoned high-ranking police officer haunted by a tragic past, grapples with a labyrinthine case, where every clue unearths a darker sec...",
+"type":"movie",
+"cast":"Vijay Antony,Ajay Dhisan,Brigida Saga,Samuthirakani,Deepshika Umapathy"
+},
+{
+"title":"Naruto Shippūden [Season 11] [Episode 7] WEB-DL [Hindi-English-Japanese] | All Episodes",
 "im":"1lxahYOBIMpKqoKoB11qtmaBVP1",
 "bgi":"nAeS7F2B22XQOLh5HVNXn8G3ZRk",
 "dl":"https://s.pptons.com/2025/05/naruto-shippuden.html",

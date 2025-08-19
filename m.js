@@ -30,6 +30,20 @@ const movies = [
 "cast":"Rajinikanth,Nagarjuna Akkineni,Soubin Shahir,Upendra,Sathyaraj"
 },
 {
+"title":"Elio [2025] WEB-DL [Hindi LiNe-English] | Full Movie",
+"im":"w2ARwtc1zoh0pyfwmyhpZHwuXgK",
+"bgi":"mBDoBHUZHHy9WG7dRFndjB8adhc",
+"dl":"https://pixeldrain.dev/api/file/DGq7uMWd?download",
+"dl2":"https://hubcloud.one/drive/ggzzeb0pbb1ez88",
+"year":"2025",
+"duration":"1h 39m",
+"rating":"6.8",
+"genre":"Family,Comedy,Adventure,Animation,Science Fiction",
+"description":"Elio, a space fanatic with an active imagination, finds himself on a cosmic misadventure where he must form new bonds with eccentric alien lifeforms, ...",
+"type":"movie",
+"cast":"Yonas Kibreab,Zoe Saldaña,Remy Edgerly,Brandon Moon,Brad Garrett"
+},
+{
 "title":"Overflow [Season 1] [Episode 3] WEB-DL [Hindi] | All Episodes",
 "im":"8RtwL5gxUvh9YViqjhNlVRvJpum",
 "bgi":"bzlZwirOq5SDC0bCWAXGBx4XDg9",
@@ -2469,20 +2483,6 @@ const movies = [
 "description":"Wealthy businessman Zsa-zsa Korda appoints his only daughter, a nun, as sole heir to his estate. As Korda embarks on a new enterprise, they soon becom...",
 "type":"movie",
 "cast":"Benicio del Toro,Mia Threapleton,Michael Cera,Riz Ahmed,Tom Hanks"
-},
-{
-"title":"Elio [2025] HD-CAM [Hindi] | Full Movie",
-"im":"w2ARwtc1zoh0pyfwmyhpZHwuXgK",
-"bgi":"mBDoBHUZHHy9WG7dRFndjB8adhc",
-"dl":"https://pixeldrain.dev/api/file/4ivNhYNe?download",
-"dl2":"https://hubcloud.one/drive/ko6ktyniy4ooty4",
-"year":"2025",
-"duration":"1h 39m",
-"rating":"6.8",
-"genre":"Family,Comedy,Adventure,Animation,Science Fiction",
-"description":"Elio, a space fanatic with an active imagination, finds himself on a cosmic misadventure where he must form new bonds with eccentric alien lifeforms, ...",
-"type":"movie",
-"cast":"Yonas Kibreab,Zoe Saldaña,Remy Edgerly,Brandon Moon,Brad Garrett"
 },
 {
 "title":"Ace [2025] WEB-DL [Hindi] | Full Movie",

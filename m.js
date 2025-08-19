@@ -30,6 +30,33 @@ const movies = [
 "cast":"Rajinikanth,Nagarjuna Akkineni,Soubin Shahir,Upendra,Sathyaraj"
 },
 {
+"title":"Weapons [2025] HQ-HDTC [English] | Full Movie",
+"im":"cpf7vsRZ0MYRQcnLWteD5jK9ymT",
+"bgi":"kyqM6padQzZ1eYxv84i9smNvZAG",
+"dl":"https://pixeldrain.dev/api/file/wYFCLbyM?download",
+"dl2":"https://hubcloud.one/drive/rjbz6y1cerqprtz",
+"year":"2025",
+"duration":"2h 9m",
+"rating":"7.8",
+"genre":"Horror,Mystery",
+"description":"When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what...",
+"type":"movie",
+"cast":"Josh Brolin,Julia Garner,Alden Ehrenreich,Austin Abrams,Cary Christopher"
+},
+{
+"title":"SAKAMOTO DAYS [Season 1] [Episode 17] WEB-DL [Hindi-English] | All Episodes",
+"im":"wRpCqsJFyKNuh5FMegNPrhzp2NF",
+"bgi":"blSthAPRbEOJBowdxppeQqNPRh9",
+"dl":"https://s.pptons.com/2025/07/blog-post_16.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"8.1",
+"genre":"Animation,Comedy,Action & Adventure",
+"description":"Once the greatest hitman of all, Taro Sakamoto retired in the name of love. But when his past catches up, he must fight to protect his beloved family.",
+"type":"series",
+"cast":"Tomokazu Sugita,Nobunaga Shimazaki,Ayane Sakura,Nao Toyama,Hina Kino"
+},
+{
 "title":"Elio [2025] WEB-DL [Hindi LiNe-English] | Full Movie",
 "im":"w2ARwtc1zoh0pyfwmyhpZHwuXgK",
 "bgi":"mBDoBHUZHHy9WG7dRFndjB8adhc",
@@ -515,33 +542,6 @@ const movies = [
 "description":"A father-son relationship story with a coming-of-age legal drama infused with sharp wit, intense courtroom battles, and an exploration of...",
 "type":"series",
 "cast":"Ashish Verma,Pavan Malhotra,Anandeshwar Dwivedi,Puneet Batra"
-},
-{
-"title":"SAKAMOTO DAYS [Season 1] [Episode 16] WEB-DL [Hindi-English] | All Episodes",
-"im":"wRpCqsJFyKNuh5FMegNPrhzp2NF",
-"bgi":"blSthAPRbEOJBowdxppeQqNPRh9",
-"dl":"https://s.pptons.com/2025/07/blog-post_16.html",
-"year":"2025",
-"duration":"1h per episode",
-"rating":"8.1",
-"genre":"Animation,Comedy,Action & Adventure",
-"description":"Once the greatest hitman of all, Taro Sakamoto retired in the name of love. But when his past catches up, he must fight to protect his beloved family.",
-"type":"series",
-"cast":"Tomokazu Sugita,Nobunaga Shimazaki,Ayane Sakura,Nao Toyama,Hina Kino"
-},
-{
-"title":"Weapons [2025] HD-TC [English] | Full Movie",
-"im":"cpf7vsRZ0MYRQcnLWteD5jK9ymT",
-"bgi":"kyqM6padQzZ1eYxv84i9smNvZAG",
-"dl":"https://pixeldrain.dev/api/file/48uyWddM?download",
-"dl2":"https://hubcloud.one/drive/8c4qygpyp8kcpkp",
-"year":"2025",
-"duration":"2h 9m",
-"rating":"7.8",
-"genre":"Horror,Mystery",
-"description":"When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what...",
-"type":"movie",
-"cast":"Josh Brolin,Julia Garner,Alden Ehrenreich,Austin Abrams,Cary Christopher"
 },
 {
 "title":"Maa Nanna Superhero [2024] WEB-DL [Hindi-Telugu] | Full Movie",

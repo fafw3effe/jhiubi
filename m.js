@@ -29,6 +29,22 @@ const movies = [
 "type":"movie",
 "cast":"Rajinikanth,Nagarjuna Akkineni,Soubin Shahir,Upendra,Sathyaraj"
 },
+
+
+{
+"title":"Lal Salaam [2024] WEB-DL [Hindi-English] | Full Movie",
+"im":"65n64KT32r638HD8WS0mGL0vSGc",
+"bgi":"giMMpWw75rOxZZnWJI3Guu6dnFB",
+"dl":"https://hubcloud.one/drive/q2bqi5fuf5tut2j",
+"dl2":"https://pixeldrain.dev/api/file/CvGsAbUs?download",
+"year":"2024",
+"duration":"2h 30m",
+"rating":"2.5",
+"genre":"Drama,Action",
+"description":"When a cricket game between two brothers goes wrong, a group of Indian villages are torn apart in the process. With tensions exacerbated by a scheming...",
+"type":"movie",
+"cast":"Vishnu Vishal,Vikranth,Rajinikanth,Jeevitha,Nirosha"
+},
 {
 "title":"Overflow [Season 1] [Episode 4] WEB-DL [Hindi] | All Episodes",
 "im":"8RtwL5gxUvh9YViqjhNlVRvJpum",

@@ -2,7 +2,20 @@
 const movies = [
 
 
-
+{
+"title":"F1: The Movie [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"vqBmyAj0Xm9LnS1xe1MSlMAJyHq",
+"bgi":"lkDYN0whyE82mcM20rwtwjbniKF",
+"dl":"https://pixeldrain.dev/api/file/KCqf4Jud?download",
+"dl2":"https://hubcloud.one/drive/vbxzrukpvmcxkbu",
+"year":"2025",
+"duration":"2h 36m",
+"rating":"7.8",
+"genre":"Action,Drama",
+"description":"Racing legend Sonny Hayes is coaxed out of retirement to lead a struggling Formula 1 team—and mentor a young hotshot driver—while chasing one more...",
+"type":"movie",
+"cast":"Brad Pitt,Damson Idris,Kerry Condon,Javier Bardem,Kim Bodnia"
+},
 {
 "title":"Death Note [Season 1] WEB-DL [Hindi-English] | All Episodes",
 "im":"tCZFfYTIwrR7n94J6G14Y4hAFU6",
@@ -16,6 +29,19 @@ const movies = [
 "description":"Light Yagami is an ace student with great prospects—and he’s bored out of his mind. But all that changes when he finds the Death Note, a notebook ...",
 "type":"series",
 "cast":"Mamoru Miyano,Shido Nakamura,Aya Hirano,Kappei Yamaguchi,Kimiko Saito"
+},
+{
+"title":"Peacemaker [Season 2] [Episode 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"bUYOeu8A3mjtqWWoKDLzjBkdLa1",
+"bgi":"pj1wFbZF3gpEg7F0EreXTvZNZTG",
+"dl":"https://s.pptons.com/2025/07/blog-post_20.html",
+"year":"2022",
+"duration":"1h per episode",
+"rating":"8.2",
+"genre":"Action & Adventure,Sci-Fi & Fantasy,Drama",
+"description":"The continuing story of Peacemaker - a compellingly vainglorious man who believes in peace at any cost, no matter how many people he has to kill to ...",
+"type":"series",
+"cast":"John Cena,Danielle Brooks,Freddie Stroma,Jennifer Holland,Steve Agee"
 },
 {
 "title":"War 2 [2025] V2 HQ-HDTC [Hindi LiNE] | Full Movie",
@@ -1678,19 +1704,6 @@ const movies = [
 "cast":"Nora Arnezeder,Iain Glen,Sarah-Sofie Boussnina,Ṣọpẹ́ Dìrísù,Sebastian Roché"
 },    
 {
-"title":"Peacemaker [Season 1] WEB-DL [Hindi-English] | All Episodes",
-"im":"bUYOeu8A3mjtqWWoKDLzjBkdLa1",
-"bgi":"pj1wFbZF3gpEg7F0EreXTvZNZTG",
-"dl":"https://s.pptons.com/2025/07/blog-post_20.html",
-"year":"2022",
-"duration":"1h per episode",
-"rating":"8.2",
-"genre":"Action & Adventure,Sci-Fi & Fantasy,Drama",
-"description":"The continuing story of Peacemaker - a compellingly vainglorious man who believes in peace at any cost, no matter how many people he has to kill to ...",
-"type":"series",
-"cast":"John Cena,Danielle Brooks,Freddie Stroma,Jennifer Holland,Steve Agee"
-},
-{
 "title":"Maa [2025] WEB-DL [Hindi] | Full Movie",
 "im":"kc5n7LJUmvBsVxzAla1ONN8kouP",
 "bgi":"kc5n7LJUmvBsVxzAla1ONN8kouP",
@@ -2240,20 +2253,6 @@ const movies = [
 "description":"Hundreds of cash-strapped players accept a strange invitation to compete in children's games. Inside, a tempting prize awaits — with deadly hig...",
 "type":"series",
 "cast":"Lee Jung-jae,Wi Ha-jun,Jeon Young-soo,Lee Byung-hun,Yim Si-wan"
-},
-{
-"title":"F1 The Movie [2025] PRE-HD [Hindi-English] | Full Movie",
-"im":"vqBmyAj0Xm9LnS1xe1MSlMAJyHq",
-"bgi":"lkDYN0whyE82mcM20rwtwjbniKF",
-"dl":"https://pixeldrain.dev/api/file/M8Cx8NY1?download",
-"dl2":"https://hubcloud.one/drive/sk884rfk7wmn4mn",
-"year":"2025",
-"duration":"2h 36m",
-"rating":"7.8",
-"genre":"Action,Drama",
-"description":"Racing legend Sonny Hayes is coaxed out of retirement to lead a struggling Formula 1 team—and mentor a young hotshot driver—while chasing one more...",
-"type":"movie",
-"cast":"Brad Pitt,Damson Idris,Kerry Condon,Javier Bardem,Kim Bodnia"
 },
 {
 "title":"Naruto the Movie: Ninja Clash in the Land of Snow [2004] WEB-DL [Hindi-English] | Full Movie",

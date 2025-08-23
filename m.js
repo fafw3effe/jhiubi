@@ -26,7 +26,7 @@ const movies = [
 "duration":"1h per episode",
 "rating":"8.6",
 "genre":"Animation,Mystery,Sci-Fi & Fantasy",
-"description":"Light Yagami is an ace student with great prospects—and he’s bored out of his mind. But all that changes when he finds the Death Note, a notebook ...",
+"description":"Light Yagami is an ace student with great prospects—and he's bored out of his mind. But all that changes when he finds the Death Note, a notebook ...",
 "type":"series",
 "cast":"Mamoru Miyano,Shido Nakamura,Aya Hirano,Kappei Yamaguchi,Kimiko Saito"
 },

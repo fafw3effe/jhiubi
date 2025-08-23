@@ -1,6 +1,22 @@
 // Movies data
 const movies = [
 
+
+
+{
+"title":"Death Note [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"tCZFfYTIwrR7n94J6G14Y4hAFU6",
+"bgi":"koBa94NxTaGe2FoDzlXMuJptsv0",
+"dl":"https://s.pptons.com/2025/08/death-note.html",
+"dl2":"https://s.pptons.com/2025/08/death-note.html",
+"year":"2006",
+"duration":"1h per episode",
+"rating":"8.6",
+"genre":"Animation,Mystery,Sci-Fi & Fantasy",
+"description":"Light Yagami is an ace student with great prospects—and he’s bored out of his mind. But all that changes when he finds the Death Note, a notebook ...",
+"type":"series",
+"cast":"Mamoru Miyano,Shido Nakamura,Aya Hirano,Kappei Yamaguchi,Kimiko Saito"
+},
 {
 "title":"War 2 [2025] V2 HQ-HDTC [Hindi LiNE] | Full Movie",
 "im":"kD0TOH6EM1q7UfgugBXuMoZd3m5",
@@ -32,7 +48,7 @@ const movies = [
 
 
 {
-"title":"Lal Salaam [2024] WEB-DL [Hindi-English] | Full Movie",
+"title":"Lal Salaam [2024] WEB-DL [Hindi] | Full Movie",
 "im":"65n64KT32r638HD8WS0mGL0vSGc",
 "bgi":"giMMpWw75rOxZZnWJI3Guu6dnFB",
 "dl":"https://hubcloud.one/drive/q2bqi5fuf5tut2j",

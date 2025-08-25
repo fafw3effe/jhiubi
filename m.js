@@ -1,7 +1,20 @@
 // Movies data
 const movies = [
 
-
+{
+"title":"Rangasthalam [2018] WEB-DL [Hindi-Telugu] | Full Movie",
+"im":"oZGZ8jJ3y64goe5NEqteEeXsfyJ",
+"bgi":"6JdOkSgd8wkAQbT6Ncib4DrnyiS",
+"dl":"https://pixeldrain.dev/api/file/qKCE9t4o?download",
+"dl2":"https://hubcloud.one/drive/tiww9friilltlcw",
+"year":"2018",
+"duration":"2h 59m",
+"rating":"7.1",
+"genre":"Action,Drama",
+"description":"Chitti Babu begins to suspect his elder brother's life is in danger after they team up to lock horns with their village president and overthrow h...",
+"type":"movie",
+"cast":"Ram Charan,Aadhi Pinisetty,Samantha Ruth Prabhu,Jagapati Babu,Prakash Raj"
+},
 {
 "title":"F1: The Movie [2025] WEB-DL [Hindi-English] | Full Movie",
 "im":"vqBmyAj0Xm9LnS1xe1MSlMAJyHq",

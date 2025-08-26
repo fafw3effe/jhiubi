@@ -1,6 +1,22 @@
 // Movies data
 const movies = [
 
+
+
+{
+"title":"Bigg Boss [Season 19] [Episode 2] WEB-DL [Hindi] | All Episodes",
+"im":"xVjvkjuDUQfCjrTJ1e4mpFyD2wH",
+"bgi":"1bc7UpjVorkjcuzeBjuTqUjXT8B",
+"dl":"https://s.pptons.com/2025/08/bigg-boss.html",
+"dl2":"https://s.pptons.com/2025/08/bigg-boss.html",
+"year":"2006",
+"duration":"1h per episode",
+"rating":"4.2",
+"genre":"Reality,Family",
+"description":"Your ‘Host and Dost’ Salman Khan is back! Brace for another high-octane season of the greatest reality show, serving entertainment and drama—all...",
+"type":"series",
+"cast":"Salman Khan,Devoleena Bhattacharjee,Vikas Gupta,Rakhi Sawant,Sidharth Shukla"
+},
 {
 "title":"Rangasthalam [2018] WEB-DL [Hindi-Telugu] | Full Movie",
 "im":"oZGZ8jJ3y64goe5NEqteEeXsfyJ",
@@ -14,6 +30,102 @@ const movies = [
 "description":"Chitti Babu begins to suspect his elder brother's life is in danger after they team up to lock horns with their village president and overthrow h...",
 "type":"movie",
 "cast":"Ram Charan,Aadhi Pinisetty,Samantha Ruth Prabhu,Jagapati Babu,Prakash Raj"
+},
+{
+"title":"War 2 [2025] V2 HQ-HDTC [Hindi LiNE] | Full Movie",
+"im":"kD0TOH6EM1q7UfgugBXuMoZd3m5",
+"bgi":"bNwxRkm97oLUhSYXpSvQNyWJFmg",
+"dl":"https://pixeldrain.dev/api/file/LKRmA87i?download",
+"dl2":"https://hubcloud.one/drive/t1thcmkvomtcv4c",
+"year":"2025",
+"duration":"2h 53m",
+"rating":"9.0",
+"genre":"Action,Adventure,Thriller",
+"description":"Years ago Agent Kabir went rogue, became India's greatest villain ever.  As he descends further into the deepest shadows... India sends its deadlies...",
+"type":"movie",
+"cast":"N.T. Rama Rao Jr.,Hrithik Roshan,Kiara Advani,Ashutosh Rana,Anil Kapoor"
+},
+{
+"title":"Coolie [2025] HD-TC [Hindi] | Full Movie",
+"im":"kr36awqmziEI5mfUElsHB0pj9zP",
+"bgi":"bLn0CPzrrqFLicjNTgrzaIyE0gZ",
+"dl":"https://pixeldrain.dev/api/file/GdrFQHSX?download",
+"dl2":"https://hubcloud.one/drive/wu0wtz1wttwm0kx",
+"year":"2025",
+"duration":"2h 50m",
+"rating":"6.3",
+"genre":"Action,Thriller,Crime",
+"description":"A mysterious man takes a stand against a corrupt syndicate exploiting and abusing the workers of a port town.",
+"type":"movie",
+"cast":"Rajinikanth,Nagarjuna Akkineni,Soubin Shahir,Upendra,Sathyaraj"
+},
+{
+"title":"Rent-a-Girlfriend [Season 4] [Episode 5] WEB-DL [Hindi-English] | All Episodes",
+"im":"6ZpDPUNtVw6UdJoStvVlRZ62yAi",
+"bgi":"ullfy98STkno11rDGi44SK6llwx",
+"dl":"https://s.pptons.com/2025/07/rent-girlfriend.html",
+"year":"2020",
+"duration":"1h per episode",
+"rating":"8.4",
+"genre":"Animation,Comedy",
+"description":"Kinoshita Kazuya is a 20-year-old failure of a college student. He managed to kiss his girlfriend once, but was dumped after a month. Completely spite...",
+"type":"series",
+"cast":"Masayuki Akasaka,Shun Horie,Sora Amamiya,Aoi Yuuki,Nao Toyama"
+},
+{
+"title":"Naruto Shippūden [Season 11] [Episode 20] WEB-DL [Hindi-English-Japanese] | All Episodes",
+"im":"1lxahYOBIMpKqoKoB11qtmaBVP1",
+"bgi":"nAeS7F2B22XQOLh5HVNXn8G3ZRk",
+"dl":"https://s.pptons.com/2025/05/naruto-shippuden.html",
+"dl2":"https://s.pptons.com/2025/05/naruto-shippuden.html",
+"year":"2007",
+"duration":"24m per episode",
+"rating":"8.5",
+"genre":"Animation,Action & Adventure,Sci-Fi & Fantasy",
+"description":"After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work. It will not be easy though as ...",
+"type":"series",
+"cast":"Junko Takeuchi,Noriaki Sugiyama,Chie Nakamura,Kazuhiko Inoue,Showtaro Morikubo"
+},
+{
+"title":"SAKAMOTO DAYS [Season 1] [Episode 18] WEB-DL [Hindi-English] | All Episodes",
+"im":"wRpCqsJFyKNuh5FMegNPrhzp2NF",
+"bgi":"blSthAPRbEOJBowdxppeQqNPRh9",
+"dl":"https://s.pptons.com/2025/07/blog-post_16.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"8.1",
+"genre":"Animation,Comedy,Action & Adventure",
+"description":"Once the greatest hitman of all, Taro Sakamoto retired in the name of love. But when his past catches up, he must fight to protect his beloved family.",
+"type":"series",
+"cast":"Tomokazu Sugita,Nobunaga Shimazaki,Ayane Sakura,Nao Toyama,Hina Kino"
+},
+{
+"title":"Superman [2025] iMAX DS4K WEB-DL [Hindi LiNE-English] | Full Movie",
+"im":"ombsmhYUqR4qqOLOxAyr5V8hbyv",
+"bgi":"eU7IfdWq8KQy0oNd4kKXS0QUR08",
+"dl":"https://pixeldrain.dev/api/file/3gfRaZNL?download",
+"dl2":"https://hubcloud.one/drive/vvuiypwwwvtwlee",
+"year":"2025",
+"duration":"2h 10m",
+"rating":"7.2",
+"genre":"Science Fiction,Adventure,Action",
+"description":"Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.",
+"type":"movie",
+"cast":"David Corenswet,Rachel Brosnahan,Nicholas Hoult,Edi Gathegi,Anthony Carrigan"
+},
+{
+"title":"Virgin Boys [2025] WEB-DL [Hindi-Telugu] | Full Movie",
+"im":"s4QoF3Be7CDzSnYjcUWSDXLwszz",
+"bgi":"eOWJQYEn7Uu7OYdPbYyGplGLagn",
+"dl":"https://pixeldrain.dev/api/file/ok9DvdNG?download",
+"dl2":"https://hubcloud.one/drive/tyt1fcfkkzxtwxn",
+"year":"2025",
+"duration":"2h 13m",
+"rating":"6.1",
+"genre":"Comedy,Romance",
+"description":"Arya, Rony and Dundi three naive boys joins posh co-ed college and clash with a rich brat's gang. Arya finds love, Rony forms a bond and Dundi ca...",
+"type":"movie",
+"cast":"Mitraaw Sharma, Geethanandh, Shrihan Chotu"
 },
 {
 "title":"F1: The Movie [2025] WEB-DL [Hindi-English] | Full Movie",
@@ -57,34 +169,103 @@ const movies = [
 "cast":"John Cena,Danielle Brooks,Freddie Stroma,Jennifer Holland,Steve Agee"
 },
 {
-"title":"War 2 [2025] V2 HQ-HDTC [Hindi LiNE] | Full Movie",
-"im":"kD0TOH6EM1q7UfgugBXuMoZd3m5",
-"bgi":"bNwxRkm97oLUhSYXpSvQNyWJFmg",
-"dl":"https://pixeldrain.dev/api/file/LKRmA87i?download",
-"dl2":"https://hubcloud.one/drive/t1thcmkvomtcv4c",
+"title":"Beyond the Bar [Season 1] [Episode 8] WEB-DL [Hindi-English] | All Episodes",
+"im":"nN6mZZxJBPZXBjLxnjgpnoRvswk",
+"bgi":"8kXhTZX7f92Y4cUICB8jSYoTvKY",
+"dl":"https://s.pptons.com/2025/08/beyond-bar.html",
+"dl2":"https://s.pptons.com/2025/08/beyond-bar.html",
 "year":"2025",
-"duration":"2h 53m",
-"rating":"9.0",
-"genre":"Action,Adventure,Thriller",
-"description":"Years ago Agent Kabir went rogue, became India's greatest villain ever.  As he descends further into the deepest shadows... India sends its deadlies...",
-"type":"movie",
-"cast":"N.T. Rama Rao Jr.,Hrithik Roshan,Kiara Advani,Ashutosh Rana,Anil Kapoor"
+"duration":"1h per episode",
+"rating":"7.0",
+"genre":"Drama",
+"description":"A young, rookie lawyer with a strong sense of justice joins a top law firm — navigating the complex legal world under a cold, demanding mentor.",
+"type":"series",
+"cast":"Lee Jin-uk,Jung Chae-yeon,Jeon Hye-bin,Lee Hak-ju,Kang Sang-jun"
 },
 {
-"title":"Coolie [2025] HD-TC [Hindi] | Full Movie",
-"im":"kr36awqmziEI5mfUElsHB0pj9zP",
-"bgi":"bLn0CPzrrqFLicjNTgrzaIyE0gZ",
-"dl":"https://pixeldrain.dev/api/file/GdrFQHSX?download",
-"dl2":"https://hubcloud.one/drive/wu0wtz1wttwm0kx",
+"title":"Soothravakyam [2025] WEB-DL [Hindi-Malayalam] | Full Movie",
+"im":"fSjfYWfpphuBfKtvGtpw2sHIWrv",
+"bgi":"EXNPelyKWOSvgkYBbn7WhFN1sa",
+"dl":"https://pixeldrain.dev/api/file/vEjStNE3?download",
+"dl2":"https://hubcloud.one/drive/oe5gobi5muy65b6",
 "year":"2025",
-"duration":"2h 50m",
-"rating":"6.3",
-"genre":"Action,Thriller,Crime",
-"description":"A mysterious man takes a stand against a corrupt syndicate exploiting and abusing the workers of a port town.",
+"duration":"1h 48m",
+"rating":"6.8",
+"genre":"Drama,Mystery,Thriller",
+"description":"Christo Xavier, a sub inspector, investigates the case of a missing student, after realizing he was part of his students group that Christo mentored.",
 "type":"movie",
-"cast":"Rajinikanth,Nagarjuna Akkineni,Soubin Shahir,Upendra,Sathyaraj"
+"cast":"Shine Tom Chacko,Deepak Parambol,Vincy Aloshious,Anagha Annet,Meenakshi Warrier"
 },
-
+{
+"title":"Fall for Me [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"nLTs9SNBuk3DuB8D0p3mSsPYN7J",
+"bgi":"3Xo9YEIOsCePdIps1gMVwbo1ciM",
+"dl":"https://pixeldrain.dev/api/file/uoYSNq4d?download",
+"dl2":"https://hubcloud.one/drive/pxxtu6o1konkuj3",
+"year":"2025",
+"duration":"1h 43m",
+"rating":"5.9",
+"genre":"Romance,Thriller",
+"description":"Lilli is suspicious of her sister's new fiance, but when an attractive stranger enters her life, she's suddenly distracted by the thralls of...",
+"type":"movie",
+"cast":"Svenja Jung,Theo Trebs,Tijan Marei,Antje Traue,Thomas Kretschmann"
+},
+{
+"title":"Thalaivan Thalaivii [2025] WEB-DL [Hindi-Tamil] | Full Movie",
+"im":"jfN2iQLfhvziz9YlR9WbB4VVQvk",
+"bgi":"pwrVIBSrjeIiutfa1KvI5e1UdAZ",
+"dl":"https://pixeldrain.dev/api/file/weuxQhpB?download",
+"dl2":"https://hubcloud.one/drive/oeaeew0o2mho1jo",
+"year":"2025",
+"duration":"2h 20m",
+"rating":"8.5",
+"genre":"Romance,Comedy,Drama",
+"description":"Two headstrong lovers navigate a turbulent relationship where passion and conflict intertwine, creating an intense emotional bond through their shared...",
+"type":"movie",
+"cast":"Vijay Sethupathi,Nithya Menen,Chemban Vinod Jose,Roshini Haripriyan,R. K. Suresh"
+},
+{
+"title":"Maareesan [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"c7JGfFgMnNuyF2Q4FSu7Kgip3mK",
+"bgi":"6FIdQDwTqFPueSW3RT2dPNvRxkG",
+"dl":"https://pixeldrain.dev/api/file/XtUXSnRR?download",
+"dl2":"https://hubcloud.one/drive/340klllljuu6l6t",
+"year":"2025",
+"duration":"2h 32m",
+"rating":"8.5",
+"genre":"Thriller,Drama,Action",
+"description":"A petty thief embarks on a road trip with an elderly man suffering from memory loss under deceptive pretenses. As they journey across Tamil Nadu, the ...",
+"type":"movie",
+"cast":"Vadivelu,Fahadh Faasil,Kovai Sarala,Sithara,Renuka"
+},
+{
+"title":"Maalik [2025] WEB-DL [Hindi] | Full Movie",
+"im":"etb6zsDB8SmIWBKXIUI2U73gfUH",
+"bgi":"9PvpylEINCQj9oGShtMgNuC5Pny",
+"dl":"https://pixeldrain.dev/api/file/qMz7xDh6?download",
+"dl2":"https://hubcloud.one/drive/6mm5cm5emmme0h6",
+"year":"2025",
+"duration":"2h 32m",
+"rating":"7.3",
+"genre":"Action,Thriller,Crime,Drama",
+"description":"Set in the rural, rusty and politically charged Allahabad of the 1980s, Maalik is a peek into the making of a dreaded gangster from a humble backgroun...",
+"type":"movie",
+"cast":"Rajkummar Rao,Manushi Chhillar,Saurabh Shukla,Prosenjit Chatterjee,Anshumaan Pushkar"
+},
+{
+"title":"Maa [2025] WEB-DL [Hindi] | Full Movie",
+"im":"kc5n7LJUmvBsVxzAla1ONN8kouP",
+"bgi":"kc5n7LJUmvBsVxzAla1ONN8kouP",
+"dl":"https://pixeldrain.dev/api/file/RDNYXs5t?download",
+"dl2":"https://hubcloud.one/drive/4ms4irpi02jpmr4",
+"year":"2025",
+"duration":"2h 13m",
+"rating":"6.1",
+"genre":"Horror",
+"description":"A mother and daughter encounter a demon in a village where girls have been disappearing.",
+"type":"movie",
+"cast":"Kajol,Ronit Roy,Indraneil Sengupta,Jitin Gulati,Kherin Sharma"
+},
 
 {
 "title":"Lal Salaam [2024] WEB-DL [Hindi] | Full Movie",
@@ -129,19 +310,6 @@ const movies = [
 "cast":"Josh Brolin,Julia Garner,Alden Ehrenreich,Austin Abrams,Cary Christopher"
 },
 {
-"title":"SAKAMOTO DAYS [Season 1] [Episode 17] WEB-DL [Hindi-English] | All Episodes",
-"im":"wRpCqsJFyKNuh5FMegNPrhzp2NF",
-"bgi":"blSthAPRbEOJBowdxppeQqNPRh9",
-"dl":"https://s.pptons.com/2025/07/blog-post_16.html",
-"year":"2025",
-"duration":"1h per episode",
-"rating":"8.1",
-"genre":"Animation,Comedy,Action & Adventure",
-"description":"Once the greatest hitman of all, Taro Sakamoto retired in the name of love. But when his past catches up, he must fight to protect his beloved family.",
-"type":"series",
-"cast":"Tomokazu Sugita,Nobunaga Shimazaki,Ayane Sakura,Nao Toyama,Hina Kino"
-},
-{
 "title":"Elio [2025] WEB-DL [Hindi LiNe-English] | Full Movie",
 "im":"w2ARwtc1zoh0pyfwmyhpZHwuXgK",
 "bgi":"mBDoBHUZHHy9WG7dRFndjB8adhc",
@@ -154,20 +322,6 @@ const movies = [
 "description":"Elio, a space fanatic with an active imagination, finds himself on a cosmic misadventure where he must form new bonds with eccentric alien lifeforms, ...",
 "type":"movie",
 "cast":"Yonas Kibreab,Zoe Saldaña,Remy Edgerly,Brandon Moon,Brad Garrett"
-},
-{
-"title":"Naruto Shippūden [Season 11] [Episode 7] WEB-DL [Hindi-English-Japanese] | All Episodes",
-"im":"1lxahYOBIMpKqoKoB11qtmaBVP1",
-"bgi":"nAeS7F2B22XQOLh5HVNXn8G3ZRk",
-"dl":"https://s.pptons.com/2025/05/naruto-shippuden.html",
-"dl2":"https://s.pptons.com/2025/05/naruto-shippuden.html",
-"year":"2007",
-"duration":"24m per episode",
-"rating":"8.5",
-"genre":"Animation,Action & Adventure,Sci-Fi & Fantasy",
-"description":"After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work. It will not be easy though as ...",
-"type":"series",
-"cast":"Junko Takeuchi,Noriaki Sugiyama,Chie Nakamura,Kazuhiko Inoue,Showtaro Morikubo"
 },
 {
 "title":"Maargan [2025] WEB-DL [Hindi HQ DUB] | Full Movie",
@@ -252,20 +406,6 @@ const movies = [
 "cast":"Aditya Srivastava,Shivaji Satham,Dayanand Shetty,Narendra Gupta,Ansha Sayed"
 },
 {
-"title":"Beyond the Bar [Season 1] [Episode 5] WEB-DL [Hindi-English] | All Episodes",
-"im":"nN6mZZxJBPZXBjLxnjgpnoRvswk",
-"bgi":"8kXhTZX7f92Y4cUICB8jSYoTvKY",
-"dl":"https://s.pptons.com/2025/08/beyond-bar.html",
-"dl2":"https://s.pptons.com/2025/08/beyond-bar.html",
-"year":"2025",
-"duration":"1h per episode",
-"rating":"7.0",
-"genre":"Drama",
-"description":"A young, rookie lawyer with a strong sense of justice joins a top law firm — navigating the complex legal world under a cold, demanding mentor.",
-"type":"series",
-"cast":"Lee Jin-uk,Jung Chae-yeon,Jeon Hye-bin,Lee Hak-ju,Kang Sang-jun"
-},
-{
 "title":"The Great Indian Kapil Show [Season 3] [Episode 9] WEB-DL [Hindi] | All Episodes",
 "im":"6LWtSm2VHfenFBMvmjG9GYgfvSd",
 "bgi":"lPVM7LR0ydKVj2qzdsVgi1akjom",
@@ -292,20 +432,6 @@ const movies = [
 "description":"In a World torn apart by Darkness and Chaos... Witness the Appearance of the Legend, The Half-Man, Half-Lion Avatar-Lord Vishnu's Most Powerful I...",
 "type":"movie",
 "cast":"Jayapurna Das, Ashwin Kumar, Rudra Pratap Ghosh"
-},
-{
-"title":"Superman [2025] WEB-DL [Hindi LiNE-English] | Full Movie",
-"im":"ombsmhYUqR4qqOLOxAyr5V8hbyv",
-"bgi":"eU7IfdWq8KQy0oNd4kKXS0QUR08",
-"dl":"https://pixeldrain.dev/api/file/1qkot7Tv?download",
-"dl2":"https://hubcloud.one/drive/81918dgqpts0n8d",
-"year":"2025",
-"duration":"2h 10m",
-"rating":"7.2",
-"genre":"Science Fiction,Adventure,Action",
-"description":"Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.",
-"type":"movie",
-"cast":"David Corenswet,Rachel Brosnahan,Nicholas Hoult,Edi Gathegi,Anthony Carrigan"
 },
 {
 "title":"JSK - Janaki V vs State of Kerala [2025] WEB-DL [Hindi-Malayalam] | Full Movie",
@@ -1049,20 +1175,6 @@ const movies = [
 "cast":"Saravanan,MV Namritha,Arul D. Shankar,Iniya ram,Thiruselvam"
 },
 {
-"title":"Maalik [2025] WEB-DL [Hindi] | Full Movie",
-"im":"etb6zsDB8SmIWBKXIUI2U73gfUH",
-"bgi":"9PvpylEINCQj9oGShtMgNuC5Pny",
-"dl":"https://pixeldrain.dev/api/file/H9qrPLKE?download",
-"dl2":"https://hubcloud.one/drive/u1ykfovu4ayq4pw",
-"year":"2025",
-"duration":"2h 30m",
-"rating":"8.7",
-"genre":"Action,Thriller,Crime,Drama",
-"description":"Set in the rural, rusty and politically charged Allahabad of the 1980s, Maalik is a peek into the making of a dreaded gangster from a humble backgroun...",
-"type":"movie",
-"cast":"Rajkummar Rao,Manushi Chhillar,Saurabh Shukla,Prosenjit Chatterjee,Anshumaan Pushkar"
-},
-{
 "title":"WWE SummerSlam 2025 - Saturday [2025] WEB-DL [Hindi-English] | Full Movie",
 "im":"indblmC8wcPffpGBPFDvFMnFkgc",
 "bgi":"AtVtPKu9vv8jG1tZVsc4rGWiAin",
@@ -1310,19 +1422,6 @@ const movies = [
 "description":"High schooler Wakana Gojo wants to become a kashirashi—a master craftsman who makes traditional Japanese Hina dolls. Though he's gung-ho about ...",
 "type":"series",
 "cast":"Hina Suguta,Shoya Ishige,Atsumi Tanezaki,Hina Youmiya,Atsushi Ono"
-},
-{
-"title":"Rent-a-Girlfriend [Season 4] [Episode 2] WEB-DL [Hindi-English] | All Episodes",
-"im":"6ZpDPUNtVw6UdJoStvVlRZ62yAi",
-"bgi":"ullfy98STkno11rDGi44SK6llwx",
-"dl":"https://s.pptons.com/2025/07/rent-girlfriend.html",
-"year":"2020",
-"duration":"1h per episode",
-"rating":"8.4",
-"genre":"Animation,Comedy",
-"description":"Kinoshita Kazuya is a 20-year-old failure of a college student. He managed to kiss his girlfriend once, but was dumped after a month. Completely spite...",
-"type":"series",
-"cast":"Masayuki Akasaka,Shun Horie,Sora Amamiya,Aoi Yuuki,Nao Toyama"
 },
 {
 "title":"Rudra Garuda Purana [2025] WEB-DL [Hindi] | Full Movie",
@@ -1716,20 +1815,6 @@ const movies = [
 "type":"movie",
 "cast":"Nora Arnezeder,Iain Glen,Sarah-Sofie Boussnina,Ṣọpẹ́ Dìrísù,Sebastian Roché"
 },    
-{
-"title":"Maa [2025] WEB-DL [Hindi] | Full Movie",
-"im":"kc5n7LJUmvBsVxzAla1ONN8kouP",
-"bgi":"kc5n7LJUmvBsVxzAla1ONN8kouP",
-"dl":"https://pixeldrain.dev/api/file/HyHVPkPZ?download",
-"dl2":"https://hubcloud.one/drive/ftetxct8xffekxh",
-"year":"2025",
-"duration":"2h 13m",
-"rating":"6.1",
-"genre":"Horror",
-"description":"A mother and daughter encounter a demon in a village where girls have been disappearing.",
-"type":"movie",
-"cast":"Kajol,Ronit Roy,Indraneil Sengupta,Jitin Gulati,Kherin Sharma"
-},
 {
 "title":"Good Boy [Season 1] [Episode 15] WEB-DL [Hindi-Korean]",
 "im":"zsZyvEU2cbNknrlESV9bh3YMhJH",

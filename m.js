@@ -1,8 +1,76 @@
 // Movies data
 const movies = [
 
-
-
+{
+"title":"Thunderbolts* [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"hqcexYHbiTBfDIdDWxrxPtVndBX",
+"bgi":"rthMuZfFv4fqEU4JVbgSW9wQ8rs",
+"dl":"https://pixeldrain.dev/api/file/nSWLMZ6k?download",
+"dl2":"https://hubcloud.one/drive/8ssjdqqvszqahe9",
+"year":"2025",
+"duration":"2h 7m",
+"rating":"7.4",
+"genre":"Action,Science Fiction,Adventure",
+"description":"After finding themselves ensnared in a death trap, seven disillusioned castoffs must embark on a dangerous mission that will force them to confront th...",
+"type":"movie",
+"cast":"Florence Pugh,Sebastian Stan,Julia Louis-Dreyfus,Lewis Pullman,David Harbour"
+},
+{
+"title":"SaamRajya - Kingdom [2025] WEB-DL [Hindi] | Full Movie",
+"im":"339qTJigODEQ6HY5n8SYhlvCeOI",
+"bgi":"ssDPH5LjnOcmDf17Jt0g2Amevvx",
+"dl":"https://pixeldrain.dev/api/file/ae2snhfe?download",
+"dl2":"https://hubcloud.one/drive/ugdzdd2012xl2ig",
+"year":"2025",
+"duration":"2h 40m",
+"rating":"7.1",
+"genre":"Action,Thriller",
+"description":"Soori, a modest police constable, is unintentionally dragged into a dangerous undercover spy operation in Sri Lanka for the Indian government . His jo...",
+"type":"movie",
+"cast":"Vijay Deverakonda,Bhagyashri Borse,Satyadev Kancharana,Venkitesh V P,Ronit Kamra"
+},
+{
+"title":"The Bad Guys 2 [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"26oSPnq0ct59l07QOXZKyzsiRtN",
+"bgi":"jvpkBenB6hv19WWYVlaiow8zklq",
+"dl":"https://pixeldrain.dev/api/file/rZwKE1kJ?download",
+"dl2":"https://hubcloud.one/drive/wowuwulrocr77vb",
+"year":"2025",
+"duration":"1h 44m",
+"rating":"7.8",
+"genre":"Animation,Family,Comedy,Crime,Adventure",
+"description":"The now-reformed Bad Guys are trying (very, very hard) to be good, but instead find themselves hijacked into a high-stakes, globe-trotting heist, mast...",
+"type":"movie",
+"cast":"Sam Rockwell,Marc Maron,Awkwafina,Craig Robinson,Anthony Ramos"
+},
+{
+"title":"Tehran [2025] WEB-DL [Hindi] | Full Movie",
+"im":"gbz9Y1NwnlE2GxXmgWTKZC1fste",
+"bgi":"nrDyzITJljfb6As9qnLnH8rf4Is",
+"dl":"https://pixeldrain.dev/api/file/LnjxRdVa?download",
+"dl2":"https://hubcloud.one/drive/9riicecrourk9oi",
+"year":"2025",
+"duration":"1h 56m",
+"rating":"5.5",
+"genre":"Action,Thriller",
+"description":"On 13th February 2012, a magnetic bomb exploded, destroying an Israeli embassy vehicle in Delhi. ACP Rajiv Kumar, leading the investigation, suspects ...",
+"type":"movie",
+"cast":"John Abraham,Manushi Chhillar,Neeru Bajwa,Madhurima Tuli,Elnaaz Norouzi"
+},
+{
+"title":"I Know What You Did Last Summer [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"A06yXys3hrCWu8xiNoHCFLTG5SH",
+"bgi":"gVPjIcYo1gTaACF43OMsralrcUS",
+"dl":"https://pixeldrain.dev/api/file/yXGVc6Qm?download",
+"dl2":"https://hubcloud.one/drive/umxcbvb1fxl10nj",
+"year":"2025",
+"duration":"1h 51m",
+"rating":"5.9",
+"genre":"Horror,Mystery,Thriller,Action,Adventure",
+"description":"When five friends inadvertently cause a deadly car accident, they cover up their involvement and make a pact to keep it a secret rather than face the ...",
+"type":"movie",
+"cast":"Madelyn Cline,Chase Sui Wonders,Jonah Hauer-King,Tyriq Withers,Sarah Pidgeon"
+},
 {
 "title":"Bigg Boss [Season 19] [Episode 2] WEB-DL [Hindi] | All Episodes",
 "im":"xVjvkjuDUQfCjrTJ1e4mpFyD2wH",
@@ -58,6 +126,49 @@ const movies = [
 "description":"A mysterious man takes a stand against a corrupt syndicate exploiting and abusing the workers of a port town.",
 "type":"movie",
 "cast":"Rajinikanth,Nagarjuna Akkineni,Soubin Shahir,Upendra,Sathyaraj"
+},
+
+{
+"title":"Upload [Season 4] WEB-DL [Hindi-English] | All Episodes",
+"im":"aQPvW8ksMBpmRVIRJXskryoSq6f",
+"bgi":"moH3PdysmUl8vrsYVM4l2ZZiRAd",
+"dl":"https://s.pptons.com/2025/08/upload.html",
+"dl2":"https://s.pptons.com/2025/08/upload.html",
+"year":"2020",
+"duration":"1h per episode",
+"rating":"7.9",
+"genre":"Comedy,Sci-Fi & Fantasy,Drama",
+"description":"In 2033, people who are near death can be “uploaded” into virtual reality hotels run by 6 tech firms. Cash-strapped Nora lives in Brooklyn and wor...",
+"type":"series",
+"cast":"Robbie Amell,Andy Allo,Allegra Edwards,Zainab Johnson,Kevin Bigley"
+},
+{
+"title":"Zora [2025] HD-RIP [Hindi] | Full Movie",
+"im":"15tO9pmJyoEIlujET8mc1Xf5fy8",
+"bgi":"gEGN3C2lsG6Iv0yIjHsZmxYgxdh",
+"dl":"https://pixeldrain.dev/api/file/uEEm3avb?download",
+"dl2":"https://hubcloud.one/drive/vmmj1lilxbymuyw",
+"year":"2025",
+"duration":"2h 5m",
+"rating":"7.0",
+"genre":"Drama,Mystery,Thriller",
+"description":"A cop pursues his father's killer after 20 years, guided by a perfume bottle marked Scent By The Devil. His quest for vengeance uncovers hidden t...",
+"type":"movie",
+"cast":"Neetu Bhatt,Nikhil Diwan,Altaf Hussain,Karanveer Khullar,Ravinder Kuhar"
+},
+{
+"title":"Andaaz 2 [2025] HD-RIP [Hindi] | Full Movie",
+"im":"4aev7jUk0ITeUovbirv5EFdgKAR",
+"bgi":"vEwsR923L4hC5ehUbGjSHL9VL3R",
+"dl":"https://pixeldrain.dev/api/file/Mp7QSSio?download",
+"dl2":"https://hubcloud.one/drive/oqei1ievq1oyeei",
+"year":"2025",
+"duration":"2h 26m",
+"rating":"7.0",
+"genre":"Romance,Drama",
+"description":"A singer finds himself at the centre of a love triangle as his family copes with news of illness and he is targeted by a violent thug.",
+"type":"movie",
+"cast":"Aayush Kumar,Aakaisha,Natasha Fernandez,Parmarth Singh,Shrikant Maski"
 },
 {
 "title":"Rent-a-Girlfriend [Season 4] [Episode 5] WEB-DL [Hindi-English] | All Episodes",
@@ -560,20 +671,6 @@ const movies = [
 "cast":"Priya Bapat,Prajakta Koli,Karanvir Malhotra,Surveen Chawla,Vatsal Sheth"
 },
 {
-"title":"Tehran [2025] WEB-DL [Hindi] | Full Movie",
-"im":"gbz9Y1NwnlE2GxXmgWTKZC1fste",
-"bgi":"nrDyzITJljfb6As9qnLnH8rf4Is",
-"dl":"https://pixeldrain.dev/api/file/U48Z1Jja?download",
-"dl2":"https://hubcloud.one/drive/c0dd1n2nxdzicn2",
-"year":"2025",
-"duration":"1h 56m",
-"rating":"5.5",
-"genre":"Action,Thriller",
-"description":"On 13th February 2012, a magnetic bomb exploded, destroying an Israeli embassy vehicle in Delhi. ACP Rajiv Kumar, leading the investigation, suspects ...",
-"type":"movie",
-"cast":"John Abraham,Manushi Chhillar,Neeru Bajwa,Madhurima Tuli,Elnaaz Norouzi"
-},
-{
 "title":"Mr & Mrs 420 Again [2025] WEB-DL [Punjabi] | Full Movie",
 "im":"aLz55lqo3geX4GP8lmroyYV7ecq",
 "bgi":"cNpqTEeH12KnKmSDKjwTgDFGI3B",
@@ -811,20 +908,6 @@ const movies = [
 "cast":"Vijay Kanishka,R. Sarathkumar,Samuthirakani,Sithara,Gautham Vasudev Menon"
 },
 {
-"title":"Zora [2025] HD-TC [Hindi] | Full Movie",
-"im":"15tO9pmJyoEIlujET8mc1Xf5fy8",
-"bgi":"gEGN3C2lsG6Iv0yIjHsZmxYgxdh",
-"dl":"https://pixeldrain.dev/api/file/bsQdshw4?download",
-"dl2":"https://hubcloud.one/drive/xyqyhxbxrq1ddhr",
-"year":"2025",
-"duration":"2h 5m",
-"rating":"7.0",
-"genre":"Drama,Mystery,Thriller",
-"description":"A cop pursues his father's killer after 20 years, guided by a perfume bottle marked Scent By The Devil. His quest for vengeance uncovers hidden t...",
-"type":"movie",
-"cast":"Neetu Bhatt,Nikhil Diwan,Altaf Hussain,Karanveer Khullar,Ravinder Kuhar"
-},
-{
 "title":"Nadikar [2024] WEB-DL [Hindi-Malayalam] | Full Movie",
 "im":"xhLOOWi8d89Qjj1BfCHO2SSBvVF",
 "bgi":"eHbVF8yBkOZn6PhmIboSzpQyMTZ",
@@ -837,20 +920,6 @@ const movies = [
 "description":"Follows the life of superstar David Padikkal. David is a good actor but there comes a point in his life when he is forced to look inward to locate his...",
 "type":"movie",
 "cast":"Tovino Thomas,Soubin Shahir,Bhavana,Balu Varghese,Suresh Krishna"
-},
-{
-"title":"Andaaz 2 [2025] HD-TC [Hindi] | Full Movie",
-"im":"4aev7jUk0ITeUovbirv5EFdgKAR",
-"bgi":"vEwsR923L4hC5ehUbGjSHL9VL3R",
-"dl":"https://pixeldrain.dev/api/file/BnBrSx8R?download",
-"dl2":"https://hubcloud.one/drive/oazok6fttvzel62",
-"year":"2025",
-"duration":"2h 26m",
-"rating":"7.0",
-"genre":"Romance,Drama",
-"description":"A singer finds himself at the centre of a love triangle as his family copes with news of illness and he is targeted by a violent thug.",
-"type":"movie",
-"cast":"Aayush Kumar,Aakaisha,Natasha Fernandez,Parmarth Singh,Shrikant Maski"
 },
 {
 "title":"Bindiya Ke Bahubali [Season 1] WEB-DL [Hindi] | All Episodes",
@@ -1019,20 +1088,6 @@ const movies = [
 "description":"Years after settling an epic family feud and surviving house arrest in Punjab, Jassi Singh Randhawa returns this time chasing love, not trouble. But w...",
 "type":"movie",
 "cast":"Ajay Devgn,Mrunal Thakur,Ravi Kishan,Neeru Bajwa,Vindu Dara Singh"
-},
-{
-"title":"SaamRajya - Kingdom [2025] V2-HDTC [Hindi] | Full Movie",
-"im":"339qTJigODEQ6HY5n8SYhlvCeOI",
-"bgi":"ssDPH5LjnOcmDf17Jt0g2Amevvx",
-"dl":"https://pixeldrain.dev/api/file/ZVqNBaMc?download",
-"dl2":"https://hubcloud.one/drive/svuvfuhglfrfbdb",
-"year":"2025",
-"duration":"2h 40m",
-"rating":"7.1",
-"genre":"Action,Thriller",
-"description":"Soori, a modest police constable, is unintentionally dragged into a dangerous undercover spy operation in Sri Lanka for the Indian government . His jo...",
-"type":"movie",
-"cast":"Vijay Deverakonda,Bhagyashri Borse,Satyadev Kancharana,Venkitesh V P,Ronit Kamra"
 },
 {
 "title":"The Pickup [2025] WEB-DL [Hindi-English] | Full Movie",
@@ -6061,21 +6116,6 @@ const movies = [
 "type":"movie",
 "quality":"web-dl",
 "cast":"Angelina Jolie,Elle Fanning,Imelda Staunton,Sharlto Copley,Lesley Manville"
-},
-{
-"title":"Thunderbolts* [2025] PRE-HD [Hindi] | Full Movie",
-"im":"1top0ND4DFGNvCdl0TwPl7Tv7sB",
-"bgi":"3Ym8diDGcHqtsTSo53xwiWJk38U",
-"dl":"https://pixeldrain.net/api/file/eCwrCqf2?download",
-"link":"tt20969586",
-"year":"2025",
-"duration":"105 min",
-"rating":"7.3",
-"genre":"Action, Adventure, Superhero",
-"description":"The Thunderbolts, a team of anti-heroes, are tasked with saving the world from a new and dangerous threat. Will they be able to overcome their own demons to succeed?",
-"type":"movie",
-"quality":"pre-hd",
-"cast":"Florence Pugh, Sebastian Stan, Wyatt Russell, David Harbour"
 },
 {
 "title":"Aladdin [2019] WEB-DL [Hindi-English] | Full Movie",

@@ -30,6 +30,20 @@ const movies = [
 "cast":"Lu Yanting,Joseph,Han Mo,Chen Hao,Lu Qi"
 },
 {
+"title":"SaamRajya - Kingdom [2025] WEB-DL [Hindi] | Full Movie",
+"im":"339qTJigODEQ6HY5n8SYhlvCeOI",
+"bgi":"ssDPH5LjnOcmDf17Jt0g2Amevvx",
+"dl":"https://pixeldrain.dev/api/file/ae2snhfe?download",
+"dl2":"https://hubcloud.one/drive/ugdzdd2012xl2ig",
+"year":"2025",
+"duration":"2h 40m",
+"rating":"7.1",
+"genre":"Action,Thriller",
+"description":"Soori, a modest police constable, is unintentionally dragged into a dangerous undercover spy operation in Sri Lanka for the Indian government . His jo...",
+"type":"movie",
+"cast":"Vijay Deverakonda,Bhagyashri Borse,Satyadev Kancharana,Venkitesh V P,Ronit Kamra"
+},
+{
 "title":"Rangasthalam [2018] WEB-DL [Hindi-Telugu] | Full Movie",
 "im":"oZGZ8jJ3y64goe5NEqteEeXsfyJ",
 "bgi":"6JdOkSgd8wkAQbT6Ncib4DrnyiS",
@@ -70,20 +84,6 @@ const movies = [
 "description":"A mysterious man takes a stand against a corrupt syndicate exploiting and abusing the workers of a port town.",
 "type":"movie",
 "cast":"Rajinikanth,Nagarjuna Akkineni,Soubin Shahir,Upendra,Sathyaraj"
-},
-{
-"title":"SaamRajya - Kingdom [2025] WEB-DL [Hindi] | Full Movie",
-"im":"339qTJigODEQ6HY5n8SYhlvCeOI",
-"bgi":"ssDPH5LjnOcmDf17Jt0g2Amevvx",
-"dl":"https://pixeldrain.dev/api/file/ae2snhfe?download",
-"dl2":"https://hubcloud.one/drive/ugdzdd2012xl2ig",
-"year":"2025",
-"duration":"2h 40m",
-"rating":"7.1",
-"genre":"Action,Thriller",
-"description":"Soori, a modest police constable, is unintentionally dragged into a dangerous undercover spy operation in Sri Lanka for the Indian government . His jo...",
-"type":"movie",
-"cast":"Vijay Deverakonda,Bhagyashri Borse,Satyadev Kancharana,Venkitesh V P,Ronit Kamra"
 },
 {
 "title":"Death Note [Season 1] [Episode 4] WEB-DL [Hindi-English] | All Episodes",

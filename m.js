@@ -16,6 +16,20 @@ const movies = [
 "cast":"Florence Pugh,Sebastian Stan,Julia Louis-Dreyfus,Lewis Pullman,David Harbour"
 },
 {
+"title":"Ne Zha 2 [2025] WEB-DL [Hindi-Chinese] | Full Movie",
+"im":"5lUmWTGkEcYnXujixXn31o9q2T0",
+"bgi":"zxi6WQPVc0uQAG5TtLsKvxYHApC",
+"dl":"https://pixeldrain.dev/api/file/fEtN5QuH?download",
+"dl2":"https://hubcloud.one/drive/saej73aurxka3js",
+"year":"2025",
+"duration":"2h 24m",
+"rating":"8.1",
+"genre":"Animation,Fantasy,Adventure,Action",
+"description":"Following the Tribulation, although the souls of Ne Zha and Ao Bing were preserved, their physical bodies will soon be destroyed. Tai Yi Zhen Ren plan...",
+"type":"movie",
+"cast":"Lu Yanting,Joseph,Han Mo,Chen Hao,Lu Qi"
+},
+{
 "title":"SaamRajya - Kingdom [2025] WEB-DL [Hindi] | Full Movie",
 "im":"339qTJigODEQ6HY5n8SYhlvCeOI",
 "bgi":"ssDPH5LjnOcmDf17Jt0g2Amevvx",
@@ -28,6 +42,20 @@ const movies = [
 "description":"Soori, a modest police constable, is unintentionally dragged into a dangerous undercover spy operation in Sri Lanka for the Indian government . His jo...",
 "type":"movie",
 "cast":"Vijay Deverakonda,Bhagyashri Borse,Satyadev Kancharana,Venkitesh V P,Ronit Kamra"
+},
+{
+"title":"The Thursday Murder Club [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"jbnazCHr8S2l2glyvjPTpa4NbEw",
+"bgi":"4KN06gns94rQFoYQWDGunK7Cob4",
+"dl":"https://pixeldrain.dev/api/file/cao8yXUL?download",
+"dl2":"https://hubcloud.one/drive/oaxiuz1kjv3opuo",
+"year":"2025",
+"duration":"1h 58m",
+"rating":"6.8",
+"genre":"Comedy,Mystery,Crime,Thriller,Drama",
+"description":"A group of senior sleuths passionate about solving cold cases get plunged into a real-life murder mystery in this comic crime caper.",
+"type":"movie",
+"cast":"Helen Mirren,Pierce Brosnan,Ben Kingsley,Celia Imrie,David Tennant"
 },
 {
 "title":"The Bad Guys 2 [2025] WEB-DL [Hindi-English] | Full Movie",
@@ -1340,20 +1368,6 @@ const movies = [
 "description":"Suspicious of the events ensnaring their former colleagues, Nite Owl and Silk Spectre are spurred out of retirement to investigate. As they grapple wi...",
 "type":"movie",
 "cast":"Troy Baker,Adrienne Barbeau,Michael Cerveris,Zehra Fazal,Phil Fondacaro"
-},
-{
-"title":"Ne Zha 2 [2025] WEB-DL [Hindi LiNE-Chinese] | Full Movie",
-"im":"5lUmWTGkEcYnXujixXn31o9q2T0",
-"bgi":"zxi6WQPVc0uQAG5TtLsKvxYHApC",
-"dl":"https://pixeldrain.dev/api/file/Bs4QtnAr?download",
-"dl2":"https://hubcloud.one/drive/fk2z4wk1afwwpaw",
-"year":"2025",
-"duration":"2h 24m",
-"rating":"8.1",
-"genre":"Animation,Fantasy,Adventure,Action",
-"description":"Following the Tribulation, although the souls of Ne Zha and Ao Bing were preserved, their physical bodies will soon be destroyed. Tai Yi Zhen Ren plan...",
-"type":"movie",
-"cast":"Lu Yanting,Joseph,Han Mo,Chen Hao,Lu Qi"
 },
 {
 "title":"Marked [Season 1] WEB-DL [Hindi-English] | All Episodes",

@@ -30,6 +30,48 @@ const movies = [
 "cast":"Lu Yanting,Joseph,Han Mo,Chen Hao,Lu Qi"
 },
 {
+"title":"Rangasthalam [2018] WEB-DL [Hindi-Telugu] | Full Movie",
+"im":"oZGZ8jJ3y64goe5NEqteEeXsfyJ",
+"bgi":"6JdOkSgd8wkAQbT6Ncib4DrnyiS",
+"dl":"https://pixeldrain.dev/api/file/qKCE9t4o?download",
+"dl2":"https://hubcloud.one/drive/tiww9friilltlcw",
+"year":"2018",
+"duration":"2h 59m",
+"rating":"7.1",
+"genre":"Action,Drama",
+"description":"Chitti Babu begins to suspect his elder brother's life is in danger after they team up to lock horns with their village president and overthrow h...",
+"type":"movie",
+"cast":"Ram Charan,Aadhi Pinisetty,Samantha Ruth Prabhu,Jagapati Babu,Prakash Raj"
+},
+{
+"title":"War 2 [2025] V2 HQ-HDTC [Hindi LiNE] | Full Movie",
+"im":"kD0TOH6EM1q7UfgugBXuMoZd3m5",
+"bgi":"bNwxRkm97oLUhSYXpSvQNyWJFmg",
+"dl":"https://pixeldrain.dev/api/file/LKRmA87i?download",
+"dl2":"https://hubcloud.one/drive/t1thcmkvomtcv4c",
+"year":"2025",
+"duration":"2h 53m",
+"rating":"9.0",
+"genre":"Action,Adventure,Thriller",
+"description":"Years ago Agent Kabir went rogue, became India's greatest villain ever.  As he descends further into the deepest shadows... India sends its deadlies...",
+"type":"movie",
+"cast":"N.T. Rama Rao Jr.,Hrithik Roshan,Kiara Advani,Ashutosh Rana,Anil Kapoor"
+},
+{
+"title":"Coolie [2025] HD-TC [Hindi] | Full Movie",
+"im":"kr36awqmziEI5mfUElsHB0pj9zP",
+"bgi":"bLn0CPzrrqFLicjNTgrzaIyE0gZ",
+"dl":"https://pixeldrain.dev/api/file/GdrFQHSX?download",
+"dl2":"https://hubcloud.one/drive/wu0wtz1wttwm0kx",
+"year":"2025",
+"duration":"2h 50m",
+"rating":"6.3",
+"genre":"Action,Thriller,Crime",
+"description":"A mysterious man takes a stand against a corrupt syndicate exploiting and abusing the workers of a port town.",
+"type":"movie",
+"cast":"Rajinikanth,Nagarjuna Akkineni,Soubin Shahir,Upendra,Sathyaraj"
+},
+{
 "title":"SaamRajya - Kingdom [2025] WEB-DL [Hindi] | Full Movie",
 "im":"339qTJigODEQ6HY5n8SYhlvCeOI",
 "bgi":"ssDPH5LjnOcmDf17Jt0g2Amevvx",
@@ -224,49 +266,6 @@ const movies = [
 "type":"series",
 "cast":"Salman Khan,Devoleena Bhattacharjee,Vikas Gupta,Rakhi Sawant,Sidharth Shukla"
 },
-{
-"title":"Rangasthalam [2018] WEB-DL [Hindi-Telugu] | Full Movie",
-"im":"oZGZ8jJ3y64goe5NEqteEeXsfyJ",
-"bgi":"6JdOkSgd8wkAQbT6Ncib4DrnyiS",
-"dl":"https://pixeldrain.dev/api/file/qKCE9t4o?download",
-"dl2":"https://hubcloud.one/drive/tiww9friilltlcw",
-"year":"2018",
-"duration":"2h 59m",
-"rating":"7.1",
-"genre":"Action,Drama",
-"description":"Chitti Babu begins to suspect his elder brother's life is in danger after they team up to lock horns with their village president and overthrow h...",
-"type":"movie",
-"cast":"Ram Charan,Aadhi Pinisetty,Samantha Ruth Prabhu,Jagapati Babu,Prakash Raj"
-},
-{
-"title":"War 2 [2025] V2 HQ-HDTC [Hindi LiNE] | Full Movie",
-"im":"kD0TOH6EM1q7UfgugBXuMoZd3m5",
-"bgi":"bNwxRkm97oLUhSYXpSvQNyWJFmg",
-"dl":"https://pixeldrain.dev/api/file/LKRmA87i?download",
-"dl2":"https://hubcloud.one/drive/t1thcmkvomtcv4c",
-"year":"2025",
-"duration":"2h 53m",
-"rating":"9.0",
-"genre":"Action,Adventure,Thriller",
-"description":"Years ago Agent Kabir went rogue, became India's greatest villain ever.  As he descends further into the deepest shadows... India sends its deadlies...",
-"type":"movie",
-"cast":"N.T. Rama Rao Jr.,Hrithik Roshan,Kiara Advani,Ashutosh Rana,Anil Kapoor"
-},
-{
-"title":"Coolie [2025] HD-TC [Hindi] | Full Movie",
-"im":"kr36awqmziEI5mfUElsHB0pj9zP",
-"bgi":"bLn0CPzrrqFLicjNTgrzaIyE0gZ",
-"dl":"https://pixeldrain.dev/api/file/GdrFQHSX?download",
-"dl2":"https://hubcloud.one/drive/wu0wtz1wttwm0kx",
-"year":"2025",
-"duration":"2h 50m",
-"rating":"6.3",
-"genre":"Action,Thriller,Crime",
-"description":"A mysterious man takes a stand against a corrupt syndicate exploiting and abusing the workers of a port town.",
-"type":"movie",
-"cast":"Rajinikanth,Nagarjuna Akkineni,Soubin Shahir,Upendra,Sathyaraj"
-},
-
 {
 "title":"Upload [Season 4] WEB-DL [Hindi-English] | All Episodes",
 "im":"aQPvW8ksMBpmRVIRJXskryoSq6f",

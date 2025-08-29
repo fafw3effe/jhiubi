@@ -43,6 +43,21 @@ const movies = [
 "type":"movie",
 "cast":"Vijay Deverakonda,Bhagyashri Borse,Satyadev Kancharana,Venkitesh V P,Ronit Kamra"
 },
+
+{
+"title":"Vash Level 2 [2025] HD-TC [Hindi-Gujarati] | Full Movie",
+"im":"lCHApvPEMJfbJuIHQLGO8JfWdAC",
+"bgi":"1VsuIGwKfp0Xb1H9VDQ5JdgDYR1",
+"dl":"https://pixeldrain.dev/api/file/suDkRtAU?download",
+"dl2":"https://hubcloud.one/drive/peprurpo3ucrorq",
+"year":"2025",
+"duration":"1h 43m",
+"rating":"10.0",
+"genre":"Thriller,Horror",
+"description":"Twelve years after saving his daughter Arya from a dark force, Atharva learns it never left her. When strange events begin again, he must fight to sav...",
+"type":"movie",
+"cast":"Janki Bodiwala,Hiten Kumar,Hitu Kanodia,Monal Gajjar,Chetan Daiya"
+},
 {
 "title":"The Thursday Murder Club [2025] WEB-DL [Hindi-English] | Full Movie",
 "im":"jbnazCHr8S2l2glyvjPTpa4NbEw",

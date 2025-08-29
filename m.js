@@ -43,7 +43,103 @@ const movies = [
 "type":"movie",
 "cast":"Vijay Deverakonda,Bhagyashri Borse,Satyadev Kancharana,Venkitesh V P,Ronit Kamra"
 },
-
+{
+"title":"Death Note [Season 1] [Episode 4] WEB-DL [Hindi-English] | All Episodes",
+"im":"tCZFfYTIwrR7n94J6G14Y4hAFU6",
+"bgi":"koBa94NxTaGe2FoDzlXMuJptsv0",
+"dl":"https://s.pptons.com/2025/08/death-note.html",
+"dl2":"https://s.pptons.com/2025/08/death-note.html",
+"year":"2006",
+"duration":"1h per episode",
+"rating":"8.6",
+"genre":"Animation,Mystery,Sci-Fi & Fantasy",
+"description":"Light Yagami is an ace student with great prospects—and he's bored out of his mind. But all that changes when he finds the Death Note, a notebook ...",
+"type":"series",
+"cast":"Mamoru Miyano,Shido Nakamura,Aya Hirano,Kappei Yamaguchi,Kimiko Saito"
+},
+{
+"title":"Love Untangled [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"iJqDzZdk0rQUBqTnuZgBNvwkX1Y",
+"bgi":"oBcvmHD7lbaX8RZ7NXvO05fIJef",
+"dl":"https://pixeldrain.dev/api/file/P87ojQb2?download",
+"dl2":"https://hubcloud.one/drive/yie80yu2hii1s20",
+"year":"2025",
+"duration":"2h 1m",
+"rating":"7.0",
+"genre":"Romance,Drama,Comedy",
+"description":"A lovestruck teen plans to win the school heartthrob by going from curly to straight hair — until a new transfer student changes everything.",
+"type":"movie",
+"cast":"Shin Eun-soo,Gong Myoung,Cha Woo-min,Youn Sang-hyun,Kang Mi-na"
+},
+{
+"title":"Peacemaker [Season 2] [Episode 2] WEB-DL [Hindi-English] | All Episodes",
+"im":"bUYOeu8A3mjtqWWoKDLzjBkdLa1",
+"bgi":"pj1wFbZF3gpEg7F0EreXTvZNZTG",
+"dl":"https://s.pptons.com/2025/07/blog-post_20.html",
+"year":"2022",
+"duration":"1h per episode",
+"rating":"8.2",
+"genre":"Action & Adventure,Sci-Fi & Fantasy,Drama",
+"description":"The continuing story of Peacemaker - a compellingly vainglorious man who believes in peace at any cost, no matter how many people he has to kill to ...",
+"type":"series",
+"cast":"John Cena,Danielle Brooks,Freddie Stroma,Jennifer Holland,Steve Agee"
+},
+{
+"title":"Maargan [2025] WEB-DL [Hindi + Tamil] | Full Movie",
+"im":"sgNetedu19Ar9LkUXGNheh9NL1D",
+"bgi":"sTwYXYIw79TlBKRQ7Cdzev28vSQ",
+"dl":"https://pixeldrain.dev/api/file/7AcDHYFH?download",
+"dl2":"https://hubcloud.one/drive/e9ww0bpbrwet1sb",
+"year":"2025",
+"duration":"2h 12m",
+"rating":"7.5",
+"genre":"Thriller,Crime",
+"description":"ADGP Dhruv, a seasoned high-ranking police officer haunted by a tragic past, grapples with a labyrinthine case, where every clue unearths a darker sec...",
+"type":"movie",
+"cast":"Vijay Antony,Ajay Dhisan,Brigida Saga,Samuthirakani,Deepshika Umapathy"
+},
+{
+"title":"Chief of War [Season 1] [Episode 6] WEB-DL [English] | All Episodes",
+"im":"8Mckh3qJRTzXTQNZtpb133RHmO4",
+"bgi":"mwVrLbaue8AqjFtF6lY6aakTtfb",
+"dl":"https://s.pptons.com/2025/08/chief-of-war.html",
+"dl2":"https://s.pptons.com/2025/08/chief-of-war.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"6.8",
+"genre":"Drama",
+"description":"With Hawaii's four kingdoms divided by war, the ferocious warrior Ka'iana embarks on an epic mission to unite his people—as an existential thr...",
+"type":"series",
+"cast":"Jason Momoa,Luciane Buchanan,Temuera Morrison,Te Ao o Hinepehinga,Cliff Curtis"
+},
+{
+"title":"Shadow Force [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"9LCpHFXZgkqp2AWiYq0mGbfZauk",
+"bgi":"lBsbWXGn9maPKGhN3fozTU3BH0r",
+"dl":"https://pixeldrain.dev/api/file/zJMiBFYu?download",
+"dl2":"https://hubcloud.one/drive/ssy12xsbtiyipge",
+"year":"2025",
+"duration":"1h 43m",
+"rating":"6.1",
+"genre":"Action,Drama,Thriller",
+"description":"Kyrah and Isaac were once the leaders of a multinational special forces group called Shadow Force. They broke the rules by falling in love, and in ord...",
+"type":"movie",
+"cast":"Kerry Washington,Omar Sy,Jahleel Kamara,Mark Strong,Da&#39;Vine Joy Randolph"
+},
+{
+"title":"Metro... In Dino [2025] WEB-DL [Hindi] | Full Movie",
+"im":"rG9CCeTbZ77PiFPY8zywIysf6Vy",
+"bgi":"8ycWZizMNfYlQE5CdLSbOboNDko",
+"dl":"https://pixeldrain.dev/api/file/j52pwLa4?download",
+"dl2":"https://hubcloud.one/drive/v5si9b0vs2k025s",
+"year":"2025",
+"duration":"2h 39m",
+"rating":"8.0",
+"genre":"Drama,Romance,Comedy",
+"description":"Follows interconnected stories of several different couples, each facing a crossroads at different stages in their lives and relationships.",
+"type":"movie",
+"cast":"Anupam Kher,Neena Gupta,Pankaj Tripathi,Konkona Sen Sharma,Aditya Roy Kapur"
+},
 {
 "title":"Vash Level 2 [2025] HD-TC [Hindi-Gujarati] | Full Movie",
 "im":"lCHApvPEMJfbJuIHQLGO8JfWdAC",
@@ -296,33 +392,6 @@ const movies = [
 "cast":"Brad Pitt,Damson Idris,Kerry Condon,Javier Bardem,Kim Bodnia"
 },
 {
-"title":"Death Note [Season 1] WEB-DL [Hindi-English] | All Episodes",
-"im":"tCZFfYTIwrR7n94J6G14Y4hAFU6",
-"bgi":"koBa94NxTaGe2FoDzlXMuJptsv0",
-"dl":"https://s.pptons.com/2025/08/death-note.html",
-"dl2":"https://s.pptons.com/2025/08/death-note.html",
-"year":"2006",
-"duration":"1h per episode",
-"rating":"8.6",
-"genre":"Animation,Mystery,Sci-Fi & Fantasy",
-"description":"Light Yagami is an ace student with great prospects—and he's bored out of his mind. But all that changes when he finds the Death Note, a notebook ...",
-"type":"series",
-"cast":"Mamoru Miyano,Shido Nakamura,Aya Hirano,Kappei Yamaguchi,Kimiko Saito"
-},
-{
-"title":"Peacemaker [Season 2] [Episode 1] WEB-DL [Hindi-English] | All Episodes",
-"im":"bUYOeu8A3mjtqWWoKDLzjBkdLa1",
-"bgi":"pj1wFbZF3gpEg7F0EreXTvZNZTG",
-"dl":"https://s.pptons.com/2025/07/blog-post_20.html",
-"year":"2022",
-"duration":"1h per episode",
-"rating":"8.2",
-"genre":"Action & Adventure,Sci-Fi & Fantasy,Drama",
-"description":"The continuing story of Peacemaker - a compellingly vainglorious man who believes in peace at any cost, no matter how many people he has to kill to ...",
-"type":"series",
-"cast":"John Cena,Danielle Brooks,Freddie Stroma,Jennifer Holland,Steve Agee"
-},
-{
 "title":"Beyond the Bar [Season 1] [Episode 8] WEB-DL [Hindi-English] | All Episodes",
 "im":"nN6mZZxJBPZXBjLxnjgpnoRvswk",
 "bgi":"8kXhTZX7f92Y4cUICB8jSYoTvKY",
@@ -476,20 +545,6 @@ const movies = [
 "description":"Elio, a space fanatic with an active imagination, finds himself on a cosmic misadventure where he must form new bonds with eccentric alien lifeforms, ...",
 "type":"movie",
 "cast":"Yonas Kibreab,Zoe Saldaña,Remy Edgerly,Brandon Moon,Brad Garrett"
-},
-{
-"title":"Maargan [2025] WEB-DL [Hindi HQ DUB] | Full Movie",
-"im":"sgNetedu19Ar9LkUXGNheh9NL1D",
-"bgi":"sTwYXYIw79TlBKRQ7Cdzev28vSQ",
-"dl":"https://pixeldrain.dev/api/file/Q2otDq2J?download",
-"dl2":"https://hubcloud.one/drive/j7kn3n1n1l3rl1c",
-"year":"2025",
-"duration":"2h 12m",
-"rating":"7.5",
-"genre":"Thriller,Crime",
-"description":"ADGP Dhruv, a seasoned high-ranking police officer haunted by a tragic past, grapples with a labyrinthine case, where every clue unearths a darker sec...",
-"type":"movie",
-"cast":"Vijay Antony,Ajay Dhisan,Brigida Saga,Samuthirakani,Deepshika Umapathy"
 },
 {
 "title":"Wednesday [Season 1-2] WEB-DL [Hindi-English] | All Episodes",
@@ -656,20 +711,6 @@ const movies = [
 "description":"Facing eviction in a city her family can no longer afford, a woman plunges into a desperate and increasingly dangerous all-night search to raise $25,0...",
 "type":"movie",
 "cast":"Vanessa Kirby,Jennifer Jason Leigh,Zack Gottsagen,Stephan James,Julia Fox"
-},
-{
-"title":"Chief of War [Season 1] [Episode 4] WEB-DL [English] | All Episodes",
-"im":"8Mckh3qJRTzXTQNZtpb133RHmO4",
-"bgi":"mwVrLbaue8AqjFtF6lY6aakTtfb",
-"dl":"https://s.pptons.com/2025/08/chief-of-war.html",
-"dl2":"https://s.pptons.com/2025/08/chief-of-war.html",
-"year":"2025",
-"duration":"1h per episode",
-"rating":"6.8",
-"genre":"Drama",
-"description":"With Hawaii's four kingdoms divided by war, the ferocious warrior Ka'iana embarks on an epic mission to unite his people—as an existential thr...",
-"type":"series",
-"cast":"Jason Momoa,Luciane Buchanan,Temuera Morrison,Te Ao o Hinepehinga,Cliff Curtis"
 },
 {
 "title":"Mononoke the Movie: Chapter II - The Ashes of Rage [2025] WEB-DL [Hindi-English] | Full Movie",
@@ -1534,20 +1575,6 @@ const movies = [
 "description":"From Monday Night RAW to WrestleMania, this series goes backstage with WWE Superstars and staff as they bring the company's biggest spectacles to...",
 "type":"series",
 "cast":"Paul Levesque,Michael Seitz,Cody Runnels,John Cena,Phil Brooks"
-},
-{
-"title":"Metro... In Dino [2025] WEB-DL [Hindi] | Full Movie",
-"im":"rG9CCeTbZ77PiFPY8zywIysf6Vy",
-"bgi":"8ycWZizMNfYlQE5CdLSbOboNDko",
-"dl":"https://pixeldrain.dev/api/file/3GhfZbah?download",
-"dl2":"https://hubcloud.one/drive/duy2dutqaraabbd",
-"year":"2025",
-"duration":"2h 39m",
-"rating":"8.0",
-"genre":"Drama,Romance,Comedy",
-"description":"Follows interconnected stories of several different couples, each facing a crossroads at different stages in their lives and relationships.",
-"type":"movie",
-"cast":"Anupam Kher,Neena Gupta,Pankaj Tripathi,Konkona Sen Sharma,Aditya Roy Kapur"
 },
 {
 "title":"Show Time [2025] WEB-DL [Hindi-Telugu] | Full Movie",

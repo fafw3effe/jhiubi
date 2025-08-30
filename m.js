@@ -670,7 +670,7 @@ const movies = [
 "type":"movie",
 "cast":"Suresh Gopi,Anupama Parameswaran,Shruti Ramachandran,Vyshnavi Raj,Askar Ali"
 },
-{
+/***{
 "title":"84 Toh Baad [Season 1] WEB-DL [Punjabi] | All Episodes",
 "im":"kTtoAez98Nt6zveNDcEsPCyJNb4",
 "bgi":"3dsm6WDfWkXgb83Su57pt24DZ8L",
@@ -683,7 +683,7 @@ const movies = [
 "description":"84 Toh Baad follows the lives of innocents caught between ruthless militants and a brutal police officer. Framed, hunted, and pushed to the edge, what...",
 "type":"series",
 "cast":"Kuljinder Singh Sidhu,Jarnail Singh,Prakash Gadhu,Gurshabad Singh,Richa Bhatt"
-},
+},***/
 {
 "title":"Fatal Seduction [Season 2] WEB-DL [Hindi-English] | All Episodes",
 "im":"1REi7v1NmTxI8YODX7lwLF70zIs",

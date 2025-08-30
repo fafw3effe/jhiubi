@@ -1,6 +1,21 @@
 // Movies data
 const movies = [
 
+
+{
+"title":"Param Sundari [2025] V2 HQ-HDTC [Hindi-English] | Full Movie",
+"im":"uLPUsH3Fwe6mAU7n6WpMSDLdYCm",
+"bgi":"p02Zszy1SmqibmBy6X6hZrRIs43",
+"dl":"https://pixeldrain.dev/api/file/DuAJsJrx?download",
+"dl2":"https://hubcloud.one/drive/wpoqqudzbydg1jy",
+"year":"2025",
+"duration":"2h 16m",
+"rating":"6.1",
+"genre":"Romance,Drama,Comedy",
+"description":"In Kerala's picturesque backwaters, a North Indian and South Indian find unexpected love. Their cultural differences spark a hilarious and chaoti...",
+"type":"movie",
+"cast":"Sidharth Malhotra,Janhvi Kapoor,Manjot Singh,Sanjay Kapoor,Inayat Verma"
+},
 {
 "title":"Thunderbolts* [2025] WEB-DL [Hindi-English] | Full Movie",
 "im":"hqcexYHbiTBfDIdDWxrxPtVndBX",

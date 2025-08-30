@@ -3,7 +3,7 @@ const movies = [
 
 
 {
-"title":"Param Sundari [2025] V2 HQ-HDTC [Hindi-English] | Full Movie",
+"title":"Param Sundari [2025] V2 HQ-HDTC [Hindi] | Full Movie",
 "im":"uLPUsH3Fwe6mAU7n6WpMSDLdYCm",
 "bgi":"p02Zszy1SmqibmBy6X6hZrRIs43",
 "dl":"https://pixeldrain.dev/api/file/DuAJsJrx?download",

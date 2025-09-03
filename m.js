@@ -16,6 +16,20 @@ const movies = [
 "cast":"Jenna Ortega,Emma Myers,Joy Sunday,Hunter Doohan,Moosa Mostafa"
 },
 {
+"title":"The Fantastic Four: First Steps [2025] HD-RIP [Hindi LiNe-English] | Full Movie",
+"im":"x26MtUlwtWD26d0G0FXcppxCJio",
+"bgi":"s94NjfKkcSczZ1FembwmQZwsuwY",
+"dl":"https://pixeldrain.dev/api/file/JG9aUeH4?download",
+"dl2":"https://hubcloud.one/drive/wxktw9zonyywsba",
+"year":"2025",
+"duration":"1h 55m",
+"rating":"7.0",
+"genre":"Science Fiction,Adventure",
+"description":"Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with t...",
+"type":"movie",
+"cast":"Pedro Pascal,Vanessa Kirby,Ebon Moss-Bachrach,Joseph Quinn,Ralph Ineson"
+},
+{
 "title":"Param Sundari [2025] V2 HQ-HDTC [Hindi] | Full Movie",
 "im":"uLPUsH3Fwe6mAU7n6WpMSDLdYCm",
 "bgi":"p02Zszy1SmqibmBy6X6hZrRIs43",
@@ -1700,20 +1714,6 @@ const movies = [
 "description":"As illegal firearms flood into a gun-free South Korea, a resolute cop and a cunning arms broker find themselves at odds in a tense showdown.",
 "type":"series",
 "cast":"Kim Nam-gil,Kim Young-kwang,Park Hoon,Kil Hae-yeon,Kim Won-hae"
-},
-{
-"title":"The Fantastic Four: First Steps [2025] PRE-HD [Hindi-English] | Full Movie",
-"im":"x26MtUlwtWD26d0G0FXcppxCJio",
-"bgi":"s94NjfKkcSczZ1FembwmQZwsuwY",
-"dl":"https://pixeldrain.dev/api/file/617SHgeo?download",
-"dl2":"https://hubcloud.one/drive/7dybegjyd550gdg",
-"year":"2025",
-"duration":"1h 55m",
-"rating":"7.0",
-"genre":"Science Fiction,Adventure",
-"description":"Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with t...",
-"type":"movie",
-"cast":"Pedro Pascal,Vanessa Kirby,Ebon Moss-Bachrach,Joseph Quinn,Ralph Ineson"
 },
 {
 "title":"Sarzameen [2025] WEB-DL [Hindi] | Full Movie",

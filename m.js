@@ -1,7 +1,20 @@
 // Movies data
 const movies = [
 
-
+{
+"title":"Wednesday [Season 1-2] WEB-DL [Hindi-English] | All Episodes",
+"im":"kKwy8QiXyQocbDj4haUG0uD1SbF",
+"bgi":"iHSwvRVsRyxpX7FE7GbviaDvgGZ",
+"dl":"https://s.pptons.com/2025/05/wednesday.html",
+"dl2":"https://s.pptons.com/2025/05/wednesday.html",
+"year":"2022",
+"duration":"1h per episode",
+"rating":"8.4",
+"genre":"Sci-Fi & Fantasy,Mystery,Comedy",
+"description":"Wednesday Addams is sent to Nevermore Academy, a bizarre boarding school where she attempts to master her psychic powers, stop a monstrous killing spr...",
+"type":"series",
+"cast":"Jenna Ortega,Emma Myers,Joy Sunday,Hunter Doohan,Moosa Mostafa"
+},
 {
 "title":"Param Sundari [2025] V2 HQ-HDTC [Hindi] | Full Movie",
 "im":"uLPUsH3Fwe6mAU7n6WpMSDLdYCm",
@@ -559,20 +572,6 @@ const movies = [
 "description":"Elio, a space fanatic with an active imagination, finds himself on a cosmic misadventure where he must form new bonds with eccentric alien lifeforms, ...",
 "type":"movie",
 "cast":"Yonas Kibreab,Zoe Saldaña,Remy Edgerly,Brandon Moon,Brad Garrett"
-},
-{
-"title":"Wednesday [Season 1-2] WEB-DL [Hindi-English] | All Episodes",
-"im":"kKwy8QiXyQocbDj4haUG0uD1SbF",
-"bgi":"iHSwvRVsRyxpX7FE7GbviaDvgGZ",
-"dl":"https://s.pptons.com/2025/05/wednesday.html",
-"dl2":"https://s.pptons.com/2025/05/wednesday.html",
-"year":"2022",
-"duration":"1h per episode",
-"rating":"8.4",
-"genre":"Sci-Fi & Fantasy,Mystery,Comedy",
-"description":"Wednesday Addams is sent to Nevermore Academy, a bizarre boarding school where she attempts to master her psychic powers, stop a monstrous killing spr...",
-"type":"series",
-"cast":"Jenna Ortega,Emma Myers,Joy Sunday,Hunter Doohan,Moosa Mostafa"
 },
 {
 "title":"Mission: Impossible - The Final Reckoning [2025] WEB-DL [Hindi-English] | Full Movie",
@@ -3998,19 +3997,6 @@ const movies = [
 "description":"With his straw hat and ragtag crew, young pirate Monkey D. Luffy goes on an epic voyage for treasure.",
 "type":"series",
 "cast":"Iñaki Godoy,Emily Rudd,Mackenyu,Jacob Gibson,Jeff Ward"
-},
-{
-"title":"Wednesday [Season 1] WEB-DL [Hindi-English] | All Episodes",
-"im":"9PFonBhy4cQy7Jz20NpMygczOkv",
-"bgi":"iHSwvRVsRyxpX7FE7GbviaDvgGZ",
-"dl":"https://s.pptons.com/2025/05/wednesday.html",
-"year":"2022",
-"duration":"1h per episode",
-"rating":"8.4",
-"genre":"Sci-Fi & Fantasy,Mystery,Comedy",
-"description":"Wednesday Addams is sent to Nevermore Academy, a bizarre boarding school where she attempts to master her psychic powers, stop a monstrous killing spr...",
-"type":"series",
-"cast":"Jenna Ortega,Emma Myers,Joy Sunday,Hunter Doohan,Moosa Mostafa"
 },
 {
 "title":"Inception [2010] Blu-Ray [Hindi-English] | Full Movie",

@@ -30,6 +30,34 @@ const movies = [
 "cast":"Pedro Pascal,Vanessa Kirby,Ebon Moss-Bachrach,Joseph Quinn,Ralph Ineson"
 },
 {
+"title":"Lokah Chapter 1: Chandra [2025] HD-TC [Hindi-Malayalam-Tamil-Telugu-Kannada] | Full Movie",
+"im":"erEVbUNiNwbH8Pns2texFV1u5Xi",
+"bgi":"9g2OSbTCS8kLOErz750ThIIuwcH",
+"dl":"https://pixeldrain.dev/api/file/izRRsyT7?download",
+"dl2":"https://hubcloud.one/drive/td3ezcvybbkyzy1",
+"year":"2025",
+"duration":"2h 31m",
+"rating":"7.8",
+"genre":"Action,Adventure,Fantasy",
+"description":"The story follows Chandra , a mysterious, goth-influenced woman who has just moved to Bangalore and begins working night shifts at a café. Across the...",
+"type":"movie",
+"cast":"Kalyani Priyadarshan,Naslen,Sandy,Chandu Salimkumar,Arun Kurian"
+},
+{
+"title":"Lilo & Stitch [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"tUae3mefrDVTgm5mRzqWnZK6fOP",
+"bgi":"7Zx3wDG5bBtcfk8lcnCWDOLM4Y4",
+"dl":"https://pixeldrain.dev/api/file/CwpKgL3A?download",
+"dl2":"https://hubcloud.one/drive/0elglf9mni5n5g0",
+"year":"2025",
+"duration":"1h 48m",
+"rating":"7.3",
+"genre":"Family,Science Fiction,Comedy,Adventure",
+"description":"The wildly funny and touching story of a lonely Hawaiian girl and the fugitive alien who helps to mend her broken family.",
+"type":"movie",
+"cast":"Maia Kealoha,Sydney Agudong,Chris Sanders,Zach Galifianakis,Billy Magnussen"
+},
+{
 "title":"Param Sundari [2025] V2 HQ-HDTC [Hindi] | Full Movie",
 "im":"uLPUsH3Fwe6mAU7n6WpMSDLdYCm",
 "bgi":"p02Zszy1SmqibmBy6X6hZrRIs43",

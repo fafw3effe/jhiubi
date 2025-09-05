@@ -16,6 +16,89 @@ const movies = [
 "cast":"Jenna Ortega,Emma Myers,Joy Sunday,Hunter Doohan,Moosa Mostafa"
 },
 {
+"title":"The Conjuring: Last Rites [2025] HD-TC [Hindi] | Full Movie",
+"im":"8XfIKOPmuCZLh5ooK13SPKeybWF",
+"bgi":"9DYFYhmbXRGsMhfUgXM3VSP9uLX",
+"dl":"https://hubcloud.one/drive/hpqhwacpcwpw3e4",
+"dl2":"https://hubcloud.one/drive/hpqhwacpcwpw3e4",
+"year":"2025",
+"duration":"2h 15m",
+"rating":"7.3",
+"genre":"Horror",
+"description":"Paranormal investigators Ed and Lorraine Warren take on one last terrifying case involving mysterious entities they must confront.",
+"type":"movie",
+"cast":"Vera Farmiga,Patrick Wilson,Mia Tomlinson,Ben Hardy,Rebecca Calder"
+},
+{
+"title":"Baaghi 4 [2025] HD-TC [Hindi] | Full Movie",
+"im":"u2YEFW5o2Y7RAw2K4hSA4TEXF3Q",
+"bgi":"eezI7a6PBPInXZVlFxBVaIc0iMc",
+"dl":"https://pixeldrain.dev/api/file/QpNN6pH9?download",
+"dl2":"https://hubcloud.one/drive/cx1llczaaez6qda",
+"year":"2025",
+"duration":"2h 36m",
+"rating":"0.0",
+"genre":"Action,Thriller",
+"description":"After waking up from a coma, a grieving man sets out to uncover the truth about his missing girlfriend.",
+"type":"movie",
+"cast":"Tiger Shroff,Sanjay Dutt,Sonam Bajwa,Harnaaz Kaur Sandhu,Jimmy Shergill"
+},
+{
+"title":"Chief of War [Season 1] [Episode 7] WEB-DL [English] | All Episodes",
+"im":"8Mckh3qJRTzXTQNZtpb133RHmO4",
+"bgi":"mwVrLbaue8AqjFtF6lY6aakTtfb",
+"dl":"https://s.pptons.com/2025/08/chief-of-war.html",
+"dl2":"https://s.pptons.com/2025/08/chief-of-war.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"6.8",
+"genre":"Drama",
+"description":"With Hawaii's four kingdoms divided by war, the ferocious warrior Ka'iana embarks on an epic mission to unite his people—as an existential thr...",
+"type":"series",
+"cast":"Jason Momoa,Luciane Buchanan,Temuera Morrison,Te Ao o Hinepehinga,Cliff Curtis"
+},
+{
+"title":"Peacemaker [Season 2] [Episode 3] WEB-DL [Hindi-English] | All Episodes",
+"im":"bUYOeu8A3mjtqWWoKDLzjBkdLa1",
+"bgi":"pj1wFbZF3gpEg7F0EreXTvZNZTG",
+"dl":"https://s.pptons.com/2025/07/blog-post_20.html",
+"year":"2022",
+"duration":"1h per episode",
+"rating":"8.2",
+"genre":"Action & Adventure,Sci-Fi & Fantasy,Drama",
+"description":"The continuing story of Peacemaker - a compellingly vainglorious man who believes in peace at any cost, no matter how many people he has to kill to ...",
+"type":"series",
+"cast":"John Cena,Danielle Brooks,Freddie Stroma,Jennifer Holland,Steve Agee"
+},
+{
+"title":"Inspector Zende [2025] WEB-DL [Hindi] | Full Movie",
+"im":"dHGtwfVfY502veuMojfAkNbIBO9",
+"bgi":"gLYnGuGs0ihQLfqUrZMXcWHdpK7",
+"dl":"https://hubcloud.one/drive/isoiptcotoipjo1",
+"dl2":"https://hubcloud.one/drive/isoiptcotoipjo1",
+"year":"2025",
+"duration":"1h 51m",
+"rating":"0.0",
+"genre":"Comedy,Drama,Thriller",
+"description":"When serial killer Carl Bhojraj escapes prison and resurfaces in Mumbai, the determined Inspector Zende steps up to nab the cunning fugitive once more...",
+"type":"movie",
+"cast":"Manoj Bajpayee,Jim Sarbh,Bhalchandra Kadam,Sachin Khedekar,Girija Oak"
+},
+{
+"title":"Aankhon ki Gustaakhiyan [2025] WEB-DL [Hindi] | Full Movie",
+"im":"qaGwsUWbE4NU9w4u4UqomgvK6fw",
+"bgi":"stBBSoTudhuGosaX3pcGHKWQcuS",
+"dl":"https://pixeldrain.dev/api/file/9WeCXfpc?download",
+"dl2":"https://hubcloud.one/drive/bf9fdjqr90qp8pp",
+"year":"2025",
+"duration":"2h 18m",
+"rating":"6.0",
+"genre":"Drama,Romance",
+"description":"Explores the romance between two visually impaired characters, navigating both the joys and complexities of modern love.",
+"type":"movie",
+"cast":"Vikrant Massey,Shanaya Kapoor,Zain Khan Durrani,Saanand Verma"
+},
+{
 "title":"The Fantastic Four: First Steps [2025] HD-RIP [Hindi LiNe-English] | Full Movie",
 "im":"x26MtUlwtWD26d0G0FXcppxCJio",
 "bgi":"s94NjfKkcSczZ1FembwmQZwsuwY",
@@ -184,19 +267,6 @@ const movies = [
 "cast":"Shin Eun-soo,Gong Myoung,Cha Woo-min,Youn Sang-hyun,Kang Mi-na"
 },
 {
-"title":"Peacemaker [Season 2] [Episode 2] WEB-DL [Hindi-English] | All Episodes",
-"im":"bUYOeu8A3mjtqWWoKDLzjBkdLa1",
-"bgi":"pj1wFbZF3gpEg7F0EreXTvZNZTG",
-"dl":"https://s.pptons.com/2025/07/blog-post_20.html",
-"year":"2022",
-"duration":"1h per episode",
-"rating":"8.2",
-"genre":"Action & Adventure,Sci-Fi & Fantasy,Drama",
-"description":"The continuing story of Peacemaker - a compellingly vainglorious man who believes in peace at any cost, no matter how many people he has to kill to ...",
-"type":"series",
-"cast":"John Cena,Danielle Brooks,Freddie Stroma,Jennifer Holland,Steve Agee"
-},
-{
 "title":"Maargan [2025] WEB-DL [Hindi + Tamil] | Full Movie",
 "im":"sgNetedu19Ar9LkUXGNheh9NL1D",
 "bgi":"sTwYXYIw79TlBKRQ7Cdzev28vSQ",
@@ -209,20 +279,6 @@ const movies = [
 "description":"ADGP Dhruv, a seasoned high-ranking police officer haunted by a tragic past, grapples with a labyrinthine case, where every clue unearths a darker sec...",
 "type":"movie",
 "cast":"Vijay Antony,Ajay Dhisan,Brigida Saga,Samuthirakani,Deepshika Umapathy"
-},
-{
-"title":"Chief of War [Season 1] [Episode 6] WEB-DL [English] | All Episodes",
-"im":"8Mckh3qJRTzXTQNZtpb133RHmO4",
-"bgi":"mwVrLbaue8AqjFtF6lY6aakTtfb",
-"dl":"https://s.pptons.com/2025/08/chief-of-war.html",
-"dl2":"https://s.pptons.com/2025/08/chief-of-war.html",
-"year":"2025",
-"duration":"1h per episode",
-"rating":"6.8",
-"genre":"Drama",
-"description":"With Hawaii's four kingdoms divided by war, the ferocious warrior Ka'iana embarks on an epic mission to unite his people—as an existential thr...",
-"type":"series",
-"cast":"Jason Momoa,Luciane Buchanan,Temuera Morrison,Te Ao o Hinepehinga,Cliff Curtis"
 },
 {
 "title":"Shadow Force [2025] WEB-DL [Hindi-English] | Full Movie",
@@ -1700,20 +1756,6 @@ const movies = [
 "description":"Life surprises you with its weird plans and events which changes our lives so much so that we can never go back to being what we were earlier. At such...",
 "type":"movie",
 "cast":"Ganesh,Diganth Manchale,Pawan Kumar,Anant Nag,Nishvika Naidu"
-},
-{
-"title":"Aankhon ki Gustaakhiyan [2025] WEB-DL [Hindi] | Full Movie",
-"im":"qaGwsUWbE4NU9w4u4UqomgvK6fw",
-"bgi":"stBBSoTudhuGosaX3pcGHKWQcuS",
-"dl":"https://pixeldrain.dev/api/file/9WeCXfpc?download",
-"dl2":"https://hubcloud.one/drive/bf9fdjqr90qp8pp",
-"year":"2025",
-"duration":"2h 18m",
-"rating":"6.0",
-"genre":"Drama,Romance",
-"description":"Explores the romance between two visually impaired characters, navigating both the joys and complexities of modern love.",
-"type":"movie",
-"cast":"Vikrant Massey,Shanaya Kapoor,Zain Khan Durrani,Saanand Verma"
 },
 {
 "title":"The Plot [2024] WEB-DL [Hindi-Korean] | Full Movie",

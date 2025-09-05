@@ -1,20 +1,7 @@
 // Movies data
 const movies = [
 
-{
-"title":"Wednesday [Season 1-2] WEB-DL [Hindi-English] | All Episodes",
-"im":"kKwy8QiXyQocbDj4haUG0uD1SbF",
-"bgi":"iHSwvRVsRyxpX7FE7GbviaDvgGZ",
-"dl":"https://s.pptons.com/2025/05/wednesday.html",
-"dl2":"https://s.pptons.com/2025/05/wednesday.html",
-"year":"2022",
-"duration":"1h per episode",
-"rating":"8.4",
-"genre":"Sci-Fi & Fantasy,Mystery,Comedy",
-"description":"Wednesday Addams is sent to Nevermore Academy, a bizarre boarding school where she attempts to master her psychic powers, stop a monstrous killing spr...",
-"type":"series",
-"cast":"Jenna Ortega,Emma Myers,Joy Sunday,Hunter Doohan,Moosa Mostafa"
-},
+
 {
 "title":"The Conjuring: Last Rites [2025] HD-TC [Hindi] | Full Movie",
 "im":"8XfIKOPmuCZLh5ooK13SPKeybWF",
@@ -42,6 +29,20 @@ const movies = [
 "description":"After waking up from a coma, a grieving man sets out to uncover the truth about his missing girlfriend.",
 "type":"movie",
 "cast":"Tiger Shroff,Sanjay Dutt,Sonam Bajwa,Harnaaz Kaur Sandhu,Jimmy Shergill"
+},
+{
+"title":"Wednesday [Season 1-2] WEB-DL [Hindi-English] | All Episodes",
+"im":"kKwy8QiXyQocbDj4haUG0uD1SbF",
+"bgi":"iHSwvRVsRyxpX7FE7GbviaDvgGZ",
+"dl":"https://s.pptons.com/2025/05/wednesday.html",
+"dl2":"https://s.pptons.com/2025/05/wednesday.html",
+"year":"2022",
+"duration":"1h per episode",
+"rating":"8.4",
+"genre":"Sci-Fi & Fantasy,Mystery,Comedy",
+"description":"Wednesday Addams is sent to Nevermore Academy, a bizarre boarding school where she attempts to master her psychic powers, stop a monstrous killing spr...",
+"type":"series",
+"cast":"Jenna Ortega,Emma Myers,Joy Sunday,Hunter Doohan,Moosa Mostafa"
 },
 {
 "title":"Topakk [2024] WEB-DL [Hindi-Filipino] | Full Movie",

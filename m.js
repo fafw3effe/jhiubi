@@ -37,11 +37,25 @@ const movies = [
 "dl2":"https://hubcloud.one/drive/cx1llczaaez6qda",
 "year":"2025",
 "duration":"2h 36m",
-"rating":"0.0",
+"rating":"6.1",
 "genre":"Action,Thriller",
 "description":"After waking up from a coma, a grieving man sets out to uncover the truth about his missing girlfriend.",
 "type":"movie",
 "cast":"Tiger Shroff,Sanjay Dutt,Sonam Bajwa,Harnaaz Kaur Sandhu,Jimmy Shergill"
+},
+{
+"title":"Topakk [2024] WEB-DL [Hindi-Filipino] | Full Movie",
+"im":"50g702Thykuc49lhVpz4zMSpPtL",
+"bgi":"lC6l36m9M9343mqC9coouVbNwGe",
+"dl":"https://pixeldrain.dev/api/file/469kmHwm?download",
+"dl2":"https://hubcloud.one/drive/s4scff4b2rctdt4",
+"year":"2024",
+"duration":"1h 51m",
+"rating":"5.0",
+"genre":"Action,Thriller,Crime",
+"description":"In a bid for redemption, an Ex-Special Forces security guard attempts to save the life of a woman who is being hunted by a corrupt police death squad ...",
+"type":"movie",
+"cast":"Arjo Atayde,Julia Montes,Sid Lucero,Paolo Paraiso,Cholo Barretto"
 },
 {
 "title":"Chief of War [Season 1] [Episode 7] WEB-DL [English] | All Episodes",

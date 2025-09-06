@@ -31,6 +31,48 @@ const movies = [
 "cast":"Tiger Shroff,Sanjay Dutt,Sonam Bajwa,Harnaaz Kaur Sandhu,Jimmy Shergill"
 },
 {
+"title":"Coolie [2025] WEB-DL [Hindi LiNE-Tamil] | Full Movie",
+"im":"kr36awqmziEI5mfUElsHB0pj9zP",
+"bgi":"bLn0CPzrrqFLicjNTgrzaIyE0gZ",
+"dl":"https://pixeldrain.dev/api/file/9LqVnud4?download",
+"dl2":"https://hubcloud.one/drive/18ygi7z8dy7gipr",
+"year":"2025",
+"duration":"2h 50m",
+"rating":"6.3",
+"genre":"Action,Thriller,Crime",
+"description":"A mysterious man takes a stand against a corrupt syndicate exploiting and abusing the workers of a port town.",
+"type":"movie",
+"cast":"Rajinikanth,Nagarjuna Akkineni,Soubin Shahir,Upendra,Sathyaraj"
+},
+{
+"title":"The Bengal Files [2025] HD-TS [Hindi] | Full Movie",
+"im":"3gbZh1S735CLz7NwFRb7bycUWkP",
+"bgi":"2mWsnoL03x3QQaPI7bDefoDLM3a",
+"dl":"https://pixeldrain.dev/api/file/27zg9rYH?download",
+"dl2":"https://hubcloud.one/drive/ii6w8cl2owaewzo",
+"year":"2025",
+"duration":"3h 25m",
+"rating":"0.0",
+"genre":"Drama,History,Thriller",
+"description":"A criminal investigator uncovers a web of corruption during a missing person investigation, while a figure connected to the case reflects on the commu...",
+"type":"movie",
+"cast":"Darshan Kumaar,Anupam Kher,Saswata Chatterjee,Pallavi Joshi,Saurav Das"
+},
+{
+"title":"Detective Ujjwalan [2025] WEB-DL [Hindi-Malayalam] | Full Movie",
+"im":"rVCNbMW2bmbPE2XaUMUsnA9YgAh",
+"bgi":"6jsyu5qmBxqdmlG2RCRizrczdMc",
+"dl":"https://pixeldrain.dev/api/file/TWY4rszy?download",
+"dl2":"https://hubcloud.one/drive/1w6zldtnndld116",
+"year":"2025",
+"duration":"2h 4m",
+"rating":"7.3",
+"genre":"Mystery,Crime",
+"description":"In the village of Plaachikkaavu, a local detective, Ujjwalan, must outsmart a mysterious figure in a deadly battle of wits, where his skills are put t...",
+"type":"movie",
+"cast":"Dhyan Sreenivasan,Siju Wilson,Ameen,Nihal Nizam,Nibraz Noushad"
+},
+{
 "title":"Wednesday [Season 1-2] WEB-DL [Hindi-English] | All Episodes",
 "im":"kKwy8QiXyQocbDj4haUG0uD1SbF",
 "bgi":"iHSwvRVsRyxpX7FE7GbviaDvgGZ",
@@ -238,20 +280,6 @@ const movies = [
 "description":"Years ago Agent Kabir went rogue, became India's greatest villain ever.  As he descends further into the deepest shadows... India sends its deadlies...",
 "type":"movie",
 "cast":"N.T. Rama Rao Jr.,Hrithik Roshan,Kiara Advani,Ashutosh Rana,Anil Kapoor"
-},
-{
-"title":"Coolie [2025] HD-TC [Hindi] | Full Movie",
-"im":"kr36awqmziEI5mfUElsHB0pj9zP",
-"bgi":"bLn0CPzrrqFLicjNTgrzaIyE0gZ",
-"dl":"https://pixeldrain.dev/api/file/GdrFQHSX?download",
-"dl2":"https://hubcloud.one/drive/wu0wtz1wttwm0kx",
-"year":"2025",
-"duration":"2h 50m",
-"rating":"6.3",
-"genre":"Action,Thriller,Crime",
-"description":"A mysterious man takes a stand against a corrupt syndicate exploiting and abusing the workers of a port town.",
-"type":"movie",
-"cast":"Rajinikanth,Nagarjuna Akkineni,Soubin Shahir,Upendra,Sathyaraj"
 },
 {
 "title":"Death Note [Season 1] [Episode 4] WEB-DL [Hindi-English] | All Episodes",
@@ -1368,20 +1396,6 @@ const movies = [
 "description":"Twenty-eight years since the rage virus escaped a biological weapons laboratory, now, still in a ruthlessly enforced quarantine, some have found ways ...",
 "type":"movie",
 "cast":"Jodie Comer,Aaron Taylor-Johnson,Alfie Williams,Ralph Fiennes,Edvin Ryding"
-},
-{
-"title":"Detective Ujjwalan [2025] WEB-DL [Hindi HQ DUB] | Full Movie",
-"im":"rVCNbMW2bmbPE2XaUMUsnA9YgAh",
-"bgi":"6jsyu5qmBxqdmlG2RCRizrczdMc",
-"dl":"https://pixeldrain.dev/api/file/cBARxCFP?download",
-"dl2":"https://hubcloud.one/drive/312d31tkzahkq3s",
-"year":"2025",
-"duration":"2h 4m",
-"rating":"7.3",
-"genre":"Mystery,Crime",
-"description":"In the village of Plaachikkaavu, a local detective, Ujjwalan, must outsmart a mysterious figure in a deadly battle of wits, where his skills are put t...",
-"type":"movie",
-"cast":"Dhyan Sreenivasan,Siju Wilson,Ameen,Nihal Nizam,Nibraz Noushad"
 },
 {
 "title":"A Stranger by the Hill [2024] WEB-DL [Hindi] | Full Movie",

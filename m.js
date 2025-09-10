@@ -1,7 +1,34 @@
 // Movies data
 const movies = [
 
-
+{
+"title":"Thammudu [2025] WEB-DL [Hindi HQ Dub] | Full Movie",
+"im":"5rhjx4KLaLrZNxzsBY8j8U6Pntu",
+"bgi":"2m8zoc7iL1MiWP2FuPiyQvTSBtE",
+"dl":"https://hubcloud.one/drive/gsewbs1ksxgnpeb",
+"dl2":"https://hubcloud.one/drive/gsewbs1ksxgnpeb",
+"year":"2025",
+"duration":"2h 31m",
+"rating":"7.3",
+"genre":"Action,Drama",
+"description":"A troubled man reunites with his sister to protect her and a group of villagers from the brutal plans of a violent criminal businessman.",
+"type":"movie",
+"cast":"Nithiin,Sapthami Gowda,Laya,Varsha Bollamma,Swasika"
+},
+{
+"title":"Top Gear [2022] WEB-DL [Hindi-English] | Full Movie",
+"im":"8affaLEiqDfbYns0UvUhUJsW1QN",
+"bgi":"wbruVrRhWq7rS7MIO8GBcEABCT8",
+"dl":"https://hubcloud.one/drive/f1dmdlrayritda3",
+"dl2":"https://hubcloud.one/drive/f1dmdlrayritda3",
+"year":"2022",
+"duration":"2h 1m",
+"rating":"7.0",
+"genre":"Action,Romance,Comedy",
+"description":"Cab driver Arjun is almost getting off duty and is ready to go home to his wife, Aadhya. A turn of events finds him involved in the world of drug mafi...",
+"type":"movie",
+"cast":"Aadi Saikumar,Riya Suman,Brahmaji,Satyam Rajesh,Mime Gopi"
+},
 {
 "title":"The Conjuring: Last Rites [2025] HD-TC [Hindi] | Full Movie",
 "im":"8XfIKOPmuCZLh5ooK13SPKeybWF",

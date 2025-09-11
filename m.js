@@ -2,6 +2,90 @@
 const movies = [
 
 {
+"title":"Saiyaara [2025] DCP-DL [Hindi] | Full Movie",
+"im":"hQBIsi3ZfBYEayMc3GhcEmJVkss",
+"bgi":"8aNNz9WYmxhnBxzWTt0nRI4F7rx",
+"dl":"https://pixeldrain.dev/api/file/xnw7oZqB?download",
+"dl2":"https://hubcloud.one/drive/psanp4loksc9qbd",
+"year":"2025",
+"duration":"2h 36m",
+"rating":"6.3",
+"genre":"Romance,Drama",
+"description":"Short-tempered musician Krish is paired with a no-nonsense lyricist in Vaani, for the music company to work together. The sparks fly and Krish and Vaa...",
+"type":"movie",
+"cast":"Ahaan Panday,Aneet Padda,Varun Badola,Alam Khan,Geeta Agrawal Sharma"
+},
+{
+"title":"Coolie [2025] DS4K WEB-DL [Hindi LiNE-Tamil] | Full Movie",
+"im":"kr36awqmziEI5mfUElsHB0pj9zP",
+"bgi":"bLn0CPzrrqFLicjNTgrzaIyE0gZ",
+"dl":"https://pixeldrain.dev/api/file/Wa2meCsA?download",
+"dl2":"https://hubcloud.one/drive/yfjexeaxtjennnp",
+"year":"2025",
+"duration":"2h 50m",
+"rating":"6.3",
+"genre":"Action,Thriller,Crime",
+"description":"A mysterious man takes a stand against a corrupt syndicate exploiting and abusing the workers of a port town.",
+"type":"movie",
+"cast":"Rajinikanth,Nagarjuna Akkineni,Soubin Shahir,Upendra,Sathyaraj"
+},
+{
+"title":"Nobody 2 [2025] HD-TC [Hindi-English] | Full Movie",
+"im":"iyxwxDZCpIm0vIORaHpmgJv2BGF",
+"bgi":"wO15XEgeLbeijtf3MQAUqWCxSxc",
+"dl":"https://hubcloud.one/drive/g7nnwhxhx5yehgn",
+"dl2":"https://hubcloud.one/drive/g7nnwhxhx5yehgn",
+"year":"2025",
+"duration":"1h 29m",
+"rating":"7.7",
+"genre":"Action,Comedy,Thriller",
+"description":"Former assassin Hutch Mansell takes his family on a nostalgic vacation to a small-town theme park, only to be pulled back into violence when they clas...",
+"type":"movie",
+"cast":"Bob Odenkirk,Connie Nielsen,Christopher Lloyd,John Ortiz,RZA"
+},
+{
+"title":"Death Note [Season 1] [Episode 8] WEB-DL [Hindi-English] | All Episodes",
+"im":"tCZFfYTIwrR7n94J6G14Y4hAFU6",
+"bgi":"koBa94NxTaGe2FoDzlXMuJptsv0",
+"dl":"https://s.pptons.com/2025/08/death-note.html",
+"dl2":"https://s.pptons.com/2025/08/death-note.html",
+"year":"2006",
+"duration":"1h per episode",
+"rating":"8.6",
+"genre":"Animation,Mystery,Sci-Fi & Fantasy",
+"description":"Light Yagami is an ace student with great prospects—and he's bored out of his mind. But all that changes when he finds the Death Note, a notebook ...",
+"type":"series",
+"cast":"Mamoru Miyano,Shido Nakamura,Aya Hirano,Kappei Yamaguchi,Kimiko Saito"
+},
+{
+"title":"Kontrabida Academy [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"uiW2ff73RZzPABKtnjW5wmt43CU",
+"bgi":"oYPm2zk8fBxm3UBEiaWMzUGHeFW",
+"dl":"https://pixeldrain.dev/api/file/TmDA1J64?download",
+"dl2":"https://hubcloud.one/drive/gxfij6sdjrfxsm0",
+"year":"2025",
+"duration":"1h 48m",
+"rating":"8.0",
+"genre":"Comedy",
+"description":"When a mysterious TV transports her to a school for on-screen villains, a restaurant worker finds new purpose—a way to get back at her enemies.",
+"type":"movie",
+"cast":"Eugene Domingo,Barbie Forteza,Jameson Blake,Michael De Mesa,Ysabel Ortega"
+},
+{
+"title":"The Terminal List: Dark Wolf [Season 1] [Episode 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"9mYeRoWguq5etbwJRdF8BXFKiF",
+"bgi":"yQw23xxmVBFVHPCF6V68TAIIfno",
+"dl":"https://s.pptons.com/2025/09/the-terminal-list-dark-wolf.html",
+"dl2":"https://s.pptons.com/2025/09/the-terminal-list-dark-wolf.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"0.0",
+"genre":"Action & Adventure,Drama",
+"description":"Before The Terminal List, Navy SEAL Ben Edwards finds himself entangled in the black operations side of the CIA. The deeper Ben goes into the 'gr...",
+"type":"series",
+"cast":"Taylor Kitsch,Tom Hopper,Robert Wisdom,Dar Salim,Rona-Lee Shim&#39;on"
+},
+{
 "title":"Thammudu [2025] WEB-DL [Hindi HQ Dub] | Full Movie",
 "im":"5rhjx4KLaLrZNxzsBY8j8U6Pntu",
 "bgi":"2m8zoc7iL1MiWP2FuPiyQvTSBtE",
@@ -56,20 +140,6 @@ const movies = [
 "description":"After waking up from a coma, a grieving man sets out to uncover the truth about his missing girlfriend.",
 "type":"movie",
 "cast":"Tiger Shroff,Sanjay Dutt,Sonam Bajwa,Harnaaz Kaur Sandhu,Jimmy Shergill"
-},
-{
-"title":"Coolie [2025] WEB-DL [Hindi LiNE-Tamil] | Full Movie",
-"im":"kr36awqmziEI5mfUElsHB0pj9zP",
-"bgi":"bLn0CPzrrqFLicjNTgrzaIyE0gZ",
-"dl":"https://pixeldrain.dev/api/file/9LqVnud4?download",
-"dl2":"https://hubcloud.one/drive/18ygi7z8dy7gipr",
-"year":"2025",
-"duration":"2h 50m",
-"rating":"6.3",
-"genre":"Action,Thriller,Crime",
-"description":"A mysterious man takes a stand against a corrupt syndicate exploiting and abusing the workers of a port town.",
-"type":"movie",
-"cast":"Rajinikanth,Nagarjuna Akkineni,Soubin Shahir,Upendra,Sathyaraj"
 },
 {
 "title":"The Bengal Files [2025] HD-TS [Hindi] | Full Movie",
@@ -307,20 +377,6 @@ const movies = [
 "description":"Years ago Agent Kabir went rogue, became India's greatest villain ever.  As he descends further into the deepest shadows... India sends its deadlies...",
 "type":"movie",
 "cast":"N.T. Rama Rao Jr.,Hrithik Roshan,Kiara Advani,Ashutosh Rana,Anil Kapoor"
-},
-{
-"title":"Death Note [Season 1] [Episode 4] WEB-DL [Hindi-English] | All Episodes",
-"im":"tCZFfYTIwrR7n94J6G14Y4hAFU6",
-"bgi":"koBa94NxTaGe2FoDzlXMuJptsv0",
-"dl":"https://s.pptons.com/2025/08/death-note.html",
-"dl2":"https://s.pptons.com/2025/08/death-note.html",
-"year":"2006",
-"duration":"1h per episode",
-"rating":"8.6",
-"genre":"Animation,Mystery,Sci-Fi & Fantasy",
-"description":"Light Yagami is an ace student with great prospects—and he's bored out of his mind. But all that changes when he finds the Death Note, a notebook ...",
-"type":"series",
-"cast":"Mamoru Miyano,Shido Nakamura,Aya Hirano,Kappei Yamaguchi,Kimiko Saito"
 },
 {
 "title":"Love Untangled [2025] WEB-DL [Hindi-English] | Full Movie",
@@ -756,20 +812,6 @@ const movies = [
 "cast":"Tom Cruise,Hayley Atwell,Ving Rhames,Simon Pegg,Esai Morales"
 },
 {
-"title":"Nobody 2 [2025] HD-TC [English] | Full Movie",
-"im":"iyxwxDZCpIm0vIORaHpmgJv2BGF",
-"bgi":"wO15XEgeLbeijtf3MQAUqWCxSxc",
-"dl":"https://pixeldrain.dev/api/file/EcKZphSa?download",
-"dl2":"https://hubcloud.one/drive/yb1vpnv3bjhbspb",
-"year":"2025",
-"duration":"1h 29m",
-"rating":"7.7",
-"genre":"Action,Comedy,Thriller",
-"description":"Former assassin Hutch Mansell takes his family on a nostalgic vacation to a small-town theme park, only to be pulled back into violence when they clas...",
-"type":"movie",
-"cast":"Bob Odenkirk,Connie Nielsen,Christopher Lloyd,John Ortiz,RZA"
-},
-{
 "title":"Head Over Heels [Season 1] [Episode 12] WEB-DL [Hindi-English] | All Episodes",
 "im":"ijDyO36wQhMYPd04XKXB73eyAbS",
 "bgi":"bHkrRtB4OtUAPOJAiTgNkZVfpIK",
@@ -1073,20 +1115,6 @@ const movies = [
 "description":"Five years after the events of Jurassic World Dominion, covert operations expert Zora Bennett is contracted to lead a skilled team on a top-secret mis...",
 "type":"movie",
 "cast":"Scarlett Johansson,Jonathan Bailey,Mahershala Ali,Rupert Friend,Manuel Garcia-Rulfo"
-},
-{
-"title":"Saiyaara [2025] HD-TC [Hindi] | Full Movie",
-"im":"hQBIsi3ZfBYEayMc3GhcEmJVkss",
-"bgi":"8aNNz9WYmxhnBxzWTt0nRI4F7rx",
-"dl":"https://pixeldrain.dev/api/file/piDhiTWE?download",
-"dl2":"https://hubcloud.one/drive/fwwpcrn1ep9bc1n",
-"year":"2025",
-"duration":"2h 36m",
-"rating":"6.3",
-"genre":"Romance,Drama",
-"description":"Short-tempered musician Krish is paired with a no-nonsense lyricist in Vaani, for the music company to work together. The sparks fly and Krish and Vaa...",
-"type":"movie",
-"cast":"Ahaan Panday,Aneet Padda,Varun Badola,Alam Khan,Geeta Agrawal Sharma"
 },
 {
 "title":"Court Kacheri [Season 1] WEB-DL [Hindi] | All Episodes",

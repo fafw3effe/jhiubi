@@ -45,6 +45,48 @@ const movies = [
 "cast":"Rajinikanth,Nagarjuna Akkineni,Soubin Shahir,Upendra,Sathyaraj"
 },
 {
+"title":"Do You Wanna Partner [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"desoUeji3c4EDvSsDOoi7OEKH1a",
+"bgi":"6Oqv8Zp1eV68EBKy75eC6GH8AjR",
+"dl":"https://s.pptons.com/2025/09/do-you-wanna-partner.html",
+"dl2":"https://s.pptons.com/2025/09/do-you-wanna-partner.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"0.0",
+"genre":"Comedy,Drama",
+"description":"Best friends Shikha and Anahita turn entrepreneurs with an exciting craft beer brand, Jugaaro, to stand out in the crowded NCR beer market. However, t...",
+"type":"series",
+"cast":"Tamannaah Bhatia,Diana Penty,Javed Jaffrey,Neeraj Kabi,Sufi Motiwala"
+},
+{
+"title":"The Wrong Paris [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"A0KRoR842OgNByCfw9iFHbWoeR9",
+"bgi":"i8QHgJKnsd8csNBo8fH9wYW2Y9E",
+"dl":"https://pixeldrain.dev/api/file/1wGMXqp2?download",
+"dl2":"https://hubcloud.one/drive/jtbsanttwetv64w",
+"year":"2025",
+"duration":"1h 45m",
+"rating":"4.5",
+"genre":"Comedy,Romance",
+"description":"Dawn thinks she's joining a dating show in Paris, France, only to land in Paris, Texas. She has an exit plan — until sparks fly with the cowboy...",
+"type":"movie",
+"cast":"Miranda Cosgrove,Pierson Fodé,Madison Pettis,Frances Fisher,Yvonne Orji"
+},
+{
+"title":"Heer Express [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"4rgfq74rY9ZuBixODvLoROEphd2",
+"bgi":"4rgfq74rY9ZuBixODvLoROEphd2",
+"dl":"https://pixeldrain.dev/api/file/Pn8hJM6o?download",
+"dl2":"https://hubcloud.one/drive/znff2f26s27hqtc",
+"year":"2025",
+"duration":"2h 20m",
+"rating":"0.0",
+"genre":"Comedy,Drama,Family",
+"description":"After moving to London to open a restaurant, a young woman finds herself encountering new love and new family.",
+"type":"movie",
+"cast":"Divita Juneja,Prit Kamani,Ashutosh Rana,Gulshan Grover,Sanjay Mishra"
+},
+{
 "title":"Thammudu [2025] WEB-DL [Hindi-Telugu] | Full Movie",
 "im":"5rhjx4KLaLrZNxzsBY8j8U6Pntu",
 "bgi":"2m8zoc7iL1MiWP2FuPiyQvTSBtE",

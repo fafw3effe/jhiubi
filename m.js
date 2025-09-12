@@ -1,12 +1,27 @@
 // Movies data
 const movies = [
 
+
 {
-"title":"Saiyaara [2025] DCP-DL [Hindi] | Full Movie",
+"title":"Mirai [2025] HQ-HDTC [Hindi-Telugu] | Full Movie",
+"im":"28mjgY8UHW96JtOmpgc9lZt5ZFq",
+"bgi":"28mjgY8UHW96JtOmpgc9lZt5ZFq",
+"dl":"https://pixeldrain.dev/api/file/iqeL3ZL4?download",
+"dl2":"https://hubcloud.one/drive/e4uy9mbpbwyxvyy",
+"year":"2025",
+"duration":"2h 11m",
+"rating":"6.1",
+"genre":"Science Fiction,Action,Adventure",
+"description":"Following the historic Kalinga battle, where King Ashoka of the Maurya dynasty emerged as the winner, he chose to walk the path of peace instead of co...",
+"type":"movie",
+"cast":"Teja Sajja,Manchu Manoj,Ritika Nayak,Raj Zutshi,Rana Daggubati"
+},
+{
+"title":"Saiyaara [2025] DS4K WEB-DL [Hindi] | Full Movie",
 "im":"hQBIsi3ZfBYEayMc3GhcEmJVkss",
 "bgi":"8aNNz9WYmxhnBxzWTt0nRI4F7rx",
-"dl":"https://pixeldrain.dev/api/file/xnw7oZqB?download",
-"dl2":"https://hubcloud.one/drive/psanp4loksc9qbd",
+"dl":"https://pixeldrain.dev/api/file/QjFsg9JG?download",
+"dl2":"https://hubcloud.one/drive/ykzh2oot38ihvhf",
 "year":"2025",
 "duration":"2h 36m",
 "rating":"6.3",
@@ -28,6 +43,89 @@ const movies = [
 "description":"A mysterious man takes a stand against a corrupt syndicate exploiting and abusing the workers of a port town.",
 "type":"movie",
 "cast":"Rajinikanth,Nagarjuna Akkineni,Soubin Shahir,Upendra,Sathyaraj"
+},
+{
+"title":"Thammudu [2025] WEB-DL [Hindi-Telugu] | Full Movie",
+"im":"5rhjx4KLaLrZNxzsBY8j8U6Pntu",
+"bgi":"2m8zoc7iL1MiWP2FuPiyQvTSBtE",
+"dl":"https://hubcloud.one/drive/gsewbs1ksxgnpeb",
+"dl2":"https://pixeldrain.dev/api/file/9Fzn9SvQ?download",
+"year":"2025",
+"duration":"2h 31m",
+"rating":"7.3",
+"genre":"Action,Drama",
+"description":"A troubled man reunites with his sister to protect her and a group of villagers from the brutal plans of a violent criminal businessman.",
+"type":"movie",
+"cast":"Nithiin,Sapthami Gowda,Laya,Varsha Bollamma,Swasika"
+},
+{
+"title":"Peacemaker [Season 2] [Episode 4] WEB-DL [Hindi-English] | All Episodes",
+"im":"bUYOeu8A3mjtqWWoKDLzjBkdLa1",
+"bgi":"pj1wFbZF3gpEg7F0EreXTvZNZTG",
+"dl":"https://s.pptons.com/2025/07/blog-post_20.html",
+"year":"2022",
+"duration":"1h per episode",
+"rating":"8.2",
+"genre":"Action & Adventure,Sci-Fi & Fantasy,Drama",
+"description":"The continuing story of Peacemaker - a compellingly vainglorious man who believes in peace at any cost, no matter how many people he has to kill to ...",
+"type":"series",
+"cast":"John Cena,Danielle Brooks,Freddie Stroma,Jennifer Holland,Steve Agee"
+},
+{
+"title":"NCIS: Tony & Ziva [Season 1] [Episode 4] WEB-DL [Hindi-English] | All Episodes",
+"im":"zNIANQsAs2kbxbzbTTe5dTBzhKe",
+"bgi":"ub0xUWZUBoAwy1eBG1uwi9ikaVg",
+"dl":"https://s.pptons.com/2025/09/ncis-tony-ziva.html",
+"dl2":"https://s.pptons.com/2025/09/ncis-tony-ziva.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"9.3",
+"genre":"Action & Adventure,Drama,Crime",
+"description":"When his security company is attacked, Tony and Ziva must go on the run across Europe, try to figure out who is after them and maybe even learn to tru...",
+"type":"series",
+"cast":"Michael Weatherly,Cote de Pablo,Isla Gie,Amita Suman,Maximilian Osinski"
+},
+{
+"title":"Laiye Je Yaarian [2019] WEB-DL [Punjabi] | Full Movie",
+"im":"zXRsiwdffZUZceDeaYRerzI2xqP",
+"bgi":"rQW6W7oi45QgQQRKbAmOQ34CgZc",
+"dl":"https://pixeldrain.dev/api/file/bwWU7ver?download",
+"dl2":"https://hubdrive.space/file/2068865744",
+"year":"2019",
+"duration":"1h 57m",
+"rating":"10.0",
+"genre":"Romance",
+"description":"A young businesswoman hires a charming con man in a bid to defeat her business rival.",
+"type":"movie",
+"cast":"Harish Verma,Roopi Gill,Rubina Bajwa,Amrinder Gill,Amberdeep Singh"
+},
+{
+"title":"Chief of War [Season 1] [Episode 8] WEB-DL [English] | All Episodes",
+"im":"8Mckh3qJRTzXTQNZtpb133RHmO4",
+"bgi":"mwVrLbaue8AqjFtF6lY6aakTtfb",
+"dl":"https://s.pptons.com/2025/08/chief-of-war.html",
+"dl2":"https://s.pptons.com/2025/08/chief-of-war.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"6.8",
+"genre":"Drama",
+"description":"With Hawaii's four kingdoms divided by war, the ferocious warrior Ka'iana embarks on an epic mission to unite his people—as an existential thr...",
+"type":"series",
+"cast":"Jason Momoa,Luciane Buchanan,Temuera Morrison,Te Ao o Hinepehinga,Cliff Curtis"
+},
+{
+"title":"Bigg Boss [Season 19] [Episode 19] WEB-DL [Hindi] | All Episodes",
+"im":"xVjvkjuDUQfCjrTJ1e4mpFyD2wH",
+"bgi":"1bc7UpjVorkjcuzeBjuTqUjXT8B",
+"dl":"https://s.pptons.com/2025/08/bigg-boss.html",
+"dl2":"https://s.pptons.com/2025/08/bigg-boss.html",
+"year":"2006",
+"duration":"1h per episode",
+"rating":"4.2",
+"genre":"Reality,Family",
+"description":"Your ‘Host and Dost’ Salman Khan is back! Brace for another high-octane season of the greatest reality show, serving entertainment and drama—all...",
+"type":"series",
+"cast":"Salman Khan,Devoleena Bhattacharjee,Vikas Gupta,Rakhi Sawant,Sidharth Shukla"
 },
 {
 "title":"Nobody 2 [2025] HD-TC [Hindi-English] | Full Movie",
@@ -84,20 +182,6 @@ const movies = [
 "description":"Before The Terminal List, Navy SEAL Ben Edwards finds himself entangled in the black operations side of the CIA. The deeper Ben goes into the 'gr...",
 "type":"series",
 "cast":"Taylor Kitsch,Tom Hopper,Robert Wisdom,Dar Salim,Rona-Lee Shim&#39;on"
-},
-{
-"title":"Thammudu [2025] WEB-DL [Hindi HQ Dub] | Full Movie",
-"im":"5rhjx4KLaLrZNxzsBY8j8U6Pntu",
-"bgi":"2m8zoc7iL1MiWP2FuPiyQvTSBtE",
-"dl":"https://hubcloud.one/drive/gsewbs1ksxgnpeb",
-"dl2":"https://hubcloud.one/drive/gsewbs1ksxgnpeb",
-"year":"2025",
-"duration":"2h 31m",
-"rating":"7.3",
-"genre":"Action,Drama",
-"description":"A troubled man reunites with his sister to protect her and a group of villagers from the brutal plans of a violent criminal businessman.",
-"type":"movie",
-"cast":"Nithiin,Sapthami Gowda,Laya,Varsha Bollamma,Swasika"
 },
 {
 "title":"Top Gear [2022] WEB-DL [Hindi-English] | Full Movie",
@@ -196,33 +280,6 @@ const movies = [
 "description":"In a bid for redemption, an Ex-Special Forces security guard attempts to save the life of a woman who is being hunted by a corrupt police death squad ...",
 "type":"movie",
 "cast":"Arjo Atayde,Julia Montes,Sid Lucero,Paolo Paraiso,Cholo Barretto"
-},
-{
-"title":"Chief of War [Season 1] [Episode 7] WEB-DL [English] | All Episodes",
-"im":"8Mckh3qJRTzXTQNZtpb133RHmO4",
-"bgi":"mwVrLbaue8AqjFtF6lY6aakTtfb",
-"dl":"https://s.pptons.com/2025/08/chief-of-war.html",
-"dl2":"https://s.pptons.com/2025/08/chief-of-war.html",
-"year":"2025",
-"duration":"1h per episode",
-"rating":"6.8",
-"genre":"Drama",
-"description":"With Hawaii's four kingdoms divided by war, the ferocious warrior Ka'iana embarks on an epic mission to unite his people—as an existential thr...",
-"type":"series",
-"cast":"Jason Momoa,Luciane Buchanan,Temuera Morrison,Te Ao o Hinepehinga,Cliff Curtis"
-},
-{
-"title":"Peacemaker [Season 2] [Episode 3] WEB-DL [Hindi-English] | All Episodes",
-"im":"bUYOeu8A3mjtqWWoKDLzjBkdLa1",
-"bgi":"pj1wFbZF3gpEg7F0EreXTvZNZTG",
-"dl":"https://s.pptons.com/2025/07/blog-post_20.html",
-"year":"2022",
-"duration":"1h per episode",
-"rating":"8.2",
-"genre":"Action & Adventure,Sci-Fi & Fantasy,Drama",
-"description":"The continuing story of Peacemaker - a compellingly vainglorious man who believes in peace at any cost, no matter how many people he has to kill to ...",
-"type":"series",
-"cast":"John Cena,Danielle Brooks,Freddie Stroma,Jennifer Holland,Steve Agee"
 },
 {
 "title":"Inspector Zende [2025] WEB-DL [Hindi] | Full Movie",
@@ -503,20 +560,6 @@ const movies = [
 "description":"When five friends inadvertently cause a deadly car accident, they cover up their involvement and make a pact to keep it a secret rather than face the ...",
 "type":"movie",
 "cast":"Madelyn Cline,Chase Sui Wonders,Jonah Hauer-King,Tyriq Withers,Sarah Pidgeon"
-},
-{
-"title":"Bigg Boss [Season 19] [Episode 2] WEB-DL [Hindi] | All Episodes",
-"im":"xVjvkjuDUQfCjrTJ1e4mpFyD2wH",
-"bgi":"1bc7UpjVorkjcuzeBjuTqUjXT8B",
-"dl":"https://s.pptons.com/2025/08/bigg-boss.html",
-"dl2":"https://s.pptons.com/2025/08/bigg-boss.html",
-"year":"2006",
-"duration":"1h per episode",
-"rating":"4.2",
-"genre":"Reality,Family",
-"description":"Your ‘Host and Dost’ Salman Khan is back! Brace for another high-octane season of the greatest reality show, serving entertainment and drama—all...",
-"type":"series",
-"cast":"Salman Khan,Devoleena Bhattacharjee,Vikas Gupta,Rakhi Sawant,Sidharth Shukla"
 },
 {
 "title":"Upload [Season 4] WEB-DL [Hindi-English] | All Episodes",

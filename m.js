@@ -2,6 +2,21 @@
 const movies = [
 
 
+
+{
+"title":"Demon Slayer: Kimetsu no Yaiba Infinity Castle [2025] HQ-HDTC [Hindi-Japanese] | Full Movie",
+"im":"aFRDH3P7TX61FVGpaLhKr6QiOC1",
+"bgi":"1RgPyOhN4DRs225BGTlHJqCudII",
+"dl":"https://pixeldrain.dev/api/file/o51nczoN?download",
+"dl2":"https://hubcloud.one/drive/fxaam462awaydxz",
+"year":"2025",
+"duration":"2h 35m",
+"rating":"7.6",
+"genre":"Animation,Action,Fantasy,Thriller",
+"description":"The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fig...",
+"type":"movie",
+"cast":"Natsuki Hanae,Hiro Shimono,Takahiro Sakurai,Akira Ishida,Yoshitsugu Matsuoka"
+},
 {
 "title":"Mirai [2025] HQ-HDTC [Hindi-Telugu] | Full Movie",
 "im":"28mjgY8UHW96JtOmpgc9lZt5ZFq",
@@ -45,6 +60,34 @@ const movies = [
 "cast":"Rajinikanth,Nagarjuna Akkineni,Soubin Shahir,Upendra,Sathyaraj"
 },
 {
+"title":"Heer Express [2025] V2 HDTC [Hindi CLEAN] | Full Movie",
+"im":"4rgfq74rY9ZuBixODvLoROEphd2",
+"bgi":"4rgfq74rY9ZuBixODvLoROEphd2",
+"dl":"https://pixeldrain.dev/api/file/kUmBakSm?download",
+"dl2":"https://hubcloud.one/drive/hvrtr1xkgfagtty",
+"year":"2025",
+"duration":"2h 20m",
+"rating":"6.1",
+"genre":"Comedy,Drama,Family",
+"description":"After moving to London to open a restaurant, a young woman finds herself encountering new love and new family.",
+"type":"movie",
+"cast":"Divita Juneja,Prit Kamani,Ashutosh Rana,Gulshan Grover,Sanjay Mishra"
+},
+{
+"title":"Butta Bomma [2023] WEB-DL [Hindi-Telugu] | Full Movie",
+"im":"9h3yEeMgdISHwU3gJOUC3oWrqUV",
+"bgi":"buamYrukfn58GdKHF3kF7U2F0dq",
+"dl":"https://pixeldrain.dev/api/file/C7LLT73h?download",
+"dl2":"https://hubcloud.one/drive/b2p5iejg5uu2j2x",
+"year":"2023",
+"duration":"2h 21m",
+"rating":"5.8",
+"genre":"Drama,Romance",
+"description":"A young woman falls in love with a man after dialing his number by mistake. However, when she visits his city to meet him, another stranger enters her...",
+"type":"movie",
+"cast":"Anikha Surendran,Surya Vasishta,Arjun Das,Mirchi Kiran,Navya Swamy"
+},
+{
 "title":"Do You Wanna Partner [Season 1] WEB-DL [Hindi-English] | All Episodes",
 "im":"desoUeji3c4EDvSsDOoi7OEKH1a",
 "bgi":"6Oqv8Zp1eV68EBKy75eC6GH8AjR",
@@ -71,20 +114,6 @@ const movies = [
 "description":"Dawn thinks she's joining a dating show in Paris, France, only to land in Paris, Texas. She has an exit plan — until sparks fly with the cowboy...",
 "type":"movie",
 "cast":"Miranda Cosgrove,Pierson Fodé,Madison Pettis,Frances Fisher,Yvonne Orji"
-},
-{
-"title":"Heer Express [2025] WEB-DL [Hindi-English] | Full Movie",
-"im":"4rgfq74rY9ZuBixODvLoROEphd2",
-"bgi":"4rgfq74rY9ZuBixODvLoROEphd2",
-"dl":"https://pixeldrain.dev/api/file/Pn8hJM6o?download",
-"dl2":"https://hubcloud.one/drive/znff2f26s27hqtc",
-"year":"2025",
-"duration":"2h 20m",
-"rating":"0.0",
-"genre":"Comedy,Drama,Family",
-"description":"After moving to London to open a restaurant, a young woman finds herself encountering new love and new family.",
-"type":"movie",
-"cast":"Divita Juneja,Prit Kamani,Ashutosh Rana,Gulshan Grover,Sanjay Mishra"
 },
 {
 "title":"Thammudu [2025] WEB-DL [Hindi-Telugu] | Full Movie",
@@ -1869,20 +1898,6 @@ const movies = [
 "description":"Show Time is a gripping thriller that explores how an accidental murder shatters the lives of a middle-class family. The story follows a seemingly ord...",
 "type":"movie",
 "cast":"Naveen Chandra,Kamakshi Bhaskarla,Raja Ravindra,Naresh"
-},
-{
-"title":"Demon Slayer: Kimetsu no Yaiba Infinity Castle [2025] V2 HD-TC E-Sub [Japanese] | Full Movie",
-"im":"aFRDH3P7TX61FVGpaLhKr6QiOC1",
-"bgi":"63RnEJRNzRDvi0Fv4jhrT2eh0fl",
-"dl":"https://pixeldrain.dev/api/file/AN96Xscw?download",
-"dl2":"https://hubcloud.one/drive/yqkttefos1sy91f",
-"year":"2025",
-"duration":"2h 35m",
-"rating":"6.8",
-"genre":"Animation,Action,Fantasy,Thriller",
-"description":"As the Demon Slayer Corps members and Hashira engaged in a group strength training program, the Hashira Training, in preparation for the forthcoming b...",
-"type":"movie",
-"cast":"Natsuki Hanae,Akari Kito,Yoshitsugu Matsuoka,Hiro Shimono,Toshihiko Seki"
 },
 {
 "title":"Zebra [2024] WEB-DL [Hindi-Telugu] | Full Movie",

@@ -2,7 +2,20 @@
 const movies = [
 
 
-
+{
+"title":"King & Conqueror [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"eg2H1MEirJELzvfgnNt3EziQ6wI",
+"bgi":"wBEAtmYwsmXbIw9czMSJ9iyxV3w",
+"dl":"https://s.pptons.com/2025/09/king-conqueror.html",
+"dl2":"https://s.pptons.com/2025/09/king-conqueror.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"7.6",
+"genre":"Drama,Action & Adventure",
+"description":"The story of a clash that defined the future of a country and a continent for a thousand years. Harold of Wessex and William of Normandy were two men ...",
+"type":"series",
+"cast":"James Norton,Nikolaj Coster-Waldau,Clémence Poésy,Emily Beecham,Eddie Marsan"
+},
 {
 "title":"Demon Slayer: Kimetsu no Yaiba Infinity Castle [2025] HQ-HDTC [Hindi-Japanese] | Full Movie",
 "im":"aFRDH3P7TX61FVGpaLhKr6QiOC1",
@@ -16,6 +29,48 @@ const movies = [
 "description":"The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fig...",
 "type":"movie",
 "cast":"Natsuki Hanae,Hiro Shimono,Takahiro Sakurai,Akira Ishida,Yoshitsugu Matsuoka"
+},
+{
+"title":"Doctor [2021] WEB-DL [Hindi-Tamil] | Full Movie",
+"im":"ySPT0USsuDFG9pqHjI50GYOeQmj",
+"bgi":"vP9I3436K6AYvO1UR9R9YMsT6NY",
+"dl":"https://pixeldrain.dev/api/file/28KRCMUs?download",
+"dl2":"https://hubcloud.one/drive/g173aeu3h2rvc37",
+"year":"2021",
+"duration":"2h 30m",
+"rating":"6.5",
+"genre":"Thriller,Comedy,Action",
+"description":"An army doctor helps his love interest's family to find their kidnapped daughter.",
+"type":"movie",
+"cast":"Sivakarthikeyan,Vinay Rai,Priyanka Arul Mohan,Yogi Babu,Archana Chandhoke"
+},
+{
+"title":"HAIKYU!! The Dumpster Battle [2024] WEB-DL [Hindi-English] | Full Movie",
+"im":"ntRU0OA4etGGiMMmH1Yw0bnaMdW",
+"bgi":"cZmOrIOkJ2SNfVdiO85dUbOAYnL",
+"dl":"https://pixeldrain.dev/api/file/w56TeAVr?download",
+"dl2":"https://hubcloud.one/drive/7ama0ffzhb1dbmj",
+"year":"2024",
+"duration":"1h 25m",
+"rating":"7.6",
+"genre":"Animation,Comedy",
+"description":"Shoyo Hinata joins Karasuno High's volleyball club to be like his idol, a former Karasuno player known as the 'Little Giant'. But Hinat...",
+"type":"movie",
+"cast":"Ayumu Murase,Kaito Ishikawa,Yuki Kaji,Yuichi Nakamura,Satoshi Hino"
+},
+{
+"title":"Kothalavadi [2025] WEB-DL [Hindi-Kannada] | Full Movie",
+"im":"2255g2gZXBcaV4d25W2hcSmjdrB",
+"bgi":"sepxTZcZBZnmpocwAHuisA99K0c",
+"dl":"https://pixeldrain.dev/api/file/rmfvVjit?download",
+"dl2":"https://hubcloud.one/drive/im4bb1q41si6z1m",
+"year":"2025",
+"duration":"2h 24m",
+"rating":"0.0",
+"genre":"Drama",
+"description":"In the famine-stricken village of Kothalavadi, greed sparks chaos as a ruthless scrap dealer manipulates desperate villagers into illegal sand mining,...",
+"type":"movie",
+"cast":"Pruthvi Ambaar,Gopalkrishna Deshpande,Rajesh Nataranga,Bala Rajwadi,Avinash"
 },
 {
 "title":"Mirai [2025] HQ-HDTC [Hindi-Telugu] | Full Movie",

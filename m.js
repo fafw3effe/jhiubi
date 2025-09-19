@@ -1,7 +1,20 @@
 // Movies data
 const movies = [
 
-
+{
+"title":"Jolly LLB 3 [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"faNSc8Lt5lB1mykcp6Zgmt9j0U9",
+"bgi":"5nFIbw5etVpcYvocuOzZNGtT4IA",
+"dl":"https://pixeldrain.dev/api/file/a9WyM3Gn?download",
+"dl2":"https://hubcloud.one/drive/cpclhjzyzkuhrec",
+"year":"2025",
+"duration":"2h 37m",
+"rating":"0.0",
+"genre":"Drama,Comedy",
+"description":"The third part of the Jolly LLB trilogy brings back Jagdish Tyagi and Jagdishwar Mishra for the biggest face-off as Janki Devi Solanki awaits justice ...",
+"type":"movie",
+"cast":"Arshad Warsi,Akshay Kumar,Saurabh Shukla,Gajraj Rao,Seema Biswas"
+},
 {
 "title":"King & Conqueror [Season 1] WEB-DL [Hindi-English] | All Episodes",
 "im":"eg2H1MEirJELzvfgnNt3EziQ6wI",

@@ -30,6 +30,20 @@ const movies = [
 "cast":"James Norton,Nikolaj Coster-Waldau,Clémence Poésy,Emily Beecham,Eddie Marsan"
 },
 {
+"title":"Elio [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"w2ARwtc1zoh0pyfwmyhpZHwuXgK",
+"bgi":"mBDoBHUZHHy9WG7dRFndjB8adhc",
+"dl":"https://pixeldrain.dev/api/file/6xQFLHu6?download",
+"dl2":"https://hubcloud.one/drive/zzjzcuppcrsejee",
+"year":"2025",
+"duration":"1h 39m",
+"rating":"6.8",
+"genre":"Family,Comedy,Adventure,Animation,Science Fiction",
+"description":"Elio, a space fanatic with an active imagination, finds himself on a cosmic misadventure where he must form new bonds with eccentric alien lifeforms, ...",
+"type":"movie",
+"cast":"Yonas Kibreab,Zoe Saldaña,Remy Edgerly,Brandon Moon,Brad Garrett"
+},
+{
 "title":"Demon Slayer: Kimetsu no Yaiba Infinity Castle [2025] HQ-HDTC [Hindi-Japanese] | Full Movie",
 "im":"aFRDH3P7TX61FVGpaLhKr6QiOC1",
 "bgi":"1RgPyOhN4DRs225BGTlHJqCudII",
@@ -1117,20 +1131,6 @@ const movies = [
 "description":"When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what...",
 "type":"movie",
 "cast":"Josh Brolin,Julia Garner,Alden Ehrenreich,Austin Abrams,Cary Christopher"
-},
-{
-"title":"Elio [2025] WEB-DL [Hindi LiNe-English] | Full Movie",
-"im":"w2ARwtc1zoh0pyfwmyhpZHwuXgK",
-"bgi":"mBDoBHUZHHy9WG7dRFndjB8adhc",
-"dl":"https://pixeldrain.dev/api/file/DGq7uMWd?download",
-"dl2":"https://hubcloud.one/drive/ggzzeb0pbb1ez88",
-"year":"2025",
-"duration":"1h 39m",
-"rating":"6.8",
-"genre":"Family,Comedy,Adventure,Animation,Science Fiction",
-"description":"Elio, a space fanatic with an active imagination, finds himself on a cosmic misadventure where he must form new bonds with eccentric alien lifeforms, ...",
-"type":"movie",
-"cast":"Yonas Kibreab,Zoe Saldaña,Remy Edgerly,Brandon Moon,Brad Garrett"
 },
 {
 "title":"Mission: Impossible - The Final Reckoning [2025] WEB-DL [Hindi-English] | Full Movie",

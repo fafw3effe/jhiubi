@@ -44,7 +44,7 @@ const movies = [
 "cast":"Natsuki Hanae,Hiro Shimono,Takahiro Sakurai,Akira Ishida,Yoshitsugu Matsuoka"
 },
 {
-"title":"Alien: Earth [Season 1] [Episode 2] WEB-DL [Hindi-English] | All Episodes",
+"title":"Alien: Earth [Season 1] [Episode 7] WEB-DL [Hindi-English] | All Episodes",
 "im":"yueXS3q8BtoWekcHOATFHicLl3e",
 "bgi":"25g7mthXoJFcNZhAKz0evk17Bsx",
 "dl":"https://s.pptons.com/2025/09/alien-earth.html",

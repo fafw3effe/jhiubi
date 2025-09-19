@@ -30,6 +30,34 @@ const movies = [
 "cast":"James Norton,Nikolaj Coster-Waldau,Clémence Poésy,Emily Beecham,Eddie Marsan"
 },
 {
+"title":"Neighborhood Watch [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"n1KcNdCrz5s3ruij9eiT5IARter",
+"bgi":"n8uHu75o4wIBIBN3fG9qISXgqU0",
+"dl":"https://pixeldrain.dev/api/file/J1Ex5C9R?download",
+"dl2":"https://hubcloud.one/drive/rrxr22rrbrrwmuw",
+"year":"2025",
+"duration":"1h 32m",
+"rating":"6.5",
+"genre":"Crime,Thriller",
+"description":"When a mentally ill young man thinks he witnesses an abduction and the police refuse to believe him, he reluctantly turns to his next door neighbor �...",
+"type":"movie",
+"cast":"Jeffrey Dean Morgan,Jack Quaid,Malin Åkerman,Cecile Cubiló,Harrison Stone"
+},
+{
+"title":"Gen V [Season 2] [Episode 3] WEB-DL [Hindi-English] | All Episodes",
+"im":"tEv842Nd5uMSavURG4aQO1pNtst",
+"bgi":"ScaVfT5IkwVC3Edhmxqyl0GbK0",
+"dl":"https://s.pptons.com/2025/09/gen-v.html",
+"dl2":"https://s.pptons.com/2025/09/gen-v.html",
+"year":"2023",
+"duration":"1h per episode",
+"rating":"7.7",
+"genre":"Action & Adventure,Drama,Sci-Fi & Fantasy",
+"description":"At America's only college for superheroes, gifted students put their moral boundaries to the test, competing for the university's top rankin...",
+"type":"series",
+"cast":"Jaz Sinclair,Lizze Broadway,Maddie Phillips,London Thor,Derek Luh"
+},
+{
 "title":"Elio [2025] WEB-DL [Hindi-English] | Full Movie",
 "im":"w2ARwtc1zoh0pyfwmyhpZHwuXgK",
 "bgi":"mBDoBHUZHHy9WG7dRFndjB8adhc",

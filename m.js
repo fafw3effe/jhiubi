@@ -44,6 +44,34 @@ const movies = [
 "cast":"Natsuki Hanae,Hiro Shimono,Takahiro Sakurai,Akira Ishida,Yoshitsugu Matsuoka"
 },
 {
+"title":"Alien: Earth [Season 1] [Episode 2] WEB-DL [Hindi-English] | All Episodes",
+"im":"yueXS3q8BtoWekcHOATFHicLl3e",
+"bgi":"25g7mthXoJFcNZhAKz0evk17Bsx",
+"dl":"https://s.pptons.com/2025/09/alien-earth.html",
+"dl2":"https://s.pptons.com/2025/09/alien-earth.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"8.5",
+"genre":"Sci-Fi & Fantasy,Drama",
+"description":"When the mysterious deep space research vessel USCSS Maginot crash-lands on Earth, Wendy and a ragtag group of tactical soldiers make a fateful discov...",
+"type":"series",
+"cast":"Sydney Chandler,Alex Lawther,Essie Davis,Samuel Blenkin,Babou Ceesay"
+},
+{
+"title":"Trust [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"b803hag2QDyHphM6AuSWCjoVVbl",
+"bgi":"aJgTPBIkB5rovcF9FjUMl05W10D",
+"dl":"https://pixeldrain.dev/api/file/uf3qPSkP?download",
+"dl2":"https://hubcloud.one/drive/p3ksff5ckir11r3",
+"year":"2025",
+"duration":"1h 26m",
+"rating":"4.8",
+"genre":"Thriller",
+"description":"A Hollywood starlet seeks refuge in a secluded Airbnb following a high-profile scandal, only to find herself at the mercy of hardened criminals on the...",
+"type":"movie",
+"cast":"Sophie Turner,Rhys Coiro,Billy Campbell,Peter Mensah,Forrest Goodluck"
+},
+{
 "title":"Doctor [2021] WEB-DL [Hindi-Tamil] | Full Movie",
 "im":"ySPT0USsuDFG9pqHjI50GYOeQmj",
 "bgi":"vP9I3436K6AYvO1UR9R9YMsT6NY",
@@ -1325,20 +1353,6 @@ const movies = [
 "description":"When Papa Smurf is mysteriously taken by evil wizards, Razamel and Gargamel, Smurfette leads the Smurfs on a mission into the real world to save him. ...",
 "type":"movie",
 "cast":"Rihanna,James Corden,Nick Offerman,JP Karliak,Dan Levy"
-},
-{
-"title":"Alien: Earth [Season 1] [Episode 2] WEB-DL [Hindi-English] | All Episodes",
-"im":"yueXS3q8BtoWekcHOATFHicLl3e",
-"bgi":"25g7mthXoJFcNZhAKz0evk17Bsx",
-"dl":"https://s.pptons.com/2025/08/alien-earth.html",
-"dl2":"https://s.pptons.com/2025/08/alien-earth.html",
-"year":"2025",
-"duration":"1h per episode",
-"rating":"8.5",
-"genre":"Sci-Fi & Fantasy,Drama",
-"description":"When the mysterious deep space research vessel USCSS Maginot crash-lands on Earth, Wendy and a ragtag group of tactical soldiers make a fateful discov...",
-"type":"series",
-"cast":"Sydney Chandler,Alex Lawther,Essie Davis,Samuel Blenkin,Babou Ceesay"
 },
 {
 "title":"Jurassic World Rebirth [2025] WEB-DL [Hindi LiNE-English] | Full Movie",

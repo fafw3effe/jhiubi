@@ -44,6 +44,62 @@ const movies = [
 "cast":"Natsuki Hanae,Hiro Shimono,Takahiro Sakurai,Akira Ishida,Yoshitsugu Matsuoka"
 },
 {
+"title":"The Terminal List: Dark Wolf [Season 1] [Episode 6] WEB-DL [Hindi-English] | All Episodes",
+"im":"9mYeRoWguq5etbwJRdF8BXFKiF",
+"bgi":"yQw23xxmVBFVHPCF6V68TAIIfno",
+"dl":"https://s.pptons.com/2025/09/the-terminal-list-dark-wolf.html",
+"dl2":"https://s.pptons.com/2025/09/the-terminal-list-dark-wolf.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"6.1",
+"genre":"Action & Adventure,Drama",
+"description":"Before The Terminal List, Navy SEAL Ben Edwards finds himself entangled in the black operations side of the CIA. The deeper Ben goes into the 'gr...",
+"type":"series",
+"cast":"Taylor Kitsch,Tom Hopper,Robert Wisdom,Dar Salim,Rona-Lee Shim&#39;on"
+},
+{
+"title":"Khalnigranaaya [2025] WEB-DL [Hindi] | Full Movie",
+"im":"d5MDrJ2LAk9ETZwSzVgoOxYxif0",
+"bgi":"lMl12GYXsrX7Y8LDLXH5350ItEh",
+"dl":"https://pixeldrain.dev/api/file/MwyyhvnZ?download",
+"dl2":"https://hubcloud.one/drive/wf4vnuv4kp8e44o",
+"year":"2025",
+"duration":"2h 22m",
+"rating":"6.1",
+"genre":"Action",
+"description":"A committed ACP faces his toughest challenge as his newly born child is kidnapped by anonymous culprits. Racing against them, he strives to reclaim hi...",
+"type":"movie",
+"cast":"Palak Singh, Dayanand Shetty, Neetha Shetty"
+},
+{
+"title":"Dan Da Dan [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"6qfZAOEUFIrbUH3JvePclx1nXzz",
+"bgi":"uNTrRKIOyKYISthoeizghtXPEOK",
+"dl":"https://s.pptons.com/2025/09/dan-da-dan.html",
+"dl2":"https://s.pptons.com/2025/09/dan-da-dan.html",
+"year":"2024",
+"duration":"1h per episode",
+"rating":"8.6",
+"genre":"Animation,Action & Adventure,Comedy,Sci-Fi & Fantasy",
+"description":"In a bet to prove whether ghosts or aliens exist, two high schoolers face terrifying paranormal threats, gain superpowers and maybe even fall in love?...",
+"type":"series",
+"cast":"Shion Wakayama,Natsuki Hanae,Mayumi Tanaka,Nana Mizuki,Ayane Sakura"
+},
+{
+"title":"Chalo Jeete Hain [2018] WEB-DL [Hindi] | Full Movie",
+"im":"AtL7vqN4N4CQkZxkOIGFJGS1ZLa",
+"bgi":"AtL7vqN4N4CQkZxkOIGFJGS1ZLa",
+"dl":"https://pixeldrain.dev/api/file/ebuAQk4E?download",
+"dl2":"https://hubcloud.one/drive/enrtvevneqvtysr",
+"year":"2018",
+"duration":"31m",
+"rating":"6.0",
+"genre":"Documentary",
+"description":"An impressionable boy is struck hard by Swami Vivekananda's quote, Wahi jeete hain, jo doosro ke liye jeete hain (translation: Only those who liv...",
+"type":"movie",
+"cast":"Rajeev Saxena,Lata S. Singh,Dipti Avlani,Ajay Kumar Singh"
+},
+{
 "title":"Alien: Earth [Season 1] [Episode 7] WEB-DL [Hindi-English] | All Episodes",
 "im":"yueXS3q8BtoWekcHOATFHicLl3e",
 "bgi":"25g7mthXoJFcNZhAKz0evk17Bsx",
@@ -418,20 +474,6 @@ const movies = [
 "description":"When a mysterious TV transports her to a school for on-screen villains, a restaurant worker finds new purpose—a way to get back at her enemies.",
 "type":"movie",
 "cast":"Eugene Domingo,Barbie Forteza,Jameson Blake,Michael De Mesa,Ysabel Ortega"
-},
-{
-"title":"The Terminal List: Dark Wolf [Season 1] [Episode 1] WEB-DL [Hindi-English] | All Episodes",
-"im":"9mYeRoWguq5etbwJRdF8BXFKiF",
-"bgi":"yQw23xxmVBFVHPCF6V68TAIIfno",
-"dl":"https://s.pptons.com/2025/09/the-terminal-list-dark-wolf.html",
-"dl2":"https://s.pptons.com/2025/09/the-terminal-list-dark-wolf.html",
-"year":"2025",
-"duration":"1h per episode",
-"rating":"6.1",
-"genre":"Action & Adventure,Drama",
-"description":"Before The Terminal List, Navy SEAL Ben Edwards finds himself entangled in the black operations side of the CIA. The deeper Ben goes into the 'gr...",
-"type":"series",
-"cast":"Taylor Kitsch,Tom Hopper,Robert Wisdom,Dar Salim,Rona-Lee Shim&#39;on"
 },
 {
 "title":"Top Gear [2022] WEB-DL [Hindi-English] | Full Movie",

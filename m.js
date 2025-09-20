@@ -29,7 +29,6 @@ const movies = [
 "type":"series",
 "cast":"James Norton,Nikolaj Coster-Waldau,Clémence Poésy,Emily Beecham,Eddie Marsan"
 },
-
 {
 "title":"The Ba***ds of Bollywood [Season 1] WEB-DL [Hindi-English] | All Episodes",
 "im":"urFODezON6er0fuycseVDSFsCRI",

@@ -29,6 +29,77 @@ const movies = [
 "type":"series",
 "cast":"James Norton,Nikolaj Coster-Waldau,Clémence Poésy,Emily Beecham,Eddie Marsan"
 },
+
+{
+"title":"The Ba***ds of Bollywood [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"urFODezON6er0fuycseVDSFsCRI",
+"bgi":"tW80eVy19UxCp9WZrmLiztdthSE",
+"dl":"https://s.pptons.com/2025/09/the-bads-of-bollywood.html",
+"dl2":"https://s.pptons.com/2025/09/the-bads-of-bollywood.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"7.3",
+"genre":"Comedy,Action & Adventure",
+"description":"In this high-stakes drama, an ambitious outsider and his friends navigate the chaotic, larger-than-life, yet uncertain world of Bollywood.",
+"type":"series",
+"cast":"Karan Johar,Arshad Warsi,Disha Patani,Badshah,Siddhant Chaturvedi"
+},
+{
+"title":"Vendhu Thanindhathu Kaadu [2022] WEB-DL [Hindi-Tamil] | Full Movie",
+"im":"7z2D25a4h4hs8PHrTia8pPkHijE",
+"bgi":"1L0BG4iYnVEpBvG5RjiiMkld2r5",
+"dl":"https://pixeldrain.dev/api/file/jiJ3EUYb?download",
+"dl2":"https://hubcloud.one/drive/brg1gykney1eyon",
+"year":"2022",
+"duration":"2h 52m",
+"rating":"6.3",
+"genre":"Drama,Thriller,Crime",
+"description":"A youngster from Tamil Nadu goes to Bombay in search of a better life and gets sucked into the underworld. Will he be able to find a way out of the vi...",
+"type":"movie",
+"cast":"Silambarasan,Siddhi Idnani,Neeraj Madhav,Radikaa Sarathkumar,Siddique"
+},
+{
+"title":"Black Rabbit [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"4e9CraVtGY00jLP2YGwsuEtaIjR",
+"bgi":"l7rLHTBhCJ0Ub7ctAh9Vesx6ACK",
+"dl":"https://s.pptons.com/2025/09/black-rabbit.html",
+"dl2":"https://s.pptons.com/2025/09/black-rabbit.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"7.1",
+"genre":"Drama,Crime",
+"description":"A rising-star restaurateur is forced into New York's criminal underworld when his chaotic brother returns to town with loan sharks on his trail.",
+"type":"series",
+"cast":"Jason Bateman,Jude Law,Chris Coy,Troy Kotsur,Abbey Lee"
+},
+{
+"title":"Jhamkudi [2024] WEB-DL [Hindi-Gurati] | Full Movie",
+"im":"WV1qNsQFUKdP4bdUIyWkUVAV8W",
+"bgi":"x2p5BJSbpDLd0INqfpuuycXWoRz",
+"dl":"https://pixeldrain.dev/api/file/GBd6b21q?download",
+"dl2":"https://hubcloud.one/drive/dlme0h1fnp3ssyv",
+"year":"2024",
+"duration":"2h 32m",
+"rating":"6.1",
+"genre":"Comedy",
+"description":"When the Gujarat is celebrating Navratri, the village of Raniwada dwells in the darkness since ages as celebrating garba is forbidden due to a witch&#...",
+"type":"movie",
+"cast":"Viraj Ghelani,Manasi Parekh,Sanjay Goradia,Ojas Rawal,Chetan Daiya"
+},
+{
+"title":"Zebra [2024] UNCUT DS4K WEB-DL [Hindi-Telugu] | Full Movie",
+"im":"rCGgmmMD63pKH7lnmVJ5MMLQfOm",
+"bgi":"iMeNNHnbfgjeYqKpV4gStB997UI",
+"dl":"https://pixeldrain.dev/api/file/C9CDxqSG?download",
+"dl2":"https://hubcloud.one/drive/03mpshuu1cs8pmp",
+"year":"2024",
+"duration":"2h 44m",
+"rating":"7.3",
+"genre":"Crime,Action,Thriller",
+"description":"Surya is a street-smart bank employee, in a bid to protect his loved one, gets entangled in a complex multi-crore scam. He must do whatever it takes t...",
+"type":"movie",
+"cast":"Satyadev Kancharana,Dhananjay,Priya Bhavani Shankar,Satya,Sathyaraj"
+},
 {
 "title":"Neighborhood Watch [2025] WEB-DL [Hindi-English] | Full Movie",
 "im":"n1KcNdCrz5s3ruij9eiT5IARter",
@@ -2106,20 +2177,6 @@ const movies = [
 "description":"Show Time is a gripping thriller that explores how an accidental murder shatters the lives of a middle-class family. The story follows a seemingly ord...",
 "type":"movie",
 "cast":"Naveen Chandra,Kamakshi Bhaskarla,Raja Ravindra,Naresh"
-},
-{
-"title":"Zebra [2024] WEB-DL [Hindi-Telugu] | Full Movie",
-"im":"rCGgmmMD63pKH7lnmVJ5MMLQfOm",
-"bgi":"iMeNNHnbfgjeYqKpV4gStB997UI",
-"dl":"https://pixeldrain.dev/api/file/ie9QjVKb?download",
-"dl2":"https://hubcloud.one/drive/hh1imqarn2zm2nz",
-"year":"2024",
-"duration":"2h 44m",
-"rating":"7.3",
-"genre":"Crime,Action,Thriller",
-"description":"Surya is a street-smart bank employee, in a bid to protect his loved one, gets entangled in a complex multi-crore scam. He must do whatever it takes t...",
-"type":"movie",
-"cast":"Satyadev Kancharana,Dhananjay,Priya Bhavani Shankar,Satya,Sathyaraj"
 },
 {
 "title":"Edagaiye Apaghatakke Karana [2025] WEB-DL [Hindi-English] | Full Movie",

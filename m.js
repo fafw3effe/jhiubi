@@ -43,7 +43,159 @@ const movies = [
 "type":"series",
 "cast":"Karan Johar,Arshad Warsi,Disha Patani,Badshah,Siddhant Chaturvedi"
 },
-
+{
+"title":"Madharaasi [2025] HQ-HDRip [Hindi LiNe-Tamil] | Full Movie",
+"im":"dw3Dllz1gV7186m7clqNDnI9R28",
+"bgi":"nmPzYjRPAd3iVOgrLXlvh6HuvRN",
+"dl":"https://pixeldrain.dev/api/file/iWhZBHtj?download",
+"dl2":"https://hubcloud.one/drive/9svqblfbbslzzpb",
+"year":"2025",
+"duration":"2h 48m",
+"rating":"7.7",
+"genre":"Action,Romance,Thriller",
+"description":"A man with a psychological disorder overcomes trauma and confronts his nemesis in a fast-paced action film with romance and unique elements, exploring...",
+"type":"movie",
+"cast":"Sivakarthikeyan,Rukmini Vasanth,Vidyut Jammwal,Biju Menon,Vikranth"
+},
+{
+"title":"Ajey: The Untold Story of a Yogi [2025] HD-TC [Hindi] | Full Movie",
+"im":"9MEmu8lBs5mHeEkfdDp6I8U0rPL",
+"bgi":"khlCb0Qm9xhQyrLOwD9aM4hoJK0",
+"dl":"https://pixeldrain.dev/api/file/HnD9wdQH?download",
+"dl2":"https://hubcloud.one/drive/ef1otizotzpqv1u",
+"year":"2025",
+"duration":"2h 30m",
+"rating":"6.2",
+"genre":"Drama",
+"description":"Ajey: The Untold Story of a Yogi is a biographical film based on the life of Yogi Adityanath, the Chief Minister of Uttar Pradesh. It is inspired by t...",
+"type":"movie",
+"cast":"Anant Joshi,Paresh Rawal,Dinesh Lal Yadav Nirahua,Garima Vikrant Singh,Rajesh Khattar"
+},
+{
+"title":"Bigg Boss [Season 19] [Episode 21] WEB-DL [Hindi] | All Episodes",
+"im":"xVjvkjuDUQfCjrTJ1e4mpFyD2wH",
+"bgi":"1bc7UpjVorkjcuzeBjuTqUjXT8B",
+"dl":"https://s.pptons.com/2025/08/bigg-boss.html",
+"dl2":"https://s.pptons.com/2025/08/bigg-boss.html",
+"year":"2006",
+"duration":"1h per episode",
+"rating":"4.2",
+"genre":"Reality,Family",
+"description":"Your ‘Host and Dost’ Salman Khan is back! Brace for another high-octane season of the greatest reality show, serving entertainment and drama—all...",
+"type":"series",
+"cast":"Salman Khan,Devoleena Bhattacharjee,Vikas Gupta,Rakhi Sawant,Sidharth Shukla"
+},
+{
+"title":"Mahavatar Narsimha [2025] WEB-DL [Hindi-Telugu] | Full Movie",
+"im":"tsTC69zbKSloEEVD9FUS3robmyh",
+"bgi":"prqMnCgyFQ2VkIQArfUjgB1G22s",
+"dl":"https://pixeldrain.dev/api/file/vGcpW3z4?download",
+"dl2":"https://hubcloud.one/drive/c6wblm8ymj1quy6",
+"year":"2025",
+"duration":"2h 21m",
+"rating":"7.1",
+"genre":"Fantasy",
+"description":"In a World torn apart by Darkness and Chaos... Witness the Appearance of the Legend, The Half-Man, Half-Lion Avatar-Lord Vishnu's Most Powerful I...",
+"type":"movie",
+"cast":"Jayapurna Das, Ashwin Kumar, Rudra Pratap Ghosh"
+},
+{
+"title":"Chief of War [Season 1] [Episode 9] WEB-DL [English] | All Episodes",
+"im":"8Mckh3qJRTzXTQNZtpb133RHmO4",
+"bgi":"mwVrLbaue8AqjFtF6lY6aakTtfb",
+"dl":"https://s.pptons.com/2025/08/chief-of-war.html",
+"dl2":"https://s.pptons.com/2025/08/chief-of-war.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"6.8",
+"genre":"Drama",
+"description":"With Hawaii's four kingdoms divided by war, the ferocious warrior Ka'iana embarks on an epic mission to unite his people—as an existential thr...",
+"type":"series",
+"cast":"Jason Momoa,Luciane Buchanan,Temuera Morrison,Te Ao o Hinepehinga,Cliff Curtis"
+},
+{
+"title":"Peacemaker [Season 2] [Episode 5] WEB-DL [Hindi-English] | All Episodes",
+"im":"bUYOeu8A3mjtqWWoKDLzjBkdLa1",
+"bgi":"pj1wFbZF3gpEg7F0EreXTvZNZTG",
+"dl":"https://s.pptons.com/2025/07/blog-post_20.html",
+"year":"2022",
+"duration":"1h per episode",
+"rating":"8.2",
+"genre":"Action & Adventure,Sci-Fi & Fantasy,Drama",
+"description":"The continuing story of Peacemaker - a compellingly vainglorious man who believes in peace at any cost, no matter how many people he has to kill to ...",
+"type":"series",
+"cast":"John Cena,Danielle Brooks,Freddie Stroma,Jennifer Holland,Steve Agee"
+},
+{
+"title":"Police Police [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"6R2yp5gnbyDBHoMChjTG5Uli5fC",
+"bgi":"85Vc5VbduOkKx3ckRPpnNIWdUjq",
+"dl":"https://s.pptons.com/2025/09/police-police.html",
+"dl2":"https://s.pptons.com/2025/09/police-police.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"6.1",
+"genre":"Comedy,Drama",
+"description":"A cop hires a criminal to become a cop illegally. How long will they manage to get away with it?",
+"type":"series",
+"cast":"Jayaseelan, Shabanaa Shahjahan, Sathya"
+},
+{
+"title":"Kannappa [2025] WEB-DL [Hindi] | Full Movie",
+"im":"6LhE7IwhXgaNi33l0ltYahIB91i",
+"bgi":"sq07TPUrruUkLsU0apGchnRmWlN",
+"dl":"https://pixeldrain.dev/api/file/9UFnztm6?download",
+"dl2":"https://hubcloud.one/drive/uwu6w6roqiqbz4u",
+"year":"2025",
+"duration":"3h 2m",
+"rating":"6.1",
+"genre":"Fantasy,History,Drama",
+"description":"After witnessing the cruel sacrifice of his childhood friend, an atheist warrior rejects religion until love forces him to find his own faith.",
+"type":"movie",
+"cast":"Vishnu Manchu,Preity Mukhundhan,Akshay Kumar,Mohan Babu,Mohanlal"
+},
+{
+"title":"The Trial [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"3IuvPJWRLDsqPjWZu02BLGG38tw",
+"bgi":"uS7bsxxCn8XbAGsw1H6nQgw8QN8",
+"dl":"https://s.pptons.com/2025/09/the-trial-pyaar-kaanoon-dhokha.html",
+"dl2":"https://s.pptons.com/2025/09/the-trial-pyaar-kaanoon-dhokha.html",
+"year":"2023",
+"duration":"1h per episode",
+"rating":"6.8",
+"genre":"Drama,Crime,Mystery",
+"description":"A housewife is forced to take full responsibility of her family after her husband is imprisoned over a corruption and sex scandal.",
+"type":"series",
+"cast":"Kajol,Jisshu Sengupta,Kubbra Sait,Alyy Khan,Sheeba Chaddha"
+},
+{
+"title":"Death Note [Season 1] [Episode 10] WEB-DL [Hindi-English] | All Episodes",
+"im":"tCZFfYTIwrR7n94J6G14Y4hAFU6",
+"bgi":"koBa94NxTaGe2FoDzlXMuJptsv0",
+"dl":"https://s.pptons.com/2025/08/death-note.html",
+"dl2":"https://s.pptons.com/2025/08/death-note.html",
+"year":"2006",
+"duration":"1h per episode",
+"rating":"8.6",
+"genre":"Animation,Mystery,Sci-Fi & Fantasy",
+"description":"Light Yagami is an ace student with great prospects—and he's bored out of his mind. But all that changes when he finds the Death Note, a notebook ...",
+"type":"series",
+"cast":"Mamoru Miyano,Shido Nakamura,Aya Hirano,Kappei Yamaguchi,Kimiko Saito"
+},
+{
+"title":"Dan Da Dan [Season 2] WEB-DL [Hindi-English] | All Episodes",
+"im":"6qfZAOEUFIrbUH3JvePclx1nXzz",
+"bgi":"uNTrRKIOyKYISthoeizghtXPEOK",
+"dl":"https://s.pptons.com/2025/09/dan-da-dan.html",
+"dl2":"https://s.pptons.com/2025/09/dan-da-dan.html",
+"year":"2024",
+"duration":"1h per episode",
+"rating":"8.6",
+"genre":"Animation,Action & Adventure,Comedy,Sci-Fi & Fantasy",
+"description":"In a bet to prove whether ghosts or aliens exist, two high schoolers face terrifying paranormal threats, gain superpowers and maybe even fall in love?...",
+"type":"series",
+"cast":"Shion Wakayama,Natsuki Hanae,Mayumi Tanaka,Nana Mizuki,Ayane Sakura"
+},
 {
 "title":"Daaru Na Peenda Hove [2024] WEB-DL [Punjabi] | Full Movie",
 "im":"jGzjAvwUkvTMEN8Yn0E1opHd4vM",
@@ -199,20 +351,6 @@ const movies = [
 "cast":"Palak Singh, Dayanand Shetty, Neetha Shetty"
 },
 {
-"title":"Dan Da Dan [Season 1] WEB-DL [Hindi-English] | All Episodes",
-"im":"6qfZAOEUFIrbUH3JvePclx1nXzz",
-"bgi":"uNTrRKIOyKYISthoeizghtXPEOK",
-"dl":"https://s.pptons.com/2025/09/dan-da-dan.html",
-"dl2":"https://s.pptons.com/2025/09/dan-da-dan.html",
-"year":"2024",
-"duration":"1h per episode",
-"rating":"8.6",
-"genre":"Animation,Action & Adventure,Comedy,Sci-Fi & Fantasy",
-"description":"In a bet to prove whether ghosts or aliens exist, two high schoolers face terrifying paranormal threats, gain superpowers and maybe even fall in love?...",
-"type":"series",
-"cast":"Shion Wakayama,Natsuki Hanae,Mayumi Tanaka,Nana Mizuki,Ayane Sakura"
-},
-{
 "title":"Chalo Jeete Hain [2018] WEB-DL [Hindi] | Full Movie",
 "im":"AtL7vqN4N4CQkZxkOIGFJGS1ZLa",
 "bgi":"AtL7vqN4N4CQkZxkOIGFJGS1ZLa",
@@ -366,20 +504,6 @@ const movies = [
 "cast":"Aditya Srivastava,Shivaji Satham,Dayanand Shetty,Narendra Gupta,Ansha Sayed"
 },
 {
-"title":"Bigg Boss [Season 19] [Episode 21] WEB-DL [Hindi] | All Episodes",
-"im":"xVjvkjuDUQfCjrTJ1e4mpFyD2wH",
-"bgi":"1bc7UpjVorkjcuzeBjuTqUjXT8B",
-"dl":"https://s.pptons.com/2025/08/bigg-boss.html",
-"dl2":"https://s.pptons.com/2025/08/bigg-boss.html",
-"year":"2006",
-"duration":"1h per episode",
-"rating":"4.2",
-"genre":"Reality,Family",
-"description":"Your ‘Host and Dost’ Salman Khan is back! Brace for another high-octane season of the greatest reality show, serving entertainment and drama—all...",
-"type":"series",
-"cast":"Salman Khan,Devoleena Bhattacharjee,Vikas Gupta,Rakhi Sawant,Sidharth Shukla"
-},
-{
 "title":"The Great Indian Kapil Show [Season 3] [Episode 13] WEB-DL [Hindi] | All Episodes",
 "im":"6LWtSm2VHfenFBMvmjG9GYgfvSd",
 "bgi":"lPVM7LR0ydKVj2qzdsVgi1akjom",
@@ -506,19 +630,6 @@ const movies = [
 "cast":"Nithiin,Sapthami Gowda,Laya,Varsha Bollamma,Swasika"
 },
 {
-"title":"Peacemaker [Season 2] [Episode 4] WEB-DL [Hindi-English] | All Episodes",
-"im":"bUYOeu8A3mjtqWWoKDLzjBkdLa1",
-"bgi":"pj1wFbZF3gpEg7F0EreXTvZNZTG",
-"dl":"https://s.pptons.com/2025/07/blog-post_20.html",
-"year":"2022",
-"duration":"1h per episode",
-"rating":"8.2",
-"genre":"Action & Adventure,Sci-Fi & Fantasy,Drama",
-"description":"The continuing story of Peacemaker - a compellingly vainglorious man who believes in peace at any cost, no matter how many people he has to kill to ...",
-"type":"series",
-"cast":"John Cena,Danielle Brooks,Freddie Stroma,Jennifer Holland,Steve Agee"
-},
-{
 "title":"NCIS: Tony & Ziva [Season 1] [Episode 4] WEB-DL [Hindi-English] | All Episodes",
 "im":"zNIANQsAs2kbxbzbTTe5dTBzhKe",
 "bgi":"ub0xUWZUBoAwy1eBG1uwi9ikaVg",
@@ -547,20 +658,6 @@ const movies = [
 "cast":"Harish Verma,Roopi Gill,Rubina Bajwa,Amrinder Gill,Amberdeep Singh"
 },
 {
-"title":"Chief of War [Season 1] [Episode 8] WEB-DL [English] | All Episodes",
-"im":"8Mckh3qJRTzXTQNZtpb133RHmO4",
-"bgi":"mwVrLbaue8AqjFtF6lY6aakTtfb",
-"dl":"https://s.pptons.com/2025/08/chief-of-war.html",
-"dl2":"https://s.pptons.com/2025/08/chief-of-war.html",
-"year":"2025",
-"duration":"1h per episode",
-"rating":"6.8",
-"genre":"Drama",
-"description":"With Hawaii's four kingdoms divided by war, the ferocious warrior Ka'iana embarks on an epic mission to unite his people—as an existential thr...",
-"type":"series",
-"cast":"Jason Momoa,Luciane Buchanan,Temuera Morrison,Te Ao o Hinepehinga,Cliff Curtis"
-},
-{
 "title":"Nobody 2 [2025] HD-TC [Hindi-English] | Full Movie",
 "im":"iyxwxDZCpIm0vIORaHpmgJv2BGF",
 "bgi":"wO15XEgeLbeijtf3MQAUqWCxSxc",
@@ -573,20 +670,6 @@ const movies = [
 "description":"Former assassin Hutch Mansell takes his family on a nostalgic vacation to a small-town theme park, only to be pulled back into violence when they clas...",
 "type":"movie",
 "cast":"Bob Odenkirk,Connie Nielsen,Christopher Lloyd,John Ortiz,RZA"
-},
-{
-"title":"Death Note [Season 1] [Episode 8] WEB-DL [Hindi-English] | All Episodes",
-"im":"tCZFfYTIwrR7n94J6G14Y4hAFU6",
-"bgi":"koBa94NxTaGe2FoDzlXMuJptsv0",
-"dl":"https://s.pptons.com/2025/08/death-note.html",
-"dl2":"https://s.pptons.com/2025/08/death-note.html",
-"year":"2006",
-"duration":"1h per episode",
-"rating":"8.6",
-"genre":"Animation,Mystery,Sci-Fi & Fantasy",
-"description":"Light Yagami is an ace student with great prospects—and he's bored out of his mind. But all that changes when he finds the Death Note, a notebook ...",
-"type":"series",
-"cast":"Mamoru Miyano,Shido Nakamura,Aya Hirano,Kappei Yamaguchi,Kimiko Saito"
 },
 {
 "title":"Kontrabida Academy [2025] WEB-DL [Hindi-English] | Full Movie",
@@ -1271,20 +1354,6 @@ const movies = [
 "description":"A teenage shaman determined to change fate sets out to save a mysterious boy destined to die. As danger looms, their fated encounter sparks a powerful...",
 "type":"series",
 "cast":"Cho Yi-hyun,Choo Young-woo,Cha Kang-yoon,Choo Ja-hyun,Kim Mi-kyeong"
-},
-{
-"title":"Mahavatar Narsimha [2025] WEB-DL [Hindi-Telugu] | Full Movie",
-"im":"tsTC69zbKSloEEVD9FUS3robmyh",
-"bgi":"prqMnCgyFQ2VkIQArfUjgB1G22s",
-"dl":"https://pixeldrain.dev/api/file/haSDwS6i?download",
-"dl2":"https://hubcloud.one/drive/oaao180hpi10l1n",
-"year":"2025",
-"duration":"2h 21m",
-"rating":"7.1",
-"genre":"Fantasy",
-"description":"In a World torn apart by Darkness and Chaos... Witness the Appearance of the Legend, The Half-Man, Half-Lion Avatar-Lord Vishnu's Most Powerful I...",
-"type":"movie",
-"cast":"Jayapurna Das, Ashwin Kumar, Rudra Pratap Ghosh"
 },
 {
 "title":"JSK - Janaki V vs State of Kerala [2025] WEB-DL [Hindi-Malayalam] | Full Movie",
@@ -2415,20 +2484,6 @@ const movies = [
 "description":"After the brutal murder of her twin sister, Darcy goes after those responsible by using haunted items as her tools for revenge.",
 "type":"movie",
 "cast":"Carolyn Bracken,Gwilym Lee,Steve Wall,Joe Rooney,Tadhg Murphy"
-},
-{
-"title":"Kannappa [2025] WEB-DL [Hindi] | Full Movie",
-"im":"6LhE7IwhXgaNi33l0ltYahIB91i",
-"bgi":"sq07TPUrruUkLsU0apGchnRmWlN",
-"dl":"https://pixeldrain.dev/api/file/V2ZWie2r?download",
-"dl2":"https://hubcloud.one/drive/udngdbobodcavkd",
-"year":"2025",
-"duration":"3h 2m",
-"rating":"6.1",
-"genre":"Fantasy,History,Drama",
-"description":"After witnessing the cruel sacrifice of his childhood friend, an atheist warrior rejects religion until love forces him to find his own faith.",
-"type":"movie",
-"cast":"Vishnu Manchu,Preity Mukhundhan,Akshay Kumar,Mohan Babu,Mohanlal"
 },
 {
 "title":"Lamborghini: The Man Behind the Legend [2022] WEB-DL [Hindi-English] | Full Movie",

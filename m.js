@@ -43,6 +43,21 @@ const movies = [
 "type":"series",
 "cast":"Karan Johar,Arshad Warsi,Disha Patani,Badshah,Siddhant Chaturvedi"
 },
+
+{
+"title":"Daaru Na Peenda Hove [2024] WEB-DL [Punjabi] | Full Movie",
+"im":"jGzjAvwUkvTMEN8Yn0E1opHd4vM",
+"bgi":"2Zqt6cYxkgRoNGOP0IefoWh9WU5",
+"dl":"https://hubcloud.one/drive/0yjqng1gnykapk9",
+"dl2":"https://hubcloud.one/drive/0yjqng1gnykapk9",
+"year":"2024",
+"duration":"1h 51m",
+"rating":"6.1",
+"genre":"Comedy,Drama,Family",
+"description":"The life of a directionless alcoholic is positively disrupted when his estranged daughter re-enters his life.",
+"type":"movie",
+"cast":"Amrinder Gill,Zafri Khan,Sohaila Kaur,Pukhraj Sandhu"
+},
 {
 "title":"Vendhu Thanindhathu Kaadu [2022] WEB-DL [Hindi-Tamil] | Full Movie",
 "im":"7z2D25a4h4hs8PHrTia8pPkHijE",

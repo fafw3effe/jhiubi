@@ -16,6 +16,47 @@ const movies = [
 "cast":"Arshad Warsi,Akshay Kumar,Saurabh Shukla,Gajraj Rao,Seema Biswas"
 },
 {
+"title":"C.I.D. [Season 2] [Episode 80] WEB-DL [Hindi] | All Episodes",
+"im":"60ZxbAMk6QO8jMD0p8WrGHVCbyK",
+"dl":"https://s.pptons.com/2025/06/cid.html",
+"bgi":"1gZrOa2E9DOohEvSLLBJqus2zGu",
+"year":"2024",
+"duration":"1h per episode",
+"rating":"7.0",
+"genre":"Action,Adventure,Crime,Drama,Mystery,",
+"description":"India's favourite crime thriller show is back! Abhijeet, Daya and other CID officers, led by ACP Pradyuman, join forces with forensic expert Dr Salunkhe to track down the perpetrators who have committed heinous crimes, using every small clue they can find.",
+"type":"series",
+"cast":"Aditya Srivastava,Shivaji Satham,Dayanand Shetty,Narendra Gupta,Ansha Sayed"
+},
+{
+"title":"Su from So [2025] WEB-DL [Hindi – HQ/Studio Dub] | Full Movie",
+"im":"a9v6QSFClDqGX2D0YCORp8T1Ji0",
+"bgi":"fBnwpACxGkChCTVvWSfwjeKbSPv",
+"dl":"https://pixeldrain.dev/api/file/VZc4NHUv?download",
+"dl2":"https://hubcloud.one/drive/bhfr3drsks3ancc",
+"year":"2025",
+"duration":"2h 15m",
+"rating":"7.4",
+"genre":"Comedy,Horror",
+"description":"In a peaceful village full of joy, laughter, and vibrant life, everything seems perfect—until one day, the devil arrives. What follows is a hilariou...",
+"type":"movie",
+"cast":"Shaneel Gautham,JP Tuminad,Sandhya Arakere,Prakash K Thuminadu,Deepak Rai Panaje"
+},
+{
+"title":"Ayalaan [2024] WEB-DL [Hindi-Tamil] | Full Movie",
+"im":"8nryykQqfU7yqTz4FD7uEBjseZp",
+"bgi":"94oAQeVJidml6sbTGN5u0MEOjG",
+"dl":"https://pixeldrain.dev/api/file/Ut9s45R9?download",
+"dl2":"https://hubcloud.one/drive/1c2z2atvzv0vqiu",
+"year":"2024",
+"duration":"2h 36m",
+"rating":"5.8",
+"genre":"Science Fiction,Action,Adventure",
+"description":"A lost alien seeks help from four friends to get back to his home planet, while a group of hostile scientists tries to capture it.",
+"type":"movie",
+"cast":"Sivakarthikeyan,Siddharth,Venkatesh Senguttuvan,Sharad Kelkar,Rakul Preet Singh"
+},
+{
 "title":"Holy Night: Demon Hunters [2025] WEB-DL [Hindi-Korean] | Full Movie",
 "im":"v3Mo77Qjp6pctpD4eJaNT6kFRSB",
 "bgi":"nSUKgl7C0xU3vjQNDFWlRtvch0V",
@@ -517,19 +558,6 @@ const movies = [
 "description":"In a campus filled with music, masti, and first love, Mannu's biggest exam is not just finding Jiya's heart but also his own purpose.",
 "type":"movie",
 "cast":"Vyom Yadav,Saachi Bindra,Vinay Pathak,Kumud Mishra,Charu Shankar"
-},
-{
-"title":"C.I.D. [Season 2] [Episode 77] WEB-DL [Hindi] | All Episodes",
-"im":"60ZxbAMk6QO8jMD0p8WrGHVCbyK",
-"dl":"https://s.pptons.com/2025/06/cid.html",
-"bgi":"1gZrOa2E9DOohEvSLLBJqus2zGu",
-"year":"2024",
-"duration":"1h per episode",
-"rating":"7.0",
-"genre":"Action,Adventure,Crime,Drama,Mystery,",
-"description":"India's favourite crime thriller show is back! Abhijeet, Daya and other CID officers, led by ACP Pradyuman, join forces with forensic expert Dr Salunkhe to track down the perpetrators who have committed heinous crimes, using every small clue they can find.",
-"type":"series",
-"cast":"Aditya Srivastava,Shivaji Satham,Dayanand Shetty,Narendra Gupta,Ansha Sayed"
 },
 {
 "title":"Confidence Queen [Season 1] [Episode 3] WEB-DL [Hindi-English] | All Episodes",

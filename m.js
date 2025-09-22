@@ -16,6 +16,34 @@ const movies = [
 "cast":"Arshad Warsi,Akshay Kumar,Saurabh Shukla,Gajraj Rao,Seema Biswas"
 },
 {
+"title":"Holy Night: Demon Hunters [2025] WEB-DL [Hindi-Korean] | Full Movie",
+"im":"v3Mo77Qjp6pctpD4eJaNT6kFRSB",
+"bgi":"nSUKgl7C0xU3vjQNDFWlRtvch0V",
+"dl":"https://pixeldrain.dev/api/file/pouQrzDf?download",
+"dl2":"https://hubcloud.one/drive/kunjinqgnzm1fq9",
+"year":"2025",
+"duration":"1h 32m",
+"rating":"6.6",
+"genre":"Action,Fantasy,Horror,Thriller",
+"description":"When a devil-worshipping criminal network plunges Seoul into chaos, the police turn to Holy Night—a trio of supernatural demon hunters—to restore ...",
+"type":"movie",
+"cast":"Don Lee,Seohyun,David Lee,Gyeong Su-jin,Jung Ji-so"
+},
+{
+"title":"The Great Indian Kapil Show [Season 3] [Episode 14] WEB-DL [Hindi] | All Episodes",
+"im":"6LWtSm2VHfenFBMvmjG9GYgfvSd",
+"bgi":"lPVM7LR0ydKVj2qzdsVgi1akjom",
+"dl":"https://s.pptons.com/2025/06/the-great-indian-kapil-show.html",
+"dl2":"https://s.pptons.com/2025/06/the-great-indian-kapil-show.html",
+"year":"2024",
+"duration":"1h per episode",
+"rating":"6.9",
+"genre":"Talk,Comedy",
+"description":"Comedian Kapil Sharma hosts this laugh-out-loud variety talk show with celebrity guests, hilarious antics and his signature supporting cast.",
+"type":"series",
+"cast":"Kapil Sharma,Sunil Grover,Krishna Abhishek,Archana Puran Singh,Kiku Sharda"
+},
+{
 "title":"King & Conqueror [Season 1] WEB-DL [Hindi-English] | All Episodes",
 "im":"eg2H1MEirJELzvfgnNt3EziQ6wI",
 "bgi":"wBEAtmYwsmXbIw9czMSJ9iyxV3w",
@@ -502,20 +530,6 @@ const movies = [
 "description":"India's favourite crime thriller show is back! Abhijeet, Daya and other CID officers, led by ACP Pradyuman, join forces with forensic expert Dr Salunkhe to track down the perpetrators who have committed heinous crimes, using every small clue they can find.",
 "type":"series",
 "cast":"Aditya Srivastava,Shivaji Satham,Dayanand Shetty,Narendra Gupta,Ansha Sayed"
-},
-{
-"title":"The Great Indian Kapil Show [Season 3] [Episode 13] WEB-DL [Hindi] | All Episodes",
-"im":"6LWtSm2VHfenFBMvmjG9GYgfvSd",
-"bgi":"lPVM7LR0ydKVj2qzdsVgi1akjom",
-"dl":"https://s.pptons.com/2025/06/the-great-indian-kapil-show.html",
-"dl2":"https://s.pptons.com/2025/06/the-great-indian-kapil-show.html",
-"year":"2024",
-"duration":"1h per episode",
-"rating":"6.9",
-"genre":"Talk,Comedy",
-"description":"Comedian Kapil Sharma hosts this laugh-out-loud variety talk show with celebrity guests, hilarious antics and his signature supporting cast.",
-"type":"series",
-"cast":"Kapil Sharma,Sunil Grover,Krishna Abhishek,Archana Puran Singh,Kiku Sharda"
 },
 {
 "title":"Confidence Queen [Season 1] [Episode 3] WEB-DL [Hindi-English] | All Episodes",

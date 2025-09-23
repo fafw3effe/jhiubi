@@ -15,6 +15,36 @@ const movies = [
 "type":"movie",
 "cast":"Arshad Warsi,Akshay Kumar,Saurabh Shukla,Gajraj Rao,Seema Biswas"
 },
+
+
+{
+"title":"Legally Veer [2025] WEB-DL [Hindi-Telugu] | Full Movie",
+"im":"8WKeDF6A3s6DGOs8iocVe3BBZxM",
+"bgi":"gYccdrj500hUA380HaVEhsYxfRt",
+"dl":"https://pixeldrain.dev/api/file/9HH8FLmc?download",
+"dl2":"https://hubcloud.one/drive/w11dsp5woul5xoy",
+"year":"2025",
+"duration":"2h 22m",
+"rating":"1.0",
+"genre":"Drama,Thriller",
+"description":"A gripping murder case in Hata City tests the limits of justice. Veer, an aspiring lawyer, takes on a high-stakes defense against a criminal charge, b...",
+"type":"movie",
+"cast":"Malikireddy Veer Reddy,Priyanka Rewri"
+},
+{
+"title":"Sundarakanda [2025] WEB-DL [Hindi-Telugu] | Full Movie",
+"im":"40dBLbqZunJXjEkXVqIvw8OoYDM",
+"bgi":"dpbzuMANVn5LLZykzmn2EpMOuQa",
+"dl":"https://pixeldrain.dev/api/file/woB1Cvhq?download",
+"dl2":"https://hubcloud.one/drive/pfldmdphq598o88",
+"year":"2025",
+"duration":"2h 18m",
+"rating":"6.1",
+"genre":"Romance,Comedy",
+"description":"A man born under the Mula Nakshatra faces misfortune and failed relationships, exploring his journey to win over his ideal match.",
+"type":"movie",
+"cast":"Nara Rohith,Sridevi Vijayakumar,Virti Vaghani,Naresh,Vasuki Anand"
+},
 {
 "title":"C.I.D. [Season 2] [Episode 80] WEB-DL [Hindi] | All Episodes",
 "im":"60ZxbAMk6QO8jMD0p8WrGHVCbyK",

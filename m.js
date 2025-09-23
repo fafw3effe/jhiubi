@@ -15,8 +15,20 @@ const movies = [
 "type":"movie",
 "cast":"Arshad Warsi,Akshay Kumar,Saurabh Shukla,Gajraj Rao,Seema Biswas"
 },
-
-
+{
+"title":"WWE Wrestlepalooza [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"nigCd4SaacDaLZSKsXWWnDMqJtM",
+"bgi":"t7G0iviL7fNG4MLRUhYjKsjx68h",
+"dl":"https://pixeldrain.dev/api/file/9ifLUHsd?download",
+"dl2":"https://hubcloud.one/drive/smpjvkqssmsc1sq",
+"year":"2025",
+"duration":"3h 19m",
+"rating":"6.6",
+"genre":"Action,Drama,Comedy",
+"description":"Wrestlepalooza 2025, also promoted as Wrestlepalooza: Indianapolis, was a professional wrestling Premium Live Event promoted by WWE and the first to b...",
+"type":"movie",
+"cast":"Cody Rhodes,Andrew Galloway,April Jeanette Mendez,Phil Brooks,Rebecca Quin"
+},
 {
 "title":"Legally Veer [2025] WEB-DL [Hindi-Telugu] | Full Movie",
 "im":"8WKeDF6A3s6DGOs8iocVe3BBZxM",
@@ -25,7 +37,7 @@ const movies = [
 "dl2":"https://hubcloud.one/drive/w11dsp5woul5xoy",
 "year":"2025",
 "duration":"2h 22m",
-"rating":"1.0",
+"rating":"6.1",
 "genre":"Drama,Thriller",
 "description":"A gripping murder case in Hata City tests the limits of justice. Veer, an aspiring lawyer, takes on a high-stakes defense against a criminal charge, b...",
 "type":"movie",

@@ -1,7 +1,48 @@
 // Movies data
 const movies = [
 
-
+{
+"title":"Eden [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"jbFEESMVbpJU8IjZBjiWGJdEsxR",
+"bgi":"rz8NcfTRczvn94vpnmMx42zt6EC",
+"dl":"https://pixeldrain.dev/api/file/mC2b8D8Y?download",
+"dl2":"https://hubcloud.fit/drive/1j20duj1mj3imhf",
+"year":"2025",
+"duration":"2h 9m",
+"rating":"6.8",
+"genre":"Thriller,Drama",
+"description":"A group of disillusioned outsiders abandon modern society in search of a new beginning. Settling on a remote, uninhabited island, their utopian dream ...",
+"type":"movie",
+"cast":"Sydney Sweeney,Jude Law,Daniel Brühl,Vanessa Kirby,Ana de Armas"
+},
+{
+"title":"Kishkindhapuri [2025] WEB-DL [Hindi-Telugu] | Full Movie",
+"im":"uRQ31dXsGHbiubJdObhGVzDiH3n",
+"bgi":"9XPAYDvrtGHwingEI0FjRTH1Rdn",
+"dl":"https://pixeldrain.dev/api/file/HxCfT9Rz?download",
+"dl2":"https://hubcloud.fit/drive/h7ehselvfec7sze",
+"year":"2025",
+"duration":"2h 5m",
+"rating":"5.8",
+"genre":"Horror,Thriller,Comedy,Drama",
+"description":"A ghost walking tour group visits an abandoned radio station, inadvertently awakening a vengeful spirit.",
+"type":"movie",
+"cast":"Bellamkonda Srinivas,Anupama Parameswaran,Hyper Adhi,Makrand Deshpande,Tanikella Bharani"
+},
+{
+"title":"They Call Him OG [2025] WEB-DL [Hindi-Telugu] | Full Movie",
+"im":"yHyvS4OMq8oij11Co9CbeMqLUo2",
+"bgi":"lBJR69jrQ8I84irRexFfO70v0EA",
+"dl":"https://pixeldrain.dev/api/file/9yTpPTBR?download",
+"dl2":"https://hubcloud.fit/drive/jrvzzjhd9k9rs9j",
+"year":"2025",
+"duration":"2h 35m",
+"rating":"5.7",
+"genre":"Action,Thriller",
+"description":"After vanishing from Mumbai's underworld for a decade, mob boss Ojas Gambheera resurfaces—feared, unstoppable, and with a single goal: to recla...",
+"type":"movie",
+"cast":"Pawan Kalyan,Emraan Hashmi,Priyanka Arul Mohan,Prakash Raj,Sriya Reddy"
+},
 {
 "title":"IT: Welcome to Derry [Season 1] [Episode 1] WEB-DL [Hindi-English] | All Episodes",
 "im":"nyy3BITeIjviv6PFIXtqvc8i6xi",

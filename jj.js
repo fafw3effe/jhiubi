@@ -371,7 +371,7 @@ function openModal(movie) {
     const modalImage = movie.bgi || movie.im;
     
     modalPoster.style.display = 'block';
-    modalPoster.src = 'https://image.tmdb.org/t/p/w500_and_h282_face/' + modalImage + '.jpg';
+    modalPoster.src = 'https://image.tmdb.org/t/p/original/' + modalImage + '.jpg';
     modalPoster.alt = movie.title;
     
     videoPlayer.innerHTML = '';

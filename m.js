@@ -1,6 +1,22 @@
 // Movies data
 const movies = [
 
+
+
+{
+"title":"Daksha: The Deadly Conspiracy [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"z3hsuvJJdokjTlm28wcELuFDjdC",
+"bgi":"zYptDguTRA0bUkhbPcZN1dCrHX0",
+"dl":"https://pixeldrain.dev/api/file/SPXPzyHq?download",
+"dl2":"https://hubcloud.fit/drive/vvg8zcmzpgtmmav",
+"year":"2025",
+"duration":"1h 42m",
+"rating":"4.0",
+"genre":"Crime,Thriller,Drama",
+"description":"A determined woman uncovers a deadly conspiracy while investigating corruption at the highest levels. As supernatural forces emerge and time runs out,...",
+"type":"movie",
+"cast":"Lakshmi Manchu,Mohan Babu,Siddique,Chitra Shukla,Samuthirakani"
+},
 {
 "title":"Jolly LLB 3 [2025] HQ-V2 HDTC [Hindi] | Full Movie",
 "im":"faNSc8Lt5lB1mykcp6Zgmt9j0U9",

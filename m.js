@@ -2,7 +2,20 @@
 const movies = [
 
 
-
+{
+"title":"IT: Welcome to Derry [Season 1] [Episode 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"nyy3BITeIjviv6PFIXtqvc8i6xi",
+"bgi":"2746UvsbkZINd873Yd3o3TxOwCP",
+"dl":"https://pixeldrain.dev/api/file/FB48JdTW?download",
+"dl2":"https://hubcloud.fit/drive/7gdxajjhigaphjw",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"8.0",
+"genre":"Mystery,Drama",
+"description":"In 1962, a couple with their son move to Derry, Maine just as a young boy disappears. With their arrival, very bad things begin to happen in the town.",
+"type":"series",
+"cast":"Taylour Paige,Jovan Adepo,James Remar,Stephen Rider,Matilda Lawler"
+},
 {
 "title":"Daksha: The Deadly Conspiracy [2025] WEB-DL [Hindi-English] | Full Movie",
 "im":"z3hsuvJJdokjTlm28wcELuFDjdC",

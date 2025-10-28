@@ -2,6 +2,34 @@
 const movies = [
 
 {
+"title":"Bhagwat - Chapter One: Raakshas [2025] WEB-DL [Hindi] | Full Movie",
+"im":"hXVDG74ykzadnIHtPpV8eZWwtZB",
+"bgi":"6b4ctDkrE0bPXNwZRQ9FiQsvgbL",
+"dl":"https://pixeldrain.dev/api/file/n1B4rBXw?download",
+"dl2":"https://hubcloud.fit/drive/k1bmo2qbo7gddhy",
+"year":"2025",
+"duration":"2h 8m",
+"rating":"6.8",
+"genre":"Thriller",
+"description":"A seemingly simple case of a missing girl, Poonam, puts Inspector Vishwas Bhagwat on a chase to find the culprit behind a sinister trail of disappeari...",
+"type":"movie",
+"cast":"Arshad Warsi,Jitendra Kumar,Ayesha Kaduskar,Tara Alisha Berry,Coral Bhamra"
+},
+{
+"title":"Kadaram Kondan [2019] WEB-DL [Hindi-Tamil] | Full Movie",
+"im":"n6HGrhMvhq6tYJV4nb2ktNZWXCn",
+"bgi":"hc4BCGpYjEtq1VP5gqV59tAIL7X",
+"dl":"https://pixeldrain.dev/api/file/JMwp6XCK?download",
+"dl2":"https://hubcloud.fit/drive/herph0wvvheppyl",
+"year":"2019",
+"duration":"2h 2m",
+"rating":"5.4",
+"genre":"Action,Thriller",
+"description":"Kadaram Kondan (Conqueror of Kadaram):  The pregnant wife of a young doctor is kidnapped and the kidnappers want him to help free a patient who is adm...",
+"type":"movie",
+"cast":"Vikram,Abi Hassan,Akshara Haasan,Lenaa,Cherry Mardia"
+},
+{
 "title":"Eden [2025] WEB-DL [Hindi-English] | Full Movie",
 "im":"jbFEESMVbpJU8IjZBjiWGJdEsxR",
 "bgi":"rz8NcfTRczvn94vpnmMx42zt6EC",

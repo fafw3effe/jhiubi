@@ -2,6 +2,48 @@
 const movies = [
 
 {
+"title":"MaXXXine [2024] WEB-DL [Hindi-English] | Full Movie",
+"im":"ArvoFK6nlouZRxYmtIOUzKIrg90",
+"bgi":"viKEEaaCaZ0hZ2nGuvIEozlLooL",
+"dl":"https://pixeldrain.dev/api/file/saAnzDKj?download",
+"dl2":"https://hubcloud.fit/drive/iptky1py8cf2ytx",
+"year":"2024",
+"duration":"1h 43m",
+"rating":"6.3",
+"genre":"Horror,Thriller",
+"description":"In 1980s Hollywood, adult film star and aspiring actress Maxine Minx finally gets her big break. But as a mysterious killer stalks the starlets of Hol...",
+"type":"movie",
+"cast":"Mia Goth,Elizabeth Debicki,Moses Sumney,Michelle Monaghan,Bobby Cannavale"
+},
+{
+"title":"Ballad of a Small Player [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"mPJizZR3oPQwBfry37RJKS3GGNM",
+"bgi":"cc48kfehVAkgG73BsPcFLMoxa8h",
+"dl":"https://pixeldrain.dev/api/file/Y1LYJSt6?download",
+"dl2":"https://hubcloud.fit/drive/m8uxuu8xqs1jjt0",
+"year":"2025",
+"duration":"1h 41m",
+"rating":"7.0",
+"genre":"Mystery,Thriller,Crime,Drama",
+"description":"Amid the glittering casinos of Macau, a gambler running from his past — and his debts — becomes fascinated by an enigmatic woman at the baccarat t...",
+"type":"movie",
+"cast":"Colin Farrell,Fala Chen,Tilda Swinton,Deanie Ip,Alex Jennings"
+},
+{
+"title":"Hedda [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"ecflk7AZf0ij205yDswjlvdxlCO",
+"bgi":"cXuNXPC08Use2NGqs1l23YI57e3",
+"dl":"https://pixeldrain.dev/api/file/UwRBbSoh?download",
+"dl2":"https://hubcloud.fit/drive/6whwnwdunwwh1dc",
+"year":"2025",
+"duration":"1h 47m",
+"rating":"5.5",
+"genre":"Drama,Thriller",
+"description":"Hedda Gabler finds herself torn between the lingering ache of a past love and the quiet suffocation of her present life. Over the course of one charge...",
+"type":"movie",
+"cast":"Tessa Thompson,Nina Hoss,Imogen Poots,Nicholas Pinnock,Tom Bateman"
+},
+{
 "title":"Idli Kadai [2025] WEB-DL [Hindi-Tamil] | Full Movie",
 "im":"uWZ367Q81ZGyarYmLFYJAMw7tto",
 "bgi":"mXRzeWQXDdfPuT9KckNjSdiWo6Z",

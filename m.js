@@ -2,6 +2,20 @@
 const movies = [
 
 {
+"title":"Idli Kadai [2025] WEB-DL [Hindi-Tamil] | Full Movie",
+"im":"uWZ367Q81ZGyarYmLFYJAMw7tto",
+"bgi":"mXRzeWQXDdfPuT9KckNjSdiWo6Z",
+"dl":"https://pixeldrain.dev/api/file/qMqWnoTL?download",
+"dl2":"https://hubcloud.fit/drive/e3rkua13lkzpbgr",
+"year":"2025",
+"duration":"2h 27m",
+"rating":"6.0",
+"genre":"Action,Drama",
+"description":"A simple man's search for success leads him to rediscover his roots.",
+"type":"movie",
+"cast":"Dhanush,Rajkiran,Arun Vijay,Nithya Menen,Sathyaraj"
+},
+{
 "title":"Bhagwat - Chapter One: Raakshas [2025] WEB-DL [Hindi] | Full Movie",
 "im":"hXVDG74ykzadnIHtPpV8eZWwtZB",
 "bgi":"6b4ctDkrE0bPXNwZRQ9FiQsvgbL",

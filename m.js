@@ -1,7 +1,76 @@
 // Movies data
 const movies = [
 
-
+{
+"title":"Kantara: Chapter 1 [2025] WEB-DL [Hindi LiNE-Kannada] | Full Movie",
+"im":"ehQPboTPaIMkMUOoNOh8e7pZ5Rp",
+"bgi":"puxTHWUau0X5mkuY85pQkmkHBga",
+"dl":"https://pixeldrain.dev/api/file/oQ6pEvTb?download",
+"dl2":"https://hubcloud.fit/drive/4oyoixvxtusdwpu",
+"year":"2025",
+"duration":"2h 47m",
+"rating":"7.6",
+"genre":"Action,Thriller",
+"description":"During the reign of Kadamba’s, the first dynasty of Karnataka, Bangra, a fictional feudatory ruled by King Vijayendra. Known to have pledged his loy...",
+"type":"movie",
+"cast":"Rishab Shetty,Rukmini Vasanth,Jayaram,Rakesh Poojari,Gulshan Devaiah"
+},
+{
+"title":"Lokah Chapter 1: Chandra [2025] WEB-DL [Hindi-Malayalam] | Full Movie",
+"im":"erEVbUNiNwbH8Pns2texFV1u5Xi",
+"bgi":"bvJSpW4D7P6LdM8JFBEpeDCvG6s",
+"dl":"https://pixeldrain.dev/api/file/Gk6bjHob?download",
+"dl2":"https://hubcloud.fit/drive/w2psm6myyxn3nxs",
+"year":"2025",
+"duration":"2h 31m",
+"rating":"7.8",
+"genre":"Action,Adventure,Fantasy",
+"description":"The story follows Chandra , a mysterious, goth-influenced woman who has just moved to Bangalore and begins working night shifts at a café. Across the...",
+"type":"movie",
+"cast":"Kalyani Priyadarshan,Naslen,Sandy,Chandu Salimkumar,Arun Kurian"
+},
+{
+"title":"Darling [2024] WEB-DL [Hindi] | Full Movie",
+"im":"qY4Xwbq0NnwErp2sPZOaQwpSGMv",
+"bgi":"jiXkL2KMsucN2ZNOyBzvlLVMBeH",
+"dl":"https://pixeldrain.dev/api/file/XPxsg7Yk?download",
+"dl2":"https://hubcloud.fit/drive/rjm3vf8hpfvfjpn",
+"year":"2024",
+"duration":"2h 22m",
+"rating":"5.0",
+"genre":"Romance,Comedy",
+"description":"Raghav works diligently at a tourist office, saving money for his sole ambition, dream honeymoon in Paris with his future wife. Accidentally meeting a...",
+"type":"movie",
+"cast":"Priyadarshi Pullikonda,Nabha Natesh,Moin,Ananya Nagalla,Brahmanandam"
+},
+{
+"title":"Nishaanchi [2025] WEB-DL [Hindi] | Full Movie",
+"im":"aDI8pTr7QDs1QnDKCKsAoEampZj",
+"bgi":"asjK0Ot5ocLt7ZErj9wwA17BPsr",
+"dl":"https://pixeldrain.dev/api/file/gdMLGVBt?download",
+"dl2":"https://hubcloud.fit/drive/tshyrpdhzddpowd",
+"year":"2025",
+"duration":"2h 56m",
+"rating":"8.3",
+"genre":"Crime,Drama",
+"description":"Twin brothers, identical looks but different values, face brotherhood, betrayal, love, and redemption. Their paths weave through crime into a deeper s...",
+"type":"movie",
+"cast":"Aaishvary Thackeray,Vedika Pinto,Monika Panwar,Kumud Mishra,Mohammed Zeeshan Ayyub"
+},
+{
+"title":"Ufff Yeh Siyapaa [2025] WEB-DL [Hindi] | Full Movie",
+"im":"6ntsWm5J9S45ItTBjQvNRy3wWfY",
+"bgi":"njJQBmalOYu6Re5FObEGtbhVmWm",
+"dl":"https://pixeldrain.dev/api/file/7TfkBmLA?download",
+"dl2":"https://hubcloud.fit/drive/arfru1uweolamdu",
+"year":"2025",
+"duration":"1h 56m",
+"rating":"10.0",
+"genre":"Comedy,Action",
+"description":"Kesari Lal Singh’s wife leaves him, believing he was flirting with the neighbor—he wasn’t. To make matters worse, a drug parcel is mistakenly de...",
+"type":"movie",
+"cast":"Sohum Shah,Nushrratt Bharuccha,Nora Fatehi,Guru Shivam,Omkar Kapoor"
+},
 {
 "title":"The Witcher [Season 4] WEB-DL [Hindi-English] | All Episodes",
 "im":"AoGsDM02UVt0npBA8OvpDcZbaMi",

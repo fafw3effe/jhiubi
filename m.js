@@ -30,6 +30,20 @@ const movies = [
 "cast":"Mamoru Miyano,Shido Nakamura,Aya Hirano,Kappei Yamaguchi,Kimiko Saito"
 },
 {
+"title":"Jombieland [2025] WEB-DL [Hindi-Punjabi] | Full Movie",
+"im":"h78roUiZylCIzTrmeBN6Pnhv8cI",
+"bgi":"WhxhmsghBCDO4wdiCdW1Iqxqun",
+"dl":"https://pixeldrain.dev/api/file/odh77MH7?download",
+"dl2":"https://hubcloud.fyi/drive/afwmkmhkbjwhm1n",
+"year":"2025",
+"duration":"2h 8m",
+"rating":"7.0",
+"genre":"Action,Comedy,Horror",
+"description":"Jeeti and Koko's romance faces family opposition, but their battle for acceptance becomes a struggle to stay alive.",
+"type":"movie",
+"cast":"Binnu Dhillon,Kanika Mann,Angira Dhar,Guri,G Khan"
+},
+{
 "title":"Kantara: Chapter 1 [2025] WEB-DL [Hindi LiNE-Kannada] | Full Movie",
 "im":"ehQPboTPaIMkMUOoNOh8e7pZ5Rp",
 "bgi":"puxTHWUau0X5mkuY85pQkmkHBga",

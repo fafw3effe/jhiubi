@@ -44,6 +44,20 @@ const movies = [
 "cast":"Vinod Sharma,Sahil Vaid,Saumya Daan,Anamaya Verma"
 },
 {
+"title":"Baramulla [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"PtarG5FOl4swkTSh1AGaUKCFwg",
+"bgi":"lZAmefq0U012syyXxtdGRwfHFk6",
+"dl":"https://pixeldrain.dev/api/file/V65f3r81?download",
+"dl2":"https://hubcloud.fyi/drive/1yqlv40cc0rllho",
+"year":"2025",
+"duration":"2h",
+"rating":"0.0",
+"genre":"Horror",
+"description":"A police officer investigating missing children cases discovers disturbing truths while supernatural occurrences threaten his family and Baramulla...",
+"type":"movie",
+"cast":"Manav Kaul,Neelofar Hamid,Masoom Mumtaz Khan,Arista Mehta,Baby Kiara Khanna"
+},
+{
 "title":"Haq [2025] WEB-DL [Hindi-English] | Full Movie",
 "im":"q0RBhxG9BQu4YR4wg28rCutCOZ2",
 "bgi":"wFqJMVP0nrsgKeA2kwshRkIz1fw",

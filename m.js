@@ -30,6 +30,20 @@ const movies = [
 "cast":"Mamoru Miyano,Shido Nakamura,Aya Hirano,Kappei Yamaguchi,Kimiko Saito"
 },
 {
+"title":"Kurukshetra [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"amNFukSD0hpj5omLkikfaNw42sp",
+"bgi":"u39VepT8l7cgDy9nsXG76t4av9n",
+"dl":"https://s.pptons.com/2025/11/kurukshetra.html",
+"dl2":"https://s.pptons.com/2025/11/kurukshetra.html",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"8.9",
+"genre":"Action & Adventure,Drama,Animation",
+"description":"An epic 18-day battle unfolds through the perspectives of 18 warriors, revealing their inner struggles and ethical challenges during a war between bro...",
+"type":"series",
+"cast":"Vinod Sharma,Sahil Vaid,Saumya Daan,Anamaya Verma"
+},
+{
 "title":"Haq [2025] WEB-DL [Hindi-English] | Full Movie",
 "im":"q0RBhxG9BQu4YR4wg28rCutCOZ2",
 "bgi":"wFqJMVP0nrsgKeA2kwshRkIz1fw",

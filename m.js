@@ -30,7 +30,7 @@ const movies = [
 "cast":"Megumi Ogata,Kana Hanazawa,Yuichi Nakamura,Takahiro Sakurai,Mikako Komatsu"
 },
 {
-"title":"SANDA [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"title":"SANDA [Season 1] [Episode 6] WEB-DL [Hindi-English] | All Episodes",
 "im":"uPMJU0u3kOk9ITrsJnHpBFvEK0H",
 "bgi":"7gphZmKk3BVAeIK4AdN8GLmtoZ2",
 "dl":"https://s.pptons.com/2025/11/sanda.html",
@@ -44,7 +44,7 @@ const movies = [
 "cast":"Ayumu Murase,Hiroki Touchi,Umeka Shouji,Anna Nagase,Yuuki Shin"
 },
 {
-"title":"May I Ask for One Final Thing? [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"title":"May I Ask for One Final Thing? [Season 1] [Episode 7] WEB-DL [Hindi-English] | All Episodes",
 "im":"6WUSl1NP5I66IGiI6n9BwOzZTbY",
 "bgi":"cSAVRsNxzpuf51wpwbju1udVgsz",
 "dl":"https://s.pptons.com/2025/11/may-i-ask-for-one-final-thing.html",
@@ -58,7 +58,7 @@ const movies = [
 "cast":"Asami Seto,Wataru Katoh,Shoya Ishige,Miyu Tomita,Kazuki Ura"
 },
 {
-"title":"Tatsuki Fujimoto 17-26 [Season 1] WEB-DL [Hindi-English] | Full Movie",
+"title":"Tatsuki Fujimoto 17-26 [Season 1] [Episode 8] WEB-DL [Hindi-English] | Full Movie",
 "im":"mEpLrC8erlYic6lm6CtO8yblSpN",
 "bgi":"4EprvUyjwcefZnqcObOB73Rg7Id",
 "dl":"https://s.pptons.com/2025/11/tatsuki-fujimoto.html",
@@ -72,7 +72,7 @@ const movies = [
 "cast":"Kensho Ono,Shion Sakurai,Kazuki Ura,Kimiko Saito,Mitsuo Iwata"
 },
 {
-"title":"Hunter x Hunter [Season 5] WEB-DL [Hindi-English] | All Episodes",
+"title":"Hunter x Hunter [Season 5] [Episode 43] WEB-DL [Hindi-English] | All Episodes",
 "im":"i2EEr2uBvRlAwJ8d8zTG2Y19mIa",
 "bgi":"6U0e6OHklJAcMAuIoGXjTBS5zsI",
 "dl":"https://s.pptons.com/2025/11/hunter-x-hunter.html",

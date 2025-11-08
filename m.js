@@ -30,7 +30,7 @@ const movies = [
 "cast":"Mamoru Miyano,Shido Nakamura,Aya Hirano,Kappei Yamaguchi,Kimiko Saito"
 },
 {
-"title":"Kurukshetra [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"title":"Kurukshetra [Season 1] WEB-DL [Hindi] | All Episodes",
 "im":"amNFukSD0hpj5omLkikfaNw42sp",
 "bgi":"u39VepT8l7cgDy9nsXG76t4av9n",
 "dl":"https://s.pptons.com/2025/11/kurukshetra.html",

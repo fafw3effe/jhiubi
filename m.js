@@ -30,6 +30,20 @@ const movies = [
 "cast":"Mamoru Miyano,Shido Nakamura,Aya Hirano,Kappei Yamaguchi,Kimiko Saito"
 },
 {
+"title":"Haq [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"q0RBhxG9BQu4YR4wg28rCutCOZ2",
+"bgi":"wFqJMVP0nrsgKeA2kwshRkIz1fw",
+"dl":"https://pixeldrain.dev/api/file/1gMeEXGF?download",
+"dl2":"https://hubcloud.fyi/drive/gt7w58rgroeacbo",
+"year":"2025",
+"duration":"2h 16m",
+"rating":"0.0",
+"genre":"Drama",
+"description":"In 1980s India, Shazia Bano takes her husband to court after he abandons her and their children, sparking a national battle over faith, women’s righ...",
+"type":"movie",
+"cast":"Yami Gautam,Emraan Hashmi,Danish Husain,Sheeba Chaddha,Vartika Singh"
+},
+{
 "title":"Jombieland [2025] WEB-DL [Hindi-Punjabi] | Full Movie",
 "im":"h78roUiZylCIzTrmeBN6Pnhv8cI",
 "bgi":"WhxhmsghBCDO4wdiCdW1Iqxqun",

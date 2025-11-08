@@ -16,6 +16,20 @@ const movies = [
 "cast":"Oscar Isaac,Jacob Elordi,Mia Goth,Christoph Waltz,Felix Kammerer"
 },
 {
+"title":"Jujutsu Kaisen 0 [2021] WEB-DL [Hindi-English] | Full Movie",
+"im":"23oJaeBh0FDk2mQ2P240PU9Xxfh",
+"bgi":"rcEDPOOOUTLFxLLQJggfLffbofe",
+"dl":"https://pixeldrain.dev/api/file/ne7EXVEc?download",
+"dl2":"https://hubcloud.fyi/drive/nx6qgkx1ggn1jok",
+"year":"2021",
+"duration":"1h 45m",
+"rating":"8.1",
+"genre":"Animation,Action,Fantasy",
+"description":"Yuta Okkotsu is a nervous high school student who is suffering from a serious problem—his childhood friend Rika has turned into a curse and won'...",
+"type":"movie",
+"cast":"Megumi Ogata,Kana Hanazawa,Yuichi Nakamura,Takahiro Sakurai,Mikako Komatsu"
+},
+{
 "title":"Death Note [Season 1] [Episode 24] WEB-DL [Hindi-English] | All Episodes",
 "im":"tCZFfYTIwrR7n94J6G14Y4hAFU6",
 "bgi":"koBa94NxTaGe2FoDzlXMuJptsv0",

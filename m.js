@@ -1,7 +1,20 @@
 // Movies data
 const movies = [
 
-
+{
+"title":"Frankenstein [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"v9NLaLBbrkDwq44qG51v8T6sPuI",
+"bgi":"hpXBJxLD2SEf8l2CspmSeiHrBKX",
+"dl":"https://pixeldrain.dev/api/file/CXAbDkax?download",
+"dl2":"https://hubcloud.fyi/drive/7hapiahk9nall1j",
+"year":"2025",
+"duration":"2h 32m",
+"rating":"7.7",
+"genre":"Drama,Horror,Fantasy",
+"description":"Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoi...",
+"type":"movie",
+"cast":"Oscar Isaac,Jacob Elordi,Mia Goth,Christoph Waltz,Felix Kammerer"
+},
 {
 "title":"Death Note [Season 1] [Episode 24] WEB-DL [Hindi-English] | All Episodes",
 "im":"tCZFfYTIwrR7n94J6G14Y4hAFU6",

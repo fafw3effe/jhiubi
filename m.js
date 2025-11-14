@@ -2,6 +2,20 @@
 const movies = [
 
 {
+"title":"The Girlfriend [2025] HQ-HDTC [Hindi (LiNE) & Telugu] | Full Movie",
+"im":"vcGeERDrMBVihLaxbFbj5pK3kgL",
+"bgi":"1U6BizPeYgC6lYTijQnNozS1vMg",
+"dl":"https://pixeldrain.dev/u/Na7EruyZ",
+"dl2":"https://hubcloud.fyi/drive/uiyyuqjs70o1pyj",
+"year":"2025",
+"duration":"2h 30m",
+"rating":"7.0",
+"genre":"Romance,Drama",
+"description":"A young woman explores love, compatibility and self-discovery during college, experiencing relationship complexities and personal growth.",
+"type":"movie",
+"cast":"Rashmika Mandanna,Dheekshith Shetty,Rao Ramesh,Rohini,Rahul Ravindran"
+},
+{
 "title":"Frankenstein [2025] WEB-DL [Hindi-English] | Full Movie",
 "im":"v9NLaLBbrkDwq44qG51v8T6sPuI",
 "bgi":"hpXBJxLD2SEf8l2CspmSeiHrBKX",

@@ -17,6 +17,20 @@ const movies = [
 "cast":"Manoj Bajpayee,Priyamani,Sharib Hashmi,Vedant Sinha,Ashlesha Thakur"
 },
 {
+"title":"Diesel [2025] WEB-DL [Hindi-Tamil] | Full Movie",
+"im":"A3jv9cICPkVHx48h2NZXW4c1ZnP",
+"bgi":"wnNw9FnJJCtbXogcPK5Jg0AQjo2",
+"dl":"https://pixeldrain.dev/u/MUU5r6yV",
+"dl2":"https://hubcloud.foo/drive/vx12bjja0mch9jm",
+"year":"2025",
+"duration":"2h 25m",
+"rating":"4.0",
+"genre":"Action,Romance,Drama",
+"description":"During the 1980s, Manoharan was a leader in the city's crude oil smuggling business. Manohar opposed Patanis dream of setting up a private port t...",
+"type":"movie",
+"cast":"Harish Kalyan,Vinay Rai,Athulya Ravi,Sai Kumar,Sachin Khedekar"
+},
+{
 "title":"The Girlfriend [2025] HQ-HDTC [Hindi (LiNE) & Telugu] | Full Movie",
 "im":"vcGeERDrMBVihLaxbFbj5pK3kgL",
 "bgi":"1U6BizPeYgC6lYTijQnNozS1vMg",

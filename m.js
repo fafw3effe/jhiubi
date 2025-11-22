@@ -20,7 +20,7 @@ const movies = [
 "title":"Mastiii 4 [2025] V2 HQ-HDTC [Hindi-English] | Full Movie",
 "im":"aRpKtiofn365KinYjKFSTwLi4Y6",
 "bgi":"huXWIOCkaS91oWMyMgMfY2EVNcf",
-"dl":"https://pixeldrain.dev/u/7QsmcVtK",
+"dl":"https://pixeldrain.dev/api/file/7QsmcVtK?download",
 "dl2":"https://hubcloud.foo/drive/ja65iivttz2tht6",
 "year":"2025",
 "duration":"2h 22m",

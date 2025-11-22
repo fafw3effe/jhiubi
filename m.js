@@ -1,6 +1,21 @@
 // Movies data
 const movies = [
 
+
+{
+"title":"The Family Man [Season 3] WEB-DL [Hindi] | All Episodes",
+"im":"tE1NUJqw9gV6AVjQ1GTK78LbWJ9",
+"bgi":"eEzKigDI64OomZV6VTJvoPGmVu1",
+"dl":"https://s.pptons.com/2025/11/the-family-man.html",
+"dl2":"https://s.pptons.com/2025/11/the-family-man.html",
+"year":"2019",
+"duration":"1h per episode",
+"rating":"7.7",
+"genre":"Drama,Action & Adventure",
+"description":"The story of a middle-class man who works for a special cell of the National Investigation Agency. While he tries to protect the nation from terrorist...",
+"type":"series",
+"cast":"Manoj Bajpayee,Priyamani,Sharib Hashmi,Vedant Sinha,Ashlesha Thakur"
+},
 {
 "title":"The Girlfriend [2025] HQ-HDTC [Hindi (LiNE) & Telugu] | Full Movie",
 "im":"vcGeERDrMBVihLaxbFbj5pK3kgL",

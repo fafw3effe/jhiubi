@@ -17,6 +17,20 @@ const movies = [
 "cast":"Manoj Bajpayee,Priyamani,Sharib Hashmi,Vedant Sinha,Ashlesha Thakur"
 },
 {
+"title":"Extra Ordinary Man [2023] WEB-DL [Hindi-Telugu] | Full Movie",
+"im":"bOym2XLkyDcYVvX5sZ6YYm19xXT",
+"bgi":"1wWGBVCT9GQYDDRthxz2KmqrgIA",
+"dl":"https://pixeldrain.dev/api/file/VDtnnq9d",
+"dl2":"https://hubcloud.foo/drive/xhx97vzyogszf2i",
+"year":"2023",
+"duration":"2h 35m",
+"rating":"6.1",
+"genre":"Action,Drama",
+"description":"Abhi, from his childhood, revels in the art of playing other people. His mother recognizes his extraordinary talent, propelling him into the world of ...",
+"type":"movie",
+"cast":"Nithiin,Sreeleela,Rao Ramesh,Rohini,Sampath Raj"
+},
+{
 "title":"Mastiii 4 [2025] V2 HQ-HDTC [Hindi-English] | Full Movie",
 "im":"aRpKtiofn365KinYjKFSTwLi4Y6",
 "bgi":"huXWIOCkaS91oWMyMgMfY2EVNcf",

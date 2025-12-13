@@ -16,6 +16,19 @@ const movies = [
 "cast":"Manoj Bajpayee,Priyamani,Sharib Hashmi,Vedant Sinha,Ashlesha Thakur"
 },
 {
+"title":"Single Papa [Season 1] WEB-DL [Hindi] | All Episodes",
+"im":"lZoeUMY9p0uza3aAhtnFxoiksO4",
+"bgi":"gnOvCMpd2NTl99zTF3rAndq9RY0",
+"Server 1":"https://vcloud.zip/_d700a7kmg9bkrm",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"6.1",
+"genre":"Comedy,Drama",
+"description":"When Gaurav finds a baby in the back of his car, he must defy his eccentric family, the adoption agency and societal norms to become a single papa.",
+"type":"series",
+"cast":"Kunal Khemu,Neha Dhupia,Manoj Pahwa,Prajakta Koli,Ayesha Raza Mishra"
+},
+{
 "title":"Extra Ordinary Man [2023] WEB-DL [Hindi-Telugu] | Full Movie",
 "im":"bOym2XLkyDcYVvX5sZ6YYm19xXT",
 "bgi":"1wWGBVCT9GQYDDRthxz2KmqrgIA",

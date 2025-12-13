@@ -16,7 +16,7 @@ const movies = [
 "cast":"Manoj Bajpayee,Priyamani,Sharib Hashmi,Vedant Sinha,Ashlesha Thakur"
 },
 {
-"title":"Dhurandhar [2025] WEB-DL [Hindi-English] | Full Movie",
+"title":"Dhurandhar [2025] V2 HQ-HDTC [Hindi LiNE] | Full Movie",
 "im":"8FHOtUpNIk5ZPEay2N2EY5lrxkv",
 "bgi":"yRYgvo2crAeHzqKwXMVtEaDx7Qq",
 "480p":"https://vcloud.zip/paipeom2futteit",
@@ -44,7 +44,7 @@ const movies = [
 "cast":"Sydney Sweeney,Paul Walter Hauser,Halsey,Simon Rex,Eric Dane"
 },
 {
-"title":"Akhanda 2: Thaandavam [2025] WEB-DL [Hindi LiNe-Telugu] | Full Movie",
+"title":"Akhanda 2: Thaandavam [2025] HQ-HDTC [Hindi LiNE-Telugu] | Full Movie",
 "im":"2RGcVKH22rPBN21bq4nlx8wBUD6",
 "bgi":"fyAIKONWYLEZSptXBrAtCY1Oipt",
 "720p":"https://hubcloud.fyi/drive/imzmjksiiuunwkm",

@@ -16,7 +16,7 @@ const movies = [
 "cast":"Manoj Bajpayee,Priyamani,Sharib Hashmi,Vedant Sinha,Ashlesha Thakur"
 },
 {
-"title":"Akhanda 2: Thaandavam [2025] WEB-DL [Hindi-English] | Full Movie",
+"title":"Akhanda 2: Thaandavam [2025] WEB-DL [Hindi LiNe-Telugu] | Full Movie",
 "im":"2RGcVKH22rPBN21bq4nlx8wBUD6",
 "bgi":"fyAIKONWYLEZSptXBrAtCY1Oipt",
 "720p":"https://hubcloud.fyi/drive/imzmjksiiuunwkm",

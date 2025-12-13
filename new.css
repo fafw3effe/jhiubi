@@ -293,6 +293,7 @@ body {
 .dl-btn i { font-size: 16px; margin-bottom: 2px; }
 
 /* Colors for quality */
+.q-Server-1 { color: #66c7ff; border-color: #66c7ff; }
 .q-480p { color: #66c7ff; border-color: #66c7ff; }
 .q-1080p { color: #ffd166; border-color: #ffd166; }
 .q-720p { color: #06d6a0; border-color: #06d6a0; }

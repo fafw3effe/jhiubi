@@ -16,6 +16,19 @@ const movies = [
 "cast":"Manoj Bajpayee,Priyamani,Sharib Hashmi,Vedant Sinha,Ashlesha Thakur"
 },
 {
+"title":"Americana [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"83Gis9pOKCvAdaKXCNChey4IZyL",
+"bgi":"ice3dNrgJZmyFXs4InhjAJMIGMS",
+"720p":"https://hubcloud.fyi/drive/pkphjbyjt2y28pp",
+"year":"2025",
+"duration":"1h 47m",
+"rating":"6.5",
+"genre":"Crime,Thriller,Western,Action",
+"description":"When a rare Lakota Ghost Shirt falls into the black market in a small town in South Dakota, the lives of local outsiders and outcasts violently intertwine.",
+"type":"movie",
+"cast":"Sydney Sweeney,Paul Walter Hauser,Halsey,Simon Rex,Eric Dane"
+},
+{
 "title":"Akhanda 2: Thaandavam [2025] WEB-DL [Hindi LiNe-Telugu] | Full Movie",
 "im":"2RGcVKH22rPBN21bq4nlx8wBUD6",
 "bgi":"fyAIKONWYLEZSptXBrAtCY1Oipt",

@@ -16,6 +16,21 @@ const movies = [
 "cast":"Manoj Bajpayee,Priyamani,Sharib Hashmi,Vedant Sinha,Ashlesha Thakur"
 },
 {
+"title":"Dhurandhar [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"8FHOtUpNIk5ZPEay2N2EY5lrxkv",
+"bgi":"yRYgvo2crAeHzqKwXMVtEaDx7Qq",
+"480p":"https://vcloud.zip/paipeom2futteit",
+"720p":"https://hubcloud.fyi/drive/ayyac79k8cii119",
+"1080p":"https://hubcloud.fyi/drive/bbdum12zbjjegbm",
+"year":"2025",
+"duration":"3h 34m",
+"rating":"6.7",
+"genre":"Action,Thriller",
+"description":"After the hijacking of IC-814 in 1999 and the Parliament attack in 2001, India’s Intelligence Bureau Chief, Ajay Sanyal devised an indomitable mission to intrude and rupture the terrorist network in Pakistan, by infiltrating the underworld mafia of Karachi. A 20-year-old boy from Punjab, held captive for a revenge crime, is identified by Sanyal to execute his elaborate plan.",
+"type":"movie",
+"cast":"Ranveer Singh,Akshaye Khanna,R. Madhavan,Arjun Rampal,Sanjay Dutt"
+},
+{
 "title":"Americana [2025] WEB-DL [Hindi-English] | Full Movie",
 "im":"83Gis9pOKCvAdaKXCNChey4IZyL",
 "bgi":"ice3dNrgJZmyFXs4InhjAJMIGMS",

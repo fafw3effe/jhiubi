@@ -22,7 +22,7 @@ const movies = [
 "720p":"https://hubcloud.fyi/drive/imzmjksiiuunwkm",
 "year":"2025",
 "duration":"2h 44m",
-"rating":"0.0",
+"rating":"6.1",
 "genre":"Action",
 "description":"When all hope died, Akhanda arrived. He saved his family, protected his people, killed the wrongdoers, and retreated into isolation. But years later, ...",
 "type":"movie",

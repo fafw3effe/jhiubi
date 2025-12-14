@@ -16,6 +16,19 @@ const movies = [
 "cast":"Manoj Bajpayee,Priyamani,Sharib Hashmi,Vedant Sinha,Ashlesha Thakur"
 },
 {
+"title":"Death Note [Season 1] [Episode 24] WEB-DL [Hindi-English] | All Episodes",
+"im":"tCZFfYTIwrR7n94J6G14Y4hAFU6",
+"bgi":"koBa94NxTaGe2FoDzlXMuJptsv0",
+"S1E1":"https://vcloud.zip/eb1eqkybhqq1jrw","S1E2":"https://vcloud.zip/3nbm3jkbnj3kzbr","S1E3":"https://vcloud.zip/2d09uc9vmk9jeu9","S1E4":"https://vcloud.zip/lxclwjd1me1jmjq","S1E5":"https://vcloud.zip/s7r7e1hecs_p7y5","S1E6":"https://vcloud.zip/lbji2xixnbtbwbn","S1E7":"https://vcloud.zip/dbzmqjj2p443cab","S1E8":"https://vcloud.zip/zqmqxurvu4cdl1c","S1E9":"https://vcloud.zip/153h3q5rzr3qqa3","S1E10":"https://vcloud.zip/asizfuuwx_iz0cu","S1E11":"https://vcloud.zip/glsssks5waq7qgr","S1E12":"https://vcloud.zip/vao23a0zfvpkp3r","S1E13":"https://vcloud.zip/_lrpcquibfeg_uv","S1E14":"https://vcloud.zip/3f9sfdi1kzkaksb","S1E15":"https://vcloud.zip/b3kah99ahbxxdag","S1E16":"https://vcloud.zip/z4iu3jdhs4lsa-u","S1E17":"https://vcloud.zip/agi6iiwiqwdoqz1","S1E18":"https://vcloud.zip/wo15vjpijy9llop","S1E19":"https://vcloud.zip/5sshapw76owvuog","S1E20":"https://vcloud.zip/dv7hbdyvydn-ymm","S1E21":"https://vcloud.zip/_c5kk-9jk7p_5kr","S1E22":"https://vcloud.zip/cfh2snyqky31syk","S1E23":"https://vcloud.zip/f5c4tbeyf5t4ifi","S1E24":"https://vcloud.zip/-v1ipbqgqt6t4xi","S1E25":"https://vcloud.zip/kkt7tpa4q1qn1vd","S1E26":"https://vcloud.zip/op44ni4o5i4ryiz","S1E27":"https://vcloud.zip/fbzsxgm0mt001qmman","S1E28":"https://vcloud.zip/bsii2xppj0ijqea","S1E29":"https://vcloud.zip/jpk1iajsbykffaf","S1E30":"https://vcloud.zip/wlbvryieolfl00j","S1E31":"https://vcloud.zip/umpgp-gg2y1ryzu","S1E32":"https://vcloud.zip/vowygyuws2ov676","S1E33":"https://vcloud.zip/pcnccspmcnd8ppu","S1E34":"https://vcloud.zip/k5q1qhjqssftnhw",
+"year":"2006",
+"duration":"1h per episode",
+"rating":"8.6",
+"genre":"Animation,Mystery,Sci-Fi & Fantasy",
+"description":"Light Yagami is an ace student with great prospects—and he's bored out of his mind. But all that changes when he finds the Death Note, a notebook ...",
+"type":"series",
+"cast":"Mamoru Miyano,Shido Nakamura,Aya Hirano,Kappei Yamaguchi,Kimiko Saito"
+},
+{
 "title":"Man vs Baby [Season 1] WEB-DL [Hindi-English] | All Episodes",
 "im":"x7UZVTEr26H5yCSVQoKTeBdvUvg",
 "bgi":"lSffVt0etoSLyl2hsTREdJ1CnQ1",
@@ -359,20 +372,6 @@ const movies = [
 "description":"To fulfill his dreams of becoming a legendary Hunter like his dad, a young boy must pass a rigorous examination and find his missing father.",
 "type":"series",
 "cast":"Megumi Han,Mariya Ise,Issei Futamata,Miyuki Sawashiro,Keiji Fujiwara"
-},
-{
-"title":"Death Note [Season 1] [Episode 24] WEB-DL [Hindi-English] | All Episodes",
-"im":"tCZFfYTIwrR7n94J6G14Y4hAFU6",
-"bgi":"koBa94NxTaGe2FoDzlXMuJptsv0",
-"Server 1":"https://s.pptons.com/2025/08/death-note.html",
-"Server 2":"https://s.pptons.com/2025/08/death-note.html",
-"year":"2006",
-"duration":"1h per episode",
-"rating":"8.6",
-"genre":"Animation,Mystery,Sci-Fi & Fantasy",
-"description":"Light Yagami is an ace student with great prospects—and he's bored out of his mind. But all that changes when he finds the Death Note, a notebook ...",
-"type":"series",
-"cast":"Mamoru Miyano,Shido Nakamura,Aya Hirano,Kappei Yamaguchi,Kimiko Saito"
 },
 {
 "title":"Kurukshetra [Season 1] WEB-DL [Hindi] | All Episodes",

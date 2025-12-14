@@ -16,6 +16,19 @@ const movies = [
 "cast":"Manoj Bajpayee,Priyamani,Sharib Hashmi,Vedant Sinha,Ashlesha Thakur"
 },
 {
+"title":"Hunter x Hunter [Season 6] [Episode 11] WEB-DL [Hindi-English] | All Episodes",
+"im":"i2EEr2uBvRlAwJ8d8zTG2Y19mIa",
+"bgi":"6U0e6OHklJAcMAuIoGXjTBS5zsI",
+"S6E1":"https://vcloud.zip/t6eihuhieh1h49a","S6E2":"https://vcloud.zip/etdjkbjwdusjp1j","S6E3":"https://vcloud.zip/jchi7owwjg79cfw","S6E4":"https://vcloud.zip/wpuohhi4l4hw58b","S6E5":"https://vcloud.zip/ox5ja11gixo1ggs","S6E6":"https://vcloud.zip/bmvcigs-bgh--1r","S6E7":"https://vcloud.zip/4oujkbat4tlmy_n","S6E8":"https://vcloud.zip/5hdhq5hxdoo0iyr","S6E9":"https://vcloud.zip/by5uyapzapzmxzy","S6E10":"https://vcloud.zip/aqiifsksxinzgku","S6E11":"https://vcloud.zip/vuwwxwhzrmshxut","S6E12":"https://vcloud.zip/z1r13n3aa390s9z",
+"year":"2011",
+"duration":"1h per episode",
+"rating":"8.7",
+"genre":"Animation,Action & Adventure,Sci-Fi & Fantasy",
+"description":"To fulfill his dreams of becoming a legendary Hunter like his dad, a young boy must pass a rigorous examination and find his missing father.",
+"type":"series",
+"cast":"Megumi Han,Mariya Ise,Issei Futamata,Miyuki Sawashiro,Keiji Fujiwara"
+},
+{
 "title":"Death Note [Season 1] [Episode 34] WEB-DL [Hindi-English] | All Episodes",
 "im":"tCZFfYTIwrR7n94J6G14Y4hAFU6",
 "bgi":"koBa94NxTaGe2FoDzlXMuJptsv0",
@@ -358,20 +371,6 @@ const movies = [
 "description":"Renowned for Fire Punch, Chainsaw Man, and Look Back, genius manga artist Tatsuki Fujimoto brings to life eight of his representative short stories cr...",
 "type":"movie",
 "cast":"Kensho Ono,Shion Sakurai,Kazuki Ura,Kimiko Saito,Mitsuo Iwata"
-},
-{
-"title":"Hunter x Hunter [Season 5] [Episode 43] WEB-DL [Hindi-English] | All Episodes",
-"im":"i2EEr2uBvRlAwJ8d8zTG2Y19mIa",
-"bgi":"6U0e6OHklJAcMAuIoGXjTBS5zsI",
-"Server 1":"https://s.pptons.com/2025/11/hunter-x-hunter.html",
-"Server 2":"https://s.pptons.com/2025/11/hunter-x-hunter.html",
-"year":"2011",
-"duration":"1h per episode",
-"rating":"8.7",
-"genre":"Animation,Action & Adventure,Sci-Fi & Fantasy",
-"description":"To fulfill his dreams of becoming a legendary Hunter like his dad, a young boy must pass a rigorous examination and find his missing father.",
-"type":"series",
-"cast":"Megumi Han,Mariya Ise,Issei Futamata,Miyuki Sawashiro,Keiji Fujiwara"
 },
 {
 "title":"Kurukshetra [Season 1] WEB-DL [Hindi] | All Episodes",

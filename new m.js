@@ -16,6 +16,19 @@ const movies = [
 "cast":"Manoj Bajpayee,Priyamani,Sharib Hashmi,Vedant Sinha,Ashlesha Thakur"
 },
 {
+"title":"IT: Welcome to Derry [Season 1] [Episode 8] WEB-DL [Hindi-English] | All Episodes",
+"im":"nyy3BITeIjviv6PFIXtqvc8i6xi",
+"bgi":"2746UvsbkZINd873Yd3o3TxOwCP",
+"S1E1":"https://vcloud.zip/g4oobqgb7xgcccp","S1E2":"https://vcloud.zip/lz1daeailel1vvw","S1E3":"https://vcloud.zip/rduujsyskjwkg7n","S1E4":"https://vcloud.zip/sny-y69dsqzzzzz","S1E5":"https://vcloud.zip/1eava81ytes0wwv","S1E6":"https://vcloud.zip/utddadfjiq9694t","S1E7":"https://vcloud.zip/nz441f1hn3vgvvx","S1E8":"https://vcloud.zip/pihfldx2lprrekh",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"8.0",
+"genre":"Mystery,Drama",
+"description":"In 1962, a couple with their son move to Derry, Maine just as a young boy disappears. With their arrival, very bad things begin to happen in the town.",
+"type":"series",
+"cast":"Taylour Paige,Jovan Adepo,James Remar,Stephen Rider,Matilda Lawler"
+},
+{
 "title":"Nice to Not Meet You [Season 1] [Episode 10] WEB-DL [Hindi-English] | All Episodes",
 "im":"h14bGZcVxYQzLoxC8KYqUVWvYfU",
 "bgi":"fc4Shbli2S1BwUgoTjvP3BIM9VX",
@@ -663,20 +676,6 @@ const movies = [
 "description":"After vanishing from Mumbai's underworld for a decade, mob boss Ojas Gambheera resurfaces—feared, unstoppable, and with a single goal: to recla...",
 "type":"movie",
 "cast":"Pawan Kalyan,Emraan Hashmi,Priyanka Arul Mohan,Prakash Raj,Sriya Reddy"
-},
-{
-"title":"IT: Welcome to Derry [Season 1] [Episode 1] WEB-DL [Hindi-English] | All Episodes",
-"im":"nyy3BITeIjviv6PFIXtqvc8i6xi",
-"bgi":"2746UvsbkZINd873Yd3o3TxOwCP",
-"Server 1":"https://s.pptons.com/2025/10/it-welcome-to-derry-it-welcome-to-derry.html",
-"Server 2":"https://s.pptons.com/2025/10/it-welcome-to-derry-it-welcome-to-derry.html",
-"year":"2025",
-"duration":"1h per episode",
-"rating":"8.0",
-"genre":"Mystery,Drama",
-"description":"In 1962, a couple with their son move to Derry, Maine just as a young boy disappears. With their arrival, very bad things begin to happen in the town.",
-"type":"series",
-"cast":"Taylour Paige,Jovan Adepo,James Remar,Stephen Rider,Matilda Lawler"
 },
 {
 "title":"Daksha: The Deadly Conspiracy [2025] WEB-DL [Hindi-English] | Full Movie",

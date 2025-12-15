@@ -16,6 +16,19 @@ const movies = [
 "cast":"Manoj Bajpayee,Priyamani,Sharib Hashmi,Vedant Sinha,Ashlesha Thakur"
 },
 {
+"title":"One-Punch Man [Season 3] [Episode 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"5OXorpOxMpGksF93iWNQjUJDk1c",
+"bgi":"s0w8JbuNNxL1YgaHeDWih12C3jG",
+"S3E1":"https://vcloud.zip/--waoox-q1itcn-",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"8.4",
+"genre":"Animation,Comedy,Action & Adventure,Sci-Fi & Fantasy",
+"description":"The most powerful superhero in the world can kill anyone with one blow. But nothing can challenge him, so he struggles with ennui and depression.",
+"type":"series",
+"cast":"Makoto Furukawa,Kaito Ishikawa,Hiroki Yasumoto,Kazuhiro Yamaji,Yuichi Nakamura"
+},
+{
 "title":"Hunter x Hunter [Season 6] [Episode 11] WEB-DL [Hindi-English] | All Episodes",
 "im":"i2EEr2uBvRlAwJ8d8zTG2Y19mIa",
 "bgi":"6U0e6OHklJAcMAuIoGXjTBS5zsI",

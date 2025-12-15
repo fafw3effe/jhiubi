@@ -16,6 +16,19 @@ const movies = [
 "cast":"Manoj Bajpayee,Priyamani,Sharib Hashmi,Vedant Sinha,Ashlesha Thakur"
 },
 {
+"title":"Nice to Not Meet You [Season 1] [Episode 10] WEB-DL [Hindi-English] | All Episodes",
+"im":"h14bGZcVxYQzLoxC8KYqUVWvYfU",
+"bgi":"fc4Shbli2S1BwUgoTjvP3BIM9VX",
+"S1E1":"https://vcloud.zip/odbni1jqypxsqj0","S1E2":"https://vcloud.zip/o1zilxzkixoei4-","S1E3":"https://vcloud.zip/8oewsejq9e1cgjw","S1E4":"https://vcloud.zip/slrvhlgabv77cj1","S1E5":"https://vcloud.zip/xttesgbob-zwyre","S1E6":"https://vcloud.zip/qu8lfdqzr8wfqta","S1E7":"https://vcloud.zip/tkit4et1sbr1usx","S1E8":"https://vcloud.zip/_jtu_zk_ndyvcjt","S1E9":"https://vcloud.zip/1ffad190f9afnet","S1E10":"https://vcloud.zip/dz8ue81u1fw11j1",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"7.2",
+"genre":"Comedy,Drama",
+"description":"A hateful romance between a professional detective actor who wants to become a melodrama master and a female reporter who was demoted from a political reporter who won the Reporter of the Year award to the entertainment department.",
+"type":"series",
+"cast":"Lee Jung-jae,Lim Ji-yeon,Kim Ji-hoon,Seo Ji-hye,Choi Gwi-hwa"
+},
+{
 "title":"One-Punch Man [Season 3] [Episode 1] WEB-DL [Hindi-English] | All Episodes",
 "im":"5OXorpOxMpGksF93iWNQjUJDk1c",
 "bgi":"s0w8JbuNNxL1YgaHeDWih12C3jG",

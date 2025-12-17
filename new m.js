@@ -2,6 +2,50 @@
 const movies = [
 
 
+
+
+{
+"title":"Mass Jathara [2025] WEB-DL [Hindi HQ DUB-English] | Full Movie",
+"im":"qvSyQdI2Mlpa5X7dRDBmIi30oHT",
+"bgi":"9jiqrAgC9DoWKte8qc5gis0fWem",
+"480p":"https://vcloud.zip/qvv5u5iuu2ubvuu",
+"720p":"https://hubcloud.fyi/drive/zxtsnolzghzuete",
+"1080p":"https://hubcloud.fyi/drive/v3wophfnsryvhlo",
+"year":"2025",
+"duration":"2h 24m",
+"rating":"5.0",
+"genre":"Action,Crime,Thriller",
+"description":"A transport officer battles a violent drug lord and his criminal clan.",
+"type":"movie",
+"cast":"Ravi Teja,Sreeleela,Rajendra Prasad,Naveen Chandra,Naresh"
+},
+{
+"title":"Dynamite Kiss [Season 1] WEB-DL [Hindi-Korean] | All Episodes",
+"im":"qY3ltlWUB7u3ENocrMOkbGCGYnt",
+"bgi":"cTFQKu8CLftXHUCIBGksfL8uhf3",
+"S1E1":"https://vcloud.zip/ctdr1t66r01kzcc","S1E2":"https://vcloud.zip/el202q4e3p0ycxr","S1E3":"https://vcloud.zip/a-emlmez3mk3m1z","S1E4":"https://vcloud.zip/ie106qyig9glyg-","S1E5":"https://vcloud.zip/thz8wi2wo_6zlaz","S1E6":"https://vcloud.zip/ixq2koyt9ztqewv","S1E7":"https://vcloud.zip/gtlacsdcxsbyily","S1E8":"https://vcloud.zip/dfvdzdfz33ifpmd","S1E9":"https://vcloud.zip/gq-bln-6brovind","S1E10":"https://vcloud.zip/5zhxhhsixvqvxex",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"8.5",
+"genre":"Drama,Comedy",
+"description":"A passionate fling in Jeju ends abruptly — until fate reunites an heir and a young woman when she joins his company, disguised as a married mother.",
+"type":"series",
+"cast":"Jang Ki-yong,Ahn Eun-jin,Kim Moo-joon,Woo Da-vi,Choi Gwang-il"
+},
+{
+"title":"Rust Road [2023] WEB-DL [Hindi-English] | Full Movie",
+"im":"qitChdttXUIFz0uQIwb6WLKx6pg",
+"bgi":"4HHxFQec8kTM2xegGOfwPXYjiTE",
+"720p":"https://hubcloud.fyi/drive/cugbcpcbtwhh64x",
+"1080p":"https://hubcloud.fyi/drive/qjbkvgonnvjnhjv",
+"year":"2023",
+"duration":"1h 52m",
+"rating":"6.0",
+"genre":"Action,Drama,Thriller,Crime",
+"description":"Two brothers are torn apart after they steal a bag of money and are hunted down by a ruthless killer.",
+"type":"movie",
+"cast":"Carel Nel,Conrad Kemp,Genna Galloway,Jesse Speller,Jake Westmoreland"
+},
 {
 "title":"The Family Man [Season 3] WEB-DL [Hindi] | All Episodes",
 "im":"tE1NUJqw9gV6AVjQ1GTK78LbWJ9",

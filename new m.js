@@ -3,7 +3,36 @@ const movies = [
 
 
 
-
+{
+"title":"Avatar: Fire and Ash [2025] HDTS [Hindi-English] | Full Movie",
+"im":"gDVgC9jd917NdAcqBdRRDUYi4Tq",
+"bgi":"iN41Ccw4DctL8npfmYg1j5Tr1eb",
+"480p":"https://vcloud.zip/o2o1fwoi9uuutee",
+"720p":"https://vcloud.zip/mfxf4ebrfqlr1ot",
+"1080p":"https://vcloud.zip/fwje_xlg1jigggw",
+"year":"2025",
+"duration":"3h 18m",
+"rating":"7.3",
+"genre":"Science Fiction,Adventure,Fantasy",
+"description":"In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
+"type":"movie",
+"cast":"Sam Worthington,Zoe Saldaña,Sigourney Weaver,Stephen Lang,Oona Chaplin"
+},
+{
+"title":"Dhurandhar [2025] V2 HQ-HDTC [Hindi LiNE] | Full Movie",
+"im":"8FHOtUpNIk5ZPEay2N2EY5lrxkv",
+"bgi":"yRYgvo2crAeHzqKwXMVtEaDx7Qq",
+"480p":"https://vcloud.zip/paipeom2futteit",
+"720p":"https://hubcloud.fyi/drive/ayyac79k8cii119",
+"1080p":"https://hubcloud.fyi/drive/bbdum12zbjjegbm",
+"year":"2025",
+"duration":"3h 34m",
+"rating":"6.7",
+"genre":"Action,Thriller",
+"description":"After the hijacking of IC-814 in 1999 and the Parliament attack in 2001, India’s Intelligence Bureau Chief, Ajay Sanyal devised an indomitable mission to intrude and rupture the terrorist network in Pakistan, by infiltrating the underworld mafia of Karachi. A 20-year-old boy from Punjab, held captive for a revenge crime, is identified by Sanyal to execute his elaborate plan.",
+"type":"movie",
+"cast":"Ranveer Singh,Akshaye Khanna,R. Madhavan,Arjun Rampal,Sanjay Dutt"
+},
 {
 "title":"Mass Jathara [2025] WEB-DL [Hindi HQ DUB-English] | Full Movie",
 "im":"qvSyQdI2Mlpa5X7dRDBmIi30oHT",
@@ -18,6 +47,34 @@ const movies = [
 "description":"A transport officer battles a violent drug lord and his criminal clan.",
 "type":"movie",
 "cast":"Ravi Teja,Sreeleela,Rajendra Prasad,Naveen Chandra,Naresh"
+},
+{
+"title":"Your Name. [2016] WEB-DL [Hindi-English] | Full Movie",
+"im":"8GJsy7w7frGquw1cy9jasOGNNI1",
+"bgi":"8x9iKH8kWA0zdkgNdpAew7OstYe",
+"720p":"https://hubcloud.fyi/drive/levhelim09hjem6",
+"1080p":"https://hubcloud.fyi/drive/set7t05rxr2mfrz",
+"year":"2016",
+"duration":"1h 46m",
+"rating":"8.5",
+"genre":"Animation,Romance,Drama,",
+"description":"High schoolers Mitsuha and Taki are complete strangers living separate lives. But one night, they suddenly switch places. Mitsuha wakes up in Taki’s body, and he in hers. This bizarre occurrence continues to happen randomly, and the two must adjust their lives around each other.",
+"type":"movie",
+"cast":"Ryunosuke Kamiki,Mone Kamishiraishi,Ryo Narita,Aoi Yuki,Nobunaga Shimazaki"
+},
+{
+"title":"Weathering with You [2019] WEB-DL [Hindi-English] | Full Movie",
+"im":"qgrk7r1fV4IjuoeiGS5HOhXNdLJ",
+"bgi":"ize3ZieqSy0TCWljmVoEiy8fSFS",
+"720p":"https://hubcloud.fyi/drive/vijqnjt4j4enjin",
+"1080p":"https://hubcloud.fyi/drive/o3rgdbmd7hhrjco",
+"year":"2019",
+"duration":"1h 52m",
+"rating":"8.0",
+"genre":"Animation,Drama,Fantasy,Romance",
+"description":"The summer of his high school freshman year, Hodaka runs away from his remote island home to Tokyo, and quickly finds himself pushed to his financial and personal limits. The weather is unusually gloomy and rainy every day, as if taking its cue from his life. After many days of solitude, he finally finds work as a freelance writer for a mysterious occult magazine. Then, one day, Hodaka meets Hina on a busy street corner. This bright and strong-willed girl possesses a strange and wonderful ability: the power to stop the rain and clear the sky.",
+"type":"movie",
+"cast":"Kotaro Daigo,Nana Mori,Tsubasa Honda,Sakura Kiryu,Sei Hiraizumi"
 },
 {
 "title":"Dynamite Kiss [Season 1] WEB-DL [Hindi-Korean] | All Episodes",
@@ -162,21 +219,6 @@ const movies = [
 "description":"In their twenties, Lee Kyeong-do and Seo Ji-woo part ways after two passionate relationships. A decade later, they meet again as a reporter who covers an adultery scandal and the wife of the man at the center of that scandal. Reuniting in their late thirties, their youth has passed, but their love remains vivid. Kyeong-do now strives to prove to her and to himself that he still loves her.",
 "type":"series",
 "cast":"Park Seo-jun,Won Ji-an,Lee El,Lee Zoo-young,Kang Ki-doong"
-},
-{
-"title":"Dhurandhar [2025] V2 HQ-HDTC [Hindi LiNE] | Full Movie",
-"im":"8FHOtUpNIk5ZPEay2N2EY5lrxkv",
-"bgi":"yRYgvo2crAeHzqKwXMVtEaDx7Qq",
-"480p":"https://vcloud.zip/paipeom2futteit",
-"720p":"https://hubcloud.fyi/drive/ayyac79k8cii119",
-"1080p":"https://hubcloud.fyi/drive/bbdum12zbjjegbm",
-"year":"2025",
-"duration":"3h 34m",
-"rating":"6.7",
-"genre":"Action,Thriller",
-"description":"After the hijacking of IC-814 in 1999 and the Parliament attack in 2001, India’s Intelligence Bureau Chief, Ajay Sanyal devised an indomitable mission to intrude and rupture the terrorist network in Pakistan, by infiltrating the underworld mafia of Karachi. A 20-year-old boy from Punjab, held captive for a revenge crime, is identified by Sanyal to execute his elaborate plan.",
-"type":"movie",
-"cast":"Ranveer Singh,Akshaye Khanna,R. Madhavan,Arjun Rampal,Sanjay Dutt"
 },
 {
 "title":"Americana [2025] WEB-DL [Hindi-English] | Full Movie",
@@ -6172,19 +6214,6 @@ const movies = [
 "description":"Takao, who is training to become a shoemaker, skipped school and is sketching shoes in a Japanese-style garden. He meets a mysterious woman, Yukino, who is older than him. Then, without arranging the times, the two start to see each other again and again, but only on rainy days. They deepen their relationship and open up to each other. But the end of the rainy season soon approaches.",
 "type":"movie",
 "cast":"Miyu Irino,Kana Hanazawa,Fumi Hirano,Takeshi Maeda,Yuka Terasaki"
-},
-{
-"title":"Your Name. [2016] WEB-DL [Hindi-English] | Full Movie",
-"im":"8GJsy7w7frGquw1cy9jasOGNNI1",
-"bgi":"8x9iKH8kWA0zdkgNdpAew7OstYe",
-"Server 1":"https://pixeldrain.dev/u/tgCciZ5Z?download",
-"year":"2016",
-"duration":"1h 46m",
-"rating":"8.5",
-"genre":"Animation,Romance,Drama,",
-"description":"High schoolers Mitsuha and Taki are complete strangers living separate lives. But one night, they suddenly switch places. Mitsuha wakes up in Taki’s body, and he in hers. This bizarre occurrence continues to happen randomly, and the two must adjust their lives around each other.",
-"type":"movie",
-"cast":"Ryunosuke Kamiki,Mone Kamishiraishi,Ryo Narita,Aoi Yuki,Nobunaga Shimazaki"
 },
 {
 "title":"A Silent Voice: The Movie [2016] WEB-DL [Hindi-English] | Full Movie",

@@ -19,6 +19,19 @@ const movies = [
 "cast":"Sam Worthington,Zoe Saldaña,Sigourney Weaver,Stephen Lang,Oona Chaplin"
 },
 {
+"title":"Demon Slayer: Kimetsu no Yaiba Infinity Castle [2025] WEB-DL [Japanese With HC-Esubtitles] | Full Movie",
+"im":"fWVSwgjpT2D78VUh6X8UBd2rorW",
+"bgi":"1RgPyOhN4DRs225BGTlHJqCudII",
+"720p":"https://vcloud.zip/gjokgt2gjgk2tb1",
+"year":"2025",
+"duration":"2h 36m",
+"rating":"7.6",
+"genre":"Animation,Action,Fantasy",
+"description":"The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
+"type":"movie",
+"cast":"Natsuki Hanae,Takahiro Sakurai,Akira Ishida,Hiro Shimono,Yoshimasa Hosoya"
+},
+{
 "title":"Bāhubali: The Epic [2025] WEB-DL [Hindi] | Full Movie",
 "im":"4sLSorDKKDN944kWngxgQlpdDeg",
 "bgi":"j8WzzoAJn5LrKpgFTe1gaQVTj8z",

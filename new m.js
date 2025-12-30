@@ -2,8 +2,78 @@
 const movies = [
 
 
+
 {
-"title":"Naruto Shippūden [Season 15] [Episode 20] WEB-DL [Hindi-English-Japanese] | All Episodes",
+"title":"Avatar: Fire and Ash [2025] HDRIP [Hindi-English] | Full Movie",
+"im":"gDVgC9jd917NdAcqBdRRDUYi4Tq",
+"bgi":"iN41Ccw4DctL8npfmYg1j5Tr1eb",
+"480p":"https://vcloud.zip/0ffzigjnq_g-ovq",
+"720p":"https://vcloud.zip/lvz8iimxz5qzl08",
+"1080p":"https://vcloud.zip/ti3r_lj3grlgxcn",
+"year":"2025",
+"duration":"3h 18m",
+"rating":"7.3",
+"genre":"Science Fiction,Adventure,Fantasy",
+"description":"In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
+"type":"movie",
+"cast":"Sam Worthington,Zoe Saldaña,Sigourney Weaver,Stephen Lang,Oona Chaplin"
+},
+{
+"title":"Bāhubali: The Epic [2025] WEB-DL [Hindi] | Full Movie",
+"im":"4sLSorDKKDN944kWngxgQlpdDeg",
+"bgi":"j8WzzoAJn5LrKpgFTe1gaQVTj8z",
+"480p":"https://vcloud.zip/megigghl4i7vyw1",
+"720p":"https://vcloud.zip/lyalvsqvcw_33lj",
+"1080p":"https://vcloud.zip/a66z4b41n0okdpp",
+"year":"2025",
+"duration":"3h 44m",
+"rating":"7.6",
+"genre":"Action,Drama",
+"description":"When a mysterious child is found by a tribal couple near a roaring waterfall, they raise him as their own. As he grows, Sivudu is drawn to the world beyond the cliffs, where he discovers the ancient kingdom of Mahishmati, ruled by a cruel tyrant, haunted by rebellion, and bound to his past. What begins as a quest for love soon unravels a legacy of betrayal, sacrifice, and a forgotten prince.",
+"type":"movie",
+"cast":"Prabhas,Rana Daggubati,Anushka Shetty,Ramya Krishnan,Sathyaraj"
+},
+{
+"title":"Wicked: For Good [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"u7x3I5V9aP4tMZACmM8ClY8lK6K",
+"bgi":"l8pwO23MCvqYumzozpxynCNfck1",
+"720p":"https://vcloud.zip/kia3epdmab1pb3m",
+"year":"2025",
+"duration":"2h 17m",
+"rating":"6.8",
+"genre":"Fantasy,Adventure,Romance",
+"description":"As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good.",
+"type":"movie",
+"cast":"Ariana Grande,Cynthia Erivo,Jonathan Bailey,Jeff Goldblum,Michelle Yeoh"
+},
+{
+"title":"Binny and Family [2024] WEB-DL [Hindi] | Full Movie",
+"im":"lXmsRFM9Ih6yLu0jsxarTyAfWH3",
+"bgi":"g1wfg7MAXSURHE6a8iepZ7iZQqP",
+"720p":"https://hubcloud.foo/drive/r4a74ujxnngrytd",
+"year":"2024",
+"duration":"2h 20m",
+"rating":"3.0",
+"genre":"Comedy,Drama",
+"description":"Binny's life in London turns upside down when her grandparents visit her and try to insist living her life according to them. Binny and Family throws light on the widening generation gap and that neither generation not being able to understand the other one.",
+"type":"movie",
+"cast":"Anjini Dhawan,Pankaj Kapur,Himani Shivpuri,Rajesh Kumar,Charu Shankar"
+},
+{
+"title":"Your Lie in April [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"rRjfH3ckTYz8z8aSkJshFL4VyK9",
+"bgi":"x6jWDL4H9TaBLGEvyej0qKiirBU",
+"S15E1":"https://vcloud.zip/nyzhl13yf3shlc1","S15E2":"https://vcloud.zip/jnoxxbf1x3zlf3i","S15E3":"https://vcloud.zip/5hl-qhtftbq_v--","S15E4":"https://vcloud.zip/o-ior7gdo5o7kmb","S15E5":"https://vcloud.zip/jzjorlbzpkzujuf","S15E6":"https://vcloud.zip/j_edzg1dzce_cft","S15E7":"https://vcloud.zip/caw0e46gauqxaws","S15E8":"https://vcloud.zip/plio01lllgliphw","S15E9":"https://vcloud.zip/-xsvhkknjf6vmph","S15E10":"https://vcloud.zip/71y7bqbjyj7lxuh","S15E11":"https://vcloud.zip/zrxa6ytzg3-pgd3","S15E12":"https://vcloud.zip/udgt3g_decdl__a","S15E13":"https://vcloud.zip/wbxmxzlhhlbb1xe","S15E14":"https://vcloud.zip/xzokuknr3scl3kn","S15E15":"https://vcloud.zip/j1yyjv5wrkmknba","S15E16":"https://vcloud.zip/bocxpagpp6gybzy","S15E17":"https://vcloud.zip/nrqkulp0833lqr5","S15E18":"https://vcloud.zip/zdt1wozvewgfuxg","S15E19":"https://vcloud.zip/wpvetccoszvelbo","S15E20":"https://vcloud.zip/kxrhckkxed-zdr-","S15E21":"https://vcloud.zip/c_ya_2dycc59u1y","S15E22":"https://vcloud.zip/lgtwft7ib177u3u",
+"year":"2014",
+"duration":"1h per episode",
+"rating":"8.6",
+"genre":"Animation,Comedy,Drama",
+"description":"Kousei Arima was a genius pianist until his mother's sudden death took away his ability to play. Each day was dull for Kousei. But, then he meets a violinist named Kaori Miyazono who has an eccentric playing style. Can the heartfelt sounds of the girl's violin lead the boy to play the piano again?",
+"type":"series",
+"cast":"Natsuki Hanae,Risa Taneda,Ayane Sakura,Ryota Osaka,Shizuka Ishigami"
+},
+{
+"title":"Naruto Shippūden [Season 15] [Episode 21] WEB-DL [Hindi-English-Japanese] | All Episodes",
 "im":"1lxahYOBIMpKqoKoB11qtmaBVP1",
 "bgi":"nAeS7F2B22XQOLh5HVNXn8G3ZRk",
 "S15E1":"https://vcloud.zip/9ydlprpyscrnuol","S15E2":"https://vcloud.zip/y22fkfxdy-_lw9f","S15E3":"https://vcloud.zip/x6ydlxn90l97l7u","S15E4":"https://vcloud.zip/gboz02owoq_fhhg","S15E5":"https://vcloud.zip/nweyl1u10jqec1b","S15E6":"https://vcloud.zip/de3nulseroszoez","S15E7":"https://vcloud.zip/9-yn-wjkvm4jv74","S15E8":"https://vcloud.zip/qyawdelbu0xmntm","S15E9":"https://vcloud.zip/5oqdm25qtv5o91v","S15E10":"https://vcloud.zip/mlvllouu88t_uot","S15E11":"https://vcloud.zip/ljcagk5ug5iqwck","S15E12":"https://vcloud.zip/tsx7u11wtfunb1m","S15E13":"https://vcloud.zip/ehlhpiqfl0jjlqh","S15E14":"https://vcloud.zip/lkisrlzmfk1ksfk","S15E15":"https://vcloud.zip/6v0awl-oc4pkjj-","S15E16":"https://vcloud.zip/f2f51przp5j50zz","S15E17":"https://vcloud.zip/88ixueccgfqgloc","S15E18":"https://vcloud.zip/c-14_174k4g7mga","S15E19":"https://vcloud.zip/takld21ttup5wt5","S15E20":"https://vcloud.zip/jxqx-g1n8a25q1s","S15E21":"https://vcloud.zip/unyhyfnnykznufz",
@@ -16,19 +86,19 @@ const movies = [
 "cast":"Junko Takeuchi,Noriaki Sugiyama,Chie Nakamura,Kazuhiko Inoue,Showtaro Morikubo"
 },
 {
-"title":"Avatar: Fire and Ash [2025] HDTS [Hindi-English] | Full Movie",
-"im":"gDVgC9jd917NdAcqBdRRDUYi4Tq",
-"bgi":"iN41Ccw4DctL8npfmYg1j5Tr1eb",
-"480p":"https://vcloud.zip/o2o1fwoi9uuutee",
-"720p":"https://vcloud.zip/mfxf4ebrfqlr1ot",
-"1080p":"https://vcloud.zip/fwje_xlg1jigggw",
+"title":"Zootopia 2 [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"oJ7g2CifqpStmoYQyaLQgEU32qO",
+"bgi":"7nfpkR9XsQ1lBNCXSSHxGV7Dkxe",
+"480p":"https://vcloud.zip/bb4fz40ep16fzje",
+"720p":"https://vcloud.zip/v9ddhvyt339spth",
+"1080p":"https://vcloud.zip/qrr_ss52yhrkymp",
 "year":"2025",
-"duration":"3h 18m",
-"rating":"7.3",
-"genre":"Science Fiction,Adventure,Fantasy",
-"description":"In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
+"duration":"1h 47m",
+"rating":"7.6",
+"genre":"Animation,Comedy,Adventure,Family,Mystery",
+"description":"After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
 "type":"movie",
-"cast":"Sam Worthington,Zoe Saldaña,Sigourney Weaver,Stephen Lang,Oona Chaplin"
+"cast":"Ginnifer Goodwin,Jason Bateman,Ke Huy Quan,Fortune Feimster,Andy Samberg"
 },
 {
 "title":"Dhurandhar [2025] V2 HQ-HDTC [Hindi LiNE] | Full Movie",

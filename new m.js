@@ -2,7 +2,19 @@
 const movies = [
 
 
-
+{
+"title":"Naruto Shippūden [Season 15] [Episode 20] WEB-DL [Hindi-English-Japanese] | All Episodes",
+"im":"1lxahYOBIMpKqoKoB11qtmaBVP1",
+"bgi":"nAeS7F2B22XQOLh5HVNXn8G3ZRk",
+"S15E1":"https://vcloud.zip/9ydlprpyscrnuol","S15E2":"https://vcloud.zip/y22fkfxdy-_lw9f","S15E3":"https://vcloud.zip/x6ydlxn90l97l7u","S15E4":"https://vcloud.zip/gboz02owoq_fhhg","S15E5":"https://vcloud.zip/nweyl1u10jqec1b","S15E6":"https://vcloud.zip/de3nulseroszoez","S15E7":"https://vcloud.zip/9-yn-wjkvm4jv74","S15E8":"https://vcloud.zip/qyawdelbu0xmntm","S15E9":"https://vcloud.zip/5oqdm25qtv5o91v","S15E10":"https://vcloud.zip/mlvllouu88t_uot","S15E11":"https://vcloud.zip/ljcagk5ug5iqwck","S15E12":"https://vcloud.zip/tsx7u11wtfunb1m","S15E13":"https://vcloud.zip/ehlhpiqfl0jjlqh","S15E14":"https://vcloud.zip/lkisrlzmfk1ksfk","S15E15":"https://vcloud.zip/6v0awl-oc4pkjj-","S15E16":"https://vcloud.zip/f2f51przp5j50zz","S15E17":"https://vcloud.zip/88ixueccgfqgloc","S15E18":"https://vcloud.zip/c-14_174k4g7mga","S15E19":"https://vcloud.zip/takld21ttup5wt5","S15E20":"https://vcloud.zip/jxqx-g1n8a25q1s","S15E21":"https://vcloud.zip/unyhyfnnykznufz",
+"year":"2007",
+"duration":"24m per episode",
+"rating":"8.5",
+"genre":"Animation,Action & Adventure,Sci-Fi & Fantasy",
+"description":"After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work. It will not be easy though as ...",
+"type":"series",
+"cast":"Junko Takeuchi,Noriaki Sugiyama,Chie Nakamura,Kazuhiko Inoue,Showtaro Morikubo"
+},
 {
 "title":"Avatar: Fire and Ash [2025] HDTS [Hindi-English] | Full Movie",
 "im":"gDVgC9jd917NdAcqBdRRDUYi4Tq",

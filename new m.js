@@ -2,7 +2,19 @@
 const movies = [
 
 
-
+{
+"title":"Stranger Things [Season 5] [Episode 8] WEB-DL [Hindi-English] | All Episodes",
+"im":"uOOtwVbSr4QDjAGIifLDwpb2Pdl",
+"bgi":"8zbAoryWbtH0DKdev8abFAjdufy",
+"S5E1":"https://vcloud.zip/glgw-3hdvu0xedf","S5E2":"https://vcloud.zip/uzkleqiq1fwuqkc","S5E3":"https://vcloud.zip/tv_g2txbttt34gv","S5E4":"https://vcloud.zip/oggqju2vv00gfjo","S5E5":"https://vcloud.zip/ddcii6i3gobc6do","S5E6":"https://vcloud.zip/vhmg3zkfvfhzhvk","S5E7":"https://vcloud.zip/i9mu_vmprfhknm1","S5E8":"https://vcloud.zip/_u7uj7sm9_19uin",
+"year":"2016",
+"duration":"1h per episode",
+"rating":"8.6",
+"genre":"Sci-Fi & Fantasy,Mystery,Action & Adventure",
+"description":"When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+"type":"series",
+"cast":"Millie Bobby Brown,Winona Ryder,David Harbour,Finn Wolfhard,Gaten Matarazzo"
+},
 {
 "title":"Avatar: Fire and Ash [2025] HDRIP [Hindi-English] | Full Movie",
 "im":"gDVgC9jd917NdAcqBdRRDUYi4Tq",
@@ -86,10 +98,10 @@ const movies = [
 "cast":"Natsuki Hanae,Risa Taneda,Ayane Sakura,Ryota Osaka,Shizuka Ishigami"
 },
 {
-"title":"Naruto Shippūden [Season 15] [Episode 21] WEB-DL [Hindi-English-Japanese] | All Episodes",
+"title":"Naruto Shippūden [Season 15] [Episode 27] WEB-DL [Hindi-English-Japanese] | All Episodes",
 "im":"1lxahYOBIMpKqoKoB11qtmaBVP1",
 "bgi":"nAeS7F2B22XQOLh5HVNXn8G3ZRk",
-"S15E1":"https://vcloud.zip/9ydlprpyscrnuol","S15E2":"https://vcloud.zip/y22fkfxdy-_lw9f","S15E3":"https://vcloud.zip/x6ydlxn90l97l7u","S15E4":"https://vcloud.zip/gboz02owoq_fhhg","S15E5":"https://vcloud.zip/nweyl1u10jqec1b","S15E6":"https://vcloud.zip/de3nulseroszoez","S15E7":"https://vcloud.zip/9-yn-wjkvm4jv74","S15E8":"https://vcloud.zip/qyawdelbu0xmntm","S15E9":"https://vcloud.zip/5oqdm25qtv5o91v","S15E10":"https://vcloud.zip/mlvllouu88t_uot","S15E11":"https://vcloud.zip/ljcagk5ug5iqwck","S15E12":"https://vcloud.zip/tsx7u11wtfunb1m","S15E13":"https://vcloud.zip/ehlhpiqfl0jjlqh","S15E14":"https://vcloud.zip/lkisrlzmfk1ksfk","S15E15":"https://vcloud.zip/6v0awl-oc4pkjj-","S15E16":"https://vcloud.zip/f2f51przp5j50zz","S15E17":"https://vcloud.zip/88ixueccgfqgloc","S15E18":"https://vcloud.zip/c-14_174k4g7mga","S15E19":"https://vcloud.zip/takld21ttup5wt5","S15E20":"https://vcloud.zip/jxqx-g1n8a25q1s","S15E21":"https://vcloud.zip/unyhyfnnykznufz",
+"S15E1":"https://vcloud.zip/9ydlprpyscrnuol","S15E2":"https://vcloud.zip/y22fkfxdy-_lw9f","S15E3":"https://vcloud.zip/x6ydlxn90l97l7u","S15E4":"https://vcloud.zip/gboz02owoq_fhhg","S15E5":"https://vcloud.zip/nweyl1u10jqec1b","S15E6":"https://vcloud.zip/de3nulseroszoez","S15E7":"https://vcloud.zip/9-yn-wjkvm4jv74","S15E8":"https://vcloud.zip/qyawdelbu0xmntm","S15E9":"https://vcloud.zip/5oqdm25qtv5o91v","S15E10":"https://vcloud.zip/mlvllouu88t_uot","S15E11":"https://vcloud.zip/ljcagk5ug5iqwck","S15E12":"https://vcloud.zip/tsx7u11wtfunb1m","S15E13":"https://vcloud.zip/ehlhpiqfl0jjlqh","S15E14":"https://vcloud.zip/lkisrlzmfk1ksfk","S15E15":"https://vcloud.zip/6v0awl-oc4pkjj-","S15E16":"https://vcloud.zip/f2f51przp5j50zz","S15E17":"https://vcloud.zip/88ixueccgfqgloc","S15E18":"https://vcloud.zip/c-14_174k4g7mga","S15E19":"https://vcloud.zip/takld21ttup5wt5","S15E20":"https://vcloud.zip/jxqx-g1n8a25q1s","S15E21":"https://vcloud.zip/unyhyfnnykznufz","S15E22":"https://vcloud.zip/rs7_t1hidowvvdl","S15E23":"https://vcloud.zip/on7ncricrngir7x","S15E24":"https://vcloud.zip/0b1afh1k1ac8y0k","S15E25":"https://vcloud.zip/slsf_1ysgsc1sxs","S15E26":"https://vcloud.zip/my2omiz1qkyimbl","S15E27":"https://vcloud.zip/ckjljyjkpvkdkxd",
 "year":"2007",
 "duration":"24m per episode",
 "rating":"8.5",

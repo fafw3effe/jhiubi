@@ -15,6 +15,19 @@ const movies = [
 "cast":"Junko Takeuchi,Noriaki Sugiyama,Chie Nakamura,Kazuhiko Inoue,Showtaro Morikubo"
 },
 {
+"title":"SPY x FAMILY [Season 3] WEB-DL [Hindi-English] | All Episodes",
+"im":"gHZqglFWJTFwx6rnTq4vkPRnuxu",
+"bgi":"lysUnU6V0VfcthDbviuVlIqgHOR",
+"S3E1":"https://vcloud.zip/zbyvpzr6y2yz1vn","S3E2":"https://vcloud.zip/cs6gxnc0y1r0bsl","S3E3":"https://vcloud.zip/yyey_k8ffz8ogsc","S3E4":"https://vcloud.zip/f2wm5xy5afdb675","S3E5":"https://vcloud.zip/jlwdwkqc5ape_ej","S3E6":"https://vcloud.zip/1ou2nfoxfuxfbfq",
+"year":"2022",
+"duration":"21 min per episode",
+"rating":"8.6",
+"genre":"Animation,Comedy,Action & Adventure",
+"description":"World peace is at stake and secret agent Twilight must undergo his most difficult mission yet—pretend to be a family man. Posing as a loving husband...",
+"type":"series",
+"cast":"Takuya Eguchi,Atsumi Tanezaki,Saori Hayami,Kenichirou Matsuda,Hana Sato"
+},
+{
 "title":"Sentenced to Be a Hero [Season 1] [Episode 1] WEB-DL [Hindi-English] | All Episodes",
 "im":"k8bh5mvHDx3czHSF56v9lRyulLC",
 "bgi":"k8uBEraJWZf9o7oJbaVHrECwvjC",
@@ -4907,19 +4920,6 @@ const movies = [
 "description":"While under the guise of taking his family on a weekend winter getaway, Loid's attempt to make progress on his current mission Operation Strix pr...",
 "type":"movie",
 "cast":"Takuya Eguchi,Atsumi Tanezaki,Saori Hayami,Kenichirou Matsuda,Tomoya Nakamura"
-},
-{
-"title":"SPY x FAMILY [Season 1-2] WEB-DL [Hindi-English] | All Episodes",
-"im":"gHZqglFWJTFwx6rnTq4vkPRnuxu",
-"bgi":"lysUnU6V0VfcthDbviuVlIqgHOR",
-"Server 1":"https://s.pptons.com/2025/05/spy-x-family.html",
-"year":"2022",
-"duration":"21 min per episode",
-"rating":"8.6",
-"genre":"Animation,Comedy,Action & Adventure",
-"description":"World peace is at stake and secret agent Twilight must undergo his most difficult mission yet—pretend to be a family man. Posing as a loving husband...",
-"type":"series",
-"cast":"Takuya Eguchi,Atsumi Tanezaki,Saori Hayami,Kenichirou Matsuda,Hana Sato"
 },
 {
 "title":"Showing Up [2023] WEB-DL [Hindi-English] | Full Movie",

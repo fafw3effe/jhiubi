@@ -1,7 +1,45 @@
 // Movies data
 const movies = [
 
-
+{
+"title":"Naruto Shippūden [Season 16] [Episode 7] WEB-DL [Hindi-English-Japanese] | All Episodes",
+"im":"wi73sU6BjJAgUI8C5qIXgb3S6Nz",
+"bgi":"nAeS7F2B22XQOLh5HVNXn8G3ZRk",
+"S16E1":"https://vcloud.zip/shhpeifxeytk8p8","S16E2":"https://vcloud.zip/sw8urfpfs1csez9","S16E3":"https://vcloud.zip/u2acdhf1hnbiibg","S16E4":"https://vcloud.zip/sx5ucqo9xxxqu1t","S16E5":"https://vcloud.zip/5jekajjahdehqx7","S16E6":"https://vcloud.zip/aix7t2raiapcvma","S16E7":"https://vcloud.zip/o2px4x580o1souj",
+"year":"2007",
+"duration":"24m per episode",
+"rating":"8.5",
+"genre":"Animation,Action & Adventure,Sci-Fi & Fantasy",
+"description":"After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work. It will not be easy though as ...",
+"type":"series",
+"cast":"Junko Takeuchi,Noriaki Sugiyama,Chie Nakamura,Kazuhiko Inoue,Showtaro Morikubo"
+},
+{
+"title":"Hellraiser [2022] WEB-DL [Hindi-English] | Full Movie",
+"im":"f9ZAIUxTTk23vo1BC9Ur1Rx5c2E",
+"bgi":"3r3tZgKTw1554hcFoUfydLHE38w",
+"720p":"https://vcloud.zip/q4j9zj8zwooczoq",
+"year":"2022",
+"duration":"2h 1m",
+"rating":"6.2",
+"genre":"Horror,Thriller",
+"description":"A young woman struggling with addiction comes into possession of an ancient puzzle box, unaware that its purpose is to summon the Cenobites, a group of sadistic supernatural beings from another dimension.",
+"type":"movie",
+"cast":"Odessa A&#39;zion,Jamie Clayton,Adam Faison,Drew Starkey,Brandon Flynn"
+},
+{
+"title":"The Fix [2024] WEB-DL [Hindi-English] | Full Movie",
+"im":"vY7bY2xZymoIOti4WM5K29OMzCS",
+"bgi":"4PXjYqkuBabnSAOaacAERf2D9zE",
+"720p":"https://vcloud.zip/gjqhk1ttl4h1a4e",
+"year":"2024",
+"duration":"1h 38m",
+"rating":"5.5",
+"genre":"Science Fiction,Action,Horror",
+"description":"When a troubled model takes a new drug at a party, she suffers a shocking transformation. Pursued by authorities and a dangerous gang, she hunts for a fix to reverse these effects, only to discover her mutations could save the human race.",
+"type":"movie",
+"cast":"Grace Van Dien,Terri Lane,Daniel Sharman,Nicole Fortuin,Caleb Payne"
+},
 {
 "title":"Stranger Things [Season 5] [Episode 8] WEB-DL [Hindi-English] | All Episodes",
 "im":"uOOtwVbSr4QDjAGIifLDwpb2Pdl",

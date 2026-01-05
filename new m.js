@@ -15,7 +15,7 @@ const movies = [
 "cast":"Junko Takeuchi,Noriaki Sugiyama,Chie Nakamura,Kazuhiko Inoue,Showtaro Morikubo"
 },
 {
-"title":"SPY x FAMILY [Season 3] WEB-DL [Hindi-English] | All Episodes",
+"title":"SPY x FAMILY [Season 3] [Episode 6] WEB-DL [Hindi-English] | All Episodes",
 "im":"gHZqglFWJTFwx6rnTq4vkPRnuxu",
 "bgi":"lysUnU6V0VfcthDbviuVlIqgHOR",
 "S3E1":"https://vcloud.zip/zbyvpzr6y2yz1vn","S3E2":"https://vcloud.zip/cs6gxnc0y1r0bsl","S3E3":"https://vcloud.zip/yyey_k8ffz8ogsc","S3E4":"https://vcloud.zip/f2wm5xy5afdb675","S3E5":"https://vcloud.zip/jlwdwkqc5ape_ej","S3E6":"https://vcloud.zip/1ou2nfoxfuxfbfq",

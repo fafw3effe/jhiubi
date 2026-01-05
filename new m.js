@@ -15,6 +15,32 @@ const movies = [
 "cast":"Junko Takeuchi,Noriaki Sugiyama,Chie Nakamura,Kazuhiko Inoue,Showtaro Morikubo"
 },
 {
+"title":"Sentenced to Be a Hero [Season 1] [Episode 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"k8bh5mvHDx3czHSF56v9lRyulLC",
+"bgi":"k8uBEraJWZf9o7oJbaVHrECwvjC",
+"S1E1":"https://vcloud.zip/z1xzh_iewqg_zoc",
+"year":"2026",
+"duration":"1h per episode",
+"rating":"9.3",
+"genre":"Animation,Action & Adventure,Sci-Fi & Fantasy,Comedy",
+"description":"In a world where heroism is a punishment, Xylo Forbartz, a condemned goddess killer, battles endless hordes of monstrous abominations as part of Penal Hero Unit 9004. Death is no escape, only a cycle of resurrection and relentless combat. But when Xylo encounters a mysterious new goddess, their unlikely alliance sparks a rebellion that could shatter the chains of eternal punishment.",
+"type":"series",
+"cast":"Yohei Azakami,Mayu Iizuka,Shizuka Ishigami,Shun Horie,Shunichi Toki"
+},
+{
+"title":"Surely Tomorrow [Season 1] [Episode 10] WEB-DL [Hindi-Korean] | All Episodes",
+"im":"k9xPcIsxXbc1Xuf45K0FU8yM2m5",
+"bgi":"2sthhg2okBF91wlwxvFaM4eXiTg",
+"S1E1":"https://vcloud.zip/y0n8ynqpw61hu8n","S1E2":"https://vcloud.zip/a9gjzzz1wkwejl1","S1E3":"https://vcloud.zip/33x880roe3hcz3d","S1E4":"https://vcloud.zip/rt1m2xmyk8thuli","S1E5":"https://vcloud.zip/1scq75ludqhsqc5","S1E6":"https://vcloud.zip/-dl33u-dll0oa4k","S1E7":"https://vcloud.zip/csvspob8vsmqd3n","S1E8":"https://vcloud.zip/nftta1t3ss12t82","S1E9":"https://vcloud.zip/0d-cmloo-4mjw3d","S1E10":"https://vcloud.zip/ph1e7k7gprmy2h3",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"8.1",
+"genre":"Comedy,Drama",
+"description":"In their twenties, Lee Kyeong-do and Seo Ji-woo part ways after two passionate relationships. A decade later, they meet again as a reporter who covers an adultery scandal and the wife of the man at the center of that scandal. Reuniting in their late thirties, their youth has passed, but their love remains vivid. Kyeong-do now strives to prove to her and to himself that he still loves her.",
+"type":"series",
+"cast":"Park Seo-jun,Won Ji-an,Lee El,Lee Zoo-young,Kang Ki-doong"
+},
+{
 "title":"Hellraiser [2022] WEB-DL [Hindi-English] | Full Movie",
 "im":"f9ZAIUxTTk23vo1BC9Ur1Rx5c2E",
 "bgi":"3r3tZgKTw1554hcFoUfydLHE38w",

@@ -4,6 +4,44 @@ const movies = [
 
 
 {
+"title":"Idol I [Season 1] WEB-DL [Korean With English Substittle] | All Episodes",
+"im":"pKJLNbUh4uO2jwGsMfP4B37pamS",
+"bgi":"ilTl0g138RAgM1TEeCaPKl1FxSh",
+"S1E1":"https://vcloud.zip/mzxwhucss3r7nmr","S1E2":"https://vcloud.zip/lqz-i4qyro1vqy1","S1E3":"https://vcloud.zip/spy0aszu0fz3zf5","S1E4":"https://vcloud.zip/1ekq11q71wyeqlz","S1E5":"https://vcloud.zip/w1lauasv939gh51","year":"2025",
+"duration":"1h per episode",
+"rating":"6.7",
+"genre":"Comedy,Mystery,Drama",
+"description":"Maeng Se-na, a top star criminal lawyer who has been a fangirl for fifteen years, tries to prove her favorite idol’s innocence, who is suspected of murder.",
+"type":"series",
+"cast":"Sooyoung Choi,Kim Jae-young,Choi Hee-jin,Kim Hyun-jin,Jeong Jae-kwang"
+},
+{
+"title":"Predator: Badlands [2025] WEB-DL [English] | Full Movie",
+"im":"pHpq9yNUIo6aDoCXEBzjSolywgz",
+"bgi":"ebyxeBh56QNXxSJgTnmz7fXAlwk",
+"720p":"https://vcloud.zip/a66tqq36lxatuzq",
+"year":"2025",
+"duration":"1h 47m",
+"rating":"7.4",
+"genre":"Action,Science Fiction,Adventure",
+"description":"Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
+"type":"movie",
+"cast":"Elle Fanning,Dimitrius Schuster-Koloamatangi,Ravi Narayan,Michael Homick,Stefan Grube"
+},
+{
+"title":"Predator: Badlands [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"pHpq9yNUIo6aDoCXEBzjSolywgz",
+"bgi":"ebyxeBh56QNXxSJgTnmz7fXAlwk",
+"720p":"https://vcloud.zip/p-jcn3fppwc-nw3",
+"year":"2025",
+"duration":"1h 47m",
+"rating":"7.4",
+"genre":"Action,Science Fiction,Adventure",
+"description":"Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
+"type":"movie",
+"cast":"Elle Fanning,Dimitrius Schuster-Koloamatangi,Ravi Narayan,Michael Homick,Stefan Grube"
+},
+{
 "title":"Lost in Space [Season 1] WEB-DL [Hindi-English] | All Episodes",
 "im":"y8NJnTXzb4rio9uvVYFVrXEMofU",
 "bgi":"tJAGIHi7tzyVwOhfuoLkJPubj3b",

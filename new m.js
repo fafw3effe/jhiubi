@@ -3,7 +3,19 @@ const movies = [
 
 
 
-
+{
+"title":"Lost in Space [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"y8NJnTXzb4rio9uvVYFVrXEMofU",
+"bgi":"tJAGIHi7tzyVwOhfuoLkJPubj3b",
+"S1E1":"https://vcloud.zip/bjvb2gnoxlpgpfa","S1E2":"https://vcloud.zip/gcwf5hs4hkcheh4","S1E3":"https://vcloud.zip/nfpandmeyl4smpf","S1E4":"https://vcloud.zip/1tkux1q1mzt1zab","S1E5":"https://vcloud.zip/wnnajjjwf81njdn","S1E6":"https://vcloud.zip/ju4pxjp1fxpcbm4","S1E7":"https://vcloud.zip/qqsvhiqzsqhufii","S1E8":"https://vcloud.zip/mo6bwkpaoj0jt7w",
+"year":"2018",
+"duration":"1h per episode",
+"rating":"7.5",
+"genre":"Sci-Fi & Fantasy,Action & Adventure,Drama",
+"description":"After crash-landing on an alien planet, the Robinson family fights against all odds to survive and escape. But they're surrounded by hidden dangers.",
+"type":"series",
+"cast":"Toby Stephens,Molly Parker,Maxwell Jenkins,Taylor Russell,Mina Sundwall"
+},
 {
 "title":"Spring Fever [Season 1] WEB-DL [Hindi-English] | All Episodes",
 "im":"50e9qtv8rKmcayAQSgB9P9XELpQ",

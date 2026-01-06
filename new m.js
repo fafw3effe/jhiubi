@@ -2,7 +2,19 @@
 const movies = [
 
 
-
+{
+"title":"Berlin [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"69YuvoiWTtK6oyYH2Jl4Q6SgZ59",
+"bgi":"wJxZLiPbXrU601c6e9A6kYLejso",
+"S1E1":"https://vcloud.zip/xlsxq9lsfuvxs6p","S1E2":"https://vcloud.zip/rgt9ujcvg7sxwgj","S1E3":"https://vcloud.zip/8asz1qv0ykxh1hy","S1E4":"https://vcloud.zip/8ufhdhbbcpmrosy","S1E5":"https://vcloud.zip/sc1heua9u8gj51i","S1E6":"https://vcloud.zip/u1x0xhioxfnef_g","S1E7":"https://vcloud.zip/zqfx1xk1mmxucep","S1E8":"https://vcloud.zip/16i9h6ogj6a43rs",
+"year":"2023",
+"duration":"1h per episode",
+"rating":"7.6",
+"genre":"Drama,Action & Adventure,Crime",
+"description":"During his glory days, Berlin and a gang assembled in Paris for one of his greatest plans ever: stealing 44 million euros' worth of jewels in one night.",
+"type":"series",
+"cast":"Pedro Alonso,Samantha Siqueiros,Tristán Ulloa,Michelle Jenner,Joel Sánchez"
+},
 {
 "title":"Idol I [Season 1] WEB-DL [Korean With English Substittle] | All Episodes",
 "im":"pKJLNbUh4uO2jwGsMfP4B37pamS",

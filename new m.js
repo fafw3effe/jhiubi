@@ -1,6 +1,22 @@
 // Movies data
 const movies = [
 
+
+
+
+{
+"title":"Spring Fever [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"50e9qtv8rKmcayAQSgB9P9XELpQ",
+"bgi":"tQLTOGJfWRehgkWuQcxI3Egs8iM",
+"S1E1":"https://vcloud.zip/0_gzw1111gnpwwg",
+"year":"2026",
+"duration":"1h per episode",
+"rating":"8.0",
+"genre":"Comedy,Drama",
+"description":"After moving to a quiet rural town to heal from past heartbreak, a withdrawn teacher slowly rediscovers warmth and joy through her unexpected connection with a rough-around-the-edges but kindhearted local man.",
+"type":"series",
+"cast":"Ahn Bo-hyun,Lee Ju-bin,Cha Seo-won,Cho Jun-young,Lee Jae-in"
+},
 {
 "title":"Naruto Shippūden [Season 16] [Episode 7] WEB-DL [Hindi-English-Japanese] | All Episodes",
 "im":"wi73sU6BjJAgUI8C5qIXgb3S6Nz",

@@ -3,6 +3,32 @@ const movies = [
 
 
 {
+"title":"HIS & HERS [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"cDSXLVQLkCSBIpBx3UW04TsfZ5c",
+"bgi":"n4hJLZmBG8kZccNn7bNgBDsVQ6a",
+"S1E1":"https://vcloud.zip/bnn36eb3fmqabrh","S1E2":"https://vcloud.zip/1k3se8111u_ur1c","S1E3":"https://vcloud.zip/uuy6yuzq6usx6ir","S1E4":"https://vcloud.zip/s8psz8iibsfkafb","S1E5":"https://vcloud.zip/mydguxah1xlqh71","S1E6":"https://vcloud.zip/ez1jjziztcpicqt",
+"year":"2026",
+"duration":"1h per episode",
+"rating":"4.0",
+"genre":"Drama,Mystery,Crime",
+"description":"Reclusive former news anchor Anna Andrews becomes obsessed with a murder case in her hometown. Her estranged husband, Detective Jack Harper, suspicious of her involvement, puts Anna in the crosshairs of his investigation.",
+"type":"series",
+"cast":"Tessa Thompson,Jon Bernthal,Pablo Schreiber,Crystal R. Fox,Sunita Mani"
+},
+{
+"title":"Naruto Shippūden [Season 16] [Episode 12] WEB-DL [Hindi-English-Japanese] | All Episodes",
+"im":"wi73sU6BjJAgUI8C5qIXgb3S6Nz",
+"bgi":"nAeS7F2B22XQOLh5HVNXn8G3ZRk",
+"S16E1":"https://vcloud.zip/shhpeifxeytk8p8","S16E2":"https://vcloud.zip/sw8urfpfs1csez9","S16E3":"https://vcloud.zip/u2acdhf1hnbiibg","S16E4":"https://vcloud.zip/sx5ucqo9xxxqu1t","S16E5":"https://vcloud.zip/5jekajjahdehqx7","S16E6":"https://vcloud.zip/aix7t2raiapcvma","S16E7":"https://vcloud.zip/o2px4x580o1souj","S16E8":"https://vcloud.zip/huwg3ahzdxexvd1","S16E9":"https://vcloud.zip/nroribcffrxhwfq","S16E10":"https://vcloud.zip/snpk1qjwggeaw1w","S16E11":"https://vcloud.zip/yay2qll2qll1nmb","S16E12":"https://vcloud.zip/tmv8njc7-mvrvfv",
+"year":"2007",
+"duration":"24m per episode",
+"rating":"8.5",
+"genre":"Animation,Action & Adventure,Sci-Fi & Fantasy",
+"description":"After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work. It will not be easy though as ...",
+"type":"series",
+"cast":"Junko Takeuchi,Noriaki Sugiyama,Chie Nakamura,Kazuhiko Inoue,Showtaro Morikubo"
+},
+{
 "title":"Berlin [Season 1] WEB-DL [Hindi-English] | All Episodes",
 "im":"69YuvoiWTtK6oyYH2Jl4Q6SgZ59",
 "bgi":"wJxZLiPbXrU601c6e9A6kYLejso",
@@ -78,19 +104,6 @@ const movies = [
 "description":"After moving to a quiet rural town to heal from past heartbreak, a withdrawn teacher slowly rediscovers warmth and joy through her unexpected connection with a rough-around-the-edges but kindhearted local man.",
 "type":"series",
 "cast":"Ahn Bo-hyun,Lee Ju-bin,Cha Seo-won,Cho Jun-young,Lee Jae-in"
-},
-{
-"title":"Naruto Shippūden [Season 16] [Episode 7] WEB-DL [Hindi-English-Japanese] | All Episodes",
-"im":"wi73sU6BjJAgUI8C5qIXgb3S6Nz",
-"bgi":"nAeS7F2B22XQOLh5HVNXn8G3ZRk",
-"S16E1":"https://vcloud.zip/shhpeifxeytk8p8","S16E2":"https://vcloud.zip/sw8urfpfs1csez9","S16E3":"https://vcloud.zip/u2acdhf1hnbiibg","S16E4":"https://vcloud.zip/sx5ucqo9xxxqu1t","S16E5":"https://vcloud.zip/5jekajjahdehqx7","S16E6":"https://vcloud.zip/aix7t2raiapcvma","S16E7":"https://vcloud.zip/o2px4x580o1souj",
-"year":"2007",
-"duration":"24m per episode",
-"rating":"8.5",
-"genre":"Animation,Action & Adventure,Sci-Fi & Fantasy",
-"description":"After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work. It will not be easy though as ...",
-"type":"series",
-"cast":"Junko Takeuchi,Noriaki Sugiyama,Chie Nakamura,Kazuhiko Inoue,Showtaro Morikubo"
 },
 {
 "title":"SPY x FAMILY [Season 3] [Episode 6] WEB-DL [Hindi-English] | All Episodes",

@@ -1,7 +1,19 @@
 // Movies data
 const movies = [
 
-
+{
+"title":"The Thing with Feathers [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"j3kM0tMW7EQaOrit0JW9NvoPPrp",
+"bgi":"uIXIQUDXUxvhjfKvpUnXTiVfvuB",
+"720p":"https://vcloud.zip/oucz6pcip6khs-y",
+"year":"2025",
+"duration":"1h 44m",
+"rating":"7.0",
+"genre":"Drama",
+"description":"After a tragic loss, a grieving father tries to raise his young sons whilst dealing with an unlikely, unpredictable, and uninvited houseguest.",
+"type":"movie",
+"cast":"Benedict Cumberbatch,David Thewlis,Sam Spruell,Vinette Robinson,Leo Bill"
+},
 {
 "title":"HIS & HERS [Season 1] WEB-DL [Hindi-English] | All Episodes",
 "im":"cDSXLVQLkCSBIpBx3UW04TsfZ5c",

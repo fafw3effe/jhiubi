@@ -1,6 +1,22 @@
 // Movies data
 const movies = [
 
+
+{
+"title":"The Rajasaab [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"nvK6gYa4diCnQkDVN42uoYXPrdT",
+"bgi":"kCwmLYy9ZMto1eMH8BI9KcVVIH2",
+"480p":"https://vcloud.zip/1_d_znlp8szb8rh",
+"780p":"https://vcloud.zip/eaqaroez9k1zgdt",
+"1080p":"https://vcloud.zip/q1pomxq-1ty-qio",
+"year":"2026",
+"duration":"3h 9m",
+"rating":"4.8",
+"genre":"Comedy,Horror,Fantasy",
+"description":"A young heir embraces both his royal heritage and rebellious spirit as he rises to power, establishing unprecedented rules during his reign as Raja Saab.",
+"type":"movie",
+"cast":"Prabhas,Sanjay Dutt,Nidhhi Agerwal,Malavika Mohanan,Riddhi Kumar"
+},
 {
 "title":"The Thing with Feathers [2025] WEB-DL [Hindi-English] | Full Movie",
 "im":"j3kM0tMW7EQaOrit0JW9NvoPPrp",

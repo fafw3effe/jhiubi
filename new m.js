@@ -3,6 +3,34 @@ const movies = [
 
 
 {
+"title":"Nikita Roy [2025] WEB-DL [Hindi] | Full Movie",
+"im":"aFJQSWies9Qw2NwBORneBCgFlG3",
+"bgi":"d7Z7M83ZbYYN8qb1zltztAT0Tq1",
+"720p":"https://hubcloud.foo/drive/wjyyckxc2me2ykx",
+"year":"2025",
+"duration":"1h 52m",
+"rating":"6.1",
+"genre":"Mystery,Horror",
+"description":"A woman's scepticism about the supernatural is challenged when she looks into the mysterious death of her brother and its connection to a religious cult.",
+"type":"movie",
+"cast":"Sonakshi Sinha,Paresh Rawal,Suhail Nayyar,Arjun Rampal,Kallirroi Tziafeta"
+},
+{
+"title":"Shambhala [2025] HDTC [Hindi Clean] | Full Movie",
+"im":"qFkdN02Ypxxflh92iySnEbTl7NH",
+"bgi":"hI4iQ6UzB8AsoO0ERHrcegDhXd4",
+"480p":"https://hubcloud.foo/drive/6j6cdecmm8ch8ho",
+"720p":"https://hubcloud.foo/drive/12st1on7hd1n32c",
+"1080p":"https://hubcloud.foo/drive/12st1on7hd1n32c",
+"year":"2025",
+"duration":"2h 23m",
+"rating":"7.0",
+"genre":"Action,Horror,Thriller",
+"description":"When a meteor crashes into the highly superstitious village of Shambhala in the 1980s, strange supernatural events unfold, forcing an atheist scientist to face an ancient horror-one that science can't explain or escape.",
+"type":"movie",
+"cast":"Aadi Saikumar,Archana Iyer,Swasika,Madhunandan,Laxman Meesala"
+},
+{
 "title":"The Rajasaab [2026] PreDVD [Hindi] | Full Movie",
 "im":"nvK6gYa4diCnQkDVN42uoYXPrdT",
 "bgi":"kCwmLYy9ZMto1eMH8BI9KcVVIH2",
@@ -80,19 +108,6 @@ const movies = [
 "description":"Maeng Se-na, a top star criminal lawyer who has been a fangirl for fifteen years, tries to prove her favorite idol’s innocence, who is suspected of murder.",
 "type":"series",
 "cast":"Sooyoung Choi,Kim Jae-young,Choi Hee-jin,Kim Hyun-jin,Jeong Jae-kwang"
-},
-{
-"title":"Predator: Badlands [2025] WEB-DL [English] | Full Movie",
-"im":"pHpq9yNUIo6aDoCXEBzjSolywgz",
-"bgi":"ebyxeBh56QNXxSJgTnmz7fXAlwk",
-"720p":"https://vcloud.zip/a66tqq36lxatuzq",
-"year":"2025",
-"duration":"1h 47m",
-"rating":"7.4",
-"genre":"Action,Science Fiction,Adventure",
-"description":"Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
-"type":"movie",
-"cast":"Elle Fanning,Dimitrius Schuster-Koloamatangi,Ravi Narayan,Michael Homick,Stefan Grube"
 },
 {
 "title":"Predator: Badlands [2025] WEB-DL [Hindi-English] | Full Movie",

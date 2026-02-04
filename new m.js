@@ -1,7 +1,19 @@
 // Movies data
 const movies = [
 
-
+{
+"title":"Thank You Dear [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"kgFwTGoEAUJEwSQTJ2cMgLflPta",
+"bgi":"bcXT0JIsxsHkCwa9ikytkzuKQnV",
+"720p":"https://hubcloud.foo/drive/8iaa1yjpa7fq17f",
+"year":"2025",
+"duration":"2h 1m",
+"rating":"6.1",
+"genre":"Thriller,Romance",
+"description":"Satyam, an aspiring director, and Priya, a strong-willed real estate agent, starts building a new life together amidst love and conflict. But their world is profoundly shaken by a tragic incident, forcing them into unexpected responsibility.",
+"type":"movie",
+"cast":"Dhanush Raghumudri,Hebah Patel,Ravi Prakash,Rekha Nirosha,Veera Shankar"
+},
 {
 "title":"Nikita Roy [2025] WEB-DL [Hindi] | Full Movie",
 "im":"aFJQSWies9Qw2NwBORneBCgFlG3",
@@ -10898,4 +10910,5 @@ const movies = [
 "quality":"web-dl",
 "cast":"Allu Arjun,Anuradha Mehta,Siva Balaji,Subbaraju,Sunil Varma"
 }
+
  ];

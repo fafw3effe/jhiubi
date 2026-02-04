@@ -7,7 +7,7 @@ const movies = [
 "bgi":"6zaQ1ffMOXjBdeg0gKd6OxUvT4C",
 "Sever 1":"https://hubdrive.space/file/1984248227",
 "year":"2026",
-"duration":"",
+"duration":"2h 1m",
 "rating":"7.5",
 "genre":"Romance,Comedy",
 "description":"When TV producer Leah Caldwell aims to become the first woman running New York's top morning show, her ex competes for the same role. Leah stays focused on her career, until chemistry with her ex challenges her priorities.",
@@ -10925,4 +10925,5 @@ const movies = [
 }
 
  ];
+
 

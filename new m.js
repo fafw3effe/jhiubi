@@ -1,6 +1,19 @@
 // Movies data
 const movies = [
 
+ {
+"title":"Relationship Goals [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"o7dVxvZIKnAB7k1eeeWp2k14Es7",
+"bgi":"6zaQ1ffMOXjBdeg0gKd6OxUvT4C",
+"Sever 1":"https://hubdrive.space/file/1984248227",
+"year":"2026",
+"duration":"",
+"rating":"7.5",
+"genre":"Romance,Comedy",
+"description":"When TV producer Leah Caldwell aims to become the first woman running New York's top morning show, her ex competes for the same role. Leah stays focused on her career, until chemistry with her ex challenges her priorities.",
+"type":"movie",
+"cast":"Kelly Rowland,Method Man,Robin Thede,Annie Gonzalez,Chris Kapeleris"
+},
 {
 "title":"Thank You Dear [2025] WEB-DL [Hindi-English] | Full Movie",
 "im":"kgFwTGoEAUJEwSQTJ2cMgLflPta",
@@ -10912,3 +10925,4 @@ const movies = [
 }
 
  ];
+

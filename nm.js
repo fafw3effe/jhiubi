@@ -69,7 +69,7 @@ function displayMovies() {
         else if (movie['720p']) badge = '720p';
 
         // Use bgi for image
-        const imgSrc = movie.bgi || 'https://via.placeholder.com/342x192/1a1c24/ffffff?text=No+Image';
+        const imgSrc = 'https://image.tmdb.org/t/p/original/' +movie.bgi +'.jpg' || 'https://via.placeholder.com/342x192/1a1c24/ffffff?text=No+Image';
         
         div.innerHTML = `
             <div class="movie-thumbnail-container">
@@ -146,7 +146,7 @@ function openModal(movie) {
         `;
     } else {
         // Show poster image
-        const imgSrc = movie.bgi || 'https://via.placeholder.com/780x439/1a1c24/ffffff?text=No+Image';
+        const imgSrc = 'https://image.tmdb.org/t/p/original/' + movie.bgi + '.jpg' || 'https://via.placeholder.com/780x439/1a1c24/ffffff?text=No+Image';
         mediaContainer.innerHTML = `<img class="modal-poster" src="${imgSrc}" onerror="this.src='https://via.placeholder.com/780x439/1a1c24/ffffff?text=No+Image'">`;
     }
     

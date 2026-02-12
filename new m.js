@@ -1,7 +1,24 @@
 // Movies data
 const movies = [
 
- {
+
+{
+"title":"Predator: Badlands [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"pHpq9yNUIo6aDoCXEBzjSolywgz",
+"bgi":"82lM4GJ9uuNvNDOEpxFy77uv4Ak",
+"wo":"https://pixeldrain.dev/api/file/t5ULXwke?download",
+"480p":"https://vcloud.zip/ai5tuuveowh8ous",
+"720p":"https://vcloud.zip/pbpiief-1bmnonp",
+"1080p":"https://vcloud.zip/lzqn1quuf_jvjvu",
+"year":"2025",
+"duration":"1h 47m",
+"rating":"7.7",
+"genre":"Action,Science Fiction,Adventure",
+"description":"Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
+"type":"movie",
+"cast":"Elle Fanning,Dimitrius Schuster-Koloamatangi,Ravi Narayan,Michael Homick,Stefan Grube"
+},
+{
 "title":"Relationship Goals [2026] WEB-DL [Hindi-English] | Full Movie",
 "im":"o7dVxvZIKnAB7k1eeeWp2k14Es7",
 "bgi":"6zaQ1ffMOXjBdeg0gKd6OxUvT4C",

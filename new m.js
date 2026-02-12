@@ -9828,7 +9828,7 @@ const movies = [
 },
 {
 "title":"Spider-Man: No Way Home [2021] Blu-Ray [Hindi-English] [HEVC] | Full Movie",
-"im":"1g0dhYtq4irTY1GPXvft6k4YLjm",
+"bgi":"1g0dhYtq4irTY1GPXvft6k4YLjm",
 "Server 1":"https://pixeldrain.dev/u/ngYtRmFq?download",
 "link":"tt10872600",
 "year":"2021",

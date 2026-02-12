@@ -126,7 +126,7 @@ function appendMovies(moviesToAdd) {
         else if (movie['720p']) badge = '720p';
 
         // Use bgi for image
-        const imgSrc = 'https://image.tmdb.org/t/p/original/' + movie.bgi + '.jpg' || 'https://image.tmdb.org/t/p/original/' + movie.im + '.jpg'  ||'https://via.placeholder.com/342x192/1a1c24/ffffff?text=No+Image';
+        const imgSrc = 'https://image.tmdb.org/t/p/original/' + movie.bgi + '.jpg';
         
         div.innerHTML = `
             <div class="movie-thumbnail-container">
@@ -188,7 +188,7 @@ Your browser does not support the video tag
         `;
     } else {
         // Show poster image
-        const imgSrc = 'https://image.tmdb.org/t/p/original/' + movie.bgi + '.jpg' || 'https://image.tmdb.org/t/p/original/' + movie.im + '.jpg' 
+        const imgSrc = 'https://image.tmdb.org/t/p/original/' + movie.bgi + '.jpg';
         mediaContainer.innerHTML = `<img class="modal-poster" src="${imgSrc}" onerror="this.src='https://via.placeholder.com/780x439/1a1c24/ffffff?text=No+Image'">`;
     }
     

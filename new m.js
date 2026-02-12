@@ -6,7 +6,7 @@ const movies = [
 "title":"Predator: Badlands [2025] WEB-DL [Hindi-English] | Full Movie",
 "im":"pHpq9yNUIo6aDoCXEBzjSolywgz",
 "bgi":"82lM4GJ9uuNvNDOEpxFy77uv4Ak",
-"wo":"https://pixeldrain.dev/api/file/t5ULXwke?download",
+"wo":"https://hub.cooldown.buzz/7d555047659ca96963a99c8c7a210782?token=1770909525",
 "480p":"https://vcloud.zip/ai5tuuveowh8ous",
 "720p":"https://vcloud.zip/pbpiief-1bmnonp",
 "1080p":"https://vcloud.zip/lzqn1quuf_jvjvu",

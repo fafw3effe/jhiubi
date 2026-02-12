@@ -98,23 +98,17 @@ body {
     padding: 20px 15px;
 }
 
-/* Grid Logic: Mobile First (1 column), PC (4 columns) */
+/* Grid Logic: Mobile (1 column), PC (4 columns) */
 .movie-grid {
     display: grid;
     grid-template-columns: repeat(1, 1fr); /* 1 column on mobile */
     gap: 15px;
-    padding-bottom: 40px;
+    padding-bottom: 20px;
 }
 
 @media (min-width: 768px) {
     .movie-grid { 
         grid-template-columns: repeat(4, 1fr); /* 4 columns on PC */
-    }
-}
-
-@media (min-width: 1200px) {
-    .movie-grid { 
-        grid-template-columns: repeat(4, 1fr); /* Keep 4 columns on large screens */
     }
 }
 
@@ -179,42 +173,37 @@ body {
 .quality-sticker { top: 8px; right: 8px; background: var(--primary); }
 .season-sticker { top: 8px; right: 8px; background: var(--accent); }
 
-/* --- PAGINATION --- */
-.pagination {
+/* --- INFINITE SCROLL LOADER --- */
+.loader-container {
     display: flex;
     justify-content: center;
-    gap: 10px;
-    margin: 30px 0;
-    flex-wrap: wrap;
-}
-
-.pagination button {
-    background: #252833;
-    color: white;
-    border: none;
-    padding: 12px 25px;
-    border-radius: 25px;
-    font-weight: 600;
-    cursor: pointer;
-    transition: background 0.2s;
-    font-size: 14px;
-}
-
-.pagination button:hover {
-    background: #3a3d4d;
-}
-
-.pagination button:disabled { 
-    opacity: 0.5;
-    cursor: not-allowed;
-}
-
-.pagination span {
-    display: flex;
     align-items: center;
-    font-size: 15px;
-    color: #aaa;
-    padding: 0 5px;
+    padding: 30px 0;
+    width: 100%;
+    grid-column: 1/-1;
+}
+
+.loader {
+    width: 40px;
+    height: 40px;
+    border: 4px solid rgba(255,255,255,0.1);
+    border-left-color: var(--primary);
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    to { transform: rotate(360deg); }
+}
+
+.end-message {
+    text-align: center;
+    padding: 30px 0;
+    color: #666;
+    font-size: 14px;
+    grid-column: 1/-1;
+    border-top: 1px solid rgba(255,255,255,0.1);
+    margin-top: 20px;
 }
 
 /* --- VIDEO PLAYER --- */
@@ -419,13 +408,34 @@ body {
     font-size: 18px;
 }
 
-/* Loading animation */
-@keyframes pulse {
-    0% { opacity: 1; }
-    50% { opacity: 0.5; }
-    100% { opacity: 1; }
+/* Top Buttons */
+.top-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-bottom: 30px;
+    flex-wrap: wrap;
 }
 
-.loading {
-    animation: pulse 1.5s infinite;
+.top-btn {
+    background: #252833;
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    border-radius: 25px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.2s;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.top-btn:hover {
+    background: #3a3d4d;
+}
+
+.top-btn i {
+    font-size: 16px;
 }

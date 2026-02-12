@@ -1,11 +1,17 @@
 
-const itemsPerPage = 12; // Show 12 items per page (4x3 on PC, 1x12 on mobile)
-let currentPage = 1;
-let currentMovie = null;
+const itemsPerLoad = 20; // Number of items to load each time
+let currentIndex = 0;
+let isLoading = false;
+let hasMore = true;
+let filteredMovies = [];
 
 // Initialize on page load
 window.onload = function() {
-    displayMovies();
+    filteredMovies = [...movies]; // Start with all movies
+    loadMoreMovies();
+    
+    // Set up intersection observer for infinite scroll
+    setupInfiniteScroll();
     
     // Close modal on ESC key
     document.addEventListener('keydown', function(e) {
@@ -28,33 +34,84 @@ function toggleSearch() {
 
 // Search functionality
 document.getElementById('searchInput').addEventListener('input', function() {
-    currentPage = 1;
-    displayMovies();
-});
-
-// Display movies in grid
-function displayMovies() {
-    const term = document.getElementById('searchInput').value.toLowerCase();
+    const term = this.value.toLowerCase();
     const cleanTerm = term.replace(/[^a-z0-9]/g, '');
     
-    const filtered = movies.filter(m => {
-        const t = (m.title + m.genre + m.cast).toLowerCase().replace(/[^a-z0-9]/g, '');
-        return cleanTerm === '' || t.includes(cleanTerm);
-    });
-
-    const list = document.getElementById('movieList');
-    list.innerHTML = '';
-
-    if(filtered.length === 0) {
-        list.innerHTML = '<div class="no-results">🎬 No movies found matching your search</div>';
-        updatePagination(filtered.length);
-        return;
+    if (cleanTerm === '') {
+        filteredMovies = [...movies];
+    } else {
+        filteredMovies = movies.filter(m => {
+            const t = (m.title + m.genre + m.cast).toLowerCase().replace(/[^a-z0-9]/g, '');
+            return t.includes(cleanTerm);
+        });
     }
+    
+    // Reset and reload
+    currentIndex = 0;
+    hasMore = true;
+    document.getElementById('movieList').innerHTML = '';
+    document.getElementById('endMessage').style.display = 'none';
+    loadMoreMovies();
+});
 
-    const start = (currentPage - 1) * itemsPerPage;
-    const pageItems = filtered.slice(start, start + itemsPerPage);
+function setupInfiniteScroll() {
+    const options = {
+        root: null,
+        rootMargin: '200px', // Start loading when within 200px of the bottom
+        threshold: 0.1
+    };
+    
+    const observer = new IntersectionObserver(function(entries) {
+        entries.forEach(entry => {
+            if (entry.isIntersecting && !isLoading && hasMore) {
+                loadMoreMovies();
+            }
+        });
+    }, options);
+    
+    // Create a sentinel element for observing
+    const sentinel = document.createElement('div');
+    sentinel.id = 'scrollSentinel';
+    sentinel.style.height = '10px';
+    sentinel.style.width = '100%';
+    sentinel.style.gridColumn = '1/-1';
+    document.getElementById('movieList').after(sentinel);
+    observer.observe(sentinel);
+}
 
-    pageItems.forEach(movie => {
+function loadMoreMovies() {
+    if (isLoading || !hasMore) return;
+    
+    isLoading = true;
+    document.getElementById('loaderContainer').style.display = 'flex';
+    
+    // Simulate network delay (remove in production)
+    setTimeout(() => {
+        const start = currentIndex;
+        const end = Math.min(start + itemsPerLoad, filteredMovies.length);
+        const newItems = filteredMovies.slice(start, end);
+        
+        if (newItems.length > 0) {
+            appendMovies(newItems);
+            currentIndex = end;
+        }
+        
+        if (currentIndex >= filteredMovies.length) {
+            hasMore = false;
+            document.getElementById('loaderContainer').style.display = 'none';
+            document.getElementById('endMessage').style.display = 'block';
+        } else {
+            document.getElementById('loaderContainer').style.display = 'none';
+        }
+        
+        isLoading = false;
+    }, 300); // Small delay for smooth loading effect
+}
+
+function appendMovies(moviesToAdd) {
+    const list = document.getElementById('movieList');
+    
+    moviesToAdd.forEach(movie => {
         const div = document.createElement('div');
         div.className = 'movie-card';
         div.onclick = () => openModal(movie);
@@ -83,36 +140,22 @@ function displayMovies() {
         `;
         list.appendChild(div);
     });
-    
-    updatePagination(filtered.length);
 }
 
-function updatePagination(totalItems) {
-    const totalPages = Math.ceil(totalItems / itemsPerPage) || 1;
-    document.getElementById('pageInfo').innerHTML = `Page ${currentPage} of ${totalPages}`;
-    document.getElementById('prevBtn').disabled = currentPage === 1;
-    document.getElementById('nextBtn').disabled = currentPage >= totalPages;
-}
-
-function prevPage() { 
-    if(currentPage > 1) { 
-        currentPage--; 
-        displayMovies(); 
-        window.scrollTo({top: 0, behavior: 'smooth'}); 
-    } 
-}
-
-function nextPage() { 
-    if(currentPage < Math.ceil(movies.length / itemsPerPage)) {
-        currentPage++; 
-        displayMovies(); 
-        window.scrollTo({top: 0, behavior: 'smooth'}); 
-    }
+function scrollToTop() {
+    window.scrollTo({top: 0, behavior: 'smooth'});
 }
 
 function goHome() { 
-    currentPage = 1;
-    displayMovies(); 
+    // Reset search and reload
+    document.getElementById('searchInput').value = '';
+    filteredMovies = [...movies];
+    currentIndex = 0;
+    hasMore = true;
+    document.getElementById('movieList').innerHTML = '';
+    document.getElementById('endMessage').style.display = 'none';
+    loadMoreMovies();
+    scrollToTop();
 }
 
 // --- MODAL FUNCTIONS ---
@@ -146,7 +189,7 @@ function openModal(movie) {
         `;
     } else {
         // Show poster image
-        const imgSrc = 'https://image.tmdb.org/t/p/original/' + movie.bgi + '.jpg'  || 'https://via.placeholder.com/780x439/1a1c24/ffffff?text=No+Image';
+        const imgSrc = 'https://image.tmdb.org/t/p/original/' + movie.bgi + '.jpg' || 'https://via.placeholder.com/780x439/1a1c24/ffffff?text=No+Image';
         mediaContainer.innerHTML = `<img class="modal-poster" src="${imgSrc}" onerror="this.src='https://via.placeholder.com/780x439/1a1c24/ffffff?text=No+Image'">`;
     }
     

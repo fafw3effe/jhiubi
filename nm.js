@@ -175,15 +175,13 @@ function openModal(movie) {
     
     if(movie.wo) {
         // Show video player for streaming
-        const streamingUrl = 'https://dereferer.me/?' + encodeURIComponent(movie.wo);
+        const streamingUrl = movie.wo;
         mediaContainer.innerHTML = `
             <div class="video-container">
                 <div class="video-wrapper">
-                    <iframe src="${streamingUrl}" 
-                            frameborder="0" 
-                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-                            allowfullscreen>
-                    </iframe>
+<source src="${streamingUrl}" type="video/mp4">
+Your browser does not support the video tag
+</video>
                 </div>
             </div>
         `;

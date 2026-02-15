@@ -1,7 +1,23 @@
 // Movies data
 const movies = [
 
-
+ 
+{
+"title":"O&amp;#39;Romeo [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"Apqc5JSXQtUJPcBGm6tBO6wQaoq",
+"bgi":"sawC6SHeusolyFuPEEZyYryfdKt",
+"wo":"https://hub.fsl-lx.cfd/45bee725bb4b820023d5bf136acf7aa4?token=1771183806",
+"480p":"https://vcloud.zip/ppwgprvrdmc1rrs",
+"720p":"https://vcloud.zip/pyvwg0u039gy20f",
+"1080p":"https://vcloud.zip/nj2jlhumd_zn_ne",
+"year":"2026",
+"duration":"2h 58m",
+"rating":"6.0",
+"genre":"Crime,Drama,Action",
+"description":"What fate awaits a stonehearted gangster and bloodthirsty womaniser when true love claims him, helpless and unguarded? A gang war that shakes the entire underworld and crime syndicate to their very roots. A forbidden love; the tale of an unrequited passion.",
+"type":"movie",
+"cast":"Shahid Kapoor,Triptii Dimri,Avinash Tiwary,Nana Patekar,Vikrant Massey"
+},
 {
 "title":"Predator: Badlands [2025] WEB-DL [Hindi-English] | Full Movie",
 "im":"pHpq9yNUIo6aDoCXEBzjSolywgz",
@@ -10942,5 +10958,6 @@ const movies = [
 }
 
  ];
+
 
 

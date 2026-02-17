@@ -3,7 +3,22 @@ const movies = [
 
 
 
-
+{
+"title":"Mersal [2017] WEB-DL [Hindi-English] | Full Movie",
+"im":"65Q1wpRPZ5E3UVUv2V5JBbJQCcj",
+"bgi":"rx9kyO6YJLpXfFrU934C6i4yYMj",
+"wo":"https://hub.cooldown.buzz/f965d55dbd18cc671b321f0b2992044b",
+"480p":"https://hubcdn.fans/dl/?link=https://hub.cooldown.buzz/f965d55dbd18cc671b321f0b2992044b",
+"720p":"https://hubdrive.space/file/2646692179",
+"1080p":"https://hubcloud.foo/drive/vnveqvfyhlcwhnd",
+"year":"2017",
+"duration":"2h 41m",
+"rating":"7.2",
+"genre":"Thriller,Action,Crime",
+"description":"A few individuals in the medical profession are murdered or kidnapped, and the cop investigating the case suspects a doctor and arrests him. But is he the one who is behind these crimes? And why are they being committed?",
+"type":"movie",
+"cast":"Vijay,S. J. Suryah,Samantha Ruth Prabhu,Nithya Menen,Kajal Aggarwal"
+},
 {
 "title":"Mercy [2026] WEB-DL [Hindi-English] | Full Movie",
 "im":"1LzdlxK9ctsnx7nXoGF1ImHKddl",

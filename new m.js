@@ -1,7 +1,21 @@
 // Movies data
 const movies = [
 
-
+{
+"title":"SPY x FAMILY [Season 3] [Episode 6] WEB-DL [Hindi-English] | All Episodes",
+"im":"gHZqglFWJTFwx6rnTq4vkPRnuxu",
+"bgi":"lysUnU6V0VfcthDbviuVlIqgHOR",
+"S1E1":"https://vcloud.zip/_lwdmu_ttggrqog","S1E2":"https://vcloud.zip/k1frsccceknrusu","S1E3":"https://vcloud.zip/jl8eesn8j3jfpil","S1E4":"https://vcloud.zip/y_uyvwyyzc8ytlu","S1E5":"https://vcloud.zip/mrfqfvhqbq4dmqv","S1E6":"https://vcloud.zip/cl9lbh2bijjd2i2","S1E7":"https://vcloud.zip/0aqcxyauygyspuy","S1E8":"https://vcloud.zip/sus9ug9puxjuuzi","S1E9":"https://vcloud.zip/d544nz41zhnl1rm","S1E10":"https://vcloud.zip/ypgsspqkc1ngczg","S1E11":"https://vcloud.zip/8xxsmm2fpvf88vl","S1E12":"https://vcloud.zip/64gjy5lyq_mmzh5","S1E13":"https://vcloud.zip/onn5h71yq5-o15w","S1E14":"https://vcloud.zip/xzxpgyhjdglhvue","S1E15":"https://vcloud.zip/qjecckl4-ojpcci","S1E16":"https://vcloud.zip/-5_dsu4-4mm6hh_","S1E17":"https://vcloud.zip/j00pgpqvvvh0pyj","S1E18":"https://vcloud.zip/scxvxvva7svfvvv","S1E19":"https://vcloud.zip/282xl_2t9o8b8o1","S1E20":"https://vcloud.zip/hh2de0te_2phr0r","S1E21":"https://vcloud.zip/nepyfnony0fnnwx","S1E22":"https://vcloud.zip/ckhqzmg1kdbdzze","S1E23":"https://vcloud.zip/dzzerwznz4gvqmq","S1E24":"https://vcloud.zip/uldhuc83pcss3g3","S1E25":"https://vcloud.zip/jvl1qqa_3c-_ccc",
+"S2E1":"https://vcloud.zip/nzrf55zwgv__yo2","S2E2":"https://vcloud.zip/_qzpg7sdtj6hcer","S2E3":"https://vcloud.zip/hlizwuofzzjwpi2","S2E4":"https://vcloud.zip/pk_wno1ppd-jx-g","S2E5":"https://vcloud.zip/lnyvltpa1vsst_c","S2E6":"https://vcloud.zip/9ucr1rhxmucdc2u","S2E7":"https://vcloud.zip/nf49q9e2dje6to7","S2E8":"https://vcloud.zip/dgxe67x8tkdd9zg","S2E9":"https://vcloud.zip/hmglvp1xahav1lc","S2E10":"https://vcloud.zip/nrxcc0p0kar6x6a","S2E11":"https://vcloud.zip/w1zjzz3ylyyl1wt","S2E12":"https://vcloud.zip/rxuyw00uu7y0bdu",
+"S3E1":"https://vcloud.zip/zbyvpzr6y2yz1vn","S3E2":"https://vcloud.zip/cs6gxnc0y1r0bsl","S3E3":"https://vcloud.zip/yyey_k8ffz8ogsc","S3E4":"https://vcloud.zip/f2wm5xy5afdb675","S3E5":"https://vcloud.zip/jlwdwkqc5ape_ej","S3E6":"https://vcloud.zip/1ou2nfoxfuxfbfq","S3E7":"https://vcloud.zip/m-4de6etir1s78e","S3E8":"https://vcloud.zip/nexxypix0dyjyhx","S3E9":"https://vcloud.zip/zwbgz-c7w9crbv8","S3E10":"https://vcloud.zip/ckyzrfqsar1htq6","S3E11":"https://vcloud.zip/fwwzznlhwimzkzh","S3E12":"https://vcloud.zip/ukqqrm7ee--qhkn",
+"year":"2022",
+"duration":"21 min per episode",
+"rating":"8.6",
+"genre":"Animation,Comedy,Action & Adventure",
+"description":"World peace is at stake and secret agent Twilight must undergo his most difficult mission yet—pretend to be a family man. Posing as a loving husband...",
+"type":"series",
+"cast":"Takuya Eguchi,Atsumi Tanezaki,Saori Hayami,Kenichirou Matsuda,Hana Sato"
+},
 {
 "title":"Vanaveera [2026] WEB-DL [Hindi-English] | Full Movie",
 "im":"gCrNwHpoZ0haxm0jZxc9JHgyLq7",
@@ -236,19 +250,7 @@ const movies = [
 "type":"series",
 "cast":"Ahn Bo-hyun,Lee Ju-bin,Cha Seo-won,Cho Jun-young,Lee Jae-in"
 },
-{
-"title":"SPY x FAMILY [Season 3] [Episode 6] WEB-DL [Hindi-English] | All Episodes",
-"im":"gHZqglFWJTFwx6rnTq4vkPRnuxu",
-"bgi":"lysUnU6V0VfcthDbviuVlIqgHOR",
-"S3E1":"https://vcloud.zip/zbyvpzr6y2yz1vn","S3E2":"https://vcloud.zip/cs6gxnc0y1r0bsl","S3E3":"https://vcloud.zip/yyey_k8ffz8ogsc","S3E4":"https://vcloud.zip/f2wm5xy5afdb675","S3E5":"https://vcloud.zip/jlwdwkqc5ape_ej","S3E6":"https://vcloud.zip/1ou2nfoxfuxfbfq",
-"year":"2022",
-"duration":"21 min per episode",
-"rating":"8.6",
-"genre":"Animation,Comedy,Action & Adventure",
-"description":"World peace is at stake and secret agent Twilight must undergo his most difficult mission yet—pretend to be a family man. Posing as a loving husband...",
-"type":"series",
-"cast":"Takuya Eguchi,Atsumi Tanezaki,Saori Hayami,Kenichirou Matsuda,Hana Sato"
-},
+
 {
 "title":"Sentenced to Be a Hero [Season 1] [Episode 1] WEB-DL [Hindi-English] | All Episodes",
 "im":"k8bh5mvHDx3czHSF56v9lRyulLC",

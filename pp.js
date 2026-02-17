@@ -276,11 +276,12 @@
         // Media
         let mediaHtml = '';
         if (movie.wo) {
-            const streamingUrl = 'https://dereferer.me/?' + encodeURIComponent(movie.wo);
+            const streamingUrl = movie.wo;
+            const imgSrc = 'https://image.tmdb.org/t/p/original/' + (movie.bgi || movie.im) + '.jpg';
             mediaHtml = `
                 <div class="video-container">
                     <div class="video-wrapper">
-                        <iframe src="${streamingUrl}" frameborder="0" allowfullscreen></iframe>
+                        <video width="320" height="240" controls poster="${imgSrc}"><source src="${streamingUrl}" type="video/mp4"></video>
                     </div>
                 </div>
             `;

@@ -281,7 +281,7 @@
             mediaHtml = `
                 <div class="video-container">
                     <div class="video-wrapper">
-                        <video width="320" height="240" controls poster="${imgSrc}"><source src="${streamingUrl}" type="video/mp4"></video>
+                        <video width="100%" height="100%" controls poster="${imgSrc}"><source src="${streamingUrl}" type="video/mp4"></video>
                     </div>
                 </div>
             `;

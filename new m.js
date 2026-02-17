@@ -2,9 +2,24 @@
 const movies = [
 
 
-
 {
-"title":"Mersal [2017] WEB-DL [Hindi-English] | Full Movie",
+"title":"24 [2016] WEB-DL [Hindi-Tamil] | Full Movie",
+"im":"8d8TTADw3p75Zr4ypNWD66oqUXI",
+"bgi":"eKSUHrwDyoL3pEmWj9tuKdp9lf2",
+"wo":"https://hub.fsl-lx.cfd/6c12f37764fda5e00be3a6f275200f85",
+"480p":"https://hubcdn.fans/dl/?link=https://hub.fsl-lx.cfd/6c12f37764fda5e00be3a6f275200f85",
+"720p":"https://hubcloud.foo/drive/v0mstq5rkh5d5ua",
+"1080p":"https://hubdrive.space/file/1803620683",
+"year":"2016",
+"duration":"2h 44m",
+"rating":"7.2",
+"genre":"Action,Science Fiction,Thriller",
+"description":"Scientist turned Entrepreneur Dr. Sethuraman tries to safeguard his newly invented time travel device from falling into the hands of his Evil Twin Brother Aathreya.",
+"type":"movie",
+"cast":"Suriya,Samantha Ruth Prabhu,Nithya Menen,Saranya Ponvannan,Ajay"
+},
+{
+"title":"Mersal [2017] WEB-DL [Hindi] | Full Movie",
 "im":"65Q1wpRPZ5E3UVUv2V5JBbJQCcj",
 "bgi":"rx9kyO6YJLpXfFrU934C6i4yYMj",
 "wo":"https://hub.cooldown.buzz/f965d55dbd18cc671b321f0b2992044b",

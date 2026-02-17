@@ -19,6 +19,22 @@ const movies = [
 "cast":"Suriya,Samantha Ruth Prabhu,Nithya Menen,Saranya Ponvannan,Ajay"
 },
 {
+"title":"Pokémon Detective Pikachu [2019] WEB-DL [Hindi-English] | Full Movie",
+"im":"uhWvnFgg3BNlcUz0Re1HfQqIcCD",
+"bgi":"yXybBEC45p84D0Ky7GmQQYrclVr",
+"wo":"https://love.polgen.buzz/03d7e5bb92593b15ab6785709571a4bd?token=1771330560",
+"480p":"https://vcloud.zip/odbd8k6il6eqdzt",
+"720p":"https://vcloud.zip/k1sbv2myv-kcw2w",
+"1080p":"https://vcloud.zip/ba1viggx_m1xqgf",
+"year":"2019",
+"duration":"1h 45m",
+"rating":"6.9",
+"genre":"Action,Adventure,Fantasy",
+"description":"In a world where people collect pocket-size monsters (Pokémon) to do battle, a boy comes across an intelligent monster who seeks to be a detective.",
+"type":"movie",
+"cast":"Ryan Reynolds,Justice Smith,Kathryn Newton,Bill Nighy,Ken Watanabe"
+},
+{
 "title":"Mersal [2017] WEB-DL [Hindi] | Full Movie",
 "im":"65Q1wpRPZ5E3UVUv2V5JBbJQCcj",
 "bgi":"rx9kyO6YJLpXfFrU934C6i4yYMj",
@@ -8447,21 +8463,6 @@ const movies = [
 "type":"movie",
 "quality":"blu-Ray",
 "cast":"Wasabi Mizuta, Megumi Ohara, Yumi Kakazu"
-},
-{
-"title":"Pokemon Detective Pikachu [2020] Blu-Ray [Hindi-English] | Full Movie",
-"im":"uhWvnFgg3BNlcUz0Re1HfQqIcCD",
-"bgi":"99fKFSYYKadyJ8axbhuXDy4zpfO",
-"Server 1":"https://pixeldrain.dev/u/bbd4v5hQ?download",
-"link":"tt5884052",
-"year":"2020",
-"duration":"104 min",
-"rating":"6.9",
-"genre":"Adventure, Comedy, Family",
-"description":"Detective Pikachu teams up with a young man to uncover the mystery behind his father's disappearance, with humor and adventure in a world full of Pokémon.",
-"type":"movie",
-"quality":"blu-Ray",
-"cast":"Ryan Reynolds, Justice Smith, Kathryn Newton, Bill Nighy"
 },
 {
 "title":"Shinchan Kaanta Lagaa [2015] Blu-Ray [Hindi] | Full Movie",

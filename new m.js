@@ -2723,20 +2723,6 @@ const movies = [
 "cast":"Josh Brolin,Julia Garner,Alden Ehrenreich,Austin Abrams,Cary Christopher"
 },
 {
-"title":"Mission: Impossible - The Final Reckoning [2025] WEB-DL [Hindi-English] | Full Movie",
-"im":"z53D72EAOxGRqdr7KXXWp9dJiDe",
-"bgi":"538U9snNc2fpnOmYXAPUh3zn31H",
-"Server 1":"https://pixeldrain.dev/u/ig33NEbt?download",
-"Server 2":"https://hubcloud.fyi/drive/iwoyqbhliyeoubh",
-"year":"2025",
-"duration":"2h 50m",
-"rating":"7.2",
-"genre":"Action,Adventure,Thriller",
-"description":"Ethan Hunt and team continue their search for the terrifying AI known as the Entity — which has infiltrated intelligence networks all over the globe...",
-"type":"movie",
-"cast":"Tom Cruise,Hayley Atwell,Ving Rhames,Simon Pegg,Esai Morales"
-},
-{
 "title":"Head Over Heels [Season 1] [Episode 12] WEB-DL [Hindi-English] | All Episodes",
 "im":"ijDyO36wQhMYPd04XKXB73eyAbS",
 "bgi":"bHkrRtB4OtUAPOJAiTgNkZVfpIK",
@@ -9003,19 +8989,6 @@ const movies = [
 "rating":"7.2",
 "genre":"Animation, Adventure, Comedy",
 "description":"Shrek and Fiona go on an adventurous journey to meet Fiona’s parents, leading to comical and heartfelt moments in this animated sequel filled with laughter and lessons about family and acceptance.",
-"type":"movie",
-"quality":"blu-Ray"
-},
-{
-"title":"Mission: Impossible - Fallout [2018] Blu-Ray [Hindi-English] | Full Movie",
-"im":"AkJQpZp9WoNdj7pLYSj1L0RcMMN",
-"Server 1":"https://pixeldra.in/api/file/CyKpoFxS/info/zip/MI.6.Fallout.(2018).720p.Blu-Ray.(Hin-Eng).Vegamovie.NL.mkv",
-"link":"tt4912910",
-"year":"2018",
-"duration":"147 min",
-"rating":"7.7",
-"genre":"Action, Adventure, Thriller",
-"description":"Ethan Hunt faces the most dangerous mission of his career when he must retrieve stolen plutonium and prevent a catastrophic disaster, while confronting his own past.",
 "type":"movie",
 "quality":"blu-Ray"
 },

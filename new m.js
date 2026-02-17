@@ -1,6 +1,22 @@
 // Movies data
 const movies = [
 
+
+{
+"title":"One-Punch Man [Season 3] [Episode 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"5OXorpOxMpGksF93iWNQjUJDk1c",
+"bgi":"s0w8JbuNNxL1YgaHeDWih12C3jG",
+"S1E1":"https://vcloud.zip/bvfoumflb0iopea","S1E2":"https://vcloud.zip/fi-10uxuw3modnm","S1E3":"https://vcloud.zip/78oljfeupsfs4o2","S1E4":"https://vcloud.zip/1kpbtwm7_--jtpk","S1E5":"https://vcloud.zip/xptf-aysiau-pax","S1E6":"https://vcloud.zip/tnw--1wpm1-wbnt","S1E7":"https://vcloud.zip/vt7as88wmc7bxt8","S1E8":"https://vcloud.zip/ceoynkbpphoz1kq","S1E9":"https://vcloud.zip/lfbto7tgaknllgo","S1E10":"https://vcloud.zip/f__wfhz7zwjs-7f","S1E11":"https://vcloud.zip/zo2y-5___vv0v1h","S1E12":"https://vcloud.zip/gz9k99jkt8sr98s",
+"S2E1":"https://vcloud.zip/cuq1u4k467_vvvh","S2E2":"https://vcloud.zip/pgm_fkpxu_kcchr","S2E3":"https://vcloud.zip/twkqxkk0ivwvivi","S2E4":"https://vcloud.zip/vd1vddjevlb1eda","S2E5":"https://vcloud.zip/sghh5zzy1sb1hsb","S2E6":"https://vcloud.zip/alayglcxpx1s-py","S2E7":"https://vcloud.zip/comkq1mssaxogkr","S2E8":"https://vcloud.zip/nd6l-m6oqgglgbl","S2E9":"https://vcloud.zip/8r1rwpurn-8uyxv","S2E10":"https://vcloud.zip/bwomrjrhmcwye-_","S2E11":"https://vcloud.zip/tuzgvgytzaeyvgb","S2E12":"https://vcloud.zip/q2l5542hapm--up",
+"S3E1":"https://vcloud.zip/--waoox-q1itcn-","S3E2":"https://vcloud.zip/puk_ok4cac4uap1","S3E3":"https://vcloud.zip/9-c26bldh3o-112","S3E4":"https://vcloud.zip/7i1g0wizaaiqggv","S3E5":"https://vcloud.zip/9khjzzhrgeahior","S3E6":"https://vcloud.zip/1sqxznwtfzbbc3t","S3E7":"https://vcloud.zip/rruqbfht2rdbkuf","S3E8":"https://vcloud.zip/tauufaxwc1arlca","S3E9":"https://vcloud.zip/sx1pnbadaw1jeaw","S3E10":"https://vcloud.zip/vyye2yytyf2byff",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"8.4",
+"genre":"Animation,Comedy,Action & Adventure,Sci-Fi & Fantasy",
+"description":"The most powerful superhero in the world can kill anyone with one blow. But nothing can challenge him, so he struggles with ennui and depression.",
+"type":"series",
+"cast":"Makoto Furukawa,Kaito Ishikawa,Hiroki Yasumoto,Kazuhiro Yamaji,Yuichi Nakamura"
+},
 {
 "title":"SPY x FAMILY [Season 3] [Episode 6] WEB-DL [Hindi-English] | All Episodes",
 "im":"gHZqglFWJTFwx6rnTq4vkPRnuxu",
@@ -549,19 +565,6 @@ const movies = [
 "description":"A hateful romance between a professional detective actor who wants to become a melodrama master and a female reporter who was demoted from a political reporter who won the Reporter of the Year award to the entertainment department.",
 "type":"series",
 "cast":"Lee Jung-jae,Lim Ji-yeon,Kim Ji-hoon,Seo Ji-hye,Choi Gwi-hwa"
-},
-{
-"title":"One-Punch Man [Season 3] [Episode 1] WEB-DL [Hindi-English] | All Episodes",
-"im":"5OXorpOxMpGksF93iWNQjUJDk1c",
-"bgi":"s0w8JbuNNxL1YgaHeDWih12C3jG",
-"S3E1":"https://vcloud.zip/--waoox-q1itcn-",
-"year":"2025",
-"duration":"1h per episode",
-"rating":"8.4",
-"genre":"Animation,Comedy,Action & Adventure,Sci-Fi & Fantasy",
-"description":"The most powerful superhero in the world can kill anyone with one blow. But nothing can challenge him, so he struggles with ennui and depression.",
-"type":"series",
-"cast":"Makoto Furukawa,Kaito Ishikawa,Hiroki Yasumoto,Kazuhiro Yamaji,Yuichi Nakamura"
 },
 {
 "title":"Hunter x Hunter [Season 6] [Episode 11] WEB-DL [Hindi-English] | All Episodes",
@@ -5981,19 +5984,6 @@ const movies = [
 "description":"Govardhan, a devoted architect from Hyderabad, juggles supporting his extended family while seeking a partner who understands his commitments. When he...",
 "type":"movie",
 "cast":"Vijay Deverakonda,Mrunal Thakur,Rohini Hattangadi,Vasuki Anand,Abhinaya"
-},
-{
-"title":"One-Punch Man [Season 1] WEB-DL [Hindi-Japanese] | All Episodes",
-"im":"jbYJuxfZMpYDalkiOnBcCv9TaL",
-"bgi":"3AXLSxMuqyZt8HyrKKfrcJtkswD",
-"Server 1":"https://s.pptons.com/2025/05/one-punch-man.html",
-"year":"2015",
-"duration":"21min per episode",
-"rating":"8.4",
-"genre":"Animation,Comedy,Action & Adventure",
-"description":"Saitama is a hero who only became a hero for fun. After three years of “special” training, though, he's become so strong that he's pract...",
-"type":"series",
-"cast":"Makoto Furukawa,Kaito Ishikawa,Hiroki Yasumoto,Kazuhiro Yamaji,Yuichi Nakamura"
 },
 {
 "title":"Mob Psycho 100 [Season 1] WEB-DL [Hindi-Japanese] | All Episodes",

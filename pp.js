@@ -348,7 +348,6 @@
                 <div class="top-buttons" style="justify-content:flex-start;">
 <button class="top-btn" onclick="window.location.href='/'"><i class="fas fa-arrow-left"></i> Back</button>
                     <button class="top-btn" onclick='window.open("https://t.me/pptnxyz", "_blank")'><i class='fab fa-telegram'></i> Telegram</button>
-                                        <button class='top-btn' onclick="window.location.href='/'"><i class='fas fa-home'></i> Home</button>
                 </div>
                 <div class="movie-detail-card">
                     ${mediaHtml}

@@ -13,7 +13,7 @@ const movies = [
 "1080p":"https://vcloud.zip/s_mfd2wwpjhzhkf",
 "year":"2026",
 "duration":"2h 7m",
-"rating":"6.0",
+"rating":"6.2",
 "genre":"Drama,Action",
 "description":"A descendant of the Vanara clan is pushed into conflict when a modern-day Ravana seizes his only bike for an election rally. What starts as a petty injustice soon erupts into a fierce fight for self-respect and dignity",
 "type":"movie",

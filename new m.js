@@ -3,7 +3,7 @@ const movies = [
 
 
 {
-"title":"One-Punch Man [Season 3] [Episode 1] WEB-DL [Hindi-English] | All Episodes",
+"title":"One-Punch Man [Season 3] [Episode 10] WEB-DL [Hindi-English] | All Episodes",
 "im":"5OXorpOxMpGksF93iWNQjUJDk1c",
 "bgi":"s0w8JbuNNxL1YgaHeDWih12C3jG",
 "S1E1":"https://vcloud.zip/bvfoumflb0iopea","S1E2":"https://vcloud.zip/fi-10uxuw3modnm","S1E3":"https://vcloud.zip/78oljfeupsfs4o2","S1E4":"https://vcloud.zip/1kpbtwm7_--jtpk","S1E5":"https://vcloud.zip/xptf-aysiau-pax","S1E6":"https://vcloud.zip/tnw--1wpm1-wbnt","S1E7":"https://vcloud.zip/vt7as88wmc7bxt8","S1E8":"https://vcloud.zip/ceoynkbpphoz1kq","S1E9":"https://vcloud.zip/lfbto7tgaknllgo","S1E10":"https://vcloud.zip/f__wfhz7zwjs-7f","S1E11":"https://vcloud.zip/zo2y-5___vv0v1h","S1E12":"https://vcloud.zip/gz9k99jkt8sr98s",

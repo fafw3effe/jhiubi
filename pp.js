@@ -134,7 +134,6 @@
                 <div class='top-buttons'>
                     <button class='top-btn' onclick="window.location.href='/'"><i class='fas fa-home'></i> Home</button>
                     <button class='top-btn' onclick='window.open("https://t.me/pptnxyz", "_blank")'><i class='fab fa-telegram'></i> Telegram</button>
-                    <button class='top-btn' onclick='scrollToTop()'><i class='fas fa-arrow-up'></i> Top</button>
                 </div>
                 <div class='movie-grid' id='movieList'></div>
                 <div id='loaderContainer' class='loader-container' style='display: none;'><div class='loader'></div></div>

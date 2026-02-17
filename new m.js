@@ -19,7 +19,7 @@ const movies = [
 "cast":"Suriya,Samantha Ruth Prabhu,Nithya Menen,Saranya Ponvannan,Ajay"
 },
 {
-"title":"Pokémon Detective Pikachu [2019] WEB-DL [Hindi-English] | Full Movie",
+"title":"Pokemon Detective Pikachu [2019] WEB-DL [Hindi-English] | Full Movie",
 "im":"uhWvnFgg3BNlcUz0Re1HfQqIcCD",
 "bgi":"yXybBEC45p84D0Ky7GmQQYrclVr",
 "wo":"https://love.polgen.buzz/03d7e5bb92593b15ab6785709571a4bd?token=1771330560",

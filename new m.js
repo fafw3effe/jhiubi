@@ -1,6 +1,24 @@
 // Movies data
 const movies = [
 
+
+{
+"title":"Vanaveera [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"gCrNwHpoZ0haxm0jZxc9JHgyLq7",
+"bgi":"5jScGzSGnxTv5T0KfUuLDoGOOOj",
+"wo":"https://hub.fsl-lx.cfd/3ff96bd5471f29ef6eda423f1752da7c?token=1771325560",
+"pp-dl":"https://hub.fsl-lx.cfd/3ff96bd5471f29ef6eda423f1752da7c?token=1771325560",
+"480p":"https://vcloud.zip/5jje1jjwj9w1nhm",
+"720p":"https://vcloud.zip/efbz4t2uy1ho6nc",
+"1080p":"https://vcloud.zip/s_mfd2wwpjhzhkf",
+"year":"2026",
+"duration":"2h 7m",
+"rating":"6.0",
+"genre":"Drama,Action",
+"description":"A descendant of the Vanara clan is pushed into conflict when a modern-day Ravana seizes his only bike for an election rally. What starts as a petty injustice soon erupts into a fierce fight for self-respect and dignity",
+"type":"movie",
+"cast":"Avinash Thiruveedhula,Simran Choudhary,Khadgam Prudvi,Shivaji Raja,Chammak Chandra"
+},
 {
 "title":"The 50 [Season 1] [Episode 16] WEB-DL [Hindi-English] | All Episodes",
 "im":"r7ZPWfdKJJmSjZDOIMQCz3PXjIa",

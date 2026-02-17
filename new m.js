@@ -1,7 +1,19 @@
 // Movies data
 const movies = [
 
- 
+{
+"title":"The 50 [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"r7ZPWfdKJJmSjZDOIMQCz3PXjIa",
+"bgi":"54W3B9UEn68Oc9cnTsEw3fyyCkD",
+"S1E1":"https://vcloud.zip/5frw_gf7wxl_idj","S1E2":"https://vcloud.zip/fch1b1d9ml9lb2u","S1E3":"https://vcloud.zip/bl3j3ih23vebpb2","S1E4":"https://vcloud.zip/4qt4sh1kqojlcxt","S1E5":"https://vcloud.zip/3-j3-_j9cgxl3_3","S1E6":"https://vcloud.zip/6_4wh_oxq1_y6up","S1E7":"https://vcloud.zip/prylrjryrrvg83j","S1E8":"https://vcloud.zip/nq1u5gdtnzzzgne","S1E9":"https://vcloud.zip/p6y3l9r6glz-yrr","S1E10":"https://vcloud.zip/jlieo6ojfjliti6","S1E11":"https://vcloud.zip/1cxlh5h59aqvcfa","S1E12":"https://vcloud.zip/vkuzkdxqpqukaiq","S1E13":"https://vcloud.zip/25bwvwwzubdi5uv","S1E14":"https://vcloud.zip/lef3vyezvljejq3","S1E15":"https://vcloud.zip/w114py4ab5fwvz8","S1E16":"https://vcloud.zip/anutm6ndh1ztrnm",
+"year":"2026",
+"duration":"1h per episode",
+"rating":"6.5",
+"genre":"Reality",
+"description":"India's biggest reality show is about to redefine reality! 50 celebs face survival challenges and intense mind games under the watchful eye of the masked lion.",
+"type":"series",
+"cast":"Natalia Janoszek,Nikki Tamboli,Ridhi Dogra,Divya Agarwal,Vikrant Singh Rajput"
+}, 
 {
 "title":"O'Romeo [2026] CAM [Hindi] | Full Movie",
 "im":"Apqc5JSXQtUJPcBGm6tBO6wQaoq",

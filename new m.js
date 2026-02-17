@@ -20,6 +20,22 @@ const movies = [
 "cast":"Vijay,S. J. Suryah,Samantha Ruth Prabhu,Nithya Menen,Kajal Aggarwal"
 },
 {
+"title":"Black Adam [2022] WEB-DL [Hindi-English] | Full Movie",
+"im":"rCtreCr4xiYEWDQTebybolIh6Xe",
+"bgi":"bQXAqRx2Fgc46uCVWgoPz5L5Dtr",
+"wo":"https://love.polgen.buzz/b31e355d6f0c88c8b2f5b26ea24b3d33?token=1771330108",
+"480p":"https://vcloud.zip/oll1rkuyzryoqcq",
+"720p":"https://vcloud.zip/1wumpbbpmbpppjn",
+"1080p":"https://vcloud.zip/nrrr5tr7gc1yer5",
+"year":"2022",
+"duration":"2h 5m",
+"rating":"6.8",
+"genre":"Action,Adventure,Science Fiction",
+"description":"Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods—and imprisoned just as quickly—Black Adam is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world.",
+"type":"movie",
+"cast":"Dwayne Johnson,Aldis Hodge,Noah Centineo,Sarah Shahi,Quintessa Swindell"
+},
+{
 "title":"Mercy [2026] WEB-DL [Hindi-English] | Full Movie",
 "im":"1LzdlxK9ctsnx7nXoGF1ImHKddl",
 "bgi":"po1niVuud0tX86xOFegO5omQ2wX",

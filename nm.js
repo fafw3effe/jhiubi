@@ -1,5 +1,5 @@
 
-const itemsPerLoad = 20; // Number of items to load each time
+const itemsPerLoad = 50; // Number of items to load each time
 let currentIndex = 0;
 let isLoading = false;
 let hasMore = true;

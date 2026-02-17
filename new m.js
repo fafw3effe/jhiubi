@@ -3,6 +3,38 @@ const movies = [
 
 
 {
+"title":"Mercy [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"1LzdlxK9ctsnx7nXoGF1ImHKddl",
+"bgi":"po1niVuud0tX86xOFegO5omQ2wX",
+"wo":"https://hub.fsl-lx.cfd/f9272e8b27fe420a576c9f80ff9079d7?token=1771326744",
+"480p":"https://vcloud.zip/mxrhh-e1ie2xmv_",
+"720p":"https://vcloud.zip/tsy19gw--y4hwjm",
+"1080p":"https://vcloud.zip/kyj4otkqxt88i8q",
+"year":"2026",
+"duration":"1h 40m",
+"rating":"6.7",
+"genre":"Science Fiction,Action,Thriller",
+"description":"In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge he once championed, before it determines his fate.",
+"type":"movie",
+"cast":"Chris Pratt,Rebecca Ferguson,Kali Reis,Annabelle Wallis,Chris Sullivan"
+},
+{
+"title":"28 Years Later: The Bone Temple [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"kK1BGkG3KAvWB0WMV1DfOx9yTMZ",
+"bgi":"ryynYdXgP2vLZKH3154bLkNp1kx",
+"wo":"https://hub.fsl-lx.cfd/f9272e8b27fe420a576c9f80ff9079d7?token=1771326744",
+"480p":"https://vcloud.zip/mxrhh-e1ie2xmv_",
+"720p":"https://vcloud.zip/tsy19gw--y4hwjm",
+"1080p":"https://vcloud.zip/kyj4otkqxt88i8q",
+"year":"2026",
+"duration":"1h 49m",
+"rating":"7.2",
+"genre":"Horror,Thriller,Science Fiction",
+"description":"Dr. Kelson finds himself in a shocking new relationship - with consequences that could change the world as they know it - and Spike's encounter with Jimmy Crystal becomes a nightmare he can't escape.",
+"type":"movie",
+"cast":"Ralph Fiennes,Jack O&#39;Connell,Alfie Williams,Erin Kellyman,Chi Lewis-Parry"
+},
+{
 "title":"One-Punch Man [Season 3] [Episode 10] WEB-DL [Hindi-English] | All Episodes",
 "im":"5OXorpOxMpGksF93iWNQjUJDk1c",
 "bgi":"s0w8JbuNNxL1YgaHeDWih12C3jG",

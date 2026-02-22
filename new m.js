@@ -1,6 +1,67 @@
 // Movies data
 const movies = [
 
+
+{
+"title":"The Strangers: Chapter 2 [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"aEk9jLbiKTVssdATbrF879NvyyJ",
+"bgi":"sSaUmM4bnZJ7PW5dlyRi7iONB65",
+"480p":"https://vcloud.zip/0wgfz95bnevafee",
+"720p":"https://vcloud.zip/ruzyo9u8kyx98yx",
+"1080p":"https://vcloud.zip/f59jmijwdy1mfy2",
+"year":"2025",
+"duration":"1h 38m",
+"rating":"6.1",
+"genre":"Horror,Thriller",
+"description":"After learning that one of their victims, Maya, is still alive, The Strangers return to finish the job. With nowhere to run and no one to trust, Maya soon finds herself in a brutal fight for survival against psychopaths more than willing to kill anyone who stands in their way.",
+"type":"movie",
+"cast":"Madelaine Petsch,Froy Gutierrez,Gabriel Basso,Ema Horvath,Brooke Lena Johnson"
+},
+{
+"title":"Firebreak [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"knh3c8LzL9fMhjc5SZPAOotXyiy",
+"bgi":"thgemkoLauZxcqe6KX8wxqEc70z",
+"480p":"https://vcloud.zip/44ipyyeaxzpjfgu",
+"720p":"https://vcloud.zip/2a2waxgu001oqxy",
+"1080p":"https://vcloud.zip/cldamcamd11n91e",
+"year":"2026",
+"duration":"1h 47m",
+"rating":"6.0",
+"genre":"Thriller,Drama",
+"description":"Little Lide disappears in the forest while her family packs up their home. As a fire breaks out, her mother must race to reach her before the flames do.",
+"type":"movie",
+"cast":"Belén Cuesta,Enric Auquer,Candela Martínez,Joaquín Furriel,Diana Gómez"
+},
+{
+"title":"Assi [2026] HQ HD-TC [Hindi] | Full Movie",
+"im":"wBs2SZKKaYZJDmq01maIjdZwUT0",
+"bgi":"1lhJYCkWU5HnnRFEza8GuJOdfPz",
+"480p":"https://vcloud.zip/adpmirq3eyerlap",
+"720p":"https://vcloud.zip/bujettjevhfpgqn",
+"1080p":"https://vcloud.zip/jhnpnuukk99bu_e",
+"year":"2026",
+"duration":"2h 14m",
+"rating":"6.1",
+"genre":"Crime,Drama,Thriller",
+"description":"When Parima, a school teacher in Delhi, is gang-raped on her way home late at night after an office party, Raavi, a prosecution lawyer, fights tooth and nail to help her get justice. But when eighty sexual assault cases are reported in India every single day, regardless of age group, ethnicity, time, or place,  and only four go to trial, what does justice really mean?",
+"type":"movie",
+"cast":"Taapsee Pannu,Kani Kusruti,Mohammed Zeeshan Ayyub,Manoj Pahwa,Kumud Mishra"
+},
+{
+"title":"Do Deewane Seher Mein [2026] HD-TC [Hindi] | Full Movie",
+"im":"p8yPjT9NAH87oD9TedclRaAW7RY",
+"bgi":"ApvEXB4XrrsgUHFlKDG1Z1V3MWC",
+"480p":"https://vcloud.zip/h1zy1iez83uj7pu",
+"720p":"https://vcloud.zip/upcxm1wwl1wtnuw",
+"1080p":"https://vcloud.zip/awzlqhyyrwoxrbf",
+"year":"2026",
+"duration":"2h 17m",
+"rating":"8.0",
+"genre":"Romance,Drama",
+"description":"Two socially awkward millennials in Mumbai find love while struggling with self-acceptance. As they battle insecurities and societal pressure, their journey takes them from city chaos to mountain serenity.",
+"type":"movie",
+"cast":"Siddhant Chaturvedi,Mrunal Thakur,Ila Arun,Joy Sengupta,Ayesha Raza Mishra"
+},
 {
 "title":"The Great Indian Kapil Show [Season 1-4] WEB-DL [Hindi] | All Episodes",
 "im":"3KMCmGDlYLlJ8zGOhCs6f3FZcnj",

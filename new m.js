@@ -2,6 +2,37 @@
 const movies = [
 
 {
+"title":"The Great Indian Kapil Show [Season 1-4] WEB-DL [Hindi-English] | All Episodes",
+"im":"3KMCmGDlYLlJ8zGOhCs6f3FZcnj",
+"bgi":"w8L2oVjsSRZdZ1Wcszot9cKZMRO",
+"S4E1":"https://vcloud.zip/uf0wefw7eudr1sn","S4E2":"https://vcloud.zip/zziixkslbl2bskz","S4E3":"https://vcloud.zip/ucrl1c2crucvxv1","S4E4":"https://vcloud.zip/kmt2sbukhw1qiqu","S4E5":"https://vcloud.zip/cbovxlhfexlzvhr","S4E6":"https://vcloud.zip/6h81rvtabg7p3zz","S4E7":"https://vcloud.zip/4js4dddd6f-w40d","S4E8":"https://vcloud.zip/c3rr85odr-8rhxh","S4E9":"https://vcloud.zip/fmp35ex-xwvpse5","S4E10":"https://vcloud.zip/2na1d0lnmbe0m6n",
+"S3E1":"https://vcloud.zip/cijy_gokbsztw1v","S3E2":"https://vcloud.zip/u9ydr2xh99h8bu6","S3E3":"https://vcloud.zip/hoxhidownvlkkln","S3E4":"https://vcloud.zip/exxxco0qxgokysv","S3E5":"https://vcloud.zip/vbtthnhj115ve0p","S3E6":"https://vcloud.zip/wox7ip0k-kiwoad","S3E7":"https://vcloud.zip/i0g1i-20ux3-i0i","S3E8":"https://vcloud.zip/qijimvoler5607c","S3E9":"https://vcloud.zip/t6doqsxcjklqoqk","S3E10":"https://vcloud.zip/sbr25kuel2e2kae","S3E11":"https://vcloud.zip/ssihzk3dkzmi6uv","S3E12":"https://vcloud.zip/hskkjfj6o2ohjjz","S3E13":"https://vcloud.zip/7wwwlziwhbjwhv5","S3E14":"https://vcloud.zip/fiq04cyickihqci",
+"S2E1":"https://vcloud.zip/cvsflffwujsvml1","S2E2":"https://vcloud.zip/koy5lcmtn3p5pos","S2E3":"https://vcloud.zip/6whqmhz2eg7zlvh","S2E4":"https://vcloud.zip/_e3l_bw-uttssvj","S2E5":"https://vcloud.zip/jujttpe4voev7ba","S2E6":"https://vcloud.zip/texix4utpjip4si","S2E7":"https://vcloud.zip/sgq1e51sm_axed5","S2E8":"https://vcloud.zip/4mlwx4zhmbwy41p","S2E9":"https://vcloud.zip/v7ruqqq44oqyllk","S2E10":"https://vcloud.zip/qtmm1yu5105gzd0","S2E11":"https://vcloud.zip/edqcwdwddbkdwrc","S2E12":"https://vcloud.zip/_jgh8rhi_8yrufk","S2E13":"https://vcloud.zip/bxmw21_xjj1_j_h",
+"S1E1":"https://vcloud.zip/e1zs_r_dt2jelza","S1E2":"https://vcloud.zip/_pj_ec6xsrjzge1","S1E3":"https://vcloud.zip/ss_1azx-7paa_om","S1E4":"https://vcloud.zip/71konb7w4eww1__","S1E5":"https://vcloud.zip/zzzejtf5rkrlgsz","S1E6":"https://vcloud.zip/eaaw5dbbt5o5okb","S1E7":"https://vcloud.zip/18xyqt8nnmiq89b","S1E8":"https://vcloud.zip/rxcwwtm1xxqrhcq","S1E9":"https://vcloud.zip/al-phlbppkyk2xe","S1E10":"https://vcloud.zip/9f4mg91jye92e-r","S1E11":"https://vcloud.zip/2fsupuul58fc8p5","S1E12":"https://vcloud.zip/iv4oi47qx9jox96","S1E13":"https://vcloud.zip/ftewi8fbwrxugib",
+"year":"2024",
+"duration":"1h per episode",
+"rating":"7.8",
+"genre":"Talk,Comedy",
+"description":"Comedian Kapil Sharma hosts this laugh-out-loud variety talk show with celebrity guests, hilarious antics and his signature supporting cast.",
+"type":"series",
+"cast":"Kapil Sharma,Sunil Grover,Krishna Abhishek,Kiku Sharda,Archana Puran Singh"
+},
+{
+"title":"Kabir Singh [2019] WEB-DL [Hindi] | Full Movie",
+"im":"unqiPjtc6CGqs13zho7ZvWU85zu",
+"bgi":"yFwn006ETsYVykpI8OKocgY0Bi3",
+"480p":"https://vcloud.zip/5omlkncf4ncdntj",
+"720p":"https://vcloud.zip/uvc69c945jez9qq",
+"1080p":"https://vcloud.zip/ojnebgfjruzpr06",
+"year":"2019",
+"duration":"2h 52m",
+"rating":"6.4",
+"genre":"Drama,Romance",
+"description":"Kabir, a genius yet hostile medical student, falls in love with Preeti from his college. When Preeti's father spots the couple kissing, he opposes their relationship and decides to marry her off.",
+"type":"movie",
+"cast":"Shahid Kapoor,Kiara Advani,Arjan Bajwa,Suresh Oberoi,Nikita Dutta"
+},
+{
 "title":"56 Days [Season 1] WEB-DL [Hindi-English] | All Episodes",
 "im":"sdJLbucggwGj8NdX0UN2zt1Vwmn",
 "bgi":"77TCOiGEmHYLndIw4jsf6uUra4X",
@@ -1537,20 +1568,6 @@ const movies = [
 "description":"When a devil-worshipping criminal network plunges Seoul into chaos, the police turn to Holy Night—a trio of supernatural demon hunters—to restore ...",
 "type":"movie",
 "cast":"Don Lee,Seohyun,David Lee,Gyeong Su-jin,Jung Ji-so"
-},
-{
-"title":"The Great Indian Kapil Show [Season 3] [Episode 14] WEB-DL [Hindi] | All Episodes",
-"im":"6LWtSm2VHfenFBMvmjG9GYgfvSd",
-"bgi":"lPVM7LR0ydKVj2qzdsVgi1akjom",
-"Server 1":"https://s.pptons.com/2025/06/the-great-indian-kapil-show.html",
-"Server 2":"https://s.pptons.com/2025/06/the-great-indian-kapil-show.html",
-"year":"2024",
-"duration":"1h per episode",
-"rating":"6.9",
-"genre":"Talk,Comedy",
-"description":"Comedian Kapil Sharma hosts this laugh-out-loud variety talk show with celebrity guests, hilarious antics and his signature supporting cast.",
-"type":"series",
-"cast":"Kapil Sharma,Sunil Grover,Krishna Abhishek,Archana Puran Singh,Kiku Sharda"
 },
 {
 "title":"King & Conqueror [Season 1] WEB-DL [Hindi-English] | All Episodes",

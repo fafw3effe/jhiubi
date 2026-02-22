@@ -2,7 +2,7 @@
 const movies = [
 
 {
-"title":"The Great Indian Kapil Show [Season 1-4] WEB-DL [Hindi-English] | All Episodes",
+"title":"The Great Indian Kapil Show [Season 1-4] WEB-DL [Hindi] | All Episodes",
 "im":"3KMCmGDlYLlJ8zGOhCs6f3FZcnj",
 "bgi":"w8L2oVjsSRZdZ1Wcszot9cKZMRO",
 "S4E1":"https://vcloud.zip/uf0wefw7eudr1sn","S4E2":"https://vcloud.zip/zziixkslbl2bskz","S4E3":"https://vcloud.zip/ucrl1c2crucvxv1","S4E4":"https://vcloud.zip/kmt2sbukhw1qiqu","S4E5":"https://vcloud.zip/cbovxlhfexlzvhr","S4E6":"https://vcloud.zip/6h81rvtabg7p3zz","S4E7":"https://vcloud.zip/4js4dddd6f-w40d","S4E8":"https://vcloud.zip/c3rr85odr-8rhxh","S4E9":"https://vcloud.zip/fmp35ex-xwvpse5","S4E10":"https://vcloud.zip/2na1d0lnmbe0m6n",

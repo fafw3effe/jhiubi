@@ -2,6 +2,19 @@
 const movies = [
 
 {
+"title":"56 Days [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"sdJLbucggwGj8NdX0UN2zt1Vwmn",
+"bgi":"77TCOiGEmHYLndIw4jsf6uUra4X",
+"S1E1":"https://vcloud.zip/beop1_mpk23ui-1","S1E2":"https://vcloud.zip/pstics_y_2offlf","S1E3":"https://vcloud.zip/g1bogb3iqakasvv","S1E4":"https://vcloud.zip/9svtwq-ookqtst0","S1E5":"https://vcloud.zip/fb1v1hw0-gvny0v","S1E6":"https://vcloud.zip/w6e8g7h4elbbf71","S1E7":"https://vcloud.zip/emwpq-qgqqu4bv_","S1E8":"https://vcloud.zip/gzz8ijcbbjmjbrg",
+"year":"2026",
+"duration":"1h per episode",
+"rating":"5.0",
+"genre":"Crime,Drama,Mystery",
+"description":"When an unidentified body is found in a luxury apartment linked to Oliver Kennedy and his girlfriend Ciara Wyse, Detectives Lee Reardon and Karl Connolly reconstruct the couple's deadly romance across the past 56 days. Starring Dove Cameron, Avan Jogia, Karla Souza and Dorian Missick.",
+"type":"series",
+"cast":"Dove Cameron,Avan Jogia,Dorian Missick,Karla Souza"
+},
+{
 "title":"Beast Games [Season 1-2] WEB-DL [Hindi-English] | All Episodes",
 "im":"6Zww0KyC518xni9m12dA3qB392D",
 "bgi":"p1rQJ5bljPSk3LoCo5UKRkpsiSd",

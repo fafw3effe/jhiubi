@@ -1,7 +1,20 @@
 // Movies data
 const movies = [
 
-
+{
+"title":"Beast Games [Season 1-2] WEB-DL [Hindi-English] | All Episodes",
+"im":"6Zww0KyC518xni9m12dA3qB392D",
+"bgi":"p1rQJ5bljPSk3LoCo5UKRkpsiSd",
+"S2E1":"https://vcloud.zip/rmozjomba3axaj6","S2E2":"https://vcloud.zip/rqw0hffvkaiqskw","S2E3":"https://vcloud.zip/7mq0nnq0ec-c1ko","S2E4":"https://vcloud.zip/wtmwrrqwqq9thfw","S2E5":"https://vcloud.zip/v6kxwx1km6m9zqk","S2E6":"https://vcloud.zip/73wxilwtr4i-xwe","S2E7":"https://vcloud.zip/i3sjxyebzxvbqze","S2E8":"https://vcloud.zip/bxrprtvtwrbktwp","S2E9":"https://vcloud.zip/tfmn73pcwuxcd1o",
+"S1E1":"https://vcloud.zip/fvyii2c31phni1v","S1E2":"https://vcloud.zip/4zp_f1dxpx9txfr","S1E3":"https://vcloud.zip/2_6k_uubju9vsje","S1E4":"https://vcloud.zip/f0jasigaqealnea","S1E5":"https://vcloud.zip/cru_5uuracz1uv6","S1E6":"https://vcloud.zip/q9vueal9lqqcaa5","S1E7":"https://vcloud.zip/qwrkw_w113kq_sa","S1E8":"https://vcloud.zip/tnffdlljjk_-kjf","S1E9":"https://vcloud.zip/b1jxopofulbdlxh","S1E10":"https://vcloud.zip/s0dcvc4da-srzqd",
+"year":"2024",
+"duration":"1h per episode",
+"rating":"7.5",
+"genre":"Reality",
+"description":"I gathered 1,000 people to fight for $5,000,000, the LARGEST cash prize in TV history! We're also giving away a private island, Lamborghinis, and millions more in cash throughout the competition! Go watch to see the greatest show ever made!",
+"type":"series",
+"cast":"Jimmy Donaldson,Chandler Hallow,Karl Jacobs,Nolan Hansen,Tareq Salameh"
+},
 {
 "title":"24 [2016] WEB-DL [Hindi-Tamil] | Full Movie",
 "im":"8d8TTADw3p75Zr4ypNWD66oqUXI",

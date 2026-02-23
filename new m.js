@@ -1,7 +1,21 @@
 // Movies data
 const movies = [
 
-
+{
+"title":"JUJUTSU KAISEN [Season 1-3] WEB-DL [Hindi-English-Japanese] | All Episodes",
+"im":"fHpKWq9ayzSk8nSwqRuaAUemRKh",
+"bgi":"gmECX1DvFgdUPjtio2zaL8BPYPu",
+"S3E1":"https://vcloud.zip/gfqmffxrbbxxxds","S3E2":"https://vcloud.zip/r69zqehsz9mjrtm","S3E3":"https://vcloud.zip/wqlfbtfyhceltrx","S3E4":"https://vcloud.zip/rfy_cwk89yvlz_z","S3E5":"https://vcloud.zip/y5tj6ek8j6ntdwj",
+"S2E1":"https://vcloud.zip/8m6gvjphjayt0vt","S2E2":"https://vcloud.zip/kbj5rmzixq54xfp","S2E3":"https://vcloud.zip/kclpma07c8c76vj","S2E4":"https://vcloud.zip/u1qnoqp1zea8kay","S2E5":"https://vcloud.zip/sdmsjwxduxham9u","S2E6":"https://vcloud.zip/71zvyzqd0v7qldv","S2E7":"https://vcloud.zip/lzue1e1paa1yfzu","S2E8":"https://vcloud.zip/098w8cal8pw-ua-","S2E9":"https://vcloud.zip/k7kvyaq7uazl1ww","S2E10":"https://vcloud.zip/kdexjkgnwng-gqz","S2E11":"https://vcloud.zip/h1iyor33k2vqyr2","S2E12":"https://vcloud.zip/xnhexjvtp6yond3","S2E13":"https://vcloud.zip/hwntcl5owlcyn2w","S2E14":"https://vcloud.zip/4hc4wz3y1xmfbzx","S2E15":"https://vcloud.zip/priyt7mkuy7t6mb","S2E16":"https://vcloud.zip/b1k0pfk0fa0ttka","S2E17":"https://vcloud.zip/-ceusuee-cj1yyh","S2E18":"https://vcloud.zip/zzb_43lzfjuf3kh","S2E19":"https://vcloud.zip/frfhbhqkrquw1hf","S2E20":"https://vcloud.zip/4slnhr5pslxhhl5","S2E21":"https://vcloud.zip/ik1au1s1as1uyou","S2E22":"https://vcloud.zip/ihlcz1ziacizzbz","S2E23":"https://vcloud.zip/cll9fnluqrrzqzf",
+"S1E1":"https://vcloud.zip/3tdhbjowgdcbmop","S1E2":"https://vcloud.zip/yrjsmyst3rs2ul5","S1E3":"https://vcloud.zip/yyguk1kkabkt-1s","S1E4":"https://vcloud.zip/aubjv1p1d4juv-m","S1E5":"https://vcloud.zip/o_uzhaya8zxxoka","S1E6":"https://vcloud.zip/gi113ank-a4afcc","S1E7":"https://vcloud.zip/uhggy8gzrkxzcez","S1E8":"https://vcloud.zip/n6xtgbxbt1nnv7g","S1E9":"https://vcloud.zip/di2wof62nudoucg","S1E10":"https://vcloud.zip/msjof4nymofal_j","S1E11":"https://vcloud.zip/dldl1vyj63l3u3d","S1E12":"https://vcloud.zip/1z9zyrxnfxyycdz","S1E13":"https://vcloud.zip/z12ycjfyycj-yef","S1E14":"https://vcloud.zip/bkjow6f_kcjxa5b","S1E15":"https://vcloud.zip/fqyjbnhopjbwznn","S1E16":"https://vcloud.zip/o_jj2_wq_jt5edw","S1E17":"https://vcloud.zip/gsgpwvmnx7gz12t","S1E18":"https://vcloud.zip/gsgpwvmnx7gz12t","S1E19":"https://vcloud.zip/n5ezb2s2zzu__2o",
+"year":"2020",
+"duration":"1h per episode",
+"rating":"8.6",
+"genre":"Animation,Action & Adventure,Sci-Fi & Fantasy",
+"description":"Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
+"type":"series",
+"cast":"Junya Enoki,Yuma Uchida,Yuichi Nakamura,Asami Seto,Takahiro Sakurai"
+},
 {
 "title":"The Strangers: Chapter 2 [2025] WEB-DL [Hindi-English] | Full Movie",
 "im":"aEk9jLbiKTVssdATbrF879NvyyJ",
@@ -9711,20 +9725,6 @@ const movies = [
 "type":"movie",
 "quality":"web-dl"
 },
-{
- title:'Jujutsu Kaisen [Season 2] WEB-DL [Hindi-English-Japanese] | All Episodes',
- im:'lUWSkuen0Vu9Xnn1r1SPcucx60e',
- dl:'https://vcloud.lol/hrlhr5dh-qyyimy',
-"bgi":"gmECX1DvFgdUPjtio2zaL8BPYPu",
-"year":"2020",
-"duration":"1h per episode",
-"rating":"8.6",
-"genre":"Animation,Action & Adventure,Sci-Fi & Fantasy,",
-"description":"Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
-"type":"series",
-"cast":"Junya Enoki,Yuichi Nakamura,Yuma Uchida,Asami Seto,Takahiro Sakurai"
-},
- 
 {
  title:'Demon Slayer: Kimetsu no Yaiba - Swordsmith Village [Season 4] WEB-DL [Hindi-Japanese] | All Episodes',
  im:'6gD7G8HQay1X8mHiFVttWJ3czYb',

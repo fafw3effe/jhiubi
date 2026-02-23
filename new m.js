@@ -1,6 +1,21 @@
 // Movies data
 const movies = [
 
+
+
+{
+"title":"A Knight of the Seven Kingdoms [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"k8yARbD9iYn2nRX2HvsopfKDN2r",
+"bgi":"7mkUu1F2hVUNgz24xO8HPx0D6mK",
+"S1E1":"https://vcloud.zip/ds03blfsdodl083","S1E2":"https://vcloud.zip/uu4surc_1wp-sfb","S1E3":"https://vcloud.zip/q_6xyxzzzgvdznn","S1E4":"https://vcloud.zip/it2a1haqfqih2pi","S1E5":"https://vcloud.zip/fd21y47rfbcbo2y","S1E6":"https://vcloud.zip/jurc-nt1ppra5qw",
+"year":"2026",
+"duration":"1h per episode",
+"rating":"8.6",
+"genre":"Drama,Sci-Fi & Fantasy,Action & Adventure",
+"description":"A century before the events of Game of Thrones, two unlikely heroes wandered Westeros: a young, naive but courageous knight, Ser Duncan the Tall, and his diminutive squire, Egg. Set in an age when the Targaryen line still holds the Iron Throne and the last dragon has not yet passed from living memory, great destinies, powerful foes, and dangerous exploits await these improbable and incomparable friends.",
+"type":"series",
+"cast":"Peter Claffey,Dexter Sol Ansell,Ross Anderson,Daniel Ings,Finn Bennett"
+},
 {
 "title":"JUJUTSU KAISEN [Season 1-3] WEB-DL [Hindi-English-Japanese] | All Episodes",
 "im":"fHpKWq9ayzSk8nSwqRuaAUemRKh",

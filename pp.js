@@ -1,5 +1,5 @@
     // ---------- ROUTER & PAGE RENDERING ----------
-    const itemsPerLoad = 50;
+    const itemsPerLoad = 60;
     let currentIndex = 0;
     let isLoading = false;
     let hasMore = true;

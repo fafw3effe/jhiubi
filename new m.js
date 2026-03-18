@@ -1,8 +1,62 @@
 // Movies data
 const movies = [
 
-
-
+{
+"title":"ONE PIECE [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"blWCPEqDGLBuLB9u89CxP9ORQP4",
+"bgi":"qD211Hb5XwFxrszzBBe5EUYJerh",
+"S1E1":"https://vcloud.zip/cdvviolawige_co","S1E2":"https://vcloud.zip/fblooox_bdtl_xm","S1E3":"https://vcloud.zip/zzrrqrz3o334vxn","S1E4":"https://vcloud.zip/3in3bzv_t191v9t","S1E5":"https://vcloud.zip/mt1_ho1_tnue1qt","S1E6":"https://vcloud.zip/chbah00yaevac1p","S1E7":"https://vcloud.zip/rnkihrgpffrnrap","S1E8":"https://vcloud.zip/0d_-eblev90ubhb",
+"S2E1":"https://vcloud.zip/_pfa-_1ooh_dfnl","S2E2":"https://vcloud.zip/slusfi---ckddng","S2E3":"https://vcloud.zip/n1o-9sfxockekfx","S2E4":"https://vcloud.zip/jdubzeuxlfwquzx","S2E5":"https://vcloud.zip/rnenadafnozzsus","S2E6":"https://vcloud.zip/fyfgzq1go8ddb61","S2E7":"https://vcloud.zip/myfftb5-zqsfvqz","S2E8":"https://vcloud.zip/z81pllphxzoolps",
+"year":"2023",
+"duration":"1h per episode",
+"rating":"8.1",
+"genre":"Action & Adventure,Sci-Fi & Fantasy",
+"description":"With his straw hat and ragtag crew, young pirate Monkey D. Luffy goes on an epic voyage for treasure.",
+"type":"series",
+"cast":"Iñaki Godoy,Emily Rudd,Mackenyu,Jacob Gibson,Taz Skylar"
+},
+{
+"title":"One Mile: Chapter Two [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"3sjc9qXXmQoUWKQ3qIjS1nZaUJy",
+"bgi":"jxQIjkJBTyZSxN3yyilpR0ns6HA",
+"720p":"https://hubcloud.foo/drive/57b5ut2ty5bnrrt",
+"1080p":"https://hubcloud.foo/drive/57b5ut2ty5bnrrt",
+"year":"2026",
+"duration":"1h 23m",
+"rating":"7.1",
+"genre":"Action,Crime",
+"description":"Former special forces operative Danny is forced back onto a remote island when a violent, secretive community takes revenge by abducting his daughter Alex, launching a relentless hunt against enemies prepared for his every move.",
+"type":"movie",
+"cast":"Ryan Phillippe,Amélie Hoeferle,Sara Canning,Sage Linder,Beverley Elliott"
+},
+{
+"title":"The Taj Story [2025] WEB-DL [Hindi] | Full Movie",
+"im":"6oMIAvdPWFbwowAq7Zn8unbREAY",
+"bgi":"2JFY1Y4vtQWtCre9qbdObKj8wyN",
+"720p":"https://hubcloud.foo/drive/lnuganwz1vv4vte",
+"1080p":"https://hubcloud.foo/drive/zx7oo17l7z1v7xw",
+"year":"2025",
+"duration":"2h 41m",
+"rating":"6.5",
+"genre":"Drama",
+"description":"Vishnu Das is a local guide who becomes driven by a curiosity to uncover the true history behind the iconic Taj Mahal monument.",
+"type":"movie",
+"cast":"Paresh Rawal,Namit Das,Zakir Hussain,Sneha Wagh,Amruta Khanvilkar"
+},
+{
+"title":"Cobra [2022] WEB-DL [Hindi] | Full Movie",
+"im":"eriBjgwmiXWqKKZxciLQiWgof1K",
+"bgi":"4xCkHdDkHCTyc1rDjKt1tUYlqJj",
+"720p":"https://hubcloud.foo/drive/zynoubpzcssubma",
+"1080p":"https://hubcloud.foo/drive/ouxaqqdk2qwaokw",
+"year":"2022",
+"duration":"3h 3m",
+"rating":"5.8",
+"genre":"Action,Thriller",
+"description":"A genius mathematician doubles up as a hit man, assassinating people opposing a ruthless corporate behemoth. While he manages to stay ahead of the Interpol and the psychotic head of the corporation, who are after him, can he evade the mysterious hacker who is keen to unmask him?",
+"type":"movie",
+"cast":"Vikram,Srinidhi Shetty,Irfan Pathan,K. S. Ravikumar,Roshan Mathew"
+},
 {
 "title":"A Knight of the Seven Kingdoms [Season 1] WEB-DL [Hindi-English] | All Episodes",
 "im":"k8yARbD9iYn2nRX2HvsopfKDN2r",

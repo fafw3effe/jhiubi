@@ -2,7 +2,7 @@
 const movies = [
 
 {
-"title":"ONE PIECE [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"title":"ONE PIECE [Season 1-2] WEB-DL [Hindi-English] | All Episodes",
 "im":"blWCPEqDGLBuLB9u89CxP9ORQP4",
 "bgi":"qD211Hb5XwFxrszzBBe5EUYJerh",
 "S1E1":"https://vcloud.zip/cdvviolawige_co","S1E2":"https://vcloud.zip/fblooox_bdtl_xm","S1E3":"https://vcloud.zip/zzrrqrz3o334vxn","S1E4":"https://vcloud.zip/3in3bzv_t191v9t","S1E5":"https://vcloud.zip/mt1_ho1_tnue1qt","S1E6":"https://vcloud.zip/chbah00yaevac1p","S1E7":"https://vcloud.zip/rnkihrgpffrnrap","S1E8":"https://vcloud.zip/0d_-eblev90ubhb",

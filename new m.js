@@ -6,7 +6,7 @@ const movies = [
 {
 "title":"Dhurandhar: The Revenge [2026] V2 HQ-HDTC [Hindi (LiNE)] | Full Movie",
 "im":"ov8vrRLZGoXHpYjSY9Vpv1tHJX7",
-"bgi":"owQeDouUZ6wI6f1aTOYEFd511zn",
+"bgi":"6MQXwFxmP3wczqb9ixBfIJZEmrG",
 "wo":"https://hub.mayhem.buzz/93e9ec20f0a6c7d82bbf761210aadb95?token=1773905574",
 "480p":"https://hubcdn.fans/dl/?link=https://hub.mayhem.buzz/6f96a87470ad4945b472d61c094c1052",
 "720p":"https://hubcloud.foo/drive/uli2stc02lirmta",

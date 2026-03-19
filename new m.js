@@ -1,6 +1,40 @@
 // Movies data
 const movies = [
 
+
+
+{
+"title":"Dhurandhar: The Revenge [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"ov8vrRLZGoXHpYjSY9Vpv1tHJX7",
+"bgi":"owQeDouUZ6wI6f1aTOYEFd511zn",
+"wo":"https://hub.mayhem.buzz/93e9ec20f0a6c7d82bbf761210aadb95?token=1773905574",
+"480p":"https://hubcdn.fans/dl/?link=https://hub.mayhem.buzz/6f96a87470ad4945b472d61c094c1052",
+"720p":"https://hubcloud.foo/drive/uli2stc02lirmta",
+"1080p":"https://hubcloud.foo/drive/zgbs1z4jsvwxn5s",
+"year":"2026",
+"duration":"3h 55m",
+"rating":"9.0",
+"genre":"Action,Crime,Thriller",
+"description":"As rival gangs, corrupt officials and a ruthless Major Iqbal close in, Hamza's mission for his country spirals into a bloody personal war where the line between patriot and monster disappears in the streets of Lyari.",
+"type":"movie",
+"cast":"Ranveer Singh,Arjun Rampal,R. Madhavan,Sanjay Dutt,Sara Arjun"
+},
+{
+"title":"Dhurandhar [2025] WEB-DL [Hindi] | Full Movie",
+"im":"8FHOtUpNIk5ZPEay2N2EY5lrxkv",
+"bgi":"yRYgvo2crAeHzqKwXMVtEaDx7Qq",
+"wo":"https://hub.pizzacdn.buzz/baa95a3c85547f1a9bc58bf0d4321d03?token=1773912279",
+"480p":"https://vcloud.zip/7svt3ij6nuru_rv",
+"720p":"https://vcloud.zip/pl7lcblcc3nhgap",
+"1080p":"https://vcloud.zip/bzfkdfzg8bbhzbf",
+"year":"2025",
+"duration":"3h 34m",
+"rating":"6.7",
+"genre":"Action,Thriller",
+"description":"After the hijacking of IC-814 in 1999 and the Parliament attack in 2001, India’s Intelligence Bureau Chief, Ajay Sanyal devised an indomitable mission to intrude and rupture the terrorist network in Pakistan, by infiltrating the underworld mafia of Karachi. A 20-year-old boy from Punjab, held captive for a revenge crime, is identified by Sanyal to execute his elaborate plan.",
+"type":"movie",
+"cast":"Ranveer Singh,Akshaye Khanna,R. Madhavan,Arjun Rampal,Sanjay Dutt"
+},
 {
 "title":"ONE PIECE [Season 1-2] WEB-DL [Hindi-English] | All Episodes",
 "im":"blWCPEqDGLBuLB9u89CxP9ORQP4",
@@ -868,21 +902,6 @@ const movies = [
 "description":"After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
 "type":"movie",
 "cast":"Ginnifer Goodwin,Jason Bateman,Ke Huy Quan,Fortune Feimster,Andy Samberg"
-},
-{
-"title":"Dhurandhar [2025] V2 HQ-HDTC [Hindi LiNE] | Full Movie",
-"im":"8FHOtUpNIk5ZPEay2N2EY5lrxkv",
-"bgi":"yRYgvo2crAeHzqKwXMVtEaDx7Qq",
-"480p":"https://vcloud.zip/paipeom2futteit",
-"720p":"https://hubcloud.fyi/drive/ayyac79k8cii119",
-"1080p":"https://hubcloud.fyi/drive/bbdum12zbjjegbm",
-"year":"2025",
-"duration":"3h 34m",
-"rating":"6.7",
-"genre":"Action,Thriller",
-"description":"After the hijacking of IC-814 in 1999 and the Parliament attack in 2001, India’s Intelligence Bureau Chief, Ajay Sanyal devised an indomitable mission to intrude and rupture the terrorist network in Pakistan, by infiltrating the underworld mafia of Karachi. A 20-year-old boy from Punjab, held captive for a revenge crime, is identified by Sanyal to execute his elaborate plan.",
-"type":"movie",
-"cast":"Ranveer Singh,Akshaye Khanna,R. Madhavan,Arjun Rampal,Sanjay Dutt"
 },
 {
 "title":"Mass Jathara [2025] WEB-DL [Hindi HQ DUB-English] | Full Movie",

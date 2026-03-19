@@ -4,7 +4,7 @@ const movies = [
 
 
 {
-"title":"Dhurandhar: The Revenge [2026] WEB-DL [Hindi-English] | Full Movie",
+"title":"Dhurandhar: The Revenge [2026] V2 HQ-HDTC [Hindi (LiNE)] | Full Movie",
 "im":"ov8vrRLZGoXHpYjSY9Vpv1tHJX7",
 "bgi":"owQeDouUZ6wI6f1aTOYEFd511zn",
 "wo":"https://hub.mayhem.buzz/93e9ec20f0a6c7d82bbf761210aadb95?token=1773905574",

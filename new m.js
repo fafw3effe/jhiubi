@@ -2,7 +2,22 @@
 const movies = [
 
 
-
+{
+"title":"Peaky Blinders: The Immortal Man [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"gRMalasZEzsZi4w2VFuYusfSfqf",
+"bgi":"1fkuBPid72KGS6WmtkEXMftZtkE",
+"wo":"https://hub.mayhem.buzz/7750f18fcfca46853fb1fa694c6d5763?token=1774008936",
+"480p":"https://vcloud.zip/zkyu2r-wbo2lli2",
+"720p":"https://vcloud.zip/xxvvugmvekvkvdg",
+"1080p":"https://vcloud.zip/n2zwa28arf24mly",
+"year":"2026",
+"duration":"1h 52m",
+"rating":"8.2",
+"genre":"Crime,Drama,War",
+"description":"After his estranged son gets embroiled in a Nazi plot, self-exiled gangster Tommy Shelby must return to Birmingham to save his family — and his nation.",
+"type":"movie",
+"cast":"Cillian Murphy,Rebecca Ferguson,Tim Roth,Stephen Graham,Sophie Rundle"
+},
 {
 "title":"Chiraiya [Season 1] WEB-DL [Hindi-English] | All Episodes",
 "im":"hyiZwtwNLxTZOpZSIY1OIM0sSU9",

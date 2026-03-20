@@ -19,7 +19,7 @@ const movies = [
 "cast":"Cillian Murphy,Rebecca Ferguson,Tim Roth,Stephen Graham,Sophie Rundle"
 },
 {
-"title":"Chiraiya [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"title":"Chiraiya [Season 1] WEB-DL [Hindi] | All Episodes",
 "im":"hyiZwtwNLxTZOpZSIY1OIM0sSU9",
 "bgi":"1qIxZYPwp9SIIm7qy64ns6EQLOJ",
 "S1E1":"https://vcloud.zip/0d15-z95hdtl0t7","S1E2":"https://vcloud.zip/rbpa6kdrfgrbixp","S1E3":"https://vcloud.zip/mq3x7cc3htqqu1g","S1E4":"https://vcloud.zip/qgrkicrrxfzkk8k","S1E5":"https://vcloud.zip/f0m01ktgmzhvkxe","S1E6":"https://vcloud.zip/tbmjhiijmjiktvi",
@@ -32,7 +32,7 @@ const movies = [
 "cast":"Divya Dutta,Sanjay Mishra,Prasanna Bisht,Siddharth Shaw,Faisal Rashid"
 },
 {
-"title":"Vishnu Vinyasam [2026] WEB-DL [Hindi-English] | Full Movie",
+"title":"Vishnu Vinyasam [2026] WEB-DL [Hindi] | Full Movie",
 "im":"5ACLnlafSgtE8mlylhnWLLHfoZJ",
 "bgi":"wWTfU1AljaKHkdCZsyBoRoTYxmY",
 "wo":"https://hub.mayhem.buzz/bdcf8976402d8978bc5c6e87edfc7a3d",

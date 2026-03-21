@@ -1,7 +1,19 @@
 // Movies data
 const movies = [
 
-
+{
+"title":"Spider-Man: Brand New Day [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"ucQ0QBXXQPSxeUmWfh4YQenIuB9",
+"bgi":"gX2J1dh8BjTRPWBKiAfoGbnrtT2",
+"wo":"https://lh3.googleusercontent.com/pw/AP1GczPM2d3UbsfT7miNAzY5HvYgwO4YubohYp9C500n03wm2Y8EdgaMTnMQYZ_Y8ld3hHLuDJ_sNEuadODujT3dDXF1hzUxQeuthT1Zrw-UJ5dNueTzXIGp_R_2ldn0t10y7nyb2W9bSHf-KX9NXAqW1UL1=dv",
+"year":"2026",
+"duration":"3h 10m",
+"rating":"9.2",
+"genre":"Science Fiction,Action,Adventure",
+"description":"Four years have passed since the events of No Way Home, and Peter is now an adult living entirely alone, having voluntarily erased himself from the lives and memories of those he loves. Crime-fighting in a New York that no longer knows his name, he's devoted himself entirely to protecting his city — a full-time Spider-Man — but as the demands on him intensify, the pressure sparks a surprising physical evolution that threatens his existence, even as a strange new pattern of crimes gives rise to one of the most powerful threats he has ever faced.",
+"type":"movie",
+"cast":"Tom Holland,Zendaya,Sadie Sink,Jacob Batalon,Jon Bernthal"
+},
 {
 "title":"Peaky Blinders: The Immortal Man [2026] WEB-DL [Hindi-English] | Full Movie",
 "im":"gRMalasZEzsZi4w2VFuYusfSfqf",

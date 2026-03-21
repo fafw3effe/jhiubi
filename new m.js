@@ -2,7 +2,7 @@
 const movies = [
 
 {
-"title":"Spider-Man: Brand New Day [2026] WEB-DL [Hindi-English] | Full Movie",
+"title":"Spider-Man: Brand New Day [2026] WEB-DL [Hindi-English] | Trailer",
 "im":"ucQ0QBXXQPSxeUmWfh4YQenIuB9",
 "bgi":"gX2J1dh8BjTRPWBKiAfoGbnrtT2",
 "wo":"https://lh3.googleusercontent.com/pw/AP1GczPM2d3UbsfT7miNAzY5HvYgwO4YubohYp9C500n03wm2Y8EdgaMTnMQYZ_Y8ld3hHLuDJ_sNEuadODujT3dDXF1hzUxQeuthT1Zrw-UJ5dNueTzXIGp_R_2ldn0t10y7nyb2W9bSHf-KX9NXAqW1UL1=dv",

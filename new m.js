@@ -1,6 +1,62 @@
 // Movies data
 const movies = [
 
+
+{
+"title":"Daredevil: Born Again [Season 1-2] WEB-DL [Hindi-English] | All Episodes",
+"im":"xDUoAsU8lQHOOoRkFiBuarmACDN",
+"bgi":"qsVW888AvaRiQqhYj8hI2DtYNor",
+"S1E1":"https://vcloud.zip/m0cxoomb0-xumq7","S1E2":"https://vcloud.zip/r0dbv7jaddkk7ne","S1E3":"https://vcloud.zip/bftfm3b7xcg6667","S1E4":"https://vcloud.zip/na1mcc-11wm_mpv","S1E5":"https://vcloud.zip/qargnfntiogozbf","S1E6":"https://vcloud.zip/u1fv0wfjvaqaogf","S1E7":"https://vcloud.zip/lqf6761kfgao_lf","S1E8":"https://vcloud.zip/a12i746yi1i19d0","S1E9":"https://vcloud.zip/auf8fhf5udmv8vl","S2E1":"https://vcloud.zip/rxdl--djlxx-10l",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"8.0",
+"genre":"Drama,Action & Adventure,Crime",
+"description":"Matt Murdock, a blind lawyer with heightened abilities, is fighting for justice through his bustling law firm, while former mob boss Wilson Fisk pursues his own political endeavors in New York. When their past identities begin to emerge, both men find themselves on an inevitable collision course.",
+"type":"series",
+"cast":"Charlie Cox,Vincent D&#39;Onofrio,Margarita Levieva,Michael Gandolfini,Nikki M. James"
+},
+{
+"title":"Bait [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"gX9zWmUnrjCZEPpultvvFtSUb93",
+"bgi":"mS3UmjkstpfMknQ6KCV8nHPqXxC",
+"All Episodes":"https://vcloud.zip/1szgxzc7c13-jse",
+"year":"2026",
+"duration":"1h per episode",
+"rating":"1.0",
+"genre":"Comedy",
+"description":"Shah Latif is a struggling actor on the cusp of landing the role of a lifetime, only to find himself thrust into a full blown existential crisis and trippy conspiracy thriller all at the same time.",
+"type":"series",
+"cast":"Riz Ahmed,Guz Khan,Aasiya Shah,Sheeba Chaddha,Sajid Hasan"
+},
+{
+"title":"Sirens Kiss [Season 1] WEB-DL [Hindi-Korean] | All Episodes",
+"im":"8r8YU97YfSf6QtMKfePmTqhFTeQ",
+"bgi":"kgnukvQ1YKotz734ACQxDTvDCGe",
+"S1E1":"https://vcloud.zip/7fa7osmst74vhqi","S1E2":"https://vcloud.zip/vu1z1clzgwuyl4_","S1E3":"https://vcloud.zip/hy12shl1nhnyait","S1E4":"https://vcloud.zip/m4eajie4ct0epxm","S1E5":"https://vcloud.zip/ar61a1lbgigxqbb","S1E6":"https://vcloud.zip/_2ib1vvm6fvsgd6","S1E7":"https://vcloud.zip/s6blxxsyxr1kd11","S1E8":"https://vcloud.zip/1ciy2kc7cwonlep",
+"year":"2026",
+"duration":"1h per episode",
+"rating":"6.1",
+"genre":"Drama,Crime,Mystery",
+"description":"Ace insurance investigator Cha Woo-seok hunts a fraud ring tied to mysterious deaths and becomes dangerously entangled with Han Seol-ah, a flawless art auctioneer whose lovers all seem to die. As attraction and suspicion blur, he must uncover whether she’s a killer or a victim, before the truth costs him his life.",
+"type":"series",
+"cast":"Park Min-young,Wi Ha-jun,Kim Jung-hyun,Han Jun-woo,Kong Seong-ha"
+},
+{
+"title":"Durlabh Prasad Ki Dusri Shadi [2025] WEB-DL [Hindi] | Full Movie",
+"im":"ukUnE8AJvt5qnYPsGwzChhFK9Ca",
+"bgi":"2j8rriKUaVAMV51VJjlXQgB3198",
+"wo":"https://hub.shipcdn.buzz/8952382b3d215dff4d570137ce41da89?token=1774522423",
+"480p":"https://vcloud.zip/5ea3konlc4hkzn4",
+"720p":"https://vcloud.zip/dkwlgtk9rgqlnaq",
+"1080p":"https://vcloud.zip/dg1wb07myaqhpsk",
+"year":"2025",
+"duration":"2h 10m",
+"rating":"4.0",
+"genre":"Comedy,Family",
+"description":"Story revolves around a son who, in an unexpected turn of events, decides to arrange a marriage for his father in order to fulfill the demands of his potential better half's family, who insist on having a woman in the household.",
+"type":"movie",
+"cast":"Sanjay Mishra,Vyom Yadav,Palak Lalwani,Shrikant Verma,Navni Parihar"
+},
 {
 "title":"Spider-Man: Brand New Day [2026] WEB-DL [Hindi-English] | Trailer",
 "im":"ucQ0QBXXQPSxeUmWfh4YQenIuB9",

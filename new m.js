@@ -6,7 +6,8 @@ const movies = [
 "title":"Daredevil: Born Again [Season 1-2] WEB-DL [Hindi-English] | All Episodes",
 "im":"xDUoAsU8lQHOOoRkFiBuarmACDN",
 "bgi":"qsVW888AvaRiQqhYj8hI2DtYNor",
-"S1E1":"https://vcloud.zip/m0cxoomb0-xumq7","S1E2":"https://vcloud.zip/r0dbv7jaddkk7ne","S1E3":"https://vcloud.zip/bftfm3b7xcg6667","S1E4":"https://vcloud.zip/na1mcc-11wm_mpv","S1E5":"https://vcloud.zip/qargnfntiogozbf","S1E6":"https://vcloud.zip/u1fv0wfjvaqaogf","S1E7":"https://vcloud.zip/lqf6761kfgao_lf","S1E8":"https://vcloud.zip/a12i746yi1i19d0","S1E9":"https://vcloud.zip/auf8fhf5udmv8vl","S2E1":"https://vcloud.zip/rxdl--djlxx-10l",
+"S1E1":"https://vcloud.zip/m0cxoomb0-xumq7","S1E2":"https://vcloud.zip/r0dbv7jaddkk7ne","S1E3":"https://vcloud.zip/bftfm3b7xcg6667","S1E4":"https://vcloud.zip/na1mcc-11wm_mpv","S1E5":"https://vcloud.zip/qargnfntiogozbf","S1E6":"https://vcloud.zip/u1fv0wfjvaqaogf","S1E7":"https://vcloud.zip/lqf6761kfgao_lf","S1E8":"https://vcloud.zip/a12i746yi1i19d0","S1E9":"https://vcloud.zip/auf8fhf5udmv8vl",
+"S2E1":"https://vcloud.zip/rxdl--djlxx-10l",
 "year":"2025",
 "duration":"1h per episode",
 "rating":"8.0",
@@ -14,6 +15,22 @@ const movies = [
 "description":"Matt Murdock, a blind lawyer with heightened abilities, is fighting for justice through his bustling law firm, while former mob boss Wilson Fisk pursues his own political endeavors in New York. When their past identities begin to emerge, both men find themselves on an inevitable collision course.",
 "type":"series",
 "cast":"Charlie Cox,Vincent D&#39;Onofrio,Margarita Levieva,Michael Gandolfini,Nikki M. James"
+},
+{
+"title":"Attack on Titan [Season 1-4] WEB-DL [Hindi-Japanese] | All Episodes",
+"im":"hTP1DtLGFamjfu8WqjnuQdP1n4i",
+"bgi":"rqbCbjB19amtOtFQbb3K2lgm2zv",
+"S1E1":"https://vcloud.zip/z1vntsqebithei_","S1E2":"https://vcloud.zip/nr0n0fmnrlll5tl","S1E3":"https://vcloud.zip/a4x3cpjuxoyoxqk","S1E4":"https://vcloud.zip/lzz1g4jl1lrr1zg","S1E5":"https://vcloud.zip/5d7fzdf5d6nri6n","S1E6":"https://vcloud.zip/gqngnq3rnvan3c1","S1E7":"https://vcloud.zip/mjy6x96cycacg63","S1E8":"https://vcloud.zip/5qccyt5w5t71ydo","S1E9":"https://vcloud.zip/yu1r5y1tmeektrs","S1E10":"https://vcloud.zip/qlirfgx1zxmxml2","S1E11":"https://vcloud.zip/2b2uaw2boba15na","S1E12":"https://vcloud.zip/mc6f6wzgosorbmw","S1E13":"https://vcloud.zip/68i_x1r_v4l_rrk","S1E14":"https://vcloud.zip/hverccm_cbhbhcr","S1E15":"https://vcloud.zip/ig7w76_xeuueice","S1E16":"https://vcloud.zip/nulqgr7rikgf4a5","S1E17":"https://vcloud.zip/__nj_qfnmvdmncm","S1E18":"https://vcloud.zip/juhbgufugvhqhaj","S1E19":"https://vcloud.zip/tek1hqtwwgwnoga","S1E20":"https://vcloud.zip/rz8znhyfy1lmrg8","S1E21":"https://vcloud.zip/1wsecb1ebskzstv","S1E22":"https://vcloud.zip/rib11llurdp1x6w","S1E23":"https://vcloud.zip/sbrqriih6b9j-bz","S1E24":"https://vcloud.zip/pooxhpd-hopiqtm","S1E25":"https://vcloud.zip/aoacmfv1paaatgk",
+"S2E1":"https://vcloud.zip/dhghgvfd30ivhdw","S2E2":"https://vcloud.zip/rg--dhvyyvekayx","S2E3":"https://vcloud.zip/lnj4dupp7np6z6q","S2E4":"https://vcloud.zip/le1dpeotdqtd7p8","S2E5":"https://vcloud.zip/ggbbnwn40ebz413","S2E6":"https://vcloud.zip/bbvhk3wpp9whwvc","S2E7":"https://vcloud.zip/90h2nm06l2lmlxi","S2E8":"https://vcloud.zip/c1clw8b3w1111cg","S2E9":"https://vcloud.zip/tqry1w0fbfy9fpt","S2E10":"https://vcloud.zip/6bfvhicgnn4j5vh","S2E11":"https://vcloud.zip/0fjig91vcn1i8fr","S2E12":"https://vcloud.zip/121xrqy7gyjwxrg",
+"Season 3 All Episodes ZIP":"https://vcloud.zip/gnesovg99ssb9b5",
+"S4E1":"https://vcloud.zip/70i111d1zfwzz1i","S4E2":"https://vcloud.zip/v7hgx_ghv2vhvwl","S4E3":"https://vcloud.zip/cmvw17bl1f197o_","S4E4":"https://vcloud.zip/gphl_yy4aak_tha","S4E5":"https://vcloud.zip/1dhmcvserzjtda1","S4E6":"https://vcloud.zip/l7wiibvmxmu239i","S4E7":"https://vcloud.zip/7wtiwaqdtyil77t","S4E8":"https://vcloud.zip/4d7uhfxqmrkkuxx","S4E9":"https://vcloud.zip/dd5ggdzrzrkdwhe","S4E10":"https://vcloud.zip/x1b_bq11ybbttlt","S4E11":"https://vcloud.zip/ppz-qdv1lkp3-71","S4E12":"https://vcloud.zip/mg4gdhpree4-55e","S4E13":"https://vcloud.zip/02z5xxl05oux51-","S4E14":"https://vcloud.zip/pbn3ded2qonyd3d","S4E15":"https://vcloud.zip/nhjcnodyzhgzfz0","S4E16":"https://vcloud.zip/3lgplzh9hwq3wbw","S4E17":"https://vcloud.zip/j3oddh8mfau34c3","S4E18":"https://vcloud.zip/oi3xomyoqqwexzo","S4E19":"https://vcloud.zip/lly65yacjxeh-hl","S4E20":"https://vcloud.zip/2bn8z0pjnvja0bn","S4E21":"https://vcloud.zip/ilbuosys-u-_ids","S4E22":"https://vcloud.zip/c2mimc1m2om2_us","S4E23":"https://vcloud.zip/vcnzdizpim9pvfz","S4E24":"https://vcloud.zip/wqcywjam_ew-qwq","S4E25":"https://vcloud.zip/db-dw1yx0x0vq-w","S4E26":"https://vcloud.zip/bh74qh4s4u7ezbl","S4E27":"https://vcloud.zip/noiotw42nib1pr7","S4E28":"https://vcloud.zip/fp9cxw9hv-xchbu","S4E29":"https://vcloud.zip/211gxusrdfw9xdd","S4E30":"https://vcloud.zip/tmaqdvrmxwwsvrk",
+"year":"2013",
+"duration":"1h per episode",
+"rating":"8.7",
+"genre":"Animation,Sci-Fi & Fantasy,Action & Adventure",
+"description":"100 years ago, the last remnants of humanity were forced to retreat behind the towering walls of a fortified city to escape the massive, man-eating Titans that roamed the land outside their fortress. Only the members of the Scouting Legion dared to stray beyond the safety of the walls – but even those brave warriors seldom returned alive. Those within the city clung to the illusion of a peaceful existence until the day that dream was shattered, and their slim chance at survival was reduced to one horrifying choice: kill – or be devoured!",
+"type":"series",
+"cast":"Yuki Kaji,Yui Ishikawa,Marina Inoue,Kisho Taniyama,Hiro Shimono"
 },
 {
 "title":"Bait [Season 1] WEB-DL [Hindi-English] | All Episodes",
@@ -10022,20 +10039,6 @@ const movies = [
 "description":"Six years before Saul Goodman meets Walter White. We meet him when the man who will become Saul Goodman is known as Jimmy McGill, a small-time lawyer searching for his destiny, and, more immediately, hustling to make ends meet. Working alongside, and, often, against Jimmy, is “fixer” Mike Ehrmantraut. The series tracks Jimmys transformation into Saul Goodman, the man who puts “criminal” in “criminal lawyer.",
 "type":"series",
 "cast":"Bob Odenkirk,Jonathan Banks,Rhea Seehorn,Patrick Fabian,Michael Mando"
-},
- 
-{
- title:'Attack on Titan [Season 4] WEB-DL [Hindi-English] | All Episodes',
- im:'sfbSjGlLHsvFQrMUSNR9RrwZgV1',
- dl:'https://vcloud.lol/bbd7u7qsb3bxdip',
-"bgi":"aok7IhrbA83josNz9Dqh8tNA0Ao",
-"year":"2013",
-"duration":"1h per episode",
-"rating":"8.7",
-"genre":"Animation,Sci-Fi & Fantasy,Action & Adventure,",
-"description":"Many years ago, the last remnants of humanity were forced to retreat behind the towering walls of a fortified city to escape the massive, man-eating Titans that roamed the land outside their fortress. Only the heroic members of the Scouting Legion dared to stray beyond the safety of the walls – but even those brave warriors seldom returned alive. Those within the city clung to the illusion of a peaceful existence until the day that dream was shattered, and their slim chance at survival was reduced to one horrifying choice: kill – or be devoured!",
-"type":"series",
-"cast":"Yuki Kaji,Yui Ishikawa,Marina Inoue,Kisho Taniyama,Hiro Shimono"
 },
 {
 "title":"Dil Bechara [2020] WEB-DL [Hindi] [HEVC] | Full Movie",

@@ -1,6 +1,22 @@
 // Movies data
 const movies = [
 
+{
+"title":"Project Hail Mary [2026] HQ-PreDVD [Hindi-English] | Full Movie",
+"im":"yihdXomYb5kTeSivtFndMy5iDmf",
+"bgi":"8Tfys3mDZVp4tNoH2ktm06a0Tau",
+"wo":"https://hub.shipcdn.buzz/b0f59d3e24a7d6ec2f43b2cd48a5e3c9?token=1774887850",
+"480p":"https://vcloud.zip/ugwnogvef6ep_qp",
+"720p":"https://vcloud.zip/l7d2gebwepneiqs",
+"1080p":"https://vcloud.zip/sx6m5a6ssuw5s6w",
+"year":"2026",
+"duration":"2h 37m",
+"rating":"8.2",
+"genre":"Science Fiction,Adventure",
+"description":"Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction… but an unexpected friendship means he may not have to do it alone.",
+"type":"movie",
+"cast":"Ryan Gosling,James Ortiz,Sandra Hüller,Lionel Boyce,Milana Vayntrub"
+},
 
 {
 "title":"Daredevil: Born Again [Season 1-2] WEB-DL [Hindi-English] | All Episodes",

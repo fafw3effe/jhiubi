@@ -19,19 +19,6 @@ const movies = [
 "cast":"Ranveer Singh,Arjun Rampal,R. Madhavan,Sanjay Dutt,Sara Arjun"
 },
 {
-"title":"Wheel Of Fortune India [Season 1] WEB-DL [Hindi-English] | All Episodes",
-"im":"rJEeYiafPQrtFI3d0bpUP7NOmCL",
-"bgi":"3KHsYztMdRu94K0PFeFpZHw5d2k",
-"S1E1":"https://vcloud.zip/0c11rytvttntyct","S1E2":"https://vcloud.zip/0vkc1p12cjceq50","S1E3":"https://vcloud.zip/dghpxa-xxdhlacf","S1E4":"https://vcloud.zip/byppvhbfr1da5fr","S1E5":"https://vcloud.zip/ml4neijwzuxr4sj","S1E6":"https://vcloud.zip/ufxmlr6ebb8clem","S1E7":"https://vcloud.zip/c1qj111fjccvw18","S1E8":"https://vcloud.zip/ywfnmysay9sscdr","S1E9":"https://vcloud.zip/-kr8ag-7-n8g874","S1E10":"https://vcloud.zip/aglhw3vzh31ce31","S1E11":"https://vcloud.zip/j1ffwomrkffcccb","S1E12":"https://vcloud.zip/zhdzcjz_ndfsfc7","S1E13":"https://vcloud.zip/1oaxnlrgoaxfxq1","S1E14":"https://vcloud.zip/r4c5hpfgvvs1hkw","S1E15":"https://vcloud.zip/vz1wd1djzkuxigx","S1E16":"https://vcloud.zip/qcfpdw0eefkwkmv","S1E17":"https://vcloud.zip/3olax3asloiv5yq","S1E18":"https://vcloud.zip/bb_b_ymohy6-vog","S1E19":"https://vcloud.zip/1mdryti1v8gmvgg","S1E20":"https://vcloud.zip/ik5od-mx_ycy6-e","S1E21":"https://vcloud.zip/utabgkclijtiitg","S1E22":"https://vcloud.zip/p1hvz_x_jn4pzpy","S1E23":"https://vcloud.zip/vt7ptsthvrunsup","S1E24":"https://vcloud.zip/qstbw-t1oojodtb","S1E25":"https://vcloud.zip/vx-yq61-n6vxqsq","S1E26":"https://vcloud.zip/ogabjrwwb1j9jsy","S1E27":"https://vcloud.zip/a1hawbkhtm6voyb","S1E28":"https://vcloud.zip/uz3aot1139yo5u2","S1E29":"https://vcloud.zip/v1tot60rr6ol_p1","S1E30":"https://vcloud.zip/7-scaff39iy8iqf","S1E31":"https://vcloud.zip/h5xqhoggxeqjoeh","S1E32":"https://vcloud.zip/y7sklkk1jslbkp8","S1E33":"https://vcloud.zip/pmypj7t0pjw7d4y","S1E34":"https://vcloud.zip/jc1xkpf324w-x9z","S1E35":"https://vcloud.zip/dqtqjd21cgkgzxm","S1E36":"https://vcloud.zip/w-rerd-hscgch3r","S1E37":"https://vcloud.zip/pqaxaua5818dg1r","S1E38":"https://vcloud.zip/ffufftdffff7qrg","S1E39":"https://vcloud.zip/qmx9xu1cfs-ggtg","S1E40":"https://vcloud.zip/k1yx1a8v5du9udb","S1E41":"https://vcloud.zip/lcz622xf991czes","S1E42":"https://vcloud.zip/_u4a313y_2yv44q","S1E43":"https://vcloud.zip/-39jt6meh6m-msa","S1E44":"https://vcloud.zip/vwicvndikvtttsc","S1E45":"https://vcloud.zip/gfbv2kdmofrvq_k","S1E46":"https://vcloud.zip/6hvtmgiiic13byl","S1E47":"https://vcloud.zip/zsgzvlrs67ho6sy","S1E48":"https://vcloud.zip/pielbe9lptithmi","S1E49":"https://vcloud.zip/olngdeojrqdjeqn","S1E50":"https://vcloud.zip/mzeg50kzvbhaiwb","S1E51":"https://vcloud.zip/axhr1eljfyxdwhq",
-"year":"2026",
-"duration":"1h per episode",
-"rating":"8.0",
-"genre":"Drama,Reality,Comedy,Family",
-"description":"Recognised by Guinness World Records as the world's most popular TV game show, Wheel of Fortune arrives in India in spectacular fashion, hosted by Akshay Kumar- Contestants enter a thrilling word game, decoding phrases spanning Bollywood, pop culture and everyday life- Blending entertainment with edge-of- the-seat moments, every alphabet can change the game as players compete for paisa and prizes!",
-"type":"series",
-"cast":"Akshay Kumar,Elnaaz Norouzi"
-},
-{
 "title":"The Boys [Season 5] WEB-DL [Hindi-English] | All Episodes",
 "im":"in1R2dDc421JxsoRWaIIAqVI2KE",
 "bgi":"bq28ajZaoMyzEIm6REelqyqtEDZ",
@@ -73,6 +60,19 @@ const movies = [
 "description":"When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becomes the next target. Determined to protect her family, Sidney must face the horrors of her past to put an end to the bloodshed once and for all.",
 "type":"movie",
 "cast":"Neve Campbell,Courteney Cox,Isabel May,Jasmin Savoy Brown,Mason Gooding"
+},
+{
+"title":"Wheel Of Fortune India [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"rJEeYiafPQrtFI3d0bpUP7NOmCL",
+"bgi":"3KHsYztMdRu94K0PFeFpZHw5d2k",
+"S1E1":"https://vcloud.zip/0c11rytvttntyct","S1E2":"https://vcloud.zip/0vkc1p12cjceq50","S1E3":"https://vcloud.zip/dghpxa-xxdhlacf","S1E4":"https://vcloud.zip/byppvhbfr1da5fr","S1E5":"https://vcloud.zip/ml4neijwzuxr4sj","S1E6":"https://vcloud.zip/ufxmlr6ebb8clem","S1E7":"https://vcloud.zip/c1qj111fjccvw18","S1E8":"https://vcloud.zip/ywfnmysay9sscdr","S1E9":"https://vcloud.zip/-kr8ag-7-n8g874","S1E10":"https://vcloud.zip/aglhw3vzh31ce31","S1E11":"https://vcloud.zip/j1ffwomrkffcccb","S1E12":"https://vcloud.zip/zhdzcjz_ndfsfc7","S1E13":"https://vcloud.zip/1oaxnlrgoaxfxq1","S1E14":"https://vcloud.zip/r4c5hpfgvvs1hkw","S1E15":"https://vcloud.zip/vz1wd1djzkuxigx","S1E16":"https://vcloud.zip/qcfpdw0eefkwkmv","S1E17":"https://vcloud.zip/3olax3asloiv5yq","S1E18":"https://vcloud.zip/bb_b_ymohy6-vog","S1E19":"https://vcloud.zip/1mdryti1v8gmvgg","S1E20":"https://vcloud.zip/ik5od-mx_ycy6-e","S1E21":"https://vcloud.zip/utabgkclijtiitg","S1E22":"https://vcloud.zip/p1hvz_x_jn4pzpy","S1E23":"https://vcloud.zip/vt7ptsthvrunsup","S1E24":"https://vcloud.zip/qstbw-t1oojodtb","S1E25":"https://vcloud.zip/vx-yq61-n6vxqsq","S1E26":"https://vcloud.zip/ogabjrwwb1j9jsy","S1E27":"https://vcloud.zip/a1hawbkhtm6voyb","S1E28":"https://vcloud.zip/uz3aot1139yo5u2","S1E29":"https://vcloud.zip/v1tot60rr6ol_p1","S1E30":"https://vcloud.zip/7-scaff39iy8iqf","S1E31":"https://vcloud.zip/h5xqhoggxeqjoeh","S1E32":"https://vcloud.zip/y7sklkk1jslbkp8","S1E33":"https://vcloud.zip/pmypj7t0pjw7d4y","S1E34":"https://vcloud.zip/jc1xkpf324w-x9z","S1E35":"https://vcloud.zip/dqtqjd21cgkgzxm","S1E36":"https://vcloud.zip/w-rerd-hscgch3r","S1E37":"https://vcloud.zip/pqaxaua5818dg1r","S1E38":"https://vcloud.zip/ffufftdffff7qrg","S1E39":"https://vcloud.zip/qmx9xu1cfs-ggtg","S1E40":"https://vcloud.zip/k1yx1a8v5du9udb","S1E41":"https://vcloud.zip/lcz622xf991czes","S1E42":"https://vcloud.zip/_u4a313y_2yv44q","S1E43":"https://vcloud.zip/-39jt6meh6m-msa","S1E44":"https://vcloud.zip/vwicvndikvtttsc","S1E45":"https://vcloud.zip/gfbv2kdmofrvq_k","S1E46":"https://vcloud.zip/6hvtmgiiic13byl","S1E47":"https://vcloud.zip/zsgzvlrs67ho6sy","S1E48":"https://vcloud.zip/pielbe9lptithmi","S1E49":"https://vcloud.zip/olngdeojrqdjeqn","S1E50":"https://vcloud.zip/mzeg50kzvbhaiwb","S1E51":"https://vcloud.zip/axhr1eljfyxdwhq",
+"year":"2026",
+"duration":"1h per episode",
+"rating":"8.0",
+"genre":"Drama,Reality,Comedy,Family",
+"description":"Recognised by Guinness World Records as the world's most popular TV game show, Wheel of Fortune arrives in India in spectacular fashion, hosted by Akshay Kumar- Contestants enter a thrilling word game, decoding phrases spanning Bollywood, pop culture and everyday life- Blending entertainment with edge-of- the-seat moments, every alphabet can change the game as players compete for paisa and prizes!",
+"type":"series",
+"cast":"Akshay Kumar,Elnaaz Norouzi"
 },
 {
 "title":"Vadh 2 [2026] WEB-DL [Hindi] | Full Movie",

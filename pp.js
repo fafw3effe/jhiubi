@@ -320,8 +320,9 @@
         });
 
         // Cast & genre
-        const genreHtml = movie.genre ? movie.genre.split(',').map(g => `🎬<span class="meta-tag">${g.trim()}, </span>`).join('') : '';
-        const castHtml = movie.cast ? movie.cast.split(',').slice(0,3).map(a => `<br>🎭<span class="meta-tag">${a.trim()}, </span>`).join('') : '';
+const toTags = (str, icon, limit) => str?.split(',').slice(0, limit).map(s => `${icon}<span class="meta-tag">${s.trim()} </span>`).join('') || '';
+const genreHtml = toTags(movie.genre, '🎬');
+const castHtml = toTags(movie.cast, '🎭', 3);
 
         // ----- RELATED POSTS -----
         const relatedMovies = getRandomRelatedMovies(movie.slug, 4);

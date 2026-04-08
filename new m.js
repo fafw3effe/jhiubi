@@ -1,6 +1,124 @@
 // Movies data
 const movies = [
 
+
+
+{
+"title":"Daredevil: Born Again [Season 1-2] WEB-DL [Hindi-English] | All Episodes",
+"im":"xDUoAsU8lQHOOoRkFiBuarmACDN",
+"bgi":"qsVW888AvaRiQqhYj8hI2DtYNor",
+"S1E1":"https://vcloud.zip/m0cxoomb0-xumq7","S1E2":"https://vcloud.zip/r0dbv7jaddkk7ne","S1E3":"https://vcloud.zip/bftfm3b7xcg6667","S1E4":"https://vcloud.zip/na1mcc-11wm_mpv","S1E5":"https://vcloud.zip/qargnfntiogozbf","S1E6":"https://vcloud.zip/u1fv0wfjvaqaogf","S1E7":"https://vcloud.zip/lqf6761kfgao_lf","S1E8":"https://vcloud.zip/a12i746yi1i19d0","S1E9":"https://vcloud.zip/auf8fhf5udmv8vl",
+"S2E1":"https://vcloud.zip/58lu83d172ib8xg","S2E2":"https://vcloud.zip/jhjmzc11jmjm2jg","S2E3":"https://vcloud.zip/f-b9le-yeaa-abt","S2E4":"https://vcloud.zip/4m1mo42agyiivup",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"8.0",
+"genre":"Drama,Action & Adventure,Crime",
+"description":"Matt Murdock, a blind lawyer with heightened abilities, is fighting for justice through his bustling law firm, while former mob boss Wilson Fisk pursues his own political endeavors in New York. When their past identities begin to emerge, both men find themselves on an inevitable collision course.",
+"type":"series",
+"cast":"Charlie Cox,Vincent D&#39;Onofrio,Margarita Levieva,Michael Gandolfini,Nikki M. James"
+},
+{
+"title":"Keeper [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"mbGHijUc0C3fcM12l6ro6FgxIvg",
+"bgi":"8GjH1BU5PtoqAlhMeXQ46eq9z1D",
+"wo":"https://hub.toxix.buzz/3eaddc41747ac6edd826f31daec70e28?token=1775651752",
+"480p":"https://vcloud.zip/a1xhlrmitqflidj",
+"720p":"https://vcloud.zip/awzhz-cho0wwsob",
+"1080p":"https://vcloud.zip/nlmakpijl2mnzh2",
+"year":"2025",
+"duration":"1h 39m",
+"rating":"5.6",
+"genre":"Horror,Mystery",
+"description":"Liz and Malcolm escape for a romantic anniversary weekend at a secluded cabin. When Malcolm suddenly returns to the city, Liz finds herself isolated and in the presence of an unspeakable evil that reveals the cabin's horrifying secrets.",
+"type":"movie",
+"cast":"Tatiana Maslany,Rossif Sutherland,Birkett Turton,Eden Weiss,Cassandra Ebner"
+},
+{
+"title":"Star Wars: Maul - Shadow Lord [Season 1] WEB-DL [English] | All Episodes",
+"im":"fTfLd3s9yBNOzbFHD2aXvwEs93H",
+"bgi":"jFEd0OnACZRXVQOSf9klgIpOJdp",
+"S1E1":"https://vcloud.zip/baaybba7xnaaatb","S1E2":"https://vcloud.zip/xu2ehxar79x39i2",
+"year":"2026",
+"duration":"1h per episode",
+"rating":"7.2",
+"genre":"Animation,Sci-Fi & Fantasy,Action & Adventure",
+"description":"After the Clone Wars, Maul plots to rebuild his criminal syndicate on a planet untouched by the Empire.",
+"type":"series",
+"cast":"Sam Witwer,Gideon Adlon,Wagner Moura,Richard Ayoade"
+},
+{
+"title":"The Bride! [2026] WEB-DL [English] | Full Movie",
+"im":"lV8YHwGkYZsm6EfIqnhaSz2avKt",
+"bgi":"l8rKKMU2M9dDULO9CEtDNdWAEUJ",
+"wo":"https://hub.toxix.buzz/423ef7e39cd451261b0c971c7213f296?token=1775651545",
+"480p":"https://vcloud.zip/awypp2uhd7cb5wg",
+"720p":"https://vcloud.zip/84tyb0684gzeyyo",
+"1080p":"https://vcloud.zip/1e6fcju7fpujpud",
+"year":"2026",
+"duration":"2h 7m",
+"rating":"6.3",
+"genre":"Science Fiction,Horror,Fantasy",
+"description":"A lonely Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. Euphronious to create a companion for him. The two revive a murdered young woman and The Bride is born. But what ensues is beyond what either of them imagined.",
+"type":"movie",
+"cast":"Jessie Buckley,Christian Bale,Peter Sarsgaard,John Magaro,Jeannie Berlin"
+},
+{
+"title":"Ready or Not: Here I Come [2026] TELESYNC [English] | Full Movie",
+"im":"jRf89HVEtBZiSnOXXWDhZOfuTwW",
+"bgi":"waUDWpsm3oCrzU9P4XnsBAh2cso",
+"wo":"https://hub.toxix.buzz/10bc6c1219e6e97cc41440eb5a40fbd7?token=1775651447",
+"720p":"https://vcloud.zip/pupu03235giv06i",
+"1080p":"https://vcloud.zip/cg5l5t9czcqzbt5",
+"year":"2026",
+"duration":"1h 48m",
+"rating":"7.2",
+"genre":"Horror,Comedy",
+"description":"Moments after surviving an all-out attack from the Le Domas family, Grace discovers she’s reached the next level of the nightmarish game — and this time with her estranged sister Faith at her side. Grace has one chance to survive, keep her sister alive, and claim the High Seat of the Council that controls the world. Four rival families are hunting her for the throne, and whoever wins rules it all.",
+"type":"movie",
+"cast":"Samara Weaving,Kathryn Newton,Elijah Wood,Sarah Michelle Gellar,Shawn Hatosy"
+},
+{
+"title":"Do Not Enter [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"stM9N7eJmHKLmFR59JG4tLdN7Wk",
+"bgi":"8zyQbsmMlXfLkcctjNz5YZZwpkw",
+"wo":"https://hub.toxix.buzz/e0b79b40b5f6b33c0298ae010fa81ae1?token=1775651292",
+"480p":"https://vcloud.zip/ihth1cl2rcjq1kr",
+"720p":"https://vcloud.zip/rissfioxqnzseee",
+"1080p":"https://vcloud.zip/lrplgxsb6xl2m5m",
+"year":"2026",
+"duration":"1h 31m",
+"rating":"5.4",
+"genre":"Horror",
+"description":"A group of young explorers investigates an old abandoned hotel, only to encounter a strange supernatural being and a competing group looking for a legendary hidden treasure.",
+"type":"movie",
+"cast":"Francesca Reale,Nicholas Hamilton,Adeline Rudolph,Jake Manley,Shane Paul McGhie"
+},
+{
+"title":"Sirens Kiss [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"8r8YU97YfSf6QtMKfePmTqhFTeQ",
+"bgi":"kgnukvQ1YKotz734ACQxDTvDCGe",
+"S1E1":"https://vcloud.zip/7fa7osmst74vhqi","S1E2":"https://vcloud.zip/vu1z1clzgwuyl4_","S1E3":"https://vcloud.zip/hy12shl1nhnyait","S1E4":"https://vcloud.zip/m4eajie4ct0epxm","S1E5":"https://vcloud.zip/ar61a1lbgigxqbb","S1E6":"https://vcloud.zip/_2ib1vvm6fvsgd6","S1E7":"https://vcloud.zip/s6blxxsyxr1kd11","S1E8":"https://vcloud.zip/1ciy2kc7cwonlep","S1E9":"https://vcloud.zip/uoq0o3ffnz2ok0n","S1E10":"https://vcloud.zip/oh55kmlbiydogqr","S1E11":"https://vcloud.zip/i1vbjrudibpu19i","S1E12":"https://vcloud.zip/2ggpkkxnlcxoelw",
+"year":"2026",
+"duration":"1h per episode",
+"rating":"6.6",
+"genre":"Drama,Crime,Mystery",
+"description":"Ace insurance investigator Cha Woo-seok hunts a fraud ring tied to mysterious deaths and becomes dangerously entangled with Han Seol-ah, a flawless art auctioneer whose lovers all seem to die. As attraction and suspicion blur, he must uncover whether she’s a killer or a victim, before the truth costs him his life.",
+"type":"series",
+"cast":"Park Min-young,Wi Ha-jun,Kim Jung-hyun,Han Jun-woo,Kong Seong-ha"
+},
+{
+"title":"MTV Splitsvilla [Season 16] WEB-DL [Hindi] | All Episodes",
+"im":"hbdX2LLJhJemnf3HLodwhjwNaFx",
+"bgi":"b09hHDE3xNMUxAHCn453Hk0C9Nh",
+"S16E1":"https://vcloud.zip/emrrs4hjke1msre","S16E2":"https://vcloud.zip/zvdsiahl1oql4k9","S16E3":"https://vcloud.zip/vjhljxjiynaaah_","S16E4":"https://vcloud.zip/788v11fvi7tiyez","S16E5":"https://vcloud.zip/xq2y2soh52th2bp","S16E6":"https://vcloud.zip/_txhntwf1a714jy","S16E7":"https://vcloud.zip/lqq4woqlw4x0zmx","S16E8":"https://vcloud.zip/ipnpf57b17shyrc","S16E9":"https://vcloud.zip/lukdhu_wkwa49ki","S16E10":"https://vcloud.zip/6w4djc5049tld1p","S16E11":"https://vcloud.zip/xsel19vmkmmre1h","S16E12":"https://vcloud.zip/ve84r0rntagtxq1","S16E13":"https://vcloud.zip/tuzugyuuuurrzdl","S16E14":"https://vcloud.zip/l9hal0oad9t8-ah","S16E15":"https://vcloud.zip/hr53hlr0srkg1kk","S16E16":"https://vcloud.zip/qhmt9m3tnfjq3jq","S16E17":"https://vcloud.zip/m_rlwjpgppyty2x","S16E18":"https://vcloud.zip/ott1xfqotokktew","S16E19":"https://vcloud.zip/m5utnzlknudfggx","S16E20":"https://vcloud.zip/rlb-2euokoc9qsc","S16E21":"https://vcloud.zip/ttoyftwpor1p9tp","S16E22":"https://vcloud.zip/7i-78n1lihnjpom","S16E23":"https://vcloud.zip/k8q8rjmcnmnqi6o","S16E24":"https://vcloud.zip/zyrobi3vsw51cjy","S16E25":"https://vcloud.zip/5v1b3jucm2h1ck5","S16E26":"https://vcloud.zip/smcgmsdpdgs-twl","S16E27":"https://vcloud.zip/gjag4uautnlaat1","S16E28":"https://vcloud.zip/b4b_gppg4t1ibhi","S16E29":"https://vcloud.zip/wcrfhjhumerjcb2","S16E30":"https://vcloud.zip/gv__lppmvn1km-o","S16E31":"https://vcloud.zip/9ripzfrnhbdo9jd","S16E32":"https://vcloud.zip/qbnjoupanqjq1un","S16E33":"https://vcloud.zip/9ub6-7anakygwnm","S16E34":"https://vcloud.zip/2bhph6hb1czfccv","S16E35":"https://vcloud.zip/1chyxzpmqzzysem","S16E36":"https://vcloud.zip/5gbbpf-5qwuuhiw","S16E37":"https://vcloud.zip/1qy1tiuu1116uav","S16E38":"https://vcloud.zip/5rin3aobmm3ay9z","S16E39":"https://vcloud.zip/rccxdnnwfv1vjxd",
+"year":"2008",
+"duration":"1h per episode",
+"rating":"5.0",
+"genre":"Reality,Drama",
+"description":"Ready to witness the ultimate fight between the rules of science and the laws of love? 10 boys, 10 girls and an Oracle who will decide whether or not a couple makes the perfect match! It's time to 'catch your match', Splitsvilla style!",
+"type":"series",
+"cast":"Sunny Leone,Rannvijay Singha,Nikhil Chinappa,Uorfi Javed,Karan Kundra"
+},
 {
 "title":"Project Hail Mary [2026] HQ-PreDVD [Hindi-English] | Full Movie",
 "im":"yihdXomYb5kTeSivtFndMy5iDmf",
@@ -16,21 +134,6 @@ const movies = [
 "description":"Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction… but an unexpected friendship means he may not have to do it alone.",
 "type":"movie",
 "cast":"Ryan Gosling,James Ortiz,Sandra Hüller,Lionel Boyce,Milana Vayntrub"
-},
-
-{
-"title":"Daredevil: Born Again [Season 1-2] WEB-DL [Hindi-English] | All Episodes",
-"im":"xDUoAsU8lQHOOoRkFiBuarmACDN",
-"bgi":"qsVW888AvaRiQqhYj8hI2DtYNor",
-"S1E1":"https://vcloud.zip/m0cxoomb0-xumq7","S1E2":"https://vcloud.zip/r0dbv7jaddkk7ne","S1E3":"https://vcloud.zip/bftfm3b7xcg6667","S1E4":"https://vcloud.zip/na1mcc-11wm_mpv","S1E5":"https://vcloud.zip/qargnfntiogozbf","S1E6":"https://vcloud.zip/u1fv0wfjvaqaogf","S1E7":"https://vcloud.zip/lqf6761kfgao_lf","S1E8":"https://vcloud.zip/a12i746yi1i19d0","S1E9":"https://vcloud.zip/auf8fhf5udmv8vl",
-"S2E1":"https://vcloud.zip/rxdl--djlxx-10l",
-"year":"2025",
-"duration":"1h per episode",
-"rating":"8.0",
-"genre":"Drama,Action & Adventure,Crime",
-"description":"Matt Murdock, a blind lawyer with heightened abilities, is fighting for justice through his bustling law firm, while former mob boss Wilson Fisk pursues his own political endeavors in New York. When their past identities begin to emerge, both men find themselves on an inevitable collision course.",
-"type":"series",
-"cast":"Charlie Cox,Vincent D&#39;Onofrio,Margarita Levieva,Michael Gandolfini,Nikki M. James"
 },
 {
 "title":"Attack on Titan [Season 1-4] WEB-DL [Hindi-Japanese] | All Episodes",

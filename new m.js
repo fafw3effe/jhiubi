@@ -1,6 +1,24 @@
 // Movies data
 const movies = [
 
+
+
+{
+"title":"Dhurandhar: The Revenge [2026] HD TeleCine [Hindi (ORG UNCENSORED Audio)] | Full Movie",
+"im":"ov8vrRLZGoXHpYjSY9Vpv1tHJX7",
+"bgi":"6MQXwFxmP3wczqb9ixBfIJZEmrG",
+"wo":"https://hub.hailmary.lat/54ed08674f006eeb6488577deebc2885?token=1775652421",
+"480p":"https://vcloud.zip/yoz222dnycnqil1",
+"720p":"https://vcloud.zip/uynqswq7fxg70og",
+"1080p":"https://vcloud.zip/u__umdqvvmmmyxu",
+"year":"2026",
+"duration":"3h 55m",
+"rating":"9.0",
+"genre":"Action,Crime,Thriller",
+"description":"As rival gangs, corrupt officials and a ruthless Major Iqbal close in, Hamza's mission for his country spirals into a bloody personal war where the line between patriot and monster disappears in the streets of Lyari.",
+"type":"movie",
+"cast":"Ranveer Singh,Arjun Rampal,R. Madhavan,Sanjay Dutt,Sara Arjun"
+},
 {
 "title":"Wheel Of Fortune India [Season 1] WEB-DL [Hindi-English] | All Episodes",
 "im":"rJEeYiafPQrtFI3d0bpUP7NOmCL",
@@ -306,22 +324,6 @@ const movies = [
 "description":"During the events of the 1971 Indo-Pak war, a new generation of young Indian warriors were getting ready to defend the nation from an even bigger threat to the Indian motherland.",
 "type":"movie",
 "cast":"Sunny Deol,Varun Dhawan,Diljit Dosanjh,Ahan Shetty,Mona Singh"
-},
-{
-"title":"Dhurandhar: The Revenge [2026] V2 HQ-HDTC [Hindi (LiNE)] | Full Movie",
-"im":"ov8vrRLZGoXHpYjSY9Vpv1tHJX7",
-"bgi":"6MQXwFxmP3wczqb9ixBfIJZEmrG",
-"wo":"https://hub.mayhem.buzz/93e9ec20f0a6c7d82bbf761210aadb95?token=1773905574",
-"480p":"https://hubcdn.fans/dl/?link=https://hub.mayhem.buzz/6f96a87470ad4945b472d61c094c1052",
-"720p":"https://hubcloud.foo/drive/uli2stc02lirmta",
-"1080p":"https://hubcloud.foo/drive/zgbs1z4jsvwxn5s",
-"year":"2026",
-"duration":"3h 55m",
-"rating":"9.0",
-"genre":"Action,Crime,Thriller",
-"description":"As rival gangs, corrupt officials and a ruthless Major Iqbal close in, Hamza's mission for his country spirals into a bloody personal war where the line between patriot and monster disappears in the streets of Lyari.",
-"type":"movie",
-"cast":"Ranveer Singh,Arjun Rampal,R. Madhavan,Sanjay Dutt,Sara Arjun"
 },
 {
 "title":"Dhurandhar [2025] WEB-DL [Hindi] | Full Movie",

@@ -59,6 +59,22 @@ const movies = [
 "cast":"Charlie Cox,Vincent D&#39;Onofrio,Margarita Levieva,Michael Gandolfini,Nikki M. James"
 },
 {
+"title":"Scream 7 [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"jjyuk0edLiW8vOSnlfwWCCLpbh5",
+"bgi":"hz7TdCrpLLt2Dz7S3PS2HG9rpAO",
+"wo":"https://hub.hailmary.lat/eda06a34484292135e608ff686191a46?token=1775653259",
+"480p":"https://vcloud.zip/1kqsyhyhv218aqn",
+"720p":"https://vcloud.zip/oxni-0zxnw-0-j9",
+"1080p":"https://vcloud.zip/7saf9nabaxaba1a",
+"year":"2026",
+"duration":"1h 54m",
+"rating":"6.0",
+"genre":"Horror,Mystery,Crime",
+"description":"When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becomes the next target. Determined to protect her family, Sidney must face the horrors of her past to put an end to the bloodshed once and for all.",
+"type":"movie",
+"cast":"Neve Campbell,Courteney Cox,Isabel May,Jasmin Savoy Brown,Mason Gooding"
+},
+{
 "title":"Vadh 2 [2026] WEB-DL [Hindi] | Full Movie",
 "im":"3KFcPRcv7hNUhaxlCU14FybwkcP",
 "bgi":"5z7eorMubo7nB11P8s5a0GMXf2D",

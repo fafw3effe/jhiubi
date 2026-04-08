@@ -2,7 +2,6 @@
 const movies = [
 
 
-
 {
 "title":"Dhurandhar: The Revenge [2026] HD TeleCine [Hindi (ORG UNCENSORED Audio)] | Full Movie",
 "im":"ov8vrRLZGoXHpYjSY9Vpv1tHJX7",
@@ -58,6 +57,87 @@ const movies = [
 "description":"Matt Murdock, a blind lawyer with heightened abilities, is fighting for justice through his bustling law firm, while former mob boss Wilson Fisk pursues his own political endeavors in New York. When their past identities begin to emerge, both men find themselves on an inevitable collision course.",
 "type":"series",
 "cast":"Charlie Cox,Vincent D&#39;Onofrio,Margarita Levieva,Michael Gandolfini,Nikki M. James"
+},
+{
+"title":"Vadh 2 [2026] WEB-DL [Hindi] | Full Movie",
+"im":"3KFcPRcv7hNUhaxlCU14FybwkcP",
+"bgi":"5z7eorMubo7nB11P8s5a0GMXf2D",
+"wo":"https://hub.toxix.buzz/ded93489627b3e63dfc930304b10b2ea?token=1775652543",
+"480p":"https://vcloud.zip/8jbli1wjubbd1cx",
+"720p":"https://vcloud.zip/veapal-usxsoea3",
+"1080p":"https://vcloud.zip/lfmsnmbnmllrcqn",
+"year":"2026",
+"duration":"2h 9m",
+"rating":"5.0",
+"genre":"Crime,Drama,Thriller",
+"description":"A police officer's pursuit of truth in a shocking prison crime intertwines with the lives of a widowed prison guard and a soon to be released inmate, unravelling a web of morality and redemption.",
+"type":"movie",
+"cast":"Sanjay Mishra,Neena Gupta,Kumud Mishra,Amitt K Singh,Akshay Dogra"
+},
+{
+"title":"Scum of the Brave [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"kSJv65fW98dUqRD5f0ahLLYoZQN",
+"bgi":"1hS9huDDGeirdy1Regli71wo9ot",
+"S1E1":"https://vcloud.zip/ak1kmyavccx44s7","S1E2":"https://vcloud.zip/wfm119bhttbfwuu","S1E3":"https://vcloud.zip/l9sbs_sxzkqq__s","S1E4":"https://vcloud.zip/kvykga1gsvkdkwr","S1E5":"https://vcloud.zip/rsasdil15jtdk17","S1E6":"https://vcloud.zip/dowtunbxo1461k2",
+"year":"2026",
+"duration":"1h per episode",
+"rating":"7.3",
+"genre":"Animation,Comedy,Sci-Fi & Fantasy",
+"description":"In the mid-21st century, Tokyo's mafia can turn into ether-enhanced Demon Lords, and Braves hunt them down. Yashiro, the Grim Reaper, reluctantly takes a new apprentice named Aki Jogamine, a high school girl training to become a Brave. He soon finds himself dragged into one troublesome case after another. The supernatural story of a scumbag master and his self-proclaimed apprentice begins!",
+"type":"series",
+"cast":"Ryota Suzuki,Akari Kito,Momo Harumi,Yumiri Hanamori,Hinata Tadokoro"
+},
+{
+"title":"There Was a Cute Girl in the Heros Party, So I Tried Confessing to Her [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"lUIuuvxthqaK4euFHTNIsRmdf3s",
+"bgi":"h4wBD8Lrq8hSAxd4fRgbIDTzDLJ",
+"S1E1":"https://vcloud.zip/j01imikh9mrunxy","S1E2":"https://vcloud.zip/zdmhh-h11mjkkzs","S1E3":"https://vcloud.zip/qqmqewwy8kd1gdc","S1E4":"https://vcloud.zip/jj84bbyg9rpiykg","S1E5":"https://vcloud.zip/2h11hyfmsf7fplu","S1E6":"https://vcloud.zip/e1hejmixrkemjmx","S1E7":"https://vcloud.zip/jtew-e9mm-mje5m","S1E8":"https://vcloud.zip/1oo3ewpqha1e_1p","S1E9":"https://vcloud.zip/xqkohnsnnlho7n9","S1E10":"https://vcloud.zip/fezbrzpzefcspjj","S1E11":"https://vcloud.zip/m3ofmcqm3lmod1d",
+"year":"2026",
+"duration":"1h per episode",
+"rating":"8.1",
+"genre":"Animation,Action & Adventure,Comedy,Sci-Fi & Fantasy",
+"description":"Yoki was once a human but reincarnated into a demon. He now holds a middling position serving the Demon King tasked with taking down the hero party. But when he finally faces them, Yoki thinks... No way… she's perfect. Of all things, he fell in love at first sight with Cecilia, the priest of the hero party! Her serious gaze, her every little gesture—everything about her is too cute! She's an angel! And so, Yoki made up his mind that he would confess his feelings to her.",
+"type":"series",
+"cast":"Kohei Amasaki,Kana Hanazawa"
+},
+{
+"title":"Fairy Tail [Season 7] WEB-DL [Hindi-English] | All Episodes",
+"im":"h50lj7xO65qafNYZCrfQ7ztkMBD",
+"bgi":"lT8CUfNOkBQW9oPda2T5UPzVquM",
+"S7E1":"https://vcloud.zip/kksgxpknuskiawk","S7E2":"https://vcloud.zip/t7jms59lqxas8qf","S7E3":"https://vcloud.zip/xj2arrer0ufqamd","S7E4":"https://vcloud.zip/owvjroocqry7lvv","S7E5":"https://vcloud.zip/jj4jrwgaka3wxs1","S7E6":"https://vcloud.zip/txuheeinqh3heqr","S7E7":"https://vcloud.zip/c1wqw01w5-ostfc","S7E8":"https://vcloud.zip/smkakwsmkfv6wj_","S7E9":"https://vcloud.zip/xrqyxggvyoydxnk","S7E10":"https://vcloud.zip/xhb11zirmrmahqx","S7E11":"https://vcloud.zip/-mbe1lyvxthdxe9","S7E12":"https://vcloud.zip/zlbmbm5q881mrkb","S7E13":"https://vcloud.zip/l93csbnjz9fn9ne","S7E14":"https://vcloud.zip/b8nlpqi1m2nhqb8","S7E15":"https://vcloud.zip/39mjdhup099hmvj","S7E16":"https://vcloud.zip/3dfcc2rdshimrvh","S7E17":"https://vcloud.zip/zn_z2bzvczbunbo","S7E18":"https://vcloud.zip/mqdu5wqm1o8ucqz","S7E19":"https://vcloud.zip/exylzk1-96yyph1","S7E20":"https://vcloud.zip/n9knjy0jas1r9sf","S7E21":"https://vcloud.zip/yhr2rcu_xa11maa","S7E22":"https://vcloud.zip/2nxczfj15jfxt1o","S7E23":"https://vcloud.zip/uja_nmjidfp8md8","S7E24":"https://vcloud.zip/xuqauaxq-zuamvm","S7E25":"https://vcloud.zip/1hwpvrwpepmmvmv","S7E26":"https://vcloud.zip/xupmqa1s2iexsnn","S7E27":"https://vcloud.zip/dlf7lcbtvaoamcf","S7E28":"https://vcloud.zip/aa0gmmejg5emotm","S7E29":"https://vcloud.zip/zxuvxpwzmz-e-ni","S7E30":"https://vcloud.zip/t5uexe116jvbvej","S7E31":"https://vcloud.zip/qxxoxooxxqqut1b","S7E32":"https://vcloud.zip/qci56gbze5a9od6","S7E33":"https://vcloud.zip/jdrj-1mji5j1bw1","S7E34":"https://vcloud.zip/6yykuhbp6ypx7bh","S7E35":"https://vcloud.zip/mu6eift6eedn51f","S7E36":"https://vcloud.zip/extcc1i1stfaicq","S7E37":"https://vcloud.zip/cof2xm81hujj81m","S7E38":"https://vcloud.zip/ghgg0p0ggfq7ptq","S7E39":"https://vcloud.zip/eonvibondv8bwn9","S7E40":"https://vcloud.zip/whlusmgzzpcscpt","S7E41":"https://vcloud.zip/1u01d1e4jnhisgn","S7E42":"https://vcloud.zip/51ztnz9b4n3kstd","S7E43":"https://vcloud.zip/ajbbnfy5ylrfmil","S7E44":"https://vcloud.zip/l6tt8n5psqqfwxe","S7E45":"https://vcloud.zip/kttkrhgg1ro4bug","S7E46":"https://vcloud.zip/rodyifa88rgsawp","S7E47":"https://vcloud.zip/vnvn3bf6ifrjnu9","S7E48":"https://vcloud.zip/tz55wdm3l2tn1t3","S7E49":"https://vcloud.zip/8ffv4i___h4d8ky","S7E50":"https://vcloud.zip/fuc4clkpafpu4az","S7E51":"https://vcloud.zip/2n9nlq0kemktggr","S7E52":"https://vcloud.zip/veb_maxmwqfvij5","S7E53":"https://vcloud.zip/afjifpbu_jljylz","S7E54":"https://vcloud.zip/31gyhk4bl1ndpna","S7E55":"https://vcloud.zip/7fftk2e-dfqgfm2","S7E56":"https://vcloud.zip/cxhhzvnjdhfb1hb","S7E57":"https://vcloud.zip/4k1oqwqjn5e7k2n","S7E58":"https://vcloud.zip/dud1gxqdcszrhxp","S7E59":"https://vcloud.zip/9o7ddlu8fkxdwuy","S7E60":"https://vcloud.zip/irv_we9jqwrvr1v","S7E61":"https://vcloud.zip/mslmdgwvdmswxc7","S7E62":"https://vcloud.zip/paja1pev0pa1ovc","S7E63":"https://vcloud.zip/v-lsj4--ou4qzdv","S7E64":"https://vcloud.zip/aoblazcdy35c99j","S7E65":"https://vcloud.zip/dwaccywclweb4aw","S7E66":"https://vcloud.zip/elrqraqydjfet8d","S7E67":"https://vcloud.zip/d716naenwwannnq","S7E68":"https://vcloud.zip/-o5wf9vx5fvv2qv","S7E69":"https://vcloud.zip/rja556ic52-5hs2","S7E70":"https://vcloud.zip/30nu8l8vibgiigq","S7E71":"https://vcloud.zip/m-7imdm3imk-8wm",
+"year":"2009",
+"duration":"1h per episode",
+"rating":"7.9",
+"genre":"Animation,Action & Adventure,Comedy,Sci-Fi & Fantasy",
+"description":"Lucy is a 17-year-old girl, who wants to be a full-fledged mage. One day when visiting Harujion Town, she meets Natsu, a young man who gets sick easily by any type of transportation. But Natsu isn't just any ordinary kid, he's a member of one of the world's most infamous mage guilds: Fairy Tail.",
+"type":"series",
+"cast":"Eiji Miyashita,Fuyuka Ono,Daisuke Namikawa,Masafumi Kimura,Eri Kitamura"
+},
+{
+"title":"Captain Tsubasa [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"zHgc9nTXiP77qoy14BO7WUFTwkp",
+"bgi":"dSvRkislUYBu8jWpqRpUsfNFNcr",
+"S1E1":"https://vcloud.zip/nvm_ml4ec7or24_","S1E2":"https://vcloud.zip/s7mzlwns7iib01q","S1E3":"https://vcloud.zip/zgzz1amklxwqlqq","S1E4":"https://vcloud.zip/4qpvuspmm1jru5q","S1E5":"https://vcloud.zip/yfj9_gjd9gi_ik-","S1E6":"https://vcloud.zip/1sdphh4nslbblkk","S1E7":"https://vcloud.zip/mgce1lhpuhfhe1f","S1E8":"https://vcloud.zip/kykuuuppkb1pbhp","S1E9":"https://vcloud.zip/mambxhwsq96umqs","S1E10":"https://vcloud.zip/o9799a0enxz-r1x","S1E11":"https://vcloud.zip/1wlpgwvl5zp2025","S1E12":"https://vcloud.zip/fmq2zfcsd8mzls8",
+"year":"2018",
+"duration":"1h per episode",
+"rating":"8.2",
+"genre":"Animation,Comedy,Drama",
+"description":"The passionate story of an elementary school student whose thoughts and dreams revolve almost entirely around the love of soccer. 11-year-old Tsubasa Oozora started playing football at a very young age, and while it was mostly just a recreational sport for his friends, for him, it developed into something of an obsession.  In order to pursue his dream to the best of his elementary school abilities, Tsubasa moves with his mother to Nankatsu city, which is well-known for its excellent elementary school soccer teams. But although he was easily the best in his old town, Nankatsu has a lot more competition, and he will need all of his skill and talent in order to stand out from this new crowd.",
+"type":"series",
+"cast":"Yuko Sanpei,Kenichi Suzumura,Ayaka Fukuhara,Mutsumi Tamura,Takuya Sato"
+},
+{
+"title":"Maamla Legal Hai [Season 2] WEB-DL [Hindi] | All Episodes",
+"im":"tDP5vC5wxSpHKx88RdyRpdaSo2u",
+"bgi":"2vWxGsPxoDYnnNqsq8jlv1wiFJj",
+"All Episodes ZIP":"https://vcloud.zip/tqq4cc848cfeym3",
+"year":"2024",
+"duration":"1h per episode",
+"rating":"7.8",
+"genre":"Comedy,Drama",
+"description":"Chaos collides with the letter of the law at District Court Patparganj, where quirky employees work to uphold justice — but not without a few objections.",
+"type":"series",
+"cast":"Ravi Kishan,Naila Grrewal,Nidhi Bisht,Anant Joshi,Anjum Batra"
 },
 {
 "title":"Keeper [2025] WEB-DL [Hindi-English] | Full Movie",

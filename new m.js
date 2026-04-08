@@ -2,7 +2,19 @@
 const movies = [
 
 
-
+{
+"title":"The Boys [Season 5] WEB-DL [Hindi-English] | All Episodes",
+"im":"in1R2dDc421JxsoRWaIIAqVI2KE",
+"bgi":"bq28ajZaoMyzEIm6REelqyqtEDZ",
+"S5E1":"https://vcloud.zip/vacq9yrvgg-lvlv","S5E2":"https://vcloud.zip/b0lovm022pmoxmz",
+"year":"2019",
+"duration":"1h per episode",
+"rating":"8.4",
+"genre":"Sci-Fi & Fantasy,Action & Adventure",
+"description":"A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
+"type":"series",
+"cast":"Karl Urban,Jack Quaid,Antony Starr,Erin Moriarty,Jessie T. Usher"
+},
 {
 "title":"Daredevil: Born Again [Season 1-2] WEB-DL [Hindi-English] | All Episodes",
 "im":"xDUoAsU8lQHOOoRkFiBuarmACDN",

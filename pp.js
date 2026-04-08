@@ -321,7 +321,7 @@
 
         // Cast & genre
         const genreHtml = movie.genre ? movie.genre.split(',').map(g => `🎬<span class="meta-tag">${g.trim()}, </span>`).join('') : '';
-        const castHtml = movie.cast ? movie.cast.split(',').slice(0,3).map(a => `<span class="meta-tag">${a.trim()}, </span>`).join('') : '';
+        const castHtml = movie.cast ? movie.cast.split(',').slice(0,3).map(a => `🎭<span class="meta-tag">${a.trim()}, </span>`).join('') : '';
 
         // ----- RELATED POSTS -----
         const relatedMovies = getRandomRelatedMovies(movie.slug, 4);

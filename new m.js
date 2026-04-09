@@ -1,7 +1,21 @@
 // Movies data
 const movies = [
 
-
+{
+"title":"Tokyo Ghoul [Season 1-3] WEB-DL [Hindi-English] | All Episodes",
+"im":"1m4RlC9BTCbyY549TOdVQ5NRPcR",
+"bgi":"jnwRlthXIgJB75Mt9GEl93Dczki",
+"S1E1":"https://vcloud.zip/ztaa5k2zzvh21dd","S1E2":"https://vcloud.zip/eelk6dwemtkeq-g","S1E3":"https://vcloud.zip/60drdcc9penzx5c","S1E4":"https://vcloud.zip/b9o1dxqemvjbbo8","S1E5":"https://vcloud.zip/uss7py77sss2jsf","S1E6":"https://vcloud.zip/anid3p6qe7kye7a","S1E7":"https://vcloud.zip/-ks1hnnn4c_lyyt","S1E8":"https://vcloud.zip/it7smm1t7pazwus","S1E9":"https://vcloud.zip/xengdgd0n5btryd","S1E10":"https://vcloud.zip/lohl7dijqnwy2ue","S1E11":"https://vcloud.zip/naviqqjav8kj1q_","S1E12":"https://vcloud.zip/6ws6wshqwl4ybyn",
+"S2E1":"https://vcloud.zip/y_vpg8mn8jyajv3","S2E2":"https://vcloud.zip/croxfwpdpolrlli","S2E3":"https://vcloud.zip/rsrd_mdmn-lfqaz","S2E4":"https://vcloud.zip/lgnpufqu5m3z5nu","S2E5":"https://vcloud.zip/aq5wzg4n9m2v0a5","S2E6":"https://vcloud.zip/axq77kb7zo7bxxz","S2E7":"https://vcloud.zip/kvfvk4hkhdfdedl","S2E8":"https://vcloud.zip/2jwdk1pj9eu_9ks","S2E9":"https://vcloud.zip/c_bq2breeb11otu","S2E10":"https://vcloud.zip/13px3frh4nxmrep","S2E11":"https://vcloud.zip/iyw805zgp7vn6w0","S2E12":"https://vcloud.zip/gb_gegccnegb4mg",
+"S3E1":"https://vcloud.zip/xdktavzzvyf6zkz","S3E2":"https://vcloud.zip/r39dj0gg8oqyrj2","S3E3":"https://vcloud.zip/ktltl1pbffs6lkf","S3E4":"https://vcloud.zip/fsuvtlddbsc15sv","S3E5":"https://vcloud.zip/dxuwdbbxfyf1rap","S3E6":"https://vcloud.zip/iake1a1cvvxn6um","S3E7":"https://vcloud.zip/1xcp7bwjplqfxwj","S3E8":"https://vcloud.zip/zmuuybzdqisdd1d","S3E9":"https://vcloud.zip/fyy3k4-cyhvkecv","S3E10":"https://vcloud.zip/z3dygpxuz34h1dg","S3E11":"https://vcloud.zip/q1ohw1wuwyby0_n","S3E12":"https://vcloud.zip/e-nzeip371k9mca","S3E13":"https://vcloud.zip/akteoiyau8qi6i_","S3E14":"https://vcloud.zip/yk-278vbd1eu-k4","S3E15":"https://vcloud.zip/1sa8813arhasvz1","S3E16":"https://vcloud.zip/anmm959nr1n0gzv","S3E17":"https://vcloud.zip/drq9tmulkk75ld8","S3E18":"https://vcloud.zip/9ii4ps31f042i3h","S3E19":"https://vcloud.zip/g1gvoo4d32yv3di","S3E20":"https://vcloud.zip/ffwukyj8fu1z88g","S3E21":"https://vcloud.zip/mwuzuc4mbzvteeb",
+"year":"2014",
+"duration":"1h per episode",
+"rating":"8.3",
+"genre":"Animation,Drama,Sci-Fi & Fantasy",
+"description":"Ken Kaneki, a bookworm college student, meets Rize, a girl his own age with whom he shares many interests.",
+"type":"series",
+"cast":"Natsuki Hanae,Sora Amamiya,Shintaro Asanuma,Takahiro Sakurai,Sumire Morohoshi"
+},
 {
 "title":"Dhurandhar: The Revenge [2026] HD TeleCine [Hindi (ORG UNCENSORED Audio)] | Full Movie",
 "im":"ov8vrRLZGoXHpYjSY9Vpv1tHJX7",

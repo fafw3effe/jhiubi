@@ -2,7 +2,7 @@
 const movies = [
 
 {
-"title":"Tokyo Ghoul [Season 1-3] WEB-DL [Hindi-English] | All Episodes",
+"title":"Tokyo Ghoul [Season 1-3] WEB-DL [Hindi] | All Episodes",
 "im":"1m4RlC9BTCbyY549TOdVQ5NRPcR",
 "bgi":"jnwRlthXIgJB75Mt9GEl93Dczki",
 "S1E1":"https://vcloud.zip/ztaa5k2zzvh21dd","S1E2":"https://vcloud.zip/eelk6dwemtkeq-g","S1E3":"https://vcloud.zip/60drdcc9penzx5c","S1E4":"https://vcloud.zip/b9o1dxqemvjbbo8","S1E5":"https://vcloud.zip/uss7py77sss2jsf","S1E6":"https://vcloud.zip/anid3p6qe7kye7a","S1E7":"https://vcloud.zip/-ks1hnnn4c_lyyt","S1E8":"https://vcloud.zip/it7smm1t7pazwus","S1E9":"https://vcloud.zip/xengdgd0n5btryd","S1E10":"https://vcloud.zip/lohl7dijqnwy2ue","S1E11":"https://vcloud.zip/naviqqjav8kj1q_","S1E12":"https://vcloud.zip/6ws6wshqwl4ybyn",

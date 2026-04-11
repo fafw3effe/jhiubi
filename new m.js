@@ -1,6 +1,39 @@
 // Movies data
 const movies = [
 
+
+{
+"title":"Jana Nayagan [2026] WEB-LEAK [Tamil] | Full Movie",
+"im":"jt8pfSIdi47YpFMMWVRr8w5u2S0",
+"bgi":"v3lNH2gCojWYXVuXcT9FZLBxcSq",
+"wo":"https://hub.yummy.monster/f35044c2a4b22bab9245aaeb3a9d104f?token=1775913997",
+"480p":"https://hubcloud.foo/drive/fk11enxuxbwexmn",
+"720p":"https://hubcloud.foo/drive/1iq444gebiyi0ei",
+"1080p":"https://hubcloud.foo/drive/4gkks1nwpggk4og",
+"year":"2026",
+"duration":"3h 3m",
+"rating":"7.2",
+"genre":"Action,Drama,Science Fiction",
+"description":"A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
+"type":"movie",
+"cast":"Vijay,Mamitha Baiju,Bobby Deol,Pooja Hegde,Priyamani"
+},
+{
+"title":"Thrash [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"adk8weka3O5648g3de4z3y4aE7G",
+"bgi":"3ooXDVaz4xHKtwe4lkmF1gNopOC",
+"wo":"https://hub.yummy.monster/8945a52a95f8fa4a8103250ac3e508de?token=1775914913",
+"480p":"https://vcloud.zip/6phmp7m6mlyb6t_",
+"720p":"https://vcloud.zip/1qm1yhbpgunkpio",
+"1080p":"https://vcloud.zip/hge_plzfzzey9xa",
+"year":"2026",
+"duration":"1h 26m",
+"rating":"5.8",
+"genre":"Horror,Thriller",
+"description":"When a Category 5 hurricane decimates a coastal town, the storm surge brings devastation, chaos and something far more frightening: hungry sharks.",
+"type":"movie",
+"cast":"Phoebe Dynevor,Whitney Peak,Djimon Hounsou,Matt Nable,Andrew Lees"
+},
 {
 "title":"Tokyo Ghoul [Season 1-3] WEB-DL [Hindi] | All Episodes",
 "im":"1m4RlC9BTCbyY549TOdVQ5NRPcR",

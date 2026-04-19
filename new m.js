@@ -2,6 +2,39 @@
 const movies = [
 
 
+
+{
+"title":"Bhooth Bangla [2026] HD-TS [Hindi LiNe] | Full Movie",
+"im":"ArIS4vwUxdhm3j7tsTHmffdfU8W",
+"bgi":"A2tzVTVtnTvpji96IZmleN78KKv",
+"wo":"https://hub.odyssey.surf/7b6cdd37438ba960ea812c084027f6a2?token=1776601966",
+"480p":"https://vcloud.zip/i1rdpnphtehspsn",
+"720p":"https://vcloud.zip/wimwmja0rbpq1ru",
+"1080p":"https://vcloud.zip/eyool1dywuroydh",
+"year":"2026",
+"duration":"2h 43m",
+"rating":"6.7",
+"genre":"Horror,Comedy",
+"description":"A man inherits a palace in rural Mangalpur and plans his sister's wedding there, but strange supernatural events and panicked locals force him to investigate the property's mysterious past.",
+"type":"movie",
+"cast":"Akshay Kumar,Wamiqa Gabbi,Paresh Rawal,Tabu,Jisshu Sengupta"
+},
+{
+"title":"Dacoit [2026] HD-TC [Telugu (LiNE)] | Full Movie",
+"im":"lbrnJY7E0a9xxgj2cotNp6YI4dz",
+"bgi":"xiygh1obva8ieo7cxXmpLbA2e7K",
+"wo":"",
+"480p":"",
+"720p":"",
+"1080p":"",
+"year":"2026",
+"duration":"2h 32m",
+"rating":"7.0",
+"genre":"Action,Romance,Thriller",
+"description":"A man is convicted for a crime he didn't commit owing to a betrayal by his better half. He hunts her down seeking vengeance, as their stories intertwine with a series of robberies.",
+"type":"movie",
+"cast":"Adivi Sesh,Mrunal Thakur,Anurag Kashyap,Prakash Raj,Sunil Varma"
+},
 {
 "title":"Jana Nayagan [2026] WEB-LEAK [Tamil] | Full Movie",
 "im":"jt8pfSIdi47YpFMMWVRr8w5u2S0",

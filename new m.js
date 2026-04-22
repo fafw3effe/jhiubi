@@ -18,7 +18,7 @@ const movies = [
 "cast":"Karl Urban,Jack Quaid,Antony Starr,Erin Moriarty,Jessie T. Usher"
 },
 {
-"title":"Daredevil: Born Again [Season 1-2] WEB-DL [Hindi-English] | All Episodes",
+"title":"Daredevil: Born Again [Season 1-2] [Episode 6] WEB-DL [Hindi-English] | All Episodes",
 "im":"xDUoAsU8lQHOOoRkFiBuarmACDN",
 "bgi":"qsVW888AvaRiQqhYj8hI2DtYNor",
 

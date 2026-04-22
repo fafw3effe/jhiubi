@@ -1,8 +1,41 @@
 // Movies data
 const movies = [
 
+{
+"title":"The Boys [Season 5] [Episode 3] WEB-DL [Hindi-English] | All Episodes",
+"im":"in1R2dDc421JxsoRWaIIAqVI2KE",
+"bgi":"bq28ajZaoMyzEIm6REelqyqtEDZ",
 
+"wo":"https://hub.yummy.monster/796dded954e05b17496d845502ee2493?token=1776841386",
 
+"S5E1":"https://vcloud.zip/vacq9yrvgg-lvlv","S5E2":"https://vcloud.zip/b0lovm022pmoxmz","S5E3":"https://vcloud.zip/r6650u3p01hy2pg",
+"year":"2019",
+"duration":"1h per episode",
+"rating":"8.4",
+"genre":"Sci-Fi & Fantasy,Action & Adventure",
+"description":"A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
+"type":"series",
+"cast":"Karl Urban,Jack Quaid,Antony Starr,Erin Moriarty,Jessie T. Usher"
+},
+{
+"title":"Daredevil: Born Again [Season 1-2] WEB-DL [Hindi-English] | All Episodes",
+"im":"xDUoAsU8lQHOOoRkFiBuarmACDN",
+"bgi":"qsVW888AvaRiQqhYj8hI2DtYNor",
+
+"wo":"https://hub.odyssey.surf/b18f9e58e55cd940f36743f8b4a57650?token=1776841425",
+
+"S1E1":"https://vcloud.zip/m0cxoomb0-xumq7","S1E2":"https://vcloud.zip/r0dbv7jaddkk7ne","S1E3":"https://vcloud.zip/bftfm3b7xcg6667","S1E4":"https://vcloud.zip/na1mcc-11wm_mpv","S1E5":"https://vcloud.zip/qargnfntiogozbf","S1E6":"https://vcloud.zip/u1fv0wfjvaqaogf","S1E7":"https://vcloud.zip/lqf6761kfgao_lf","S1E8":"https://vcloud.zip/a12i746yi1i19d0","S1E9":"https://vcloud.zip/auf8fhf5udmv8vl",
+
+"S2E1":"https://vcloud.zip/58lu83d172ib8xg","S2E2":"https://vcloud.zip/jhjmzc11jmjm2jg","S2E3":"https://vcloud.zip/f-b9le-yeaa-abt","S2E4":"https://vcloud.zip/4m1mo42agyiivup","S2E5":"https://vcloud.zip/kakgi4thw4ajtlg","S2E6":"https://vcloud.zip/dxy_mm_xd51dxdy",
+
+"year":"2025",
+"duration":"1h per episode",
+"rating":"8.0",
+"genre":"Drama,Action & Adventure,Crime",
+"description":"Matt Murdock, a blind lawyer with heightened abilities, is fighting for justice through his bustling law firm, while former mob boss Wilson Fisk pursues his own political endeavors in New York. When their past identities begin to emerge, both men find themselves on an inevitable collision course.",
+"type":"series",
+"cast":"Charlie Cox,Vincent D&#39;Onofrio,Margarita Levieva,Michael Gandolfini,Nikki M. James"
+},
 {
 "title":"Bhooth Bangla [2026] HD-TS [Hindi LiNe] | Full Movie",
 "im":"ArIS4vwUxdhm3j7tsTHmffdfU8W",
@@ -18,6 +51,51 @@ const movies = [
 "description":"A man inherits a palace in rural Mangalpur and plans his sister's wedding there, but strange supernatural events and panicked locals force him to investigate the property's mysterious past.",
 "type":"movie",
 "cast":"Akshay Kumar,Wamiqa Gabbi,Paresh Rawal,Tabu,Jisshu Sengupta"
+},
+{
+"title":"Do Deewane Seher Mein [2026] WEB-DL [Hindi] | Full Movie",
+"im":"p8yPjT9NAH87oD9TedclRaAW7RY",
+"bgi":"ApvEXB4XrrsgUHFlKDG1Z1V3MWC",
+"wo":"https://hub.odyssey.surf/457a02521fd28cd8cd95d447efd41708?token=1776841008",
+"480p":"https://vcloud.zip/bcq8q-bvfk816bf",
+"720p":"https://vcloud.zip/v1tt2k1ssutwvwa",
+"1080p":"https://vcloud.zip/hhodq6xoqogjvvi",
+"year":"2026",
+"duration":"2h 17m",
+"rating":"8.0",
+"genre":"Romance,Drama",
+"description":"Two socially awkward millennials in Mumbai find love while struggling with self-acceptance. As they battle insecurities and societal pressure, their journey takes them from city chaos to mountain serenity.",
+"type":"movie",
+"cast":"Siddhant Chaturvedi,Mrunal Thakur,Ila Arun,Joy Sengupta,Ayesha Raza Mishra"
+},
+{
+"title":"Pallichattambi [2026] New HQ PreDVD [Hindi] | Full Movie",
+"im":"znOpOhDmKlspIoeR3MvFeuhG19q",
+"bgi":"tF8RQduvq8k2yGsJbfowswmSN51",
+"wo":"https://hub.odyssey.surf/f8a464b5c718ad43b4e8c3573b1ef1be?token=1776840800",
+"480p":"https://vcloud.zip/tsqzcvmmjvmm3uq",
+"720p":"https://vcloud.zip/vtipp4gxp83nv8p",
+"1080p":"https://vcloud.zip/kcgggcbwxvzg0vx",
+"year":"2026",
+"duration":"2h 8m",
+"rating":"6.0",
+"genre":"Action,Drama",
+"description":"Small-town schemer Chattambi survives by staying ahead of his neighbors through risky plans. When his plans backfire, he has to depend on extricating himself from the mess he created.",
+"type":"movie",
+"cast":"Tovino Thomas,Kayadu Lohar,Vijayaraghavan,Sudheer Karamana,T G Ravi"
+},
+{
+"title":"Matka King [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"cAWIMbCmzVBi86kEOHKjHZCKGyo",
+"bgi":"ecEnU3seGbNCPYj3c76ePmIZfat",
+"S1E1":"https://vcloud.zip/wy7s7r1sds6tfu6","S1E2":"https://vcloud.zip/m1dmsymymd_rrxa","S1E3":"https://vcloud.zip/ssl6ren91ssivly","S1E4":"https://vcloud.zip/em7nut0mdooakdh","S1E5":"https://vcloud.zip/qsmbqeeqzm7iimk","S1E6":"https://vcloud.zip/5gc1gj8vv5vm_1c","S1E7":"https://vcloud.zip/vs1bgctp4najzzp","S1E8":"https://vcloud.zip/12z9jndezjlvkdl",
+"year":"2026",
+"duration":"1h per episode",
+"rating":"6.0",
+"genre":"Drama,Crime",
+"description":"In this fictional tale set in 1960s Mumbai, an enterprising cotton trader who craves legitimacy and respect, starts a new gambling game dubbed ‘Matka’, that takes the city by storm and democratizes a terrain previously reserved for the rich and elite.",
+"type":"series",
+"cast":"Vijay Varma,Kritika Kamra,Sai Tamhankar,Siddharth Jadhav,Bhupendra Jadawat"
 },
 {
 "title":"Dacoit [2026] HD-TC [Telugu (LiNE)] | Full Movie",
@@ -97,33 +175,6 @@ const movies = [
 "description":"As rival gangs, corrupt officials and a ruthless Major Iqbal close in, Hamza's mission for his country spirals into a bloody personal war where the line between patriot and monster disappears in the streets of Lyari.",
 "type":"movie",
 "cast":"Ranveer Singh,Arjun Rampal,R. Madhavan,Sanjay Dutt,Sara Arjun"
-},
-{
-"title":"The Boys [Season 5] WEB-DL [Hindi-English] | All Episodes",
-"im":"in1R2dDc421JxsoRWaIIAqVI2KE",
-"bgi":"bq28ajZaoMyzEIm6REelqyqtEDZ",
-"S5E1":"https://vcloud.zip/vacq9yrvgg-lvlv","S5E2":"https://vcloud.zip/b0lovm022pmoxmz",
-"year":"2019",
-"duration":"1h per episode",
-"rating":"8.4",
-"genre":"Sci-Fi & Fantasy,Action & Adventure",
-"description":"A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
-"type":"series",
-"cast":"Karl Urban,Jack Quaid,Antony Starr,Erin Moriarty,Jessie T. Usher"
-},
-{
-"title":"Daredevil: Born Again [Season 1-2] WEB-DL [Hindi-English] | All Episodes",
-"im":"xDUoAsU8lQHOOoRkFiBuarmACDN",
-"bgi":"qsVW888AvaRiQqhYj8hI2DtYNor",
-"S1E1":"https://vcloud.zip/m0cxoomb0-xumq7","S1E2":"https://vcloud.zip/r0dbv7jaddkk7ne","S1E3":"https://vcloud.zip/bftfm3b7xcg6667","S1E4":"https://vcloud.zip/na1mcc-11wm_mpv","S1E5":"https://vcloud.zip/qargnfntiogozbf","S1E6":"https://vcloud.zip/u1fv0wfjvaqaogf","S1E7":"https://vcloud.zip/lqf6761kfgao_lf","S1E8":"https://vcloud.zip/a12i746yi1i19d0","S1E9":"https://vcloud.zip/auf8fhf5udmv8vl",
-"S2E1":"https://vcloud.zip/58lu83d172ib8xg","S2E2":"https://vcloud.zip/jhjmzc11jmjm2jg","S2E3":"https://vcloud.zip/f-b9le-yeaa-abt","S2E4":"https://vcloud.zip/4m1mo42agyiivup",
-"year":"2025",
-"duration":"1h per episode",
-"rating":"8.0",
-"genre":"Drama,Action & Adventure,Crime",
-"description":"Matt Murdock, a blind lawyer with heightened abilities, is fighting for justice through his bustling law firm, while former mob boss Wilson Fisk pursues his own political endeavors in New York. When their past identities begin to emerge, both men find themselves on an inevitable collision course.",
-"type":"series",
-"cast":"Charlie Cox,Vincent D&#39;Onofrio,Margarita Levieva,Michael Gandolfini,Nikki M. James"
 },
 {
 "title":"Scream 7 [2026] WEB-DL [Hindi-English] | Full Movie",
@@ -645,21 +696,6 @@ const movies = [
 "description":"When Parima, a school teacher in Delhi, is gang-raped on her way home late at night after an office party, Raavi, a prosecution lawyer, fights tooth and nail to help her get justice. But when eighty sexual assault cases are reported in India every single day, regardless of age group, ethnicity, time, or place,  and only four go to trial, what does justice really mean?",
 "type":"movie",
 "cast":"Taapsee Pannu,Kani Kusruti,Mohammed Zeeshan Ayyub,Manoj Pahwa,Kumud Mishra"
-},
-{
-"title":"Do Deewane Seher Mein [2026] HD-TC [Hindi] | Full Movie",
-"im":"p8yPjT9NAH87oD9TedclRaAW7RY",
-"bgi":"ApvEXB4XrrsgUHFlKDG1Z1V3MWC",
-"480p":"https://vcloud.zip/h1zy1iez83uj7pu",
-"720p":"https://vcloud.zip/upcxm1wwl1wtnuw",
-"1080p":"https://vcloud.zip/awzlqhyyrwoxrbf",
-"year":"2026",
-"duration":"2h 17m",
-"rating":"8.0",
-"genre":"Romance,Drama",
-"description":"Two socially awkward millennials in Mumbai find love while struggling with self-acceptance. As they battle insecurities and societal pressure, their journey takes them from city chaos to mountain serenity.",
-"type":"movie",
-"cast":"Siddhant Chaturvedi,Mrunal Thakur,Ila Arun,Joy Sengupta,Ayesha Raza Mishra"
 },
 {
 "title":"The Great Indian Kapil Show [Season 1-4] WEB-DL [Hindi] | All Episodes",

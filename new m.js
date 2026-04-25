@@ -1,6 +1,25 @@
 // Movies data
 const movies = [
 
+
+
+
+{
+"title":"Michael [2026] V2 HD-TC [English] | Full Movie",
+"im":"3Qud19bBUrrJAzy0Ilm8gRJlJXP",
+"bgi":"xBT0oNq6rsTFv4SxG5uGRIEOrq6",
+"wo":"https://hub.maverick.lat/50db8e612e54e64a26eda09f9d7fed3c?token=1777094976",
+"480p":"https://hubcloud.foo/drive/ky1tctpzbtc6rhu",
+"720p":"https://hubcloud.foo/drive/du89o185bxiohu3",
+"1080p":"https://hubcloud.foo/drive/ewnpoedeeupfe5e",
+"year":"2026",
+"duration":"2h 7m",
+"rating":"7.3",
+"genre":"Music,Drama",
+"description":"Discover the story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music, tracing his journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
+"type":"movie",
+"cast":"Jaafar Jackson,Colman Domingo,Nia Long,Juliano Krue Valdi,KeiLyn Durrel Jones"
+},
 {
 "title":"The Boys [Season 5] [Episode 4] WEB-DL [Hindi-English] | All Episodes",
 "im":"in1R2dDc421JxsoRWaIIAqVI2KE",

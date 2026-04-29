@@ -3,7 +3,41 @@ const movies = [
 
 
 
+{
+"title":"The Boys [Season 5] [Episode 5] WEB-DL [Hindi-English] | All Episodes",
+"im":"in1R2dDc421JxsoRWaIIAqVI2KE",
+"bgi":"5DfKCe8rpMSAEK0TgVXvVhF4pfC",
 
+"wo":"https://hub.diskcdn.buzz/10cd587e88b6e0c16d81dacfa65ff5e0?token=1777473610",
+
+"S5E1":"https://vcloud.zip/vacq9yrvgg-lvlv","S5E2":"https://vcloud.zip/b0lovm022pmoxmz","S5E3":"https://vcloud.zip/r6650u3p01hy2pg","S5E4":"https://vcloud.zip/g-hg1otekkwg1ck","S5E5":"https://vcloud.zip/s4p1p4jmjoox4ww",
+"year":"2019",
+"duration":"1h per episode",
+"rating":"8.4",
+"genre":"Sci-Fi & Fantasy,Action & Adventure",
+"description":"A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
+"type":"series",
+"cast":"Karl Urban,Jack Quaid,Antony Starr,Erin Moriarty,Jessie T. Usher"
+},
+{
+"title":"Daredevil: Born Again [Season 1-2] [Episode 7] WEB-DL [Hindi-English] | All Episodes",
+"im":"xDUoAsU8lQHOOoRkFiBuarmACDN",
+"bgi":"qsVW888AvaRiQqhYj8hI2DtYNor",
+
+"wo":"https://hub.diskcdn.buzz/ad9d857f4cbbd51ab1e5c2123a6d379f?token=1777474013",
+
+"S1E1":"https://vcloud.zip/m0cxoomb0-xumq7","S1E2":"https://vcloud.zip/r0dbv7jaddkk7ne","S1E3":"https://vcloud.zip/bftfm3b7xcg6667","S1E4":"https://vcloud.zip/na1mcc-11wm_mpv","S1E5":"https://vcloud.zip/qargnfntiogozbf","S1E6":"https://vcloud.zip/u1fv0wfjvaqaogf","S1E7":"https://vcloud.zip/lqf6761kfgao_lf","S1E8":"https://vcloud.zip/a12i746yi1i19d0","S1E9":"https://vcloud.zip/auf8fhf5udmv8vl",
+
+"S2E1":"https://vcloud.zip/58lu83d172ib8xg","S2E2":"https://vcloud.zip/jhjmzc11jmjm2jg","S2E3":"https://vcloud.zip/f-b9le-yeaa-abt","S2E4":"https://vcloud.zip/4m1mo42agyiivup","S2E5":"https://vcloud.zip/kakgi4thw4ajtlg","S2E6":"https://vcloud.zip/dxy_mm_xd51dxdy","S2E7":"https://vcloud.zip/qrkotsjiimfsqmq",
+
+"year":"2025",
+"duration":"1h per episode",
+"rating":"8.0",
+"genre":"Drama,Action & Adventure,Crime",
+"description":"Matt Murdock, a blind lawyer with heightened abilities, is fighting for justice through his bustling law firm, while former mob boss Wilson Fisk pursues his own political endeavors in New York. When their past identities begin to emerge, both men find themselves on an inevitable collision course.",
+"type":"series",
+"cast":"Charlie Cox,Vincent D&#39;Onofrio,Margarita Levieva,Michael Gandolfini,Nikki M. James"
+},
 {
 "title":"Michael [2026] V2 HD-TC [English] | Full Movie",
 "im":"3Qud19bBUrrJAzy0Ilm8gRJlJXP",
@@ -19,41 +53,6 @@ const movies = [
 "description":"Discover the story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music, tracing his journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
 "type":"movie",
 "cast":"Jaafar Jackson,Colman Domingo,Nia Long,Juliano Krue Valdi,KeiLyn Durrel Jones"
-},
-{
-"title":"The Boys [Season 5] [Episode 4] WEB-DL [Hindi-English] | All Episodes",
-"im":"in1R2dDc421JxsoRWaIIAqVI2KE",
-"bgi":"5DfKCe8rpMSAEK0TgVXvVhF4pfC",
-
-"wo":"https://hub.odyssey.surf/b9639be08e7cc949220d10b4c1bc1a4d?token=1776867950",
-
-"S5E1":"https://vcloud.zip/vacq9yrvgg-lvlv","S5E2":"https://vcloud.zip/b0lovm022pmoxmz","S5E3":"https://vcloud.zip/r6650u3p01hy2pg","S5E4":"https://vcloud.zip/g-hg1otekkwg1ck",
-"year":"2019",
-"duration":"1h per episode",
-"rating":"8.4",
-"genre":"Sci-Fi & Fantasy,Action & Adventure",
-"description":"A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
-"type":"series",
-"cast":"Karl Urban,Jack Quaid,Antony Starr,Erin Moriarty,Jessie T. Usher"
-},
-{
-"title":"Daredevil: Born Again [Season 1-2] [Episode 6] WEB-DL [Hindi-English] | All Episodes",
-"im":"xDUoAsU8lQHOOoRkFiBuarmACDN",
-"bgi":"qsVW888AvaRiQqhYj8hI2DtYNor",
-
-"wo":"https://hub.odyssey.surf/b18f9e58e55cd940f36743f8b4a57650?token=1776841425",
-
-"S1E1":"https://vcloud.zip/m0cxoomb0-xumq7","S1E2":"https://vcloud.zip/r0dbv7jaddkk7ne","S1E3":"https://vcloud.zip/bftfm3b7xcg6667","S1E4":"https://vcloud.zip/na1mcc-11wm_mpv","S1E5":"https://vcloud.zip/qargnfntiogozbf","S1E6":"https://vcloud.zip/u1fv0wfjvaqaogf","S1E7":"https://vcloud.zip/lqf6761kfgao_lf","S1E8":"https://vcloud.zip/a12i746yi1i19d0","S1E9":"https://vcloud.zip/auf8fhf5udmv8vl",
-
-"S2E1":"https://vcloud.zip/58lu83d172ib8xg","S2E2":"https://vcloud.zip/jhjmzc11jmjm2jg","S2E3":"https://vcloud.zip/f-b9le-yeaa-abt","S2E4":"https://vcloud.zip/4m1mo42agyiivup","S2E5":"https://vcloud.zip/kakgi4thw4ajtlg","S2E6":"https://vcloud.zip/dxy_mm_xd51dxdy",
-
-"year":"2025",
-"duration":"1h per episode",
-"rating":"8.0",
-"genre":"Drama,Action & Adventure,Crime",
-"description":"Matt Murdock, a blind lawyer with heightened abilities, is fighting for justice through his bustling law firm, while former mob boss Wilson Fisk pursues his own political endeavors in New York. When their past identities begin to emerge, both men find themselves on an inevitable collision course.",
-"type":"series",
-"cast":"Charlie Cox,Vincent D&#39;Onofrio,Margarita Levieva,Michael Gandolfini,Nikki M. James"
 },
 {
 "title":"Bhooth Bangla [2026] HD-TS [Hindi LiNe] | Full Movie",

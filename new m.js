@@ -2,7 +2,22 @@
 const movies = [
 
 
-
+{
+"title":"Jana Nayagan [2026] WEB-LEAK [Hindi – HQ/Studio Dub] | Full Movie",
+"im":"jt8pfSIdi47YpFMMWVRr8w5u2S0",
+"bgi":"v3lNH2gCojWYXVuXcT9FZLBxcSq",
+"wo":"https://hub.diskcdn.buzz/b582dc9090223d483c22883e50cfae64?token=1777823205",
+"480p":"https://hubcdn.fans/file/5ygs4F05SMsCnvN4633J0lwTw",
+"720p":"https://hubcloud.foo/drive/5uuubwgdjdc05gx",
+"1080p":"https://hubcloud.foo/drive/wwia2xkcztictiq",
+"year":"2026",
+"duration":"3h 3m",
+"rating":"7.2",
+"genre":"Action,Drama,Science Fiction",
+"description":"A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
+"type":"movie",
+"cast":"Vijay,Mamitha Baiju,Bobby Deol,Pooja Hegde,Priyamani"
+},
 {
 "title":"The Boys [Season 5] [Episode 5] WEB-DL [Hindi-English] | All Episodes",
 "im":"in1R2dDc421JxsoRWaIIAqVI2KE",
@@ -130,22 +145,6 @@ const movies = [
 "description":"A man is convicted for a crime he didn't commit owing to a betrayal by his better half. He hunts her down seeking vengeance, as their stories intertwine with a series of robberies.",
 "type":"movie",
 "cast":"Adivi Sesh,Mrunal Thakur,Anurag Kashyap,Prakash Raj,Sunil Varma"
-},
-{
-"title":"Jana Nayagan [2026] WEB-LEAK [Tamil] | Full Movie",
-"im":"jt8pfSIdi47YpFMMWVRr8w5u2S0",
-"bgi":"v3lNH2gCojWYXVuXcT9FZLBxcSq",
-"wo":"https://hub.yummy.monster/f35044c2a4b22bab9245aaeb3a9d104f?token=1775913997",
-"480p":"https://hubcloud.foo/drive/fk11enxuxbwexmn",
-"720p":"https://hubcloud.foo/drive/1iq444gebiyi0ei",
-"1080p":"https://hubcloud.foo/drive/4gkks1nwpggk4og",
-"year":"2026",
-"duration":"3h 3m",
-"rating":"7.2",
-"genre":"Action,Drama,Science Fiction",
-"description":"A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
-"type":"movie",
-"cast":"Vijay,Mamitha Baiju,Bobby Deol,Pooja Hegde,Priyamani"
 },
 {
 "title":"Thrash [2026] WEB-DL [Hindi-English] | Full Movie",

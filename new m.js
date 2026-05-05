@@ -1,13 +1,29 @@
 // Movies data 
 const movies = [ 
  
+{
+"title":"Happy Raj [2026] WEB-DL [Hindi-Tamil] | Full Movie",
+"im":"hHJlk5VABzAyxUijIAeo8CzkfLa",
+"bgi":"fug20H3qffP941XVDJCnpY61GVn",
+"wo":"https://hub.lotuscdn.club/8ef52c6cf71010e4d6700e22ada05666?token=177800518114",
+"480p":"https://hubcdn.fans/file/43iBRVLynZ8eMhpUTYG8cct8D",
+"720p":"https://hubcloud.foo/drive/kja12frgyylpbkj",
+"1080p":"https://hubcloud.foo/drive/xnfserfhbn44rl9",
+"year":"2026",
+"duration":"2h 39m",
+"rating":"5.0",
+"genre":"Romance,Comedy,Drama",
+"description":"A city romance meets a rural family invasion. What follows is chaos, comedy, and heartfelt moments. The story unfolds as a joyful entertainer that explores love, cultural clashes, and the importance of family bonds.",
+"type":"movie",
+"cast":"G. V. Prakash Kumar,Sri Gouri Priya Reddy,Abbas,George Mariyan,Geetha Kailasam"
+},
 { 
 "title":"The Great Indian Kapil Show [Season 4] [Episode 14] WEB-DL [Hindi] | All Episodes", 
 "im":"3KMCmGDlYLlJ8zGOhCs6f3FZcnj", 
 "bgi":"w8L2oVjsSRZdZ1Wcszot9cKZMRO", 
 "wo":"https://hub.diskcdn.buzz/f861668c29249288601cd01081c59149?token=1778004253149", 
  
-"S4E1":"https://vcloud.zip/uf0wefw7eudr1sn","S4E2":"https://vcloud.zip/zziixkslbl2bskz","S4E3":"https://vcloud.zip/ucrl1c2crucvxv1","S4E4":"https://vcloud.zip/kmt2sbukhw1qiqu","S4E5":"https://vcloud.zip/cbovxlhfexlzvhr","S4E6":"https://vcloud.zip/6h81rvtabg7p3zz","S4E7":"https://vcloud.zip/4js4dddd6f-w40d","S4E8":"https://vcloud.zip/c3rr85odr-8rhxh","S4E9":"https://vcloud.zip/fmp35ex-xwvpse5","S4E10":"https://vcloud.zip/2na1d0lnmbe0m6n","S4E14":"https://vcloud.zip/2wzyi8d8he7bfe1", 
+"S4E1":"https://vcloud.zip/uf0wefw7eudr1sn","S4E2":"https://vcloud.zip/zziixkslbl2bskz","S4E3":"https://vcloud.zip/ucrl1c2crucvxv1","S4E4":"https://vcloud.zip/kmt2sbukhw1qiqu","S4E5":"https://vcloud.zip/cbovxlhfexlzvhr","S4E6":"https://vcloud.zip/6h81rvtabg7p3zz","S4E7":"https://vcloud.zip/4js4dddd6f-w40d","S4E8":"https://vcloud.zip/c3rr85odr-8rhxh","S4E9":"https://vcloud.zip/fmp35ex-xwvpse5","S4E10":"https://vcloud.zip/1cyilyccicfblfo","S4E11":"https://vcloud.zip/dm29n_mq2kkafnl","S4E12":"https://vcloud.zip/n_lkq5xv3l_xqwv","S4E13":"https://vcloud.zip/xcjv8i9f3ewcs47","S4E14":"https://vcloud.zip/2wzyi8d8he7bfe1",
  
  
  
@@ -53,6 +69,22 @@ const movies = [
 "description":"Chronicles the rise of young Shivaji Bhonsale, who challenged the might of established empires to found the Maratha kingdom and lay the groundwork for 'Swarajya' (self-rule) during a turbulent period of Indian history.", 
 "type":"movie", 
 "cast":"Riteish Deshmukh,Sanjay Dutt,Abhishek Bachchan,Mahesh Manjrekar,Sachin Khedekar" 
+},
+{
+"title":"Ek Din [2026] HQ-HDTC [Hindi-Tamil-Telugu] | Full Movie",
+"im":"jpKXZyWh6WN55UJ3rqkwbzWeD5Q",
+"bgi":"oPECip1U8I0pTcSsrsPSdPb5e9p",
+"wo":"https://cdn.fsl-buckets.life/Ek.Din.2026.720p.HEVC.HDTC.Hindi-Tamil-Telugu.LiNE.Audios.HC-Subs.x265-HDHub4u.Ms.mkv?token=3c2a3fde8eee114b9f3aa3c38e9bd037_12",
+"480p":"https://hubcdn.fans/file/ySaJCuoNLuUFCFY3azpebtwx6",
+"720p":"https://hubcloud.foo/drive/wazvvsujthhju9t",
+"1080p":"https://hubcloud.foo/drive/9qyldwx9nzndzyx",
+"year":"2026",
+"duration":"2h 5m",
+"rating":"0.0",
+"genre":"Romance,Drama",
+"description":"Dino is in love with his colleague Meera but lacks the courage to express his feelings. He finally gets his chance during the company trip. He makes a wish to be with Meera for just one day, and his wish comes true.",
+"type":"movie",
+"cast":"Junaid Khan,Sai Pallavi,Kunal Kapoor,Pragati Mishra,Kavin Dave"
 },
 {
 "title":"Jana Nayagan [2026] WEB-LEAK [Hindi – HQ/Studio Dub] | Full Movie",

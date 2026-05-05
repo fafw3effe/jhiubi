@@ -1,6 +1,6 @@
-// Movies data 
-const movies = [ 
- 
+// Movies data
+const movies = [
+
 {
 "title":"Happy Raj [2026] WEB-DL [Hindi-Tamil] | Full Movie",
 "im":"hHJlk5VABzAyxUijIAeo8CzkfLa",

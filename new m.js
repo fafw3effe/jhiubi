@@ -10879,18 +10879,20 @@ const movies = [
 "cast":"Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans"
 },
 {
-"title":"Spider-Man: No Way Home [2021] Blu-Ray [Hindi-English] [HEVC] | Full Movie",
-"bgi":"1g0dhYtq4irTY1GPXvft6k4YLjm",
-"Server 1":"https://pixeldrain.dev/u/ngYtRmFq?download",
-"link":"tt10872600",
+"title":"Spider-Man: No Way Home – The Extended Version [2021] WEB-DL [Hindi-English] | Full Movie",
+"im":"1g0dhYtq4irTY1GPXvft6k4YLjm",
+"bgi":"zD5v1E4joAzFvmAEytt7fM3ivyT",
+"wo":"https://hub.diskcdn.buzz/69c279829a695bc7aa610fbefebaa945?token=177852017517",
+"480p":"https://vcloud.zip/odh75zeb1bhfmmf",
+"720p":"https://vcloud.zip/m1lvpvsy1bctino",
+"1080p":"https://vcloud.zip/qkyo_q-5xjjfw52",
 "year":"2021",
-"duration":"148 min",
-"rating":"8.3",
-"genre":"Action, Adventure, Sci-Fi",
-"description":"With Spider-Man's identity now revealed, Peter seeks help from Doctor Strange to make it so that no one remembers he is Spider-Man, but the spell goes awry, opening the multiverse and bringing dangerous villains from other realities.",
+"duration":"2h 28m",
+"rating":"7.9",
+"genre":"Action,Adventure,Science Fiction",
+"description":"Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
 "type":"movie",
-"quality":"blu-Ray",
-"cast":"Tom Holland, Zendaya, Benedict Cumberbatch, Jacob Batalon"
+"cast":"Tom Holland,Zendaya,Benedict Cumberbatch,Jacob Batalon,Jon Favreau"
 },
 {
 "title":"Guardians of the Galaxy [2014] IMAX [Hindi-English] | Full Movie",

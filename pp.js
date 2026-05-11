@@ -126,7 +126,7 @@
 
     // ---------- HOME PAGE (infinite grid) ----------
     function renderHomePage() {
-        document.title = "PP TOONS INDIA - Home";
+        document.title = "PP TOONS INDIA";
         document.getElementById('canonicalLink').href = 'https://www.pptons.com';
         const main = document.getElementById('mainContent');
         main.innerHTML = `

@@ -1,7 +1,22 @@
 // Movies data 
 const movies = [ 
 
-
+{
+"title":"Love Insurance Kompany [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"1IIUWMKzNVvI6YJX8BKE6EJ9bVd",
+"bgi":"woos7rldBAKG99HmcbNZNpMjwNk",
+"wo":"https://hub.lotuscdn.club/fdaeac70503eec316844953f5cff6a96?token=1778514076137",
+"480p":"https://vcloud.zip/hue3zzrklmiu5zu",
+"720p":"https://vcloud.zip/mzkwgrjrmwmttpp",
+"1080p":"https://vcloud.zip/swhlcuoptkhybty",
+"year":"2026",
+"duration":"2h 37m",
+"rating":"5.0",
+"genre":"Romance,Science Fiction,Comedy",
+"description":"In 2040, an app premised on ensuring romance for all is used widely by the population. When the voice behind the app's AI realizes its misconception to true love, he embarks on a quest to prove that love does not come from a screen.",
+"type":"movie",
+"cast":"Pradeep Ranganathan,Krithi Shetty,S. J. Suryah,Yogi Babu,Gouri G Kishan"
+},
 {
 "title":"Daadi Ki Shaadi [2026] HQ-PreDVD [Hindi] | Full Movie",
 "im":"hKbQjE5ZcZUpuzApEjyoVCUWwdx",

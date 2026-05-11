@@ -11256,7 +11256,7 @@ const movies = [
 "description":"The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage.",
 "type":"movie",
 "quality":"Blu-Ray",
-"cast":"Chris Pratt,Zoe Salda\u00f1a,Dave Bautista,Vin Diesel,Bradley Cooper"
+"cast":"Chris Pratt,Zoe Saldaa,Dave Bautista,Vin Diesel,Bradley Cooper"
 },
 {
 "title":"Spider-Man: Homecoming [2017] WEB-DL [Hindi-English] | Full Movie",

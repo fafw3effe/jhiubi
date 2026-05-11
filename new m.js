@@ -2,7 +2,7 @@
 const movies = [ 
 
 {
-"title":"Love Insurance Kompany [2026] WEB-DL [Hindi-English] | Full Movie",
+"title":"Love Insurance Kompany [2026] WEB-DL [Hindi-Tamil] | Full Movie",
 "im":"1IIUWMKzNVvI6YJX8BKE6EJ9bVd",
 "bgi":"woos7rldBAKG99HmcbNZNpMjwNk",
 "wo":"https://hub.lotuscdn.club/fdaeac70503eec316844953f5cff6a96?token=1778514076137",

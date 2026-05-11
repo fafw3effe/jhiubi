@@ -1,29 +1,65 @@
-// Movies data
-const movies = [
-
-
+// Movies data 
+const movies = [ 
+ 
 {
-"title":"Bhartha Mahasayulaku Wignyapthi [2026] WEB-DL [Hindi-Telugu] | Full Movie",
-"im":"3QoTnvsbIAAWVXpfHzQKeEQhUi7",
-"bgi":"oBv9eCzvutDV9Bt1IwRjMFfuS3L",
-"wo":"https://hub.diskcdn.buzz/70267ae351e47f746e79c43e43bf7a67?token=1778004052145",
-"480p":"https://vcloud.zip/85nyrr_w3wa6nnb",
-"720p":"https://vcloud.zip/wwkpu05vqg0fqsm",
-"1080p":"https://vcloud.zip/tc5kvnid9vkntno",
+"title":"Happy Raj [2026] WEB-DL [Hindi-Tamil] | Full Movie",
+"im":"hHJlk5VABzAyxUijIAeo8CzkfLa",
+"bgi":"fug20H3qffP941XVDJCnpY61GVn",
+"wo":"https://hub.lotuscdn.club/8ef52c6cf71010e4d6700e22ada05666?token=177800518114",
+"480p":"https://hubcdn.fans/file/43iBRVLynZ8eMhpUTYG8cct8D",
+"720p":"https://hubcloud.foo/drive/kja12frgyylpbkj",
+"1080p":"https://hubcloud.foo/drive/xnfserfhbn44rl9",
 "year":"2026",
-"duration":"2h 22m",
-"rating":"4.7",
-"genre":"Family,Drama,Comedy",
-"description":"What begins as a casual fling between a married man, Ram a.k.a Satya and Manasa in the middle of an international business trip, balloons into an out-of-the-blue mess when the latter lands in Hyderabad, disrupting Ram’s otherwise stable marriage with Balamani.",
+"duration":"2h 39m",
+"rating":"5.0",
+"genre":"Romance,Comedy,Drama",
+"description":"A city romance meets a rural family invasion. What follows is chaos, comedy, and heartfelt moments. The story unfolds as a joyful entertainer that explores love, cultural clashes, and the importance of family bonds.",
 "type":"movie",
-"cast":"Ravi Teja,Ashika Ranganath,Dimple Hayathi,Sunil Varma,Satya"
+"cast":"G. V. Prakash Kumar,Sri Gouri Priya Reddy,Abbas,George Mariyan,Geetha Kailasam"
 },
-{
-"title":"Raja Shivaji [2026] HQ-HDTC [Hindi] | Full Movie",
-"im":"9e2Wc6sbeU1YdBWLJIDyMcEWrN2",
-"bgi":"w4bjx5qCKG6SjhnqLi2aj1GUsxe",
-"wo":"https://hub.diskcdn.buzz/e22bd0546838e743dda52ea34934f8fc?token=1778003941144",
-"480p":"https://vcloud.zip/prccxc19pw5191f",
+{ 
+"title":"The Great Indian Kapil Show [Season 4] [Episode 14] WEB-DL [Hindi] | All Episodes", 
+"im":"3KMCmGDlYLlJ8zGOhCs6f3FZcnj", 
+"bgi":"w8L2oVjsSRZdZ1Wcszot9cKZMRO", 
+"wo":"https://hub.diskcdn.buzz/f861668c29249288601cd01081c59149?token=1778004253149", 
+ 
+"S4E1":"https://vcloud.zip/uf0wefw7eudr1sn","S4E2":"https://vcloud.zip/zziixkslbl2bskz","S4E3":"https://vcloud.zip/ucrl1c2crucvxv1","S4E4":"https://vcloud.zip/kmt2sbukhw1qiqu","S4E5":"https://vcloud.zip/cbovxlhfexlzvhr","S4E6":"https://vcloud.zip/6h81rvtabg7p3zz","S4E7":"https://vcloud.zip/4js4dddd6f-w40d","S4E8":"https://vcloud.zip/c3rr85odr-8rhxh","S4E9":"https://vcloud.zip/fmp35ex-xwvpse5","S4E10":"https://vcloud.zip/1cyilyccicfblfo","S4E11":"https://vcloud.zip/dm29n_mq2kkafnl","S4E12":"https://vcloud.zip/n_lkq5xv3l_xqwv","S4E13":"https://vcloud.zip/xcjv8i9f3ewcs47","S4E14":"https://vcloud.zip/2wzyi8d8he7bfe1",
+ 
+ 
+ 
+"S3E1":"https://vcloud.zip/cijy_gokbsztw1v","S3E2":"https://vcloud.zip/u9ydr2xh99h8bu6","S3E3":"https://vcloud.zip/hoxhidownvlkkln","S3E4":"https://vcloud.zip/exxxco0qxgokysv","S3E5":"https://vcloud.zip/vbtthnhj115ve0p","S3E6":"https://vcloud.zip/wox7ip0k-kiwoad","S3E7":"https://vcloud.zip/i0g1i-20ux3-i0i","S3E8":"https://vcloud.zip/qijimvoler5607c","S3E9":"https://vcloud.zip/t6doqsxcjklqoqk","S3E10":"https://vcloud.zip/sbr25kuel2e2kae","S3E11":"https://vcloud.zip/ssihzk3dkzmi6uv","S3E12":"https://vcloud.zip/hskkjfj6o2ohjjz","S3E13":"https://vcloud.zip/7wwwlziwhbjwhv5","S3E14":"https://vcloud.zip/fiq04cyickihqci", 
+"S2E1":"https://vcloud.zip/cvsflffwujsvml1","S2E2":"https://vcloud.zip/koy5lcmtn3p5pos","S2E3":"https://vcloud.zip/6whqmhz2eg7zlvh","S2E4":"https://vcloud.zip/_e3l_bw-uttssvj","S2E5":"https://vcloud.zip/jujttpe4voev7ba","S2E6":"https://vcloud.zip/texix4utpjip4si","S2E7":"https://vcloud.zip/sgq1e51sm_axed5","S2E8":"https://vcloud.zip/4mlwx4zhmbwy41p","S2E9":"https://vcloud.zip/v7ruqqq44oqyllk","S2E10":"https://vcloud.zip/qtmm1yu5105gzd0","S2E11":"https://vcloud.zip/edqcwdwddbkdwrc","S2E12":"https://vcloud.zip/_jgh8rhi_8yrufk","S2E13":"https://vcloud.zip/bxmw21_xjj1_j_h", 
+"S1E1":"https://vcloud.zip/e1zs_r_dt2jelza","S1E2":"https://vcloud.zip/_pj_ec6xsrjzge1","S1E3":"https://vcloud.zip/ss_1azx-7paa_om","S1E4":"https://vcloud.zip/71konb7w4eww1__","S1E5":"https://vcloud.zip/zzzejtf5rkrlgsz","S1E6":"https://vcloud.zip/eaaw5dbbt5o5okb","S1E7":"https://vcloud.zip/18xyqt8nnmiq89b","S1E8":"https://vcloud.zip/rxcwwtm1xxqrhcq","S1E9":"https://vcloud.zip/al-phlbppkyk2xe","S1E10":"https://vcloud.zip/9f4mg91jye92e-r","S1E11":"https://vcloud.zip/2fsupuul58fc8p5","S1E12":"https://vcloud.zip/iv4oi47qx9jox96","S1E13":"https://vcloud.zip/ftewi8fbwrxugib", 
+"year":"2024", 
+"duration":"1h per episode", 
+"rating":"7.8", 
+"genre":"Talk,Comedy", 
+"description":"Comedian Kapil Sharma hosts this laugh-out-loud variety talk show with celebrity guests, hilarious antics and his signature supporting cast.", 
+"type":"series", 
+"cast":"Kapil Sharma,Sunil Grover,Krishna Abhishek,Kiku Sharda,Archana Puran Singh" 
+}, 
+{ 
+"title":"Bhartha Mahasayulaku Wignyapthi [2026] WEB-DL [Hindi-Telugu] | Full Movie", 
+"im":"3QoTnvsbIAAWVXpfHzQKeEQhUi7", 
+"bgi":"oBv9eCzvutDV9Bt1IwRjMFfuS3L", 
+"wo":"https://hub.diskcdn.buzz/70267ae351e47f746e79c43e43bf7a67?token=1778004052145", 
+"480p":"https://vcloud.zip/85nyrr_w3wa6nnb", 
+"720p":"https://vcloud.zip/wwkpu05vqg0fqsm", 
+"1080p":"https://vcloud.zip/tc5kvnid9vkntno", 
+"year":"2026", 
+"duration":"2h 22m", 
+"rating":"4.7", 
+"genre":"Family,Drama,Comedy", 
+"description":"What begins as a casual fling between a married man, Ram a.k.a Satya and Manasa in the middle of an international business trip, balloons into an out-of-the-blue mess when the latter lands in Hyderabad, disrupting Ram’s otherwise stable marriage with Balamani.", 
+"type":"movie", 
+"cast":"Ravi Teja,Ashika Ranganath,Dimple Hayathi,Sunil Varma,Satya" 
+}, 
+{ 
+"title":"Raja Shivaji [2026] HQ-HDTC [Hindi] | Full Movie", 
+"im":"9e2Wc6sbeU1YdBWLJIDyMcEWrN2", 
+"bgi":"w4bjx5qCKG6SjhnqLi2aj1GUsxe", 
+"wo":"https://hub.diskcdn.buzz/e22bd0546838e743dda52ea34934f8fc?token=1778003941144", 
+"480p":"https://vcloud.zip/prccxc19pw5191f", 
 "720p":"https://vcloud.zip/95rd1yh5r53tcrq",
 "1080p":"https://vcloud.zip/b1xfnnq95jfyqox", 
 "year":"2026", 
@@ -4542,7 +4578,7 @@ const movies = [
 "duration":"2h 17m",
 "rating":"6.0",
 "genre":"Drama,Thriller",
-"description":"A father who refused to bowl down to threats, a son who was given up for the nation, a family that was torn apart by the secrets and deeds of the p...",
+"description":"A father who refused to bowl down to threats, a son who was given up for the nation, a family that was torn apart by the secrets and deeds of the p...",
 "type":"movie",
 "cast":"Ibrahim Ali Khan,Kajol,Prithviraj Sukumaran,Rajesh Sharma,Tara Sharma"
 },
@@ -11909,7 +11945,6 @@ const movies = [
 }
 
  ];
-
 
 
 

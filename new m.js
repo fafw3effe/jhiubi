@@ -11258,20 +11258,21 @@ const movies = [
 "quality":"Blu-Ray",
 "cast":"Chris Pratt,Zoe Salda\u00f1a,Dave Bautista,Vin Diesel,Bradley Cooper"
 },
- 
 {
-"title":"Spider-Man: Homecoming [2017] Blu-Ray [Hindi-English] | Full Movie",
-"im":"/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
-"Server 1":"https://regreg.rf.gd/?d4=FMppXWWVStDpQkux9",
-"link":"tt2250912",
+"title":"Spider-Man: Homecoming [2017] WEB-DL [Hindi-English] | Full Movie",
+"im":"c24sv2weTHPsmDa7jEMN0m2P3RT",
+"bgi":"tPpYGm2mVecue7Bk3gNVoSPA5qn",
+"wo":"https://hub.diskcdn.buzz/fdf6447e540475a55bd1862457439fe5?token=1778520323110",
+"480p":"https://vcloud.zip/ddkladwlqpl2agq",
+"720p":"https://vcloud.zip/_mthzay1b1weu_e",
+"1080p":"https://vcloud.zip/nk1kpl--1pllfgn",
 "year":"2017",
-"duration":"133 min",
-"rating":"7.4",
-"genre":"Action, Adventure, Sci-Fi",
-"description":"Peter Parker balances his life as a high school student and as Spider-Man while facing the dangerous villain Vulture. His journey to becoming a true hero is tested as he confronts his greatest challenge yet.",
+"duration":"2h 13m",
+"rating":"7.3",
+"genre":"Action,Adventure,Science Fiction",
+"description":"Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges.",
 "type":"movie",
-"quality":"blu-Ray",
-"cast":"Tom Holland, Michael Keaton, Robert Downey Jr."
+"cast":"Tom Holland,Michael Keaton,Robert Downey Jr.,Marisa Tomei,Jon Favreau"
 },
 {
 "title":"Ant-Man and the Wasp [2018] Blu-Ray [Hindi-English] | Full Movie",

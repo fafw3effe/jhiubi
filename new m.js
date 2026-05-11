@@ -1,6 +1,23 @@
 // Movies data 
 const movies = [ 
- 
+
+
+{
+"title":"Daadi Ki Shaadi [2026] HQ-PreDVD [Hindi] | Full Movie",
+"im":"hKbQjE5ZcZUpuzApEjyoVCUWwdx",
+"bgi":"4QTWMWtrBkN5PdsL4XX5Pp27VIO",
+"wo":"https://hub.lotuscdn.club/a9b7069cbf6a1b3b2ca7a32c6c7e0511?token=1778515358126",
+"480p":"https://vcloud.zip/utgg532grrkxns5",
+"720p":"https://vcloud.zip/bbuxxj5vh5tzx4a",
+"1080p":"https://vcloud.zip/u_n6_at5cudn8aa",
+"year":"2026",
+"duration":"2h 30m",
+"rating":"7.1",
+"genre":"Comedy,Drama,Family",
+"description":"A grandmother’s mishap with a social media post causes consternation amongst her children and threatens the prospect of her granddaughter’s wedding.",
+"type":"movie",
+"cast":"Kapil Sharma,Neetu Singh,Sadia Khateeb,Riddhima Kapoor Sahni,R. Sarathkumar"
+},
 {
 "title":"Happy Raj [2026] WEB-DL [Hindi-Tamil] | Full Movie",
 "im":"hHJlk5VABzAyxUijIAeo8CzkfLa",

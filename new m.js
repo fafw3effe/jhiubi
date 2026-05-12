@@ -3,6 +3,38 @@ const movies = [
 
 
 {
+"title":"Kaalidas 2 [2026] WEB-DL [Hindi-Tamil] | Full Movie",
+"im":"fq2eQegiFy6JxyM2S2ctm9RbB2G",
+"bgi":"sZHwDAtV2auwAjPD2ab4d7wRxkX",
+"wo":"https://gpdl2.hubcloud.cx/?id=c56c883ffc9f44861ecc849d952fdd97d69d6752668b81d72616cf1bba2fde01b597e57c5c33aa0ffe956b6957163a17ec5f639e60f96fcdf76aaa8e5e8bef7b8f4b5c9d5c564a588d28a6aaf4fc33510a275d42046b4d7f49862cb9ad8463c2bf62a954b442b29f8a932d5b5d9d7f19::43adea2f996eee88b306b20cc4ddd1c7",
+"480p":"https://vcloud.zip/mx1haxghn4tkegs",
+"720p":"https://vcloud.zip/btgdgmmfhgdy6s6",
+"1080p":"https://vcloud.zip/juewncnfmuffmmx",
+"year":"2026",
+"duration":"2h 17m",
+"rating":"6.0",
+"genre":"Thriller,Drama,Action",
+"description":"A dedicated Crime Branch officer, Kaalidas, investigates the disappearance of a child in an apartment complex. What begins as a routine missing-person case quickly turns dark when the child and a dog are found murdered. As more mysterious killings occur in the same building, Kaalidas uncovers hidden secrets among the residents and races against time to stop a killer before more live",
+"type":"movie",
+"cast":"Bharath Srinivasan,Bhavani Sre,Abarnathi,Ajay Karthi,Prakash Raj"
+},
+{
+"title":"Krishnavataram Part 1: The Heart [2026] HD-TC [Hindi] | Full Movie",
+"im":"7AxJYvPWLlNiGH52A9eenDxQzu8",
+"bgi":"quMadsmJAFKGd6UpCFwxtlrVxPF",
+"wo":"https://gpdl2.hubcloud.cx/?id=5056dac49bdec7f12bee77d344e5b06ecfddfecb739d242ab23f16158f754849f93b3afc712ff4b3e2c77c62d7cc03986e81ad26c798eacca3e1a14b69e7b6cd9ecc6a05e5275a53ec4210939147358d34b01b331f09d46415ffb8df0530667def13101983eb4772b397731aa866ac2c::69fd0ac04e2cc42668ac690d24f0eda2",
+"480p":"https://vcloud.zip/ms8gqow5rvc9yry",
+"720p":"https://vcloud.zip/u5xxsyo6yosdqey",
+"1080p":"https://vcloud.zip/jmx6xapxrrqahp1",
+"year":"2026",
+"duration":"2h 29m",
+"rating":"9.0",
+"genre":"Adventure,Romance,Drama",
+"description":"An epic devotional narrative that reimagines the journey of Lord Krishna, tracing his path from Dwarka to Kurukshetra after parting ways with Radha. As his journey unfolds, it explores his connection with people, his layered personality, and the lessons he imparts about love and life.",
+"type":"movie",
+"cast":"Siddharth Gupta,Sushmitha Bhat,Sanskruti Jayana,Nivaashiyni Krishnan,J. Karthik"
+},
+{
 "title":"Mortal Kombat II [2026] V2-HDTC [Hindi-English] | Full Movie",
 "im":"lIsMeDbwntNXSUVHmWMMRXEZOVc",
 "bgi":"qjv21Iu0nHQ0crJpy6KKiW8LX1Y",

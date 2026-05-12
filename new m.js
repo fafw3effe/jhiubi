@@ -1,6 +1,39 @@
 // Movies data 
 const movies = [ 
 
+
+{
+"title":"Mortal Kombat II [2026] V2-HDTC [Hindi-English] | Full Movie",
+"im":"lIsMeDbwntNXSUVHmWMMRXEZOVc",
+"bgi":"qjv21Iu0nHQ0crJpy6KKiW8LX1Y",
+"wo":"https://gpdl2.hubcloud.cx/?id=daa6425f3bafa6d9b03a12a527b76a134055f40d95c369f3b3cc1150c19feaa5700890d21eceb176464113ac6b2d21051ce15d0aad118d1339c4c36cf539d88d1d043d91cb1d79d04b4e152c76698fd50266e6090be0cac7feda52dabd5a08b1fe776c59793a2a07dce49b67c7a2eb46::b3cda1f10ec09fef37649d215afe9f73",
+"480p":"https://vcloud.zip/kwzjjew8-w2mzk3",
+"720p":"https://vcloud.zip/ehefotata_deref",
+"1080p":"https://vcloud.zip/q59r55m9m9m5m5s",
+"year":"2026",
+"duration":"1h 56m",
+"rating":"7.2",
+"genre":"Action,Fantasy,Adventure",
+"description":"The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
+"type":"movie",
+"cast":"Karl Urban,Adeline Rudolph,Jessica McNamee,Ludi Lin,Mehcad Brooks"
+},
+{
+"title":"Project Hail Mary [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"yihdXomYb5kTeSivtFndMy5iDmf",
+"bgi":"8Tfys3mDZVp4tNoH2ktm06a0Tau",
+"wo":"https://hub.lotuscdn.club/dc557e7344a620003d52e312bb4d5c55?token=1778598112146",
+"480p":"https://vcloud.zip/vvw6v6jsvrv3czm",
+"720p":"https://vcloud.zip/iqwt1hnxyinwjwz",
+"1080p":"https://vcloud.zip/1jlli_ssfz675z7",
+"year":"2026",
+"duration":"2h 37m",
+"rating":"8.3",
+"genre":"Science Fiction,Adventure",
+"description":"Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+"type":"movie",
+"cast":"Ryan Gosling,Sandra Hüller,James Ortiz,Lionel Boyce,Milana Vayntrub"
+},
 {
 "title":"Love Insurance Kompany [2026] WEB-DL [Hindi-Tamil] | Full Movie",
 "im":"1IIUWMKzNVvI6YJX8BKE6EJ9bVd",
@@ -520,22 +553,6 @@ const movies = [
 "description":"Ready to witness the ultimate fight between the rules of science and the laws of love? 10 boys, 10 girls and an Oracle who will decide whether or not a couple makes the perfect match! It's time to 'catch your match', Splitsvilla style!",
 "type":"series",
 "cast":"Sunny Leone,Rannvijay Singha,Nikhil Chinappa,Uorfi Javed,Karan Kundra"
-},
-{
-"title":"Project Hail Mary [2026] HQ-PreDVD [Hindi-English] | Full Movie",
-"im":"yihdXomYb5kTeSivtFndMy5iDmf",
-"bgi":"8Tfys3mDZVp4tNoH2ktm06a0Tau",
-"wo":"https://hub.shipcdn.buzz/b0f59d3e24a7d6ec2f43b2cd48a5e3c9?token=1774887850",
-"480p":"https://vcloud.zip/ugwnogvef6ep_qp",
-"720p":"https://vcloud.zip/l7d2gebwepneiqs",
-"1080p":"https://vcloud.zip/sx6m5a6ssuw5s6w",
-"year":"2026",
-"duration":"2h 37m",
-"rating":"8.2",
-"genre":"Science Fiction,Adventure",
-"description":"Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction… but an unexpected friendship means he may not have to do it alone.",
-"type":"movie",
-"cast":"Ryan Gosling,James Ortiz,Sandra Hüller,Lionel Boyce,Milana Vayntrub"
 },
 {
 "title":"Attack on Titan [Season 1-4] WEB-DL [Hindi-Japanese] | All Episodes",

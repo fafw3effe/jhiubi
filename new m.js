@@ -3,6 +3,63 @@ const movies = [
 
 
 {
+"title":"Pati Patni Aur Woh Do [2026] HD-TC [Hindi] | Full Movie",
+"im":"cExvVp4TtS7QvtyjPmazT8NE4LL",
+"bgi":"eNAFLrd1XAAD4hgdTPjewpzYU4W",
+"wo":"https://hub.glasscdn.buzz/0a3ab95ef422a6281ef48b1ffa6edbb7?token=1778860516118",
+"720p":"https://hubcloud.foo/drive/cmk9379zgpg87ut",
+"1080p":"https://hubcloud.foo/drive/vsbsyfbs1889q4f",
+"year":"2026",
+"duration":"1h 57m",
+"rating":"7.0",
+"genre":"Comedy",
+"description":"A seemingly perfect marriage in Prayagraj takes an unexpected turn when one decision leads to a chain of misunderstandings, suspicion, and comedic chaos.",
+"type":"movie",
+"cast":"Ayushmann Khurrana,Wamiqa Gabbi,Rakul Preet Singh,Sara Ali Khan,Vijay Raaz"
+},
+{
+"title":"The WONDERfools [Season 1] WEB-DL [Hindi-Korean] | All Episodes",
+"im":"jj7AYkz2OLRDL1wfJmjTXyWQ5I4",
+"bgi":"810mXC0xkxXVtoKIPGGVgO9PuLh",
+"S1E1":"https://vcloud.zip/wj-9uuirea0ucxi","S1E2":"https://vcloud.zip/lhp3pcho8lvciq8","S1E3":"https://vcloud.zip/1ci_jvq3-_g1fiq","S1E4":"https://vcloud.zip/yz2k1mok1shhmsz","S1E5":"https://vcloud.zip/sz-nqw1ewwizqee","S1E6":"https://vcloud.zip/uyyvurq82mbq9t8","S1E7":"https://vcloud.zip/1lh4sosz4u0ss-z","S1E8":"https://vcloud.zip/8qjmxobgj9owwrb",
+"year":"2026",
+"duration":"1h per episode",
+"rating":"6.1",
+"genre":"Action & Adventure,Comedy,Sci-Fi & Fantasy,Drama",
+"description":"A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
+"type":"series",
+"cast":"Park Eun-bin,Cha Eun-woo,Choi Dae-hoon,Im Sung-jae,Son Hyun-joo"
+},
+{
+"title":"Berlin and the Lady with an Ermine [Season 2] WEB-DL [Hindi-Spanish] | All Episodes",
+"im":"kru9Y5uRXdZFcUyeRlcv4bP4hOr",
+"bgi":"ntPgSYKwPg9xKO4VvLJYfInSyZa",
+"S2E1":"https://vcloud.zip/auzl1lskbbbyqik","S2E2":"https://vcloud.zip/h1osqrvnqtn6bqx","S2E3":"https://vcloud.zip/86wvb--dpe81mxv","S2E4":"https://vcloud.zip/dkg_c09114i9l1v","S2E5":"https://vcloud.zip/aookgg1j1av_6oa","S2E6":"https://vcloud.zip/2baa1bw5tdhx26u","S2E7":"https://vcloud.zip/d8depnnrjpdn-ae","S2E8":"https://vcloud.zip/hmddpnmtmdvshhp",
+"year":"2026",
+"duration":"1h per episode",
+"rating":"5.7",
+"genre":"Drama,Crime",
+"description":"Hungry for a new heist, Berlin summons the gang to Seville and turns an ambitious duke into the victim of his own plan: to steal a da Vinci masterpiece.",
+"type":"series",
+"cast":"Pedro Alonso,Tristán Ulloa,Michelle Jenner,Joel Sánchez,Begoña Vargas"
+},
+{
+"title":"Kartavya [2026] WEB-DL [Hindi] | Full Movie",
+"im":"wyJG0JzeZTo37giko4UJVVFktld",
+"bgi":"mHm73HhpvGWfRkXNErcwc15Czrv",
+"wo":"https://hub.glasscdn.buzz/b989ff644238813ca7e599ffc74fcf67?token=177886224518",
+"480p":"https://vcloud.zip/6l166cl6-1mc_dg",
+"720p":"https://hubcloud.foo/drive/vt0j0fk3vk1rtjx",
+"1080p":"https://hubcloud.foo/drive/fakbdkjkp94enjk",
+"year":"2026",
+"duration":"1h 44m",
+"rating":"6.7",
+"genre":"Crime,Drama,Thriller",
+"description":"With his family's safety at stake and menacing threats closing in, a police officer must decide how far he'll go to uphold his duty.",
+"type":"movie",
+"cast":"Saif Ali Khan,Rasika Dugal,Sanjay Mishra,Saurabh Dwivedi,Zakir Hussain"
+},
+{
 "title":"Kaalidas 2 [2026] WEB-DL [Hindi-Tamil] | Full Movie",
 "im":"fq2eQegiFy6JxyM2S2ctm9RbB2G",
 "bgi":"sZHwDAtV2auwAjPD2ab4d7wRxkX",

@@ -1,6 +1,22 @@
 // Movies data 
 const movies = [ 
 
+{
+"title":"Second Case of Seetharam [2026] WEB-DL [Hindi-Tamil -Kannada] | Full Movie",
+"im":"89Tuu93NTJVef2Y4iATRwlyAO37",
+"bgi":"tvp5tVPXxkwx7e9qPnNPfJvKrJ7",
+"wo":"https://hub.pyramid.surf/e91715e1fec4af56e0f9f52ffdc3043c?token=1781975356154",
+"480p":"https://vcloud.zip/db1ejtcuebhfphe",
+"720p":"https://vcloud.zip/annnon2ng1mpz_u",
+"1080p":"https://vcloud.zip/c1lojrc7jijrer6",
+"year":"2026",
+"duration":"2h",
+"rating":"0.0",
+"genre":"Thriller,Crime",
+"description":"Inspector Seetharam, hoping to reunite with his estranged sister after years apart, must track down a brutal, psychotic serial killer terrorising the town of Anegadde.",
+"type":"movie",
+"cast":"Vijay Raghavendra,Gopalkrishna Deshpande,Usha Bhandary,Sagar Puranik"
+},
 
 
 {

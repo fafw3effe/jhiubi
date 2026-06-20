@@ -3,6 +3,23 @@ const movies = [
 
 
 
+ {
+"title":"Mortal Kombat II [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"hwRdDFIhaEmpRgoki805YvyyjZf",
+"bgi":"laR2dpcNpbv83jdlRUNAYPPjH90",
+"wo":"https://hub.pyramid.surf/db4789876c69990f130b418024d07466?token=1781943066159",
+"480p":"https://vcloud.zip/q9v3ao6lq9qvhax",
+"720p":"https://vcloud.zip/rkrqqrhqsk95qqw",
+"1080p":"https://vcloud.zip/yodehhreyqvke4r",
+"year":"2026",
+"duration":"1h 56m",
+"rating":"8.0",
+"genre":"Action,Fantasy,Adventure",
+"description":"The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
+"type":"movie",
+"cast":"Karl Urban,Adeline Rudolph,Ludi Lin,Jessica McNamee,Lewis Tan"
+},
+
 
  {
 "title":"The Grey Men 2 [2025] WEB-DL [Hindi-Chinese] | Full Movie",

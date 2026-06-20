@@ -1,7 +1,22 @@
 // Movies data 
 const movies = [ 
 
-
+{
+"title":"Voicemails for Isabelle [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"canZTWSxACSnAluir3dCtMxKpA1",
+"bgi":"2WU6Y6aonzD6uAaCmNnEFlesxxJ",
+"wo":"https://pixeldrain.dev/u/ub2UqZMC",
+"480p":"https://vcloud.zip/mug2xzk2oszkjon",
+"720p":"https://vcloud.zip/ja0swak3nnb-bz-",
+"1080p":"https://vcloud.zip/33vkaybbys91sixgit add .",
+"year":"2026",
+"duration":"1h 59m",
+"rating":"7.1",
+"genre":"Romance,Comedy",
+"description":"A young woman's hilariously confessional voicemails to her late sister are unknowingly redirected to a stranger, who begins to fall in love from afar.",
+"type":"movie",
+"cast":"Zoey Deutch,Nick Robinson,Ciara Bravo,Nick Offerman,Leah McKendrick"
+},
 
  {
 "title":"Mortal Kombat II [2026] WEB-DL [Hindi-English] | Full Movie",

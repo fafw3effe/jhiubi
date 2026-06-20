@@ -1,6 +1,24 @@
 // Movies data 
 const movies = [ 
 
+
+
+{
+"title":"Husbands in Action [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"rdmXkKPjGw43u4wp3aod4aIPiH",
+"bgi":"kEiQORCwEXSeoG4SK0e4sezHboJ",
+"wo":"https://hub.pyramid.surf/554506092e045df6418307def925bc37?token=1781941615132",
+"480p":"https://vcloud.zip/oose-2gtton5lrm",
+"720p":"",
+"1080p":"",
+"year":"2026",
+"duration":"1h 50m",
+"rating":"6.9",
+"genre":"Comedy,Action",
+"description":"A detective teams up with his ex-wife's new husband to chase down her kidnappers. Can this unlikely duo put aside their differences for one wild rescue?",
+"type":"movie",
+"cast":"Jin Sun-kyu,Gong Myoung,Kim Ji-seok,Yoon Kyung-ho,Kang Han-na"
+},
 {
 "title":"Spider-Noir [Season 1] WEB-DL [Hindi-English] | All Episodes",
 "im":"oD8WSVqz84ZRfelkr7JPeJwR9Iv",

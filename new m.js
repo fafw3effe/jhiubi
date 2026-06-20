@@ -1,6 +1,41 @@
 // Movies data 
 const movies = [ 
 
+
+{
+"title":"Dhurandhar: The Revenge [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"ptTwQES14pr5c3aZvJg56YlYgb1",
+"bgi":"gRoZG3Z0zJxgElmTsVHOl2dNYXe",
+"wo":"https://hub.pyramid.surf/b67509030b26ba87566bd573244b4672?token=1781976837118",
+"480p":"https://vcloud.zip/hbndgw11idql3kl",
+"720p":"https://vcloud.zip/zhf9ara6hp9qggn",
+"1080p":"https://vcloud.zip/tfsadnvuuqfs21u",
+"year":"2026",
+"duration":"3h 49m",
+"rating":"7.3",
+"genre":"Action,Crime,Thriller",
+"description":"As rival gangs, corrupt officials and a ruthless Major Iqbal close in, Hamza's mission for his country spirals into a bloody personal war where the line between patriot and monster disappears in the streets of Lyari.",
+"type":"movie",
+"cast":"Ranveer Singh,Arjun Rampal,R. Madhavan,Sanjay Dutt,Sara Arjun"
+},
+
+{
+"title":"Dhurandhar [2025] WEB-DL [Hindi] | Full Movie",
+"im":"snBOuXDdhmTvlzMUvP9Em3Pp1u1",
+"bgi":"4DfxcN4w0FuYZHQ3JAHzpHWia1U",
+"wo":"https://hub.noirspy.buzz/0741f26a6c63882df5937ea19122e2db?token=1781976622115",
+"480p":"https://vcloud.zip/7svt3ij6nuru_rv",
+"720p":"https://vcloud.zip/wzhd3la7lq1hql3",
+"1080p":"https://vcloud.zip/anb4w4wk1_9zs8e",
+"year":"2025",
+"duration":"3h 32m",
+"rating":"7.2",
+"genre":"Action,Crime,Thriller",
+"description":"A mysterious traveler slips into the heart of Karachi's underbelly and rises through its ranks with lethal precision, only to tear the notorious ISI-Underworld nexus apart from within.",
+"type":"movie",
+"cast":"Ranveer Singh,Akshaye Khanna,R. Madhavan,Arjun Rampal,Sanjay Dutt"
+},
+
 {
 "title":"Second Case of Seetharam [2026] WEB-DL [Hindi-Tamil -Kannada] | Full Movie",
 "im":"89Tuu93NTJVef2Y4iATRwlyAO37",

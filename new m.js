@@ -1,22 +1,43 @@
 // Movies data 
 const movies = [ 
 
+
+
 {
-"title":"Voicemails for Isabelle [2026] WEB-DL [Hindi-English] | Full Movie",
-"im":"canZTWSxACSnAluir3dCtMxKpA1",
-"bgi":"2WU6Y6aonzD6uAaCmNnEFlesxxJ",
-"wo":"https://pixeldrain.dev/u/ub2UqZMC",
-"480p":"https://vcloud.zip/mug2xzk2oszkjon",
-"720p":"https://vcloud.zip/ja0swak3nnb-bz-",
-"1080p":"https://vcloud.zip/33vkaybbys91sixgit add .",
+"title":"undertone [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"2PFgFMnrdCPXWiZl1PUvky7Mo9D",
+"bgi":"abqhPVQsEj7hoCiltlDTotgNgwr",
+"wo":"https://hub.whistle.lat/538d0856a0a25c25d8ff2c36f4ff58ea?token=1781974076132",
+"480p":"https://vcloud.zip/e1fxicx13mcqmqc",
+"720p":"https://vcloud.zip/hur5rf6p_dpqkto",
+"1080p":"https://vcloud.zip/dd2r2eedrz1wwap",
 "year":"2026",
-"duration":"1h 59m",
-"rating":"7.1",
-"genre":"Romance,Comedy",
-"description":"A young woman's hilariously confessional voicemails to her late sister are unknowingly redirected to a stranger, who begins to fall in love from afar.",
+"duration":"1h 34m",
+"rating":"6.2",
+"genre":"Horror,Mystery",
+"description":"The host of a popular paranormal podcast becomes haunted by terrifying recordings mysteriously sent her way.",
 "type":"movie",
-"cast":"Zoey Deutch,Nick Robinson,Ciara Bravo,Nick Offerman,Leah McKendrick"
+"cast":"Nina Kiri,Adam DiMarco,Keana Bastidas,Jeff Yung,Michèle Duquet"
 },
+
+
+{
+"title":"Extraction 2 [2023] WEB-DL [Hindi-English] | Full Movie",
+"im":"7gKI9hpEMcZUQpNgKrkDzJpbnNS",
+"bgi":"wRxLAw4l17LqiFcPLkobriPTZAw",
+"wo":"https://pub-c536eeefe2f9452998643b08136745fb.r2.dev/b8e8588385f5a3f1bf48dc1be13cbf40?token=1781970155127",
+"480p":"https://vcloud.zip/bhxjftro8l1xlah",
+"720p":"https://vcloud.zip/4wdkbv3_wuvwrnb",
+"1080p":"https://vcloud.zip/f03yd1yxd1-mf31",
+"year":"2023",
+"duration":"2h 2m",
+"rating":"7.4",
+"genre":"Action,Thriller,Crime",
+"description":"Back from the brink of death, highly skilled commando Tyler Rake takes on another dangerous mission: saving the imprisoned family of a ruthless gangster.",
+"type":"movie",
+"cast":"Chris Hemsworth,Golshifteh Farahani,Adam Bessa,Tornike Gogrichiani,Tornike Bziava"
+},
+
 
 {
 "title":"Deep Water [2026] WEB-DL [English with subtitle] | Full Movie",
@@ -73,11 +94,11 @@ const movies = [
 "cast":"Nicole Wallace,Gabriel Guevara,Marta Hazas,Iván Sánchez,Eva Ruiz"
 },
 
- {
+{
 "title":"Voicemails for Isabelle [2026] WEB-DL [Hindi-English] | Full Movie",
 "im":"canZTWSxACSnAluir3dCtMxKpA1",
 "bgi":"2WU6Y6aonzD6uAaCmNnEFlesxxJ",
-"wo":"https://gpdl2.hubcloud.cx/?id=954a49591289e39be4ef92ac2b26ff60263ff5e16f6849d2ae4414cd4dc4a2d377ef872708bb84d5df7a01769e6fdc6e4bca63d0e4e555d0e183fda2384ccc3ff01ef8ea675ed41ec0f808c02fd03fbc4aafcf0b06ed94ca56c8e127c5267bb78b86415fdfef36123b84192b1c360256::7242cef59b9232bcec46dc7ac1429220",
+"wo":"https://pixeldrain.dev/u/ub2UqZMC",
 "480p":"https://vcloud.zip/mug2xzk2oszkjon",
 "720p":"https://vcloud.zip/ja0swak3nnb-bz-",
 "1080p":"https://vcloud.zip/33vkaybbys91sixgit add .",
@@ -89,7 +110,6 @@ const movies = [
 "type":"movie",
 "cast":"Zoey Deutch,Nick Robinson,Ciara Bravo,Nick Offerman,Leah McKendrick"
 },
-
 
  {
 "title":"Mortal Kombat II [2026] WEB-DL [Hindi-English] | Full Movie",

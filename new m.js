@@ -3,11 +3,66 @@ const movies = [
 
 
 
+{
+"title":"Deep Water [2026] WEB-DL [English with subtitle] | Full Movie",
+"im":"kjcuS7xaRyqRjVaVcH4t0qHshuX",
+"bgi":"iYjlQzWbcFIjWe2WifbEPb4kErp",
+"wo":"https://hub.pyramid.surf/a55b9d0249b8e811b5ff638e7e4df72e?token=1781965588133",
+"720p":"https://vcloud.zip/qcj1iqinwqxcqpi",
+"1080p":"https://vcloud.zip/q-ckyolcrstptss",
+"year":"2026",
+"duration":"1h 47m",
+"rating":"6.4",
+"genre":"Thriller,Horror",
+"description":"A group of international passengers on a flight from Los Angeles to Shanghai is forced to make an emergency landing in shark-infested waters. The terrified group is forced to work together and overcome their differences if they hope to escape their sinking plane and the frenzy of sharks drawn to the wreckage.",
+"type":"movie",
+"cast":"Aaron Eckhart,Ben Kingsley,Molly Belle Wright,Angus Sampson,Elijah Tamati"
+},
+
+
+
+
+{
+"title":"Your Fault: London [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"nLxu237EJAisFCYKK48hN9Plobx",
+"bgi":"wQOhbCP6H8bO5ddlXDZT207orew",
+"wo":"https://hub.pyramid.surf/233f52abdbdb9a416c35d336ce3de2f9?token=1781964476130",
+"480p":"https://vcloud.zip/duobud6iyrb6t4t",
+"720p":"https://vcloud.zip/-422o11zg3uvzpd",
+"1080p":"https://vcloud.zip/-yuan0j-npi3f-y",
+"4k": "https://vcloud.zip/-yuan0j-npi3f-y",
+"year":"2026",
+"duration":"2h 3m",
+"rating":"7.7",
+"genre":"Romance,Drama",
+"description":"Nick and Noah are both embarking on life-changing adventures that are threatening to pull them apart—Nick in business with his father and Noah starting a fresh chapter at Oxford University. Now living separate lives, and meeting new people, they find themselves entangled in temptations, rivalries, and betrayals and their bond is tested like never before. As secrets unravel and temptation rises, they must fight to hold onto each other—or risk losing everything.",
+"type":"movie",
+"cast":"Asha Banks,Matthew Broome,Louisa Binder,Joel Nankervis,Scarlett Rayner"
+},
+
+ 
+{
+"title":"Your Fault [2024] WEB-DL [Hindi-English] | Full Movie",
+"im":"1sQA7lfcF9yUyoLYC0e6Zo3jmxE",
+"bgi":"k24eZq5I3jyz4htPkZCRpnUmBzE",
+"wo":"https://hub.noirspy.buzz/1932429a10910414bd1444a36cb32b0d?token=1781965765121",
+"480p":"https://vcloud.zip/wopzfw3ffenofhw",
+"720p":"https://vcloud.zip/1hgtxgrugcr9t9r",
+"1080p":"https://vcloud.zip/1eut_iq6jki1urr",
+"year":"2024",
+"duration":"1h 57m",
+"rating":"7.1",
+"genre":"Drama,Romance",
+"description":"The love between Noah and Nick seems unwavering despite their parents' attempts to separate them. But his job and her entry into college open up their lives to new relationships that will shake the foundations of both their relationship and the Leister family itself.",
+"type":"movie",
+"cast":"Nicole Wallace,Gabriel Guevara,Marta Hazas,Iván Sánchez,Eva Ruiz"
+},
+
  {
 "title":"Voicemails for Isabelle [2026] WEB-DL [Hindi-English] | Full Movie",
 "im":"canZTWSxACSnAluir3dCtMxKpA1",
 "bgi":"2WU6Y6aonzD6uAaCmNnEFlesxxJ",
-"wo":"https://pixeldrain.dev/u/ub2UqZMC",
+"wo":"https://gpdl2.hubcloud.cx/?id=954a49591289e39be4ef92ac2b26ff60263ff5e16f6849d2ae4414cd4dc4a2d377ef872708bb84d5df7a01769e6fdc6e4bca63d0e4e555d0e183fda2384ccc3ff01ef8ea675ed41ec0f808c02fd03fbc4aafcf0b06ed94ca56c8e127c5267bb78b86415fdfef36123b84192b1c360256::7242cef59b9232bcec46dc7ac1429220",
 "480p":"https://vcloud.zip/mug2xzk2oszkjon",
 "720p":"https://vcloud.zip/ja0swak3nnb-bz-",
 "1080p":"https://vcloud.zip/33vkaybbys91sixgit add .",

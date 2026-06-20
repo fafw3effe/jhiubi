@@ -23,7 +23,7 @@ const movies = [
 "title":"Dhurandhar [2025] WEB-DL [Hindi] | Full Movie",
 "im":"snBOuXDdhmTvlzMUvP9Em3Pp1u1",
 "bgi":"4DfxcN4w0FuYZHQ3JAHzpHWia1U",
-"wo":"https://hub.noirspy.buzz/0741f26a6c63882df5937ea19122e2db?token=1781976622115",
+"wo":"https://hub.noirspy.buzz/8c48a177b47a288a5302436de8f15028?token=1781977497130",
 "480p":"https://vcloud.zip/7svt3ij6nuru_rv",
 "720p":"https://vcloud.zip/wzhd3la7lq1hql3",
 "1080p":"https://vcloud.zip/anb4w4wk1_9zs8e",

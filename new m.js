@@ -1,7 +1,22 @@
 // Movies data 
 const movies = [ 
 
-
+{
+"title":"Peddi [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"kJAJNNBYlbqAcpTDxBNnaILSMTy",
+"bgi":"oPsRr7AfNLw6XaPuMpvkWK0bIUA",
+"wo":"https://pub-c536eeefe2f9452998643b08136745fb.r2.dev/03d37dc6964df110985ff7069fd90cb2?token=1782057743147",
+"480p":"https://vcloud.zip/j01ur0yby2u0nwi",
+"720p":"https://vcloud.zip/71yunpq1pjnzziu",
+"1080p":"https://vcloud.zip/b9jlpepsap9evt0",
+"year":"2026",
+"duration":"3h 12m",
+"rating":"6.2",
+"genre":"Action,Drama",
+"description":"In 1980s rural Andhra Pradesh, a spirited villager unites his community through sports to defend their pride against a powerful rivals.",
+"type":"movie",
+"cast":"Ram Charan,Janhvi Kapoor,Shiva Rajkumar,Jagapati Babu,Divyendu Sharma"
+},
 
 {
 "title":"Border 2 [2026] WEB-DL [Hindi] | Full Movie",

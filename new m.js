@@ -5,7 +5,7 @@ const movies = [
 "title":"Obsession [2026] ORG-DD2.0 HQ HDTS  [English] | Full Movie",
 "im":"bRwnj8WEKBCvmfeUNOukJPwB43K",
 "bgi":"5lTZyuBTNOfawsfPT8Q0cIg6qAF",
-"wo":"https://pub-c536eeefe2f9452998643b08136745fb.r2.dev/586411fde22a8d47cb49fe23f4d5aeab?token=1782059929123",
+"wo":"https://pub-c536eeefe2f9452998643b08136745fb.r2.dev/11d6eaa4dd45f579ba696834ffa406fa?token=1782060136127",
 "480p":"https://vcloud.zip/potiud7s6ouxb2c",
 "720p":"https://vcloud.zip/26j7iickg160t1n",
 "1080p":"https://vcloud.zip/94jgr_ce5_jlkcl",

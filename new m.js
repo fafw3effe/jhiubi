@@ -22,7 +22,7 @@ const movies = [
 "title":"Dhurandhar: The Revenge [2026] WEB-DL [Hindi-English] | Full Movie",
 "im":"ptTwQES14pr5c3aZvJg56YlYgb1",
 "bgi":"gRoZG3Z0zJxgElmTsVHOl2dNYXe",
-"wo":"https://hub.pyramid.surf/e1ee4279662860dec4cb40d0e9d70667?token=1781977245138",
+"wo":"https://hub.pyramid.surf/df32f2f1ce60587ccb12dd7ce70636fe?token=1782008710110",
 "480p":"https://vcloud.zip/hbndgw11idql3kl",
 "720p":"https://vcloud.zip/zhf9ara6hp9qggn",
 "1080p":"https://vcloud.zip/tfsadnvuuqfs21u",

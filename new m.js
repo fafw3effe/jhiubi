@@ -1,6 +1,22 @@
 // Movies data 
 const movies = [ 
 
+{
+"title":"Border 2 [2026] WEB-DL [Hindi] | Full Movie",
+"im":"AmrCgmDPEJ6QxllS1rhjYwgO9Wb",
+"bgi":"fzo85eKFEjfmJ781gubJQjpQAwF",
+"wo":"https://hub.noirspy.buzz/c1a4b9c8e807d446b4173e5661f55a71?token=1782007035142",
+"480p":"https://vcloud.zip/ykpgplhprbgd4lj",
+"720p":"https://vcloud.zip/mvvmgjrtxmejue1",
+"1080p":"https://vcloud.zip/rwu1jzh48wddwdj",
+"year":"2026",
+"duration":"3h 21m",
+"rating":"7.2",
+"genre":"Action,Drama,War",
+"description":"Three idealistic soldiers in the Indian army, navy and air force face grueling combat conditions in this film set during the 1971 Indo-Pak war.",
+"type":"movie",
+"cast":"Sunny Deol,Varun Dhawan,Diljit Dosanjh,Ahan Shetty,Mona Singh"
+},
 
 {
 "title":"Dhurandhar: The Revenge [2026] WEB-DL [Hindi-English] | Full Movie",

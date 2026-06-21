@@ -2,6 +2,23 @@
 const movies = [ 
 
 {
+"title":"Obsession [2026] ORG-DD2.0 HQ HDTS  [English] | Full Movie",
+"im":"bRwnj8WEKBCvmfeUNOukJPwB43K",
+"bgi":"5lTZyuBTNOfawsfPT8Q0cIg6qAF",
+"wo":"https://pub-c536eeefe2f9452998643b08136745fb.r2.dev/586411fde22a8d47cb49fe23f4d5aeab?token=1782059929123",
+"480p":"https://vcloud.zip/potiud7s6ouxb2c",
+"720p":"https://vcloud.zip/26j7iickg160t1n",
+"1080p":"https://vcloud.zip/94jgr_ce5_jlkcl",
+"year":"2026",
+"duration":"1h 48m",
+"rating":"7.9",
+"genre":"Horror,Thriller",
+"description":"After breaking the mysterious One Wish Willow to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+"type":"movie",
+"cast":"Michael Johnston,Inde Navarrette,Cooper Tomlinson,Megan Lawless,Andy Richter"
+},
+
+{
 "title":"Peddi [2026] WEB-DL [Hindi-English] | Full Movie",
 "im":"kJAJNNBYlbqAcpTDxBNnaILSMTy",
 "bgi":"oPsRr7AfNLw6XaPuMpvkWK0bIUA",

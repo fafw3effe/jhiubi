@@ -1,7 +1,56 @@
 // Movies data 
 const movies = [ 
 
+{
+"title":"Bhooth Bangla [2026] WEB-DL [Hindi] | Full Movie",
+"im":"ArIS4vwUxdhm3j7tsTHmffdfU8W",
+"bgi":"A2tzVTVtnTvpji96IZmleN78KKv",
+"wo":"https://hub.whistle.lat/f26339aba375ced23f47f6fd5304b709?token=1782144689156",
+"480p":"https://vcloud.zip/_oiaf-lul6lo_-y",
+"720p":"https://vcloud.zip/m4ckk8s7ms4d221",
+"1080p":"https://vcloud.zip/bbbooccx5iycxxj",
+"year":"2026",
+"duration":"2h 43m",
+"rating":"5.4",
+"genre":"Horror,Comedy",
+"description":"A man inherits a palace in rural Mangalpur and plans his sister's wedding there, but strange supernatural events and panicked locals force him to investigate the property's mysterious past.",
+"type":"movie",
+"cast":"Akshay Kumar,Wamiqa Gabbi,Paresh Rawal,Tabu,Jisshu Sengupta"
+},
 
+{
+"title":"Main Vaapas Aaunga [2026] WEB-DL [Hindi] | Full Movie",
+"im":"8n7OeeyAqwmGS81Is2c6Ho65tgW",
+"bgi":"bWw9PuPH6vFXlezBoHZ6D9XBhQW",
+"wo":"https://hub.whistle.lat/031ec40bb5dfca4f0255c745f16e76b2?token=1782144595154",
+"480p":"https://vcloud.zip/qab1cjtjyc1yyyk",
+"720p":"https://vcloud.zip/114ccfmq2niln0l",
+"1080p":"https://vcloud.zip/oiqgngxthybsanl",
+"year":"2026",
+"duration":"2h 46m",
+"rating":"5.3",
+"genre":"Romance,Drama",
+"description":"An elderly man remains haunted by a childhood romance and memories of love lost during the 1947 Partition of India. As he shares his story with his grandson, the past unfolds through memories of migration, longing, and a love that endures across generations.",
+"type":"movie",
+"cast":"Naseeruddin Shah,Vedang Raina,Sharvari,Diljit Dosanjh,Anjana Sukhani"
+},
+
+{
+"title":"Governor [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"cdWfUYREo8RXkPxnZLvuG08QJrP",
+"bgi":"8MTsVy2KdBIQerLEVmJlCmRM5LW",
+"wo":"https://hub.whistle.lat/b774ee03c675108bb60d98a94ebc13b9?token=1782144404151",
+"480p":"https://vcloud.zip/s4vk1ea7gxesey1",
+"720p":"https://vcloud.zip/ffaagmahdad8qmh",
+"1080p":"https://vcloud.zip/tqeap3esxxxtsrn",
+"year":"2026",
+"duration":"2h 2m",
+"rating":"6.0",
+"genre":"Drama,Thriller",
+"description":"Set against Indias 1990 economic crisis, Governor follows Raman, a reluctant bureaucrat unexpectedly appointed as the Governor of the RBI when the nation stands on the brink of bankruptcy. As inflation rises, fuel runs low, and panic spreads, Raman must navigate political pressure and a collapsing system to prevent the country from falling apart.",
+"type":"movie",
+"cast":"Manoj Bajpayee,Adah Sharma,Noushad Mohamed Kunju,Madhoo,John Forbes"
+},
 
 
 

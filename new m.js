@@ -1,6 +1,195 @@
 // Movies data 
 const movies = [ 
 
+
+    
+{
+"title":"Scary Movie 4 [2006] WEB-DL [Hindi-English] | Full Movie",
+"im":"sEqFdw1wLtY94RKCSPolsHWzn6r",
+"bgi":"pSNwe7G9bESwlCBVurlwRs7fMZU",
+"wo":"https://hub.whistle.lat/71edb0ef54bb51e4a002e0106b3fc649?token=1782141011155",
+"480p":"https://vcloud.zip/ifla9cbb1loa3x1",
+"720p":"https://vcloud.zip/99_fc9ao01fm_r-",
+"1080p":"https://vcloud.zip/2vqfqmoncodbdjw",
+"year":"2006",
+"duration":"1h 23m",
+"rating":"5.5",
+"genre":"Comedy",
+"description":"Cindy finds out the house she lives in is haunted by a little boy and goes on a quest to find out who killed him and why. Also, Alien Tr-iPods are invading the world and she has to uncover the secret in order to stop them.",
+"type":"movie",
+"cast":"Anna Faris,Regina Hall,Craig Bierko,Bill Pullman,Anthony Anderson"
+},
+
+{
+"title":"Scary Movie 3 [2003] WEB-DL [Hindi-English] | Full Movie",
+"im":"lpNG1nx67rvYze1b1R9q0YoSzrC",
+"bgi":"nF74HKjNe7X54XMcIc7ulK5InxR",
+"wo":"https://hub.whistle.lat/0855f2774b67256876b62c622b9923c8?token=1782140914153",
+"480p":"https://vcloud.zip/o1hc5dallkn6mag",
+"720p":"https://vcloud.zip/duezseugugeidq2",
+"1080p":"https://vcloud.zip/dxxpwjwr-omevqp",
+"year":"2003",
+"duration":"1h 24m",
+"rating":"6.0",
+"genre":"Comedy",
+"description":"News anchorwoman Cindy Campbell has to investigate mysterious crop circles and killing video tapes, and help the President stop an alien invasion in the process.",
+"type":"movie",
+"cast":"Anna Faris,Regina Hall,Simon Rex,Anthony Anderson,Charlie Sheen"
+},
+
+{
+"title":"Scary Movie 2 [2001] WEB-DL [Hindi-English] | Full Movie",
+"im":"7Eb1JWK0Cb0rbfsYjwfc9g0PbQH",
+"bgi":"cjSB3ZjaMpaa9oHFyeYha3KG0mp",
+"wo":"https://hub.noirspy.buzz/31c33b471c0c1706cce55cabdf170cb7?token=1782140814151",
+"480p":"https://vcloud.zip/sjk9g9jgmmtwjpr",
+"720p":"https://vcloud.zip/b-ygbbhwbbgkpf1",
+"1080p":"https://vcloud.zip/oulkw91ijiloh9w",
+"year":"2001",
+"duration":"1h 22m",
+"rating":"5.8",
+"genre":"Comedy",
+"description":"A group of students visit a mansion called Hell House, and murderous high jinks ensue.",
+"type":"movie",
+"cast":"Anna Faris,Regina Hall,Marlon Wayans,Shawn Wayans,Christopher Masterson"
+},
+    
+{
+"title":"Scary Movie [2000] WEB-DL [Hindi-English] | Full Movie",
+"im":"fVQFPRuw3yWXojYDJvA5EoFjUOY",
+"bgi":"m5dA4JZsj78EBTa2D6imWOAebwB",
+"wo":"https://pub-c536eeefe2f9452998643b08136745fb.r2.dev/7ff151b718df1b6cc54f508ac04fa694?token=1782140435145",
+"480p":"https://vcloud.zip/b5wf5klzfuw1ocq",
+"720p":"https://vcloud.zip/7_jaubhu8cuugtf",
+"1080p":"https://vcloud.zip/rfeyvlca3sdaekv",
+"year":"2000",
+"duration":"1h 28m",
+"rating":"6.4",
+"genre":"Comedy",
+"description":"A familiar-looking group of teenagers find themselves being stalked by a more-than-vaguely recognizable masked killer! As the victims begin to pile up and the laughs pile on, none of your favorite scary movies escape the razor-sharp satire of this outrageously funny parody!",
+"type":"movie",
+"cast":"Anna Faris,Regina Hall,Marlon Wayans,Shawn Wayans,Jon Abrahams"
+},
+
+{
+"title":"The Super Mario Galaxy Movie [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"eJGWx219ZcEMVQJhAgMiqo8tYY",
+"bgi":"9Z2uDYXqJrlmePznQQJhL6d92Rq",
+"wo":"https://hub.homelander.buzz/60a6185312fa63d2ad44f8cf567349d0?token=1782140039138",
+"480p":"https://vcloud.zip/uruxw0j0h4ljurj",
+"720p":"https://vcloud.zip/s1_2_1q8rs_212g",
+"1080p":"https://vcloud.zip/_lqchq_khck0ulu",
+"year":"2026",
+"duration":"1h 38m",
+"rating":"8.2",
+"genre":"Family,Comedy,Adventure,Fantasy,Animation",
+"description":"Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
+"type":"movie",
+"cast":"Chris Pratt,Anya Taylor-Joy,Charlie Day,Jack Black,Donald Glover"
+},
+
+{
+"title":"Toy Story 4 [2019] WEB-DL [Hindi-English] | Full Movie",
+"im":"w9kR8qbmQ01HwnvK4alvnQ2ca0L",
+"bgi":"q62bpQ67qaXY0u6b2wFEnQYIbPd",
+"wo":"https://hub.whistle.lat/8946d110e7a4be02872cc261a2412d63?token=1782139907136",
+"480p":"https://vcloud.zip/lj1urcbccm12iyl",
+"720p":"https://vcloud.zip/lpuhdtp_kbkv4qt",
+"1080p":"https://vcloud.zip/dsvezx33yf8gh8k",
+"year":"2019",
+"duration":"1h 40m",
+"rating":"7.5",
+"genre":"Family,Comedy,Animation,Adventure",
+"description":"Woody has always been confident about his place in the world, devoted to taking care of his kid—whether that's Andy or Bonnie. But after Bonnie creates a reluctant new toy called Forky, a road trip adventure alongside old and new friends challenges everything Woody believes about loyalty, purpose, and what it truly means to be a toy.",
+"type":"movie",
+"cast":"Tom Hanks,Tim Allen,Annie Potts,Tony Hale,Keegan-Michael Key"
+},
+    
+{
+"title":"Toy Story 3 [2010] WEB-DL [Hindi-English] | Full Movie",
+"im":"AbbXspMOwdvwWZgVN0nabZq03Ec",
+"bgi":"uAfhsySkr1UzQg1zdg3dZQRz9Fd",
+"wo":"https://hub.pyramid.surf/b5e80a78f0b7c50cd98ff3b45a0154bf?token=1782139785134",
+"480p":"https://vcloud.zip/imj5td0m0ydgi5d",
+"720p":"https://vcloud.zip/rmiqr-lo0112xkm",
+"1080p":"https://vcloud.zip/3a_azudt_2y_z4g",
+"year":"2010",
+"duration":"1h 42m",
+"rating":"7.8",
+"genre":"Animation,Family,Comedy",
+"description":"Woody, Buzz, and the rest of Andy's toys haven't been played with in years. With Andy about to go to college, the gang find themselves accidentally left at a nefarious day care center. The toys must band together to escape and return home to Andy.",
+"type":"movie",
+"cast":"Tom Hanks,Tim Allen,Joan Cusack,Don Rickles,Wallace Shawn"
+},
+
+{
+"title":"Toy Story 2 [1999] WEB-DL [Hindi-English] | Full Movie",
+"im":"4rbcp3ng8n1MKHjpeqW0L7Fnpzz",
+"bgi":"7iUDfakacY1HpajP1DtHrCuDB95",
+"wo":"https://hub.whistle.lat/a2e518884ee5728e5fbb967209fb38af?token=1782139669132",
+"480p":"https://vcloud.zip/khhp1cqnhu-pbc-",
+"720p":"https://vcloud.zip/stijseeqjadrjqd",
+"1080p":"https://vcloud.zip/2mxd139g1448ggx",
+"year":"1999",
+"duration":"1h 32m",
+"rating":"7.6",
+"genre":"Animation,Comedy,Family",
+"description":"Andy heads off to Cowboy Camp, leaving his toys to their own devices. Things shift into high gear when an obsessive toy collector named Al McWhiggen, owner of Al's Toy Barn kidnaps Woody. Andy's toys mount a daring rescue mission, Buzz Lightyear meets his match and Woody has to decide where he and his heart truly belong.",
+"type":"movie",
+"cast":"Tom Hanks,Tim Allen,Joan Cusack,Kelsey Grammer,Don Rickles"
+},
+
+{
+"title":"Toy Story [1995] WEB-DL [Hindi-English] | Full Movie",
+"im":"uXDfjJbdP4ijW5hWSBrPrlKpxab",
+"bgi":"3Rfvhy1Nl6sSGJwyjb0QiZzZYlB",
+"480p":"https://filebee.xyz/file/63f5441ea7880a023de95fe0",
+"720p":"https://filebee.xyz/file/63f5444aa7880a023de961f1",
+"1080p":"https://filebee.xyz/file/63f54471a7880a023de96406",
+"year":"1995",
+"duration":"1h 21m",
+"rating":"8.0",
+"genre":"Family,Comedy,Animation,Adventure",
+"description":"Led by Woody, Andy's toys live happily in his room until Andy's birthday brings Buzz Lightyear onto the scene. Afraid of losing his place in Andy's heart, Woody plots against Buzz. But when circumstances separate Buzz and Woody from their owner, the duo eventually learns to put aside their differences.",
+"type":"movie",
+"cast":"Tom Hanks,Tim Allen,Don Rickles,Jim Varney,Wallace Shawn"
+},
+   
+    
+{
+"title":"Bandar [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"3TrQUHmnEL2tOYf4KKkXb01BQt2",
+"bgi":"xS8tsJ8IvNkzBMu3kq3gZFReh7j",
+"wo":"https://pub-c536eeefe2f9452998643b08136745fb.r2.dev/fb79af94183ed5a0efa033c3c5be3ad4?token=1782138872119",
+"480p":"https://vcloud.zip/3699fyu95ym3ma6",
+"720p":"https://vcloud.zip/hxfhyzzydhfimoh",
+"1080p":"https://vcloud.zip/v--rkrhfwrhktz3",
+"year":"2026",
+"duration":"2h 20m",
+"rating":"6.5",
+"genre":"Thriller",
+"description":"TV star Samar's life spirals when his ex Gayatri accuses him of rape after he blocks contact with her. Despite his new relationship with Khushi, he faces arrest and encounters a corrupt justice system.",
+"type":"movie",
+"cast":"Bobby Deol,Sanya Malhotra,Saba Azad,Sapna Pabbi,Jitendra Joshi"
+},
+
+{
+"title":"Hai Jawani Toh Ishq Hona Hai [2026] cam [Hindi] | Full Movie",
+"im":"vmlJvz6qVzYgei2V74GvnmcuQfW",
+"bgi":"l5QgEvlfK6eHPM4YPEk7AArXmh8",
+"wo":"https://pub-c536eeefe2f9452998643b08136745fb.r2.dev/72412ba29e7238d0912d1228e9d6c546?token=1782138719116",
+"480p":"https://vcloud.zip/t_tk1_jnffjrtzp",
+"720p":"https://vcloud.zip/d7xzjayiy7iggu5",
+"1080p":"https://vcloud.zip/21zkvwl22wf8zwv",
+"year":"2026",
+"duration":"2h 16m",
+"rating":"5.5",
+"genre":"Romance,Comedy",
+"description":"When Jass leaves his marriage over conflicting priorities, a new romance abroad is upended by shocking revelations, forcing him to confront love, loyalty, and the true meaning of commitment.",
+"type":"movie",
+"cast":"Varun Dhawan,Mrunal Thakur,Pooja Hegde,Maniesh Paul,Chunky Panday"
+},
+
 {
 "title":"Obsession [2026] ORG-DD2.0 HQ HDTS  [English] | Full Movie",
 "im":"bRwnj8WEKBCvmfeUNOukJPwB43K",

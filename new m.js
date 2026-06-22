@@ -2,7 +2,26 @@
 const movies = [ 
 
 
-    
+
+
+
+{
+"title":"Hoppers [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"xjtWQ2CL1mpmMNwuU5HeS4Iuwuu",
+"bgi":"u53UYu5XG2hNgWGvs3xGhAVzypl",
+"wo":"https://pub-c536eeefe2f9452998643b08136745fb.r2.dev/bcdb4f80b9c28b44af69f578c228a3dc?token=1782143466136",
+"480p":"https://vcloud.zip/gf4op1oxoxcotoc",
+"720p":"https://vcloud.zip/sawiaxg4xyx4wxu",
+"1080p":"https://vcloud.zip/n6yl4llmqv9xg62",
+"year":"2026",
+"duration":"1h 44m",
+"rating":"8.2",
+"genre":"Adventure,Animation,Comedy,Family,Science Fiction",
+"description":"Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
+"type":"movie",
+"cast":"Piper Curda,Bobby Moynihan,Jon Hamm,Kathy Najimy,Dave Franco"
+},
+
 {
 "title":"Scary Movie 4 [2006] WEB-DL [Hindi-English] | Full Movie",
 "im":"sEqFdw1wLtY94RKCSPolsHWzn6r",

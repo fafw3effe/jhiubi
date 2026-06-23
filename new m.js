@@ -4,7 +4,7 @@ const movies = [
 
 
 {
-"title":"House of the Dragon [Season 3] WEB-DL [Hindi-English] | All Episodes",
+"title":"House of the Dragon [Season 3] [Episode 1] WEB-DL [Hindi-English] | All Episodes",
 "im":"7V0Ebks0GgpKvQ7QbLAIdX5dos4",
 "bgi":"577eXC8wFQT0eUrJcgznSiFPRmk",
 "wo":"https://hub.latent.click/9f6ae52ed970b8573cda892323541d2f?token=1782219873149",

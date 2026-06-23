@@ -313,7 +313,7 @@
             if(l.key.includes('S') && l.key.includes('E')) icon = 'fa-play';
             
             buttonsHtml += `
-                <a class="dl-btn ${qClass}" href="${encodeURIComponent(l.url)}" target="_blank" rel="noopener">
+                <a class="dl-btn ${qClass}" href="${l.url}" target="_blank"   rel="noopener noreferrer">
                     <i class="fas ${icon}"></i> ${l.key.toUpperCase()}
                 </a>
             `;

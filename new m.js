@@ -1,6 +1,23 @@
 // Movies data 
 const movies = [ 
 
+
+
+{
+"title":"House of the Dragon [Season 3] [Episode 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"7V0Ebks0GgpKvQ7QbLAIdX5dos4",
+"bgi":"577eXC8wFQT0eUrJcgznSiFPRmk",
+"wo":"https://hub.latent.click/9f6ae52ed970b8573cda892323541d2f?token=1782219873149",
+"S3E1":"https://vcloud.zip/fgcpkft5dhvk766",
+"year":"2022",
+"duration":"1h per episode",
+"rating":"8.3",
+"genre":"Sci-Fi & Fantasy,Drama,Action & Adventure",
+"description":"The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+"type":"series",
+"cast":"Matt Smith,Steve Toussaint,Sonoya Mizuno,Fabien Frankel,Rhys Ifans"
+},
+    
 {
 "title":"Satan - The Dark [2026] WEB-DL [Hindi] | Full Movie",
 "im":"uFjy89xe1Us6iRfdsKAn05Y1XGX",

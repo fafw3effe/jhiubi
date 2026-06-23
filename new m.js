@@ -2,6 +2,74 @@
 const movies = [ 
 
 {
+"title":"Satan - The Dark [2026] WEB-DL [Hindi] | Full Movie",
+"im":"uFjy89xe1Us6iRfdsKAn05Y1XGX",
+"bgi":"zwZ5f2jJvMaFf59oX6jwKFQd8FW",
+"wo":"https://pub-c536eeefe2f9452998643b08136745fb.r2.dev/a3e1eda64db8daa414f24c18b9e14270?token=1782229346127",
+"480p":"https://vcloud.zip/kqufbuidssw8qyb",
+"720p":"https://vcloud.zip/bwlbrhx833hqldq",
+"1080p":"https://vcloud.zip/oi-owhj4jhoopeo",
+"year":"2026",
+"duration":"2h 24m",
+"rating":"4.0",
+"genre":"Horror,Thriller",
+"description":"Set in the fictional village of Asthinapuram, near Tamil Nadu–Kerala border, When Alisha and her mother desperate to escape the cursed land long belongs to colonial-era witchcraft and black magic, they find themselves spiraling into a deeper sinister. With only Alisha’s boyfriend standing by them, the trio must confront the horrors that dwell in silence… and the curse that refuses to be outrun.",
+"type":"movie",
+"cast":"F.J.,Ayraa,Chandhini Tamilarasan,Mona Kakade,Sreeja Ravi"
+},
+
+{
+"title":"Junior [2025] WEB-DL [Hindi] | Full Movie",
+"im":"75C9BmSkGWghozqjQF0fgX48lGz",
+"bgi":"4gssO07P8gLYrtrYTuTdn8l79Te",
+"wo":"https://hub.pyramid.surf/e96941e5e4adcf2d0aec7319e35ef7bd?token=1782229228125",
+"480p":"https://vcloud.zip/wq6km5yh7m6qh6q",
+"720p":"https://vcloud.zip/1ng8ehzgnww7kgn",
+"1080p":"https://vcloud.zip/-d6lx616dipi4o-",
+"year":"2025",
+"duration":"2h 31m",
+"rating":"4.1",
+"genre":"Drama,Family",
+"description":"A free-spirited young man suffocated by his father’s obsessive love escapes to the city in search of freedom, but his carefree attitude soon puts him at odds with his emotionally distant corporate boss. He embarks on a heartwarming journey of redemption and connection discovering the true depth of sacrifice love and the fleeting nature of time.",
+"type":"movie",
+"cast":"Kireeti Reddy,Sreeleela,Genelia D&#39;Souza,V. Ravichandran,Sudharani"
+},
+
+{
+"title":"Demon Slayer: Kimetsu no Yaiba Infinity Castle [2025] WEB-DL [japanese with subtitle] | Full Movie",
+"im":"fWVSwgjpT2D78VUh6X8UBd2rorW",
+"bgi":"1RgPyOhN4DRs225BGTlHJqCudII",
+"wo":"https://hub.noirspy.buzz/b9a4559a55cda3603985bf51f673ecd2?token=1782229030122",
+"480p":"https://vcloud.zip/wqjqolqbuw5vwra",
+"720p":"https://vcloud.zip/gjokgt2gjgk2tb1",
+"1080p":"https://vcloud.zip/gffqf-gmmq2sgns",
+"year":"2025",
+"duration":"2h 36m",
+"rating":"7.7",
+"genre":"Animation,Action,Fantasy",
+"description":"The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
+"type":"movie",
+"cast":"Natsuki Hanae,Takahiro Sakurai,Akira Ishida,Hiro Shimono,Yoshimasa Hosoya"
+},
+
+{
+"title":"Demon Slayer: Kimetsu no Yaiba Infinity Castle [2025] Cam [Hindi] | Full Movie",
+"im":"fWVSwgjpT2D78VUh6X8UBd2rorW",
+"bgi":"1RgPyOhN4DRs225BGTlHJqCudII",
+"wo":"https://hub.noirspy.buzz/1099fa2b4ac351b749dbd928512363c3?token=1782228894119",
+"480p":"https://vcloud.zip/yquo4fowe_vvfo_",
+"720p":"https://vcloud.zip/nbsb1602izz6sl1",
+"1080p":"https://vcloud.zip/c0ti5bwo59skkok",
+"year":"2025",
+"duration":"2h 36m",
+"rating":"7.7",
+"genre":"Animation,Action,Fantasy",
+"description":"The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
+"type":"movie",
+"cast":"Natsuki Hanae,Takahiro Sakurai,Akira Ishida,Hiro Shimono,Yoshimasa Hosoya"
+},    
+
+{
 "title":"Bhooth Bangla [2026] WEB-DL [Hindi] | Full Movie",
 "im":"ArIS4vwUxdhm3j7tsTHmffdfU8W",
 "bgi":"A2tzVTVtnTvpji96IZmleN78KKv",

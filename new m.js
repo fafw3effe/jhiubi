@@ -1,7 +1,38 @@
 // Movies data 
 const movies = [ 
 
+
+
     
+{
+"title":"Sapne vs Everyone [Season 2] WEB-DL [Hindi] | All Episodes",
+"im":"ajBMZ9JNpfrecj4xpZz49tCONBm",
+"bgi":"xP8OH1O4DBd6Std0LVprox9cYQD",
+"S2E1-5":"https://vcloud.zip/yjiii-ji-kdxbcr",
+"year":"2023",
+"duration":"1h per episode",
+"rating":"7.3",
+"genre":"Drama",
+"description":"Two obsessive dreamers collide with the resistance of expectations, morality and each other.",
+"type":"series",
+"cast":"Ambrish Verma,Paramvir Singh Cheema,Vijayant Kohli,Naveen Kasturia,Sukhwinder Chahal"
+},
+
+ {
+"title":"Sapne vs Everyone [Season 1] WEB-DL [Hindi] | All Episodes",
+"im":"ajBMZ9JNpfrecj4xpZz49tCONBm",
+"bgi":"xP8OH1O4DBd6Std0LVprox9cYQD",
+"S1E1":"https://vcloud.zip/1rhgtkwpjzq1hpb","S1E2":"https://vcloud.zip/atd6j8no9aplk6v","S1E3":"https://vcloud.zip/qx6_6sus-uq0ogn","S1E4":"https://vcloud.zip/gj4eh_kppg4wy_j","S1E5":"https://vcloud.zip/nsoo_3zjo0xn1ww",
+"year":"2023",
+"duration":"1h per episode",
+"rating":"7.3",
+"genre":"Drama",
+"description":"Two obsessive dreamers collide with the resistance of expectations, morality and each other.",
+"type":"series",
+"cast":"Ambrish Verma,Paramvir Singh Cheema,Vijayant Kohli,Naveen Kasturia,Sukhwinder Chahal"
+},
+    
+
 {
 "title":"Satan - The Dark [2026] WEB-DL [Hindi] | Full Movie",
 "im":"uFjy89xe1Us6iRfdsKAn05Y1XGX",

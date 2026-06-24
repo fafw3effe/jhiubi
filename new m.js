@@ -2,7 +2,7 @@
 const movies = [ 
 
 {
-"title":"Gram Chikitsalay [Season 1] WEB-DL [Hindi] | All Episodes",
+"title":"Gram Chikitsalay [Season 2] WEB-DL [Hindi] | All Episodes",
 "im":"peRHZYhvuA6MLTJkpf5nIjgsWx5",
 "bgi":"k2RvAGp7b9Yh2py7NC6ZFZ9N5gR",
 "S2E1":"https://vcloud.zip/gkcijrrjvrspc7o","S2E2":"https://vcloud.zip/_za9yyty_zq00a7","S2E3":"https://vcloud.zip/9owhhueke019ne0","S2E4":"https://vcloud.zip/k17xvg1s7wkk1_j","S2E5":"https://vcloud.zip/mzu-6yp6mf2y2rc",

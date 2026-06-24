@@ -1,9 +1,35 @@
 // Movies data 
 const movies = [ 
 
+{
+"title":"Gram Chikitsalay [Season 1] WEB-DL [Hindi] | All Episodes",
+"im":"peRHZYhvuA6MLTJkpf5nIjgsWx5",
+"bgi":"k2RvAGp7b9Yh2py7NC6ZFZ9N5gR",
+"S2E1":"https://vcloud.zip/gkcijrrjvrspc7o","S2E2":"https://vcloud.zip/_za9yyty_zq00a7","S2E3":"https://vcloud.zip/9owhhueke019ne0","S2E4":"https://vcloud.zip/k17xvg1s7wkk1_j","S2E5":"https://vcloud.zip/mzu-6yp6mf2y2rc",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"6.4",
+"genre":"Comedy,Drama",
+"description":"The young, idealistic and brilliant Dr. Prabhat, takes charge of a neglected Primary Health Centre in a North India Village hoping to bring about much needed changes only to realise it is he who will have do change before anything else.",
+"type":"series",
+"cast":"Amol Parashar,Anandeshwar Dwivedi,Akash Makhija,Garima Vikrant Singh,Vinay Pathak"
+},
+
+{
+"title":"Gram Chikitsalay [Season 1] WEB-DL [Hindi] | All Episodes",
+"im":"peRHZYhvuA6MLTJkpf5nIjgsWx5",
+"bgi":"k2RvAGp7b9Yh2py7NC6ZFZ9N5gR",
+"S1E1":"https://vcloud.zip/2pii7hm22hccalp","S1E2":"https://vcloud.zip/vdjmvbbbmqzizao","S1E3":"https://vcloud.zip/onbopsn1s1kx816","S1E4":"https://vcloud.zip/igit1g16kt9yggc","S1E5":"https://vcloud.zip/bvn0ieiq5i1fnt_",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"6.4",
+"genre":"Comedy,Drama",
+"description":"The young, idealistic and brilliant Dr. Prabhat, takes charge of a neglected Primary Health Centre in a North India Village hoping to bring about much needed changes only to realise it is he who will have do change before anything else.",
+"type":"series",
+"cast":"Amol Parashar,Anandeshwar Dwivedi,Akash Makhija,Garima Vikrant Singh,Vinay Pathak"
+},
 
 
-    
 {
 "title":"Sapne vs Everyone [Season 2] WEB-DL [Hindi] | All Episodes",
 "im":"ajBMZ9JNpfrecj4xpZz49tCONBm",

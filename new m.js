@@ -2,6 +2,23 @@
 const movies = [ 
 
 {
+"title":"Welcome to the Jungle [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"1JlfUuvvX5xLP2LIDah4JhWUtTx",
+"bgi":"96chPcURxg5thGyLqxO6otyxHFR",
+"wo":"https://hub.latent.click/49097276b41e8c1afa045c7f02b32598?token=1782572298112",
+"480p":"https://s.w.org/images/core/emoji/17.0.2/svg/26a1.svg",
+"720p":"https://vcloud.zip/llaekkamaycg5ym",
+"1080p":"https://vcloud.zip/ezrcec6es4epeju",
+"year":"2026",
+"duration":"2h 50m",
+"rating":"0.0",
+"genre":"Action,Comedy,Adventure,Crime",
+"description":"A group of quirky characters gets stuck in a dangerous jungle during a chaotic mission. Filled with confusion, criminals, and hilarious situations, they must work together to survive and find their way out.",
+"type":"movie",
+"cast":"Akshay Kumar,Suniel Shetty,Arshad Warsi,Jacqueline Fernandez,Disha Patani"
+},
+
+{
 "title":"Gram Chikitsalay [Season 2] WEB-DL [Hindi] | All Episodes",
 "im":"peRHZYhvuA6MLTJkpf5nIjgsWx5",
 "bgi":"k2RvAGp7b9Yh2py7NC6ZFZ9N5gR",

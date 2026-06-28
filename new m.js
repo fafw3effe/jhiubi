@@ -2,6 +2,21 @@
 const movies = [ 
 
 {
+"title":"KD – The Devil [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"nEuEMJrnLBneE9tJlmzbhCFLu95",
+"bgi":"l1nekhf05HS5OpBr0vRqcD3NxoS",
+"wo":"https://hub.airbender.buzz/2673f001ac50a5abdb5db20e90af7824?token=178265867112",
+"1080p":"https://vcloud.zip/krrpen_bkszsy5m",
+"year":"2026",
+"duration":"2h 21m",
+"rating":"7.5",
+"genre":"History,Crime,Action,Fantasy",
+"description":"In the early 1970s, a petty criminal Kaali unwittingly involves himself with underworld thugs, catalyzing events beyond his control.",
+"type":"movie",
+"cast":"Dhruva Sarja,Shilpa Shetty Kundra,Sanjay Dutt,Reeshma Nanaiah,V. Ravichandran"
+},
+
+{
 "title":"Welcome to the Jungle [2026] WEB-DL [Hindi-English] | Full Movie",
 "im":"1JlfUuvvX5xLP2LIDah4JhWUtTx",
 "bgi":"96chPcURxg5thGyLqxO6otyxHFR",

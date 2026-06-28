@@ -1,6 +1,175 @@
 // Movies data 
 const movies = [ 
 
+
+    
+{
+"title":"Harry Potter and the Deathly Hallows: Part 1 [2010] WEB-DL [Hindi-English] | Full Movie",
+"im":"iGoXIpQb7Pot00EEdwpwPajheZ5",
+"bgi":"vcrgU0KaNj5mKUCIQSUdiQwTE9y",
+"wo":"https://hub.noirspy.buzz/7d89d82b30735fe660436ca55b70f5d9?token=1782661283126",
+"480p":"https://vcloud.zip/-ljl_h0xncyzzsj",
+"720p":"https://vcloud.zip/qneueesptqavl1e",
+"1080p":"https://vcloud.zip/55qikiqovkiqai1",
+"year":"2010",
+"duration":"2h 26m",
+"rating":"7.7",
+"genre":"Adventure,Fantasy",
+"description":"Harry, Ron and Hermione walk away from their last year at Hogwarts to find and destroy the remaining Horcruxes, putting an end to Voldemort's bid for immortality. But with Harry's beloved Dumbledore dead and Voldemort's unscrupulous Death Eaters on the loose, the world is more dangerous than ever.",
+"type":"movie",
+"cast":"Daniel Radcliffe,Emma Watson,Rupert Grint,Toby Jones,Helena Bonham Carter"
+},
+
+{
+"title":"Harry Potter and the Half-Blood Prince [2009] WEB-DL [Hindi-English] | Full Movie",
+"im":"z7uo9zmQdQwU5ZJHFpv2Upl30i1",
+"bgi":"urDWNffjwmNi5IQaezw9GwqkUXa",
+"wo":"https://pub-c536eeefe2f9452998643b08136745fb.r2.dev/98a89b86698b9b932573d973bb5395dd?token=1782661162124",
+"480p":"https://vcloud.zip/calcmmgndrg8sll",
+"720p":"https://vcloud.zip/0h1fmchhbf33fti",
+"1080p":"https://vcloud.zip/calcmmgndrg8sll",
+"year":"2009",
+"duration":"2h 33m",
+"rating":"7.7",
+"genre":"Adventure,Fantasy",
+"description":"Dumbledore tries to prepare Harry for the final battle with Voldemort while Death Eaters wreak havoc in both Muggle and Wizard worlds.",
+"type":"movie",
+"cast":"Daniel Radcliffe,Rupert Grint,Emma Watson,Jim Broadbent,Michael Gambon"
+},
+
+
+{
+"title":"Harry Potter and the Order of the Phoenix [2007] WEB-DL [Hindi-English] | Full Movie",
+"im":"5aOyriWkPec0zUDxmHFP9qMmBaj",
+"bgi":"pkxPkHOPJjOvzfQOclANEBT8OfK",
+"wo":"https://hub.noirspy.buzz/fff61ab424729da3fb4feda4f842f86d?token=1782661078122",
+"480p":"https://vcloud.zip/z1t1d_ditppkknn",
+"720p":"https://vcloud.zip/rbr3bfbbh35ge1r",
+"1080p":"https://vcloud.zip/mvuyf18vmm41hqf",
+"year":"2007",
+"duration":"2h 18m",
+"rating":"7.7",
+"genre":"Adventure,Fantasy",
+"description":"When a new professor's methods leave Hogwarts unprepared to fight the rising tide of evil, Harry teaches students how to defend against the dark arts.",
+"type":"movie",
+"cast":"Daniel Radcliffe,Rupert Grint,Emma Watson,Imelda Staunton,Helena Bonham Carter"
+},
+
+{
+"title":"Harry Potter and the Goblet of Fire [2005] WEB-DL [Hindi-English] | Full Movie",
+"im":"fECBtHlr0RB3foNHDiCBXeg9Bv9",
+"bgi":"1OV7hau4D3rWGS5bu8sqBYeVpe",
+"wo":"https://hub.noirspy.buzz/413634f47f192f2e902c6869724d246a?token=1782661007121",
+"480p":"https://vcloud.zip/xx0wp0wb4wm0we6",
+"720p":"https://vcloud.zip/zthzhtlh66jy61x",
+"1080p":"https://vcloud.zip/xq4b49vflxv4y4d",
+"year":"2005",
+"duration":"2h 37m",
+"rating":"7.8",
+"genre":"Adventure,Fantasy",
+"description":"When his name emerges from the Goblet of Fire, Harry Potter becomes a competitor in a grueling battle for glory among three wizarding schools. Signs of Voldemort's return emerge as Harry's friends help him prepare for the Triwizard Tournament.",
+"type":"movie",
+"cast":"Daniel Radcliffe,Rupert Grint,Emma Watson,Brendan Gleeson,Michael Gambon"
+},
+
+
+{
+"title":"Harry Potter and the Prisoner of Azkaban [2004] WEB-DL [Hindi-English] | Full Movie",
+"im":"aWxwnYoe8p2d2fcxOqtvAtJ72Rw",
+"bgi":"htmYEfH7TQgzsXHCnNXxmoYKQtL",
+"wo":"https://pub-c536eeefe2f9452998643b08136745fb.r2.dev/c7a6db7ce55f98b956c73d2b61c6bcc4?token=1782660884119",
+"480p":"https://vcloud.zip/llg2z1uyawj0ycy",
+"720p":"https://vcloud.zip/uay-tar1-em1hyn",
+"1080p":"https://vcloud.zip/huv5nvq5upnb5eo",
+"year":"2004",
+"duration":"2h 21m",
+"rating":"8.0",
+"genre":"Adventure,Fantasy",
+"description":"Harry Potter's life is in danger once more as dangerous wizard Sirius Black has escaped from Azkaban Prison and is heading to Hogwarts.",
+"type":"movie",
+"cast":"Daniel Radcliffe,Rupert Grint,Emma Watson,Robbie Coltrane,Michael Gambon"
+},
+
+
+{
+"title":"Harry Potter and the Chamber of Secrets [2002] WEB-DL [Hindi-English] | Full Movie",
+"im":"sdEOH0992YZ0QSxgXNIGLq1ToUi",
+"bgi":"1stUIsjawROZxjiCMtqqXqgfZWC",
+"wo":"https://hub.noirspy.buzz/e78a4680272de46393a9278f288a03e7?token=1782660785118",
+"480p":"https://vcloud.zip/ezrp0mkfnnuntlw",
+"720p":"https://vcloud.zip/15-1-wuq5itn5yi",
+"1080p":"https://vcloud.zip/owinwvwhuiet1ln",
+"year":"2002",
+"duration":"2h 41m",
+"rating":"7.7",
+"genre":"Adventure,Fantasy",
+"description":"Cars fly, trees fight back, and a mysterious house-elf comes to warn Harry Potter at the start of his second year at Hogwarts. Adventure and danger await when bloody writing on a wall announces: The Chamber Of Secrets Has Been Opened. To save Hogwarts will require all of Harry, Ron and Hermione's magical abilities and courage.",
+"type":"movie",
+"cast":"Daniel Radcliffe,Rupert Grint,Emma Watson,Kenneth Branagh,Toby Jones"
+},
+
+{
+"title":"Harry Potter and the Philosopher&amp;#39;s Stone [2001] WEB-DL [Hindi-English] | Full Movie",
+"im":"wuMc08IPKEatf9rnMNXvIDxqP4W",
+"bgi":"1XAC6RPT01UX9EQGy2JVn5c8pgy",
+"wo":"https://hub.noirspy.buzz/0103f70448ce1807f20343dd0bcfe33a?token=1782660706116",
+"480p":"https://vcloud.zip/qb7yadqlr3uwh1_",
+"720p":"https://vcloud.zip/x0-odb-nopbp-so",
+"1080p":"https://vcloud.zip/wsmul99mmhozomm",
+"year":"2001",
+"duration":"2h 32m",
+"rating":"7.9",
+"genre":"Adventure,Fantasy",
+"description":"Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard—with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths—and about the villain who's to blame.",
+"type":"movie",
+"cast":"Daniel Radcliffe,Rupert Grint,Emma Watson,Richard Harris,Tom Felton"
+},
+
+{
+"title":"Avatar: The Last Airbender [Season 2] WEB-DL [Hindi] | All Episodes",
+"im":"lzZpWEaqzP0qVA5nkCc5ASbNcSy",
+"bgi":"xUB3xFMgsHgPmdWnUWkHTJ03vHa",
+"S1E1":"https://vcloud.zip/rxwl7n0na61um8w","S1E2":"https://vcloud.zip/_h_nox7heumgl-m","S1E3":"https://vcloud.zip/0h0nu0jgequuqnr","S1E4":"https://vcloud.zip/5xvovv4p1a6ei32","S1E5":"https://vcloud.zip/oqfx1yeuuuggxwx","S1E6":"https://vcloud.zip/xi6iboblfnxg36b","S1E7":"https://vcloud.zip/e1r0tc2jeyc0nrj",
+"year":"2024",
+"duration":"1h per episode",
+"rating":"7.8",
+"genre":"Action & Adventure,Sci-Fi & Fantasy,Drama,Family",
+"description":"A young boy known as the Avatar must master the four elemental powers to save a world at war — and fight a ruthless enemy bent on stopping him.",
+"type":"series",
+"cast":"Gordon Cormier,Kiawentiio,Ian Ousley,Dallas Liu,Paul Sun-Hyung Lee"
+},
+
+{
+"title":"Avatar: The Last Airbender [Season 1] WEB-DL [Hindi] | All Episodes",
+"im":"lzZpWEaqzP0qVA5nkCc5ASbNcSy",
+"bgi":"xUB3xFMgsHgPmdWnUWkHTJ03vHa",
+"S1E1":"https://vcloud.zip/0ijjey800ststyw","S1E2":"https://vcloud.zip/wraoxmynbopsuux","S1E3":"https://vcloud.zip/otqy1n11d5qroma","S1E4":"https://vcloud.zip/kkwwl1lqqw5bmmk","S1E5":"https://vcloud.zip/1ewmg40-6b41vz4","S1E6":"https://vcloud.zip/r1damlrxljxbdmx","S1E7":"https://vcloud.zip/22bwrptkxh5yxcg","S1E8":"https://vcloud.zip/mm1rko-3frpmls4",
+"year":"2024",
+"duration":"1h per episode",
+"rating":"7.8",
+"genre":"Action & Adventure,Sci-Fi & Fantasy,Drama,Family",
+"description":"A young boy known as the Avatar must master the four elemental powers to save a world at war — and fight a ruthless enemy bent on stopping him.",
+"type":"series",
+"cast":"Gordon Cormier,Kiawentiio,Ian Ousley,Dallas Liu,Paul Sun-Hyung Lee"
+},
+
+{
+"title":"Supergirl [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"niSvU02l2BONH9ivubV6K1a5QiK",
+"bgi":"vk5IwZNS35wh6rNmqB1ns6XuiyI",
+"wo":"https://hub.airbender.buzz/3b84d2cd06329d469970b204dadd09a7?token=178265994114",
+"480p":"https://vcloud.zip/geg3x15ktcl1bzj",
+"720p":"https://vcloud.zip/fazy15utqqnwb77",
+"1080p":"https://vcloud.zip/idw0kmvoxiv5sim",
+"year":"2026",
+"duration":"1h 48m",
+"rating":"6.1",
+"genre":"Action,Adventure,Science Fiction",
+"description":"When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+"type":"movie",
+"cast":"Milly Alcock,Eve Ridley,Matthias Schoenaerts,Jason Momoa,David Krumholtz"
+},
+
 {
 "title":"KD – The Devil [2026] WEB-DL [Hindi-English] | Full Movie",
 "im":"nEuEMJrnLBneE9tJlmzbhCFLu95",

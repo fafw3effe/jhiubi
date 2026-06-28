@@ -2,7 +2,7 @@
 const movies = [ 
 
 
-    
+
 {
 "title":"Harry Potter and the Deathly Hallows: Part 1 [2010] WEB-DL [Hindi-English] | Full Movie",
 "im":"iGoXIpQb7Pot00EEdwpwPajheZ5",
@@ -129,7 +129,7 @@ const movies = [
 "title":"Avatar: The Last Airbender [Season 2] WEB-DL [Hindi] | All Episodes",
 "im":"lzZpWEaqzP0qVA5nkCc5ASbNcSy",
 "bgi":"xUB3xFMgsHgPmdWnUWkHTJ03vHa",
-"S1E1":"https://vcloud.zip/rxwl7n0na61um8w","S1E2":"https://vcloud.zip/_h_nox7heumgl-m","S1E3":"https://vcloud.zip/0h0nu0jgequuqnr","S1E4":"https://vcloud.zip/5xvovv4p1a6ei32","S1E5":"https://vcloud.zip/oqfx1yeuuuggxwx","S1E6":"https://vcloud.zip/xi6iboblfnxg36b","S1E7":"https://vcloud.zip/e1r0tc2jeyc0nrj",
+"S2E1":"https://vcloud.zip/rxwl7n0na61um8w","S2E2":"https://vcloud.zip/_h_nox7heumgl-m","S2E3":"https://vcloud.zip/0h0nu0jgequuqnr","S2E4":"https://vcloud.zip/5xvovv4p1a6ei32","S2E5":"https://vcloud.zip/oqfx1yeuuuggxwx","S2E6":"https://vcloud.zip/xi6iboblfnxg36b","S2E7":"https://vcloud.zip/e1r0tc2jeyc0nrj",
 "year":"2024",
 "duration":"1h per episode",
 "rating":"7.8",

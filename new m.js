@@ -1,8 +1,21 @@
 // Movies data 
 const movies = [ 
 
+{
+"title":"Gullak [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"arn3mvRYSrEqO7vaKbH8QxM8EEK",
+"bgi":"t0J74zw5N5Ux7CvvBtIHvjnSB4n",
+"wo":"https://556138dca7367763ed46eecaa4284eca.r2.cloudflarestorage.com/hub2/Gullak%202019%20Hindi%20Season%201%20Complete%20EP01-5%201080P%20-%20Vegamovies.to.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=26b6cf8a0399b5880643f585c8c3dbe5%2F20260630%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260630T143457Z&X-Amz-Expires=10800&X-Amz-SignedHeaders=host&response-content-disposition=Gullak%202019%20Hindi%20Season%201%20Complete%20EP01-5%201080P%20-%20Vegamovies.to.mkv&X-Amz-Signature=c7bc592e0793436035117a48d539c22db141e26ad9ba2727667837a31184b791",
+"1080p":"https://vcloud.zip/pcvw51baad25kwp",
+"year":"2019",
+"duration":"1h per episode",
+"rating":"7.8",
+"genre":"Comedy,Drama,Family",
+"description":"Set in quaint by-lanes in the heart of India, Gullak is a collection of disarming and relatable tales of the Mishra family.",
+"type":"series",
+"cast":"Jameel Khan,Geetanjali Kulkarni,Harsh Mayar,Shivankit Singh Parihar,Sunita Rajwar"
+},
 
-    
 {
 "title":"M4M: Motive for Murder [2026] WEB-DL [Hindi-English] | Full Movie",
 "im":"FcoRfDLRwiAcNCd5SmeDIIeea7",

@@ -2,6 +2,91 @@
 const movies = [ 
 
 
+    
+{
+"title":"M4M: Motive for Murder [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"FcoRfDLRwiAcNCd5SmeDIIeea7",
+"bgi":"sDUGZpt9qmzBIqtFKvgnGnfyBpw",
+"wo":"https://hub.pyramid.surf/a3dee233e21f4579e6cdcd4e487c4ade?token=1782829845115",
+"480p":"https://vcloud.zip/2p020rm02ezlemm",
+"720p":"https://vcloud.zip/u-wckw1xxos1bbw",
+"1080p":"https://vcloud.zip/u-wckw1xxos1bbw",
+"year":"2026",
+"duration":"1h 41m",
+"rating":"0.0",
+"genre":"Crime,Mystery,Thriller",
+"description":"Hyderabad is on edge as a serial killer stages murders as famous paintings. ACP Krishna and journalist Radha investigate, uncovering links to a student and a principal, racing to stop the next planned killing.",
+"type":"movie",
+"cast":"Jo Sharma,Sambeet Acharya,Subhalekha Sudhakar,Geetha Bhascker,Satya Krishna"
+},
+
+{
+"title":"Blast [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"ho824aZtnBzE6FuJRn2znQCq4qQ",
+"bgi":"z18AIGSU0vk4Y7LQP37CPSeKZvF",
+"wo":"https://hub.latent.click/415f8b970589e62ab9ff5936300c9abd?token=1782825390113",
+"480p":"https://vcloud.zip/uv9uflaac9vz1q6",
+"720p":"https://vcloud.zip/t4vu_v_f110d44g",
+"1080p":"https://vcloud.zip/hxzkwlrjzjyy7e-",
+"year":"2026",
+"duration":"2h 23m",
+"rating":"7.0",
+"genre":"Drama,Action,Family,Thriller",
+"description":"Follows a family trained to protect the powerless who become the most dangerous obstacle of all.",
+"type":"movie",
+"cast":"Arjun Sarja,Abhirami,Preity Mukhundhan,Vivek Prasanna,John Kokken"
+},
+
+{
+"title":"Navya Chakra - Psycon World [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"ipuz8BTKkOoLmVTwAUHNGdeGP3A",
+"bgi":"",
+"wo":"https://hub.airbender.buzz/81bb39899f425d3f2c6ac48727a57234?token=178282391819",
+"480p":"https://vcloud.zip/cymgnb3-qi1g-3h",
+"720p":"https://vcloud.zip/lxyfiyyslsay9rk",
+"1080p":"https://vcloud.zip/d--datdz-uz_w1y",
+"year":"2026",
+"duration":"1h 40m",
+"rating":"0.0",
+"genre":"Crime,Drama,Fantasy,Thriller",
+"description":"A series of brutal murders across different states throws the country into fear and confusion. The crimes appear completely unrelated, with no clear connection between the victims or the killers, making the investigation more disturbing with every passing day. As pressure builds on the authorities, the mystery continues to deepen and spread panic everywhere, attracting nationwide media attention and creating fear among ordinary people across the country.",
+"type":"movie",
+"cast":"Tushar Kawale,Jitendra Bohara,Pratiksha Singh,Sandhya Gemawat,Sandeep Rawal"
+},
+
+{
+"title":"Tavvai [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"pZAbPoVTMYrxFUSGG9hwaOUsZnW",
+"bgi":"yBFPtQBfRL0h7KzOeYMRpuABcuf",
+"wo":"https://hub.airbender.buzz/a51c7e26f6697e82e037149ab69816d0?token=178282218217",
+"480p":"https://vcloud.zip/wc8_jjqikj_ekci",
+"720p":"https://vcloud.zip/lbi1yojdl1fwy6b",
+"1080p":"https://vcloud.zip/gkvwpn5cppv5c5z",
+"year":"2026",
+"duration":"2h",
+"rating":"0.0",
+"genre":"Mystery,Horror,Thriller",
+"description":"In 1880, A Maharaj through his atrocities invited Tavvai. The village is terrified for generations until a chosen one sets things right.",
+"type":"movie",
+"cast":"Manoj Joshi,Tripti Sahu,Arpit Ranka,Neetu Pandey,Bhushan Pradhan"
+},
+
+{
+"title":"Tuck Jagadish [2021] WEB-DL [Hindi-English] | Full Movie",
+"im":"dwRfi1cV9oKjVEll12DJqjLWyOD",
+"bgi":"e9vwRKeJAiu2UUV3qSfWgsxr1t7",
+"wo":"https://hub.airbender.buzz/782920e6b0aadcaaf1fbb746b0f1b00b?token=178282926316",
+"480p":"https://vcloud.zip/jvqv5vvzw-i2u7r",
+"720p":"https://vcloud.zip/xxp2bxwcxwqwx2a",
+"1080p":"https://vcloud.zip/dri_jddoipiop16",
+"year":"2021",
+"duration":"2h 25m",
+"rating":"4.3",
+"genre":"Drama,Action,Family",
+"description":"In a village with greedy property fights among the families, Jagadish carries on his father's legacy to reform all the property issues in his village while trying to reunite his family, which is also split due to property issues.",
+"type":"movie",
+"cast":"Nani,Ritu Varma,Jagapati Babu,Daniel Balaji,Aishwarya Rajesh"
+},
 
 {
 "title":"Harry Potter and the Deathly Hallows: Part 1 [2010] WEB-DL [Hindi-English] | Full Movie",

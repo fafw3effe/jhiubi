@@ -1,6 +1,65 @@
 // Movies data 
 const movies = [ 
 
+
+{
+"title":"Gullak [Season 5] WEB-DL [Hindi-English] | All Episodes",
+"im":"arn3mvRYSrEqO7vaKbH8QxM8EEK",
+"bgi":"t0J74zw5N5Ux7CvvBtIHvjnSB4n",
+"S5E1":"https://vcloud.zip/brtslm4frwmdtrs","S5E2":"https://vcloud.zip/igisuvcty3h1jj1","S5E3":"https://vcloud.zip/dz1sd9tdssdfaj9","S5E4":"https://vcloud.zip/eyjvjgqws-cyjvh","S5E5":"https://vcloud.zip/9fohhv811dkru4f","S5E6":"https://vcloud.zip/iqsuj1dmqmbosva","S5E7":"https://vcloud.zip/zxrm8ewifmeqwau",
+"year":"2019",
+"duration":"1h per episode",
+"rating":"7.8",
+"genre":"Comedy,Drama,Family",
+"description":"Set in quaint by-lanes in the heart of India, Gullak is a collection of disarming and relatable tales of the Mishra family.",
+"type":"series",
+"cast":"Jameel Khan,Geetanjali Kulkarni,Harsh Mayar,Shivankit Singh Parihar,Sunita Rajwar"
+},
+
+{
+"title":"Gullak [Season 4] WEB-DL [Hindi-English] | All Episodes",
+"im":"arn3mvRYSrEqO7vaKbH8QxM8EEK",
+"bgi":"t0J74zw5N5Ux7CvvBtIHvjnSB4n",
+"S4E1":"https://vcloud.zip/clfeyyceycye0ef","S4E2":"https://vcloud.zip/h0t-dqbnidhgrl1","S4E3":"https://vcloud.zip/vjwnyzp3e5c9pno","S4E4":"https://vcloud.zip/u4hhb8ul26x1j86","S4E5":"https://vcloud.zip/nhzvz-dh8vah8z2",
+"year":"2019",
+"duration":"1h per episode",
+"rating":"7.8",
+"genre":"Comedy,Drama,Family",
+"description":"Set in quaint by-lanes in the heart of India, Gullak is a collection of disarming and relatable tales of the Mishra family.",
+"type":"series",
+"cast":"Jameel Khan,Geetanjali Kulkarni,Harsh Mayar,Shivankit Singh Parihar,Sunita Rajwar"
+},
+
+{
+"title":"Gullak [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"arn3mvRYSrEqO7vaKbH8QxM8EEK",
+"bgi":"t0J74zw5N5Ux7CvvBtIHvjnSB4n",
+"S3E1":"https://vcloud.zip/ititt2cwoiiozic","S3E2":"https://vcloud.zip/jdksfdaysdjyjts","S3E3":"https://vcloud.zip/99obihzahvzhss9","S3E4":"https://vcloud.zip/6eyeqe46ub3b7xu","S3E5":"https://vcloud.zip/p54oaou9ar969tf",
+"year":"2019",
+"duration":"1h per episode",
+"rating":"7.8",
+"genre":"Comedy,Drama,Family",
+"description":"Set in quaint by-lanes in the heart of India, Gullak is a collection of disarming and relatable tales of the Mishra family.",
+"type":"series",
+"cast":"Jameel Khan,Geetanjali Kulkarni,Harsh Mayar,Shivankit Singh Parihar,Sunita Rajwar"
+},
+
+{
+"title":"Gullak [Season 2] WEB-DL [Hindi-English] | All Episodes",
+"im":"arn3mvRYSrEqO7vaKbH8QxM8EEK",
+"bgi":"t0J74zw5N5Ux7CvvBtIHvjnSB4n",
+"wo":"https://556138dca7367763ed46eecaa4284eca.r2.cloudflarestorage.com/hub2/Gullak%202021%20Hindi%20Season%202%20Complete%201080P%20-%20Vegamovies.to.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=26b6cf8a0399b5880643f585c8c3dbe5%2F20260630%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260630T144416Z&X-Amz-Expires=10800&X-Amz-SignedHeaders=host&response-content-disposition=Gullak%202021%20Hindi%20Season%202%20Complete%201080P%20-%20Vegamovies.to.mkv&X-Amz-Signature=1b46fd21aab670becd7f54bea4a130fd4ec53d9fc5275c373f0b81d32868e73f",
+"1080p":"https://vcloud.zip/1nibxxn1pwjoxqk",
+"year":"2019",
+"duration":"1h per episode",
+"rating":"7.8",
+"genre":"Comedy,Drama,Family",
+"description":"Set in quaint by-lanes in the heart of India, Gullak is a collection of disarming and relatable tales of the Mishra family.",
+"type":"series",
+"cast":"Jameel Khan,Geetanjali Kulkarni,Harsh Mayar,Shivankit Singh Parihar,Sunita Rajwar"
+},
+
+
 {
 "title":"Gullak [Season 1] WEB-DL [Hindi-English] | All Episodes",
 "im":"arn3mvRYSrEqO7vaKbH8QxM8EEK",

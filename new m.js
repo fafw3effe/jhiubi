@@ -3,6 +3,63 @@ const movies = [
 
 
 {
+"title":"College Romance [Season 4] WEB-DL [Hindi-English] | All Episodes",
+"im":"lCvYGef9G5aj3jeoLW79f79O5I4",
+"bgi":"wcG3zqTmzvrKaiFDs7GU3j3s01S",
+"S4E1":"https://vcloud.zip/1mg4auifqxeasqg","S4E2":"https://vcloud.zip/aufnbhlyadhggab","S4E3":"https://vcloud.zip/wjoygoptzzjfhot","S4E4":"https://vcloud.zip/urvqkow3hry9y9w","S4E5":"https://vcloud.zip/jynjky4hsqri--e",
+"year":"2018",
+"duration":"1h per episode",
+"rating":"7.1",
+"genre":"Comedy,Drama",
+"description":"College Romance is a story of three BFF's : Karan, Trippy and Naira ; who fall in love and their ridiculous romantic stories take off.",
+"type":"series",
+"cast":"Keshav Sadhna,Shreya Mehta,Gagan Arora,Apoorva Arora,Nupur Nagpal"
+},
+
+{
+"title":"College Romance [Season 3] WEB-DL [Hindi-English] | All Episodes",
+"im":"lCvYGef9G5aj3jeoLW79f79O5I4",
+"bgi":"wcG3zqTmzvrKaiFDs7GU3j3s01S",
+"S3E1":"https://vcloud.zip/2pc01g1m2htsh2p","S3E2":"https://vcloud.zip/ibobfifi69nowif","S3E3":"https://vcloud.zip/_2jjyuk_a5_yuez","S3E4":"https://vcloud.zip/huueppmz2u9mueu","S3E5":"https://vcloud.zip/mbq66p6hzkzbirc",
+"year":"2018",
+"duration":"1h per episode",
+"rating":"7.1",
+"genre":"Comedy,Drama",
+"description":"College Romance is a story of three BFF's : Karan, Trippy and Naira ; who fall in love and their ridiculous romantic stories take off.",
+"type":"series",
+"cast":"Keshav Sadhna,Shreya Mehta,Gagan Arora,Apoorva Arora,Nupur Nagpal"
+},
+
+{
+"title":"College Romance [Season 2] WEB-DL [Hindi-English] | All Episodes",
+"im":"lCvYGef9G5aj3jeoLW79f79O5I4",
+"bgi":"wcG3zqTmzvrKaiFDs7GU3j3s01S",
+"S2E1":"https://vcloud.zip/tckx-tvvtklr01e","S2E2":"https://vcloud.zip/ttgophhh5wm8mmu","S2E3":"https://vcloud.zip/wjdhu011h3iyidq","S2E4":"https://vcloud.zip/zk5gap2mpm8kapc","S2E5":"https://vcloud.zip/-novzjpvysok1o5",
+"year":"2018",
+"duration":"1h per episode",
+"rating":"7.1",
+"genre":"Comedy,Drama",
+"description":"College Romance is a story of three BFF's : Karan, Trippy and Naira ; who fall in love and their ridiculous romantic stories take off.",
+"type":"series",
+"cast":"Keshav Sadhna,Shreya Mehta,Gagan Arora,Apoorva Arora,Nupur Nagpal"
+},
+
+{
+"title":"College Romance [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"lCvYGef9G5aj3jeoLW79f79O5I4",
+"bgi":"wcG3zqTmzvrKaiFDs7GU3j3s01S",
+"wo":"https://hub.noirspy.buzz/35952a5a36f831800914047def2cd6ab?token=1782831111136",
+"720p":"https://vcloud.zip/qtjrqt9bc1qescx",
+"year":"2018",
+"duration":"1h per episode",
+"rating":"7.1",
+"genre":"Comedy,Drama",
+"description":"College Romance is a story of three BFF's : Karan, Trippy and Naira ; who fall in love and their ridiculous romantic stories take off.",
+"type":"series",
+"cast":"Keshav Sadhna,Shreya Mehta,Gagan Arora,Apoorva Arora,Nupur Nagpal"
+},
+
+{
 "title":"Gullak [Season 5] WEB-DL [Hindi-English] | All Episodes",
 "im":"arn3mvRYSrEqO7vaKbH8QxM8EEK",
 "bgi":"t0J74zw5N5Ux7CvvBtIHvjnSB4n",
@@ -31,7 +88,7 @@ const movies = [
 },
 
 {
-"title":"Gullak [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"title":"Gullak [Season 3] WEB-DL [Hindi-English] | All Episodes",
 "im":"arn3mvRYSrEqO7vaKbH8QxM8EEK",
 "bgi":"t0J74zw5N5Ux7CvvBtIHvjnSB4n",
 "S3E1":"https://vcloud.zip/ititt2cwoiiozic","S3E2":"https://vcloud.zip/jdksfdaysdjyjts","S3E3":"https://vcloud.zip/99obihzahvzhss9","S3E4":"https://vcloud.zip/6eyeqe46ub3b7xu","S3E5":"https://vcloud.zip/p54oaou9ar969tf",

@@ -3,6 +3,20 @@ const movies = [
 
 
 {
+"title":"Lock Upp [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"hRMpjPcg3P4wsdCl61KNXum1Itf",
+"bgi":"h3E2I2etWs5l7OCsRLU9Bz3cSnK",
+"S2E1":"https://vcloud.zip/7ad9x-10duaex7i","S2E2":"https://vcloud.zip/u177u33siqvdtku","S2E3":"https://vcloud.zip/3apixpu1ybdab1a","S2E4":"https://vcloud.zip/woeseps_esjp1xp","S2E5":"https://vcloud.zip/19g2acsc-2vk1ww",
+"year":"2022",
+"duration":"1h per episode",
+"rating":"8.3",
+"genre":"Reality",
+"description":"Lockupp is a 24*7 captive reality show which has 16 celebrities locked inside the queen’s jail for 72 days. Who will survive the badass jail and play atyachaari khel?",
+"type":"series",
+"cast":"Kangana Ranaut,Riteish Deshmukh,Farah Khan"
+},
+
+{
 "title":"College Romance [Season 4] WEB-DL [Hindi-English] | All Episodes",
 "im":"lCvYGef9G5aj3jeoLW79f79O5I4",
 "bgi":"wcG3zqTmzvrKaiFDs7GU3j3s01S",

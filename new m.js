@@ -1,9 +1,25 @@
 // Movies data 
 const movies = [ 
 
+{
+"title":"Martin [2024] WEB-DL [Hindi-English] | Full Movie",
+"im":"rmCJCFrEwPC0u0Y1smihwDo4Cf1",
+"bgi":"42xAe6kVeTjml9Tww6vRoWa5tay",
+"wo":"https://hub.whistle.lat/feb2f461e4722cc91f81033475969bba?token=1783003890136",
+"480p":"https://vcloud.zip/hc-6qqqulndnedq",
+"720p":"https://vcloud.zip/_kwrhr0tshukrpt",
+"1080p":"https://vcloud.zip/1kmlswmnua894_l",
+"year":"2024",
+"duration":"2h 27m",
+"rating":"4.5",
+"genre":"Action,Drama,Thriller",
+"description":"Martin revolves around Lt. Brigadier Arjun Saxena, whose journey takes him from Pakistan to India to discover his real identity and fight against black market dealers, who are involved with terrorists to orchestrate massive attacks in the country.",
+"type":"movie",
+"cast":"Dhruva Sarja,Vaibhavi Shandilya,Anveshi Jain,Giorgia Andriani,Chikkanna"
+},
 
 {
-"title":"Lock Upp [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"title":"Lock Upp [Season 2] WEB-DL [Hindi-English] | All Episodes",
 "im":"hRMpjPcg3P4wsdCl61KNXum1Itf",
 "bgi":"h3E2I2etWs5l7OCsRLU9Bz3cSnK",
 "S2E1":"https://vcloud.zip/7ad9x-10duaex7i","S2E2":"https://vcloud.zip/u177u33siqvdtku","S2E3":"https://vcloud.zip/3apixpu1ybdab1a","S2E4":"https://vcloud.zip/woeseps_esjp1xp","S2E5":"https://vcloud.zip/19g2acsc-2vk1ww",

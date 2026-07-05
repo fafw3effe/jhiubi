@@ -994,7 +994,6 @@ const movies = [
 "480p":"https://vcloud.zip/duobud6iyrb6t4t",
 "720p":"https://vcloud.zip/-422o11zg3uvzpd",
 "1080p":"https://vcloud.zip/-yuan0j-npi3f-y",
-"4k": "https://vcloud.zip/vjhazqdv9eevj2q",
 "year":"2026",
 "duration":"2h 3m",
 "rating":"7.7",

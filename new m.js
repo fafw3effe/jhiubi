@@ -23,7 +23,7 @@ const movies = [
 "im":"hRMpjPcg3P4wsdCl61KNXum1Itf",
 "bgi":"h3E2I2etWs5l7OCsRLU9Bz3cSnK",
 "S2E1":"https://vcloud.zip/7ad9x-10duaex7i","S2E2":"https://vcloud.zip/u177u33siqvdtku","S2E3":"https://vcloud.zip/3apixpu1ybdab1a","S2E4":"https://vcloud.zip/woeseps_esjp1xp","S2E5":"https://vcloud.zip/19g2acsc-2vk1ww",
-"year":"2022",
+"year":"2022","S2E6":"https://vcloud.zip/5cxw0_pd29pmtxv",
 "duration":"1h per episode",
 "rating":"8.3",
 "genre":"Reality",

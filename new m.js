@@ -2,6 +2,57 @@
 const movies = [ 
 
 
+    
+{
+"title":"Chand Mera Dil [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"9LPkXJustudEBgPZEm9tgDx5KtC",
+"bgi":"kkRpcauZoBFKnH0Qsy7J5qtwBF5",
+"wo":"https://pub-f4ba9fb2017042968ec12c06f4b42344.r2.dev/1791af5e40305a1d7baa160c23b5e230?token=1783428748120",
+"480p":"https://vcloud.zip/y45qdj56gs3f5hj",
+"720p":"https://vcloud.zip/vubbt19-5vayyjd",
+"1080p":"https://vcloud.zip/xmgxbydb31ivdev",
+"year":"2026",
+"duration":"2h 22m",
+"rating":"5.3",
+"genre":"Romance,Drama",
+"description":"Aarav and Chandni's passionate college romance is struck by adulthood far too soon, forcing the two young lovers to balance their ambitions with responsibility and realize the evolved meaning of love.",
+"type":"movie",
+"cast":"Ananya Panday,Lakshya Lalwani,Aastha Singh,Paresh Pahuja,Manish Chaudhary"
+},
+
+{
+"title":"Alpha [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"bPtRt3ajQ0EkyeQ1O6iJwAIi9Py",
+"bgi":"b4WXm5ahmtubYXy3wqHUG2nUKoM",
+"wo":"https://pub-f4ba9fb2017042968ec12c06f4b42344.r2.dev/b8bdd907959edf55f4f4d44d095c17b1?token=1783434182117",
+"480p":"https://vcloud.zip/d1tnmnwsqnyns_q",
+"720p":"https://vcloud.zip/81k8pbd1lmh70k1",
+"1080p":"https://vcloud.zip/bqrauer6hqdxdxr",
+"year":"2026",
+"duration":"2h 21m",
+"rating":"6.0",
+"genre":"Action,Thriller",
+"description":"When Sita, a highly trained assassin raised in isolation as a super-soldier by a rogue commander, discovers the dark truth about her family and her stolen childhood, she teams up with her long lost sister to take down her creator and his illicit military program.",
+"type":"movie",
+"cast":"Alia Bhatt,Sharvari,Bobby Deol,Anil Kapoor,Dibyendu Bhattacharya"
+},
+
+{
+"title":"Satluj [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"3uHL1EmsO0rRJ5e3M4JQWpx4Cnb",
+"bgi":"pzLzvBBmEa3rSvaF0i3DBMPOF7u",
+"wo":"https://pub-f4ba9fb2017042968ec12c06f4b42344.r2.dev/6fe335d6c515673728ca6dea0df0e3e9?token=1783428591115",
+"480p":"https://vcloud.zip/r8e2qw8ra8z1z8t",
+"720p":"https://vcloud.zip/6rgsd3omk49unjs",
+"1080p":"https://vcloud.zip/fgsmfgnininolf1",
+"year":"2026",
+"duration":"",
+"rating":"10.0",
+"genre":"Crime",
+"description":"Triggered by the search for his missing aunt, Punjab human rights activist Jaswant Singh launches a dangerous investigation in his attempts at uncovering the conspiracy behind thousands of disappearances and extrajudicial killings.",
+"type":"movie",
+"cast":"Arjun Rampal,Kanwaljit Singh,Diljit Dosanjh,Suvinder Vicky,Varun Badola"
+},
 
 {
 "title":"The Furious [2026] WEB-DL [Hindi-English] | Full Movie",

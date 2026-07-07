@@ -1,6 +1,42 @@
 // Movies data 
 const movies = [ 
 
+
+
+{
+"title":"The Furious [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"vbWGR2d7tojUgXyTRExB8UXDV2u",
+"bgi":"",
+"wo":"https://pub-f4ba9fb2017042968ec12c06f4b42344.r2.dev/93b12a35fae6ead514be0cbfab0dd385?token=1783433346154",
+"480p":"https://filebee.xyz/file/6a4ca79dda46d78cca6b8b20",
+"720p":"https://vcloud.zip/wcbjiwznxrrpxlq",
+"1080p":"https://vcloud.zip/9wsalulsl_gwkwl",
+"year":"2026",
+"duration":"1h 46m",
+"rating":"6.0",
+"genre":"Action,Drama",
+"description":"When YouTuber-boxer Danial insults their late father's name, brothers Firdaus and Hakim reunite - one fighting for redemption, the other for revenge - in a battle that will decide not just who wins, but what remains of The Furious legacy.",
+"type":"movie",
+"cast":"Zul Ariffin,Sky Iskandar,Ikmal Amry,Marisa Yasmin,Zamarul Hisham"
+},
+
+{
+"title":"Passenger [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"2sOEJzhPzjTkZSlPbGxOJ7xgIyS",
+"bgi":"3pDfu71mrzSuFYyIfnKEjt8z4BC",
+"wo":"https://pub-f4ba9fb2017042968ec12c06f4b42344.r2.dev/a9f2187cc490a55a5599ed9e383a1412?token=1783433202151",
+"480p":"https://vcloud.zip/hrirfvrrvblkvur",
+"720p":"https://vcloud.zip/iyewi5cncbsc2ca",
+"1080p":"https://vcloud.zip/_bqdxmmb777ayb3",
+"year":"2026",
+"duration":"1h 34m",
+"rating":"5.7",
+"genre":"Horror,Thriller",
+"description":"After a young couple witnesses a gruesome highway accident, they soon realize they did not leave the crash scene alone, as a demonic presence called the Passenger that won't stop until it claims them both turns their van life adventure into a nightmare.",
+"type":"movie",
+"cast":"Lou Llobell,Jacob Scipio,Melissa Leo,Joseph Lopez,Tony Doupe"
+},
+
 {
 "title":"Martin [2024] WEB-DL [Hindi-English] | Full Movie",
 "im":"rmCJCFrEwPC0u0Y1smihwDo4Cf1",
@@ -23,7 +59,7 @@ const movies = [
 "im":"hRMpjPcg3P4wsdCl61KNXum1Itf",
 "bgi":"h3E2I2etWs5l7OCsRLU9Bz3cSnK",
 "S2E1":"https://vcloud.zip/7ad9x-10duaex7i","S2E2":"https://vcloud.zip/u177u33siqvdtku","S2E3":"https://vcloud.zip/3apixpu1ybdab1a","S2E4":"https://vcloud.zip/woeseps_esjp1xp","S2E5":"https://vcloud.zip/19g2acsc-2vk1ww",
-"year":"2022","S2E6":"https://vcloud.zip/5cxw0_pd29pmtxv",
+"year":"2022","S2E6":"https://vcloud.zip/5cxw0_pd29pmtxv","S2E7":"https://vcloud.zip/k2nedetgimmewz-",
 "duration":"1h per episode",
 "rating":"8.3",
 "genre":"Reality",

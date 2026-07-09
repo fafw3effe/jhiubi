@@ -1,7 +1,22 @@
 // Movies data 
 const movies = [ 
 
-
+{
+"title":"Crakk: Jeetega... Toh Jiyegaa [2024] WEB-DL [Hindi-English] | Full Movie",
+"im":"tmrjo8M4rm6NhkBKk20wDSj91go",
+"bgi":"xzwNTmJzCxn4gBpAsV9o2Krkx0C",
+"wo":"https://hub.whistle.lat/36ff20e17cc30bd67284a9595012a1f2?token=1783609582151",
+"480p":"https://vcloud.zip/uyy8x9jygygnduo",
+"720p":"https://vcloud.zip/ifzyyi-xpaucupi",
+"1080p":"https://vcloud.zip/uvoeyzwdkdsdggc",
+"year":"2024",
+"duration":"2h 34m",
+"rating":"5.5",
+"genre":"Action,Thriller",
+"description":"It follows the journey of a man from the slums of Mumbai to the world of extreme underground sports.",
+"type":"movie",
+"cast":"Vidyut Jammwal,Arjun Rampal,Amy Jackson,Nora Fatehi,Ankit Mohan"
+},
     
 {
 "title":"Chand Mera Dil [2026] WEB-DL [Hindi-English] | Full Movie",

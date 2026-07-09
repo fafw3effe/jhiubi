@@ -936,7 +936,7 @@ const movies = [
 "title":"Peddi [2026] WEB-DL [Hindi-English] | Full Movie",
 "im":"kJAJNNBYlbqAcpTDxBNnaILSMTy",
 "bgi":"oPsRr7AfNLw6XaPuMpvkWK0bIUA",
-"wo":"https://pub-c536eeefe2f9452998643b08136745fb.r2.dev/861ea4b6dbcf7aba28301a5f79ec56a9?token=1782058102153",
+"wo":"https://pub-f4ba9fb2017042968ec12c06f4b42344.r2.dev/64363f3e3db9d0c7dcc0742e5759afc4?token=1783608876140",
 "480p":"https://vcloud.zip/j01ur0yby2u0nwi",
 "720p":"https://vcloud.zip/71yunpq1pjnzziu",
 "1080p":"https://vcloud.zip/b9jlpepsap9evt0",

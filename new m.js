@@ -1,6 +1,127 @@
 // Movies data 
 const movies = [ 
 
+
+    
+{
+"title":"Mukhbir: The Story of a Spy [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"svOrpNNl56ha48pg84IvElHOPbB",
+"bgi":"j9VnIkUMAUYrGS3mmWKbv2o5gau",
+"wo":"https://pub-9bd2f279ccfc49ac89b3d87bd8d540f8.r2.dev/3723624dca4f8581e5595860587ece5f?token=1783690775138",
+"480p":"https://vcloud.zip/vi5tvnhippnibhw",
+"720p":"https://vcloud.zip/197_io11noa-_ii",
+"1080p":"https://vcloud.zip/-f-tccazf_-cacw",
+"year":"2022",
+"duration":"1h per episode",
+"rating":"6.6",
+"genre":"Mystery,Drama",
+"description":"After the Sino-India war, a highly trained Indian spy enters Pakistan on a mission to gather crucial intelligence and stop Pakistan from launching an attack against India. Will he succeed?",
+"type":"series",
+"cast":"Zain Khan Durrani,Adil Hussain,Prakash Raj,Harsh Chhaya,Barkha Bisht"
+},
+
+{
+"title":"Parimala and Co [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"vN2TOTKin83av7hwYnwAKSd3EG8",
+"bgi":"hcQ9Kcmc34yYElii4fjFxABQYqq",
+"wo":"https://pub-9bd2f279ccfc49ac89b3d87bd8d540f8.r2.dev/8308e437c7b328bb1da03f15a848ae3f?token=1783693687137",
+"480p":"https://vcloud.zip/-o-alklzsalk1os",
+"720p":"https://vcloud.zip/xgz-uhuhdfnrhxx",
+"1080p":"https://vcloud.zip/xwnzxwtkccgzdb0",
+"year":"2026",
+"duration":"2h 18m",
+"rating":"0.0",
+"genre":"Crime,Comedy,Mystery,Thriller",
+"description":"A dark comedy centered around a chaotic family whose tangled relationships and unpredictable situations lead to emotionally charged and absurd moments, blending humor with underlying tension and drama.",
+"type":"movie",
+"cast":"Jayaram,Urvashi,Sanjana Krishnamoorthy,Ananthika Sanilkumar,Mysskin"
+},
+
+{
+"title":"Dose [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"wuEQbDF5jHaOOAMGiXWmDRz9imG",
+"bgi":"swelLWmdNwZVU403GG5L2pDtaaS",
+"wo":"https://pub-9bd2f279ccfc49ac89b3d87bd8d540f8.r2.dev/69baa7454f6e6f22cb6002805a3720cc?token=1783691527135",
+"480p":"https://vcloud.zip/91mnkmgzukiz89e",
+"720p":"https://vcloud.zip/buy9uwjat0qdieb",
+"1080p":"https://vcloud.zip/cwfvf0bz0t5bjtb",
+"year":"2026",
+"duration":"2h 20m",
+"rating":"0.0",
+"genre":"Mystery,Thriller",
+"description":"A doctor uncovers a suspicious death at his hospital, unraveling secrets and lies. Joined by a haunted investigator, their search for truth becomes a deadly fight for survival.",
+"type":"movie",
+"cast":"Siju Wilson,Jagadish,Ashwin Kumar,Drishya Raghunath,Krisha Kurup"
+},
+
+{
+"title":"Balti [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"tpgbGGIM76Vk44KLxTNM2UkzmLG",
+"bgi":"6ZZNqEJSorszn4NPuPBWE4xAwUr",
+"wo":"https://pub-9bd2f279ccfc49ac89b3d87bd8d540f8.r2.dev/9bbbf5150f964a3133d43c05dda8faf3?token=1783690284133",
+"480p":"https://vcloud.zip/7quvagbg5anwvya",
+"720p":"https://vcloud.zip/8kg-fl25uffb2ul",
+"1080p":"https://vcloud.zip/ffp1gfrfkfbc2e2",
+"year":"2025",
+"duration":"2h 31m",
+"rating":"7.0",
+"genre":"Action,Drama,Romance",
+"description":"A star kabaddi player's life takes a dangerous turn when he's pulled into the criminal underworld.",
+"type":"movie",
+"cast":"Shane Nigam,Shanthanu Bhagyaraj,Preethi Asrani,Shiva Hariharan,Alphonse Puthren"
+},
+
+{
+"title":"Pati Patni Aur Woh Do [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"x0RUPvba4JlCCkyyEZGlQFIFVuF",
+"bgi":"eNAFLrd1XAAD4hgdTPjewpzYU4W",
+"wo":"https://pub-9bd2f279ccfc49ac89b3d87bd8d540f8.r2.dev/08d3e20bf1c96c021db7141767a12283?token=1783692210129",
+"480p":"https://vcloud.zip/qro4j5id4aawcim",
+"720p":"https://vcloud.zip/sey1gew-wu2ewee",
+"1080p":"https://vcloud.zip/21gdi6tbcnx82dx",
+"year":"2026",
+"duration":"1h 57m",
+"rating":"5.3",
+"genre":"Comedy",
+"description":"A seemingly perfect marriage in Prayagraj takes an unexpected turn when one decision leads to a chain of misunderstandings, suspicion, and comedic chaos.",
+"type":"movie",
+"cast":"Ayushmann Khurrana,Wamiqa Gabbi,Rakul Preet Singh,Sara Ali Khan,Vijay Raaz"
+},
+
+{
+"title":"Ikka [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"fp5EAKE8nTx402n1fWz55QsuYY9",
+"bgi":"azhRdZSfTCNYJBx6KhFhXNWRttm",
+"wo":"https://pub-9bd2f279ccfc49ac89b3d87bd8d540f8.r2.dev/f2773d60a5b6184b6dd55f1a8262b48b?token=1783689131124",
+"480p":"https://vcloud.zip/zbk0fhrzh2z80nv",
+"720p":"https://vcloud.zip/if8rrwgxeu-h6b8",
+"1080p":"https://vcloud.zip/1i5jvhjd6hq6jhp",
+"year":"2026",
+"duration":"",
+"rating":"0.0",
+"genre":"Drama,Thriller",
+"description":"With a loved one's life at stake, a celebrated lawyer must defend a man he suspects is guilty — battling his conscience every step of the way.",
+"type":"movie",
+"cast":"Sunny Deol,Akshaye Khanna,Tillotama Shome,Dia Mirza,Sanjeeda Sheikh"
+},
+
+{
+"title":"Dhamaal 4 [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"5d7hpbefNiuebl5eqP5cRrckVxs",
+"bgi":"95sjD0dRajtU6SKD6Gq6PtrGoGY",
+"wo":"https://pub-9bd2f279ccfc49ac89b3d87bd8d540f8.r2.dev/c28aa18811ff2ad34221e7f05ecf7d76?token=1783692267122",
+"480p":"https://vcloud.zip/sztnrb4unszh0s7",
+"720p":"https://vcloud.zip/wy4jnkr4zwrrkvb",
+"1080p":"https://vcloud.zip/vlccspvp1kqrquq",
+"year":"2026",
+"duration":"2h 23m",
+"rating":"0.0",
+"genre":"Comedy",
+"description":"The Dhamaal boys are back for another treasure hunt, facing hilarious challenges in their quest for the Treasure of Life.",
+"type":"movie",
+"cast":"Ajay Devgn,Arshad Warsi,Riteish Deshmukh,Javed Jaffrey,Sanjay Mishra"
+},
+
 {
 "title":"Crakk: Jeetega... Toh Jiyegaa [2024] WEB-DL [Hindi-English] | Full Movie",
 "im":"tmrjo8M4rm6NhkBKk20wDSj91go",
@@ -125,7 +246,7 @@ const movies = [
 "im":"hRMpjPcg3P4wsdCl61KNXum1Itf",
 "bgi":"h3E2I2etWs5l7OCsRLU9Bz3cSnK",
 "S2E1":"https://vcloud.zip/7ad9x-10duaex7i","S2E2":"https://vcloud.zip/u177u33siqvdtku","S2E3":"https://vcloud.zip/3apixpu1ybdab1a","S2E4":"https://vcloud.zip/woeseps_esjp1xp","S2E5":"https://vcloud.zip/19g2acsc-2vk1ww",
-"year":"2022","S2E6":"https://vcloud.zip/5cxw0_pd29pmtxv","S2E7":"https://vcloud.zip/k2nedetgimmewz-",
+"year":"2022","S2E6":"https://vcloud.zip/5cxw0_pd29pmtxv","S2E7":"https://vcloud.zip/k2nedetgimmewz-","S2E8":"https://vcloud.zip/4zjhewzhonbn4uh","S2E9":"https://vcloud.zip/uyevbeflghglkyu","S2E10":"https://vcloud.zip/5ryj5pilgxbxggw","S2E11":"https://vcloud.zip/g0adym0ed5_q5us",
 "duration":"1h per episode",
 "rating":"8.3",
 "genre":"Reality",

@@ -1,8 +1,57 @@
 // Movies data 
 const movies = [ 
 
+{
+"title":"Mark [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"6LTDv6XHiHN0N77QIFg2tidVvhh",
+"bgi":"6DfHl4CE88x7Rt9oyARQQm6bHXD",
+"wo":"https://pub-f4ba9fb2017042968ec12c06f4b42344.r2.dev/87822dce5ec31aee48fac416848dcb35?token=1783699071142",
+"480p":"https://vcloud.zip/hnn2eb1oxv1nnax",
+"720p":"https://vcloud.zip/j_itge-pnn13_vm",
+"1080p":"https://vcloud.zip/re1-gr3g1p14ezf",
+"year":"2025",
+"duration":"2h 24m",
+"rating":"4.0",
+"genre":"Action,Thriller",
+"description":"Mark is suspended from his police duties for his unruly yet effective ways of operating, but when 18 children are abducted and found dead, races to catch the criminals. With only 18 hours left, he must confront powerful foes and use unconventional tactics to succeed.",
+"type":"movie",
+"cast":"Sudeepa,Deepshika Umapathy,Naveen Chandra,Shine Tom Chacko,Yogi Babu"
+},
 
-    
+{
+"title":"O'Romeo [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"aTnIGrfVv03FIDsNDuabNsp9yFM",
+"bgi":"7AypNX6eZrqyUPZl77jvwTfHgeV",
+"wo":"https://pub-f4ba9fb2017042968ec12c06f4b42344.r2.dev/22a05d6359928f3acb9fab6b9c5ab07e?token=1783698891139",
+"480p":"https://vcloud.zip/_mg3qednj3jje13",
+"720p":"https://vcloud.zip/5mujaidy-ojrauy",
+"1080p":"https://vcloud.zip/lldq2si2gio7veu",
+"year":"2026",
+"duration":"2h 58m",
+"rating":"5.6",
+"genre":"Romance,Action,Drama",
+"description":"What fate awaits a stonehearted gangster and bloodthirsty womaniser when true love claims him, helpless and unguarded? A gang war that shakes the entire underworld and crime syndicate to their very roots. A forbidden love; the tale of an unrequited passion.",
+"type":"movie",
+"cast":"Shahid Kapoor,Triptii Dimri,Avinash Tiwary,Nana Patekar,Hussain Dalal"
+},
+
+{
+"title":"Kara [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"uIrFdMWlJFdc1jPBP9bxeaISCDj",
+"bgi":"e5IdZ1OEWMYxTeu51tI67gXvfpn",
+"wo":"https://pub-f4ba9fb2017042968ec12c06f4b42344.r2.dev/85a2aea219e55566e017ec0c3a4706e9?token=1783698775137",
+"480p":"https://vcloud.zip/2dbdheohebcs1pn",
+"720p":"https://vcloud.zip/h7ac2ygyva1agh-",
+"1080p":"https://vcloud.zip/bvfsvdvif3lccf0",
+"year":"2026",
+"duration":"2h 41m",
+"rating":"6.0",
+"genre":"Crime,Drama,Thriller,Action",
+"description":"A thief tries to go straight, but when predatory banks trap his father in debt, he returns to crime — with a determined cop closing in on his trail.",
+"type":"movie",
+"cast":"Dhanush,Mamitha Baiju,K. S. Ravikumar,Suraj Venjaramoodu,Karunas"
+},
+
 {
 "title":"Mukhbir: The Story of a Spy [Season 1] WEB-DL [Hindi-English] | All Episodes",
 "im":"svOrpNNl56ha48pg84IvElHOPbB",
@@ -27,7 +76,7 @@ const movies = [
 "wo":"https://pub-9bd2f279ccfc49ac89b3d87bd8d540f8.r2.dev/8308e437c7b328bb1da03f15a848ae3f?token=1783693687137",
 "480p":"https://vcloud.zip/-o-alklzsalk1os",
 "720p":"https://vcloud.zip/xgz-uhuhdfnrhxx",
-"1080p":"https://vcloud.zip/xwnzxwtkccgzdb0",
+"1080p":"https://vcloud.zip/xwnzxwtkccgzdb0", 
 "year":"2026",
 "duration":"2h 18m",
 "rating":"0.0",

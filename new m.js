@@ -643,7 +643,7 @@ const movies = [
 "title":"Demon Slayer: Kimetsu no Yaiba Infinity Castle [2025] WEB-DL [japanese with subtitle] | Full Movie",
 "im":"fWVSwgjpT2D78VUh6X8UBd2rorW",
 "bgi":"1RgPyOhN4DRs225BGTlHJqCudII",
-"wo":"https://hub.noirspy.buzz/592b906917ad2ea0d8ede892e6f050a1?token=1782230896153",
+"wo":"https://pub-f4ba9fb2017042968ec12c06f4b42344.r2.dev/f20968635d173322f76a1be7783f44e2?token=1783692413151",
 "480p":"https://vcloud.zip/wqjqolqbuw5vwra",
 "720p":"https://vcloud.zip/gjokgt2gjgk2tb1",
 "1080p":"https://vcloud.zip/gffqf-gmmq2sgns",
@@ -656,22 +656,7 @@ const movies = [
 "cast":"Natsuki Hanae,Takahiro Sakurai,Akira Ishida,Hiro Shimono,Yoshimasa Hosoya"
 },
 
-{
-"title":"Demon Slayer: Kimetsu no Yaiba Infinity Castle [2025] Cam [Hindi] | Full Movie",
-"im":"fWVSwgjpT2D78VUh6X8UBd2rorW",
-"bgi":"1RgPyOhN4DRs225BGTlHJqCudII",
-"wo":"https://pub-c536eeefe2f9452998643b08136745fb.r2.dev/49e09e31673d1b559728753a62abde0a?token=1782230845152",
-"480p":"https://vcloud.zip/yquo4fowe_vvfo_",
-"720p":"https://vcloud.zip/nbsb1602izz6sl1",
-"1080p":"https://vcloud.zip/c0ti5bwo59skkok",
-"year":"2025",
-"duration":"2h 36m",
-"rating":"7.7",
-"genre":"Animation,Action,Fantasy",
-"description":"The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
-"type":"movie",
-"cast":"Natsuki Hanae,Takahiro Sakurai,Akira Ishida,Hiro Shimono,Yoshimasa Hosoya"
-},    
+   
 
 {
 "title":"Bhooth Bangla [2026] WEB-DL [Hindi] | Full Movie",
@@ -2847,19 +2832,7 @@ const movies = [
 "type":"movie",
 "cast":"Sam Worthington,Zoe Saldaña,Sigourney Weaver,Stephen Lang,Oona Chaplin"
 },
-{
-"title":"Demon Slayer: Kimetsu no Yaiba Infinity Castle [2025] WEB-DL [Japanese With HC-Esubtitles] | Full Movie",
-"im":"fWVSwgjpT2D78VUh6X8UBd2rorW",
-"bgi":"1RgPyOhN4DRs225BGTlHJqCudII",
-"720p":"https://vcloud.zip/gjokgt2gjgk2tb1",
-"year":"2025",
-"duration":"2h 36m",
-"rating":"7.6",
-"genre":"Animation,Action,Fantasy",
-"description":"The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
-"type":"movie",
-"cast":"Natsuki Hanae,Takahiro Sakurai,Akira Ishida,Hiro Shimono,Yoshimasa Hosoya"
-},
+
 {
 "title":"Bāhubali: The Epic [2025] WEB-DL [Hindi] | Full Movie",
 "im":"4sLSorDKKDN944kWngxgQlpdDeg",
@@ -4050,20 +4023,8 @@ const movies = [
 "type":"movie",
 "cast":"Yonas Kibreab,Zoe Saldaña,Remy Edgerly,Brandon Moon,Brad Garrett"
 },
-{
-"title":"Demon Slayer: Kimetsu no Yaiba Infinity Castle [2025] HQ-HDTC [Hindi-Japanese] | Full Movie",
-"im":"aFRDH3P7TX61FVGpaLhKr6QiOC1",
-"bgi":"1RgPyOhN4DRs225BGTlHJqCudII",
-"Server 1":"https://pixeldrain.dev/u/o51nczoN?download",
-"Server 2":"https://hubcloud.fyi/drive/fxaam462awaydxz",
-"year":"2025",
-"duration":"2h 35m",
-"rating":"7.6",
-"genre":"Animation,Action,Fantasy,Thriller",
-"description":"The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fig...",
-"type":"movie",
-"cast":"Natsuki Hanae,Hiro Shimono,Takahiro Sakurai,Akira Ishida,Yoshitsugu Matsuoka"
-},
+
+
 {
 "title":"The Terminal List: Dark Wolf [Season 1] [Episode 6] WEB-DL [Hindi-English] | All Episodes",
 "im":"9mYeRoWguq5etbwJRdF8BXFKiF",

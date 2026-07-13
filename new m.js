@@ -1,6 +1,76 @@
 // Movies data 
 const movies = [ 
 
+
+    
+{
+"title":"The Narmada Story [2026] HD TC [Hindi-English] | Full Movie",
+"im":"hxuDlxqCcyaB4Z3mk3TPQI1WWtm",
+"bgi":"ocAIouOpe5CO4GxRAXEVIsf00dA",
+"wo":"https://hub.whistle.lat/6bf0d94e4aa1b99a1fce8d54483405d6?token=1783950563134",
+"480p":"https://vcloud.zip/1di2s2l1bdrpds2",
+"720p":"https://vcloud.zip/etn_0nver_kvqss",
+"1080p":"https://vcloud.zip/xitj1zinoiuk8v4",
+"year":"2026",
+"duration":"2h 1m",
+"rating":"0.0",
+"genre":"Crime,Drama,Thriller",
+"description":"A mother from a tribal community in Madhya Pradesh stands defiant against powerful predators pursuing her daughter. With a brave sub-inspector by her side, she challenges a system built on corruption.",
+"type":"movie",
+"cast":"Raghubir Yadav,Ashwini Kalsekar,Anjali Patil,Ishtiyak Khan,Sadanand Patil"
+},
+
+{
+"title":"Manjhi: The Mountain Man [2015] WEB-DL [Hindi-English] | Full Movie",
+"im":"nmFL0KThULuggh7DxUimi5XTTWu",
+"bgi":"i8oN25sLT8zYq5lQhm970kez35D",
+"wo":"https://pub-9bd2f279ccfc49ac89b3d87bd8d540f8.r2.dev/f4499b0ef6617416eece322a3c859215?token=1783949764121",
+"480p":"https://vcloud.zip/rhsmvtfifo2ml9w",
+"720p":"https://vcloud.zip/ukeq1_9k_jn_ln9",
+"1080p":"https://vcloud.zip/bw5pbrwff2-fdmr",
+"year":"2015",
+"duration":"2h 4m",
+"rating":"7.3",
+"genre":"Drama",
+"description":"After his wife passes away trying to cross a mountain, Manjhi, out of sheer rage, sets on a quest to carve a road through the treacherous mountain.",
+"type":"movie",
+"cast":"Nawazuddin Siddiqui,Radhika Apte,Tigmanshu Dhulia,Pankaj Tripathi,Urmila Mahanta"
+},
+    
+{
+"title":"Nagabandham: The Secret Treasure [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"7r4QUxZ454CSIRLWa1vjNyBG5xk",
+"bgi":"vrr8lu6Z7LvF75juTV1ZqwaVE5u",
+"wo":"https://pub-9bd2f279ccfc49ac89b3d87bd8d540f8.r2.dev/50e817acf3d95fd245fd9ad201235ccb?token=1783944860116",
+"480p":"https://vcloud.zip/rvlaldaxv5o_0vi",
+"720p":"https://vcloud.zip/1yy64mh3djnffld",
+"1080p":"https://vcloud.zip/jqcci1kx1pexivq",
+"year":"2026",
+"duration":"3h 16m",
+"rating":"2.5",
+"genre":"Drama,Fantasy,Action",
+"description":"A chosen warrior protects a mystical, serpent-bound Himalayan temple from those seeking to steal the power of the Brahma Kamalam, a divine relic.",
+"type":"movie",
+"cast":"Virat Karrna,Nabha Natesh,Daksha Nagarkar,Anasuya Bharadwaj,Mahesh Manjrekar"
+},
+
+{
+"title":"Moana [2026] HD TC [Hindi-English] | Full Movie",
+"im":"zKVgiv5qHCvCLT4A2ymJi5QeXDH",
+"bgi":"c6U1Te0p0FK0BOB43hiwGlBKiVY",
+"wo":"https://556138dca7367763ed46eecaa4284eca.r2.cloudflarestorage.com/hub2/Moana.2026.720p.HDTC.Hindi.AAC2.0.x264-Vegamovies.is.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=26b6cf8a0399b5880643f585c8c3dbe5%2F20260713%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260713T121336Z&X-Amz-Expires=10800&X-Amz-SignedHeaders=host&response-content-disposition=Moana.2026.720p.HDTC.Hindi.AAC2.0.x264-Vegamovies.is.mkv&X-Amz-Signature=2d9f7384347bb3289858744e557eae0b1fe634950e57905d286ca107ac869a36",
+"480p":"https://vcloud.zip/9cgus22um3bb11g",
+"720p":"https://vcloud.zip/1yyetr5ny7ff8w5",
+"1080p":"https://vcloud.zip/6nr09pyaicr9xr6",
+"year":"2026",
+"duration":"1h 55m",
+"rating":"5.3",
+"genre":"Family,Fantasy,Comedy,Adventure",
+"description":"Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+"type":"movie",
+"cast":"Catherine Lagaʻaia,Dwayne Johnson,John Tui,Frankie Adams,Rena Owen"
+},
+
 {
 "title":"Mark [2025] WEB-DL [Hindi-English] | Full Movie",
 "im":"6LTDv6XHiHN0N77QIFg2tidVvhh",

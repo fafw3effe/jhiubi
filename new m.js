@@ -2,6 +2,107 @@
 const movies = [ 
 
 
+    
+{
+"title":"The Rajasaab [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"nvK6gYa4diCnQkDVN42uoYXPrdT",
+"bgi":"kCwmLYy9ZMto1eMH8BI9KcVVIH2",
+"wo":"https://pub-9bd2f279ccfc49ac89b3d87bd8d540f8.r2.dev/e649c2fb88d3347e06c28db51f2483f2?token=1784297568157",
+"480p":"https://vcloud.zip/bccorwheclc0cbd",
+"720p":"https://vcloud.zip/f_l9111gl-_dfiu",
+"1080p":"https://vcloud.zip/2cq1yvvmnhsru3p",
+"year":"2026",
+"duration":"3h 6m",
+"rating":"5.1",
+"genre":"Comedy,Horror,Fantasy,Action",
+"description":"Seeking his lost grandfather, a young man enters a haunted mansion and awakens a family curse powerful enough to upend both his life and reality.",
+"type":"movie",
+"cast":"Prabhas,Sanjay Dutt,Zarina Wahab,Nidhhi Agerwal,Malavika Mohanan"
+},
+
+{
+"title":"Sankalp [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"pEDJjtxj1PPd10PvJLo9w9RlQx6",
+"bgi":"e4nxlEQhEdOqwzQoVc4EL11UgFr",
+"S1E1":"https://vcloud.zip/rs-rl1-l0vsdpke","S1E2":"https://vcloud.zip/h_uv1bovhe2yu28","S1E3":"https://vcloud.zip/7sw3c7u1dzhgbe1","S1E4":"https://vcloud.zip/zgkblbh_l1bgz9f","S1E5":"https://vcloud.zip/oerxelwcrra-vjb","S1E6":"https://vcloud.zip/9lamhom9hp667si","S1E7":"https://vcloud.zip/z4i0gtcxrc-qc5r","S1E8":"https://vcloud.zip/afgslliilc9sblg","S1E9":"https://vcloud.zip/4stns11lorcnaas","S1E10":"https://vcloud.zip/ki6g6fdxnd15paf",
+"year":"2026",
+"duration":"1h per episode",
+"rating":"6.0",
+"genre":"Drama",
+"description":"SANKALP is a premium Indian socio-political drama that explores how power is manufactured not through elections, but through mentorship and institutional control. Inspired by the ancient Chanakya–Chandragupta chronicles, the series reimagines political strategy for modern India, where classrooms replace battlefields and bureaucrats replace soldiers.",
+"type":"series",
+"cast":"Nana Patekar,Sanjay Kapoor,Mohd. Zeeshan Ayyub,Neeraj Kabi,Kubbra Sait"
+},
+
+{
+"title":"Gram Chikitsalay [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"peRHZYhvuA6MLTJkpf5nIjgsWx5",
+"bgi":"k2RvAGp7b9Yh2py7NC6ZFZ9N5gR",
+"S2E1":"https://vcloud.zip/rzjc_ee_yfjlcsk","S2E2":"https://vcloud.zip/senqgs7y0sdqrvd","S2E3":"https://vcloud.zip/ykeeidgw7lddxei","S2E4":"https://vcloud.zip/eveuhle1ljha-xv","S2E5":"https://vcloud.zip/a2i2ugbgbkf0z1a",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"6.2",
+"genre":"Comedy,Drama",
+"description":"The young, idealistic and brilliant Dr. Prabhat, takes charge of a neglected Primary Health Centre in a North India Village hoping to bring about much needed changes only to realise it is he who will have do change before anything else.",
+"type":"series",
+"cast":"Amol Parashar,Anandeshwar Dwivedi,Akash Makhija,Garima Vikrant Singh,Vinay Pathak"
+},
+
+{
+"title":"Gram Chikitsalay [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"peRHZYhvuA6MLTJkpf5nIjgsWx5",
+"bgi":"k2RvAGp7b9Yh2py7NC6ZFZ9N5gR",
+"S1E1":"https://vcloud.zip/2pii7hm22hccalp","S1E2":"https://vcloud.zip/vdjmvbbbmqzizao","S1E3":"https://vcloud.zip/onbopsn1s1kx816","S1E4":"https://vcloud.zip/igit1g16kt9yggc","S1E5":"https://vcloud.zip/bvn0ieiq5i1fnt_",
+"year":"2025",
+"duration":"1h per episode",
+"rating":"6.2",
+"genre":"Comedy,Drama",
+"description":"The young, idealistic and brilliant Dr. Prabhat, takes charge of a neglected Primary Health Centre in a North India Village hoping to bring about much needed changes only to realise it is he who will have do change before anything else.",
+"type":"series",
+"cast":"Amol Parashar,Anandeshwar Dwivedi,Akash Makhija,Garima Vikrant Singh,Vinay Pathak"
+},
+
+{
+"title":"Raktanchal [Season 3] WEB-DL [Hindi-English] | All Episodes",
+"im":"tSLQ7AUHCbu5COsInB3WnrZKMgt",
+"bgi":"vYWu1xtfxFcj1u2xbGARmE8cOfT",
+"S3E1":"https://vcloud.zip/gfjxcmjcsyfydd3","S3E2":"https://vcloud.zip/x1zrbkifzf5irpz","S3E3":"https://vcloud.zip/fhmhbjbxsj0rc44","S3E4":"https://vcloud.zip/lloxunrnrutlfoq","S3E5":"https://vcloud.zip/xgioicx6r1ukquu","S3E6":"https://vcloud.zip/eas1skvzuzb3ezv","S3E7":"https://vcloud.zip/j1b-8a9maznbu41","S3E8":"https://vcloud.zip/799akz0na0z3ug3",
+"year":"2020",
+"duration":"1h per episode",
+"rating":"7.3",
+"genre":"Crime,Drama",
+"description":"Raktanchal is a crime drama inspired by real-life events from the '80s of Purvanchal, Uttar Pradesh, at the time when the state development work was distributed through tenders. The criminal empire of Waseem Khan, the tender mafia is challenged by a young criminal Vijay Singh who is driven by vengeance. The story sets in motion, a clash for acquiring tenders with a political battle in the background, which unleashes a bloodbath in the city of Purvanchal. Vijay must overcome great personal odds to beat Waseem Khan and become the tender king.",
+"type":"series",
+"cast":"Kranti Prakash Jha,Krishna Singh Bisht,Basu Soni,Chittaranjan Tripathy,Nikitin Dheer"
+},
+
+{
+"title":"Raktanchal [Season 2] WEB-DL [Hindi-English] | All Episodes",
+"im":"tSLQ7AUHCbu5COsInB3WnrZKMgt",
+"bgi":"vYWu1xtfxFcj1u2xbGARmE8cOfT",
+"S2E1":"https://vcloud.zip/tmqo1vou7a7o7dt","S2E2":"https://vcloud.zip/i2zaeu-122ukxea","S2E3":"https://vcloud.zip/nxfwzxesun5odf7","S2E4":"https://vcloud.zip/48wfcvopkhc1wgv","S2E5":"https://vcloud.zip/ubqzrjivzhqrij0","S2E6":"https://vcloud.zip/nrukbjgwsm0f66g","S2E7":"https://vcloud.zip/hjkxhpbrp3zbjl4","S2E8":"https://vcloud.zip/eq-1unqmbj03rej","S2E9":"https://vcloud.zip/frawkrvvgfrkixj",
+"year":"2020",
+"duration":"1h per episode",
+"rating":"7.3",
+"genre":"Crime,Drama",
+"description":"Raktanchal is a crime drama inspired by real-life events from the '80s of Purvanchal, Uttar Pradesh, at the time when the state development work was distributed through tenders. The criminal empire of Waseem Khan, the tender mafia is challenged by a young criminal Vijay Singh who is driven by vengeance. The story sets in motion, a clash for acquiring tenders with a political battle in the background, which unleashes a bloodbath in the city of Purvanchal. Vijay must overcome great personal odds to beat Waseem Khan and become the tender king.",
+"type":"series",
+"cast":"Kranti Prakash Jha,Krishna Singh Bisht,Basu Soni,Chittaranjan Tripathy,Nikitin Dheer"
+},
+
+{
+"title":"Raktanchal [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"tSLQ7AUHCbu5COsInB3WnrZKMgt",
+"bgi":"vYWu1xtfxFcj1u2xbGARmE8cOfT",
+"S1E1":"https://vcloud.zip/u3e899wsenn98yz","S1E2":"https://vcloud.zip/cvnjekyzzwnaaky","S1E3":"https://vcloud.zip/lc2xhznielr2wln","S1E4":"https://vcloud.zip/hxqubuo-0hhquje","S1E5":"https://vcloud.zip/wrbe-t-alflqndd","S1E6":"https://vcloud.zip/pz6me67ow1ego81","S1E7":"https://vcloud.zip/ya5saojep216nhi","S1E8":"https://vcloud.zip/nmr1rjbuj1bdjvg","S1E9":"https://vcloud.zip/tfbtif8pgcagp8c",
+"year":"2020",
+"duration":"1h per episode",
+"rating":"7.3",
+"genre":"Crime,Drama",
+"description":"Raktanchal is a crime drama inspired by real-life events from the '80s of Purvanchal, Uttar Pradesh, at the time when the state development work was distributed through tenders. The criminal empire of Waseem Khan, the tender mafia is challenged by a young criminal Vijay Singh who is driven by vengeance. The story sets in motion, a clash for acquiring tenders with a political battle in the background, which unleashes a bloodbath in the city of Purvanchal. Vijay must overcome great personal odds to beat Waseem Khan and become the tender king.",
+"type":"series",
+"cast":"Kranti Prakash Jha,Krishna Singh Bisht,Basu Soni,Chittaranjan Tripathy,Nikitin Dheer"
+},
 
 {
 "title":"Doraemon: Nobita and the Birth of Japan [1989] WEB-DL [Hindi-English] | Full Movie",

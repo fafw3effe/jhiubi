@@ -2,7 +2,7 @@
 const movies = [ 
 
 
-    
+
 {
 "title":"Doraemon: Nobita and the Birth of Japan [1989] WEB-DL [Hindi-English] | Full Movie",
 "im":"pWYf9VL7yO0NMPzzUKsCGCD4GU4",
@@ -632,7 +632,7 @@ const movies = [
 "im":"hRMpjPcg3P4wsdCl61KNXum1Itf",
 "bgi":"h3E2I2etWs5l7OCsRLU9Bz3cSnK",
 "S2E1":"https://vcloud.zip/7ad9x-10duaex7i","S2E2":"https://vcloud.zip/u177u33siqvdtku","S2E3":"https://vcloud.zip/3apixpu1ybdab1a","S2E4":"https://vcloud.zip/woeseps_esjp1xp","S2E5":"https://vcloud.zip/19g2acsc-2vk1ww",
-"year":"2022","S2E6":"https://vcloud.zip/5cxw0_pd29pmtxv","S2E7":"https://vcloud.zip/k2nedetgimmewz-","S2E8":"https://vcloud.zip/4zjhewzhonbn4uh","S2E9":"https://vcloud.zip/uyevbeflghglkyu","S2E10":"https://vcloud.zip/5ryj5pilgxbxggw","S2E11":"https://vcloud.zip/g0adym0ed5_q5us",
+"year":"2022","S2E6":"https://vcloud.zip/5cxw0_pd29pmtxv","S2E7":"https://vcloud.zip/k2nedetgimmewz-","S2E8":"https://vcloud.zip/4zjhewzhonbn4uh","S2E9":"https://vcloud.zip/uyevbeflghglkyu","S2E10":"https://vcloud.zip/5ryj5pilgxbxggw","S2E11":"https://vcloud.zip/g0adym0ed5_q5us","S2E12":"https://vcloud.zip/qgnv1v6bfrm4m7q","S2E13":"https://vcloud.zip/wqu1u-bvuzbvu1u","S2E14":"https://vcloud.zip/k333zjv8ep7b7ma","S2E15":"https://vcloud.zip/uyzzh00k0d6xy0x","S2E16":"https://vcloud.zip/ckmkthtf111f_ll","S2E17":"https://vcloud.zip/gfhbnfj1bpfh_nd",
 "duration":"1h per episode",
 "rating":"8.3",
 "genre":"Reality",

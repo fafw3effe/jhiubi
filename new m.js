@@ -4,6 +4,91 @@ const movies = [
 
     
 {
+"title":"RDX: Robert Dony Xavier [2023] WEB-DL [Hindi-English] | Full Movie",
+"im":"y6QRQ0bHGt9Wc1BBTZsa1iB2PAm",
+"bgi":"2n6KECWCNmekIEgZFNlldkELUsP",
+"wo":"https://hub.latent.click/2ba7b31f01f73d05eaa86c704597feca?token=1784299621132",
+"480p":"https://vcloud.zip/girqrrbrqmhgsoq",
+"720p":"https://vcloud.zip/zyuyezmx-yupej-",
+"1080p":"https://vcloud.zip/t9vzw1jmltto58v",
+"year":"2023",
+"duration":"2h 30m",
+"rating":"6.7",
+"genre":"Action,Drama",
+"description":"Once-menacing, anger fueled, trained martial arts fighters Robert, Dony and Xavier settle down to peaceful lives, after a significant event prompts them. Fate orchestrates their reunion and return from exile to their fighting ways, when their history linger ominously and one of them faces a violent attack.",
+"type":"movie",
+"cast":"Shane Nigam,Antony Varghese,Neeraj Madhav,Lal,Babu Antony"
+},
+
+{
+"title":"Hello! [2017] WEB-DL [Hindi-English] | Full Movie",
+"im":"8oVa20YGZMi3INlVFkCl453Cs21",
+"bgi":"L7hqV1bbk8UFjgnu17BQ3Jkokr",
+"wo":"https://pub-9bd2f279ccfc49ac89b3d87bd8d540f8.r2.dev/a6f65e134927b5597fc9abdb993749d4?token=1784299515130",
+"480p":"https://vcloud.zip/ibp37is1kq90tgv",
+"720p":"https://vcloud.zip/crkugwel6kgwrw6",
+"1080p":"https://vcloud.zip/98lw8l5nowdze1z",
+"year":"2017",
+"duration":"2h 11m",
+"rating":"7.1",
+"genre":"Action,Family,Romance",
+"description":"Avinash/Seenu is a street urchin brought up by his loving adoptive parents Saru and Prakash. The love of his life is the girl he meets during childhood Junnu/Priya, whom fate had snatched away from him. Fourteen long years and they still wait for the day they will meet again. Will destiny help them?",
+"type":"movie",
+"cast":"Akhil Akkineni,Kalyani Priyadarshan,Ramya Krishnan,Jagapati Babu,Ajay"
+},
+
+{
+"title":"Premalu [2024] WEB-DL [Hindi-English] | Full Movie",
+"im":"uPpmBjY3znUqGY8kYwI5xvOrSc0",
+"bgi":"gDyLcjvmdAhmYqjCMwZ9PndnAVm",
+"wo":"https://556138dca7367763ed46eecaa4284eca.r2.cloudflarestorage.com/hub2/Premalu.2024.720p.WEB-DL.Hindi.5.1-Malayalam.5.1.ESub.x264-Vegamovies.to.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=26b6cf8a0399b5880643f585c8c3dbe5%2F20260717%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260717T142823Z&X-Amz-Expires=10800&X-Amz-SignedHeaders=host&response-content-disposition=Premalu.2024.720p.WEB-DL.Hindi.5.1-Malayalam.5.1.ESub.x264-Vegamovies.to.mkv&X-Amz-Signature=1bdb376a36ff57da18f3a9fce1dd3083ea70a74456e390a8149defcbe80a4cd6",
+"480p":"https://vcloud.zip/m8r_qjmx1ax77b7",
+"720p":"https://vcloud.zip/7kk7zr1rg2ssw-0",
+"1080p":"https://vcloud.zip/tv1llq171lo4stv",
+"year":"2024",
+"duration":"2h 35m",
+"rating":"7.7",
+"genre":"Romance,Comedy",
+"description":"Sachin, a carefree graduate, crosses paths with Reenu, a spirited IT professional, in Hyderabad. As their friendship deepens, unspoken feelings, career ambitions and life choices challenge their bond.",
+"type":"movie",
+"cast":"Naslen K. Gafoor,Mamitha Baiju,Sangeeth Prathap,Shyam Mohan,Akhila Bhargavan"
+},
+
+{
+"title":"Manjummel Boys [2024] WEB-DL [Hindi-English] | Full Movie",
+"im":"bswrtewwthpsh6nABiqKevU4UBI",
+"bgi":"zGsHpuMN412VyzJZZnQeq4lMdjF",
+"wo":"https://pub-9bd2f279ccfc49ac89b3d87bd8d540f8.r2.dev/cd2e1352c744f7e8f1c774862b7a981e?token=1784298371111",
+"480p":"https://vcloud.zip/bcbjpznc19d1xdn",
+"720p":"https://vcloud.zip/6_fznyodcnwdddq",
+"1080p":"https://vcloud.zip/1d6ydk_8ivmn6jv",
+"year":"2024",
+"duration":"2h 15m",
+"rating":"7.8",
+"genre":"Adventure,Thriller,Drama",
+"description":"A carefree vacation turns into a desperate race against time when a group of lifelong friends must unite to save one of their own from a notoriously perilous, uncharted abyss deep within the Guna Caves.",
+"type":"movie",
+"cast":"Soubin Shahir,Sreenath Bhasi,Balu Varghese,Ganapathi S. Poduval,Lal Jr."
+},
+
+{
+"title":"Aavesham [2024] WEB-DL [Hindi-English] | Full Movie",
+"im":"k5RWPaNjgRcNvGoawYaQHQwyctI",
+"bgi":"6WxEPaZGFWmQegUmseoGtlTKtQq",
+"wo":"https://hub.whistle.lat/426befd373de39775d2224ffba780fb6?token=178429827019",
+"480p":"https://vcloud.zip/829-pxdc86dr22v",
+"720p":"https://vcloud.zip/0359cywmv51cfic",
+"1080p":"https://vcloud.zip/p_1zan8p7_yzn4p",
+"year":"2024",
+"duration":"2h 36m",
+"rating":"7.5",
+"genre":"Comedy,Action",
+"description":"Three college freshmen in Bangalore befriend an eccentric gangster to get revenge on their senior bullies.",
+"type":"movie",
+"cast":"Fahadh Faasil,Hipster,Mithun Jai Sankar,Roshan Shanavas,Sajin Gopu"
+},
+
+{
 "title":"The Rajasaab [2026] WEB-DL [Hindi-English] | Full Movie",
 "im":"nvK6gYa4diCnQkDVN42uoYXPrdT",
 "bgi":"kCwmLYy9ZMto1eMH8BI9KcVVIH2",

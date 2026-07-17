@@ -4,6 +4,256 @@ const movies = [
 
     
 {
+"title":"Doraemon: Nobita and the Birth of Japan [1989] WEB-DL [Hindi-English] | Full Movie",
+"im":"pWYf9VL7yO0NMPzzUKsCGCD4GU4",
+"bgi":"pPwR2VBB1Bo1SB5Tf205bY7vqbt",
+"wo":"https://hub.whistle.lat/3505ddfa50c2315e1835acef04b180a2?token=1784295435122",
+"480p":"https://vcloud.zip/api/index.php?link=Z05pekN0bExMcHd2b2FFMUEwYmUvYUxHeVBaOEdrMWMzb29nVDBHZVlrb08vZjBuVC9aREVtSHlwckZhRWlNZA==",
+"720p":"https://vcloud.zip/api/index.php?link=MjFldFMvNnQyVHd6bVo5VFk0bENXWmVnMWtYc1pzSE9yUXhPekFjQk1nai9obG9mNnYzbXJWOWFVNW1LK25xZw==",
+"year":"1989",
+"duration":"1h 40m",
+"rating":"6.7",
+"genre":"Animation,Adventure,Family,Fantasy,Science Fiction",
+"description":"Nobita, thinking of running away from home, travels back in time with Doraemon and his pals to prehistoric Japan. However, a time paradox causes prehistoric boy Kukul to land in the modern day, so it's up to Doraemon and the rest to help the boy get back to the past while also defeating the mysterious shaman king, Giga-Zombie.",
+"type":"movie",
+"cast":"Nobuyo Oyama,Noriko Ohara,Michiko Nomura,Kazuya Tatekabe,Kaneta Kimotsuki"
+},
+
+{
+"title":"Doraemon: Nobita and the Castle of the Undersea Devil [1983] WEB-DL [Hindi-English] | Full Movie",
+"im":"ioI9ftVCfdhgwM0jAjfSG2pNN4S",
+"bgi":"a9exkrhcmpuRKVYW88f7cJxsosD",
+"wo":"https://pub-9bd2f279ccfc49ac89b3d87bd8d540f8.r2.dev/028de96ba15a6a3357fb622fc46306f0?token=1784295319120",
+"480p":"https://vcloud.zip/kjktphy51uppjim",
+"720p":"https://vcloud.zip/f1jq2rf1amifdjd",
+"year":"1983",
+"duration":"1h 34m",
+"rating":"7.0",
+"genre":"Animation,Adventure,Family,Fantasy,Science Fiction",
+"description":"Nobita and his friends under the waters of the Pacific Ocean. Gian and Suneo take Doraemon's underwater vehicle and travel through the Atlantic Ocean, trying to find a treasure ship.",
+"type":"movie",
+"cast":"Nobuyo Oyama,Noriko Ohara,Michiko Nomura,Kazuya Tatekabe,Kaneta Kimotsuki"
+},
+
+{
+"title":"Doraemon: Nobita's Great Adventure in the South Seas [1998] WEB-DL [Hindi-English] | Full Movie",
+"im":"4gGIYi40x3G6UPm1IMGqdseK0Ro",
+"bgi":"jrxJ3RB4DQcHphoTmWbVa9WHTMd",
+"wo":"https://hub.whistle.lat/04cd3ed363d9c2ca642e58d249128df1?token=1784289380112",
+"480p":"https://vcloud.zip/7uwk7btif9xrxdk",
+"720p":"https://vcloud.zip/egn1ypbp_2dxv_2",
+"year":"1998",
+"duration":"1h 31m",
+"rating":"6.5",
+"genre":"Animation,Family,Adventure,Comedy,Fantasy,Science Fiction",
+"description":"Nobita coaxes his friends to join him for a treasure hunt but an eerie event transports them to the past. However, their hunt for treasure is not easy as they come face-to-face with pirates.",
+"type":"movie",
+"cast":"Nobuyo Oyama,Noriko Ohara,Michiko Nomura,Kaneta Kimotsuki,Kazuya Tatekabe"
+},
+
+{
+"title":"Doraemon: Nobita's Great Adventure in the Antarctic Kachi Kochi [2017] WEB-DL [Hindi-English] | Full Movie",
+"im":"hcydn0Lr3DAixZFOaUmjoqoIFU6",
+"bgi":"3W2I33pTXWMiH8py382Zg86OB9Q",
+"wo":"https://hub.whistle.lat/56febc24b4ef71c4866a160719539c87?token=178429438814",
+"480p":"https://vcloud.zip/txejthes6kojves",
+"720p":"https://vcloud.zip/po5dgnj52917a5p",
+"1080p":"https://vcloud.zip/z4r9z9724k8r7z_",
+"year":"2017",
+"duration":"1h 41m",
+"rating":"6.5",
+"genre":"Animation,Adventure,Fantasy,Family,Science Fiction,Comedy",
+"description":"Doraemon and Nobita discover a mysterious golden ring far beneath the ice in Antarctica, leading them to uncover an ancient, ruined city.",
+"type":"movie",
+"cast":"Wasabi Mizuta,Megumi Oohara,Yumi Kakazu,Tomokazu Seki,Subaru Kimura"
+},
+
+
+{
+"title":"Doraemon: Nobita's Treasure Island [2018] WEB-DL [Hindi-English] | Full Movie",
+"im":"t1YkpYAxzD1lxNbjoZBpvYWkucO",
+"bgi":"anb6GDkC5dOnBDkGehxZdPdUrfr",
+"wo":"https://hub.whistle.lat/a8a6a4021eea2cc29c0dfdaf5528148f?token=178429412510",
+"480p":"https://vcloud.zip/am-e1h-x6gsxgkk",
+"720p":"https://vcloud.zip/g5hc1ui05jmrinh",
+"1080p":"https://vcloud.zip/ax2u44w3rxavrrd",
+"year":"2018",
+"duration":"1h 48m",
+"rating":"7.0",
+"genre":"Animation,Adventure,Fantasy,Science Fiction,Comedy,Family",
+"description":"Upon hearing about the story of Treasure Island, Nobita dreams of discovering and exploring his own treasure island, despite the fact all of the Earth has been mapped already.",
+"type":"movie",
+"cast":"Wasabi Mizuta,Megumi Oohara,Yumi Kakazu,Subaru Kimura,Tomokazu Seki"
+},
+
+{
+"title":"Doraemon: Nobita and the Galaxy Super-express [1996] WEB-DL [Hindi-English] | Full Movie",
+"im":"moqO24uCB0k6q4qPyAwb7O0xeWM",
+"bgi":"qblWrkMEUKhMpfry51Hs3rJCj7n",
+"wo":"https://hub.pyramid.surf/95cedb2aaf176187df4b21a13b7e72b1?token=1784294018158",
+"480p":"https://vcloud.zip/kkaiu8_krb_ak2v",
+"720p":"https://vcloud.zip/11bxykemokkjmkg",
+"1080p":"https://vcloud.zip/b8lu8yzu-2ygl6l",
+"year":"1996",
+"duration":"1h 37m",
+"rating":"7.5",
+"genre":"Animation,Science Fiction,Action,Family,Adventure,Fantasy",
+"description":"Doraemon went missing for 3 days. But it turns out later that he went to the 22nd century to buy a mystery galactic express train ticket whose destination is a secret until the passengers arrive there and see for themselves.",
+"type":"movie",
+"cast":"Nobuyo Oyama,Noriko Ohara,Michiko Nomura,Kaneta Kimotsuki,Kazuya Tatekabe"
+},
+
+{
+"title":"Doraemon: Nobita's Chronicle of the Moon Exploration [2019] WEB-DL [Hindi-English] | Full Movie",
+"im":"zAZ43208e643rB3pcx8jsLqc6B9",
+"bgi":"9AmRLvf2xpVQ5vf2zouIwcGMz6n",
+"wo":"https://hub.whistle.lat/4d7175aa6bc32fd66971d646361882ed?token=1784293820155",
+"480p":"https://vcloud.zip/p-aahfulotk1nbl",
+"720p":"https://vcloud.zip/knql33gt0geylrq",
+"1080p":"https://vcloud.zip/xfzzsrm1kyz0x0b",
+"year":"2019",
+"duration":"1h 51m",
+"rating":"7.3",
+"genre":"Animation,Adventure,Comedy,Science Fiction,Fantasy,Family",
+"description":"When Nobita's class makes fun of him for believing in the moon rabbit, he embarks on an adventure with Doraemon to create a civilisation of rabbits on the moon.",
+"type":"movie",
+"cast":"Wasabi Mizuta,Megumi Oohara,Yumi Kakazu,Tomokazu Seki,Subaru Kimura"
+},
+    
+{
+"title":"Doraemon: Nobita and the New Steel Troops: Winged Angels [2011] WEB-DL [Hindi-English] | Full Movie",
+"im":"57ighjFjXpRwg7VeQ1GN6nf4OZH",
+"bgi":"vA4T6wydyu8xpcN7ZB7YhTbCfig",
+"wo":"https://hub.whistle.lat/ac581d717fb02747e805b46f37dab6e1?token=1784293648152",
+"480p":"https://vcloud.zip/fndgakvpf1v6fyy",
+"720p":"https://vcloud.zip/fscognoyfbeookf",
+"1080p":"https://vcloud.zip/1oiohiwdi1afxhm",
+"year":"2011",
+"duration":"1h 48m",
+"rating":"7.4",
+"genre":"Animation,Adventure,Family,Science Fiction,Fantasy,Comedy",
+"description":"Nobita and Doraemon find a giant robot in pieces which they later assemble. It turns out to be a destructive weapon and the gang must save Earth from an imminent invasion.",
+"type":"movie",
+"cast":"Wasabi Mizuta,Megumi Oohara,Yumi Kakazu,Tomokazu Seki,Subaru Kimura"
+},
+
+{
+"title":"Doraemon the Movie: Nobita's Sky Utopia [2023] WEB-DL [Hindi-English] | Full Movie",
+"im":"uux6M8z3hxLDkq8LXSzq8528mrq",
+"bgi":"zaAo7ytwAIaQZxIPBC4kfRSPlM0",
+"wo":"https://hub.whistle.lat/507c2979ceaab395920bc4e41e6df087?token=1784293536150",
+"480p":"https://vcloud.zip/-wpri7uiergav24",
+"720p":"https://vcloud.zip/f9_qzna9qzp8n1q",
+"1080p":"https://vcloud.zip/asdi_y6brbbdbry",
+"year":"2023",
+"duration":"1h 47m",
+"rating":"7.1",
+"genre":"Animation,Family,Adventure,Science Fiction,Fantasy",
+"description":"Doraemon, Nobita and his friends go to find Utopia, a perfect land in the sky where everyone lives with happiness, using an airship having a time warp function.",
+"type":"movie",
+"cast":"Wasabi Mizuta,Megumi Oohara,Yumi Kakazu,Subaru Kimura,Tomokazu Seki"
+},
+
+{
+"title":"Doraemon: Nobita's Three Visionary Swordsmen [1994] WEB-DL [Hindi-English] | Full Movie",
+"im":"oCQtdezF7Ap5wm8ICiB3Pzx6wM4",
+"bgi":"fgxH8zchlbP3pzN4CyXPFTXM72B",
+"wo":"https://hub.whistle.lat/12375921fdb686607d69fda734cdd5d8?token=1784293473149",
+"480p":"https://vcloud.zip/ixkkkot_1k-zf1c",
+"720p":"https://vcloud.zip/1dy7dxlvexs1kbn",
+"1080p":"https://vcloud.zip/966xyy53jooy969",
+"year":"1994",
+"duration":"1h 39m",
+"rating":"7.3",
+"genre":"Animation,Family,Adventure,Comedy,Fantasy,Science Fiction",
+"description":"Nobita is exhausted from having constant nightmares and pleads Doraemon to arrange a dream machine that will enable him to dream of anything he wishes for. As Nobita dreams of him and his friends in the roles of gallant musketeers, the dream world starts to break down due to a dark force, and Nobita will have to put his fantasy to the test and become a hero, both in the real world and imagined.",
+"type":"movie",
+"cast":"Nobuyo Oyama,Noriko Ohara,Michiko Nomura,Kaneta Kimotsuki,Kazuya Tatekabe"
+},
+
+{
+"title":"Doraemon: New Nobita's Great Demon - Peko and the Exploration Party of Five [2014] WEB-DL [Hindi-English] | Full Movie",
+"im":"xKGMXQFGca4nKcO308aZ6nWz0Gc",
+"bgi":"u9S16gXvAO9QbeNu8Y81fUwgWm7",
+"wo":"https://hub.whistle.lat/01df9751421c313362e965162cc3f053?token=1784293397148",
+"480p":"https://vcloud.zip/jphpozoqippl6fi",
+"720p":"https://vcloud.zip/sedr_k5p5ssw-k-",
+"1080p":"https://vcloud.zip/mtbmooqdo1updtu",
+"year":"2014",
+"duration":"1h 49m",
+"rating":"6.2",
+"genre":"Family,Animation,Adventure,Fantasy,Comedy,Science Fiction",
+"description":"Nobita is followed by a stray dog on his way home and decides to help it find its original owner with the help of Doraemon. They find out that the dog is actually a prince in its homeland in Africa.",
+"type":"movie",
+"cast":"Wasabi Mizuta,Megumi Oohara,Yumi Kakazu,Subaru Kimura,Tomokazu Seki"
+},
+
+{
+"title":"Doraemon the Movie: Nobita's Earth Symphony [2024] WEB-DL [Hindi-English] | Full Movie",
+"im":"1W5Kg4K27U3dx9Kxb8DaE6WFLHI",
+"bgi":"Z3mSxuPRNiFYxf1LBoGz3YrJzC",
+"wo":"https://hub.whistle.lat/7583d95b5849c935e6059fefbb1a643a?token=1784293330147",
+"480p":"https://vcloud.zip/lag22u2fy7cvciz",
+"720p":"https://vcloud.zip/ticqzi3tklststz",
+"1080p":"https://vcloud.zip/_kbpff4icktybjm",
+"year":"2024",
+"duration":"1h 55m",
+"rating":"6.7",
+"genre":"Animation,Family,Fantasy,Music,Adventure,Comedy,Science Fiction",
+"description":"When a malevolent entity intent on eradicating music from the world surfaces, Nobita and his friends must unite with supernatural companions to safeguard the planet.",
+"type":"movie",
+"cast":"Wasabi Mizuta,Megumi Oohara,Yumi Kakazu,Subaru Kimura,Tomokazu Seki"
+},
+
+{
+"title":"Doraemon: Nobita's New Dinosaur [2020] WEB-DL [Hindi-English] | Full Movie",
+"im":"wxCZmXRJa8hSv1Tpih8TBSR4o6b",
+"bgi":"9aWXBrBe9ZnejsgGvDuN70prKEG",
+"wo":"https://pub-9bd2f279ccfc49ac89b3d87bd8d540f8.r2.dev/6bb751885048fdd72bb09d742d09f1cf?token=1784293198144",
+"480p":"https://vcloud.zip/qk5bloqcqrumrln",
+"720p":"https://vcloud.zip/7xxi5g-1xbd7v-z",
+"1080p":"https://vcloud.zip/nrfxgbmpop6jmxc",
+"year":"2020",
+"duration":"1h 51m",
+"rating":"7.3",
+"genre":"Animation,Adventure,Family,Fantasy,Science Fiction,Comedy",
+"description":"Nobita accidentally finds a fossil dinosaur egg mixed with rocks in the dinosaur fossil exhibition site that he had visited before. He returns it to its original state with the 'time blanket'.",
+"type":"movie",
+"cast":"Wasabi Mizuta,Megumi Oohara,Yumi Kakazu,Tomokazu Seki,Subaru Kimura"
+},
+
+{
+"title":"Doraemon: Nobita's New Great Adventure Into the Underworld - The Seven Magic Users [2007] WEB-DL [Hindi-English] | Full Movie",
+"im":"2PlFFcAq9PcFEGgA0Znvut3kmVL",
+"bgi":"fCrErWTy5YXrzN3NbDoolHwB4b",
+"wo":"https://pub-9bd2f279ccfc49ac89b3d87bd8d540f8.r2.dev/8e81213e5791b1fb6fae8163c8f3de63?token=1784293076142",
+"480p":"https://vcloud.zip/ztn7dnsiiszndhq",
+"720p":"https://vcloud.zip/9wo4cmxdw-19owp",
+"1080p":"https://vcloud.zip/zx1dghsgchxgsds",
+"year":"2007",
+"duration":"1h 52m",
+"rating":"7.2",
+"genre":"Family,Adventure,Animation,Science Fiction,Fantasy",
+"description":"Nobita wishes the world into a magic-reliant one with Doraemon's Moshimo-Box, and, along with his friends, must stop an asteroid from hitting the planet with help from a sorcerer-in-training.",
+"type":"movie",
+"cast":"Wasabi Mizuta,Megumi Oohara,Yumi Kakazu,Subaru Kimura,Tomokazu Seki"
+},
+
+{
+"title":"Off Campus [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"cbODFqkcmRgrYH8NkG4Q4Hcg8Z1",
+"bgi":"52sp0vPhLOWrZ1QoZIWiapronM",
+"S1E1":"https://vcloud.zip/no9hlt9y8lntbv8","S1E2":"https://vcloud.zip/enebsmm2ws_fpxg","S1E3":"https://vcloud.zip/lvnmo5-vlqqwm85","S1E4":"https://vcloud.zip/shtfhfjftk1t_bt","S1E5":"https://vcloud.zip/fahotlot5bvtpou","S1E6":"https://vcloud.zip/qicu6tuk_sqsu-s","S1E7":"https://vcloud.zip/hx6sn2juaac300s","S1E8":"https://vcloud.zip/ef7_3p1afajxlxf",
+"year":"2026",
+"duration":"1h per episode",
+"rating":"8.9",
+"genre":"Drama",
+"description":"Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
+"type":"series",
+"cast":"Ella Bright,Belmont Cameli,Mika Abdalla,Stephen Kalyn,Jalen Thomas Brooks"
+},
+    
+{
 "title":"Backrooms [2026] WEB-DL [Hindi-English] | Full Movie",
 "im":"rhGx6E3qRNMgj3i5su2oukNHwIQ",
 "bgi":"mCpwRayjXMFzKHbjbzc5JRKfq1O",
@@ -10837,21 +11087,7 @@ const movies = [
 "quality":"WEB-DL",
 "cast":"Sai Durgha Tej,Samyuktha,Brahmaji,Rajiv Kanakala,Ravi Krishna"
 },
-{
-"title":"Doraemon the Movie: Nobita's Sky Utopia [2023] Blu-Ray [Hindi-English] | Full Movie",
-"im":"uux6M8z3hxLDkq8LXSzq8528mrq",
-"bgi":"zq4HFBohIe424AI55Z8CZBbgJUZ",
-"Server 1":"https://pub-ed0ca22af5c04301b7abe9dac4aaf9bc.r2.dev/Doraemon.Nobitas.Sky.Utopia.2023.720p.Blu-Ray.Hindi.Japanese.ESubs-Vegamovies.is.mkv",
-"link":"tt21223380",
-"year":"2023",
-"duration":"97 min",
-"rating":"7.5",
-"genre":"Animation, Adventure, Family",
-"description":"Doraemon and Nobita embark on a thrilling adventure in the sky as they discover a new world of floating islands and secrets that could change everything.",
-"type":"movie",
-"quality":"blu-Ray",
-"cast":"Wasabi Mizuta, Megumi Ohara, Yumi Kakazu, Satoshi Tsumabuki"
-},
+
 {
 "title":"Mars Express [2023] Blu-Ray [Hindi-English] | Full Movie",
 "im":"g8rUn0khoYB3G4gPPGTF1Xv9Olu",

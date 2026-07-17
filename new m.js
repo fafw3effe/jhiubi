@@ -2,7 +2,7 @@
 const movies = [ 
 
 
-    
+
 {
 "title":"RDX: Robert Dony Xavier [2023] WEB-DL [Hindi-English] | Full Movie",
 "im":"y6QRQ0bHGt9Wc1BBTZsa1iB2PAm",
@@ -75,7 +75,7 @@ const movies = [
 "title":"Aavesham [2024] WEB-DL [Hindi-English] | Full Movie",
 "im":"k5RWPaNjgRcNvGoawYaQHQwyctI",
 "bgi":"6WxEPaZGFWmQegUmseoGtlTKtQq",
-"wo":"https://hub.whistle.lat/426befd373de39775d2224ffba780fb6?token=178429827019",
+"wo":"https://556138dca7367763ed46eecaa4284eca.r2.cloudflarestorage.com/hub2/Aavesham.2024.720p.WEB-DL.Hindi.5.1-Malayalam.ESub.x264-Vegamovies.to.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=26b6cf8a0399b5880643f585c8c3dbe5%2F20260717%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260717T145432Z&X-Amz-Expires=10800&X-Amz-SignedHeaders=host&response-content-disposition=Aavesham.2024.720p.WEB-DL.Hindi.5.1-Malayalam.ESub.x264-Vegamovies.to.mkv&X-Amz-Signature=be0c041194b2d730819e076494248cdf63d811d3d50724899aba9723e91e980c",
 "480p":"https://vcloud.zip/829-pxdc86dr22v",
 "720p":"https://vcloud.zip/0359cywmv51cfic",
 "1080p":"https://vcloud.zip/p_1zan8p7_yzn4p",

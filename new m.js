@@ -41,7 +41,7 @@ const movies = [
 "title":"Love Insurance Kompany [2026] WEB-DL [Hindi-English] | Full Movie",
 "im":"1IIUWMKzNVvI6YJX8BKE6EJ9bVd",
 "bgi":"woos7rldBAKG99HmcbNZNpMjwNk",
-"wo":"https://hub.whistle.lat/fc30dc88bf924d9f0eb8bf90ba9796ba?token=1784387608158",
+"wo":"https://hub.whistle.lat/fc30dc88bf924d9f0eb8bf90ba9796ba?token=1784387608118",
 "480p":"https://vcloud.zip/hue3zzrklmiu5zu",
 "720p":"https://vcloud.zip/mzkwgrjrmwmttpp",
 "1080p":"https://vcloud.zip/swhlcuoptkhybty",

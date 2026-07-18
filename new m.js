@@ -4,6 +4,57 @@ const movies = [
 
     
 {
+"title":"Munjya [2024] WEB-DL [Hindi-English] | Full Movie",
+"im":"ylYdXu0SM79Qs7vOz6q7mBxanVD",
+"bgi":"4Yr1efAiQ55YdV9R7N4WOntpmZ5",
+"wo":"https://556138dca7367763ed46eecaa4284eca.r2.cloudflarestorage.com/hub2/Munjya.2024.720p.10Bit.HEVC.Hindi.DS4K.WEB-DL.5.1.ESub.x265.Vegamovies.to.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=26b6cf8a0399b5880643f585c8c3dbe5%2F20260718%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260718T152354Z&X-Amz-Expires=10800&X-Amz-SignedHeaders=host&response-content-disposition=Munjya.2024.720p.10Bit.HEVC.Hindi.DS4K.WEB-DL.5.1.ESub.x265.Vegamovies.to.mkv&X-Amz-Signature=6a45376ef87d45d7020d192fcb227ed425b012db48971bb836f83c690bc4b5b3",
+"480p":"https://vcloud.zip/cylda3z17cx3lvy",
+"720p":"https://vcloud.zip/xdszjisjwwtskm1",
+"1080p":"https://vcloud.zip/or9y7xy9mqnfas2",
+"year":"2024",
+"duration":"2h 1m",
+"rating":"6.1",
+"genre":"Comedy,Horror",
+"description":"A young man's visit to his native village unveils a family secret and a vengeful spirit, Munjya, who wants to get married. Now the young man must fight to protect himself and his love from Munjya's clutches leading to a humorously chaotic and terrifying adventure.",
+"type":"movie",
+"cast":"Abhay Verma,Sharvari,Ayush Ulagadde,Mona Singh,Suhas Joshi"
+},
+
+{
+"title":"Youth [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"rNzk0jlGRPnvZ26On5xhTmLaQhO",
+"bgi":"eaknBFnMg8fPlwlegBaPtQfhyF8",
+"wo":"https://pub-f4ba9fb2017042968ec12c06f4b42344.r2.dev/f98f76249bad085544d350d09db1b4b1?token=178438809316",
+"480p":"https://vcloud.zip/lnl5t76tldn4wws",
+"720p":"https://vcloud.zip/a4m5s3qz19x9am3",
+"1080p":"https://vcloud.zip/224geos7sjkdsfa",
+"year":"2026",
+"duration":"2h 21m",
+"rating":"7.2",
+"genre":"Comedy,Romance,Drama",
+"description":"Youth follows Praveen, a 15-year-old boy who enters adolescence determined to find true love before school ends. As he goes through multiple relationships and heartbreaks, he slowly begins to understand what love truly means. Along the way, the experiences shape his growth, maturity, and outlook on life.",
+"type":"movie",
+"cast":"Ken Karunaas,Anishma Anilkumar,Suraj Venjaramoodu,Devadarshini,Meenakshi Dinesh"
+},
+
+{
+"title":"Love Insurance Kompany [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"1IIUWMKzNVvI6YJX8BKE6EJ9bVd",
+"bgi":"woos7rldBAKG99HmcbNZNpMjwNk",
+"wo":"https://hub.whistle.lat/fc30dc88bf924d9f0eb8bf90ba9796ba?token=1784387608158",
+"480p":"https://vcloud.zip/hue3zzrklmiu5zu",
+"720p":"https://vcloud.zip/mzkwgrjrmwmttpp",
+"1080p":"https://vcloud.zip/swhlcuoptkhybty",
+"year":"2026",
+"duration":"2h 37m",
+"rating":"4.8",
+"genre":"Romance,Science Fiction,Comedy",
+"description":"In 2040, an app premised on ensuring romance for all is used widely by the population. When the voice behind the app's AI realizes its misconception to true love, he embarks on a quest to prove that love does not come from a screen.",
+"type":"movie",
+"cast":"Pradeep Ranganathan,Krithi Shetty,S. J. Suryah,Yogi Babu,Gouri G Kishan"
+},
+    
+{
 "title":"Thukra Ke Mera Pyaar [Season 2] WEB-DL [Hindi-English] | All Episodes",
 "im":"AnWyFmAGQaUdi1kISvXqy20HHoR",
 "bgi":"mKXSi5t9CKy0jDEWcGTuJnapu07",

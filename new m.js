@@ -2,7 +2,53 @@
 const movies = [ 
 
 
+    
+{
+"title":"Thukra Ke Mera Pyaar [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"AnWyFmAGQaUdi1kISvXqy20HHoR",
+"bgi":"mKXSi5t9CKy0jDEWcGTuJnapu07",
+"S2E1":"https://vcloud.zip/-1haav__pd4qvb5","S2E2":"https://vcloud.zip/djo5j5oyojqj0lo","S2E3":"https://vcloud.zip/lwkaleiym2e2ray","S2E4":"https://vcloud.zip/txwsra1dwskx61r","S2E5":"https://vcloud.zip/0salszg0avptvbu","S2E6":"https://vcloud.zip/0qrtk0ixif00ily","S2E7":"https://vcloud.zip/gwiankukywykowi","S2E8":"https://vcloud.zip/1ub9009ugruj74b","S2E9":"https://vcloud.zip/uonhwjr5jmirkpz","S2E10":"https://vcloud.zip/ucy_jear9zuah9y","S2E11":"https://vcloud.zip/fyouyzfdu7dfs1u","S2E12":"https://vcloud.zip/vgdo9gdq6ig0ifz","S2E13":"https://vcloud.zip/hevlh4mp04h3o1m","S2E14":"https://vcloud.zip/ylcllcp7pyawdpr","S2E15":"https://vcloud.zip/xts8fk3wiedf15u","S2E16":"https://vcloud.zip/9dlvk9ciurxi1c-","S2E17":"https://vcloud.zip/hn97pnjt4otxgah","S2E18":"https://vcloud.zip/q1ktxush1hnvcmh","S2E19":"https://vcloud.zip/e5h8ek72h575k77","S2E20":"https://vcloud.zip/dok55m5mmbmn1do",
+"year":"2024",
+"duration":"1h per episode",
+"rating":"6.0",
+"genre":"Drama",
+"description":"Two families clash over societal and caste differences spurring a saga of revenge. All this happens when a love story goes wrong.",
+"type":"series",
+"cast":"Dhaval Thakur,Sanchita Bashu,Sushil Pandey,Kapil Kanpuriya,Ravi Sah"
+},
 
+{
+"title":"The East Palace [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"cSSLOfs53udkWPI5MXXonfwe4oN",
+"bgi":"9LJiiVPSS2DsV9drnA3k3zqMgPW",
+"S1E1":"https://vcloud.zip/nkx0rxcfm54ylne","S1E2":"https://vcloud.zip/8smm4gs6qs6j11p","S1E3":"https://vcloud.zip/nncdbuezu9uz99w","S1E4":"https://vcloud.zip/wx1j5j51vw55v6g","S1E5":"https://vcloud.zip/fa8a-bi9ii8-nnx","S1E6":"https://vcloud.zip/9vwokhwao9kvuol","S1E7":"https://vcloud.zip/crang7cw5ihch9_","S1E8":"https://vcloud.zip/bdfaow9dco1h5js",
+"year":"2026",
+"duration":"1h per episode",
+"rating":"8.2",
+"genre":"Mystery,Action & Adventure,Sci-Fi & Fantasy,Drama",
+"description":"A man who walks the spirit world and a court lady who hears the dead enter the East Palace by the king's orders — can they unravel its dark secrets?",
+"type":"series",
+"cast":"Nam Joo-hyuk,Roh Yoon-seo,Cho Seung-woo,Park Soo-yeon,Jang Young-nam"
+},
+
+    
+{
+"title":"The Odyssey [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"5rhTDKUhPYvpdQIijFIs5VoWsON",
+"bgi":"r57L2UBLPKcHdZQYg8tagv9XqK2",
+"wo":"https://pub-49f66803e6de43978aceb51d29821c2e.r2.dev/88a530879e6b3bbd5456ab3ef96c090a?token=178437911514",
+"480p":"https://vcloud.zip/lmgmilaakiplafr",
+"720p":"https://vcloud.zip/vifdugspqgdr5dq",
+"1080p":"https://vcloud.zip/-rcbcttubvbwudt",
+"year":"2026",
+"duration":"2h 53m",
+"rating":"7.6",
+"genre":"Adventure,Action,Fantasy",
+"description":"Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+"type":"movie",
+"cast":"Matt Damon,Tom Holland,Anne Hathaway,Robert Pattinson,Lupita Nyong&#39;o"
+},
+    
 {
 "title":"RDX: Robert Dony Xavier [2023] WEB-DL [Hindi-English] | Full Movie",
 "im":"y6QRQ0bHGt9Wc1BBTZsa1iB2PAm",
@@ -75,7 +121,7 @@ const movies = [
 "title":"Aavesham [2024] WEB-DL [Hindi-English] | Full Movie",
 "im":"k5RWPaNjgRcNvGoawYaQHQwyctI",
 "bgi":"6WxEPaZGFWmQegUmseoGtlTKtQq",
-"wo":"https://556138dca7367763ed46eecaa4284eca.r2.cloudflarestorage.com/hub2/Aavesham.2024.720p.WEB-DL.Hindi.5.1-Malayalam.ESub.x264-Vegamovies.to.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=26b6cf8a0399b5880643f585c8c3dbe5%2F20260717%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260717T145432Z&X-Amz-Expires=10800&X-Amz-SignedHeaders=host&response-content-disposition=Aavesham.2024.720p.WEB-DL.Hindi.5.1-Malayalam.ESub.x264-Vegamovies.to.mkv&X-Amz-Signature=be0c041194b2d730819e076494248cdf63d811d3d50724899aba9723e91e980c",
+"wo":"https://hub.whistle.lat/426befd373de39775d2224ffba780fb6?token=178429827019",
 "480p":"https://vcloud.zip/829-pxdc86dr22v",
 "720p":"https://vcloud.zip/0359cywmv51cfic",
 "1080p":"https://vcloud.zip/p_1zan8p7_yzn4p",

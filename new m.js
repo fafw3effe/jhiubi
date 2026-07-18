@@ -4,7 +4,7 @@ const movies = [
 
     
 {
-"title":"Thukra Ke Mera Pyaar [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"title":"Thukra Ke Mera Pyaar [Season 2] WEB-DL [Hindi-English] | All Episodes",
 "im":"AnWyFmAGQaUdi1kISvXqy20HHoR",
 "bgi":"mKXSi5t9CKy0jDEWcGTuJnapu07",
 "S2E1":"https://vcloud.zip/-1haav__pd4qvb5","S2E2":"https://vcloud.zip/djo5j5oyojqj0lo","S2E3":"https://vcloud.zip/lwkaleiym2e2ray","S2E4":"https://vcloud.zip/txwsra1dwskx61r","S2E5":"https://vcloud.zip/0salszg0avptvbu","S2E6":"https://vcloud.zip/0qrtk0ixif00ily","S2E7":"https://vcloud.zip/gwiankukywykowi","S2E8":"https://vcloud.zip/1ub9009ugruj74b","S2E9":"https://vcloud.zip/uonhwjr5jmirkpz","S2E10":"https://vcloud.zip/ucy_jear9zuah9y","S2E11":"https://vcloud.zip/fyouyzfdu7dfs1u","S2E12":"https://vcloud.zip/vgdo9gdq6ig0ifz","S2E13":"https://vcloud.zip/hevlh4mp04h3o1m","S2E14":"https://vcloud.zip/ylcllcp7pyawdpr","S2E15":"https://vcloud.zip/xts8fk3wiedf15u","S2E16":"https://vcloud.zip/9dlvk9ciurxi1c-","S2E17":"https://vcloud.zip/hn97pnjt4otxgah","S2E18":"https://vcloud.zip/q1ktxush1hnvcmh","S2E19":"https://vcloud.zip/e5h8ek72h575k77","S2E20":"https://vcloud.zip/dok55m5mmbmn1do",

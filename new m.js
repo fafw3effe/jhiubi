@@ -41,7 +41,7 @@ const movies = [
 "title":"Love Insurance Kompany [2026] WEB-DL [Hindi-English] | Full Movie",
 "im":"1IIUWMKzNVvI6YJX8BKE6EJ9bVd",
 "bgi":"woos7rldBAKG99HmcbNZNpMjwNk",
-"wo":"https://hub.whistle.lat/fc30dc88bf924d9f0eb8bf90ba9796ba?token=1784387608118",
+"wo":"https://556138dca7367763ed46eecaa4284eca.r2.cloudflarestorage.com/hub2/Love.Insurance.Kompany.2026.720p.AMZN.WEB-DL.DUAL.DDP5.1.H.264-Vegamovies.is.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=26b6cf8a0399b5880643f585c8c3dbe5%2F20260718%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260718T151328Z&X-Amz-Expires=10800&X-Amz-SignedHeaders=host&response-content-disposition=Love.Insurance.Kompany.2026.720p.AMZN.WEB-DL.DUAL.DDP5.1.H.264-Vegamovies.is.mkv&X-Amz-Signature=3d5e9b4af09bbe6e928a0655cc87da2c09b78cf92e167a10c32b810ba5e2a0e8",
 "480p":"https://vcloud.zip/hue3zzrklmiu5zu",
 "720p":"https://vcloud.zip/mzkwgrjrmwmttpp",
 "1080p":"https://vcloud.zip/swhlcuoptkhybty",

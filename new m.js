@@ -2,6 +2,40 @@
 const movies = [ 
 
 
+
+{
+"title":"Dastaar [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"jNynHdFiEmQNUGpcjJtfzsGcGyV",
+"bgi":"krEja8s5WcsuMf0rd5ImHtiKNuL",
+"wo":"https://556138dca7367763ed46eecaa4284eca.r2.cloudflarestorage.com/hub2/Dastaar.2026.720p.HDTC.Punjabi.AAC2.0.x264.HC-ESubs-Vegamovies.is.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=26b6cf8a0399b5880643f585c8c3dbe5%2F20260720%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260720T143209Z&X-Amz-Expires=10800&X-Amz-SignedHeaders=host&response-content-disposition=Dastaar.2026.720p.HDTC.Punjabi.AAC2.0.x264.HC-ESubs-Vegamovies.is.mkv&X-Amz-Signature=a1d746e0a12e4d13441b6c02a1a375e07b24292d2a13f8ccd827499a5449d40c",
+"480p":"https://vcloud.zip/m0njzvn1dimim0o",
+"720p":"https://vcloud.zip/jncsd0jto1g0nnz",
+"1080p":"https://vcloud.zip/ydj6dymvum7iqcr",
+"year":"2026",
+"duration":"2h 30m",
+"rating":"0.0",
+"genre":"History,Action,Drama",
+"description":"A Sikh immigrant rises from newcomer to community leader following a devastating racist attack.",
+"type":"movie",
+"cast":"Oliver Briscombe,Prete Bhutani,Arnold Baksi,Geoff Hogg,Teddy Jay"
+},
+
+{
+"title":"Double Occupancy [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"m0rN6dUnvAAjIwKDLRSIdkrZcBA",
+"bgi":"v4Fkzv4wrlGzF3af60Xwxpb5tJk",
+"wo":"https://556138dca7367763ed46eecaa4284eca.r2.cloudflarestorage.com/hub2/Double%20Occupancy%202026%20Hindi%20%2B%20Tamil%20Dual%20Audio%20South%20Movie%20720p%20ESub-Vegamovies.is.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=26b6cf8a0399b5880643f585c8c3dbe5%2F20260720%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260720T143101Z&X-Amz-Expires=10800&X-Amz-SignedHeaders=host&response-content-disposition=Double%20Occupancy%202026%20Hindi%20%2B%20Tamil%20Dual%20Audio%20South%20Movie%20720p%20ESub-Vegamovies.is.mkv&X-Amz-Signature=2f288de4f0d669c904148a4b7ce85e0251fc4759fcaa6325396cf4bf126ce444",
+"480p":"https://vcloud.zip/ksilngkdm0ddtuk",
+"720p":"https://vcloud.zip/dcc3c9scvsep-g2",
+"1080p":"https://vcloud.zip/we8lbq1inzypii1",
+"year":"2026",
+"duration":"2h 12m",
+"rating":"0.0",
+"genre":"Romance,Drama,Fantasy",
+"description":"Rajini transforms between woman by day and man by night, hiding this gender swap from partners creating tangled complications.",
+"type":"movie",
+"cast":"Santhosh,Reshma Venkatesh,Samyuktha Viola Viswanathan,Vinoth Kishan,VTV Ganesh"
+},
     
 {
 "title":"Munjya [2024] WEB-DL [Hindi-English] | Full Movie",
@@ -41,7 +75,7 @@ const movies = [
 "title":"Love Insurance Kompany [2026] WEB-DL [Hindi-English] | Full Movie",
 "im":"1IIUWMKzNVvI6YJX8BKE6EJ9bVd",
 "bgi":"woos7rldBAKG99HmcbNZNpMjwNk",
-"wo":"https://556138dca7367763ed46eecaa4284eca.r2.cloudflarestorage.com/hub2/Love.Insurance.Kompany.2026.720p.AMZN.WEB-DL.DUAL.DDP5.1.H.264-Vegamovies.is.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=26b6cf8a0399b5880643f585c8c3dbe5%2F20260718%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260718T151328Z&X-Amz-Expires=10800&X-Amz-SignedHeaders=host&response-content-disposition=Love.Insurance.Kompany.2026.720p.AMZN.WEB-DL.DUAL.DDP5.1.H.264-Vegamovies.is.mkv&X-Amz-Signature=3d5e9b4af09bbe6e928a0655cc87da2c09b78cf92e167a10c32b810ba5e2a0e8",
+"wo":"https://556138dca7367763ed46eecaa4284eca.r2.cloudflarestorage.com/hub2/Love.Insurance.Kompany.2026.720p.AMZN.WEB-DL.DUAL.DDP5.1.H.264-Vegamovies.is.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=26b6cf8a0399b5880643f585c8c3dbe5%2F20260720%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260720T143318Z&X-Amz-Expires=10800&X-Amz-SignedHeaders=host&response-content-disposition=Love.Insurance.Kompany.2026.720p.AMZN.WEB-DL.DUAL.DDP5.1.H.264-Vegamovies.is.mkv&X-Amz-Signature=d536ce3b53e7615d77201d1a03639f53ff69adee3b69ae83ca07c3cdc3ddbe53",
 "480p":"https://vcloud.zip/hue3zzrklmiu5zu",
 "720p":"https://vcloud.zip/mzkwgrjrmwmttpp",
 "1080p":"https://vcloud.zip/swhlcuoptkhybty",

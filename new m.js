@@ -1,7 +1,22 @@
 // Movies data 
 const movies = [ 
 
-
+{
+"title":"(500) Days of Summer [2009] WEB-DL [English] | Full Movie",
+"im":"qXAuQ9hF30sQRsXf40OfRVl0MJZ",
+"bgi":"1M2i4Mxd03elGOTmEkIvqrHfmyS",
+"wo":"https://pub-9bd2f279ccfc49ac89b3d87bd8d540f8.r2.dev/05295b7d39bf47f2cbee0092ffb1fc95?token=1784648017118",
+"480p":"https://vcloud.zip/n11v2t4yy2whvgg",
+"720p":"https://vcloud.zip/awnl2ml2s1asuqa",
+"1080p":"https://vcloud.zip/15xdd5xduomppx-",
+"year":"2009",
+"duration":"1h 35m",
+"rating":"7.3",
+"genre":"Comedy,Drama,Romance",
+"description":"Tom, greeting-card writer and hopeless romantic, is caught completely off-guard when his girlfriend, Summer, suddenly dumps him. He reflects on their 500 days together to try to figure out where their love affair went sour, and in doing so, Tom rediscovers his true passions in life.",
+"type":"movie",
+"cast":"Joseph Gordon-Levitt,Zooey Deschanel,Geoffrey Arend,Chloë Grace Moretz,Matthew Gray Gubler"
+},
     
 {
 "title":"David [2025] WEB-DL [Hindi-English] | Full Movie",

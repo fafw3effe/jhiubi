@@ -2,6 +2,91 @@
 const movies = [ 
 
 
+    
+{
+"title":"David [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"bESlrLOrsQ9gKzaGQGHXKOyIUtX",
+"bgi":"mZ6J2g6HCV2gj3iuCdSxcyBXq9c",
+"wo":"https://pub-f4ba9fb2017042968ec12c06f4b42344.r2.dev/a762c7914a3e81e89aff3ae1b5a923ad?token=1784559978151",
+"480p":"https://vcloud.zip/csxoweawgkohplw",
+"720p":"https://vcloud.zip/e1dzq6dre8dym8c",
+"1080p":"https://vcloud.zip/gzjgpsmjwqg0kjv",
+"year":"2025",
+"duration":"1h 49m",
+"rating":"8.0",
+"genre":"Animation,Family,Drama,History,Adventure",
+"description":"From the songs of his mother’s heart to the whispers of a faithful God, David’s story begins in quiet devotion. When the giant Goliath rises to terrorize a nation, a young shepherd armed with only a sling, a few stones, and unshakable faith steps forward. Pursued by power and driven by purpose, his journey tests the limits of loyalty, love, and courage—culminating in a battle not just for a crown, but for the soul of a kingdom.",
+"type":"movie",
+"cast":"Brandon Engman,Brian Stivale,Shahar Taboch,Aaron Tavaler,Hector"
+},
+
+{
+"title":"Minions &amp;amp; Monsters [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"nz7i42yhLIJ4ve9JKgM6NthoLHO",
+"bgi":"kkcwhgSFd81QDlXo8ytrpHPQjhy",
+"wo":"https://pub-9bd2f279ccfc49ac89b3d87bd8d540f8.r2.dev/8842fc49f33e08ba284e8a300a1de0a2?token=1784559767147",
+"480p":"https://vcloud.zip/erxvaxrmyar15x0",
+"720p":"https://vcloud.zip/s7oepy-w1dmnl0u",
+"1080p":"https://vcloud.zip/zh11e7wwj_1itt7",
+"year":"2026",
+"duration":"1h 30m",
+"rating":"6.5",
+"genre":"Adventure,Animation,Comedy,Family,Fantasy",
+"description":"This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+"type":"movie",
+"cast":"Pierre Coffin,Trey Parker,Allison Janney,Christoph Waltz,Jeff Bridges"
+},
+
+{
+"title":"Prati Roju Pandaage [2019] WEB-DL [Hindi-English] | Full Movie",
+"im":"p9EvfAQ62ecQR7OljTorTX6X9R9",
+"bgi":"6p93A2zcJXRpE1rUU1GwCV2FqCA",
+"wo":"https://pub-9bd2f279ccfc49ac89b3d87bd8d540f8.r2.dev/21a5ab1bcc860321969f4a5686fab267?token=1784559388141",
+"480p":"https://vcloud.zip/mxlgobopdlmq6zz",
+"720p":"https://vcloud.zip/sbspkpuagpkk1p1",
+"1080p":"https://vcloud.zip/htdm1tk1ydtafm1",
+"year":"2019",
+"duration":"2h 26m",
+"rating":"6.5",
+"genre":"Family,Romance,Comedy",
+"description":"Raghu Ramayya is a man with limited time to live. His children, who all live elsewhere, struggle to schedule their time around his death. But what happens when his grandson Saitakes it upon himself to give his grandfather the farewell he deserves?",
+"type":"movie",
+"cast":"Sai Durgha Tej,Raashii Khanna,Rao Ramesh,Sathyaraj,Naresh"
+},
+
+{
+"title":"Awarapan [2007] WEB-DL [Hindi-English] | Full Movie",
+"im":"yVArEukDbkfNjxsynes4PWI4nlk",
+"bgi":"hNHvjW48NwXKwncvU8XuTbr210o",
+"wo":"https://pub-f4ba9fb2017042968ec12c06f4b42344.r2.dev/8f7e58614566bbaf8117aaf0e7c968fa?token=1784558640129",
+"480p":"https://vcloud.zip/vhvheyyu8av9xhy",
+"720p":"https://vcloud.zip/0q21arxwcrs9doc",
+"1080p":"https://vcloud.zip/x0199m_xe-xuxpx",
+"year":"2007",
+"duration":"2h 4m",
+"rating":"6.8",
+"genre":"Action,Drama,Crime",
+"description":"A loyal henchman is ordered by his boss to keep an eye on his mistress, and trouble begins when he refuses to kill her.",
+"type":"movie",
+"cast":"Emraan Hashmi,Shriya Saran,Mrinalini Sharma,Salil Acharya,Purab Kohli"
+},
+
+{
+"title":"Ek Din [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"1AZVVsTAH4DoeaJMVsxiRyAEB76",
+"bgi":"oPECip1U8I0pTcSsrsPSdPb5e9p",
+"wo":"https://pub-49f66803e6de43978aceb51d29821c2e.r2.dev/ffd470f7f6cd8c37541da7ddcb3c9d96?token=1784558469126",
+"480p":"https://vcloud.zip/mitb51al4jf67cc",
+"720p":"https://vcloud.zip/kt_0l77yd4jdly0",
+"1080p":"https://vcloud.zip/ku1ppprukklvrkn",
+"year":"2026",
+"duration":"2h 5m",
+"rating":"0.0",
+"genre":"Romance,Drama",
+"description":"Dino is in love with his colleague Meera but lacks the courage to express his feelings. He finally gets his chance during the company trip. He makes a wish to be with Meera for just one day, and his wish comes true.",
+"type":"movie",
+"cast":"Junaid Khan,Sai Pallavi,Kunal Kapoor,Pragati Mishra,Kavin Dave"
+},
 
 {
 "title":"Dastaar [2026] WEB-DL [Hindi-English] | Full Movie",
@@ -949,7 +1034,7 @@ const movies = [
 "im":"hRMpjPcg3P4wsdCl61KNXum1Itf",
 "bgi":"h3E2I2etWs5l7OCsRLU9Bz3cSnK",
 "S2E1":"https://vcloud.zip/7ad9x-10duaex7i","S2E2":"https://vcloud.zip/u177u33siqvdtku","S2E3":"https://vcloud.zip/3apixpu1ybdab1a","S2E4":"https://vcloud.zip/woeseps_esjp1xp","S2E5":"https://vcloud.zip/19g2acsc-2vk1ww",
-"year":"2022","S2E6":"https://vcloud.zip/5cxw0_pd29pmtxv","S2E7":"https://vcloud.zip/k2nedetgimmewz-","S2E8":"https://vcloud.zip/4zjhewzhonbn4uh","S2E9":"https://vcloud.zip/uyevbeflghglkyu","S2E10":"https://vcloud.zip/5ryj5pilgxbxggw","S2E11":"https://vcloud.zip/g0adym0ed5_q5us","S2E12":"https://vcloud.zip/qgnv1v6bfrm4m7q","S2E13":"https://vcloud.zip/wqu1u-bvuzbvu1u","S2E14":"https://vcloud.zip/k333zjv8ep7b7ma","S2E15":"https://vcloud.zip/uyzzh00k0d6xy0x","S2E16":"https://vcloud.zip/ckmkthtf111f_ll","S2E17":"https://vcloud.zip/gfhbnfj1bpfh_nd","S2E18":"https://vcloud.zip/e4qz0vqhp2o0nfr","S2E19":"https://vcloud.zip/_7u6m6v15mnrrkg",
+"year":"2022","S2E6":"https://vcloud.zip/5cxw0_pd29pmtxv","S2E7":"https://vcloud.zip/k2nedetgimmewz-","S2E8":"https://vcloud.zip/4zjhewzhonbn4uh","S2E9":"https://vcloud.zip/uyevbeflghglkyu","S2E10":"https://vcloud.zip/5ryj5pilgxbxggw","S2E11":"https://vcloud.zip/g0adym0ed5_q5us","S2E12":"https://vcloud.zip/qgnv1v6bfrm4m7q","S2E13":"https://vcloud.zip/wqu1u-bvuzbvu1u","S2E14":"https://vcloud.zip/k333zjv8ep7b7ma","S2E15":"https://vcloud.zip/uyzzh00k0d6xy0x","S2E16":"https://vcloud.zip/ckmkthtf111f_ll","S2E17":"https://vcloud.zip/gfhbnfj1bpfh_nd","S2E18":"https://vcloud.zip/e4qz0vqhp2o0nfr","S2E19":"https://vcloud.zip/_7u6m6v15mnrrkg","S2E20":"https://vcloud.zip/t94zxin8yl6yu4x",
 "duration":"1h per episode",
 "rating":"8.3",
 "genre":"Reality",

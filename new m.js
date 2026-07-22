@@ -4,6 +4,88 @@ const movies = [
 
     
 {
+"title":"Masters of the Universe [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"oRuyGUHdoaQxWP3SDfafGkStxTC",
+"bgi":"piV2OnzTZCyGBP9JCjlHIgKGlfo",
+"wo":"https://556138dca7367763ed46eecaa4284eca.r2.cloudflarestorage.com/hub2/Masters.of.the.Universe.2026.720p.10Bit.WEB-DL.HIN-ENG.HEVC.x265.ESub-VegaMovies.Hot.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=26b6cf8a0399b5880643f585c8c3dbe5%2F20260722%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260722T145305Z&X-Amz-Expires=10800&X-Amz-SignedHeaders=host&response-content-disposition=Masters.of.the.Universe.2026.720p.10Bit.WEB-DL.HIN-ENG.HEVC.x265.ESub-VegaMovies.Hot.mkv&X-Amz-Signature=0d0c560549f1104686f9ddb9be2d35b2637fd17f3ec8624d7938df09fba1e269",
+"480p":"https://vcloud.zip/outd3b6tk0wd7bo",
+"720p":"https://vcloud.zip/tcrtulq1qq7q1gc",
+"1080p":"https://vcloud.zip/lzh3wrl161wpr4l",
+"year":"2026",
+"duration":"2h 21m",
+"rating":"6.9",
+"genre":"Action,Fantasy,Science Fiction",
+"description":"After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
+"type":"movie",
+"cast":"Nicholas Galitzine,Camila Mendes,Idris Elba,Jared Leto,Alison Brie"
+},
+
+{
+"title":"Scary Movie [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"znHT8peERZRWG1ME3r0Db0EV8k8",
+"bgi":"xWBiXclrRmTggQHMRsIn84YHavs",
+"wo":"https://pub-49f66803e6de43978aceb51d29821c2e.r2.dev/c8b87abf42024bbe5f6bbb214c6c752f?token=178473381718",
+"480p":"https://vcloud.zip/yukpye153uyyiby",
+"720p":"https://vcloud.zip/8b0wwddc4c4dcpd",
+"1080p":"https://vcloud.zip/68_hnd8ada0ait6",
+"year":"2026",
+"duration":"1h 36m",
+"rating":"6.4",
+"genre":"Comedy",
+"description":"Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.",
+"type":"movie",
+"cast":"Marlon Wayans,Shawn Wayans,Anna Faris,Regina Hall,Olivia Rose Keegan"
+},
+
+{
+"title":"Deliver Us from Evil [2014] WEB-DL [Hindi-English] | Full Movie",
+"im":"Uz32ERsyCmGwV8Eg2wmT2ooWpo",
+"bgi":"JFQJDXEHnZmfJC1sWNbIrz0WS7",
+"wo":"https://pub-49f66803e6de43978aceb51d29821c2e.r2.dev/bf2cb24102a1e64d96bbdcf3a2ee9499?token=178473370216",
+"480p":"https://vcloud.zip/9ihhhl1m2hrlbui",
+"720p":"https://vcloud.zip/yfnmwnfpnp36ukf",
+"1080p":"https://vcloud.zip/yfnmwnfpnp36ukf",
+"year":"2014",
+"duration":"1h 58m",
+"rating":"6.3",
+"genre":"Thriller,Crime,Horror",
+"description":"When a frightening wave of violence sweeps through New York City, troubled cop Sarchie fails to find a rational explanation for the bizarre crimes. However, his eyes are opened to a frightening alternate reality when renegade Jesuit priest Mendoza convinces him that demonic possession may be to blame for the gruesome murders. Together, they wage a valiant supernatural struggle to rid the city of an otherworldly evil.",
+"type":"movie",
+"cast":"Eric Bana,Olivia Munn,Edgar Ramírez,Joel McHale,Sean Harris"
+},
+
+{
+"title":"The Mandalorian and Grogu [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"7GV5rrUJf0BRUhoh2cyFoeNthlQ",
+"bgi":"MJcERawyqGqJdPsOBc0C449hQ9",
+"wo":"https://hub.latent.click/809021bfc286d0fc2e559cf9ca788b9e?token=178473362315",
+"480p":"https://vcloud.zip/ktbtp4hlw2h227x",
+"720p":"https://vcloud.zip/1dgk303ixxsjgy3",
+"1080p":"https://vcloud.zip/evb157qx8tlllo1",
+"year":"2026",
+"duration":"2h 12m",
+"rating":"7.0",
+"genre":"Action,Adventure,Science Fiction",
+"description":"The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
+"type":"movie",
+"cast":"Pedro Pascal,Jeremy Allen White,Sigourney Weaver,Brendan Wayne,Lateef Crowder"
+},
+
+{
+"title":"Elite Force [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"ymjYmuHG4Af93fcoF0NKwx9Rovb",
+"bgi":"yqavGt058YB6o2SOJunH0ZJYn6h",
+"S1E1":"https://vcloud.zip/1ck_8cxwhobmamx","S1E2":"https://vcloud.zip/g3f4gfff1f3z3yf","S1E3":"https://vcloud.zip/tivm57t7zmz5lcc","S1E4":"https://vcloud.zip/dq19hd9jspu5h91","S1E5":"https://vcloud.zip/yleuk8laqltk2rr","S1E6":"https://vcloud.zip/l1xiftqiuiz8bfa",
+"year":"2026",
+"duration":"1h per episode",
+"rating":"5.7",
+"genre":"Action & Adventure,Crime,Drama",
+"description":"Following an unprecedented attack on the GIGN, an officer—just as he is leaving the force—will carry out a mission that rivals the intensity of that attack.",
+"type":"series",
+"cast":"Tomer Sisley,Guillaume Gouix,Philip Schurer,Nicolas Wanczycki,Leanna Chea"
+},
+    
+{
 "title":"(500) Days of Summer [2009] WEB-DL [English] | Full Movie",
 "im":"qXAuQ9hF30sQRsXf40OfRVl0MJZ",
 "bgi":"1M2i4Mxd03elGOTmEkIvqrHfmyS",

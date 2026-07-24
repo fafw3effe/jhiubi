@@ -1,7 +1,88 @@
 // Movies data 
 const movies = [ 
 
+{
+"title":"Naari Naari Naduma Murari [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"jFBu7tS0mlEZwYTkjJcKH48bV4m",
+"bgi":"8o1b4G5Uv5EFQ64Sicz1ae7WLsT",
+"wo":"https://pub-f4ba9fb2017042968ec12c06f4b42344.r2.dev/101a6aadac4f230ca9d1063494c0bcbb?token=1784869002141",
+"480p":"https://vcloud.zip/d2w2ksc2fwnfzvn",
+"720p":"https://vcloud.zip/b0g3ugsordda0l6",
+"1080p":"https://vcloud.zip/1hp9paaztbxdru1",
+"year":"2026",
+"duration":"2h 23m",
+"rating":"6.4",
+"genre":"Romance,Drama,Comedy",
+"description":"A young man's life turns upside down when he finds himself caught between two women, leading to an unexpected love triangle filled with emotions, misunderstandings, and tough decisions. As relationships intertwine, he must confront his feelings, face reality, and choose what truly matters, blending romance with heartfelt family drama.",
+"type":"movie",
+"cast":"Sharwanand,Sakshi Vaidya,Samyuktha,Naresh,Sampath Raj"
+},
 
+{
+"title":"Hanu-Man [2024] WEB-DL [Hindi-English] | Full Movie",
+"im":"m1zq48rWSXxplzoJR8YtbXWnnHM",
+"bgi":"evUpfs4dw7AuZ5k8dkePVMFSg0T",
+"wo":"https://hub.latent.click/1b205a3c98c15337501962876c952954?token=1784868585134",
+"480p":"https://vcloud.zip/qgwcfqbwpgb6yea",
+"720p":"https://vcloud.zip/drrc72cjjcjajnb",
+"1080p":"https://vcloud.zip/h1hlixp_hi3hfem",
+"year":"2024",
+"duration":"2h 39m",
+"rating":"6.3",
+"genre":"Fantasy,Action,Comedy,Science Fiction",
+"description":"In a small village, Hanumanthu, a petty thief, finds a mysterious gem, that gives him god-like powers. Will he succeed in keeping these powers from falling into the wrong hands and save his village?",
+"type":"movie",
+"cast":"Teja Sajja,Vinay Rai,Amritha Aiyer,Varalaxmi Sarathkumar,Vennela Kishore"
+},
+
+{
+"title":"Bhool Chuk Maaf [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"plWzFq6eVXOm8vpgJG0xUGmifHS",
+"bgi":"c3c9qcUWA9u99RDipH3JL54FT6J",
+"wo":"https://pub-a8f4a4bb2761411fb9878c6e3897688c.r2.dev/48446d4accb45c3be1a2ed965188cac3?token=1784868471132",
+"480p":"https://vcloud.zip/-lccgwcj58vgfc-",
+"720p":"https://vcloud.zip/1d1lanu1nd9oqni",
+"1080p":"https://vcloud.zip/of1tmxtdghrmesf",
+"year":"2025",
+"duration":"2h 1m",
+"rating":"6.0",
+"genre":"Comedy,Romance",
+"description":"Ranjan, a small-town romantic boy from Banaras, lands a government job to marry Titli, but forgets to vow to Lord Shiva, causing him to be trapped in a time loop. A tale of love, fate, and redemption unfolds, as Ranjan tries to end the loop and get married.",
+"type":"movie",
+"cast":"Rajkummar Rao,Wamiqa Gabbi,Raghubir Yadav,Seema Pahwa,Zakir Hussain"
+},
+
+
+{
+"title":"Tumbbad [2018] WEB-DL [Hindi-English] | Full Movie",
+"im":"vzjZAKozbDplHWcQXbXo0APKxst",
+"bgi":"l0YKBu3LaehIFzBNjseLjx7MbaN",
+"wo":"https://hub.latent.click/84379dc578090df3e9f1fe14f83879a5?token=1784868392131",
+"480p":"https://hub.latent.click/84379dc578090df3e9f1fe14f83879a5?token=1784868392131",
+"720p":"https://vcloud.zip/sayzusjzfyiu4sa",
+"1080p":"https://vcloud.zip/mxmx0ucumoxx88p",
+"year":"2018",
+"duration":"1h 53m",
+"rating":"7.6",
+"genre":"Fantasy,Horror",
+"description":"India, 1918. On the outskirts of Tumbbad, a cursed village where it always rains, Vinayak, along with his mother and his brother, care of a mysterious old woman who keeps the secret of an ancestral treasure that Vinayak gets obsessed with.",
+"type":"movie",
+"cast":"Sohum Shah,Mohammad Samad,Harsh K.,Jyoti Malshe,Dhundiraj Prabhakar Jogalekar"
+},
+
+{
+"title":"Taaza Khabar [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"zRrF8oj20lhd2jU0Yj9dg4sP5z5",
+"bgi":"oSc0KNJrDAgb4Xj3u7CrzG8zgXM",
+"S2E1":"https://vcloud.zip/_e-oy_1vx_g4puk","S2E2":"https://vcloud.zip/nlxi2l323dn1zmf","S2E3":"https://vcloud.zip/reorsoihuurohhx","S2E4":"https://vcloud.zip/k5hjjxx1orlfw1t","S2E5":"https://vcloud.zip/d1-71ebevuv2v1-","S2E6":"https://vcloud.zip/f0gyh0xi61a2-n_",
+"year":"2023",
+"duration":"1h per episode",
+"rating":"6.7",
+"genre":"Drama,Sci-Fi & Fantasy",
+"description":"A public toilet caretaker's poverty-stricken life takes a drastic U-turn when he helps an old woman. How long will fate smile upon him?",
+"type":"series",
+"cast":"Bhuvan Bam,Shriya Pilgaonkar,Deven Bhojani,Prathmesh Parab,Shilpa Shukla"
+},
 
 {
 "title":"Adarsh Baal Vidyalaya [Season 1] WEB-DL [Hindi-English] | All Episodes",

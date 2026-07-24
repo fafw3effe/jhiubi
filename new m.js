@@ -1146,7 +1146,7 @@ const movies = [
 "title":"Alpha [2026] WEB-DL [Hindi-English] | Full Movie",
 "im":"bPtRt3ajQ0EkyeQ1O6iJwAIi9Py",
 "bgi":"b4WXm5ahmtubYXy3wqHUG2nUKoM",
-"wo":"https://pub-f4ba9fb2017042968ec12c06f4b42344.r2.dev/b8bdd907959edf55f4f4d44d095c17b1?token=1783434182117",
+"wo":"https://pub-f4ba9fb2017042968ec12c06f4b42344.r2.dev/b8bdd907959edf55f4f4d44d095c17b1?token=1784866189154",
 "480p":"https://vcloud.zip/d1tnmnwsqnyns_q",
 "720p":"https://vcloud.zip/81k8pbd1lmh70k1",
 "1080p":"https://vcloud.zip/bqrauer6hqdxdxr",

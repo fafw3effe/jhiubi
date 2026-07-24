@@ -4,6 +4,37 @@ const movies = [
 
 
 {
+"title":"Adarsh Baal Vidyalaya [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"1XbcSqURUvhgu2nnoQRZ7cXmTsJ",
+"bgi":"ollKqYShmjhBOKsV60pmPP9ara3",
+"S1E1":"https://vcloud.zip/isciy8picecqus9","S1E2":"https://vcloud.zip/6eb-uquq-b-a-1a","S1E3":"https://vcloud.zip/sf3h3sx6ezhwee-","S1E4":"https://vcloud.zip/eootwno901x3y0i","S1E5":"https://vcloud.zip/5batv-67-nvsvbh","S1E6":"https://vcloud.zip/jcrmblkshzlvayt","S1E7":"https://vcloud.zip/lkxuzxrg6bluu2l",
+"year":"2026",
+"duration":"1h per episode",
+"rating":"0.0",
+"genre":"Drama,Comedy",
+"description":"A relaxed principal tries to reform a failing public school, triggering a messy transformation as misfit teachers work to repair the system one lesson at a time.",
+"type":"series",
+"cast":"Archana Puran Singh,Naveen Kasturia,Abhimanyu Singh,Deven Bhojani,Aryan Prajapati"
+},
+
+{
+"title":"Con City [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"pJ4UwvLpek1jK8d540Ho8xI08iL",
+"bgi":"jzDjIHDknKz9jhTvBF9aSeoax1V",
+"wo":"https://pub-a8f4a4bb2761411fb9878c6e3897688c.r2.dev/532f90b6727d3f1e6ed70cd3f8a4af35?token=178486682415",
+"480p":"https://vcloud.zip/db-xnmttxd2tm2l",
+"720p":"https://vcloud.zip/he4lvhfpjgzi1yf",
+"1080p":"https://vcloud.zip/2fjqlftbbxlwqli",
+"year":"2026",
+"duration":"2h 30m",
+"rating":"7.0",
+"genre":"Comedy,Crime,Drama,Fantasy",
+"description":"Follows a struggling family whose lives change when a receipt printer starts generating money after a lightning strike, leading to public chaos when society discovers the money-making machine.",
+"type":"movie",
+"cast":"Arjun Das,Anna Ben,Yogi Babu,Vadivukarasi,Thambi Ramaiah"
+},
+
+{
 "title":"Subedaar [2026] WEB-DL [Hindi-English] | Full Movie",
 "im":"gKn63ZWEVK66OaC1svlI7g6r9ah",
 "bgi":"eZJ3z1aAcHzoYmPSxuJjaYRMgi3",

@@ -1,6 +1,42 @@
 // Movies data 
 const movies = [ 
 
+
+
+{
+"title":"The India Story [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"xxWm1jf8CdRi9sUB3a19en8YHfF",
+"bgi":"4TtfVgg7GHiYFtlIiEjZ3JHTz4S",
+"wo":"https://pub-a8f4a4bb2761411fb9878c6e3897688c.r2.dev/46f9d0ce6f97388b591513295f051406?token=1784977653113",
+"480p":"https://vcloud.zip/w1aoaofeeeok3eh",
+"720p":"https://vcloud.zip/kndn6pa6l63qnpl",
+"1080p":"https://vcloud.zip/14lzsmcxvby5h_z",
+"year":"2026",
+"duration":"2h 10m",
+"rating":"0.0",
+"genre":"Drama,Thriller",
+"description":"A community confronts the devastating impact of pesticide contamination as industrial negligence threatens public health. The fight for accountability exposes systemic failures in regulatory oversight and corporate responsibility.",
+"type":"movie",
+"cast":"Kajal Aggarwal,Shreyas Talpade,Murali Sharma,Manish Wadhwa,Sham Mashalkar"
+},
+
+{
+"title":"72 HOURS [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"9Bu1PW2R1XayqRqnl0aDOgMcrdS",
+"bgi":"hL5EIk48251OXlbIbRJq3yaBHk8",
+"wo":"https://pub-a8f4a4bb2761411fb9878c6e3897688c.r2.dev/4f939e7418450a00c29e00dead1a7550?token=1784973641111",
+"480p":"https://vcloud.zip/bvnmmc1mvpgsece",
+"720p":"https://vcloud.zip/zkkkkjkkoq1raki",
+"1080p":"https://vcloud.zip/yxnuzhebmeh9nx1",
+"year":"2026",
+"duration":"1h 42m",
+"rating":"5.2",
+"genre":"Comedy",
+"description":"To save his career, a 40-year-old ad exec joins a crew of twentysomethings for a wild Miami bachelor party after they mistakenly add him to a group chat.",
+"type":"movie",
+"cast":"Kevin Hart,Marcello Hernández,Mason Gooding,Kam Patterson,Ben Marshall"
+},
+
 {
 "title":"Agent Kim Reactivated [Season 1] WEB-DL [Hindi-English] | All Episodes",
 "im":"jruaZAm1KjkFRhgRcdF8tqakhpH",
@@ -1358,7 +1394,7 @@ const movies = [
 "im":"hRMpjPcg3P4wsdCl61KNXum1Itf",
 "bgi":"h3E2I2etWs5l7OCsRLU9Bz3cSnK",
 "S2E1":"https://vcloud.zip/7ad9x-10duaex7i","S2E2":"https://vcloud.zip/u177u33siqvdtku","S2E3":"https://vcloud.zip/3apixpu1ybdab1a","S2E4":"https://vcloud.zip/woeseps_esjp1xp","S2E5":"https://vcloud.zip/19g2acsc-2vk1ww",
-"year":"2022","S2E6":"https://vcloud.zip/5cxw0_pd29pmtxv","S2E7":"https://vcloud.zip/k2nedetgimmewz-","S2E8":"https://vcloud.zip/4zjhewzhonbn4uh","S2E9":"https://vcloud.zip/uyevbeflghglkyu","S2E10":"https://vcloud.zip/5ryj5pilgxbxggw","S2E11":"https://vcloud.zip/g0adym0ed5_q5us","S2E12":"https://vcloud.zip/qgnv1v6bfrm4m7q","S2E13":"https://vcloud.zip/wqu1u-bvuzbvu1u","S2E14":"https://vcloud.zip/k333zjv8ep7b7ma","S2E15":"https://vcloud.zip/uyzzh00k0d6xy0x","S2E16":"https://vcloud.zip/ckmkthtf111f_ll","S2E17":"https://vcloud.zip/gfhbnfj1bpfh_nd","S2E18":"https://vcloud.zip/e4qz0vqhp2o0nfr","S2E19":"https://vcloud.zip/_7u6m6v15mnrrkg","S2E20":"https://vcloud.zip/t94zxin8yl6yu4x","S2E21":"https://vcloud.zip/vbzwnvmt7cwqczy","S2E22":"https://vcloud.zip/qiqgnqtfcfrt8vv",
+"year":"2022","S2E6":"https://vcloud.zip/5cxw0_pd29pmtxv","S2E7":"https://vcloud.zip/k2nedetgimmewz-","S2E8":"https://vcloud.zip/4zjhewzhonbn4uh","S2E9":"https://vcloud.zip/uyevbeflghglkyu","S2E10":"https://vcloud.zip/5ryj5pilgxbxggw","S2E11":"https://vcloud.zip/g0adym0ed5_q5us","S2E12":"https://vcloud.zip/qgnv1v6bfrm4m7q","S2E13":"https://vcloud.zip/wqu1u-bvuzbvu1u","S2E14":"https://vcloud.zip/k333zjv8ep7b7ma","S2E15":"https://vcloud.zip/uyzzh00k0d6xy0x","S2E16":"https://vcloud.zip/ckmkthtf111f_ll","S2E17":"https://vcloud.zip/gfhbnfj1bpfh_nd","S2E18":"https://vcloud.zip/e4qz0vqhp2o0nfr","S2E19":"https://vcloud.zip/_7u6m6v15mnrrkg","S2E20":"https://vcloud.zip/t94zxin8yl6yu4x","S2E21":"https://vcloud.zip/vbzwnvmt7cwqczy","S2E22":"https://vcloud.zip/qiqgnqtfcfrt8vv","S2E23":"https://vcloud.zip/okkavdojikilili",
 "duration":"1h per episode",
 "rating":"8.3",
 "genre":"Reality",

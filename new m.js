@@ -1,7 +1,19 @@
 // Movies data 
 const movies = [ 
 
-
+{
+"title":"Musafir Cafe [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"1SbKjtoRKIpVQG5iYnumnfQIqhd",
+"bgi":"mQFlpu6IH7dRIjLYZbflzn4H6uV",
+"S1E1":"https://vcloud.zip/gtofufdufjvjzlw","S1E2":"https://vcloud.zip/wasntawouom3tax","S1E3":"https://vcloud.zip/uwak91f0_9cw2_j","S1E4":"https://vcloud.zip/tfsduk2w_k2iun8","S1E5":"https://vcloud.zip/hmzzwz5mvoaohbv","S1E6":"https://vcloud.zip/p2vidhjvxd1i11v","S1E7":"https://vcloud.zip/vmmecce_vk2vhcd","S1E8":"https://vcloud.zip/sp9nedsdnn_x9v_",
+"year":"2026",
+"duration":"1h per episode",
+"rating":"0.0",
+"genre":"Drama",
+"description":"Chander feels an undeniable connection with Sudha. Years later, he builds a new life in the hills with Preeti, but memories of the past linger.",
+"type":"series",
+"cast":"Vikrant Massey,Vedika Pinto,Mahima Makwana,Adil Hussain,Rajeev Siddhartha"
+},
 
 {
 "title":"See You at Work Tomorrow! [Season 1] WEB-DL [Hindi-English] | All Episodes",

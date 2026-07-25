@@ -1,7 +1,19 @@
 // Movies data 
 const movies = [ 
 
-
+{
+"title":"See You at Work Tomorrow! [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"gTP1MKGz5kIrXCpb3HTgzVyIW6l",
+"bgi":"zftF4KDGuhAGIA50bywcCXPjz5f",
+"S1E1":"https://vcloud.zip/1z2c1cubeqgtexy","S1E2":"https://vcloud.zip/1hkhkytv65tvy51","S1E3":"https://vcloud.zip/hu1amkd3_dddopz","S1E4":"https://vcloud.zip/jr9gamaq970yndv","S1E5":"https://vcloud.zip/gdf31mmze2111z2","S1E6":"https://vcloud.zip/4aks8aca1skdn3s","S1E7":"https://vcloud.zip/zlsqq1xxvn6thhv","S1E8":"https://vcloud.zip/939qfrpbpsde9pa","S1E9":"https://vcloud.zip/dtav7qx7277aajo","S1E10":"https://vcloud.zip/h2cskvkculczoxz",
+"year":"2026",
+"duration":"1h per episode",
+"rating":"9.2",
+"genre":"Comedy,Drama",
+"description":"Cha Ji-yoon is a 7th-year corporate worker who's tired of both work and dating. She crosses paths with Kang Si-woo, the cynical boss with a terrifying reputation. Unexpectedly, she regains spark in her life as she gets to know the kindness behind his stern words. Amid repeated commutes, accidents at work, and failed relationships, the two become each other's irreplaceable anchor.",
+"type":"series",
+"cast":"Seo In-guk,Park Ji-hyun,Kang Mi-na,Won Gyu-bin,Choi Kyung-hoon"
+},
 
 {
 "title":"The India Story [2026] WEB-DL [Hindi-English] | Full Movie",

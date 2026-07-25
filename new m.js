@@ -2,6 +2,20 @@
 const movies = [ 
 
 {
+"title":"Agent Kim Reactivated [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"jruaZAm1KjkFRhgRcdF8tqakhpH",
+"bgi":"g1LJLlmWP74zv9yXKEXm7g9p10O",
+"S1E1":"https://vcloud.zip/s-b3gr-xkzky3h3","S1E2":"https://vcloud.zip/i-wscw5rfrt-zi5","S1E3":"https://vcloud.zip/mtwhootw4t2dww-","S1E4":"https://vcloud.zip/llrri1q7ebb1rne","S1E5":"https://vcloud.zip/ulzpetrc1qccleq","S1E6":"https://vcloud.zip/i1ujdqnsk910etx","S1E7":"https://vcloud.zip/na4qvnvo-z6qlvw","S1E8":"https://vcloud.zip/ek6xxbscusmcb66","S1E9":"https://vcloud.zip/brpfk-rj3oapgsv",
+"year":"2026",
+"duration":"1h per episode",
+"rating":"7.3",
+"genre":"Action & Adventure,Crime,Drama",
+"description":"When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attract the wrong kind of attention.",
+"type":"series",
+"cast":"So Ji-sub,Choi Dae-hoon,Yoon Kyung-ho,Ju Sang-uk,Son Na-eun"
+},
+
+{
 "title":"Naari Naari Naduma Murari [2026] WEB-DL [Hindi-English] | Full Movie",
 "im":"jFBu7tS0mlEZwYTkjJcKH48bV4m",
 "bgi":"8o1b4G5Uv5EFQ64Sicz1ae7WLsT",

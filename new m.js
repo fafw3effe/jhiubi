@@ -1,6 +1,75 @@
 // Movies data 
 const movies = [ 
 
+
+{
+"title":"Maaman [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"a0BsRj9qQu8L2arBAHcbbfrVrB7",
+"bgi":"aSN6JVqci5QdzuUU5M8IJQ2RKG7",
+"wo":"https://pub-a8f4a4bb2761411fb9878c6e3897688c.r2.dev/73a9b44e459e32a65b7a85941b7e5f22?token=1785163417128",
+"480p":"https://vcloud.zip/_rdtdsinhdatjnv",
+"720p":"https://vcloud.zip/6kmf219dnrgtj0g",
+"1080p":"https://vcloud.zip/_o5_kwaefqosuyr",
+"year":"2025",
+"duration":"2h 31m",
+"rating":"6.4",
+"genre":"Family,Drama,Action",
+"description":"An uncle's deep connection with his nephew is broken, when their family experiences personal differences.",
+"type":"movie",
+"cast":"Soori,Aishwarya Lekshmi,Swasika,Rajkiran,Balasaravanan"
+},
+
+{
+"title":"Hostel Hudugaru Bekagiddare [2023] WEB-DL [Hindi-English] | Full Movie",
+"im":"qUOYHFerIeMGrQWREX3UDrr3AaC",
+"bgi":"wQ7o2eJUvIeChQMGWlET4b9226t",
+"wo":"https://hub.latent.click/a5e2261d79c197d68b5620949089430b?token=1785162828118",
+"480p":"https://vcloud.zip/ymankz6uey4unnx",
+"720p":"https://vcloud.zip/j__5raw11kkkau-",
+"1080p":"https://vcloud.zip/kumf1-05c6_ctqs",
+"year":"2023",
+"duration":"2h 16m",
+"rating":"7.0",
+"genre":"Comedy",
+"description":"When the warden of their hostel takes his own life, a group of students conspire to make it look like an accident for fear that they will be blamed.",
+"type":"movie",
+"cast":"Prajwal B. P.,Manjunath Nayaka,Rakesh Rajkumar,Srivatsa Shyam,Tejas Jayanna Urs"
+},
+
+{
+"title":"Supergirl [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"niSvU02l2BONH9ivubV6K1a5QiK",
+"bgi":"cbyslfazMuDUGt4W6QcO3cKq8xj",
+"wo":"https://pub-bbff6e6d34c749a5b3fa81b43c281418.r2.dev/e577a966cfec5ba66a0d690f7a085778?token=1785161842110",
+"480p":"https://vcloud.zip/_mmvzua1uuba7nk",
+"720p":"https://vcloud.zip/61p-0f0sxxxkuag",
+"1080p":"https://vcloud.zip/nmjkfnsz8k1hrn7",
+"year":"2026",
+"duration":"1h 48m",
+"rating":"6.3",
+"genre":"Action,Adventure,Science Fiction",
+"description":"When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+"type":"movie",
+"cast":"Milly Alcock,Eve Ridley,Matthias Schoenaerts,Jason Momoa,David Krumholtz"
+},
+
+{
+"title":"Tera Yaar Hoon Main [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"cFLVe7dfz7m3AT3egd97As3oC0Y",
+"bgi":"m6cGymKD48Dhwf5i2Mcn3OPD1s7",
+"wo":"https://pub-a8f4a4bb2761411fb9878c6e3897688c.r2.dev/3c09ecfe80ee90bf52afc134d881957c?token=1785162412111",
+"480p":"https://vcloud.zip/jopq0s1q4rqc7_w",
+"720p":"https://vcloud.zip/btjpkjkt_yvt_6a",
+"1080p":"https://vcloud.zip/udqyqjtuctiol1u",
+"year":"2026",
+"duration":"2h 24m",
+"rating":"0.0",
+"genre":"Action,Comedy,Drama,Romance",
+"description":"Sanju moves from Nagpur to Mumbai for work and stays with his late mother's friend Viswanath. He falls for Viswanath's daughter Anu, but her marriage is arranged with another man, leaving Viswanath caught between friendship and fatherhood.",
+"type":"movie",
+"cast":"Aman Kumar,Aakansha Sharma,Paresh Rawal,Neha Khan,Johny Lever"
+},
+
 {
 "title":"Musafir Cafe [Season 1] WEB-DL [Hindi-English] | All Episodes",
 "im":"1SbKjtoRKIpVQG5iYnumnfQIqhd",
@@ -461,7 +530,7 @@ const movies = [
 "title":"Ek Din [2026] WEB-DL [Hindi-English] | Full Movie",
 "im":"1AZVVsTAH4DoeaJMVsxiRyAEB76",
 "bgi":"oPECip1U8I0pTcSsrsPSdPb5e9p",
-"wo":"https://pub-49f66803e6de43978aceb51d29821c2e.r2.dev/ffd470f7f6cd8c37541da7ddcb3c9d96?token=1784558469126",
+"wo":"https://pub-49f66803e6de43978aceb51d29821c2e.r2.dev/ffd470f7f6cd8c37541da7ddcb3c9d96?token=1785163525130",
 "480p":"https://vcloud.zip/mitb51al4jf67cc",
 "720p":"https://vcloud.zip/kt_0l77yd4jdly0",
 "1080p":"https://vcloud.zip/ku1ppprukklvrkn",
@@ -1974,7 +2043,7 @@ const movies = [
 "title":"Main Vaapas Aaunga [2026] WEB-DL [Hindi] | Full Movie",
 "im":"8n7OeeyAqwmGS81Is2c6Ho65tgW",
 "bgi":"bWw9PuPH6vFXlezBoHZ6D9XBhQW",
-"wo":"https://hub.whistle.lat/031ec40bb5dfca4f0255c745f16e76b2?token=1782144595154",
+"wo":"https://pub-49f66803e6de43978aceb51d29821c2e.r2.dev/031ec40bb5dfca4f0255c745f16e76b2?token=178516183012",
 "480p":"https://vcloud.zip/qab1cjtjyc1yyyk",
 "720p":"https://vcloud.zip/114ccfmq2niln0l",
 "1080p":"https://vcloud.zip/oiqgngxthybsanl",

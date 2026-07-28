@@ -105,7 +105,7 @@ const movies = [
 "title":"Naan Sirithal [2020] WEB-DL [Hindi-English] | Full Movie",
 "im":"zLV0a7Mod9kyzvRluRi5dWP2An5",
 "bgi":"dGzp2A24k3FZYysIsa7lHEDl26R",
-"wo":"https://pixeldrain.dev/u/pbrM8CzW",
+"wo":"https://vcloud.zip/solqclokc7qf7ds?token=SWIvbjFTWE55S1pPRG1zT3h0LzZPZDI5UDd5QmMzRnFTQzlPY3ArQWRUQT0=",
 "480p":"https://vcloud.zip/9bhuheb1euex9h1",
 "720p":"https://vcloud.zip/solqclokc7qf7ds",
 "1080p":"https://vcloud.zip/eqgaz4bfawetao_",

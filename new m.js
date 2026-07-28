@@ -3,6 +3,88 @@ const movies = [
 
 
 {
+"title":"Jana Nayagan [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"jt8pfSIdi47YpFMMWVRr8w5u2S0",
+"bgi":"v3lNH2gCojWYXVuXcT9FZLBxcSq",
+"wo":"https://pub-bbff6e6d34c749a5b3fa81b43c281418.r2.dev/33d77201dcf22f74f8500445af553dd2?token=178524687719",
+"480p":"https://vcloud.zip/3uml1jcro-12upd",
+"720p":"https://vcloud.zip/kiw0adsxx3bxwq6",
+"1080p":"https://vcloud.zip/n4p545rrnvb16nn",
+"year":"2026",
+"duration":"3h 3m",
+"rating":"6.0",
+"genre":"Action,Drama",
+"description":"A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
+"type":"movie",
+"cast":"Vijay,Pooja Hegde,Bobby Deol,Mamitha Baiju,Priyamani"
+},
+
+{
+"title":"The Odyssey [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"5rhTDKUhPYvpdQIijFIs5VoWsON",
+"bgi":"r57L2UBLPKcHdZQYg8tagv9XqK2",
+"wo":"https://pub-49f66803e6de43978aceb51d29821c2e.r2.dev/88a530879e6b3bbd5456ab3ef96c090a?token=178437911514",
+"480p":"https://vcloud.zip/lmgmilaakiplafr",
+"720p":"https://vcloud.zip/vifdugspqgdr5dq",
+"1080p":"https://vcloud.zip/-rcbcttubvbwudt",
+"year":"2026",
+"duration":"2h 53m",
+"rating":"7.6",
+"genre":"Adventure,Action,Fantasy",
+"description":"Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+"type":"movie",
+"cast":"Matt Damon,Tom Holland,Anne Hathaway,Robert Pattinson,Lupita Nyong&#39;o"
+},
+
+{
+"title":"Supergirl [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"niSvU02l2BONH9ivubV6K1a5QiK",
+"bgi":"cbyslfazMuDUGt4W6QcO3cKq8xj",
+"wo":"https://pub-bbff6e6d34c749a5b3fa81b43c281418.r2.dev/e577a966cfec5ba66a0d690f7a085778?token=1785161842110",
+"480p":"https://vcloud.zip/_mmvzua1uuba7nk",
+"720p":"https://vcloud.zip/61p-0f0sxxxkuag",
+"1080p":"https://vcloud.zip/nmjkfnsz8k1hrn7",
+"year":"2026",
+"duration":"1h 48m",
+"rating":"6.3",
+"genre":"Action,Adventure,Science Fiction",
+"description":"When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+"type":"movie",
+"cast":"Milly Alcock,Eve Ridley,Matthias Schoenaerts,Jason Momoa,David Krumholtz"
+},
+
+{
+"title":"Agent Kim Reactivated [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"jruaZAm1KjkFRhgRcdF8tqakhpH",
+"bgi":"g1LJLlmWP74zv9yXKEXm7g9p10O",
+"S1E1":"https://vcloud.zip/s-b3gr-xkzky3h3","S1E2":"https://vcloud.zip/i-wscw5rfrt-zi5","S1E3":"https://vcloud.zip/mtwhootw4t2dww-","S1E4":"https://vcloud.zip/llrri1q7ebb1rne","S1E5":"https://vcloud.zip/ulzpetrc1qccleq","S1E6":"https://vcloud.zip/i1ujdqnsk910etx","S1E7":"https://vcloud.zip/na4qvnvo-z6qlvw","S1E8":"https://vcloud.zip/ek6xxbscusmcb66","S1E9":"https://vcloud.zip/brpfk-rj3oapgsv",
+"year":"2026",
+"duration":"1h per episode",
+"rating":"7.3",
+"genre":"Action & Adventure,Crime,Drama",
+"description":"When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attract the wrong kind of attention.",
+"type":"series",
+"cast":"So Ji-sub,Choi Dae-hoon,Yoon Kyung-ho,Ju Sang-uk,Son Na-eun"
+},
+
+{
+"title":"Ghost Train [2025] WEB-DL [Hindi-English] | Full Movie",
+"im":"rOTXYy5ScOHdaC2YMQowVwQex5s",
+"bgi":"3oHIkNt8dM6gH4IDKG5W121OT2T",
+"wo":"https://pub-bbff6e6d34c749a5b3fa81b43c281418.r2.dev/1db3a2ab687f9b05fab9c7f5b3d0fad9?token=1785243280111",
+"480p":"https://vcloud.zip/gjhjbohqr9mourj",
+"720p":"https://vcloud.zip/7q8i896y8pq67qa",
+"1080p":"https://vcloud.zip/zam1m_55am53co1",
+"year":"2025",
+"duration":"1h 35m",
+"rating":"7.4",
+"genre":"Horror,Mystery",
+"description":"Da-kyung, a horror YouTuber desperate for views, uploads a video about the eerie urban legends surrounding Gwanglim Station—the site of the highest number of missing person cases in the country. The video goes viral overnight. Despite everyone's warnings, Da-kyung's thirst for views only grows stronger. But as she digs deeper, she uncovers a shocking secret behind the station…",
+"type":"movie",
+"cast":"Joo Hyun-young,Jeon Bae-soo,Choi Bo-min,Kim Ji-in,Kim Woo-kyum"
+},
+
+{
 "title":"Maaman [2025] WEB-DL [Hindi-English] | Full Movie",
 "im":"a0BsRj9qQu8L2arBAHcbbfrVrB7",
 "bgi":"aSN6JVqci5QdzuUU5M8IJQ2RKG7",
@@ -36,22 +118,6 @@ const movies = [
 "cast":"Prajwal B. P.,Manjunath Nayaka,Rakesh Rajkumar,Srivatsa Shyam,Tejas Jayanna Urs"
 },
 
-{
-"title":"Supergirl [2026] WEB-DL [Hindi-English] | Full Movie",
-"im":"niSvU02l2BONH9ivubV6K1a5QiK",
-"bgi":"cbyslfazMuDUGt4W6QcO3cKq8xj",
-"wo":"https://pub-bbff6e6d34c749a5b3fa81b43c281418.r2.dev/e577a966cfec5ba66a0d690f7a085778?token=1785161842110",
-"480p":"https://vcloud.zip/_mmvzua1uuba7nk",
-"720p":"https://vcloud.zip/61p-0f0sxxxkuag",
-"1080p":"https://vcloud.zip/nmjkfnsz8k1hrn7",
-"year":"2026",
-"duration":"1h 48m",
-"rating":"6.3",
-"genre":"Action,Adventure,Science Fiction",
-"description":"When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-"type":"movie",
-"cast":"Milly Alcock,Eve Ridley,Matthias Schoenaerts,Jason Momoa,David Krumholtz"
-},
 
 {
 "title":"Tera Yaar Hoon Main [2026] WEB-DL [Hindi-English] | Full Movie",
@@ -132,19 +198,6 @@ const movies = [
 "cast":"Kevin Hart,Marcello Hernández,Mason Gooding,Kam Patterson,Ben Marshall"
 },
 
-{
-"title":"Agent Kim Reactivated [Season 1] WEB-DL [Hindi-English] | All Episodes",
-"im":"jruaZAm1KjkFRhgRcdF8tqakhpH",
-"bgi":"g1LJLlmWP74zv9yXKEXm7g9p10O",
-"S1E1":"https://vcloud.zip/s-b3gr-xkzky3h3","S1E2":"https://vcloud.zip/i-wscw5rfrt-zi5","S1E3":"https://vcloud.zip/mtwhootw4t2dww-","S1E4":"https://vcloud.zip/llrri1q7ebb1rne","S1E5":"https://vcloud.zip/ulzpetrc1qccleq","S1E6":"https://vcloud.zip/i1ujdqnsk910etx","S1E7":"https://vcloud.zip/na4qvnvo-z6qlvw","S1E8":"https://vcloud.zip/ek6xxbscusmcb66","S1E9":"https://vcloud.zip/brpfk-rj3oapgsv",
-"year":"2026",
-"duration":"1h per episode",
-"rating":"7.3",
-"genre":"Action & Adventure,Crime,Drama",
-"description":"When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attract the wrong kind of attention.",
-"type":"series",
-"cast":"So Ji-sub,Choi Dae-hoon,Yoon Kyung-ho,Ju Sang-uk,Son Na-eun"
-},
 
 {
 "title":"Naari Naari Naduma Murari [2026] WEB-DL [Hindi-English] | Full Movie",
@@ -654,24 +707,6 @@ const movies = [
 "description":"A man who walks the spirit world and a court lady who hears the dead enter the East Palace by the king's orders — can they unravel its dark secrets?",
 "type":"series",
 "cast":"Nam Joo-hyuk,Roh Yoon-seo,Cho Seung-woo,Park Soo-yeon,Jang Young-nam"
-},
-
-    
-{
-"title":"The Odyssey [2026] WEB-DL [Hindi-English] | Full Movie",
-"im":"5rhTDKUhPYvpdQIijFIs5VoWsON",
-"bgi":"r57L2UBLPKcHdZQYg8tagv9XqK2",
-"wo":"https://pub-49f66803e6de43978aceb51d29821c2e.r2.dev/88a530879e6b3bbd5456ab3ef96c090a?token=178437911514",
-"480p":"https://vcloud.zip/lmgmilaakiplafr",
-"720p":"https://vcloud.zip/vifdugspqgdr5dq",
-"1080p":"https://vcloud.zip/-rcbcttubvbwudt",
-"year":"2026",
-"duration":"2h 53m",
-"rating":"7.6",
-"genre":"Adventure,Action,Fantasy",
-"description":"Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-"type":"movie",
-"cast":"Matt Damon,Tom Holland,Anne Hathaway,Robert Pattinson,Lupita Nyong&#39;o"
 },
     
 {

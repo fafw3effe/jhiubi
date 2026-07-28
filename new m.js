@@ -102,6 +102,23 @@ const movies = [
 },
 
 {
+"title":"Naan Sirithal [2020] WEB-DL [Hindi-English] | Full Movie",
+"im":"zLV0a7Mod9kyzvRluRi5dWP2An5",
+"bgi":"dGzp2A24k3FZYysIsa7lHEDl26R",
+"wo":"https://pub-bbff6e6d34c749a5b3fa81b43c281418.r2.dev/cd746f3c4361b7b3940205ee0a5fe62a?token=1785250675142",
+"480p":"https://vcloud.zip/9bhuheb1euex9h1",
+"720p":"https://vcloud.zip/solqclokc7qf7ds",
+"1080p":"https://vcloud.zip/eqgaz4bfawetao_",
+"year":"2020",
+"duration":"2h 18m",
+"rating":"5.7",
+"genre":"Comedy,Drama",
+"description":"A man suffers from a condition where he laughs uncontrollably under stressful conditions and it causes a lot of trouble for him until he seeks a strong solution for it.",
+"type":"movie",
+"cast":"HipHop Tamizha Adhi,Iswarya Menon,K. S. Ravikumar,Pandiarajan,Vijay Kumar"
+},
+
+{
 "title":"Hostel Hudugaru Bekagiddare [2023] WEB-DL [Hindi-English] | Full Movie",
 "im":"qUOYHFerIeMGrQWREX3UDrr3AaC",
 "bgi":"wQ7o2eJUvIeChQMGWlET4b9226t",

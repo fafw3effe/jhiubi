@@ -105,7 +105,7 @@ const movies = [
 "title":"Naan Sirithal [2020] WEB-DL [Hindi-English] | Full Movie",
 "im":"zLV0a7Mod9kyzvRluRi5dWP2An5",
 "bgi":"dGzp2A24k3FZYysIsa7lHEDl26R",
-"wo":"https://556138dca7367763ed46eecaa4284eca.r2.cloudflarestorage.com/hub2/Naan.Sirithal.2020.720p.AMZN.WEBRip.Hindi.DDP2.0-Tamil.DDP5.1.H.264-Vegamovies.hot.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=26b6cf8a0399b5880643f585c8c3dbe5%2F20260728%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260728T145755Z&X-Amz-Expires=10800&X-Amz-SignedHeaders=host&response-content-disposition=Naan.Sirithal.2020.720p.AMZN.WEBRip.Hindi.DDP2.0-Tamil.DDP5.1.H.264-Vegamovies.hot.mkv&X-Amz-Signature=ae0be4e976eadbc4e2827c73f9c31331c56b4d469abfd82d071197f9fe8a9564https://pub-bbff6e6d34c749a5b3fa81b43c281418.r2.dev/cd746f3c4361b7b3940205ee0a5fe62a?token=1785250675142",
+"wo":"https://pixeldrain.dev/u/pbrM8CzW",
 "480p":"https://vcloud.zip/9bhuheb1euex9h1",
 "720p":"https://vcloud.zip/solqclokc7qf7ds",
 "1080p":"https://vcloud.zip/eqgaz4bfawetao_",

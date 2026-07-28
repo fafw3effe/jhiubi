@@ -119,6 +119,23 @@ const movies = [
 },
 
 {
+"title":"Mollywood Times [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"zUBCBtMsQ8dxnhJhhng4C8U80IU",
+"bgi":"wQwbainQ5CtPWbnwXX144rMIS4E",
+"wo":"https://pub-f4ba9fb2017042968ec12c06f4b42344.r2.dev/ba5357a21974a41d09df4c321c816bbf?token=1785252372111",
+"480p":"https://vcloud.zip/420maftssz4h172",
+"720p":"https://vcloud.zip/e1iakklf7zb3ilg",
+"1080p":"https://vcloud.zip/ogdiik9fwmz9lyf",
+"year":"2026",
+"duration":"2h 47m",
+"rating":"5.8",
+"genre":"Comedy,Drama",
+"description":"Vineeth Madhavan tries hard to become Malayalam cinema's greatest horror filmmaker, but will the toxic industry affect his dream?",
+"type":"movie",
+"cast":"Naslen K. Gafoor,Roshan Shanavas,Althaf Salim,Sangeeth Prathap,Sharafudheen"
+},
+
+{
 "title":"Hostel Hudugaru Bekagiddare [2023] WEB-DL [Hindi-English] | Full Movie",
 "im":"qUOYHFerIeMGrQWREX3UDrr3AaC",
 "bgi":"wQ7o2eJUvIeChQMGWlET4b9226t",

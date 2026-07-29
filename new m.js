@@ -2073,10 +2073,10 @@ const movies = [
 },
 
 {
-"title":"Demon Slayer: Kimetsu no Yaiba Infinity Castle [2025] WEB-DL [japanese with subtitle] | Full Movie",
+"title":"Demon Slayer: Kimetsu no Yaiba Infinity Castle [2025] WEB-DL [hindi] | Full Movie",
 "im":"fWVSwgjpT2D78VUh6X8UBd2rorW",
 "bgi":"1RgPyOhN4DRs225BGTlHJqCudII",
-"wo":"https://pub-f4ba9fb2017042968ec12c06f4b42344.r2.dev/f20968635d173322f76a1be7783f44e2?token=1783692413151",
+"wo":"https://pub-bbff6e6d34c749a5b3fa81b43c281418.r2.dev/444381c83eb7eb68d57207839be153d1?token=178533455717",
 "480p":"https://vcloud.zip/wqjqolqbuw5vwra",
 "720p":"https://vcloud.zip/gjokgt2gjgk2tb1",
 "1080p":"https://vcloud.zip/gffqf-gmmq2sgns",

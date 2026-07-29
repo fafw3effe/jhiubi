@@ -85,6 +85,23 @@ const movies = [
 },
 
 {
+"title":"The Devil&amp;#39;s Mouth [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"lH8k9uCWYn2b2gsYleqYBDPbWa8",
+"bgi":"w8z3ThhLehGPJuAShostzeKxJvK",
+"wo":"https://pub-bbff6e6d34c749a5b3fa81b43c281418.r2.dev/cf520298e800cca4934cb8a0e9fd78e7?token=1785337998135",
+"480p":"https://vcloud.zip/qq-6y5rsskppmce",
+"720p":"https://vcloud.zip/8bpp1bpmxtaso1s",
+"1080p":"https://vcloud.zip/ajmbxxlh6rx2mwf",
+"year":"2026",
+"duration":"1h 46m",
+"rating":"6.0",
+"genre":"Horror,Thriller",
+"description":"Five college friends set off to explore the Devil's Mouth cave system in Thailand for one last adventure before life in the real world begins. But they soon discover that something is hunting them under the water… fast, silent, and deadly. In the suffocating darkness, trust erodes, panic spreads, and every wrong turn becomes a fight for survival.",
+"type":"movie",
+"cast":"Kathryn Newton,Lana Condor,Nico Hiraga,Gavin Casalegno,Tommi Rose"
+},
+
+{
 "title":"Maaman [2025] WEB-DL [Hindi-English] | Full Movie",
 "im":"a0BsRj9qQu8L2arBAHcbbfrVrB7",
 "bgi":"aSN6JVqci5QdzuUU5M8IJQ2RKG7",

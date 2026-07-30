@@ -1,6 +1,22 @@
 // Movies data 
 const movies = [ 
 
+{
+"title":"Spider-Man: Brand New Day [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"iPOn6DinuVyLY17YM9mKuPofV08",
+"bgi":"vjMvFSmGUxEtqVdaZgvFee9XkZl",
+"wo":"https://556138dca7367763ed46eecaa4284eca.r2.cloudflarestorage.com/hub2/SpiderMan-Brand.New.Day.2026.720p.V3-HDTC.HIN-ENG-LiNE.HC-ESub.x264-1VegaMovies.tw.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=26b6cf8a0399b5880643f585c8c3dbe5%2F20260730%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260730T143741Z&X-Amz-Expires=10800&X-Amz-SignedHeaders=host&response-content-disposition=SpiderMan-Brand.New.Day.2026.720p.V3-HDTC.HIN-ENG-LiNE.HC-ESub.x264-1VegaMovies.tw.mkv&X-Amz-Signature=3edc97133b900cf70d019ac5b24de809690479dbc870da4214a587b1092d5fc2",
+"480p":"https://mcloud.best/sbgek--nkvh-wcv",
+"720p":"https://mcloud.best/sbgek--nkvh-wcv",
+"1080p":"https://mcloud.best/lwh8la32gswelef",
+"year":"2026",
+"duration":"2h 25m",
+"rating":"8.0",
+"genre":"Science Fiction,Action,Adventure",
+"description":"Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+"type":"movie",
+"cast":"Tom Holland,Zendaya,Sadie Sink,Jacob Batalon,Jon Bernthal"
+},
 
 {
 "title":"Jana Nayagan [2026] WEB-DL [Hindi-English] | Full Movie",
@@ -85,7 +101,7 @@ const movies = [
 },
 
 {
-"title":"The Devil&amp;#39;s Mouth [2026] WEB-DL [Hindi-English] | Full Movie",
+"title":"The Devil's Mouth [2026] WEB-DL [Hindi-English] | Full Movie",
 "im":"lH8k9uCWYn2b2gsYleqYBDPbWa8",
 "bgi":"w8z3ThhLehGPJuAShostzeKxJvK",
 "wo":"https://pub-bbff6e6d34c749a5b3fa81b43c281418.r2.dev/cf520298e800cca4934cb8a0e9fd78e7?token=1785337998135",

@@ -5,7 +5,7 @@ const movies = [
 "title":"Spider-Man: Brand New Day [2026] WEB-DL [Hindi-English] | Full Movie",
 "im":"iPOn6DinuVyLY17YM9mKuPofV08",
 "bgi":"vjMvFSmGUxEtqVdaZgvFee9XkZl",
-"wo":"https://556138dca7367763ed46eecaa4284eca.r2.cloudflarestorage.com/hub2/SpiderMan-Brand.New.Day.2026.720p.V3-HDTC.HIN-ENG-LiNE.HC-ESub.x264-1VegaMovies.tw.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=26b6cf8a0399b5880643f585c8c3dbe5%2F20260730%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260730T143741Z&X-Amz-Expires=10800&X-Amz-SignedHeaders=host&response-content-disposition=SpiderMan-Brand.New.Day.2026.720p.V3-HDTC.HIN-ENG-LiNE.HC-ESub.x264-1VegaMovies.tw.mkv&X-Amz-Signature=3edc97133b900cf70d019ac5b24de809690479dbc870da4214a587b1092d5fc2",
+"wo":"https://pub-799a17e2babb4d3d8479a2bdbe656e30.r2.dev/d8d3b50bd09a1acf89d88e5c3771d9c6?token=1785461219",
 "480p":"https://mcloud.best/sbgek--nkvh-wcv",
 "720p":"https://mcloud.best/sbgek--nkvh-wcv",
 "1080p":"https://mcloud.best/lwh8la32gswelef",

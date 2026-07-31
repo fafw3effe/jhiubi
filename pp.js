@@ -133,7 +133,7 @@
             <div class='container'>
                 <div class='top-buttons'>
                     <button class='top-btn' onclick="window.location.href='/'"><i class='fas fa-home'></i> Home</button>
-                    <button class='top-btn' onclick='window.open("t.me/pptonindia", "_blank")'><i class='fab fa-telegram'></i> Telegram</button>
+                    <button class='top-btn' onclick='window.open("https://t.me/pptonindia", "_blank")'><i class='fab fa-telegram'></i> Telegram</button>
                 </div>
                 <div class='movie-grid' id='movieList'></div>
                 <div id='loaderContainer' class='loader-container' style='display: none;'><div class='loader'></div></div>
@@ -348,7 +348,7 @@ const castHtml = toTags(movie.cast, '🎭', 3);
             <div class="movie-detail-container">
                 <div class="top-buttons" style="justify-content:flex-start;">
 <button class="top-btn" onclick="window.location.href='/'"><i class="fas fa-arrow-left"></i> Back</button>
-                    <button class="top-btn" onclick='window.open("t.me/pptonindia", "_blank")'><i class='fab fa-telegram'></i> Telegram</button>
+                    <button class="top-btn" onclick='window.open("https://t.me/pptonindia", "_blank")'><i class='fab fa-telegram'></i> Telegram</button>
                 </div>
                 <div class="movie-detail-card">
                     ${mediaHtml}

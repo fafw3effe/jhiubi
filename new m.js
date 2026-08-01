@@ -135,6 +135,23 @@ const movies = [
 },
 
 {
+"title":"Bhai Tera Star Hai [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"pOvjcDHftVa6SJk2DmAm1cD0YOb",
+"bgi":"epZxybfKydZxLNqCHZRpjenAkDS",
+"wo":"https://556138dca7367763ed46eecaa4284eca.r2.cloudflarestorage.com/hub2/Bhai.Tera.Star.Hai.2026.720p.HDTC.Hindi.AAC2.0.x264.HC-ESubs-1vegamovies.tw.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=26b6cf8a0399b5880643f585c8c3dbe5%2F20260801%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260801T031307Z&X-Amz-Expires=10800&X-Amz-SignedHeaders=host&response-content-disposition=Bhai.Tera.Star.Hai.2026.720p.HDTC.Hindi.AAC2.0.x264.HC-ESubs-1vegamovies.tw.mkv&X-Amz-Signature=37383daf9cae1c54f5954e37e87056277498e31517e9c468350bbc0a056fe7cb",
+"480p":"https://vcloud.zip/c_wt1ajh1pffvwu",
+"720p":"https://vcloud.zip/f7pfe-eg8pkgk8g",
+"1080p":"https://vcloud.zip/25xfm0uqv501f2m",
+"year":"2026",
+"duration":"",
+"rating":"0.0",
+"genre":"Comedy",
+"description":"We don't have an overview translated in English. Help us expand our database by adding one.",
+"type":"movie",
+"cast":"Raghav Juyal,Sanjay Kapoor,Niharika NM,Vikalp Mehta,Barkha Singh"
+},
+
+{
 "title":"Maaman [2025] WEB-DL [Hindi-English] | Full Movie",
 "im":"a0BsRj9qQu8L2arBAHcbbfrVrB7",
 "bgi":"aSN6JVqci5QdzuUU5M8IJQ2RKG7",

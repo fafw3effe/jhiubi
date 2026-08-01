@@ -241,7 +241,7 @@ const movies = [
 "title":"Musafir Cafe [Season 1] WEB-DL [Hindi-English] | All Episodes",
 "im":"1SbKjtoRKIpVQG5iYnumnfQIqhd",
 "bgi":"mQFlpu6IH7dRIjLYZbflzn4H6uV",
-"S1E1":"https://vcloud.zip/gtofufdufjvjzlw","S1E2":"https://vcloud.zip/wasntawouom3tax","S1E3":"https://vcloud.zip/uwak91f0_9cw2_j","S1E4":"https://vcloud.zip/tfsduk2w_k2iun8","S1E5":"https://vcloud.zip/hmzzwz5mvoaohbv","S1E6":"https://vcloud.zip/p2vidhjvxd1i11v","S1E7":"https://vcloud.zip/vmmecce_vk2vhcd","S1E8":"https://vcloud.zip/sp9nedsdnn_x9v_",
+"S1E1":"https://vcloud.zip/826iedccid2d2n2","S1E2":"https://vcloud.zip/kjelbujkx_ublgk","S1E3":"https://vcloud.zip/iygkkpzkkoqirii","S1E4":"https://vcloud.zip/nmlmez1e14cycc8","S1E5":"https://vcloud.zip/ihemj_inifndoxn","S1E6":"https://vcloud.zip/cjonui5yvktq1_9","S1E7":"https://vcloud.zip/o66757--qqow41o","S1E8":"https://vcloud.zip/8pufhoxkkpdfu4l",
 "year":"2026",
 "duration":"1h per episode",
 "rating":"0.0",

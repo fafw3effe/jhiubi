@@ -5511,17 +5511,19 @@ const movies = [
 },
 {
 "title":"Elio [2025] WEB-DL [Hindi-English] | Full Movie",
-"im":"w2ARwtc1zoh0pyfwmyhpZHwuXgK",
-"bgi":"mBDoBHUZHHy9WG7dRFndjB8adhc",
-"Server 1":"https://pixeldrain.dev/u/6xQFLHu6?download",
-"Server 2":"https://hubcloud.fyi/drive/zzjzcuppcrsejee",
+"im":"7z8jDiTZZco9moIKpTUImFtTy7o",
+"bgi":"ukPu5xYOBAnh5H46uK4aQOirW2b",
+"wo":"https://pub-49f66803e6de43978aceb51d29821c2e.r2.dev/4cf1f86aa4ea4d520e638b46b0206dd6?token=1785601509110",
+"480p":"https://vcloud.zip/8btltitbuurftrl",
+"720p":"https://vcloud.zip/3rwcefke1jxtjon",
+"1080p":"https://vcloud.zip/zewf4szy3cwck1k",
 "year":"2025",
-"duration":"1h 39m",
-"rating":"6.8",
-"genre":"Family,Comedy,Adventure,Animation,Science Fiction",
-"description":"Elio, a space fanatic with an active imagination, finds himself on a cosmic misadventure where he must form new bonds with eccentric alien lifeforms, ...",
+"duration":"1h 38m",
+"rating":"6.9",
+"genre":"Animation,Adventure,Science Fiction,Family,Comedy",
+"description":"Elio, a space fanatic with an active imagination, finds himself on a cosmic misadventure where he must form new bonds with eccentric alien lifeforms, navigate a crisis of intergalactic proportions and somehow discover who he is truly meant to be.",
 "type":"movie",
-"cast":"Yonas Kibreab,Zoe Saldaña,Remy Edgerly,Brandon Moon,Brad Garrett"
+"cast":"Yonas Kibreab,Remy Edgerly,Zoe Saldaña,Brad Garrett,Brandon Moon"
 },
 
 

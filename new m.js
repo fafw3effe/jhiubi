@@ -84,6 +84,23 @@ const movies = [
 },
 
 {
+"title":"Mardi Gras: Spring Break [2011] WEB-DL [Hindi-English] | Full Movie",
+"im":"lFcWzKt2Sbt8GRJGHvSWkbHulU2",
+"bgi":"uUogHb46ykdT5GdvjrTIKdyoYb4",
+"wo":"https://556138dca7367763ed46eecaa4284eca.r2.cloudflarestorage.com/hub2/Mardi.Gras.Spring.Break.2011.720p.WEB-DL.HIN-ENG.x264.ESub-1vegamovies.tw.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=26b6cf8a0399b5880643f585c8c3dbe5%2F20260801%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260801T030645Z&X-Amz-Expires=10800&X-Amz-SignedHeaders=host&response-content-disposition=Mardi.Gras.Spring.Break.2011.720p.WEB-DL.HIN-ENG.x264.ESub-1vegamovies.tw.mkv&X-Amz-Signature=e6f58f0910c9b0b4e35cec84036f8bb62321ddaef363ec862f07d8cfa9111d20",
+"480p":"https://vcloud.zip/vk_kvwgj7f2l-1k",
+"720p":"https://vcloud.zip/pthih0nnwmxmwnk",
+"1080p":"https://vcloud.zip/s-7qvogd7oikpki",
+"year":"2011",
+"duration":"1h 28m",
+"rating":"5.6",
+"genre":"Comedy",
+"description":"For three college guys, it’s senior year and the co-ed experience has left them high and dry. Their solution: A road trip to Mardi Gras, where beautiful babes are happy to lift their shirts and open containers are always welcome. But after dressing in drag, breaking into Carmen Electra’s hotel room, starring in a scandalous sex show and accidentally exploding a feces bomb in a swank hotel lobby, will the Mardi Gras magic kick in and their wildest fantasies come true?",
+"type":"movie",
+"cast":"Nicholas D&#39;Agosto,Josh Gad,Bret Harrison,Danneel Ackles,Arielle Kebbel"
+},
+
+{
 "title":"Ghost Train [2025] WEB-DL [Hindi-English] | Full Movie",
 "im":"rOTXYy5ScOHdaC2YMQowVwQex5s",
 "bgi":"3oHIkNt8dM6gH4IDKG5W121OT2T",

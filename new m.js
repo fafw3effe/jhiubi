@@ -70,6 +70,37 @@ const movies = [
 },
 
 {
+"title":"Gatta Kusthi 2 [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"5U8MWIk9XZ60NALyOTpyX7vXIR7",
+"bgi":"nLMUoZn09tjeqae7lzK3x9Wf84V",
+"wo":"https://pub-799a17e2babb4d3d8479a2bdbe656e30.r2.dev/70dd8773ef9863e030ebf75f34c5259b?token=1785775405128",
+"480p":"https://vcloud.zip/hvbfobuwbvn1wbp",
+"720p":"https://vcloud.zip/bfy9b4717iv7i1z",
+"1080p":"https://vcloud.zip/p8mese0h4hh7jj4",
+"year":"2026",
+"duration":"2h 33m",
+"rating":"2.8",
+"genre":"Comedy,Drama",
+"description":"Picks up after the first film, with Veera and Keerthi balancing parenthood and Keerthi's wrestling career, featuring a role reversal where Veera takes on more domestic responsibilities.",
+"type":"movie",
+"cast":"Vishnu Vishal,Aishwarya Lekshmi,Zara Zyanna,Karunas,Munishkanth"
+},
+
+{
+"title":"Khatron Ke Khiladi [Season 15] WEB-DL [Hindi-English] | All Episodes",
+"im":"wjsALDD7siA1aka8cHQDfIsAVbG",
+"bgi":"6dBJ8KW0U2yRB6Uzo1CRc3Q2Uww",
+"S15E1":"https://vcloud.zip/9soqa2qjsa-a4jt","S15E2":"https://vcloud.zip/oxugxxh8goxc-jr",
+"year":"2008",
+"duration":"1h per episode",
+"rating":"6.0",
+"genre":"Reality",
+"description":"Twelve celebrity contestants face their worst fears and perform a series of death-defying stunts under the supervision of a host to win the coveted title.",
+"type":"series",
+"cast":"Rohit Shetty,Akshay Kumar,Faisal Shaikh,Dino James,Nyra Banerjee"
+},
+
+{
 "title":"Agent Kim Reactivated [Season 1] WEB-DL [Hindi-English] | All Episodes",
 "im":"jruaZAm1KjkFRhgRcdF8tqakhpH",
 "bgi":"g1LJLlmWP74zv9yXKEXm7g9p10O",
@@ -1625,7 +1656,7 @@ const movies = [
 "im":"hRMpjPcg3P4wsdCl61KNXum1Itf",
 "bgi":"h3E2I2etWs5l7OCsRLU9Bz3cSnK",
 "S2E1":"https://vcloud.zip/7ad9x-10duaex7i","S2E2":"https://vcloud.zip/u177u33siqvdtku","S2E3":"https://vcloud.zip/3apixpu1ybdab1a","S2E4":"https://vcloud.zip/woeseps_esjp1xp","S2E5":"https://vcloud.zip/19g2acsc-2vk1ww",
-"year":"2022","S2E6":"https://vcloud.zip/5cxw0_pd29pmtxv","S2E7":"https://vcloud.zip/k2nedetgimmewz-","S2E8":"https://vcloud.zip/4zjhewzhonbn4uh","S2E9":"https://vcloud.zip/uyevbeflghglkyu","S2E10":"https://vcloud.zip/5ryj5pilgxbxggw","S2E11":"https://vcloud.zip/g0adym0ed5_q5us","S2E12":"https://vcloud.zip/qgnv1v6bfrm4m7q","S2E13":"https://vcloud.zip/wqu1u-bvuzbvu1u","S2E14":"https://vcloud.zip/k333zjv8ep7b7ma","S2E15":"https://vcloud.zip/uyzzh00k0d6xy0x","S2E16":"https://vcloud.zip/ckmkthtf111f_ll","S2E17":"https://vcloud.zip/gfhbnfj1bpfh_nd","S2E18":"https://vcloud.zip/e4qz0vqhp2o0nfr","S2E19":"https://vcloud.zip/_7u6m6v15mnrrkg","S2E20":"https://vcloud.zip/t94zxin8yl6yu4x","S2E21":"https://vcloud.zip/vbzwnvmt7cwqczy","S2E22":"https://vcloud.zip/qiqgnqtfcfrt8vv","S2E23":"https://vcloud.zip/okkavdojikilili",
+"year":"2022","S2E6":"https://vcloud.zip/5cxw0_pd29pmtxv","S2E7":"https://vcloud.zip/k2nedetgimmewz-","S2E8":"https://vcloud.zip/4zjhewzhonbn4uh","S2E9":"https://vcloud.zip/uyevbeflghglkyu","S2E10":"https://vcloud.zip/5ryj5pilgxbxggw","S2E11":"https://vcloud.zip/g0adym0ed5_q5us","S2E12":"https://vcloud.zip/qgnv1v6bfrm4m7q","S2E13":"https://vcloud.zip/wqu1u-bvuzbvu1u","S2E14":"https://vcloud.zip/k333zjv8ep7b7ma","S2E15":"https://vcloud.zip/uyzzh00k0d6xy0x","S2E16":"https://vcloud.zip/ckmkthtf111f_ll","S2E17":"https://vcloud.zip/gfhbnfj1bpfh_nd","S2E18":"https://vcloud.zip/e4qz0vqhp2o0nfr","S2E19":"https://vcloud.zip/_7u6m6v15mnrrkg","S2E20":"https://vcloud.zip/t94zxin8yl6yu4x","S2E21":"https://vcloud.zip/vbzwnvmt7cwqczy","S2E22":"https://vcloud.zip/qiqgnqtfcfrt8vv","S2E23":"https://vcloud.zip/okkavdojikilili","S2E24":"https://vcloud.zip/a9xtkdubku-sq9u","S2E25":"https://vcloud.zip/bhosdx18nwsmwng","S2E26":"https://vcloud.zip/n7nikuxkzjz00et","S2E27":"https://vcloud.zip/bu0uhwrsjowvx-w","S2E28":"https://vcloud.zip/xdkxp0g0orwf2dd","S2E29":"https://vcloud.zip/rm0w-rrm55lexu-","S2E30":"https://vcloud.zip/me9yfed4ldlf1f5","S2E31":"https://vcloud.zip/rgnib8lf1jv1vb1","S2E32":"https://vcloud.zip/nseqe-1geeeog5r",
 "duration":"1h per episode",
 "rating":"8.3",
 "genre":"Reality",

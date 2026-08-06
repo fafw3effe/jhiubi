@@ -1,6 +1,37 @@
 // Movies data 
 const movies = [ 
 
+
+
+{
+"title":"A Shop for Killers [Season 2] WEB-DL [Hindi-English] | All Episodes",
+"im":"7yUY1HUyQuybbvkAAhLzQ7x1l9g",
+"bgi":"mWVeYmtCfA3zvSeZtW5bN2Khe01",
+"S2E1":"https://vcloud.zip/1ofu0ow0o3oeuot","S2E2":"https://vcloud.zip/k1gknthgslbkvgk","S2E3":"https://vcloud.zip/ncaoouzcycs526a","S2E4":"https://vcloud.zip/rp5bhcplprg5hhh","S2E5":"https://vcloud.zip/a7rbm1afrva1vr2","S2E6":"https://vcloud.zip/fdfhyw-qccxwcjn",
+"year":"2024",
+"duration":"1h per episode",
+"rating":"8.4",
+"genre":"Drama,Action & Adventure,Mystery",
+"description":"A niece who lost her parents and grew up in the hands of an uncle who runs a shopping mall faces a new truth after her uncle's sudden death.",
+"type":"series",
+"cast":"Lee Dong-wook,Kim Hye-jun,Geum Hannah,Min Kim,Lee Tae-young"
+},
+
+
+{
+"title":"A Shop for Killers [Season 1] WEB-DL [Hindi-English] | All Episodes",
+"im":"7yUY1HUyQuybbvkAAhLzQ7x1l9g",
+"bgi":"mWVeYmtCfA3zvSeZtW5bN2Khe01",
+"S1E1":"https://vcloud.zip/x6bvyjvyoy1yooh","S1E2":"https://vcloud.zip/xgz54utdxgpxklb","S1E3":"https://vcloud.zip/l7671kln1ll7vgd","S1E4":"https://vcloud.zip/sidv8mmk7vdzyia","S1E5":"https://vcloud.zip/c-c584essezhs5e","S1E6":"https://vcloud.zip/izd3lvjsbz3bt1a","S1E7":"https://vcloud.zip/ttmu9tvjtpiacjr","S1E8":"https://vcloud.zip/vdwd7voen1sn7sw",
+"year":"2024",
+"duration":"1h per episode",
+"rating":"8.4",
+"genre":"Drama,Action & Adventure,Mystery",
+"description":"A niece who lost her parents and grew up in the hands of an uncle who runs a shopping mall faces a new truth after her uncle's sudden death.",
+"type":"series",
+"cast":"Lee Dong-wook,Kim Hye-jun,Geum Hannah,Min Kim,Lee Tae-young"
+},
+
 {
 "title":"Spider-Man: Brand New Day [2026] WEB-DL [Hindi-English] | Full Movie",
 "im":"iPOn6DinuVyLY17YM9mKuPofV08",

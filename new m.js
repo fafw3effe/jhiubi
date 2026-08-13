@@ -118,6 +118,40 @@ const movies = [
 },
 
 {
+"title":"Patriot [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"5LHrtudEt6Mh6VlfGHoYqqjVOHV",
+"bgi":"AwblJCrdjWvJ5Kv80Aw6A19NoKP",
+"wo":"https://pub-9bd2f279ccfc49ac89b3d87bd8d540f8.r2.dev/62458bdf61feffce1159ed736fb0c2d4?token=1786633563151",
+"480p":"https://vcloud.fit/7fffeiiqaaoucfq",
+"720p":"https://vcloud.fit/f1wbwyqgaqh0qym",
+"1080p":"https://vcloud.fit/cgg4avz1be8ks1b",
+"year":"2026",
+"duration":"2h 57m",
+"rating":"6.7",
+"genre":"Action,Drama,Thriller",
+"description":"When a Malayali DRW analyst tries to expose a corrupt regional politician from Kerala and his malpractices regarding spyware, he goes on the run, becomes a vlogger, and must clear his name of the false allegations levelled against him.",
+"type":"movie",
+"cast":"Mammootty,Mohanlal,Fahadh Faasil,Kunchacko Boban,Nayanthara"
+},
+{
+"title":"Aakhri Sawal [2026] WEB-DL [Hindi-English] | Full Movie",
+"im":"9CXBZH6sRJpFTMSaY3wj1jx98F4",
+"bgi":"akZ9jTTzvBOx3CeTVCo9WyhxL5q",
+"wo":"https://pub-bf3f21c20add43478abc1b8b3159789d.r2.dev/6941ae590eaaa2e759ff950eea0b813d?token=1786632716152",
+"480p":"https://vcloud.fit/h1hbsaa1jah7srb",
+"720p":"https://vcloud.fit/ajjp3zbrelaypwe",
+"1080p":"https://vcloud.fit/us16q3f57sgu7q5",
+"year":"2026",
+"duration":"2h 30m",
+"rating":"1.0",
+"genre":"Drama,Thriller",
+"description":"Vicky, a brilliant but volatile scholar who ignites a national firestorm when he publicly accuses his legendary mentor, Professor Gopal Nadkarni, of institutional bias. What begins as a faculty dispute is quickly hijacked by a sensationalist news anchor and an ambitious political activist, turning a private disagreement into a televised intellectual trial watched by millions.",
+"type":"movie",
+"cast":"Sanjay Dutt,Namashi Chakraborty,Amit Sadh,Tridha Choudhury,Sameera Reddy"
+},
+
+
+{
 "title":"Khatron Ke Khiladi [Season 15] WEB-DL [Hindi-English] | All Episodes",
 "im":"wjsALDD7siA1aka8cHQDfIsAVbG",
 "bgi":"6dBJ8KW0U2yRB6Uzo1CRc3Q2Uww",

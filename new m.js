@@ -729,7 +729,7 @@ const movies = [
 "title":"Minions &amp;amp; Monsters [2026] WEB-DL [Hindi-English] | Full Movie",
 "im":"nz7i42yhLIJ4ve9JKgM6NthoLHO",
 "bgi":"kkcwhgSFd81QDlXo8ytrpHPQjhy",
-"wo":"https://pub-bf3f21c20add43478abc1b8b3159789d.r2.dev/ef3566de149ba15686030f43a7f0bdd3?token=1786634974114",
+"wo":"https://pixeldrain.dev/u/vwigtGTh",
 "480p":"https://vcloud.fit/qxyzzn53nvuc1cy",
 "720p":"https://vcloud.fit/gbgyb404194cpcq",
 "1080p":"https://vcloud.fit/w9hw1cooz15dycz",

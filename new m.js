@@ -726,7 +726,7 @@ const movies = [
 },
 
 {
-"title":"Minions &amp;amp; Monsters [2026] WEB-DL [Hindi-English] | Full Movie",
+"title":"Minions and Monsters [2026] WEB-DL [Hindi-English] | Full Movie",
 "im":"nz7i42yhLIJ4ve9JKgM6NthoLHO",
 "bgi":"kkcwhgSFd81QDlXo8ytrpHPQjhy",
 "wo":"https://pub-bf3f21c20add43478abc1b8b3159789d.r2.dev/8ef161c20fb30a1a5b2d5d734c13fbc9",

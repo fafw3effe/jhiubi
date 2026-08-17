@@ -104,7 +104,7 @@ const movies = [
 "title":"Gatta Kusthi 2 [2026] WEB-DL [Hindi-English] | Full Movie",
 "im":"5U8MWIk9XZ60NALyOTpyX7vXIR7",
 "bgi":"nLMUoZn09tjeqae7lzK3x9Wf84V",
-"wo":"https://pub-799a17e2babb4d3d8479a2bdbe656e30.r2.dev/70dd8773ef9863e030ebf75f34c5259b?token=1785775405128",
+"wo":"https://pub-799a17e2babb4d3d8479a2bdbe656e30.r2.dev/b1bf7b3d01ea62e1a9171857c0e2ce85",
 "480p":"https://vcloud.zip/hvbfobuwbvn1wbp",
 "720p":"https://vcloud.zip/bfy9b4717iv7i1z",
 "1080p":"https://vcloud.zip/p8mese0h4hh7jj4",

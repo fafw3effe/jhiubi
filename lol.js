@@ -1,4 +1,4 @@
-<script>
+
 //<![CDATA[
 (function () {
   "use strict";
@@ -58,4 +58,4 @@
   else document.addEventListener("DOMContentLoaded", startObs);
 })();
 //]]>
-</script>
+
